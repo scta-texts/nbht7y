@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 16</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 16</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="611"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1618"><!-- nbht7y-l4t16 -->
+            <head xml:id="nbht7y-d1e1618-Hd1e101">Titulus 16</head>
+            <head xml:id="nbht7y-d1e1618-Hd1e103" type="question-title">De matrimonio contracto contra interdictum ecclesiae</head>
+            <p xml:id="nbht7y-d1e1618-d1e106">
+               <lb ed="#C" n="13"/>De Matrimonio contracto, contr. 
+      <lb ed="#C" n="14"/>interdictum ecclesiae. Rubr. XVI. 
+    </p>
+            <p xml:id="nbht7y-d1e1618-d1e113">
+               <lb ed="#C" n="15"/>SUMMARIA, 
+      <lb ed="#C" n="16"/>1 Interdictum quid sit. &amp; a quo fieri possit. 2 
+      <lb ed="#C" n="17"/>3 Matrimonium contractum contra inmterdictum ecclesiae, ani
+    </p>
+            <p xml:id="nbht7y-d1e1618-d1e122">
+               <lb ed="#C" n="18"/>POst alia impedimenta matrimoni 
+      <lb ed="#C" n="19"/>consequenter est de ecclesi¬ 
+      <lb ed="#C" n="20"/>interdicto videndum quod generaliter in 
+      <lb ed="#C" n="21"/>pedit, sed non dirimit. hîc igitur videndum 
+      <lb ed="#C" n="22"/>occurrit. Quid sit ecclesiae interdictum 
+      <lb ed="#C" n="23"/>quo fieri possit, Quid juris sit de matrimonio contr¬ 
+      <lb ed="#C" n="24"/>interdictum ecclesiae contracto 
+    </p>
+            <p xml:id="nbht7y-d1e1618-d1e141">
+               <lb ed="#C" n="25"/>Quid sit ecclesia interdictum Prohibitio 
+      con<lb ed="#C" n="26" break="no"/>tractus matrimonialis, sive 
+      <lb ed="#C" n="27"/>praeceptum prohibitorie factum: scilicet quando proh 
+      <lb ed="#C" n="28"/>bet, ne quid fiat. hoc enim interdictum ab interdicend 
+      <lb ed="#C" n="29"/>dicitur: secus ab interdictis civilibus. nam illa ideo inter 
+      <lb ed="#C" n="30"/>dicta vocantur, quia inter duos dantur: ut Inst. de interdie 
+      <lb ed="#C" n="31"/>2 §. sunt qui putan 
+    </p>
+            <p xml:id="nbht7y-d1e1618-d1e159">
+               <lb ed="#C" n="32"/>A quo fieri, possit Et quidem aliquando sit 
+      <lb ed="#C" n="33"/>canone, scilicet quando P. 
+      <lb ed="#C" n="34"/>pa ex certa scientia constitutionem faciendo prohibe 
+      <lb ed="#C" n="35"/>contrahi matrimonium, &amp; hoc aliquando inducit tempe 
+      <lb ed="#C" n="36"/>rale impedimentum, &amp; tunc impedit matrimonium, se¬ 
+      <lb ed="#C" n="37"/>non dirimit. exemplum infra eod. §. quid juris. de matrim 
+      <lb ed="#C" n="38"/>nio. vers. si temporalis. Aliquando vero inducit impedimer 
+      <lb ed="#C" n="39"/>tum perpetuum. &amp; tale interdictum impedit &amp; dirimit. 8 
+      <lb ed="#C" n="40"/>de tali loquitur 35. q3. contradicimus. &amp; supra de consangui. e 
+      <lb ed="#C" n="41"/>a ffin. non debet. aliquando judex, qui de hac causa cogno 
+      <lb ed="#C" n="42"/>scere potest. cum enim matrimonium magnum sacram 
+      <lb ed="#C" n="43"/>tum sit in ecclesia Dei, ut sup de spon. duo c.I. de biga. debitur 
+      <lb ed="#C" n="44"/>non potest de ipso cognoscere de jure communi, nisi sit: 
+      <lb ed="#C" n="45"/>piscopus. Sed quaestiones super eo motae ad ipsum erun 
+      <lb ed="#C" n="46"/>perferendae. ut 35. dist. perlectis. vel ad officialem suum, qu 
+      <lb ed="#C" n="47"/>vocatur missus, vel ab eo specialiter delegatum, ut supra ad 
+      <lb ed="#C" n="48"/>frigi. &amp; malefic. c.i.de reg. c2. &amp; de institutionibus ex frequentil 
+      <lb ed="#C" n="49"/>querelis. &amp; infra cod c2. sed &amp; capitulum. Archidiaconus, Ai 
+      <lb ed="#C" n="50"/>chipresbyter, Abbas, vel alius minister ecclesiae ex special 
+      <lb ed="#C" n="51"/>mandato episcopi, vel consuetudine praescripta hoc pe 
+      <lb ed="#C" n="52"/>test. aliter non. sic intellige sup. de test. Albericus. &amp; de testi, co 
+      <lb ed="#C" n="53"/>praeterea. &amp; quia hae duae decr dicunt, sc, capitulum cogno 
+      <lb ed="#C" n="54"/>scere posse, intelligi potest generaliter sede vacante, tun 
+      <lb ed="#C" n="55"/>quia succedit in jurisdictione, tum propter periculum 
+      <lb ed="#C" n="56"/>nimae supra de major. &amp; obed, cum olim. &amp; ut lit. non conte. que 
+      <lb ed="#C" n="57"/>niam. in fin §. 1. &amp; infra de haere. ad abolendum. respons. I. sed in a 
+      <lb ed="#C" n="58"/>liis servatur consuetudo vel privilegium speciale. ut supr 
+      <lb ed="#C" n="59"/>de frigid. fraternitatis. respons.i. &amp; de restitu. spol. literas. respons. 
+      <lb ed="#C" n="60"/>infra de exces prael. accidentib. &amp; supra de consang. &amp; affin.c.i.er 
+      <lb ed="#C" n="61"/>go non potest fieri interdictum, nisi ab illo, qui de hac cat 
+      <lb ed="#C" n="62"/>sa cognoscere potest, secund. Dama. sed male dixit, quiae 
+      <lb ed="#C" n="63"/>a parochiali sacerdote fieri potest, ut patet supr. de clandest 
+      <lb ed="#C" n="64"/>despons. cum inhibitio &amp; tamen talis cognoscere non potes 
+      <lb ed="#C" n="65"/>ut patet ex praemissis. duo enim requiruntur ad hoc, ut 
+      <lb ed="#C" n="66"/>liquis de hac causa cognoscat, scil. quod possit judicare, e 
+      <lb ed="#C" n="67"/>sciat judicare, ut sup. de consang. &amp; afti.c...in sin. quod quidan 
+      <lb ed="#C" n="68"/>intelligunt saltem per experientiam, quamvis canone 
+      <lb ed="#C" n="69"/>ignorant. ar. C. de jud. certi. &amp; in auth. de jud. resp. 1. &amp; §. 1. colo 
+      <lb ed="#C" n="70"/>quuod mihi non placet, quia hîc tractatur de periculo an 
+      <lb ed="#C" n="71"/>mae, aliud ergo de fundo. unde consulo episcopo idiota 
+      <lb ed="#C" n="72"/>ut perito deleget, idem etiam si nescit consulere peccate 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0628.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="73"/>ri, &amp; sicut spiritualis Judex debet esse cautus &amp; discretus 
+      <lb ed="#C" n="74"/>ut infra de poeni. Deus qui. resp.1. &amp; c. offi. in fin. &amp; c. omnis utrius 
+      <lb ed="#C" n="75"/>que sexus §. sacerdos. Quid ergo, si is qui nescit. sed idiota ess 
+      <lb ed="#C" n="76"/>fert sententiam? Videtur sententia lata a non suo judice 
+      <lb ed="#C" n="77"/>ergo non valet, ut de consuet. c. 3. &amp; de jud at si clerici. &amp; C. si¬ 
+      <lb ed="#C" n="78"/>non competenti judice. I. sinal. &amp; sic ipso jure nulla. examine 
+      <lb ed="#C" n="79"/>tur ergo Judex, &amp; si nescit respondere, apparet ipsum nor 
+      <lb ed="#C" n="80"/>fore judicem: de hoc enim aliter constare non poterit. ar 
+      <lb ed="#C" n="81"/>gum. supra de elect. congregato. &amp; de aetat. &amp; qualit, cum sit ar 
+      <lb ed="#C" n="82"/>artium. &amp; cap. ultim. nec enim est deleganda, nisi perito 8 
+      <lb ed="#C" n="83"/>exercitato. 21. distin. §. 1. &amp; 3. 4. 2.c. ult. &amp; de poen. distinct. 6.c.i. sec 
+      <lb ed="#C" n="84"/>non puto, quod propter hoc solum sit irrita sententia, ei 
+      <lb ed="#C" n="85"/>quo habet potestatem judicandi, quamvis scientiam nor 
+      <lb ed="#C" n="86"/>habet, nec etiam irritanda, nisi probato errore, sed tun 
+      <lb ed="#C" n="87"/>bene irritabitur. arg. supra de frigid fraternitatis. §. 1. &amp; in fin 
+      <lb ed="#C" n="88"/>infra de sem. &amp; re jud. tenor. lator. consanguinei. &amp; noc intelli 
+      <lb ed="#C" n="89"/>go, tam de errore facti, quam juris, &amp; secundum hoc quo 
+      <lb ed="#C" n="90"/>dixi supr. quod alius non potest de hac causa cognoscere 
+      <lb ed="#C" n="91"/>nisrqui habet potestatem &amp; scientiam: exponendum est 
+      <lb ed="#C" n="92"/>non potest, id est,. non debet &amp; sic est consilium: sed si nor 
+      <lb ed="#C" n="93"/>habet potestatem, tunc nullo modo potest, imo irrita est 
+      <lb ed="#C" n="94"/>ut supra dixi, quia non a suo Judice lata, &amp; secundum ho 
+      <lb ed="#C" n="95"/>illud verbum, potest positum, supra de consang. &amp; affin. c. I. i. 
+      <lb ed="#C" n="96"/>sin. proprie &amp; improprie tenetur: proprie, respectu pote 
+      <lb ed="#C" n="97"/>statis: &amp; improprie respectu scientiae &amp; junge quod nota 
+      <lb ed="#C" n="98"/>infra de poen. sub rubr. de remissionib. §1
+    </p>
+            <p xml:id="nbht7y-d1e1618-d1e311">
+               <lb ed="#C" n="99"/>Quid juris, sit de matrimonio contra interdictu 
+      <lb ed="#C" n="100"/>ecclesiae contracto. &amp; quidem au 
+      <lb ed="#C" n="101"/>interdictum fit sine causa. &amp; tunc nullum est interdictum 
+      <lb ed="#C" n="102"/>arg. infra de accir. cum dilecti. §. 1. quia sine causa nolenten 
+      <lb ed="#C" n="103"/>transigere praetor neminem audiet. ff. de transact. cum hi. § 
+      <lb ed="#C" n="104"/>vult igituroratio. &amp; arg. 23. q. 8. accidit. &amp; in his quae not, supr. 
+      <lb ed="#C" n="105"/>de libell. oblat §. quid debeat. vers. in personalibus aut cum cau 
+      <lb ed="#C" n="106"/>sa. &amp; tunc subdistingu. quia aut causa est temporalis, au 
+      <lb ed="#C" n="107"/>perpetua. Si temporalis, puta interdicitur, ne contraha 
+      <lb ed="#C" n="108"/>tur propter ferias. non est contrahendum matrimonium 
+      <lb ed="#C" n="109"/>contractum tamen tenet. de hoc not. supra de fer §. quid no 
+      <lb ed="#C" n="110"/>versic. item licet matrimonium. &amp; nota. quod in hoc casu noi 
+      <lb ed="#C" n="111"/>interdicitur consensus matrimonialis, qui solo consensi 
+      <lb ed="#C" n="112"/>perficitur: sed solennitas nuptialis, secundum Goffre. S 
+      <lb ed="#C" n="113"/>Rayn. ut supra de fer capellanus. 33. q. 4. non oportet. &amp;c. sequ 
+      <lb ed="#C" n="114"/>Item interdicitur traductio solennis, ut infra cod. nec uxo 
+      <lb ed="#C" n="115"/>rem. Item carnalis copula, secundum Rayn. quod intelli 
+      <lb ed="#C" n="116"/>git Goffred. quando est praeceptum: secus, quando es 
+      <lb ed="#C" n="117"/>consilium, secundum ea, quae nota. supra de spons. sub rubri 
+      <lb ed="#C" n="118"/>cella, de matrimon. §. quis sit effectus. vers. sed nunquid ego pu 
+      <lb ed="#C" n="119"/>to, quod hodie &amp; consensus &amp; solennitas interdicantur 
+      <lb ed="#C" n="120"/>nam his diebus non interponet ecclesia authoritatem su 
+      <lb ed="#C" n="121"/>am: sicut de facto servari videmus. nec sine authoritate ec 
+      <lb ed="#C" n="122"/>clesiae est matrimonium contrahendum. alias poenam ha 
+      <lb ed="#C" n="123"/>bet, &amp; clandestinum judicatur. ut supra de clandestin despor 
+      <lb ed="#C" n="124"/>cum mhibitio. &amp; sic per consequens omnia sequentia pro 
+      <lb ed="#C" n="125"/>hibentur: licet matrimonium teneat, si contrahatur. &amp; 
+      <lb ed="#C" n="126"/>idem dicas in omnibus casibus, qui impediunt matrimo 
+      <lb ed="#C" n="127"/>nium contrahendum, sed non dirimunt jam contractum 
+      <lb ed="#C" n="128"/>quos not. supra de matrimon. §. qualiter impeditur. versic. cri 
+      <lb ed="#C" n="129"/>men. &amp; sequent. Si perpetua, aut vera, aut falsa. si vera, in 
+      <lb ed="#C" n="130"/>continenti separantur. &amp; negocio examinato perpetuun 
+      <lb ed="#C" n="131"/>divortium fertur, &amp; sic pendente lite, separantur, id est, se 
+      <lb ed="#C" n="132"/>paratim morantur, ut infra eodem, c.ultim. &amp; 35 quaest. 3. con 
+      <lb ed="#C" n="133"/>tradicimus. &amp; supra de consanguin. &amp; affin. non debet in sin. &amp; a 
+      <lb ed="#C" n="134"/>eo qui dux. in matr. quam polluit per adult. cum haberet, in fin. e 
+      <lb ed="#C" n="135"/>de spons. duorum. tua. in fin. 33. quaest. 3. non oportet. 10. distinct. vi 
+      <lb ed="#C" n="136"/>des. C. de leg. non dubium 35. quaestion. 3. imperiali. nisi consue 
+      <lb ed="#C" n="137"/>tudo, quae scandalum generaret, &amp; multitudo contra 
+      <lb ed="#C" n="138"/>hentium. vel defectus probationis, vel indulgentia domi 
+      <lb ed="#C" n="139"/>ni Papae rite impetrata impedimentis perpetuis canoni 
+      <lb ed="#C" n="140"/>ca constitutione inductis, dispensationem concedat. u 
+      <lb ed="#C" n="141"/>supra de cognatione spirituali c.i.in fin. &amp;c. super eodem, de con 
+      <lb ed="#C" n="142"/>sanguin. &amp; affin quod dilectio quia circa, quod dic, ut not. su 
+      <lb ed="#C" n="143"/>pra de cognat. spirit. §. quis sit effectus. vers. effectus vero tertiae. S 
+      <lb ed="#C" n="144"/>supra de eo qui duxit in matrimon. quam pol. per adulter. in fin 
+      <lb ed="#C" n="145"/>adeo quod si etiam in facie ecclesiae contrahatur, &amp; ambs 
+      <lb ed="#C" n="146"/>parentes impedimentum sciebant, proles illegitima cen 
+      <lb ed="#C" n="147"/>sebitur: quod dic, ut supra de clandestin. despons. §. quam pa 
+      <lb ed="#C" n="148"/>nam. versicu pari. supec illo verbo, commenti etiam incon 
+      <lb ed="#C" n="149"/>spectu ecclesiae. &amp; secundum hoc etiam intellis, e supr¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0629.xml-->
+      <pb ed="#C" n="612"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>de desponsat. impuber. ad dissolvendum. Si vero causa, propte 
+      <lb ed="#C" n="2"/>quam inhibitio facta erat, non probeturvera, non propte 
+      <lb ed="#C" n="3"/>hoc solum, quod matrimonium contra interdictum et 
+      <lb ed="#C" n="4"/>elesiae contractum est, dirimendum est, sed tamen poe 
+      <lb ed="#C" n="5"/>nitentia injungi debet de inobedientia, &amp; ne praeceptun 
+      <lb ed="#C" n="6"/>ecclesiae delusorium videatur, ad tempus potest separar 
+      <lb ed="#C" n="7"/>matrimonium &amp; utrique interdici carnalis copula. si ta 
+      <lb ed="#C" n="8"/>men uterque habuerit malam fidem, alias illi soli, cui in 
+      <lb ed="#C" n="9"/>terdictum factum erat, &amp; sciens contraxit, videtur inter 
+      <lb ed="#C" n="10"/>dicendum ne exigat, &amp; praecipiendum, ut solvat. &amp; sic ir 
+      <lb ed="#C" n="11"/>tellige, infra eod c. 1 2. &amp;3 supra de sponsa. veniens mariota. &amp; 
+      <lb ed="#C" n="12"/>cum Apostolica. quo tempore elapso, libere possunt simu 
+      <lb ed="#C" n="13"/>commisceri: &amp; est tempus arbitrarium, quamvis decret¬ 
+      <lb ed="#C" n="14"/>lis ponat unum mensem. infra eod, cap. 1. in fin. &amp; hoc idem 
+      <lb ed="#C" n="15"/>scilicet separari ad tempus, potest fieri quandocunque cor¬ 
+      <lb ed="#C" n="16"/>trahitur contra interdictum ecclesiae causa factum, siv 
+      <lb ed="#C" n="17"/>perpetua sit, sive temporalis, vera vel falsa. &amp; secui 
+      <lb ed="#C" n="18"/>dum hoc potest exponi, separantur scilicet ad tempus, 
+      <lb ed="#C" n="19"/>pra de sponsa. duorum. tua. in fin. &amp; 33. quaestion. 4. non opo¬ 
+      <lb ed="#C" n="20"/>tet. non liceat. Quod autem dixi, pendente lite conjuges al 
+      <lb ed="#C" n="21"/>invicem separandos; &amp; postea ad tempus: intelligas v. 
+      <lb ed="#C" n="22"/>rum, quando ab initio contra interdictum ecclesiae expre¬ 
+      <lb ed="#C" n="23"/>sum factum, ne contrahant, est contractum, secus, si sin 
+      <lb ed="#C" n="24"/>prohibitione aliqua inter se, vel in facie ecclesiae contr¬ 
+      <lb ed="#C" n="25"/>xissent: quia ex quo jus semel acquisitum est, non est tur 
+      <lb ed="#C" n="26"/>banda possessio: vel quasi, nisi probatione facta. &amp; sic so 
+      <lb ed="#C" n="27"/>vitur supra ut lite pendente. laudabilem. &amp; infra titul.i. cum in 
+      <lb ed="#C" n="28"/>terI veterem. quod dic, ut notatur supra ut lite pendente. §. 
+      <lb ed="#C" n="29"/>qualiter. versic. item si contingat. vel dic, quod illa decret. lau 
+      <lb ed="#C" n="30"/>dabilem, locum habet, quando ab initio in facie ecclesi¬ 
+      <lb ed="#C" n="31"/>contraxerunt, alias si clandestine, &amp; opponatur impedi 
+      <lb ed="#C" n="32"/>mentum perpetuum, etiam pendente lite, poterunt sepa 
+      <lb ed="#C" n="33"/>rari, &amp; debebunt. quia tunc abinitio contra interdictun 
+      <lb ed="#C" n="34"/>ecclesiae generale contrahitur, quod prohibet clandest 
+      <lb ed="#C" n="35"/>na matrimonia contrahi. quod verius credo. ut supra d 
+      <lb ed="#C" n="36"/>clandestina desponsatione. cum inhibitio. responsi. &amp; § si quis au 
+      <lb ed="#C" n="37"/>tem. &amp; 33. quaestio. 4. non oportet. &amp; infra eodem, capitul. ultin 
+      <lb ed="#C" n="38"/>Haec locum habent, quando matrimonium contrahitu 
+      <lb ed="#C" n="39"/>contra interdictum ecclesiae scriptae constitutionis, ve 
+      <lb ed="#C" n="40"/>contra interdictum Judicis inferioris Papae. Quid ergo 
+      <lb ed="#C" n="41"/>si contra interdictum Papae interdicentis &amp; pronuncian 
+      <lb ed="#C" n="42"/>tis irritum si contrahatur? videtur quod non valeat. ari 
+      <lb ed="#C" n="43"/>supra de elect. innotuit. in fin. &amp; de praebend. inter caetera. supr 
+      <lb ed="#C" n="44"/>de desponsat. impub. ad dissolvendum in fin. &amp; de sponsat. duorum 
+      <lb ed="#C" n="45"/>tua in fin. si enim constitutio scripta ex causa hoc dicere 
+      <lb ed="#C" n="46"/>irritum esset: multo fortius, si lex viva. argument. ff. dear 
+      <lb ed="#C" n="47"/>bitr. Celsus. &amp; de compen si cum militi. nam &amp; uxor viva for 
+      <lb ed="#C" n="48"/>tior est, quam mortua. ut in authentic de instrumento, cauti 
+      <lb ed="#C" n="49"/>la. §. si vero tale aliquid contigerit, quale in Armenia. columnac 
+      <lb ed="#C" n="50"/>dixit Goffred. quod matrimonium contractum tenet pe 
+      <lb ed="#C" n="51"/>jura superiora. Mihi videtur in hac quaestione, quod re 
+      <lb ed="#C" n="52"/>currendum sit ad intentionem Papae, qui ex causa reddi 
+      <lb ed="#C" n="53"/>personas inhabiles ad contrahendum. nam sicut gener¬ 
+      <lb ed="#C" n="54"/>lem super hoc condit constitutionem, sic speclalem, &amp; lo 
+      <lb ed="#C" n="55"/>calem, &amp; personalem. ad hoc 29. distin. sciendum. si ergo in 
+      <lb ed="#C" n="56"/>tendit, quod matrimonium contra tale interdictum sui 
+      <lb ed="#C" n="57"/>factum, non valeat, nullum esse matrimonium judicabo 
+      <lb ed="#C" n="58"/>&amp; vide quod not. supra qui clert. vel voven. §. quis vovens. versic 
+      <lb ed="#C" n="59"/>tu dicas. &amp; sec 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

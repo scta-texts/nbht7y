@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 21</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 21</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="732"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1914"><!-- nbht7y-l5t21 -->
+            <head xml:id="nbht7y-d1e1914-Hd1e101">Titulus 21</head>
+            <head xml:id="nbht7y-d1e1914-Hd1e103" type="question-title">De sortilegiis</head>
+            <p xml:id="nbht7y-d1e1914-d1e106">
+               <lb ed="#C" n="20"/>De Sortilegiis XII. Rubrica
+    </p>
+            <p xml:id="nbht7y-d1e1914-d1e111">
+               <lb ed="#C" n="21"/>SUMMARIA 
+      <lb ed="#C" n="22"/>Sors quid si 
+      <lb ed="#C" n="23"/>Et in quo casu prohibeatur, pel concedatur 3. 4 
+      <lb ed="#C" n="24"/>Species sortis quot sim 
+      <lb ed="#C" n="25"/>Poena quae sit sortilegorun 
+    </p>
+            <p xml:id="nbht7y-d1e1914-d1e124">
+               <lb ed="#C" n="26"/>EGimus supra de falsitate, quae nihil 
+      <lb ed="#C" n="27"/>aliud est, quam immu 
+      <lb ed="#C" n="28"/>tatio veritatis: &amp; sortilegi sunt, qui sub nomi 
+      <lb ed="#C" n="29"/>ne fictae, &amp; sic talsae religionis per quasdam qua 
+      <lb ed="#C" n="30"/>actorum, seu Apostolorum vocant sortes, divinationis sci 
+      <lb ed="#C" n="31"/>entiam profitentur, aut quaruncunque scripturarum inspi 
+      <lb ed="#C" n="32"/>ctione futura promittunt, ut 26. q1 §unico, dicamus de sori¬ 
+      <lb ed="#C" n="33"/>legis, qui &amp; falsarii dici possunt. videntes. Quid sit sori 
+      <lb ed="#C" n="34"/>Quot sint ejus species. In quo casu prohibeatur, vel conce 
+      <lb ed="#C" n="35"/>datur. Quae sit poena sortilegorum 
+    </p>
+            <p xml:id="nbht7y-d1e1914-d1e149">
+               <lb ed="#C" n="36"/>Quid sit sors. Etcere secundom Aug 
+      <lb ed="#C" n="37"/>sors non est aliquid mali: se¬ 
+      <lb ed="#C" n="38"/>res in humana dubietate divinam judicas voluntatem, 
+      <lb ed="#C" n="39"/>26 4. 2 sors, &amp; secundum hoc sors licita est, probatur per ex 
+      <lb ed="#C" n="40"/>empla infinita, 26 9. 2.61. Sed secundum Leonem Papan 
+      <lb ed="#C" n="41"/>III. sors nihil aliud est, quam divinatio, &amp; maleficium a sar 
+      <lb ed="#C" n="42"/>ctis patrib. damnata, &amp; ideo prohibet ne exerceatur de cae 
+      <lb ed="#C" n="43"/>tero sub anathematis interdicto, ut 26 9. 5 sories, &amp; secundi 
+      <lb ed="#C" n="44"/>hoc sors illicita est, nec credenda est, neque exercenda, ut 26 
+      <lb ed="#C" n="45"/>qu. 2Shis ita respondetur, &amp; cap. sequent &amp; quis per iotum. Sol 
+      <lb ed="#C" n="46"/>enim est ars divinandi, divinatio autem proprie in mal 
+      <lb ed="#C" n="47"/>accipitur, prophetia vero in bono, unde cadicit, nunquan 
+      <lb ed="#C" n="48"/>divinatio in bonam partem accipitur, videbantur enin 
+      <lb ed="#C" n="49"/>quidam sancti esse prophetae. Sed quia pecuniam acci 
+      <lb ed="#C" n="50"/>piebant, prophetia eorum est facta divinatio: &amp; divinati 
+      <lb ed="#C" n="51"/>eorum, quae videbatur prophetia, declarata est divinatio 
+      <lb ed="#C" n="52"/>1q.. nunquam, nec obst. quod dicit August. Sors non est. 
+      <lb ed="#C" n="53"/>liquid mali, vt not. supra eodem  respo.i. dicit enim sors no 
+      <lb ed="#C" n="54"/>est, id est non erat aliquid mali, du permittebatur. Sed ho 
+      <lb ed="#C" n="55"/>die mala est. ex quo prohibetur, nec enim in hoc exempli 
+      <lb ed="#C" n="56"/>sequi debemus, quod Jonas, vel Mathias dicatur fuisse 
+      <lb ed="#C" n="57"/>lectus sorte, ut 26 9.2. non statim, &amp; c. seq. Vel quod Josue e 
+      <lb ed="#C" n="58"/>praecepto Domini per sortem exquisivit peccatu Achor 
+      <lb ed="#C" n="59"/>I. qu. 4§ item pro peccato Achor. Vel quod Saul sorte depr¬ 
+      <lb ed="#C" n="60"/>hendit Jonatham filium suum comedisse favum melli 
+      <lb ed="#C" n="61"/>contra edictum, quod posuerat, 12qu 2§ item opponitur, qui 
+      <lb ed="#C" n="62"/>illa &amp; similia permittebantur ante Evangelium. quae ten 
+      <lb ed="#C" n="63"/>pore perfectioris disciplinae sunt eliminata, 26. qu. 2§ 13it. 
+      <lb ed="#C" n="64"/>ergo hoc tempore licitu erat, quia fiebat authoritate divi 
+      <lb ed="#C" n="65"/>na, unde facientes excusantur a sortilegio, sicut a rapin¬ 
+      <lb ed="#C" n="66"/>ut 14 95. dixit, &amp; ab homicidio, 23. qu. 8. occidit, &amp; ab adulte 
+      <lb ed="#C" n="67"/>rio, ut supra de divor gaudemus, ut no. supra de cle pugn in due 
+      <lb ed="#C" n="68"/>as sic offerendum versicul nec excusat, &amp; praecedent &amp; sequeni 
+      <lb ed="#C" n="69"/>stem alia ratione non obstant exempla, quia privilegia sin 
+      <lb ed="#C" n="70"/>gulorum non faciunt legem communem; ut 27 92. non es 
+      <lb ed="#C" n="71"/>emplo Vel dic. quod sors non est aliquid mali in sua natu 
+      <lb ed="#C" n="72"/>ra: prohibetur tamen, ne propter assiduitatem utendi la 
+      <lb ed="#C" n="73"/>bantur homines in idolatriam, sicut dicitur de juramento 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0749.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="74"/>&amp; vini potatione, supra de jureju &amp; si Christus §quaedam. Ve 
+      <lb ed="#C" n="75"/>aliter: Sors non est aliquid mali, immo ad exempla supr¬ 
+      <lb ed="#C" n="76"/>dicta sequi possunt sine peccato, in casu quem habes. nis¬ 
+      <lb ed="#C" n="77"/>eodem § quo casu. versic. ult. Vel sic: Sort non est aliquid ma 
+      <lb ed="#C" n="78"/>li, quo ad scientiam, sed exercitium malum est, quod dic, u 
+      <lb ed="#C" n="79"/>notat. supra de magistr. S quam scientiam, &amp; ver. seq.
+    </p>
+            <p xml:id="nbht7y-d1e1914-d1e251">
+               <lb ed="#C" n="80"/>Quot: sint ejus species Scire debes, quod 
+      <lb ed="#C" n="81"/>genus divinationis 
+      <lb ed="#C" n="82"/>a Persis fertur allatum fore. Varro autem divinationun 
+      <lb ed="#C" n="83"/>dixit quatuor genera fore: sicut sunt quatuor elementa 
+      <lb ed="#C" n="84"/>fit enim divinatio in terra, quae vocatur Geomantia, a ge 
+      <lb ed="#C" n="85"/>os, quod est terra, &amp; mantos, quod est divinatio. Fit etiam 
+      <lb ed="#C" n="86"/>in aqua, &amp; haec vocatur Hydromantia ab hydor, quod es 
+      <lb ed="#C" n="87"/>aqua. Item fit in aere, quae Aerimantia appellatur, ab ac 
+      <lb ed="#C" n="88"/>re. Item fit in igne, quae nominatur Fyromantia, a pyr qno¬ 
+      <lb ed="#C" n="89"/>est ignis, &amp; qui dicantur sortilegi, &amp; qualiter, notat. supr¬ 
+      <lb ed="#C" n="90"/>eodem tit. in prm. Divini autem dicti sunt, quasi Deo pleni 
+      <lb ed="#C" n="91"/>quia divinare se fore plenos simulant, &amp; astutia quadan 
+      <lb ed="#C" n="92"/>fraudulenta hominibus futura conjecturant. Sed Auz di 
+      <lb ed="#C" n="93"/>cit duo genera fore, artem &amp; furorem, scilic. quia alii pe 
+      <lb ed="#C" n="94"/>quandam doctrinam hominum falsam, seu superstitiosi 
+      <lb ed="#C" n="95"/>ex quibusdam signis conjecturando in multis cominum 
+      <lb ed="#C" n="96"/>sive delinquunt, alii quasi furiosi a daemoniis attriti vatici 
+      <lb ed="#C" n="97"/>nia praedicunt. Sunt autem diversa nomina talium, &amp; se 
+      <lb ed="#C" n="98"/>ctae diversae, quid autem observent, &amp; qualiter diversis no 
+      <lb ed="#C" n="99"/>minib nuncupentur, legitur, 269.2. illad, &amp; 4364. capit. 1 
+      <lb ed="#C" n="100"/>De generibus etiam demonum varia nunciantium inve 
+      <lb ed="#C" n="101"/>nies, ea qui sciendum. Et quod daemones per exteriora men 
+      <lb ed="#C" n="102"/>tes hominum, &amp; motus animorum cognoscant &amp; depre 
+      <lb ed="#C" n="103"/>hendant, res occultissima est, ut ea quae. quodam loco. Ali 
+      <lb ed="#C" n="104"/>igitur daemones consulunt, ex quibus quasi licentiori va 
+      <lb ed="#C" n="105"/>nitate aruspicum, id est horas &amp; tempora observantium, 8 
+      <lb ed="#C" n="106"/>inspicientium, &amp; augurum, id est ad volatus avium, &amp; voce 
+      <lb ed="#C" n="107"/>intendentium, aliaque signa rerum, vel observantias im 
+      <lb ed="#C" n="108"/>provisas hominum currentes ferentium libri, ad hoc ge 
+      <lb ed="#C" n="109"/>nus pertinent, qui. d. minus delinquunt, ut 269. 2. illud, &amp; 4 
+      <lb ed="#C" n="110"/>non oportet, &amp; cap aliquanti, quae omnia prohubentut, ut ibi 
+    </p>
+            <p xml:id="nbht7y-d1e1914-d1e321">
+               <lb ed="#C" n="111"/>In quo: casu prohibeatur, v&amp; conee 
+      <lb ed="#C" n="112"/>datur. Et 
+      <lb ed="#C" n="113"/>quidem sors in omni casu generaliter prohibita est, c un¬ 
+      <lb ed="#C" n="114"/>de Apostolus: Dies observatis, &amp; menses, &amp; tempora, 8 
+      <lb ed="#C" n="115"/>annos: vnde timeo ne forte sine causa laboraverim invo 
+      <lb ed="#C" n="116"/>bis. 26. 92. 5 his ua respondetur. Ligaturae igitur, sive remedis 
+      <lb ed="#C" n="117"/>quae medicorum quoque discipina condemnat, sive in prae 
+      <lb ed="#C" n="118"/>cantationibs. sive in notis, quas characteres vocant, seu ali 
+      <lb ed="#C" n="119"/>is quibusque reb. ligandis, vel suspendendis consistant, quam 
+      <lb ed="#C" n="120"/>vis Physica vocetur, ut naturae prodesse videatur, sicut ij 
+      <lb ed="#C" n="121"/>summo aurium vel digitis, causa sortilegii de ossib stru 
+      <lb ed="#C" n="122"/>thionum ansulas id est annulos deferre damnatae sunt. Au 
+      <lb ed="#C" n="123"/>si tibi singultienti dicatur, vt dextera manu pollicem te 
+      <lb ed="#C" n="124"/>neas, his adjungunt, &amp; hi qui saltum membri timent. Ve 
+      <lb ed="#C" n="125"/>quod duob amicis junctim ambulantibus puer, aut lapi 
+      <lb ed="#C" n="126"/>interveniens, ipsos dividat, malum nunciatum credam 
+      <lb ed="#C" n="127"/>Vel quod domi redeunt, si pes forte offensus fuerit. Qui et 
+      <lb ed="#C" n="128"/>iam servant constellationes, sive sub qua stella aliquis na 
+      <lb ed="#C" n="129"/>tus sit, vel quota sit luna. Nulla etenim talia, vel his simi 
+      <lb ed="#C" n="130"/>lia, sunt a vere fidelib. observanda, nec futura divinanda 
+      <lb ed="#C" n="131"/>seu praenuncianda, nec futura in tabulis, seu codicibus re 
+      <lb ed="#C" n="132"/>quirenda, nec aliqua divinatio, vel sors credenda, ut 69u 
+      <lb ed="#C" n="133"/>2allud, &amp; cap sed &amp; illud, &amp; quaest. 5. §i per totum, &amp; infr. eodem 
+      <lb ed="#C" n="134"/>cap primo, &amp; 2. Sed nunquid in colligendis lignis, vel pu 
+      <lb ed="#C" n="135"/>tandis vineis, vel terris colendis, vel in dandis potionib 
+      <lb ed="#C" n="136"/>licet lunam considerare, &amp; temporis qualitatem? Dica 
+      <lb ed="#C" n="137"/>quod non, si fiat superstitiose, vel si credatur necessitaten 
+      <lb ed="#C" n="138"/>inesse superioribus, superiora enim non sunt rerum caulae 
+      <lb ed="#C" n="139"/>licet sint signa rerum, &amp; sic intelliges, 26 quaestio 5. capitul, 
+      <lb ed="#C" n="140"/>alias autem hoc licet, sicut docet astronomia, &amp; sicut ser 
+      <lb ed="#C" n="141"/>vant nedum medici, sed &amp; coloni experti, &amp; facit ad hoc 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="142"/>ADDITIONES. 
+      <lb ed="#C" n="143"/>a Quid sit sore. J Adde Doct in rub. eo ti 
+      <lb ed="#C" n="144"/>b Quor sint eius species. Vide in summa Pisanella, in verbo, sor 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>tilegium, in 61. &amp; 2. &amp; per sanctum Tho. 2. 2. 4. 96 
+      <lb ed="#C" n="146"/>a Generaliter prohibita est. JAddegl. &amp; ibi lo. de Antada fin 
+    </p>
+    <p>
+      <lb ed="#C" n="147"/>de soruleg &amp; per Arch. a6. q. 2.ingi summa--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0750.xml-->
+      <pb ed="#C" n="733"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>quod notat. supra eod. §. versicul. ligaturae. ibi, quae medice 
+      <lb ed="#C" n="2"/>rum, &amp;c. haec enim ex arte sunt, non sorte, &amp; naturalite 
+      <lb ed="#C" n="3"/>considerantur, non superstitiose. Superstitiosa igiturre 
+      <lb ed="#C" n="4"/>probantur. nam per doemonum fallaciam illuditur cu 
+      <lb ed="#C" n="5"/>riositas humana, quando homines impudenter scire af 
+      <lb ed="#C" n="6"/>petunt, quod nulla ratione eis competit investigare, ut e¬ 
+      <lb ed="#C" n="7"/>qui. nec mirum ad fin.i. col. Sed &amp; qualiter mulieres, quae profi 
+      <lb ed="#C" n="8"/>tentur se nocturnis horis equitare cum Diana, vel Hero 
+      <lb ed="#C" n="9"/>diade, a doemonibus illuduntur invenies, 26. quaest5. episce 
+      <lb ed="#C" n="10"/>pi. De presbyteris vero, qui altaria denudant, vel cantan 
+      <lb ed="#C" n="11"/>requiem pro vivis, ut moriantur, legitur. 2695. quicunque 
+      <lb ed="#C" n="12"/>Hodie igitur non est, id est, esse non debet augurium in 
+      <lb ed="#C" n="13"/>Jacob, nec divinatio in Israel. Qui enim sine Salvatore sa 
+      <lb ed="#C" n="14"/>iutem vult habere, &amp; sine sapientia se prudentem fieri exi 
+      <lb ed="#C" n="15"/>stimat: non sanus, sed aeger, non prudens, sed stultus in a 
+      <lb ed="#C" n="16"/>gritudine assidua laborabit, &amp; in fatuitate noxia perma 
+      <lb ed="#C" n="17"/>nebit, ut 26 q. 2. qui sine Salvatore. Et breviter, nec dies Aegy 
+      <lb ed="#C" n="18"/>ptiaci, nec Calendae Januar. nec initia mensium, nec die: 
+      <lb ed="#C" n="19"/>nec menses, nec anni, nec cursus lunae, vel solis, vel sideri 
+      <lb ed="#C" n="20"/>nec sortes Apostolorum observari debent, nec carmin 
+      <lb ed="#C" n="21"/>herbarum, nec pictatiolae, id est, characteres scripti cred 
+      <lb ed="#C" n="22"/>debent, imo haec &amp; similia propter Symbolum &amp; oratio 
+      <lb ed="#C" n="23"/>nem Dominicam condemnantur, ut 26 qn. ult. siquis calen 
+      <lb ed="#C" n="24"/>das. &amp; c praecedent. &amp; c. seq. &amp; qui. s. non licet. Veruntamen do 
+      <lb ed="#C" n="25"/>monium sustinenti, licet petras vel herbas habere, sine ir 
+      <lb ed="#C" n="26"/>cantatione, eod c sin Sed &amp; hi, qui per 12 coeli signa nascen 
+      <lb ed="#C" n="27"/>tium mores, actus, &amp; eventus, aut quem effectum vitae ha 
+      <lb ed="#C" n="28"/>beat, qui nascitur, conantur praedicere, reprobantur, 26. 
+      <lb ed="#C" n="29"/>4. igitur. vers. Genethliaci appellati sunt, &amp; qui. 2. illud vers. nequ 
+      <lb ed="#C" n="30"/>ab hoc genere superstitionis. Sed nunquid licet recurrere a 
+      <lb ed="#C" n="31"/>sortes, &amp; ad inspectationem astrolabii, vel alias inscriptio 
+      <lb ed="#C" n="32"/>nes pro reb perditis recuperandis? Dicunt quidam quo 
+      <lb ed="#C" n="33"/>sic, dummodo non fiant inspectiones hujus cum invoca 
+      <lb ed="#C" n="34"/>tione doemonum, vel alicujus superstitionis. dicas con 
+      <lb ed="#C" n="35"/>trarium, ut infra eod. ex tuarum, &amp; apparet in his quae no 
+      <lb ed="#C" n="36"/>supra eod. versicul. nec furta. &amp; praecedentibus &amp; seq. nec obs 
+      <lb ed="#C" n="37"/>26. q Aht qui nec dicitur, quod non statim, tamen cum no 
+      <lb ed="#C" n="38"/>superesthamanum auxilium, recurrere possumus add 
+      <lb ed="#C" n="39"/>vinum, 22. qu. 2. qualiter, quia loquuntur de comparativ. 
+      <lb ed="#C" n="40"/>permiisione. nec obst. 37. distinct. siquis Gramnaticam nan 
+      <lb ed="#C" n="41"/>licet dicatur ibi, quod Geometria &amp; Arithmetica habean 
+      <lb ed="#C" n="42"/>in sua scientia veritatem, subdit tamen, quod non sint sci 
+      <lb ed="#C" n="43"/>entiae pietatis, vel responde, ut not. supra eod. §. quid sor 
+      <lb ed="#C" n="44"/>vers. sors igitur est ars divinandi, &amp; seq usque in fin. Nec mo 
+      <lb ed="#C" n="45"/>veatur quis quia plerunque evenire videt quae ab aliis prae 
+      <lb ed="#C" n="46"/>dicuntur, hoc enim permissu Dei fit, ut ipsi qui hoc viden 
+      <lb ed="#C" n="47"/>vel audiunt, probentur quali fide sint vel devotione erg 
+      <lb ed="#C" n="48"/>Deum, unde in Deuteronomio ait populo Moyses: Si sur 
+      <lb ed="#C" n="49"/>rexerit in medio tui propheta, aut qui somnium se vidiss 
+      <lb ed="#C" n="50"/>dicat, &amp; praedixerit signum aut portentum, &amp; venerit quo 
+      <lb ed="#C" n="51"/>locutus est, &amp; dixerit tibi, Eamus, &amp; sequamur Deos alie 
+      <lb ed="#C" n="52"/>nos, quos ignoras, &amp; serviamus eis, non audietis verb 
+      <lb ed="#C" n="53"/>prophetae, aut somniatoris, quia tentat nos Deus noste 
+      <lb ed="#C" n="54"/>ut palam sciat, utrum diligatis eum, aut non, in toto cord 
+      <lb ed="#C" n="55"/>nostro, &amp; in tota anima nostra, Deum vestrum sequimin 
+      <lb ed="#C" n="56"/>&amp; ipsum timete, mandata ejus custodite, &amp; audite vocen 
+      <lb ed="#C" n="57"/>illius, ipsi soli servietis, &amp; ipsi adhaerebitis, ut 26 q. 5. nec mi 
+      <lb ed="#C" n="58"/>rum §. ult. Plerunque etiam per malos miracula fiunt, quo¬ 
+      <lb ed="#C" n="59"/>dic, ut not. supra de venerat. sanct. Et sic prohibetur omni 
+      <lb ed="#C" n="60"/>sors, omnis divinatio, &amp; omnis fantasia, quia ad solum De¬ 
+      <lb ed="#C" n="61"/>pertinet notitia futurorum, ut 26. q. 5. §. 1. ff. dejudic. sed &amp; 
+      <lb ed="#C" n="62"/>restituatur. §. ultim. unde appetens talia peccat non mod 
+      <lb ed="#C" n="63"/>cum, quia valt videri similis Deo, propter quod Lucifer 
+      <lb ed="#C" n="64"/>coelo cecidit, Adam Paradisum amisit, nec enim Papa su 
+      <lb ed="#C" n="65"/>stinet, quod aliquis attentet ea, quae sibi retinuit privilegi¬ 
+      <lb ed="#C" n="66"/>speciali, ut supra de translat. episcopi. cap. 1. &amp; de usu pallii, ni 
+      <lb ed="#C" n="67"/>specialis, &amp; de offic. leg. quod translationem ideo in omnibu 
+      <lb ed="#C" n="68"/>prohibita est sors, etiam in electionibus, ut infra eod, capi 
+      <lb ed="#C" n="69"/>ulti &amp; not. supra eod. §. quid sit sors.* Sors etiam aliquand 
+      <lb ed="#C" n="70"/>concessa est &amp; permissa, scilicet si fiat ad dirimendas lites 
+      <lb ed="#C" n="71"/>vel si contentio sit de electione aliquorum, &amp; in omnibu 
+      <lb ed="#C" n="72"/>inveniatur paritas, utrobique exemplo Matthiae secundi 
+      <lb ed="#C" n="73"/>Joan. Lau. &amp; Rayn. ut 16. qu. 2. non exemplo. &amp; qui s. non licet. Sec 
+      <lb ed="#C" n="74"/>illud speciale fuit, ut ibi dicit, ideo sortis usus in election 
+      <lb ed="#C" n="75"/>bus perpetua prohibitione damnatur, ut infra eod.c. ultin 
+      <lb ed="#C" n="76"/>quamvis idem dicant Deum posse consuli sortibus Apo 
+      <lb ed="#C" n="77"/>stolorum exemplo, qui eas non faciebant, nisi collecto coe 
+      <lb ed="#C" n="78"/>tu fratrum, &amp; precibus ad Deum effusis, ut dicit Beda in¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0750.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>non exemplo. quod non credo verum, nisi fieret authorita 
+      <lb ed="#C" n="80"/>te Papae, dic ergo quod in casu isto, vel iterum eligetur, ve 
+      <lb ed="#C" n="81"/>superior gratincabit, secundum Goffr. quod dic, ut notat 
+      <lb ed="#C" n="82"/>supra de elect. §. qualiter sit facienda electio. post verbum con 
+      <lb ed="#C" n="83"/>cilii, &amp; sanior. ver. ubi autem omnia aequalia sunt. Sed ir 
+      <lb ed="#C" n="84"/>judiciis dubiis ipsum admitto in his, quae temporalia sunt 
+      <lb ed="#C" n="85"/>ut f. de judic. sed cum ambo. &amp; C. communia de leg. si duobus. 21 
+      <lb ed="#C" n="86"/>distin. cleros. &amp; sic intellige, quod sors non est aliquid mali 
+      <lb ed="#C" n="87"/>ut not. supra § quid sit sors, &amp; ff fam. erciscun siquae sunt. &amp; d 
+      <lb ed="#C" n="88"/>fideicommiss. liber. generaliter. §. quid ergo. quod &amp; ipsum in 
+      <lb ed="#C" n="89"/>telligas de sorte simplici, quae fit cum loris, vel cum paleis 
+      <lb ed="#C" n="90"/>sine aliqua superstitione 
+    </p>
+            <p xml:id="nbht7y-d1e1914-d1e599">
+               <lb ed="#C" n="91"/>Quae sit poena sortilegiorum Et quidem secun¬ 
+      <lb ed="#C" n="92"/>dum leg bonorum publicatio, &amp; de 
+      <lb ed="#C" n="93"/>capitatio, ut not supra de magistris §. quam scientiam. vers. ars 
+      <lb ed="#C" n="94"/>sed secundum canones imponitur spiritualis poenitenti. 
+      <lb ed="#C" n="95"/>40 dierum, ut infra eod. cap. i. &amp; si peccatum notorium ess 
+      <lb ed="#C" n="96"/>Eucharistia denegatur, de consecr. dist. 2. pro dilectione. Item 
+      <lb ed="#C" n="97"/>ecclesiastica poena infligitur, quia si clericus sit, deponen 
+      <lb ed="#C" n="98"/>dus est, &amp; in monasterio detrudendus: si laicus, excom 
+      <lb ed="#C" n="99"/>municandus, quod exaudi, quando dictam poenitentiam 
+      <lb ed="#C" n="100"/>agere renuit, si criminaliter accusetur, sic intellige, 26. q. 
+      <lb ed="#C" n="101"/>non oportei, &amp;c. si quis episcopus, aut preshyter, &amp;c. aliquanti, e 
+      <lb ed="#C" n="102"/>qu. 7. admoneat, ut tamen aliquando poenitentiam contem 
+      <lb ed="#C" n="103"/>nit agere, ab excommunicatione incipiendum scias: ut 26 
+      <lb ed="#C" n="104"/>qus. si quis clericus; sed crescente contumacia augmentar, 
+      <lb ed="#C" n="105"/>debet, &amp; poena etiam in laicos, qui si servi sint, verberibu 
+      <lb ed="#C" n="106"/>castigantur: si liberi in conclusione digni, districtaque sun 
+      <lb ed="#C" n="107"/>in poena redigendi, ut ead que contra idolorum. Episcopus eti 
+      <lb ed="#C" n="108"/>tales turpiter dehonestatos de parochia sua ejicere debet 
+      <lb ed="#C" n="109"/>26. 95. episcopi. quia decalvare potest eos, id est, vestes &amp; ca 
+      <lb ed="#C" n="110"/>pillos ante &amp; retro incidere, sicut in quibusdam locis de 
+      <lb ed="#C" n="111"/>consuetudine observatur, &amp; de hac decalvatione loquitu 
+      <lb ed="#C" n="112"/>2291. de benedicto. Sed &amp; tales infames sunt, 2 qu. S quisquis 
+      <lb ed="#C" n="113"/>Cum igitur omnia per Deum facta sint, quisquis credi 
+      <lb ed="#C" n="114"/>posse fieri aliquam creaturam, aut in melius, aut in dete 
+      <lb ed="#C" n="115"/>rius immutari, an transformari in aliam speciem, vel ali 
+      <lb ed="#C" n="116"/>am similitudinem, nisi ab ipso Creatore fiat, procul dubi 
+      <lb ed="#C" n="117"/>infidelis est, &amp; Pagano deterior: unde omnibus ne talia 
+      <lb ed="#C" n="118"/>vel his similia credant, est publice nunciandum, secundi 
+      <lb ed="#C" n="119"/>Goffr. ut 26. qu. 5. episcopi. ad fin. ecclesia tamen in casu ior 
+      <lb ed="#C" n="120"/>tilegia credit, &amp; propter ipsa matrimonia separat, 23. 41 
+      <lb ed="#C" n="121"/>per sortiarias, quod dic, ut not. supra de frigid. §. qualiter. ver 
+      <lb ed="#C" n="122"/>conficebuntur. &amp; seq.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

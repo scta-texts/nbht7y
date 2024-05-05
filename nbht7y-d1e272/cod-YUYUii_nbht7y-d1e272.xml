@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 20</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 20</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="106"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e272"><!-- nbht7y-l1t20 -->
+            <head xml:id="nbht7y-d1e272-Hd1e101">Titulus 20</head>
+            <head xml:id="nbht7y-d1e272-Hd1e103" type="question-title">De corpore vitiatis ordinandis vel non</head>
+            <p xml:id="nbht7y-d1e272-d1e106">
+               <lb ed="#C" n="52"/>De Corpore vitiatis ordinandis, vel 
+      <lb ed="#C" n="53"/>non XX. Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e272-d1e113">
+               <lb ed="#C" n="54"/>SUMMARIA, 
+      <lb ed="#C" n="55"/>Debilitas quid si 
+      <lb ed="#C" n="56"/>Deformitas quid su 
+      <lb ed="#C" n="57"/>Impotentia quid sit 
+      <lb ed="#C" n="58"/>Maritus si inveniat clericum cum uxore, si amputet ei viri 
+      <lb ed="#C" n="59"/>lia, quid juris 
+    </p>
+            <p xml:id="nbht7y-d1e272-d1e129">
+               <lb ed="#C" n="60"/>DE impedimento originis, condit 
+      <lb ed="#C" n="61"/>onis, &amp; obligatio 
+      <lb ed="#C" n="62"/>nis ad ratiocinia, dictum est supra. Nunc d 
+      <lb ed="#C" n="63"/>cendum est de impedimento deformitatis 
+      <lb ed="#C" n="64"/>seu debilitatis, quae scilicet impedit promo 
+      <lb ed="#C" n="65"/>vendum, &amp; aliquando dejicit jam promotum ab ordine 
+      <lb ed="#C" n="66"/>ut in hoc titulo aliquando a beneficio, ut infra de cle aegro 
+      <lb ed="#C" n="67"/>Et haec est differentia inter hos duos titulos, quia ibi quae 
+      <lb ed="#C" n="68"/>ritur; utrum debilitatus debeat amittere beneficium quo 
+      <lb ed="#C" n="69"/>adeptus erat: hic utrum possit promoveri ad ordines, vel i 
+      <lb ed="#C" n="70"/>susceptis uti, videamus ergo, Quid sit debilitas, Quid de 
+      <lb ed="#C" n="71"/>formitas, Quid impotentia, Et quae impediant, &amp; quae non
+    </p>
+            <p xml:id="nbht7y-d1e272-d1e159">
+               <lb ed="#C" n="72"/>Quid sit debilitas. Debilitas: est, si habet qui 
+      <lb ed="#C" n="73"/>membrum, sed inefficax, pu- 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0123.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="74"/>tacrus, vel manum aridam, &amp; impotentem vel oculum 
+      <lb ed="#C" n="75"/>caecum, secundum Da. certe &amp; deformitas hic potest de 
+      <lb ed="#C" n="76"/>notari, si tamen vitium appareat. Mutilatus vero dicitu 
+      <lb ed="#C" n="77"/>membro carens 
+    </p>
+            <p xml:id="nbht7y-d1e272-d1e179">
+               <lb ed="#C" n="78"/>Quid sit deformitas. Deformitas est, si ha¬ 
+      <lb ed="#C" n="79"/>bet maculam in oculo, 
+      <lb ed="#C" n="80"/>vel si est gibbosus, vel tortus, vel si habet sex digitos in ma 
+      <lb ed="#C" n="81"/>nu, vel aliquid contra naturam.
+    </p>
+            <p xml:id="nbht7y-d1e272-d1e190">
+               <lb ed="#C" n="82"/>Quid sit impotentia. Impotentia est 
+      simu<lb ed="#C" n="83" break="no"/>tilatus sit brachio, vel 
+      <lb ed="#C" n="84"/>manu, vel pede, vel monoculus. &amp; debilitas potest dici,s 
+      <lb ed="#C" n="85"/>sit eunuchus, vel castratus, tamen breviter di. est, Utrun 
+      <lb ed="#C" n="86"/>patiatur vitium seu defectum in magnis membris &amp; inte 
+      <lb ed="#C" n="87"/>gris, magnum intelligo in quantitate, ut in brachio, vel ma 
+      <lb ed="#C" n="88"/>nu. Item in corpore, vel in naso, vel oculo: &amp; tunc nulli 
+      <lb ed="#C" n="89"/>modo promovetur: sed si sacerdos sit, in caeteris officiis, ex 
+      <lb ed="#C" n="90"/>cepto altaris ministerio, toleratur. Caeteris dico, in quib 
+      <lb ed="#C" n="91"/>potens est, ut paenitentias dare, &amp; talia. 16. qu. 1. adjicimus, &amp; 
+      <lb ed="#C" n="92"/>sic loquitur infra de cler. aegro presbyterum, 15. dist. lator. &amp;c. 
+      <lb ed="#C" n="93"/>Erangelica. &amp; removetur a beneficio, ut in dictis c. &amp; infr. c 
+      <lb ed="#C" n="94"/>exposuisti, si tamen quis habet maculam in oculo, potes 
+      <lb ed="#C" n="95"/>cum eo dispensari, habita distinctione inter maculam, &amp; 
+      <lb ed="#C" n="96"/>maculam, infra eo cum de tua
+    </p>
+            <p xml:id="nbht7y-d1e272-d1e225">
+               <lb ed="#C" n="97"/>Et quae impediant &amp; quae non. Breviter dic, si 
+      <lb ed="#C" n="98"/>in parvis membris quia 
+      un<lb ed="#C" n="99" break="no"/>gula, vel parte digiti patiatur, aut culpa potest ei imputa 
+      <lb ed="#C" n="100"/>ri, aut non. si culpa ei imputari non potest, &amp; potens sit ad 
+      <lb ed="#C" n="101"/>frangendam eucharistiam, nec deformitatem magnan 
+      <lb ed="#C" n="102"/>inducat, non impeditur, infra eodem c.si. si impotens, vel ni 
+      <lb ed="#C" n="103"/>mis deformis, impeditur, infrade ckr. aegro. presbyterum, si i 
+      <lb ed="#C" n="104"/>culpa est: ut quia obtulit duellum, &amp; sponte oblatum sus 
+      <lb ed="#C" n="105"/>cepit, de rigore juris deponendus est, 51. distinct. siquis, si ta 
+      <lb ed="#C" n="106"/>men non pervenitur ad effusionem sanguinis, poterit cun 
+      <lb ed="#C" n="107"/>eo dispensari: vel etiam si pervenitur, sed tunc authorita 
+      <lb ed="#C" n="108"/>te Papae tantum, eodem cap. I. infra de cler. pug. in duel. cap. 1 
+      <lb ed="#C" n="109"/>Quid si habet sex digitos, secundum officium non impedi 
+      <lb ed="#C" n="110"/>tur, quia defectus membri vel augmentum non conside 
+      <lb ed="#C" n="111"/>ratur, sed usus impedimenti, f deredh. act. Item Offilius, hae¬ 
+      <lb ed="#C" n="112"/>si in membris apparentibus. In non apparentibus aut dist 
+      <lb ed="#C" n="113"/>ut in seqe ergo ut in eunucho dist. utrum in persecution 
+      <lb ed="#C" n="114"/>sint sibi virilia amputata vel eo tempore quo judicii ani 
+      <lb ed="#C" n="115"/>mum non habebat, &amp; tunc etiam in episcopum promove 
+      <lb ed="#C" n="116"/>ri potest, inf.eo ex parte Bartholomae:: quod intelligo in per 
+      <lb ed="#C" n="117"/>secutione, in qua nihil ei imputari potest. Quid enim si ma 
+      <lb ed="#C" n="118"/>ritust clericum cum uxore inveniat, &amp; de membris inimi 
+      <lb ed="#C" n="119"/>cis vindictam sumat, certe imputatur presbytero. ar sup. d 
+      <lb ed="#C" n="120"/>aeta. aures. &amp; c. accepimus, &amp;c. i.ad si. &amp; not. in summa ejusdem tii 
+      <lb ed="#C" n="121"/>§ordo rer frater Ray. &amp; ar. inf. de hom c. si. &amp; ar. expressum. 23. q 
+      <lb ed="#C" n="122"/>5. placuit in fi. Si vero affectavit, &amp; sine causa impeditur. 32 
+      <lb ed="#C" n="123"/>dist. maritum, inf. eo. ex parte B. in prin. idem si ex causa, sed in 
+      <lb ed="#C" n="124"/>justa, puta volebat placere Deo. inf. eo significavit, quia nor 
+      <lb ed="#C" n="125"/>ferro, sed animo castitas quaeri debet. 33. q45. tunc salvabitur 
+      <lb ed="#C" n="126"/>sed si timore leprae non impeditur, inf. eo. ex parte M. &amp; idec 
+      <lb ed="#C" n="127"/>talis qui hoc affectat. tanquam homicida suiipsius punitur 
+      <lb ed="#C" n="128"/>55. dist. si quis absciderit, ergo de rigore juris, is qui etiam ut si 
+      <lb ed="#C" n="129"/>castus, hoc facit fieri, deponendus est, licet credat placer 
+      <lb ed="#C" n="130"/>Deo sed sicut ait Azo 
+      <lb ed="#C" n="131"/>
+               <quote xml:id="nbht7y-d1e272-Qd1e303">Displicet imprudens unde placere putat</quote>
+            </p>
+            <p xml:id="nbht7y-d1e272-d1e306">
+               <lb ed="#C" n="132"/>Sed hoc intellige 55. dist. si Erangelica. &amp;c. si quis a medicis 
+      <lb ed="#C" n="133"/>&amp;c. qui partem, &amp;c. si quis per aegritudinem, nec obstat, infr¬ 
+      <lb ed="#C" n="134"/>eodem significavit, quia ibi gratia fit. Nec est verum, quoc 
+      <lb ed="#C" n="135"/>dicunt rustici, quod ubi ab hostibus factus est, non possi 
+      <lb ed="#C" n="136"/>celebrare, nisi testes siccos a &amp; pulverizatos gerat in 
+      <lb ed="#C" n="137"/>bursa: quasi tunc intelligitur habere omria sua membra 
+      <lb ed="#C" n="138"/>sed non curo, utrum habeat testes siccos, vel viriles: qui¬ 
+      <lb ed="#C" n="139"/>defectus illius membri nec deformitatem nec debilita 
+      <lb ed="#C" n="140"/>tem inducit. Is ergo qui sibi manus intulit, non promove 
+      <lb ed="#C" n="141"/>tur, &amp; promotus dejicitur, &amp; est prima ratio, quia praesu 
+      <lb ed="#C" n="142"/>mitur, quod in aliis omnem tyrannidem tute exerceat, qui in se 
+    <!--<p>
+      <lb ed="#C" n="143"/>ADDITIO. 
+      <lb ed="#C" n="144"/>a Nisi testes siccos) Addec. eunuchus. &amp; ili Doct. 55. dist. Card. Lal. 
+      <lb ed="#C" n="145"/>in c. ex parte, in 6. nota, de cor.vii--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0124.xml-->
+          <pb ed="#C" n="107"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>ipsum ausus est desaevire f. dered ac. ac cum autem §. excipi¬ 
+          <lb ed="#C" n="2"/>tur. unde vers.
+          <lb ed="#C" n="3"/>
+               <quote xml:id="nbht7y-d1e272-Qd1e346">Qui sibi non parcit, tibi vel mihi quomodo parcet</quote>
+               <lb ed="#C" n="4"/>ff. de bonis eorum qui mortem sibi ante sent. consc.l.i. §. antep. Seci 
+          <lb ed="#C" n="5"/>da ratio est, quia alienum invadit, &amp; sic furtum facit. Fur 
+          <lb ed="#C" n="6"/>tum enim est 8 contrectatio rei alienae, invito domino 
+          <lb ed="#C" n="7"/>Institut. de ob quae ex quasi male. nasc. §. 1. C. unde vi. I.si. neme 
+          <lb ed="#C" n="8"/>autem dominus videtur membrorum suorum ff. ad leg. A 
+          <lb ed="#C" n="9"/>quil liber homo §. 1. Tertia ratio est, quia suiipsius est homi 
+          <lb ed="#C" n="10"/>cida, &amp; conditioni Dei inimicus, 55. dist si quis absciderit. &amp; 
+          <lb ed="#C" n="11"/>secundum Hier. illi eunuchi placent, quos castravit no 
+          <lb ed="#C" n="12"/>necessitas, sed voluntas. 33. q. 5. tunc salvabitur, sic placet ca 
+          <lb ed="#C" n="13"/>stratus, id est caste natus, non spado. quod dic: ut no. nfr¬ 
+          <lb ed="#C" n="14"/>de frig. §. quae impotentia. ver. accidentalis. In illo igitur qui si 
+          <lb ed="#C" n="15"/>bi membrum amputat, est causa irregularitatis saevitia, si 
+          <lb ed="#C" n="16"/>ve magnum membrum amputet, sive parvum, appareat 
+          <lb ed="#C" n="17"/>vel non appareat, nisi causa incisionis justa fuerit, puta lam 
+          <lb ed="#C" n="18"/>guor, est enim caro putrida resecanda 5. q. 5. c. 1. 24. 43. resi 
+          <lb ed="#C" n="19"/>candae. Verum in aliis qui sine culpa sua ab alio, vel casi 
+          <lb ed="#C" n="20"/>fortuito mutilantur, est causa irregularitatis, deformita 
+          <lb ed="#C" n="21"/>in membris apparentib. &amp; debilitas in apparentibus, &amp; ni 
+          <lb ed="#C" n="22"/>apparentibus, quod totum arbitrio superioris relinquo 
+          <lb ed="#C" n="23"/>argianf. eoc.&amp; z&amp;c. pen. &amp; ult. inf. decler. aegro. c. 1. Quid d¬ 
+          <lb ed="#C" n="24"/>claudo? Dicit Jo. quod qui habet crus vel latus nimis bre 
+          <lb ed="#C" n="25"/>re. &amp; forte latet, &amp; qui clavum habet, vel polyposus est. 
+          <lb ed="#C" n="26"/>naribus patitur, in redhibitione est, non sic si unum ocultur 
+          <lb ed="#C" n="27"/>habet majorem altero: ergo nec guerzus. ff. deredhi. ac. qu 
+          <lb ed="#C" n="28"/>clavium, sed quicquid dicat I.claudus de consuetudine ad 
+          <lb ed="#C" n="29"/>mittitur, alioqui multi repellentur in partibus Gallicani: 
+          <lb ed="#C" n="30"/>Sed &amp; secundum veterem legem repellitur, Si coecus fue 
+          <lb ed="#C" n="31"/>rit. Si claudus. Si parvo naso. Si grando naso. Si torto nasc 
+          <lb ed="#C" n="32"/>Si fracto pede. Si mancus. Si gibbus Si lippus. Si albugini 
+          <lb ed="#C" n="33"/>habens in oculo. Si jugem scabiem. Si impetiginem haben 
+          <lb ed="#C" n="34"/>in corpore, vel si sit ponderosus, quae licet omnia morali 
+          <lb ed="#C" n="35"/>ter exponantur. 49. dist. c.i. tamen quaedam ex his servamu 
+          <lb ed="#C" n="36"/>ad literam, quaedam non, quod totum arbitrium est, ut d 
+          <lb ed="#C" n="37"/>xi. In summa notatur, quod talia impedimenta inspectic 
+          <lb ed="#C" n="38"/>ni oculorum superioris subjici debent, quia in hujusmod 
+          <lb ed="#C" n="39"/>segnius irritant animum dimissa per aures, quam quae sum 
+          <lb ed="#C" n="40"/>oculis subjecta fidelib. inf. co.c.2. sicut cum agitur finium regun 
+          <lb ed="#C" n="41"/>dorum. C. fi.reg. I. 3. f finium reg. si irruptione, sicut cum agitu 
+          <lb ed="#C" n="42"/>de aet. ff. demin. 25. ann. ex aspectu. sicut cum quaeritur, an ali 
+          <lb ed="#C" n="43"/>qua sit virgo, vel corrupta 27. q. 1. nec aliqua. sicut cum dubi 
+          <lb ed="#C" n="44"/>tatur, an aliqua sit praegnans, vel non f. de ven. imsp. l. 1. &amp; de 
+          <lb ed="#C" n="45"/>hoc not. plenius de proba. §. &amp; quot sunt species. vers. § fit etian 
+          <lb ed="#C" n="46"/>probatio 
+          <!--<lb ed="#C" n="47"/>ADDITIO. 
+          <lb ed="#C" n="48"/>b Furtum enim est) Adde l. I. ff. de fur .I. si. ff.decond. fur. &amp; in §. 
+          <lb ed="#C" n="49"/>inst. de oblig. quae ex quasi deli. nasc. Dect. in c. 2. de consi. lib. 6-->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

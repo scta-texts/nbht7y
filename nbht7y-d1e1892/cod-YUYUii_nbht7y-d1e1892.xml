@@ -1,0 +1,1865 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 19</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 19</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="716"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1892"><!-- nbht7y-l5t19 -->
+            <head xml:id="nbht7y-d1e1892-Hd1e101">Titulus 19</head>
+            <head xml:id="nbht7y-d1e1892-Hd1e103" type="question-title">De usuris</head>
+            <p xml:id="nbht7y-d1e1892-d1e106">
+               <lb ed="#C" n="75"/>De Usuris. Rubr. XIX. 
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e111">
+               <lb ed="#C" n="76"/>SuMMAIA. 
+      <lb ed="#C" n="77"/>Vsura quid sit. Et unde dicatur. 2. Et pro quibus rebus de¬ 
+      <lb ed="#C" n="78"/>tur. 4. Et ex quibus causis. 5 
+      <lb ed="#C" n="79"/>3 Species usurae quot simi 
+      <lb ed="#C" n="80"/>6 Vsurae veniunt ex mora, vel quasi mora jure communi, &amp; pr¬ 
+      <lb ed="#C" n="81"/>7Vsurae qualiter petantur, si deductae sunt in stipulationem 
+      <lb ed="#C" n="82"/>8 Erigian possit aliquid ultra sortem aliquo casu 
+      <lb ed="#C" n="83"/>9 Contractus usurarius qualiter detegatur 
+      <lb ed="#C" n="84"/>io Poenaquae sit usurariorum 
+      <lb ed="#C" n="85"/>u Vsura cui reddenda sit. Et qualiter possit repeti.u 
+      <lb ed="#C" n="86"/>13 Poena si adjecta sit, nisi pecunia mutuata ad certamdiem solva 
+      <lb ed="#C" n="87"/>tur: an praesumemus ipsam in fraudem usurarum adje 
+      <lb ed="#C" n="88"/>ctam. 
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e142">
+               <lb ed="#C" n="89"/>PRaelibavimus supra de furis, &amp; 
+      ra<lb ed="#C" n="90" break="no"/>ptoribus: &amp; quia nul 
+      <lb ed="#C" n="91"/>lus improbior fur, vel raptor, quam usurarius 
+      <lb ed="#C" n="92"/>&amp; quo ad restitutionis legem, parum refert 
+      <lb ed="#C" n="93"/>utrum per furtum, vel per rapinam, vel usuram res per 
+      <lb ed="#C" n="94"/>venerit ad aliquem, 14. qu. 4. si quis usuram. ideo post tra 
+      <lb ed="#C" n="95"/>ctatus rapinae &amp; furti, subjiciamus de usuris: dicentes 
+      <lb ed="#C" n="96"/>Quid sit usura, &amp; unde dicatur, Quot sint ejus species, Pr¬ 
+      <lb ed="#C" n="97"/>quibus rebus detur, Et quibus causis, Qualiter petantur 
+      <lb ed="#C" n="98"/>&amp; quare, An aliquo casu ultra sortem quicquam licit¬ 
+      <lb ed="#C" n="99"/>exigatur, Qualiter contractus usurarius detegatur, Qua 
+      <lb ed="#C" n="100"/>poena usurariorum.
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e172">
+               <lb ed="#C" n="101"/>Quid sit usura. QVodcunque solurioni ri 
+      <lb ed="#C" n="102"/>mutuatae accedit ipsius rei usus 
+      <lb ed="#C" n="103"/>gratia pactione interposita, vel hac intentione habita i 
+      <lb ed="#C" n="104"/>contractu, vel exactione habita ex post facto. Quodcunq 
+      <lb ed="#C" n="105"/>ideo dicitur: quia sive sit pecunia, sive spes fructus, sive e 
+      <lb ed="#C" n="106"/>lectuarium, vel cupella vini, &amp; postremo quodcunque no 
+      <lb ed="#C" n="107"/>men imponas, ex quo ultra sortem exigis, usura est, ut 14 
+      <lb ed="#C" n="108"/>quaest. 3. usura &amp; cap. plerique. sic supra de simon. intantum. E 
+      <lb ed="#C" n="109"/>c. ea quae. Rei mutuatae ideo dicitur: quia in contracti 
+      <lb ed="#C" n="110"/>mutui tantum locum habet; secundum Goffre. Rayn. 8 
+      <lb ed="#C" n="111"/>quasi omnes, sed tu junge regulariter, haec ideo dico: qui¬ 
+      <lb ed="#C" n="112"/>in casibus authoritate legis usurae praestantur, licet nulli 
+      <lb ed="#C" n="113"/>mutuum sit contractum, ut patet in his, quae not. infra co¬ 
+      <lb ed="#C" n="114"/>§ quibus. &amp; ex quibus. Sed regulariter non praestatur, nisi in 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="115"/>ADDITIO. 
+      <lb ed="#C" n="116"/>a Quid sit usura] Vsuram specialius definit Martin. eod. tita. i 
+    </p>
+    <p>
+      <lb ed="#C" n="117"/>Sum. in haec verba, Vsura est ex mutuo lucrum pacto debi 
+      <lb ed="#C" n="118"/>tum, vel exactum. Admonendus tamen interea est luris can¬ 
+      <lb ed="#C" n="119"/>didatus in definitione Martini non pacto, sed stipulationi 
+      <lb ed="#C" n="120"/>legendum esse. nam non ex pacto, sed ex stipulatione debi 
+      <lb ed="#C" n="121"/>tur usuiae, C. de usur. Iquamvis Bassa. Quando igitur, quid gra 
+      <lb ed="#C" n="122"/>tis oblatum recipitur, usura non est, argumentum, 17. 9n32 
+      <lb ed="#C" n="123"/>sura, &amp; I8. dist. de eulogiis. Nulla enim oblatio suscipienti cul 
+      <lb ed="#C" n="124"/>pae maculam ingerit, quae non ex ambientis processit petitio 
+      <lb ed="#C" n="125"/>ne, i. quaest. 2. sicus. Aliam quoque &amp; latiorem adfert Mari 
+      <lb ed="#C" n="126"/>definitionem usurae, ut sit quiequid sorti accedit ex intentio 
+      <lb ed="#C" n="127"/>ne corrupta creditoris, qui non mutuasset, nisi principalite 
+      <lb ed="#C" n="128"/>propter spem lucri, ut 14. qu. 3. plerique &amp; cap. item esta. Sola e 
+      <lb ed="#C" n="129"/>nim spe, vel expectatione committitur usura. quando mutu 
+      <lb ed="#C" n="130"/>atur principaliter propter lucrum, quo casu tenetur credito 
+      <lb ed="#C" n="131"/>totum restituere quacunque intentione dederit ci debitor 
+      <lb ed="#C" n="132"/>sive ex dilectione exorta propter mutuum, seu ob aliuc 
+      <lb ed="#C" n="133"/>quodcunque. extra, eod, cap. consuluit. Quod intelligas verum 
+      <lb ed="#C" n="134"/>quando causa mutuandi principaliter ponitur in spe vel ex 
+      <lb ed="#C" n="135"/>pectatione lucri. Alioquin si principaliter ob charitatem, &amp; 
+      <lb ed="#C" n="136"/>dilectionem mutuat, secundario tamen aliquid retributio 
+      <lb ed="#C" n="137"/>nis nomine expectat, non videtur usura esse, atgum 77. dist. 1 
+      <lb ed="#C" n="138"/>singulis, &amp; 62. dist. si officia. Quia cum quis liberaliter mutuat 
+      <lb ed="#C" n="139"/>scire debet debitorem sibi ad antidora obligatum, ff. de peri 
+      <lb ed="#C" n="140"/>I. sed &amp; si. §. consuluit. &amp; extra, de testa. cum in ouifcii, &amp; id eo retri 
+      <lb ed="#C" n="141"/>butionem sperare potest. extra, de simoana. Adde Doct. in rul 
+      <lb ed="#C" n="142"/>cod tit glo. in cap. quod dicam, 14 9. 4. Doct in tap. quoniam, de asur 
+      <lb ed="#C" n="143"/>Ioan. Mo. in cap. I. de usur lib. 6. Ioan. And. in regula, peccatum 
+      <lb ed="#C" n="144"/>de regulis inris, lib. 6. Paulus de Eleazar. in clem. 1. de usus--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0734.xml-->
+      <pb ed="#C" n="717"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>mutuo. Est autem mutuum, I quod de meo fit tuum, 
+      <lb ed="#C" n="2"/>habet locum mutuum in his rebus, quae pondere numero 
+      <lb ed="#C" n="3"/>&amp; mensura consistunt: ut in massa auri, vel argenti, pecu 
+      <lb ed="#C" n="4"/>nia, oleo, frumento, ut ff. sicert. petatur. lI. 2. Inst. quibus modi 
+      <lb ed="#C" n="5"/>re contrahitur obl. circa princip. quod ergo scripsit Rayn. no 
+      <lb ed="#C" n="6"/>committi usuram, nisi in his rebus tantum, in quibus ci 
+      <lb ed="#C" n="7"/>sistit mutuum: intelligas quo ad contractum: quia in a 
+      <lb ed="#C" n="8"/>lio contractu regulariter non debet committi usura, u 
+      <lb ed="#C" n="9"/>supra nota. porro quo ad usuram, aliud est, nam si tibi mi 
+      <lb ed="#C" n="10"/>tuo aliquid, &amp; tu pro illo mutuo promittas mihi vestem 
+      <lb ed="#C" n="11"/>vel equum, vel praedium, aliquid, vel aliud, quod nec in 
+      <lb ed="#C" n="12"/>numero, mensura, vel pondere consistat, usura est, ut 14 
+      <lb ed="#C" n="13"/>3. plerique. &amp; ca.usura. si igitur aliquid hac de causa exiga 
+      <lb ed="#C" n="14"/>tur, usura est: secus, si non esset mutuata, sed locata, ut no 
+      <lb ed="#C" n="15"/>supra de locat. &amp; cond. §. 1. Et est ratio secundum quosdam 
+      <lb ed="#C" n="16"/>quia periculum rei locatae ad locatorem pertinet: sed re 
+      <lb ed="#C" n="17"/>mutuatae, ad debitorem, ut ff. derei vend. si navis. ideoque ir 
+      <lb ed="#C" n="18"/>cendium non liberat debitorem, ut C. si certum petatur. in 
+      <lb ed="#C" n="19"/>cendium. sed hac ratione considerata, foenus nauticum! 
+      <lb ed="#C" n="20"/>citum esset, quod tamen falsum est, ut infra eod. naviganti 
+      <lb ed="#C" n="21"/>Alii dicunt hanc rationem, quia mutuum debet esse gra 
+      <lb ed="#C" n="22"/>tuitum, sed ex quo pecunia interveniret, transiret in loca 
+      <lb ed="#C" n="23"/>tionem, prout not. supra de commod. §. quid sit commodatum 
+      <lb ed="#C" n="24"/>vers. gratuita. &amp; de loc. §. quid sit loc atio. Tu dic, quod illa es 
+      <lb ed="#C" n="25"/>ratio, quia rei locatae dominium retinemus, adeo quo 
+      <lb ed="#C" n="26"/>conductor de proprietate quaestionem referre non pote 
+      <lb ed="#C" n="27"/>rit, C. depign. act nec creditores. &amp; ideo pro usu rei propriae 
+      <lb ed="#C" n="28"/>quando concedimus pecuniam, recipimus quod licitum 
+      <lb ed="#C" n="29"/>est: quia nec aliquis cogitur de proprio beneficium face 
+      <lb ed="#C" n="30"/>re. 10. q. 2. praecariae, 12. q. 2. praecariae. Sed rei mutuatae domi 
+      <lb ed="#C" n="31"/>nium transferimus, ideo pro usu rei propriae debitori 
+      <lb ed="#C" n="32"/>improbe pecuniam exigimus ab eo. ad haec, ff derei vend. 
+      <lb ed="#C" n="33"/>naris. Item usus rei locatae aliquis est sine consumptione 
+      <lb ed="#C" n="34"/>nsus autem rei mutuatae nullus est sine consumptione 
+      <lb ed="#C" n="35"/>Ipsius rei usus gratia, ideo dicitur: quia si non gratia usus 
+      <lb ed="#C" n="36"/>id est, consumptionis, sed loco poenae apponeretur sin¬ 
+      <lb ed="#C" n="37"/>fraude aliud esset, patet supra de ar dilecti. 12. q. 2. fraternitas 
+      <lb ed="#C" n="38"/>est autem differentia inter usuram &amp; poenam. nam usur: 
+      <lb ed="#C" n="39"/>praestatur ratione spacii temporis, nempe quicquid a¬ 
+      <lb ed="#C" n="40"/>mensem datur ad computationem anni redigitur, ut C ec 
+      <lb ed="#C" n="41"/>auth ad hoc, sed poena non praestatur secundum spatium a 
+      <lb ed="#C" n="42"/>licujus temporis, sed secundum quod inter partes conve 
+      <lb ed="#C" n="43"/>nit, &amp; ut pactum servetur, inf. de poen constitutus. Vel sic po 
+      <lb ed="#C" n="44"/>na praestatur, quia non fit quod convenit,. vel quia non sol 
+      <lb ed="#C" n="45"/>vit quod debetur, sup. de arb. dilecti. Sed usura praestatur, u 
+      <lb ed="#C" n="46"/>sors non solvatur, sed sortis solutio differtur, infr eo consu 
+      <lb ed="#C" n="47"/>luit. unde usura &amp; poena aliquando videntur contrariae 
+      <lb ed="#C" n="48"/>imo aliquando usura excludit poenam. C. deju. do impub. 
+      <lb ed="#C" n="49"/>2. quandoque ipsum debitum, ff. depo si hominem, § quoties. secun 
+      <lb ed="#C" n="50"/>dum Goffr. Pactione interposita, &amp;c. additur ideo, quia 
+      <lb ed="#C" n="51"/>nullo pacto ab initio interveniente, nec exactione ex pos 
+      <lb ed="#C" n="52"/>habita debitor aliquid gratis offerret, recipi posset sine ali 
+      <lb ed="#C" n="53"/>quo pacto: dummodo mala intentione ab initio caruisset 
+      <lb ed="#C" n="54"/>nullam enim maculam oblatio suscipienti ingerit, qua 
+      <lb ed="#C" n="55"/>non ambientis petitione processit, 1. q. 2. sicut episcopum. si 
+      <lb ed="#C" n="56"/>mile no. supra de simo. § quid sit simo. vers. ulti. porro si hac ir 
+      <lb ed="#C" n="57"/>tentione principaliter ductus, ut aliquid mihi dares, si tib 
+      <lb ed="#C" n="58"/>mutuassem pecuniam: alias non mutuaretur, li et in for¬ 
+      <lb ed="#C" n="59"/>judiciali non posset censeri usurarius, ut infra eod in civita 
+      <lb ed="#C" n="60"/>te. tamen in poenitentiali inducendus sum, ut pecunian 
+      <lb ed="#C" n="61"/>sic receptam restituam, quia per beatum Lucam Evange 
+      <lb ed="#C" n="62"/>listam: imo per Dominum dictum est, mutuum dantes 
+      <lb ed="#C" n="63"/>nihil inde sperantes, ut inf. eod cap. I. &amp; cap. consuluit. respon. 1 
+      <lb ed="#C" n="64"/>4. q. 4. sifoeneraberis. si tamen alias esset mutuaturus, sed si 
+      <lb ed="#C" n="65"/>cundario spero quod mihi subvenias, vel me remuneres 
+      <lb ed="#C" n="66"/>in nullo, vel in modico pecco, argumentum. 61. distinction 
+      <lb ed="#C" n="67"/>quid proderit, 59. distinction. si officia. 77. distinction. singulis 
+      <lb ed="#C" n="68"/>I. quaestion. 2. quam pio. supra de test cum in officiis. ff. de per 
+      <lb ed="#C" n="69"/>haered. sed &amp; si. §. consuluit. supra de simonia tua. vel si dica 
+      <lb ed="#C" n="70"/>tur simpliciter, &amp; indistincte sola spe committi vitiun 
+      <lb ed="#C" n="71"/>usurarum dici potest, quod ad purgationem delicti no 
+      <lb ed="#C" n="72"/>est opus rest. sed sufficit poenitentia sola: sicut dicitur in 
+      <lb ed="#C" n="73"/>simonia. supra de sonon, cap. sin. secundum Goffre. hoc nor 
+      <lb ed="#C" n="74"/>placet. sed dic, ut no. supra. nam huic intentioni decr. con 
+      <lb ed="#C" n="75"/>suluit, infr. eod. manifeste contradicit. &amp; quare aliud sit in 
+      <lb ed="#C" n="76"/>usura, quam in simo. vide quod no. sup. de sim. §. quid sit simu
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e378" n="2">
+               <lb ed="#C" n="77"/>Et unde dicatur Et quidem dicitur usura, a 
+      <lb ed="#C" n="78"/>usu rei, quia datur ob usum 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0734.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>rei, id est, pecuniae. vel dicitur usura, quasi usurea, sivi 
+      <lb ed="#C" n="80"/>usueta, id est, usus aeris, hoc est, pecuniae, quod ad iden 
+      <lb ed="#C" n="81"/>recidit. nomine autem pecuniae continetur, quicqui 
+      <lb ed="#C" n="82"/>homines in bonis habent, i. q. 7. totum. sed non commi 
+      <lb ed="#C" n="83"/>titur, nisi in contractu mutui. quod dic. ut not. supra eod 
+      <lb ed="#C" n="84"/>§. versic. rei mutuatae 
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e402" n="3">
+               <lb ed="#C" n="85"/>Quot sunt ejus species. Duaz. Prima et 
+      <lb ed="#C" n="86"/>spiritualis &amp; aequa: 
+      <lb ed="#C" n="87"/>secunda corporalis &amp; iniqua. Primum foenus, sci 
+      <lb ed="#C" n="88"/>licet spirituale, aequum aspicere, &amp; exercere debemus: u 
+      <lb ed="#C" n="89"/>quod hîc misericorditer tribuimus a Domino, qui multi 
+      <lb ed="#C" n="90"/>pliciter, &amp; in perpetuo mensuram tribuit, recipere valea 
+      <lb ed="#C" n="91"/>mus. 46. dist. sic non suo. nam pro uno centuplum accipie 
+      <lb ed="#C" n="92"/>mus, &amp; vitam aeternam possidebimus August. Homo mi 
+      <lb ed="#C" n="93"/>ser cur foeneraris homini, foenerare Deo, &amp; centuplum ac 
+      <lb ed="#C" n="94"/>cipies, &amp; vitam aeternam possidebis. Secundum vero foe 
+      <lb ed="#C" n="95"/>nus, scilieet corporale &amp; iniquum, est illud, de quo hic spe 
+      <lb ed="#C" n="96"/>cialis tractatus habetur, &amp; subdividitur, est .n. foenus soi 
+      <lb ed="#C" n="97"/>tis, &amp; foenus foenoris, qui secundum exercet, etiam secund. le 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="98"/>ADDITIONES. 
+      <lb ed="#C" n="99"/>b Est autem mutuum] Adde an sit differentia intermutuum, &amp; 
+    </p>
+    <p>
+      <lb ed="#C" n="100"/>commodatum. vide in l. 2. cum gloss. &amp; ibi Bart. C. de his, quae e 
+      <lb ed="#C" n="101"/>pub. ratio. lib. 10 &amp; quid in doposito. vide per Ias. inI si quis, ne 
+      <lb ed="#C" n="102"/>causam, in princ. ff. si cert petatur 
+      <lb ed="#C" n="103"/>e Quot sunt ejus species] Hanc usurarum divisionem mutuatus 
+    </p>
+    <p>
+      <lb ed="#C" n="104"/>videtur ex Martino, ubi supra Host cui addidi, &amp; Mart. ultimi 
+      <lb ed="#C" n="105"/>membri sub divisionem ab Host. praetermissam: Corporalis 
+      <lb ed="#C" n="106"/>inquit, &amp; iniqua subdividitur, quia alia est sortis, &amp; alia usu 
+      <lb ed="#C" n="107"/>rarum, &amp; haec ultima appellatur foenus improbum, quam qu 
+      <lb ed="#C" n="108"/>exercet, infamis ipso jure efficitur, etiam secundum Il. 3. quae 
+      <lb ed="#C" n="109"/>stion. 7. §. tria in sin. &amp; C. ex quibus causis infamia irrog. l. impro 
+      <lb ed="#C" n="110"/>bum. Sed secundum jura canonica, in utraque specie ipso ju 
+      <lb ed="#C" n="111"/>re infamia irrogatur, cum in utraque committatur pecca 
+      <lb ed="#C" n="112"/>tum mortale. 6. quaestion. 1. infames. Est &amp;t alia usurarum di 
+      <lb ed="#C" n="113"/>visio, alia enim est directa, alia indirecta: directa dupliciter 
+      <lb ed="#C" n="114"/>scilicet cum pacto, &amp; sine pacto. Cum pacto autem duplici 
+      <lb ed="#C" n="115"/>ter, quia quaedam est usura sortis, quaedam usurarum: usuri 
+      <lb ed="#C" n="116"/>sortis est, quando datur mutuum, it accipiatur aliquid prae 
+      <lb ed="#C" n="117"/>ter sortem, sicut fit quoridie. Sed usura usurarum est, quan¬ 
+      <lb ed="#C" n="118"/>do usura ponitur in capitali &amp; haec vocatur improbum foe 
+      <lb ed="#C" n="119"/>nus, &amp; qui eam exercet, infamis efficitur, secundum leges 
+      <lb ed="#C" n="120"/>Vsura sine pacto fit duobus modis, uno modo, cum dicit 
+      <lb ed="#C" n="121"/>Non facio pactum tecum, sed dabis mihi ad libitum tuum 
+      <lb ed="#C" n="122"/>qui nisi quid inde principaliter speraret lucrum, non mutuas¬ 
+      <lb ed="#C" n="123"/>set pecuniam. Secundo modo fit quando simpliciter mu 
+      <lb ed="#C" n="124"/>tuat nihil dicendo, habet tamen intentionem aliquid acci 
+      <lb ed="#C" n="125"/>perc ultra fortem: Non enim refert quo ad Deum, si home 
+      <lb ed="#C" n="126"/>mutuat, ut quid praeter sortem accipiat, utrum id faciat cum 
+      <lb ed="#C" n="127"/>pacto, vel sine pacto, quia isura committitur voluntate, se 
+      <lb ed="#C" n="128"/>cundum illud, Mutuum dantes, &amp;c. Ideoque usura sine pacte 
+      <lb ed="#C" n="129"/>est plerunque periculosior, quia reperi non potest in fore 
+      <lb ed="#C" n="130"/>causarum. Et ideo nota. quod quando principalis inten¬ 
+      <lb ed="#C" n="131"/>tio mutuantis est in lucro, usura est. Quando vero princi 
+      <lb ed="#C" n="132"/>palis intentio est propter Deum, secundario autem expecta 
+      <lb ed="#C" n="133"/>lucrum, sed tamen sine pacto, tunc non est usura. Vsur: 
+      <lb ed="#C" n="134"/>autem conventionis tribus modis committitur 
+    </p>
+    <p>
+      <lb ed="#C" n="135"/>Primo 
+      <lb ed="#C" n="136"/>quandocapitale, &amp; lucrum ponitur in certitudine, ut cum 
+      <lb ed="#C" n="137"/>dicitus, Mutuo tibi 10. solidos pro 15. Secundo, quando ca 
+      <lb ed="#C" n="138"/>pitale ponitur in certitudine, &amp; lucrum in fortuna, ut cum 
+      <lb ed="#C" n="139"/>dicitur, mutuo tibi decem, &amp; si lucratus fueris, dabis mih 
+      <lb ed="#C" n="140"/>tantum de lucro, vel ad voluntatem. Si vero nihil lucratu 
+      <lb ed="#C" n="141"/>fueris, nihil mihi dabis. Sed quicquid dabis mihi de lucro 
+      <lb ed="#C" n="142"/>reddes mihi penitus capitale. Tertio modo, quando lucrum 
+      <lb ed="#C" n="143"/>ponitur in certitudine, &amp; capitale in periculo, sicut faciunt 
+      <lb ed="#C" n="144"/>ii, qui mutuant ad fortunam maris, ut si navis periisset, no 
+      <lb ed="#C" n="145"/>teneretur debitor etiam capitale reddere. Iste tertius mo 
+      <lb ed="#C" n="146"/>dus prob tur extra, de usuris, cap. naviganti. Item directa usu 
+      <lb ed="#C" n="147"/>ra, quando fit in fraudem percepti, mutando contractum, ut 
+      <lb ed="#C" n="148"/>si dicatur: Non mutuo tibi pecuniam. sed vendo, mutat e¬ 
+      <lb ed="#C" n="149"/>nim contractum mutui in contractum fictae venditionis, ô 
+      <lb ed="#C" n="150"/>idem intendit lucrari hinc, &amp; inde. idem est, si quis venda 
+      <lb ed="#C" n="151"/>merces suas carius, propter terminum, nisi res plus velmi 
+      <lb ed="#C" n="152"/>nus valitura sit in termino, verisimiliter dubitetur, secun 
+      <lb ed="#C" n="153"/>dum arbitrium boni viri, si res illas tempore contractu 
+      <lb ed="#C" n="154"/>non fueras venditurus. extra, eodem titul. capitul. final. Secu 
+      <lb ed="#C" n="155"/>autem, si esset paratus illas vendere omnidie, &amp; ideo tali 
+      <lb ed="#C" n="156"/>facere non est tutum. Est &amp;t alia usurarum divisio: nam a 
+      <lb ed="#C" n="157"/>lia est centesima, quae in anno aequiparatur sorti. C. eodem i 
+      <lb ed="#C" n="158"/>tul. Leos Alia est sexcupla, quae alias haemiola, vel semis di 
+      <lb ed="#C" n="159"/>citur, ut 47. dist. quoniam. Sed Legistae aliter solent distingue 
+      <lb ed="#C" n="160"/>re, in d. Leos -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0735.xml-->
+      <pb ed="#C" n="718"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>gem antiquam infamis est. 3. 47. §. tria. &amp; not. infra eod 
+      <lb ed="#C" n="2"/>qualiter. vers. &amp; hoc notandum. Sed secundum jura canonic 
+      <lb ed="#C" n="3"/>in utraque mortale peccatum committitur, &amp; infamia in 
+      <lb ed="#C" n="4"/>rogatur. 6. q.1. infames.
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e450" n="4">
+               <lb ed="#C" n="5"/>Pro quibus rebus detur Et quidem speci 
+      <lb ed="#C" n="6"/>aliter pro pecu 
+      <lb ed="#C" n="7"/>nia, largo autem modo pro omni re, in qua mutuum con 
+      <lb ed="#C" n="8"/>sistit, sed in speciebus non habet locum, nisi in casibus: nan 
+      <lb ed="#C" n="9"/>secundum leges possessor haereditatis bonae fidei in haer¬ 
+      <lb ed="#C" n="10"/>ditatis petitione fructuum perceptorum ante litem cor 
+      <lb ed="#C" n="11"/>testatam, praestat usuram post litis contestationem, ut ffd 
+      <lb ed="#C" n="12"/>petit. haeredi. haeres. §. ultim. Item si testator legaverit mil 
+      <lb ed="#C" n="13"/>rem, ut ea distracta pecunia uteretur, &amp; haeres in praestar 
+      <lb ed="#C" n="14"/>do moram adhibeat, tenetur ad usuram: sed si legatum sit 
+      <lb ed="#C" n="15"/>ut ea re utar: non sine rubore usuras desiderabo. Item 
+      <lb ed="#C" n="16"/>testator haeredem damnet, ut statuas, vel imagines pona 
+      <lb ed="#C" n="17"/>in municipio, elapsa die a judice assignata, &amp; haerede mo 
+      <lb ed="#C" n="18"/>ram faciente, usuras praestabit usque ad tertiam centes¬ 
+      <lb ed="#C" n="19"/>mae, ut haec omnia probantur, ff. eod. in fideicommisso. §. alt 
+      <lb ed="#C" n="20"/>&amp; l. cum quidam, §. ult.
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e487" n="5">
+               <lb ed="#C" n="21"/>Ex quibus, causis. Et quidem secundum lege 
+      <lb ed="#C" n="22"/>antiquas ex stipulationibu 
+      <lb ed="#C" n="23"/>habitis inter partes, vel pacto nudo in contractu bonaef 
+      <lb ed="#C" n="24"/>dei incontinenti apposito, ut ff. de pact. in bonae fidei, ff. eodem 
+      <lb ed="#C" n="25"/>cum quidam. §. ex locato, &amp; depositi plebeja. §. Lucius. in fin. &amp; 
+      <lb ed="#C" n="26"/>quintus &amp; C. de pact. inter empto: in initio. Item in contra 
+      <lb ed="#C" n="27"/>ctibus stricti juris, ff. sicertum petat. lecta. §. sed cum sortis, n 
+      <lb ed="#C" n="28"/>si in casu, sci. quando mutuum in numero contractum es 
+      <lb ed="#C" n="29"/>nam tunc necessaria est stipulatio. soluta autem, nec rep¬ 
+      <lb ed="#C" n="30"/>titur, ut indebita, nec in sortem accepto fertur, ut C. eodem 
+      <lb ed="#C" n="31"/>quamvis. Si tamen debitor talem usuram solvat, credito 
+      <lb ed="#C" n="32"/>non nominatim, sed simpliciter non accepto feretur in ta 
+      <lb ed="#C" n="33"/>lem usuram, nisi pro ipsa pignus sibi obligatum foret, se¬ 
+      <lb ed="#C" n="34"/>si creditor pignus sibi obligatum distraheret: liceret acce 
+      <lb ed="#C" n="35"/>pto ferre pretium, etiam in usura nudo pacto debita, ut 
+      <lb ed="#C" n="36"/>de sol. in his, §. ult. &amp; l. Paulus respondit, §. Paulus. Sed si mutu 
+      <lb ed="#C" n="37"/>in mensura contractum sit, etiam ex nudo pacto debetu 
+      <lb ed="#C" n="38"/>usura, ut ff. eod letiam. Item in trajecticia pecunia, etian 
+      <lb ed="#C" n="39"/>ex nudo pacto privatus usuram petit, ut ff. de nautico foenc 
+      <lb ed="#C" n="40"/>re, periculi. §. in his. Est autem trajectitia pecunia, sive nau 
+      <lb ed="#C" n="41"/>tica, quae periculo creditori in navigio suscepta datu 
+      <lb ed="#C" n="42"/>trajicienda. quasi nautica est, quando pecuniae mutuat. 
+      <lb ed="#C" n="43"/>in me suscipio periculum, sed aliqua conditio non existat 
+      <lb ed="#C" n="44"/>puta, si piscator non capit pisces: si athleta superetur in 
+      <lb ed="#C" n="45"/>pugna: &amp; existente conditione, ad ipsum quod credid 
+      <lb ed="#C" n="46"/>j recipiam cum centesima usura: ut f. ae nautico foenore 
+      peri<lb ed="#C" n="47" break="no"/>culi. Hic ergo possum centesimam usuram stipulari, a qu 
+      <lb ed="#C" n="48"/>anno revoluto sortem duplicat, &amp; incipit currere ex qu¬ 
+      <lb ed="#C" n="49"/>navem navigare conveniat, &amp; quamdiu pertinet pericu 
+      <lb ed="#C" n="50"/>lum ad creditorem, ut ff. de nautico faenore, l. 2. &amp; l.1. &amp; l. ni 
+      <lb ed="#C" n="51"/>hil. Pertinet etiam ad creditorem periculum, si debitor 
+      <lb ed="#C" n="52"/>nihil possit imputari, ubi vero non servavit locum nav 
+      <lb ed="#C" n="53"/>gii, vel si illicita in navi transportabat, pertinet periculun 
+      <lb ed="#C" n="54"/>ad ipsum debitorem, cum in culpa sit, ut C. denautico foen 
+      <lb ed="#C" n="55"/>re, cum proponas. alias neque casus fortuitus, neque incen 
+      <lb ed="#C" n="56"/>dium liberat debitorem, ut C. si certum petatur incendium, 
+      <lb ed="#C" n="57"/>Institution. quibus modis re contrahitur obligatio, §. i. &amp; jungi 
+      <lb ed="#C" n="58"/>quod notat. infra eodem, §an aliquo casu, sub §. in aliis auten 
+      <lb ed="#C" n="59"/>casibus.
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e574" n="6">
+               <lb ed="#C" n="60"/>EX mora etiam veniunt usurae, vel quasi mora, jur 
+      <lb ed="#C" n="61"/>communi, &amp; speciali, sed propter casuum varietaten 
+      <lb ed="#C" n="62"/>plene non potest diffiniri, quando committatur, ut ait ls 
+      <lb ed="#C" n="63"/>eod. mora. Sed tamen secund. Azo. mora fit jure commun 
+      <lb ed="#C" n="64"/>cum quis major quatuordecim ann. est, ut ff. de verbor. obl 
+      <lb ed="#C" n="65"/>gationib. si pupillus. Interpellatus, per diei appositae lapsum 
+      <lb ed="#C" n="66"/>ut ff. de verbor. obligationib. si fundum, &amp; C. de contrahend stipu¬ 
+      <lb ed="#C" n="67"/>magna. &amp; supra de locat. capit. fin. in fine. Vel per litem con 
+      <lb ed="#C" n="68"/>testatam, ut ff. de verbor. obligat. nemo, in fine. Vel per ipsiu 
+      <lb ed="#C" n="69"/>hominis, cui debetur, denunciationem, congruo loco 
+      <lb ed="#C" n="70"/>tempore factam, ut ff. eod. mora. &amp; de verbor. oblig. si ex legat 
+      <lb ed="#C" n="71"/>Cum intelligat se debere, vel intelligere debeat, ut f.derel 
+      <lb ed="#C" n="72"/>creditis. quod te. non omissa rei repetendae instantia, sin 
+      <lb ed="#C" n="73"/>causa distulit rei solutionem, vel praestationem, ut ff. eoo 
+      <lb ed="#C" n="74"/>mora, &amp; l. sciendum. Effectus autem morae is est in contra 
+      <lb ed="#C" n="75"/>ctibus bonae fidei &amp; legatis, &amp; fideicommissis, quod lice 
+      <lb ed="#C" n="76"/>stricti juris sint, in hoc aequiparantur contractibus bon¬ 
+      <lb ed="#C" n="77"/>fidei. C. in quibus causis in integrum restitutio non est necess. ii 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0735.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>minorum, ut pariat usuram. secus in contractibus strict 
+      <lb ed="#C" n="79"/>juris, ut ff eodem, mora. §. primo, &amp; de legat. 2. si quis servo. ( 
+      <lb ed="#C" n="80"/>I. qui solidum, respons. 1. &amp; de cond. indebit. I prima. Haec mo 
+      <lb ed="#C" n="81"/>ra etiam facit rem, vel interesse aestimati tanti officio ju 
+      <lb ed="#C" n="82"/>dicis, quanti erat tempore morae, vel postea fuit, quando 
+      <lb ed="#C" n="83"/>cunque ante sententiam, nisi mora purgata foret, ut f. d 
+      <lb ed="#C" n="84"/>edend. ubi. §. i. &amp; de triti. I. penulum. &amp; ultim. &amp; de actioniu 
+      <lb ed="#C" n="85"/>empti. ration. §. si per venditorem, &amp; de re judicat. si causalis, e 
+      <lb ed="#C" n="86"/>de condict. fur. in rem, &amp; de verborum obligationibus, quoties in 
+      <lb ed="#C" n="87"/>diem. Inducit etiam petitionem fructuum per officiun 
+      <lb ed="#C" n="88"/>judicis, in quolibet contractu, si petam, quod aliquand 
+      <lb ed="#C" n="89"/>fuit meum, vel ejus, a quo habeo causam: alias exigitu 
+      <lb ed="#C" n="90"/>litis contestatio in contractu duntaxat stricti juris, ut f 
+      <lb ed="#C" n="91"/>de usur. videamus, 2. §. si accusa. &amp; respons. i. &amp; §. i. &amp; §. ex cau¬ 
+      <lb ed="#C" n="92"/>sa. &amp; §. si possessionem. &amp; l. 2. Et aliquando punit in tertia 
+      <lb ed="#C" n="93"/>parte debiti, ut ff. de inofficios. testam. &amp; si quis suo. Et faci 
+      <lb ed="#C" n="94"/>etiam rei periculum indistincte pertinere ad reum, etiam 
+      <lb ed="#C" n="95"/>si erat peritura penes actorem, quia satis est, quod potera 
+      <lb ed="#C" n="96"/>non perire, ut ff. de lega. i. cum res. §. ultim. nec obst. ff. depo 
+      <lb ed="#C" n="97"/>si plures, §. ultim. quia licet esset ibi conventus, non tamer 
+      <lb ed="#C" n="98"/>erat in mora, quia habebat probabilem causam resistendi 
+      <lb ed="#C" n="99"/>puta propter expensas, &amp; hoc expressim probatur in au 
+      <lb ed="#C" n="100"/>thentic. depo. &amp; de nupt. coll. 6. cum inibi dicat teneri eum 
+      <lb ed="#C" n="101"/>qui interdicit depositario, ne mihi restituat de casu fortu 
+      <lb ed="#C" n="102"/>ito, multo magis teneretur depositarius, si sine causa de 
+      <lb ed="#C" n="103"/>tineat, &amp; perfidius facit. Tamen circa realem actionem 
+      <lb ed="#C" n="104"/>illud specialiter est notandum, quod si erat bonae fidei pos 
+      <lb ed="#C" n="105"/>sessor ab initio, &amp; sit factus malae fidei ex post facto, vel ir 
+      <lb ed="#C" n="106"/>mora sit, disting. an eodem modo esset peritura penes a 
+      <lb ed="#C" n="107"/>ctorem, &amp; tunc tamen tenetur, ut ff. derei ven. l. Item si ver 
+      <lb ed="#C" n="108"/>beratum. §. ult. alias tenetur. ergo proficit initium bonae fi 
+      <lb ed="#C" n="109"/>dei, sicut alias infra eodem, sine aliena: sed si justam cau 
+      <lb ed="#C" n="110"/>sam habuit litigandi indistinct. non tenetur, ut eod. utiq 
+      <lb ed="#C" n="111"/>autem, &amp; illud scias, quandoque dicitur quis malae fidei 
+      <lb ed="#C" n="112"/>qualitercunque sciat haereditatem ad alium pertinere 
+      <lb ed="#C" n="113"/>quo ad fructus, &amp; similia, ut f.de petit. haered. item veniun 
+      <lb ed="#C" n="114"/>§. petitam, &amp; § a quo, &amp; l. sed &amp; si lege. §. siante. Item in re 
+      <lb ed="#C" n="115"/>vendica. fit malae fidei possessor lit. contestatione quanti 
+      <lb ed="#C" n="116"/>ad fructus, ut C. de rei vendic. certum remanet tamen bona 
+      <lb ed="#C" n="117"/>fidei possessor, quo ad usucap. triennii complendam, &amp; ui 
+      <lb ed="#C" n="118"/>suos faciat fructus, si obtinuerit, alias ipsos restituet, sicu 
+      <lb ed="#C" n="119"/>&amp; rem usucaptam, post litem contestatam. ut ffi pro empt. 
+      <lb ed="#C" n="120"/>2. infin. eodem titul. qui scit. §. ultim. &amp; de rei vendicat. si pos 
+      <lb ed="#C" n="121"/>Item quantum ad fatalitatem, ut ff. de petit. haered illua se¬ 
+      <lb ed="#C" n="122"/>quo ad praescriptionem, nullo modo videtur possessor 
+      <lb ed="#C" n="123"/>quia interrumpitur litis contestatione, ut not. supra de li¬ 
+      <lb ed="#C" n="124"/>contestat. §. quis sit effectus C derei vendicat morae. Jure auten 
+      <lb ed="#C" n="125"/>speciali fit mora favore libertatis circa fideicommissarian 
+      <lb ed="#C" n="126"/>libertatem, hoc ipso, quod non praestatur: &amp; hoc inducit 
+      <lb ed="#C" n="127"/>ut matri detur manumittendi causa: ut ff. defideicemis 
+      <lb ed="#C" n="128"/>lib. cum vero. §. apparet. Item favore cursus biennii: &amp; ho 
+      <lb ed="#C" n="129"/>similiter petit usuras. C. de jure dot. I. ult. §. ult. Fit etiam spe 
+      <lb ed="#C" n="130"/>cialiter propter odium sicut in fure &amp; praedone: ut ff. d 
+      <lb ed="#C" n="131"/>vi &amp; vi armat. l. i. §. rectissime. &amp; l. penult. Item in meticu 
+      <lb ed="#C" n="132"/>loso: sed in eo dist. utff quod met, causItem sicum exce §. quo 
+      <lb ed="#C" n="133"/>si homo. Speciali autem jure fit mora in persona minorum 
+      <lb ed="#C" n="134"/>hoc ipso, quod quis id non solvit, quod pure debet: ut C. v 
+      <lb ed="#C" n="135"/>quib. cau. in integ. restit. non est necess. in minorum. nam si debea 
+      <lb ed="#C" n="136"/>in diem, vel sub condi. non potest ei imputari, si non solva 
+      <lb ed="#C" n="137"/>interim cum nec solvere teneatur. Item si pure, &amp; debeba 
+      <lb ed="#C" n="138"/>pupillo non habenti tutorem: quia nec tali solvere potuit 
+      <lb ed="#C" n="139"/>quid ergo poterit ei imputari, nec obst. quod in minorib 
+      <lb ed="#C" n="140"/>sit in lucro succurrendum; usurae enim non propter lucrum 
+      <lb ed="#C" n="141"/>sed propter moram non solventium infliguntur. f. eodem 
+      <lb ed="#C" n="142"/>tum quidam. § si pupillo. Purgatur autem hoc, si minor factus si 
+      <lb ed="#C" n="143"/>major, &amp; quod est mirabile, ut ff. de lega. 2. Titia Sejo. § usu 
+      <lb ed="#C" n="144"/>ras &amp; sic purgatur re ipsa cursu temporis. Re etiam ipsi 
+      <lb ed="#C" n="145"/>fit mora sisco, scilicet si non solvatur quod debetur ex suc 
+      <lb ed="#C" n="146"/>contractu. ut ff.eod, cum quidam §. fiscus. Mora autem com 
+      <lb ed="#C" n="147"/>munis purgatur stipulatione novandi animo interposit: 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="148"/>ADDITIONES. 
+      <lb ed="#C" n="149"/>a Centesimam usuram stipulari) Adde quae dicatur usula cen 
+    </p>
+    <p>
+      <lb ed="#C" n="150"/>tesima, vide glo. in I. fin. C. de petitione haereditatis, &amp;t gloss. in cat 
+      <lb ed="#C" n="151"/>queniam, 47. dis -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0736.xml-->
+      <pb ed="#C" n="719"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>vel non novandi: si tamen erat in praesentia, ut ff. de condict 
+      <lb ed="#C" n="2"/>Furt. pervi. &amp; deso qui 10. §. 1. Purgatur autem oblatione, de 
+      <lb ed="#C" n="3"/>positione, consignatione, ut C. eod. acceptam, sed oportet de 
+      <lb ed="#C" n="4"/>positionem durare, alias non videtur deposita. ff eo debito 
+      <lb ed="#C" n="5"/>&amp; in l.accepta. in fin. Porro ubi usura nondum currit, put 
+      <lb ed="#C" n="6"/>promissa erat major, si non solveretur minor, minore ol 
+      <lb ed="#C" n="7"/>sata, ipso jure non currit major, ut C. eod. I. si per te non sta 
+      <lb ed="#C" n="8"/>idem si creditor persistat in petitione minorum, cum po 
+      <lb ed="#C" n="9"/>sunt majores petere, ut C. eod adversus. &amp; l. quamvis, ex quas 
+      <lb ed="#C" n="10"/>autem mora veniunt usurae: ut ecce emptor re sibi trad 
+      <lb ed="#C" n="11"/>ta non solvit pretium, ut C eod. l. 2 &amp; de actionib empt. curabi 
+      <lb ed="#C" n="12"/>stem ubi creditor pecuniam redactam ex venditione p 
+      <lb ed="#C" n="13"/>gnoris, ultra quam sibi deberetur, in re propria converti 
+      <lb ed="#C" n="14"/>ff. de pignor. actio quamvis §. ultimo. &amp; l. si autem. Idemque in 
+      <lb ed="#C" n="15"/>procuratore &amp; curatore, qui pecuniam domini in propri 
+      <lb ed="#C" n="16"/>am utilitatem convertit, ut ff manda idemque &amp; si procura &amp; d 
+      <lb ed="#C" n="17"/>negot gest. quisine. Sed &amp; si foeneraverit, dixerunt quidam 
+      <lb ed="#C" n="18"/>quod tenetur quasi ex mora. sed Azo dixit, quod conve 
+      <lb ed="#C" n="19"/>nitur sicut de sorte. Item si adhibuit moram, convenitur 
+      <lb ed="#C" n="20"/>non tanquam ad usuram, sed ad interesse, sicut de socio 
+      <lb ed="#C" n="21"/>qui moram adhibuit in reddendo, eo quod ex societate lu 
+      <lb ed="#C" n="22"/>cratus fuit. ff. pro socio. socius, qui. &amp; de administrat. tutor. qui 
+      <lb ed="#C" n="23"/>§. si usuras 
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e831" n="7">
+               <lb ed="#C" n="24"/>Qualiter, petantur i deductae sunt instipul¬ 
+      <lb ed="#C" n="25"/>tionem vel pactionem ci 
+      <lb ed="#C" n="26"/>dictione certi Forro ex duob. praesumuntur instipulation 
+      <lb ed="#C" n="27"/>deductae, sc. si in initrumento contineatur ipsas promissa: 
+      <lb ed="#C" n="28"/>praesumitur quod interrogatio praecesserit, ut C. de contral 
+      <lb ed="#C" n="29"/>stipulation. I prima. C. eod.I. prima Item ex diuturnitate tem 
+      <lb ed="#C" n="30"/>poris: ut ff. in rem verso. I. cum de inrem verso. Quod intelli 
+      <lb ed="#C" n="31"/>gas, quando induco solutionem longi temporis ad pro 
+      <lb ed="#C" n="32"/>bandam stipulationem; secus, si ago ex tempore, ut C eo¬ 
+      <lb ed="#C" n="33"/>creditor. &amp; de operis liber. I. operis. argu. f. de action. &amp; obliga 
+      <lb ed="#C" n="34"/>obligationum fere §. placet. &amp; ff. de regulis juris favorabiliore 
+      <lb ed="#C" n="35"/>&amp; actionibus &amp; obligationibus. Arrianus. Ubi autem usura 
+      <lb ed="#C" n="36"/>petuntur jure actionis, potest subjici regula generalis: u 
+      <lb ed="#C" n="37"/>sive duret principalis actio, sive non, nihilominus agatu 
+      <lb ed="#C" n="38"/>pro usura. Sed ubi ex mora debentur, potest implorari ju 
+      <lb ed="#C" n="39"/>dicis officium, quamdiu principalis actio durat, cui deservi 
+      <lb ed="#C" n="40"/>ipsum officium, sive incidenter extenditur ergo si acti¬ 
+      <lb ed="#C" n="41"/>principalis, vel hypothecaria, nomine debiti pro pignor 
+      <lb ed="#C" n="42"/>competens solutione, vel praescriptione sit sublata, amo 
+      <lb ed="#C" n="43"/>do agi non poterit pro usuris, ut C. eod. in bonae fi lei §. sed 
+      <lb ed="#C" n="44"/>finitum, &amp; l. eos. qui respon. I. &amp; depo. I. quarta. &amp; ff. de eo quo¬ 
+      <lb ed="#C" n="45"/>certo loco daturoportet centum, porro ad usuras futuras no 
+      <lb ed="#C" n="46"/>extenditur officium judicis, vel quia ad judicem non per 
+      <lb ed="#C" n="47"/>tinet futuri temporis contractus: vel quia in potestate acto 
+      <lb ed="#C" n="48"/>ris est exigere sortem, maxime ex sententia debitam: u 
+      <lb ed="#C" n="49"/>ff. eod. l. 1. §. nec tamen. Petuntur tamen usurae minores, ve 
+      <lb ed="#C" n="50"/>majores, secundum diversitatem personarum, nam illu 
+      <lb ed="#C" n="51"/>stres &amp; superillustres trientes tantum stipulari possun 
+      <lb ed="#C" n="52"/>Sed negociatores usque ad bessem, alii omnes stipulantu 
+      <lb ed="#C" n="53"/>semisses, unde versus 
+      <lb ed="#C" n="54"/>
+               <quote xml:id="nbht7y-d1e1892-Qd1e900">Discant illustres stipulari posse trientes. 
+      <lb ed="#C" n="55"/>Et mercatores possunt sibi quaerere besses 
+      <lb ed="#C" n="56"/>Quaerere semisses possunt communiter omnes</quote>
+               <lb ed="#C" n="57"/>In trajecticia autem pecunia licet stipulari usque ad cer 
+      <lb ed="#C" n="58"/>tesimam usuram, quae aequiparantur sorti in anno: ut no 
+      <lb ed="#C" n="59"/>supra §. ex quibus causis, versic. est autem, ut enim centesimu 
+      <lb ed="#C" n="60"/>numerus plenus &amp; perfectus est, &amp; nihil ultra ipsum nu 
+      <lb ed="#C" n="61"/>meratur, nisi ad principium redeas: ita usura centesim 
+      <lb ed="#C" n="62"/>est plena &amp; perfecta, quia nulla major invenitur, &amp; eju 
+      <lb ed="#C" n="63"/>respectu dicitur praestari usura usque ad tertiam centesi 
+      <lb ed="#C" n="64"/>mae, &amp; eadem dicitur triens, respectu sortis, ut comput¬ 
+      <lb ed="#C" n="65"/>tione ad annum facta triens non transcendat tertiam par 
+      <lb ed="#C" n="66"/>tem sortis, puta sors est trigesima, ejus usura triens erij 
+      <lb ed="#C" n="67"/>decima ejusdem usura bis, erit vigesima, &amp; ejusdem usur 
+      <lb ed="#C" n="68"/>semis, erit decimaquinta: ut haec omnia plene probantur 
+      <lb ed="#C" n="69"/>C. eod. tit. I. eos qui. sed &amp; illam, quam statim vocavi semis 
+      <lb ed="#C" n="70"/>sem, vocatur sextupla, a sex, quod est totum, &amp; plica, quoc 
+      <lb ed="#C" n="71"/>est pars, sive medietas: quae &amp; alio modo dicitur hemio 
+      <lb ed="#C" n="72"/>la, abhemi, quod est medium, sive dimidium, &amp; holon 
+      <lb ed="#C" n="73"/>quod est totum, quasi totam sortem contineat, quo add 
+      <lb ed="#C" n="74"/>bitum, &amp; medietatem totius, quo ad usuram, &amp; sic cont 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0736.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="75"/>net medietatem centesimae. secundum hoc intelliz e 48 
+      <lb ed="#C" n="76"/>distin. quontam. Ulura autem centesima raro praestatur, ui 
+      <lb ed="#C" n="77"/>pro trajecticia pecunia, &amp; pro expensis factis in rem co 
+      <lb ed="#C" n="78"/>munem reficienda, &amp; pro rejudicata, &amp; pro eo, quod tu 
+      <lb ed="#C" n="79"/>tor pecuniam pupilli clanculo convertit in utilitatem su 
+      <lb ed="#C" n="80"/>am: ut ff. de nautico foenore nihil interest. §. quod in fingulos. E 
+      <lb ed="#C" n="81"/>I. periculi. &amp; de negociis gestis. qui sine. &amp; C. de usur rei judicat 
+      <lb ed="#C" n="82"/>Isinal. &amp; de aedificiis privatis, si ut proponis. Ultra ea quae dixi 
+      <lb ed="#C" n="83"/>non potest quis usuras stipulari: etiam obtentu alicuju: 
+      <lb ed="#C" n="84"/>consuetudinis: ut C. eod.l. penult. Illud sciendum est, quod 
+      <lb ed="#C" n="85"/>fructus cum usuris ex speciali pacto compensari pos unt 
+      <lb ed="#C" n="86"/>ut C. eod. si ea. quod intelligas admissum propter incerti 
+      <lb ed="#C" n="87"/>tudinem fructuum, quia probabiliter dubitatur; utrun 
+      <lb ed="#C" n="88"/>usuris valeant coaequari. Et hoc notandum, quod si in sti 
+      <lb ed="#C" n="89"/>pulatione quantitas usurarum adjecta non fuerit, levio 
+      <lb ed="#C" n="90"/>res quae frequentantur in regione, debentur: ut ff. de admi 
+      <lb ed="#C" n="91"/>nistrat tutorum tutor. §. qui ex caeteris, omnes aliae illegitima 
+      <lb ed="#C" n="92"/>dicuntur, unde nec ex earum promissione naturalis obli 
+      <lb ed="#C" n="93"/>gatio nascitur, nec si jure usurarum promittantur; ut Caeo 
+      <lb ed="#C" n="94"/>eos §. si quis autem. &amp; l. ultima. &amp; foenus hujus exercentes 
+      <lb ed="#C" n="95"/>infames sunt, ut C. ex quibus causis infa. irrog improbum. Sec 
+      <lb ed="#C" n="96"/>nec omitti debet legem in quibusdam casibus certum po¬ 
+      <lb ed="#C" n="97"/>nere numerum usurarum, ponit enim semisses, quando 
+      <lb ed="#C" n="98"/>ab haerede indigno aufertur haereditas, ut C. de his quibus u 
+      <lb ed="#C" n="99"/>indignis, l. prima. Statuitur etiam triens creditori, qui ren 
+      <lb ed="#C" n="100"/>ecclesiasticam accepit obligatam: ut in authent. de alien. &amp; 
+      <lb ed="#C" n="101"/>emphyt. §. hoc etiam super ipsis, col. 9. Item in agricolis statui 
+      <lb ed="#C" n="102"/>tur, ut pro modio accipiat in anno octavam partem mo¬ 
+      <lb ed="#C" n="103"/>dii, &amp; propecunia quam dedit accipiat, siliquam unan 
+      <lb ed="#C" n="104"/>pro sol. ut in auth. nullum mutuantem agricolae, alias incipit 
+      <lb ed="#C" n="105"/>ut nullis inutuans agricolae. col. 4. olim tamen propter incer 
+      <lb ed="#C" n="106"/>titudinem pretii quantumcunque licebat stipulari usu 
+      <lb ed="#C" n="107"/>ram: ut C. eodem oleo. Hoc de jure humano, nam propte 
+      <lb ed="#C" n="108"/>mundi necessitatem non potuit Imperator ex toto cassa 
+      <lb ed="#C" n="109"/>re obligationem usurarum, sed tamen minuit lege autem 
+      <lb ed="#C" n="110"/>Dei, quae veteri novoque Testamento continetur, omne 
+      <lb ed="#C" n="111"/>usurae prohibitae sunt extractae, unde non valet quod se 
+      <lb ed="#C" n="112"/>quitur ex eo, vel ob id. C. de legi non dubium, cum &amp; Impe 
+      <lb ed="#C" n="113"/>rator dicat sacros canones imitari, in authent. ut cleric. apu 
+      <lb ed="#C" n="114"/>proprios episcopos. §. ult col. 6. &amp; quomodo oport. episcopos. §. sei 
+      <lb ed="#C" n="115"/>sic enim. ceitum est si quidem, quod lex minoris non de 
+      <lb ed="#C" n="116"/>rogat legi superioris, quia nec par in parem potest: ut d 
+      <lb ed="#C" n="117"/>arbitr. nam imagistratus &amp; ad Trebell. ille a quo. §. tempestivum 
+      <lb ed="#C" n="118"/>quomodo ergo servus abolevit legem domini sui, certi¬ 
+      <lb ed="#C" n="119"/>hoc esset contra naturam, unde &amp; Paulo dictum est, Du 
+      <lb ed="#C" n="120"/>rum est tibi contra stimulum calcitrare. Azo. 
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e1051" n="8">
+               <lb ed="#C" n="121"/>An aliquo casu ustra sortem quicquam licite 
+      <lb ed="#C" n="122"/>exigatur. Audisti Azonen 
+      <lb ed="#C" n="123"/>proxi. innuentem, quod non: &amp; est verum generaliter 
+      <lb ed="#C" n="124"/>quia usuram utriusque Testamenti pagina a detestatur, 
+      <lb ed="#C" n="125"/>unde etiam pro redimenda anima captivi, non potest ex 
+      <lb ed="#C" n="126"/>erceri, ut infra eod quia, &amp; cap. quontam, &amp; cap. supereod. no 
+      <lb ed="#C" n="127"/>enim praetextu pieratis est impietas committenda, i. qu. 1 
+      <lb ed="#C" n="128"/>non est putanda. supra de conver. infid, cap. i. 33.q. 5. si dicat. 14. qu.5 
+      <lb ed="#C" n="129"/>cap. 2 &amp; 3. Et secundum I. hoc locum habet. nam Impera 
+      <lb ed="#C" n="130"/>tor approbat quatuor concilia. in authent de ecc.tit. respons. i 
+      <lb ed="#C" n="131"/>col. 9. sed in Niceno usurae prohibitae sunt, ut 47. distinctio 
+      <lb ed="#C" n="132"/>quoniam multi, per consequens &amp; secundum legem, ho 
+      <lb ed="#C" n="133"/>autem remanet, quod dicit lex, fructus semper in sorten 
+      <lb ed="#C" n="134"/>computari debere, sicut not. supra de pigno §. quando effica 
+      <lb ed="#C" n="135"/>citer. vers. illud autem certum est, &amp; seq. Quidam Legistae vo 
+      <lb ed="#C" n="136"/>luerunt dicere, quod non obst. concilium Nicenum, 47 
+      <lb ed="#C" n="137"/>distinctio. quoniam. quia illud tantum de clericis, &amp; non di 
+      <lb ed="#C" n="138"/>laicis loquitur, &amp; ideo videtur laicis concessum, qui¬ 
+      <lb ed="#C" n="139"/>quod de uno prohibetur, &amp;c. supra de praesumpt. nonne. sec 
+      <lb ed="#C" n="140"/>certe quamvis illud concilium de cfericis tantum loqua 
+      <lb ed="#C" n="141"/>tur, authoritas tamen sacra, quae in eo inducitur, genera 
+      <lb ed="#C" n="142"/>lis est, &amp; tam in clericis, quam in laicis locum habet Sed cun 
+      <lb ed="#C" n="143"/>de peccato agitur, silet virtus legis civilis, pacti consuetu 
+      <lb ed="#C" n="144"/>dinis juramenti: ut notat. supra de offic. archiepisc. §. quod si 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="145"/>ADDITIO. 
+      <lb ed="#C" n="146"/>a Vtriusque Testamenti pagina) Adde cap. quoniam mulii. 14. q. 4. e 
+    </p>
+    <p>
+      <lb ed="#C" n="147"/>quoniam. q. 4. multi. 47.ait. Leviti. 25 Exod. 22. Deuieron. 2. 3. &amp; 28 
+      <lb ed="#C" n="148"/>Psal. I. Ezechiel. 18. &amp; Luca .--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0737.xml-->
+      <pb ed="#C" n="720"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>ejus officium. vers. quare autem. &amp; in talibus Imperator vul 
+      <lb ed="#C" n="2"/>quod leges suae consequantur, nedum praedicta quatuo 
+      <lb ed="#C" n="3"/>Concilia, sed generaliter canones: ut not. supra in provm § 
+      <lb ed="#C" n="4"/>unde habuitoriginem. versic. est igitur haec nostra scientia &amp; sec 
+      <lb ed="#C" n="5"/>Canones autem hoc prohibent tam clericis, quam laicis 
+      <lb ed="#C" n="6"/>ut patet in his quae not. infra eod capit. 1. &amp; 2. &amp; supra deju 
+      <lb ed="#C" n="7"/>rejuranl. ad nostram. &amp; de pign. cum contra. &amp; capit. significan 
+      <lb ed="#C" n="8"/>te. Est ergo generaliter verum, &amp; hoc firmissime teneas 
+      <lb ed="#C" n="9"/>quod non licet ultra sortem aliquid exigere. fallit in casi 
+      <lb ed="#C" n="10"/>bus, primo, b quando ecclesia accipit in pignore a vasall¬ 
+      <lb ed="#C" n="11"/>suo feudam, quod ab eadem tenet, ut tamen vasallus inte 
+      <lb ed="#C" n="12"/>rim non remaneat obligatus ad feudum serviendum, u 
+      <lb ed="#C" n="13"/>supra de seud, capitul primo, infra eodem, conquestus. Quod d 
+      <lb ed="#C" n="14"/>cunt quidam speciale in feudo ecclesiastico, &amp; est verum 
+      <lb ed="#C" n="15"/>quod in alio non reperitur expressum. Moveor tamen 
+      <lb ed="#C" n="16"/>quia aut licitum est, aut illicitum: si licitum, ergo &amp; in 
+      <lb ed="#C" n="17"/>laico: quia eadem ratio, ergo idem ius, supra de constitu 
+      <lb ed="#C" n="18"/>translat. C. de liber praeteritis. I.i. supra de consanguin. tua. Si il 
+      <lb ed="#C" n="19"/>licitum, multo minus debet concedi clerico, quam laico 
+      <lb ed="#C" n="20"/>licet usura respectu laicorum sit execranda: respectu cle 
+      <lb ed="#C" n="21"/>ricorum est execrabilior, ut infra eodem, capit 1. &amp; 2. nam 8 
+      <lb ed="#C" n="22"/>multa licent laicis, quae clericis illicita sunt, ut 77. distine 
+      <lb ed="#C" n="23"/>fornicari. supra de testam. filius &amp; ne cleric. vel monach. capit. 
+      <lb ed="#C" n="24"/>&amp; per totum. supra de vi. &amp; hon. cleric. c sin. multo fortius ei 
+      <lb ed="#C" n="25"/>go in seculari teudo hoc dico locum habere. argum. supr 
+      <lb ed="#C" n="26"/>de.lona. per tuas. quia non debent esse v. ri ecclesiastici e¬ 
+      <lb ed="#C" n="27"/>actores, ut supra de censib ex parte. ad fin. Si enim venialita 
+      <lb ed="#C" n="28"/>reputatur respectu laicorum, multo fortius respectu cle 
+      <lb ed="#C" n="29"/>ricorum. I. quaest. 1 nullas itaque. Et potest in utroque ill. 
+      <lb ed="#C" n="30"/>naturalis ratio assignari. quia vasallus, secundum domini 
+      <lb ed="#C" n="31"/>meum, non est dominus, quamvis habeat utilem actione 
+      <lb ed="#C" n="32"/>vel secundum alios, non est major dominus directo, se¬ 
+      <lb ed="#C" n="33"/>utiliter tantum, unde vasallus praesumitur velle donar 
+      <lb ed="#C" n="34"/>fructis. quia ad antidora est naturaliter obligatus argum 
+      <lb ed="#C" n="35"/>supra de test cum officiis, &amp; pet. hered. sed &amp; si lege §. consuluii 
+      <lb ed="#C" n="36"/>&amp; arg. opt in aihe it de non eligen. se nuben S &amp; non solum a 
+      <lb ed="#C" n="37"/>fui. col. 1. ibi, hîc autem aliquid adesse peregrinum, &amp;c 
+      <lb ed="#C" n="38"/>quia res de facili revertitur ad id quod ius &amp; natura a 
+      <lb ed="#C" n="39"/>initio concessit, ut ff de pact. si unus §. pactu. &amp; §. sequent 8 
+      <lb ed="#C" n="40"/>supra de offic. delega super quaestionum §. porro &amp; de censib. cun 
+      <lb ed="#C" n="41"/>venerabilis ibi, nec intelligatur, &amp;c. nec obst si dicas, quo 
+      <lb ed="#C" n="42"/>non semper transfertur feudum in vasallum, imoplerun 
+      <lb ed="#C" n="43"/>que is, qui possidet, &amp; a nemine recognoscit, recipit illu¬ 
+      <lb ed="#C" n="44"/>ab illo propria voluntate, vel ut a tyrannis defendatur, u 
+      <lb ed="#C" n="45"/>dicta ratio videtur deficere: dico quod non obstat tali 
+      <lb ed="#C" n="46"/>oppositio. quia quamvis plerunqu, sic fiat, tamen pro n.¬ 
+      <lb ed="#C" n="47"/>jori parte primo modo fieri consuevit, &amp; illud quod com 
+      <lb ed="#C" n="48"/>muniter sit, non quod raro, spectandum est ff delgi nan 
+      <lb ed="#C" n="49"/>adea. Item &amp; si secundo modo fiat, naturam feudi recipit 
+      <lb ed="#C" n="50"/>ergo sicut feudum judicandum est. argum destatu monac 
+      <lb ed="#C" n="51"/>recolentes. § fin. &amp; de roto magnae. §. cum igitur. si quis cauie 
+      <lb ed="#C" n="52"/>cum. §. qui injuriarm Praeterea ex tenore decreta. 1. de seu 
+      <lb ed="#C" n="53"/>dis apparet, quod non est privilegium, sed ad consultatio 
+      <lb ed="#C" n="54"/>nem factam respondetur de jure. Item aut est usura, aut non 
+      <lb ed="#C" n="55"/>Si est; quomodo Papa privilegiabit aliquem contra prae 
+      <lb ed="#C" n="56"/>ceptum Domini? Dicunt quidam, quod hoc est usurar. 
+      <lb ed="#C" n="57"/>um, quia prohibitum, sed non placet, &amp; accedit quod no 
+      <lb ed="#C" n="58"/>infra eod. versic. in aliis &amp; seq. Quid ergo de emphyreuta 
+      <lb ed="#C" n="59"/>Et forte idem, quia eadem ratio, vel die: quod dissimile es 
+      <lb ed="#C" n="60"/>quia non ita gratuita recipit, sicut vasellus, cum pro intu 
+      <lb ed="#C" n="61"/>itu donaverit certam pecuniae quantitatem. vel dic Pa 
+      <lb ed="#C" n="62"/>pam super hoc consulendum. Quid de usufructuario pro 
+      <lb ed="#C" n="63"/>prietario, obligante, si habet causam liberam a proprieta 
+      <lb ed="#C" n="64"/>rio: idem videtur, alias contra. not tamen Rayn. quo¬ 
+      <lb ed="#C" n="65"/>quidam volunt hoc privilegium extendere ad colonias 
+      <lb ed="#C" n="66"/>male, quia in coloniis hoc privilegium non invenitur ex 
+      <lb ed="#C" n="67"/>pressum, sicut not. in sum. de casib. subtit. de deci. §. quid 
+      <lb ed="#C" n="68"/>miles detinet injuste &amp; se j quasi dicat hoc privilegium excu 
+      <lb ed="#C" n="69"/>set, ab usura, quod non puto. ut notatur supra eodem, versiu¬ 
+      <lb ed="#C" n="70"/>moveoriamien. Secundo fallit, quando clericus redimit: 
+      <lb ed="#C" n="71"/>laico possessionem temporalem ab ecclesia, cujus est res 
+      <lb ed="#C" n="72"/>sibi, non beneficio assignata; &amp; laicus male tenet, sive feu 
+      <lb ed="#C" n="73"/>dum, quod habet obligatum ecclesia, recipit nomine ec 
+      <lb ed="#C" n="74"/>clesiae sic intellige. infra eod capit. i. § ultim. &amp; cap. conquestius 
+      <lb ed="#C" n="75"/>ne contradicat. supra de sunon. querelam. si forte illud vel 
+      <lb ed="#C" n="76"/>intelligere de decima, vel de alio beneficio spirituali n 
+      <lb ed="#C" n="77"/>contradicat, supra de decm c.sin. vel potest intelligi, secun 
+      <lb ed="#C" n="78"/>dum quod nont. suprane praelat. vices suas. versicu. item si praela 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0737.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>tus, &amp; sequ de siunon §i. vers. hoc intelligo &amp; praecelent. Terti¬ 
+      <lb ed="#C" n="80"/>quando sine omni pacto datur gratis oblatum, caveas ta 
+      <lb ed="#C" n="81"/>men de intentione prava, quia si illam haberes, principali 
+      <lb ed="#C" n="82"/>ter in foro poenitentiali, inducendus es, ut illud, cuodvl 
+      <lb ed="#C" n="83"/>tra sortem accepisti, reddas, ut infra eod consuluit. &amp; cnci 
+      <lb ed="#C" n="84"/>ritate &amp; not. supra de simon § quid sit fimonia, &amp; si pra §..xe. 
+      <lb ed="#C" n="85"/>sicul pactione. Quarto, quando quis vendit plus ad tempus 
+      <lb ed="#C" n="86"/>cum tamen non esset incontinenti venditurus, &amp; probi 
+      <lb ed="#C" n="87"/>biliter dubitatur, utrum id quod venditur sit plus, vel miru 
+      <lb ed="#C" n="88"/>solutionis tempore valiturum. Idem si certae mer sui ae ac 
+      <lb ed="#C" n="89"/>tempus emantur, &amp; probabiliter dubitatur ut supra, si 
+      <lb ed="#C" n="90"/>intellige infra eodem, ciriiate &amp; capitul. consuluit § &amp; aine 
+      <lb ed="#C" n="91"/>gotiator. &amp; capit. ultim &amp; § primo, &amp; secundo. Hoc non lice 
+      <lb ed="#C" n="92"/>clericis, eis enim utilius emere, &amp; carius vendere turpelu 
+      <lb ed="#C" n="93"/>crum est. ut 14. quaest 3. quicunque &amp; si prane cleric. vel mo 
+      <lb ed="#C" n="94"/>nach. secundum Instit. Consulo e. iam usurariis laicis, quo 
+      <lb ed="#C" n="95"/>notent mentem verborum, scilicet quando non erantve 
+      <lb ed="#C" n="96"/>dituri tempore contractus, Deus enim cor ii terrogat 
+      <lb ed="#C" n="97"/>non manum. 14. quaest. 5 siquid inrenisti. 15. q 6 si sacer doul 
+      <lb ed="#C" n="98"/>in fin. 17. q. 5. qui pejerare. Quid ergo, si de caetero hoc pro 
+      <lb ed="#C" n="99"/>ponant usurari, ut faciunt fraudem legi licin quid si dan 
+      <lb ed="#C" n="100"/>10. sol. tempore messium pro 10 sextis in paschate solven 
+      <lb ed="#C" n="101"/>dis, nunquid probabiliter dubitari potest, quod minus va 
+      <lb ed="#C" n="102"/>let bladum in paschate, quam in messibus, ideo melius &amp; 
+      <lb ed="#C" n="103"/>tutius facient, si a talibus contractibus desstant. vt infra eo 
+      <lb ed="#C" n="104"/>dem, in ciritate. dubitari enim potest, utrum mirus ve 
+      <lb ed="#C" n="105"/>plus valeat, quia de futuris &amp; contingentil us, secundun 
+      <lb ed="#C" n="106"/>Aristotelem, non est veritas determinata. perro nenpe 
+      <lb ed="#C" n="107"/>test dubitari probabiliter, scilicet secur dim cuisumre 
+      <lb ed="#C" n="108"/>gionis, qui considerandus est, prout in nuitmens verb¬ 
+      <lb ed="#C" n="109"/>probabiliter &amp; arg. supra de sron ex liueris, &amp; f defundon 
+      <lb ed="#C" n="110"/>stru. I. cum delanionis, § asinam. &amp; deflumini. l.i. Quid si ven 
+      <lb ed="#C" n="111"/>das propretio, quod instarti currit, sed si plus valet usqu 
+      <lb ed="#C" n="112"/>ad pascha, vult quod illud plus sibi detur: si vero miru 
+      <lb ed="#C" n="113"/>valet, non vult quod pretium minuatur? proculcubit 
+      <lb ed="#C" n="114"/>ipsum judico usurarium, cum ipsum in pectis videan 
+      <lb ed="#C" n="115"/>claudicare: &amp; arg C. de solu. I penult. ff. de damn. infect qu 
+      <lb ed="#C" n="116"/>bona §. si quisque, &amp; pro socio. si non fuerit, Aristo Quinto re 
+      <lb ed="#C" n="117"/>petit fidejussor a debitore usuras &amp; accessiones, quas oc 
+      <lb ed="#C" n="118"/>casione debiti habuit necesse solvere crecitori, sorte qui 
+      <lb ed="#C" n="119"/>juraverat, secundum Goffr ut supra defidejus pervenit. C 
+      <lb ed="#C" n="120"/>capit sequent constuutus. quod dic, ut notatur si pra defide 
+      <lb ed="#C" n="121"/>juss. § ad quid is pro quo fidejussit. Sexto, quar do se cer obli 
+      <lb ed="#C" n="122"/>gat genero suo pro quantitate dotis possessiorem aliqua 
+      <lb ed="#C" n="123"/>hic enim non computat generi fructus in sortem, &amp; es 
+      <lb ed="#C" n="124"/>ratio: quia plerunque non sufficiunt fructus ad oner 
+      <lb ed="#C" n="125"/>matrimonii supportanda, ut mfraicdem, salulr sed ub 
+      <lb ed="#C" n="126"/>dos, ibi onera matrimonii: ut C. de jure do pro orerib. ideo 
+      <lb ed="#C" n="127"/>que cum dotali pecunia praedium obligetur sic, ut ex al 
+      <lb ed="#C" n="128"/>quo honesto lucro pecuniae dotalis, s habentui sustenta 
+      <lb ed="#C" n="129"/>renturonera matrimonii, ut supra de denatio interrnunmc 
+      <lb ed="#C" n="130"/>uxorem, per restras, sic ex fructibus praedii, quod in locun 
+      <lb ed="#C" n="131"/>precii succendit infra eod cum tu in fin fi de leg. 2. Imperater. n. 
+      <lb ed="#C" n="132"/>sin &amp; I sequ. secundum Goffred. &amp; huic rationi consena 
+      <lb ed="#C" n="133"/>textus. Sed certe reddipetes &amp;Taratio,) aec scilicet, v 
+      <lb ed="#C" n="134"/>dos remareat salva mulieri, quam alias corsuimicentin 
+      <lb ed="#C" n="135"/>geret, &amp; sic utilitas publica laderetur si solut matrimenio 
+      <lb ed="#C" n="136"/>1. &amp; quia hic nullum contrahitur mutuum, ut infra not 
+      <lb ed="#C" n="137"/>prima ratio etiam mutuo adaptari p otest, nam si recipic 
+      <lb ed="#C" n="138"/>praedium tuum obligatum pro 10. Ib. quas tibi mutuo, &amp; 
+      <lb ed="#C" n="139"/>de quarum lucro vivere proponebam praedium succedi 
+      <lb ed="#C" n="140"/>loco precii, &amp; tamen fructus computantur in sortem, in 
+      <lb ed="#C" n="141"/>fra eodem, capiiulo secundo. Sed hoc ideo est, quia mun 
+      <lb ed="#C" n="142"/>contrahitur, in quo regulariter &amp; non in alio conira u 
+      <lb ed="#C" n="143"/>habet locum hoc, quod dicitur de usura. ut not. supra cca 
+      <lb ed="#C" n="144"/>§. 1. versic. rei mutuatae &amp; seq. nec versatur ibi publica utili 
+      <lb ed="#C" n="145"/>tas: porro in promissione dotis versatur, ut supra rot ne 
+      <lb ed="#C" n="146"/>mutuum aliquod est contractum, &amp; ideo frictus in sir 
+      <lb ed="#C" n="147"/>tem minime computantur. Quid in converso casu. ut pona 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="148"/>ADDITIO. 
+      <lb ed="#C" n="149"/>b Primo) Adde glossummae. 149. 3. Card. in clem.1 in( san. 
+    </p>
+    <p>
+      <lb ed="#C" n="150"/>16 9 de usu Ioan de Ana in cap I eed in Abbas in cconquelu¬ 
+      <lb ed="#C" n="151"/>eod iii. Bart in Lat quinatu am 6 non lamen soriem fi denigge? 
+      <lb ed="#C" n="152"/>Bart.cα. sil. incip. Franciscus uxorem--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0738.xml-->
+      <pb ed="#C" n="721"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>mus, soluto matrimonio haeredes mariti obligaverum 
+      <lb ed="#C" n="2"/>mulieri posse ssionem aliquam pro dote sua, quia non ha 
+      <lb ed="#C" n="3"/>bent unde solvant: nunquid fructus computantur in 
+      <lb ed="#C" n="4"/>sortem? Dicas quod sic. utff. de solu. Titia. &amp; argument. 
+      <lb ed="#C" n="5"/>quibus ex cau. in pos. eatur. Fulcinius, resp primo, &amp; de ven. in po 
+      <lb ed="#C" n="6"/>mit. I. prima Sultimo &amp; ut in pos. leg is cui §quaeri, &amp; de leg. .5. 
+      <lb ed="#C" n="7"/>lius § apud Marcellum, &amp; imputet sibi, quia non recipit in 
+      <lb ed="#C" n="8"/>solutum. Septimo, secundum Laur. quando vendo tib 
+      <lb ed="#C" n="9"/>fundum certo pretio, ut intra certum tempus mihi solvas, 
+      <lb ed="#C" n="10"/>non satisfacias, lapso termino potero usuras petere cun 
+      <lb ed="#C" n="11"/>fructus rei venditae tuos facias: &amp; mihi tamen nihil solvi 
+      <lb ed="#C" n="12"/>sti, ut C. eodem l. secunda, &amp; idem in contractibus bonae fide 
+      <lb ed="#C" n="13"/>&amp; tunc non teperitur quasi usura, secundum quod inter 
+      <lb ed="#C" n="14"/>sit moram adhibitam non fuisse. i pro socio, socium, quod in 
+      <lb ed="#C" n="15"/>telligas, quando interesse est intra rem, vel cum petitu 
+      <lb ed="#C" n="16"/>caula damni vitandi, non lucri captandi, f. de act. empt. e 
+      <lb ed="#C" n="17"/>ven si sterilis § cum per venditorem, &amp; ideo caute, dicit canon 
+      <lb ed="#C" n="18"/>incrementa susceperit, 14 quaest. 4. si quis oblitus, secundun 
+      <lb ed="#C" n="19"/>Goffr. vel dic isto casu competere accusationem ex cor 
+      <lb ed="#C" n="20"/>tractu, vel officio judicis, non ad usuras, sed ad interesse 
+      <lb ed="#C" n="21"/>quod verius est, f. de dolo. eleganter §non solum, &amp; C. de acti¬ 
+      <lb ed="#C" n="22"/>enp. &amp; vend.I. prima, de petitione autem interesse diciutno 
+      <lb ed="#C" n="23"/>supra de sentent. &amp; re judicata, Squis su ffectus sub o sed quia, e 
+      <lb ed="#C" n="24"/>sequent rersiculo sin. Item potest intelligi in his casibus, in 
+      <lb ed="#C" n="25"/>quibus ex mora veniunt ulurae, de quibus dixi supra eoden 
+      <lb ed="#C" n="26"/>9 ex quibas sub s ex mora, quia hic non dicor aliquid recipe 
+      <lb ed="#C" n="27"/>re vltra sortem, sed potius interesse &amp; secundum canon 
+      <lb ed="#C" n="28"/>interesse peti potest i4 quaestione3. quoniam, ibi, ad quaestum 
+      <lb ed="#C" n="29"/>&amp;c. &amp; 12 quaestione2 si quis de clericis, argument ff. de eo quo 
+      <lb ed="#C" n="30"/>certo loco. I secunda Sultimo. &amp; pro socio. sotium qui modo &amp; id 
+      <lb ed="#C" n="31"/>forte est, ubi usura a lege permittitur, &amp; loco poenae, no 
+      <lb ed="#C" n="32"/>fraudulenter succedit, sicut notat supra de depositi. § cuidi 
+      <lb ed="#C" n="33"/>tur. versiculo sed &amp; si extraneus, sed contra. 14 9. 3. plerique Solu 
+      <lb ed="#C" n="34"/>illud in mutuo, &amp; quod dicitur, quicquid sorti accedit, u 
+      <lb ed="#C" n="35"/>sura est, illud est verum, quando ex pacto datut, vel aliqui¬ 
+      <lb ed="#C" n="36"/>excogitatur in fraudem usurarum, divina etiam pagin¬ 
+      <lb ed="#C" n="37"/>in mutuo tantum usuram prohibere videtur, unde in E 
+      <lb ed="#C" n="38"/>vangelio. Mutuum dantes, nihil inde sperantes. Psal. qu 
+      <lb ed="#C" n="39"/>pecuniam suam non dedit, id est, mutuo ad usuram trad 
+      <lb ed="#C" n="40"/>dit, quod dic, vt notat. supra eodem §primo, versiculo rei mu 
+      <lb ed="#C" n="41"/>auatae. Octavo videtur quod possis habere vsuram ab eo 
+      <lb ed="#C" n="42"/>cui merito nocere desideras, uti4. quaestione 4. ab illa. se 
+      <lb ed="#C" n="43"/>eundum Joan. &amp; quis est ille hostis Romani imperii, ut 
+      <lb ed="#C" n="44"/>de commer. &amp; mercatori, non solum, unde infideli possum tra 
+      <lb ed="#C" n="45"/>dere pecuniam ad usuram: dicitur etiam in Deuteronomo: 
+      <lb ed="#C" n="46"/>cap. Non foeneraberis fratrituo pecuniam: vel aliam rer 
+      <lb ed="#C" n="47"/>ad usuram, sed alieno. Inde Judaei dicunt, quod usuras li 
+      <lb ed="#C" n="48"/>cite recipiunt a Christianis, &amp; male prout sequitur. Ide¬ 
+      <lb ed="#C" n="49"/>coguntur ipsas restituere, ut notat. infra eodem  ultimo, nan 
+      <lb ed="#C" n="50"/>in Deuteronomio 28. cap. circa princ. dicitur. Faeneraberis ger 
+      <lb ed="#C" n="51"/>tibus multis, &amp; ipse a nullo foenus accipies, &amp; in todem cas 
+      <lb ed="#C" n="52"/>ultramedium. Advena foenerabit tibi, &amp; tu non foener¬ 
+      <lb ed="#C" n="53"/>beris ei contra: ideo alii exponunt illud ca. ab illo sic, &amp; ca 
+      <lb ed="#C" n="54"/>sicut nulli nocere debes: sic a nullo petas usuram. Nonc 
+      <lb ed="#C" n="55"/>si vendo tibi rem meam tali pacto, quod si solvo tibi uso 
+      <lb ed="#C" n="56"/>ad duos annos res revertatur ad me, hoc enim facis fra¬ 
+      <lb ed="#C" n="57"/>ctus tuos, ut C. de pac. inter emptorem &amp; venditorem I. comnii 
+      <lb ed="#C" n="58"/>foriae quod intelligas, quando pretium justum est, &amp; nihil si 
+      <lb ed="#C" n="59"/>in fraudem usurarum, alias contra, sup. de contrahenda eim 
+      <lb ed="#C" n="60"/>ad nostram, ad hoc C. de pac. inter emptorem sifundum. Dec 
+      <lb ed="#C" n="61"/>mo, quando pecunia commodatur ad pompam. ff. comimi 
+      <lb ed="#C" n="62"/>da I35 penult &amp; I sequent. Undecimo, quod nomine poen 
+      <lb ed="#C" n="63"/>promittitur, dum inodo non fiat in fraudem usurarum 
+      <lb ed="#C" n="64"/>224.2 fraternitas, &amp; capit in legibus, &amp; supra de arb. delicti, in fin 
+      <lb ed="#C" n="65"/>Duodecimo, quando vendo fructus ad tempus licet enin 
+      <lb ed="#C" n="66"/>plus satis percipiat emptor de fructibus non tamen ten¬ 
+      <lb ed="#C" n="67"/>tur mihi aliud sarcire, ratione incertitudinis, ut C eodem 
+      <lb ed="#C" n="68"/>ea &amp; ff. de haered. vel actio. vend cum haereditatem, &amp; leg sequen¬ 
+      <lb ed="#C" n="69"/>Tertiodecimo, si is qui mutavit occasione mutui laboren 
+      <lb ed="#C" n="70"/>subiit in cujus compensationem fructus perceptos su 
+      <lb ed="#C" n="71"/>os facit: ut supra de rebus eccles. non alienand ad nostram, vel i 
+      <lb ed="#C" n="72"/>lud fecit Papa, qui dominus est, ut citius recuperari pos 
+      <lb ed="#C" n="73"/>set res ecclesiasticas: argumen supra de rebus eccles. non ali¬ 
+      <lb ed="#C" n="74"/>nandis, cap. ad audientiam, hi vero casus istis versibus 
+      conti<lb ed="#C" n="75" break="no"/>nentur 
+      <lb ed="#C" n="76"/>
+               <quote xml:id="nbht7y-d1e1892-Qd1e1610">Feuda, fidejussor pro dote, stipendia cleri. 
+      <lb ed="#C" n="77"/>Venditio, fructus, cui velle jure noceri 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0738.xml-->
+      <cb ed="#C" n="b"/>
+                  <lb ed="#C" n="78"/>Vendent sub dubio precium, post tempora solvens 
+      <lb ed="#C" n="79"/>Poena nec in frandem lex commissoria gratis 
+      <lb ed="#C" n="80"/>Dans socii pompa: plus sorte modis datur istis.</quote>
+            </p>
+            <p xml:id="nbht7y-d1e1892-d1e1627">
+               <lb ed="#C" n="81"/>Quae tamen omnia intelligas, quando nihil attentatur 
+      <lb ed="#C" n="82"/>in fraudem usurarum, &amp; probabiliter dubitatur de fructib 
+      <lb ed="#C" n="83"/>considerata consuetudine regionis, utrum sint plus ve 
+      <lb ed="#C" n="84"/>minus pretio valituri infra eodem cap. ult. &amp; sic ratione pro 
+      <lb ed="#C" n="85"/>babilis incertitudinis multa sunt licita, quae alias non lice 
+      <lb ed="#C" n="86"/>rent: ut 3. q. 2 non aestimemus, &amp; ff. de ven. inspi. l..8. &amp; de judi 
+      <lb ed="#C" n="87"/>si quis ex aliena, &amp; in hoc communem opinionem homi 
+      <lb ed="#C" n="88"/>num dico considerandam, secundum dominum meum 
+      <lb ed="#C" n="89"/>arg, infra de spon ex literis, f. de flumi. leg: &amp; de fundo instru. I. 
+      <lb ed="#C" n="90"/>ga cum delanionis, Sasinam, &amp; notat. supra eodem versical. qui¬ 
+      <lb ed="#C" n="91"/>est ergo, &amp; praeced 
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e1653">
+               <lb ed="#C" n="92"/>IN aliis autem casibus omnibus non licet regulariter ul 
+      <lb ed="#C" n="93"/>tra sortem quicquam recipere, quia quicquid sorti ac 
+      <lb ed="#C" n="94"/>cedit, usura est, &amp; vsura illicita est, &amp; utriusque Testament 
+      <lb ed="#C" n="95"/>&amp; utriusque Juris pagina detestata, ut notat. supra eodem 
+      <lb ed="#C" n="96"/>respon. 1. &amp; quodcunque nomen imponas, usura est, ut 1493 
+      <lb ed="#C" n="97"/>plerique omnis enim usura &amp; superabundantia prohibetu 
+      <lb ed="#C" n="98"/>in lege, ut infra eodem consuluit, &amp; sic non est vis in mutatio 
+      <lb ed="#C" n="99"/>ne nominis, ut notat. supra de suno ea quae, &amp; capit. in tantum 
+      <lb ed="#C" n="100"/>Sed nunquid pro trajecticia pecunia debetur usura? vi 
+      <lb ed="#C" n="101"/>detur quod sic, quia ibi non est periculum debitoris, &amp; 
+      <lb ed="#C" n="102"/>sic excedit, naturam mutui, secundum ea quae notat. sup 
+      <lb ed="#C" n="103"/>eodem §ex quibus causis, versic. est autem trajecticia: ratio enin 
+      <lb ed="#C" n="104"/>naturalis, quod pro mutuo non possit exigi ultra sortem 
+      <lb ed="#C" n="105"/>haec videtur esse, quia res mutuata transit in dominium re 
+      <lb ed="#C" n="106"/>cipienti, prout notat, supra §1. versic. rei inutuatae, &amp; sequ &amp; 
+      <lb ed="#C" n="107"/>suum est periculum, unde contra naturam est quod ren 
+      <lb ed="#C" n="108"/>propriam sibi locem: si enim petam a te 10. quia cum pecu 
+      <lb ed="#C" n="109"/>nia tua lucraris, nunquid tibi apparebo furiosus? Sic pro 
+      <lb ed="#C" n="110"/>cul dubio. Sed haec ratio videtur deficere in trajecticia, cum 
+      <lb ed="#C" n="111"/>periculum recipiat in se creditor, &amp; alias video quod ne¬ 
+      <lb ed="#C" n="112"/>usuraria perceptio reputatur periculi ratione: sicut ne¬ 
+      <lb ed="#C" n="113"/>dominus usuras suae pecuniae exigit, quam procurator sul 
+      <lb ed="#C" n="114"/>suo periculo mutuavit. f. mandati. idemque s si mandavero, ne 
+      <lb ed="#C" n="115"/>socius a socio, si communem pecuniam suo periculo mu 
+      <lb ed="#C" n="116"/>tuavit. f. pro socio. §si unus. Item ex quo creditor in se re 
+      <lb ed="#C" n="117"/>tinet periculum, locare potestusum rei propriae, contra 
+      <lb ed="#C" n="118"/>ctus autem locationis licitus est &amp; concessus, sicut notat 
+      <lb ed="#C" n="119"/>supra de locat. &amp; condu. quare ergo prohibetur in hoc casu 
+      <lb ed="#C" n="120"/>ut infra todem c sin respon.i. Grego respondet, aliud in credi 
+      <lb ed="#C" n="121"/>tore, aliud in locatore, quia creditor generaliter transfer 
+      <lb ed="#C" n="122"/>dominium, locator retinet. Item res locata usu deteri 
+      <lb ed="#C" n="123"/>or efficitur, quod in mutuo non contingit, quia non eadi 
+      <lb ed="#C" n="124"/>pecunia, quae mutuo accipitur, sed alia ejusdem generi¬ 
+      <lb ed="#C" n="125"/>redditur ff dere. credi, cum quid. In trajecticia etiam pecu 
+      <lb ed="#C" n="126"/>nia &amp; si creditor in se retineat periculum, pecunia tamen 
+      <lb ed="#C" n="127"/>Tilva remanente habiturus est dominus aliquid ultra sor 
+      <lb ed="#C" n="128"/>tem, quemcunque exitum commercium habeat, sive credi 
+      <lb ed="#C" n="129"/>tor lucretur in mercibus sive perdat, &amp; ideo contrahitu 
+      <lb ed="#C" n="130"/>nauticum foenus, unde &amp; sic intitulatur in C. &amp; ff. de nau fae se 
+      <lb ed="#C" n="131"/>cundum Goffre. ideo, ut ostendat quod usura est, dicit infr¬ 
+      <lb ed="#C" n="132"/>eodem nariganti recepturus aliquid ultra sortem, ergo usu 
+      <lb ed="#C" n="133"/>ra est, ex quo, ultra sortem recipit, infracodem consuluit, sec 
+      <lb ed="#C" n="134"/>haec responsiones non solvunt opposita: ideo dic, quod hae¬ 
+      <lb ed="#C" n="135"/>est ratio naturalis, quare pecunia trajectitia non obstan 
+      <lb ed="#C" n="136"/>te, quod creditor in se periculum retinet usuraria repute 
+      <lb ed="#C" n="137"/>tur, quia aut recipiens juvat se de denariis, aut non: si non ju 
+      <lb ed="#C" n="138"/>vat se, iniquum est quod creditor ab eo lucrum exigat quoc 
+      <lb ed="#C" n="139"/>non habuit: sijuvat, ergo non remanet dominium pene 
+      <lb ed="#C" n="140"/>creditorem, quia consumptione amittitur, &amp; efficitu 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="141"/>ADDITIO 
+      <lb ed="#C" n="142"/>e Huc referri possunt ex Martin. &amp; alii casus, quibus quid ultr 
+    </p>
+    <p>
+      <lb ed="#C" n="143"/>sortem accipere licet. Quorum unus est, quando usura pet¬ 
+      <lb ed="#C" n="144"/>tur, non ut usuta, sed ut interesse, ut in contractibus bonae si 
+      <lb ed="#C" n="145"/>dei, quia tunc non ut usura petutur, sed id quod interest, mo¬ 
+      <lb ed="#C" n="146"/>tam factam non fuisse. ff. prosocio. leg. socium. Sed hoc intelligi 
+      <lb ed="#C" n="147"/>quando interesse est intra rem, vel cum petitur causa damn 
+      <lb ed="#C" n="148"/>vitandi, non lucti capiandi, ff. de actio empi. I si sierilis 5 cum pe 
+      <lb ed="#C" n="149"/>venditorem: ulutae etiam ut interesse, peti possunt in casi 
+      <lb ed="#C" n="150"/>ca constitutus, de fidejuss. in feliquis Martin. Hosthensisque 
+      <lb ed="#C" n="151"/>conpeniunt -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0739.xml-->
+      <pb ed="#C" n="722"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>alterius, utff de sol si alieni &amp; f sicertum petatur si a furioso, 
+      <lb ed="#C" n="2"/>ultim). &amp; leg sequen. nam &amp; si fur. &amp; si res empta efficitur de¬ 
+      <lb ed="#C" n="3"/>bitoris, etiam de aliena pecunia empta sit, quae haec est re 
+      <lb ed="#C" n="4"/>gula, vt notat. supra de contrahend. einpt §ultiuno, quare pa 
+      <lb ed="#C" n="5"/>tet, quod non debet ab eo lucrum exigere, si re propriav 
+      <lb ed="#C" n="6"/>titut, &amp; cum ea lucretur: ut supra dixi, periculum igitur 
+      <lb ed="#C" n="7"/>quod in se retinet, ipsum in nullo relevat, sed potius one 
+      <lb ed="#C" n="8"/>ratum relinquit: imputet ergo sibi, quia apposuit: pericu 
+      <lb ed="#C" n="9"/>lum enim in se recipere voluit, &amp; potuit, &amp; ideo valet pa 
+      <lb ed="#C" n="10"/>ctum: ultra summam exigere voluit, sed non potuit, &amp; id 
+      <lb ed="#C" n="11"/>eo non valet, ut supra de pact capit sinal partem lucri potui 
+      <lb ed="#C" n="12"/>stipulari, ut supra de donat inter virum &amp; uxor. per vestras, se¬ 
+      <lb ed="#C" n="13"/>noluit, &amp; ideo non habebit, quare sibi dici potest, quod v 
+      <lb ed="#C" n="14"/>uisti, non potuisti, quod potuisti, noluisti, ut supra de o 
+      <lb ed="#C" n="15"/>sic. leg. cum super, &amp; C. si quis alteri vel sibi, multum interest. U 
+      <lb ed="#C" n="16"/>sura igitur reprobatur, sed societas admittitur, &amp; hone 
+      <lb ed="#C" n="17"/>stum sucrum est, prout notat. supra de donatio. inter virum 
+      <lb ed="#C" n="18"/>&amp; uxorem sub rubrica de do. promis. §. &amp; quando competit, ver 
+      <lb ed="#C" n="19"/>sicul. quod autem dixi, tamen diebus concessis mercimo 
+      <lb ed="#C" n="20"/>nium exerceatur, alias illicitum est, ut supra de fer, capitu 
+      <lb ed="#C" n="21"/>1. Quid ergo, si contrahatur societas, quod unus pona 
+      <lb ed="#C" n="22"/>pecuniam a &amp; alius operam? Licitum est dum tame 
+      <lb ed="#C" n="23"/>lucrum et damnum communiter sentiant. Quid si peri 
+      <lb ed="#C" n="24"/>culum pertinet ad recipientem insolidum, &amp; lucrum in 
+      <lb ed="#C" n="25"/>solidum ad tradentem? Illicita est talis societas, &amp; etian 
+      <lb ed="#C" n="26"/>leonina. Porro fieri potest, quod recipiens, periculum sen 
+      <lb ed="#C" n="27"/>tiat insolidum, &amp; lucrum patiatur, quamvis Quintus Mu 
+      <lb ed="#C" n="28"/>tius contrarium scripserit in hoc. per Servium repreher 
+      <lb ed="#C" n="29"/>sus, quod &amp; ipsum tamen Servius sic intelligit, quod si i 
+      <lb ed="#C" n="30"/>quibusdam mercibus recipiens lucratus fuerit, &amp; in qui 
+      <lb ed="#C" n="31"/>busdam amiserit, lucro cum damno compensato: si qui¬ 
+      <lb ed="#C" n="32"/>lucri super est, debeat dividi inter eos, quia nec lucru in 
+      <lb ed="#C" n="33"/>telligitur, nisi damno, ex tota societate deducto, si dictum 
+      <lb ed="#C" n="34"/>non fuerit in societate quota parsdari debeat, utrum te 
+      <lb ed="#C" n="35"/>tia, media, vel quarta, de media parte lucri dictum vide 
+      <lb ed="#C" n="36"/>tur, vt haec omnia probantur, ff. pro socio si non fuerit, &amp; In 
+      <lb ed="#C" n="37"/>stitut pro socio paragrapho de illi, &amp; sequent. Goffred. tamer 
+      <lb ed="#C" n="38"/>&amp; alii adhaerent Quinto Mutio, &amp; Servium reprehendum 
+      <lb ed="#C" n="39"/>sed si fraus non interveniat, dixit Albericus, quod de rige 
+      <lb ed="#C" n="40"/>re juris, &amp; ex vi pacti, &amp; natura contractus approbati,( 
+      <lb ed="#C" n="41"/>liciti, talis societas est licita, nam pro majori parte merea¬ 
+      <lb ed="#C" n="42"/>tores lucrantur, &amp; jura ad ea, quae frequentius accidunt 
+      <lb ed="#C" n="43"/>adaptantur, f. de leg. nam ad ea, nec moveat te, quod pericu 
+      <lb ed="#C" n="44"/>lum pecuniae ad recipientem insolidum pertinet, &amp; no 
+      <lb ed="#C" n="45"/>totum lucrum, nam &amp; contractus ex conventione legen 
+      <lb ed="#C" n="46"/>accipiunt, ff. depositi. leg. prima, § si convenit, ff de regulis ju 
+      <lb ed="#C" n="47"/>ris, contractus quidam. ff. de pactis, in emptionibus &amp; leg. in tra 
+      <lb ed="#C" n="48"/>ditionibus, ff. ad legem Aquiliam, si servus suum, §si calicem, 8 
+      <lb ed="#C" n="49"/>ad hanc opinionem Alberici confirmandam possunt mul 
+      <lb ed="#C" n="50"/>ta induci, quia &amp; hoc in multis aliis casibus continger 
+      <lb ed="#C" n="51"/>potest. Quid enim si mercator vendat tibi equum suum 
+      <lb ed="#C" n="52"/>&amp; tradat pretio centum lib. tali pacto interposito, quo 
+      <lb ed="#C" n="53"/>quicquid tu qui miles es, lucraberis super equo cum eod 
+      <lb ed="#C" n="54"/>vidas: &amp; quicquid ipse qui inercator est, cum centum! 
+      <lb ed="#C" n="55"/>bris lucrabitur, in mercimonio tibi communicet, &amp; cert 
+      <lb ed="#C" n="56"/>hoc pactum tenet: si dicas, non est mirum: quia cum utei 
+      <lb ed="#C" n="57"/>que pactum apponat, ut posuisti commune est pericu 
+      <lb ed="#C" n="58"/>lum, &amp; vtrique imminet, huic &amp; mihi, quare potest toler¬ 
+      <lb ed="#C" n="59"/>ri, respondeo, Certe &amp; si ab altera parte tantum fuerit in 
+      <lb ed="#C" n="60"/>ipso contractu vel paulo ante, vel post in continenti af 
+      <lb ed="#C" n="61"/>positum valet: vt probatur C. de pact. in bonae fidei &amp; leg peren 
+      <lb ed="#C" n="62"/>&amp; ff de pactis, juris gentium, paragrapho sed cum illa, &amp; (quin 
+      <lb ed="#C" n="63"/>mo, &amp; tamen nemini dubium, quin ad mercatorem per 
+      <lb ed="#C" n="64"/>culum centum librarum sibi traditarum insolidum perti 
+      <lb ed="#C" n="65"/>neat, &amp; ad te militem periculum equitui. Item in com 
+      <lb ed="#C" n="66"/>modato plurimumque ad commodantem periculum re 
+      <lb ed="#C" n="67"/>commodatae insolidum pertinet, &amp; vsus commodi ad con 
+      <lb ed="#C" n="68"/>modatarium insolidum, ut patet supra de commodat. capi¬ 
+      <lb ed="#C" n="69"/>unico. Idem in re locatâ ex certo salario, &amp; in multis al 
+      <lb ed="#C" n="70"/>is contractibus idem poteris reperire, in quibus ad unun 
+      <lb ed="#C" n="71"/>pertinet lucrum insolidum, &amp; periculum insolidum a¬ 
+      <lb ed="#C" n="72"/>alterum, nec turberis inde. multo fortius posset concedi 
+      <lb ed="#C" n="73"/>quod sic possit societas contrahi, quod ad unum totun 
+      <lb ed="#C" n="74"/>pertineat periculum sociorum, &amp; lucrum debeat dividi 
+      <lb ed="#C" n="75"/>inter eos. Item ad maritum periculum pecuniae dotali 
+      <lb ed="#C" n="76"/>sibi fraditae pertinet insolidum, cum dominus sit. C. der¬ 
+      <lb ed="#C" n="77"/>venait. doce, &amp; tamen de consuetudine, vel ex vi pacti lucri 
+      <lb ed="#C" n="78"/>comnunicabit non solum ex dote proveniens, sed alite 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0739.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>qualitercunque, sic potest intelligi supra de donatio, inter 
+      <lb ed="#C" n="80"/>virum &amp; uxorem capitul. 2. Hanc etiam societatem videtur 
+      <lb ed="#C" n="81"/>comprobare satis aperte decret. supra de dona inter virum ? 
+      <lb ed="#C" n="82"/>uxorem per vestras, ad sin nec enim intelligendum est, quo 
+      <lb ed="#C" n="83"/>dos committatur mercatori, periculo viri &amp; mulieris, ar 
+      <lb ed="#C" n="84"/>gument. ff. solut. matrim. leg. 1. sed hac societate habita, u 
+      <lb ed="#C" n="85"/>dote semper salva remanente, pars lucri reddatur, de qui¬ 
+      <lb ed="#C" n="86"/>vt ibi dicit, onera, matrimonii supportentur. Sed quam 
+      <lb ed="#C" n="87"/>vis talis societas, secundum Al non jure societatis, sed ei 
+      <lb ed="#C" n="88"/>vi pacti licita possit dici, tamen non est omnino aequa: id 
+      <lb ed="#C" n="89"/>eo in judicio animae consulerem, quod si is qui pecunian 
+      <lb ed="#C" n="90"/>recipit, ipsam fortuito casu amitteret: is qui tradidit ei par¬ 
+      <lb ed="#C" n="91"/>ceret, &amp; grave detrimentum ejus vitaret, sicut no. in simi 
+      <lb ed="#C" n="92"/>li quaestio, ut infra eodem versicul. quid de his, &amp; idem consule 
+      <lb ed="#C" n="93"/>rem. Est tamen veritas, secundum Job. &amp; Azo. quod tali 
+      <lb ed="#C" n="94"/>societas tenet, nam quo ad societatem pertinet, nisi aliu¬ 
+      <lb ed="#C" n="95"/>dictum sit, quod partes semper aequales sunt, potest tam 
+      <lb ed="#C" n="96"/>agi in contrarium, scilicet quo ad unum pertineant dua 
+      <lb ed="#C" n="97"/>partes lucri, ad alium tertia, si unus plus contulerit socie¬ 
+      <lb ed="#C" n="98"/>tati, vel pecuniae, vel operae, vel cujuslibet artis is qui plu 
+      <lb ed="#C" n="99"/>recipit ff. pro socio si fuerit Institu pro sotio §1 aliter non, qui¬ 
+      <lb ed="#C" n="100"/>societas quoddam jus fraternitatis est, ff pro socio. rerum, re 
+      <lb ed="#C" n="101"/>sponsio i. &amp; haec est ratio specialitatis, quare exvi pacti ta¬ 
+      <lb ed="#C" n="102"/>lis societas non valebit, quamvis in aliis contractibus pa 
+      <lb ed="#C" n="103"/>ctum appositum teneat: vt supra notat. nec obst. Institut 
+      <lb ed="#C" n="104"/>pro socio. 9 &amp; adeo contra Quinti Mutii, quia quod ibi dicit pos 
+      <lb ed="#C" n="105"/>se conveniri, ut quis lucri partem ferat, &amp; de damno nor 
+      <lb ed="#C" n="106"/>teneatur, intelligi oportet de damno &amp; lucro mercimo 
+      <lb ed="#C" n="107"/>nii: vel operae, non de capitali, &amp; hoc est quod dicit Serv 
+      <lb ed="#C" n="108"/>us, neque enim lucrum intelligitur, nisi omni damno dedu 
+      <lb ed="#C" n="109"/>cto: neque damnum nisi omni lucro deducto, sed potel 
+      <lb ed="#C" n="110"/>colri societas, ita ut ejus lucri quod reliquum in societat, 
+      <lb ed="#C" n="111"/>sit, omnino damno deducto pars altera feratur, &amp; eju¬ 
+      <lb ed="#C" n="112"/>damni quod similiter relinquatur, pars alia capiatur i pr 
+      <lb ed="#C" n="113"/>socio. Quintus Mutius. Ideoque si in una causa pars fueri 
+      <lb ed="#C" n="114"/>expressa, veluti in solo lucro, vel in solo damno, in alter 
+      <lb ed="#C" n="115"/>vero omissa, in eo quoque quod praetermissum est, eanden 
+      <lb ed="#C" n="116"/>partem servari oportet. Institut. pro socio. Sillud expeditum 
+      <lb ed="#C" n="117"/>est. Ideoque sic scripsit Goffred in Summa sua. Vis dar¬ 
+      <lb ed="#C" n="118"/>pecuniam tuam naviganti, vel ad nundinas eunti; seu ali 
+      <lb ed="#C" n="119"/>mercatori, sine pacto, pone tu pecuniam &amp; alius operan 
+      <lb ed="#C" n="120"/>personalem, &amp; pecuniam tantam, vel minorem, plerun 
+      <lb ed="#C" n="121"/>que enim quod pecuniae deest, opera suppletur, sed? 
+      <lb ed="#C" n="122"/>communicetis pericula. lucra, &amp; damna ff pro socio. 15.§16 
+      <lb ed="#C" n="123"/>si non fuerit, &amp; sequ. Quid de his qui oves vendunt, vel do 
+      <lb ed="#C" n="124"/>nant, &amp; tradunt monasteriis, sub hoc pacto. quod pro qua 
+      <lb ed="#C" n="125"/>libet ove recipiant in anno duos sol. cum fructus cujusli 
+      <lb ed="#C" n="126"/>bet ovis, valeat; solidos, vel quatuor, sed quamvis omne 
+      <lb ed="#C" n="127"/>oves traditae moriantur, nihilominus remanet ex pacti 
+      <lb ed="#C" n="128"/>monasterium obligatum, ac si viverent, sed post morten 
+      <lb ed="#C" n="129"/>tradentis pertinent omnes ad monasterium, etiamsi nni 
+      <lb ed="#C" n="130"/>merus centuplicatus foret ex vi pacti? dico hoc licitum 
+      <lb ed="#C" n="131"/>argument. sup. ver. Goff. tamen, &amp; seq. vet. 12. nec potest eccl 
+      <lb ed="#C" n="132"/>sia restitutionem petere, ex quo in traditione laesa non fu 
+      <lb ed="#C" n="133"/>it, &amp; quamvis eventus mortalitatis sequatur, nec enimv 
+      <lb ed="#C" n="134"/>detur circumscriptus minor, qui usus est communi, ut( 
+      <lb ed="#C" n="135"/>de in integrum restit mino leg. ult ff. de negotiis gestis, sed an u¬ 
+      <lb ed="#C" n="136"/>tro quod verum intelligas, nisi oves infectae essent, &amp; a¬ 
+      <lb ed="#C" n="137"/>mortem paratae, &amp; prospexit monasterium mortalitaten 
+      <lb ed="#C" n="138"/>evenire posse, ut ff. de minor. rerum §si locupletiori. Consu 
+      <lb ed="#C" n="139"/>lo tamen tradenti, quod si talis casus evenerit inspecto lu 
+      <lb ed="#C" n="140"/>cro, quod fecit monasterium in oribus quas forte long 
+      <lb ed="#C" n="141"/>tempore habuerat, insolidum exigat, vel remittat, &amp; par 
+      <lb ed="#C" n="142"/>tiatur. &amp; sentiat partem damni, nec unquam cum jactu 
+      <lb ed="#C" n="143"/>ra monasterii velit locupletari, ut ff. de condictio. indeb 
+      <lb ed="#C" n="144"/>nam haec natura. Item caveat sibi tradens, nam nisi totu 
+      <lb ed="#C" n="145"/>conventus consentiat, non tenetur monasterium de ovi 
+      <lb ed="#C" n="146"/>bus vel abbati cancellatio sub pacto praecedenti, vel con 
+      <lb ed="#C" n="147"/>simili, vel donantis, ut supra deposi capituli &amp; notat. supr. 
+      <lb ed="#C" n="148"/>de his quae fi. a praelat. Sin quibus requiritur consensus, versicu 
+      <lb ed="#C" n="149"/>item quo ad obligationem. Quid de his, qui emunt ab ecclesis 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="150"/>ADDITIO. 
+      <lb ed="#C" n="151"/>a Vnus ponat pecuniam.JAdde c pleriq; 14. 9. 3. Car. Zab. in 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>naviganti. in ult. qu. de usu. Saly in auth ad haec, in 14. 9. de usu. Io 
+      <lb ed="#C" n="153"/>de Rodul. in tracttu. de vsur. 9. 20--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0740.xml-->
+      <pb ed="#C" n="723"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>nonasteriis, bcertas possessiones tenendas toto ten 
+      <lb ed="#C" n="2"/>e vitae suae, ita ut post mortem eorum ad ecclesiam re 
+      <lb ed="#C" n="3"/>dean:, Ray &amp; Goff judicaverunt talem contractum usi 
+      <lb ed="#C" n="4"/>rarium eo, quo, homines sperant vivere, &amp; sic homines spe 
+      <lb ed="#C" n="5"/>rant se ampiius percepturos de proventibus possessioni 
+      <lb ed="#C" n="6"/>quam si pecunia quam dederunt, &amp; sola spe contrahitu 
+      <lb ed="#C" n="7"/>usura, ut non supra eodem §i. versi pactione, si tam dat quis v 
+      <lb ed="#C" n="8"/>nam possessionem, ut recipiat aliam aequivalentem, licitu 
+      <lb ed="#C" n="9"/>est contractus: secundum ea quae notat, supra de precar. ca 
+      <lb ed="#C" n="10"/>1&amp;2 Certe, salva pace ipsorum, minus bene videntur ser 
+      <lb ed="#C" n="11"/>sisse: nam ita homines possunt sperare lucrum in hoc ult 
+      <lb ed="#C" n="12"/>mo contractu, sicut in primo, &amp; adeo licitus est contractu 
+      <lb ed="#C" n="13"/>primus, scilicet emptionis &amp; venditionis sicut &amp; ultimu 
+      <lb ed="#C" n="14"/>scilicet precarium, nisi in fraudem fiat, nam uterque appro 
+      <lb ed="#C" n="15"/>batur a jure, ut de contrah. emp. &amp; de preca per totum, ipseme 
+      <lb ed="#C" n="16"/>etiam scripserunt, quod non habet locum contractus: 
+      <lb ed="#C" n="17"/>surarius, nisi in mutuo, &amp; ego juxi irregulariter, vt oppe 
+      <lb ed="#C" n="18"/>sitionem multorum casuum evitarem, sicut notat. supr 
+      <lb ed="#C" n="19"/>eodem  primo, versicul. reimutuatae, ideo dic, quod contr¬ 
+      <lb ed="#C" n="20"/>ctus iste sicut &amp; ille de quo notat. supra eodem versicul. qui 
+      <lb ed="#C" n="21"/>de his, qui oves ratione meertitudinis excusantur. C. eodem leg. 
+      <lb ed="#C" n="22"/>&amp; de pact leg prima, &amp; ff. de condit &amp; demonstrat leg prima. S 
+      <lb ed="#C" n="23"/>tamen ponas pro constanti, quod pravam intentionenm 
+      <lb ed="#C" n="24"/>habeant, &amp; quod eos remordeat conscientia, non excus¬ 
+      <lb ed="#C" n="25"/>purgent ergo conscientiam; supra de praescript. capit. sin. ( 
+      <lb ed="#C" n="26"/>infra eodem in civitate. Sed ego de illis non sum, sicut no 
+      <lb ed="#C" n="27"/>tat. simile supra de praescripi. sub rubric. de praescript. rerum in 
+      <lb ed="#C" n="28"/>mobi. §quae exiguntur, subq verum quicquid. Quid si qui 
+      <lb ed="#C" n="29"/>mutuat veterem annonam, vt recipiat novam? Si ideo no 
+      <lb ed="#C" n="30"/>facit, ut meliorem recipiat, usura non caret, infra eod cor 
+      <lb ed="#C" n="31"/>suluit, &amp; cap. in civitate. Sin autem ideo, ne sua sibi parca 
+      <lb ed="#C" n="32"/>vel forte ut accipienti gratiam faciat, non committit usu 
+      <lb ed="#C" n="33"/>ram, secundum Goffred. Quid si quis pecuniam mutu 
+      <lb ed="#C" n="34"/>et, recepturus ad certum terminum, alterius generis me 
+      <lb ed="#C" n="35"/>netam, vel aurum, vel argentum, vel aliam speciem? Re 
+      <lb ed="#C" n="36"/>spondeo, si ideo hoc facit, vt in aestimatione lucretur, usu 
+      <lb ed="#C" n="37"/>rarius est, secundum Goffr sicut hi, qui de nundinis in nur 
+      <lb ed="#C" n="38"/>dinas mutuant, quam usuram execrabiliorem omnibus jv 
+      <lb ed="#C" n="39"/>dico, quantumcunque sub specie venditionis, vel permut: 
+      <lb ed="#C" n="40"/>tionis, vel alterius contractus veletur cum excedat cente 
+      <lb ed="#C" n="41"/>simam, de quo non sup. eo. § qualiter petantur, ver petuntur au 
+      <lb ed="#C" n="42"/>tem, &amp; seq. &amp; quodcunque nomen imponatur, ex quo frau 
+      <lb ed="#C" n="43"/>dulenter, vel mala intentione sit, &amp; aliquid sorti accedit 
+      <lb ed="#C" n="44"/>usura est, infra codem consulnit, 14 9 2 plerique. Quid de not. 
+      <lb ed="#C" n="45"/>riis, qui superusuris scienter conficiunt instrumenta? per 
+      <lb ed="#C" n="46"/>juri sunt, quia quando creantur, jurant quod hoc non f¬ 
+      <lb ed="#C" n="47"/>cient, ergo de caetero nec testificari poterunt, nec public 
+      <lb ed="#C" n="48"/>conficere instrumenta: perjurus enim testificari non po 
+      <lb ed="#C" n="49"/>test, quantumcunque poenitentiam egerit, sup. de test. ex pa 
+      <lb ed="#C" n="50"/>te Adae, &amp; cap fin. ex hoc etiam sunt infames, quibus sunt a 
+      <lb ed="#C" n="51"/>ctus legitimi interdicti, supra de testi licet ex quadam, respor 
+      <lb ed="#C" n="52"/>1. adfi. Quid de praelatis, subscribentibus &amp; sigillantibu¬ 
+      <lb ed="#C" n="53"/>Etiamsi praelatus non legit tenorem, vel legit, sed usurave 
+      <lb ed="#C" n="54"/>lata est: quia forte apponitur major quantitas, quam i 
+      <lb ed="#C" n="55"/>veritate mutuata sit, nec diligenter scrutatur &amp; inquirit 
+      <lb ed="#C" n="56"/>&amp; ideo non intelligit, fatue agii: sed in veritate non consen 
+      <lb ed="#C" n="57"/>tit. C plus valere quod agitur leg si u fe de pignoraticia actione. G. 
+      <lb ed="#C" n="58"/>ius si vero legit, &amp; veritatem invenit, particeps est usura 
+      <lb ed="#C" n="59"/>rum, etsi non commodi, nam subscriptio in multis juri 
+      <lb ed="#C" n="60"/>articulis, consensum &amp; approbationem inducit, supra de¬ 
+      <lb ed="#C" n="61"/>judic. cum inter nos. C. si certum petatur, mutuo. C. de administra 
+      <lb ed="#C" n="62"/>tuto. si non scripsisti. C. de donat. nec ignorans C de si lejusso si pater 
+      <lb ed="#C" n="63"/>C. de rebus eccles. non alien. l. 2. &amp; cum sigilla praelatorum red 
+      <lb ed="#C" n="64"/>dant instrumenta authentica, supra de si mstrument. scripta 
+      <lb ed="#C" n="65"/>laici per hoc credentes contractus hujus. per ecclesian 
+      <lb ed="#C" n="66"/>approbari, securius peccant, &amp; ideo de praelatis talibus d 
+      <lb ed="#C" n="67"/>ei potest. Laqueus juvenum omnes vos secund. quaestion 
+      <lb ed="#C" n="68"/>septima Paulus, quamvis etiam, quo ad laicos, usuras reci 
+      <lb ed="#C" n="69"/>pere divini dignum animadversione judicii habeatur: ma 
+      <lb ed="#C" n="70"/>jorem tamen incurrunt formidinem, quod fomitem su 
+      <lb ed="#C" n="71"/>erroris in praelatis inveniunt, dum eos indevia mortis im 
+      <lb ed="#C" n="72"/>pellunt, qui praedicatione eorum ad viam vitae fuerant re 
+      <lb ed="#C" n="73"/>vocandi, sicut alias dicitur in casu consimili, supra de de¬ 
+      <lb ed="#C" n="74"/>quamvis.
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e2266">
+               <lb ed="#C" n="75"/>Qualiter  contractus usurarius 
+      detega<lb ed="#C" n="76" break="no"/>tur. Hoc dixi 
+      su<lb ed="#C" n="77" break="no"/>pra de pignoribus paragrapho quibus pactis, &amp; de contrahen emp 
+      <lb ed="#C" n="78"/>Ssin sub S illud autem, verficul. de contractu ad contractam. E 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0740.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>breviter dico ipsum detegi per testes &amp; indicis, vt si veni 
+      <lb ed="#C" n="80"/>am ad creditorem, petens mutuum, &amp; ipse dicit quod ro 
+      <lb ed="#C" n="81"/>mutuabit, quia bene scit, quod nen pesset ibi facere uti 
+      <lb ed="#C" n="82"/>litatem suam, sed ipse emat a me aliquam possessionem me 
+      <lb ed="#C" n="83"/>am, vel aliam rem, &amp; faciet mihi hunc amorem, quod re 
+      <lb ed="#C" n="84"/>stituet mihi rem eodem pretio, usque ad certum tempus 
+      <lb ed="#C" n="85"/>ego dico, ex quo aliud non possum, &amp; ego faciam, si de ho¬ 
+      <lb ed="#C" n="86"/>constetjudici, per testes praesumet hoc factum in frau 
+      <lb ed="#C" n="87"/>dem usurarum, maxime si longe citra justum pretium e 
+      <lb ed="#C" n="88"/>mat, ut supra de contrahend einpt. ad nostram. Item si pacti 
+      <lb ed="#C" n="89"/>claudicant: quia omnia posita sunt infarorem debitoris 
+      <lb ed="#C" n="90"/>ut pote in potestate creditoris est, an velit contractum re 
+      <lb ed="#C" n="91"/>scindi: quia computat fructus in sortem, quos non praesu 
+      <lb ed="#C" n="92"/>mitur jactare velle, si verus fuisset contractus, &amp; sui essent 
+      <lb ed="#C" n="93"/>argument f de probat cum de indebiio, quia recepit aliud ul 
+      <lb ed="#C" n="94"/>tra sortem, quia consuevit exercere vsuras, supra de pigno 
+      <lb ed="#C" n="95"/>illo. Quid de baratris, &amp; poenis appositis? dic ut su prad 
+      <lb ed="#C" n="96"/>contrahend empt §. sin sub S illud, rersicul. de re &amp; supra de pi 
+      <lb ed="#C" n="97"/>gno. §quibus rersicul quid si debitor. &amp; infia codem§ sequen su 
+      <lb ed="#C" n="98"/>S est autem usura, persic. quid sit poena, ut tamen scias, poenan 
+      <lb ed="#C" n="99"/>in quantitate appositam praesumptionem usurae induce 
+      <lb ed="#C" n="100"/>re. sicut ibi dixi, secus si speciei, vel facto apponatur, sub 
+      <lb ed="#C" n="101"/>audi ab illo, qui non est usurarius, ut f. de act ompi. Lucius,e 
+      <lb ed="#C" n="102"/>supra de rel do. constitutus, de quo dixi supra §proxim. Tersicu 
+      <lb ed="#C" n="103"/>11. Sed tunc si exigatur poena non videtur agi posse ex con 
+      <lb ed="#C" n="104"/>tractu. nisi in eo, in quo excedit, ut ff pro socio si quis a socio 
+      <lb ed="#C" n="105"/>nisi esset appositum. rato manente contractu, ut ff. de trani 
+      <lb ed="#C" n="106"/>act qui fidem. secundum B super quo vide quod notat su 
+      <lb ed="#C" n="107"/>pra de arbitr (qualiter constituatur, subS sed mens, rer. &amp; nun 
+      <lb ed="#C" n="108"/>quid poena recepta. &amp; sic semper praesumendum est contr¬ 
+      <lb ed="#C" n="109"/>usurarios, vt no. supra quod mut causss qualiter distinguatur 
+      <lb ed="#C" n="110"/>&amp; sufficit fama cum certis indiciis, ut non. infra eo §quae poen¬ 
+      <lb ed="#C" n="111"/>sufficit autem.
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e2353">
+               <lb ed="#C" n="112"/>Quae, poena surariorum : Multiples, &amp; diver¬ 
+      <lb ed="#C" n="113"/>sa Unde notandum Quod alia roen¬ 
+      <lb ed="#C" n="114"/>imponitur a canone. Alia a judice. Alia ab adversario op 
+      <lb ed="#C" n="115"/>exceptionis, de singulis igitur videamus.
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e2365">
+               <lb ed="#C" n="116"/>ALia poena imponitur a canone, quae triplex est: nan 
+      <lb ed="#C" n="117"/>usurarii manifesti nec ad communionem altaris ad 
+      <lb ed="#C" n="118"/>mittuntur, nec Christianam, si in hoc peccato decesserint 
+      <lb ed="#C" n="119"/>accipiunt sepulturam, sed nec vivorum oblationes recip 
+      <lb ed="#C" n="120"/>debent, quod si quis clericus, contravenerit, quod acce 
+      <lb ed="#C" n="121"/>pit reddere cogitur, &amp; donec ad arbitrium episcopi sui sa 
+      <lb ed="#C" n="122"/>tisfecerit, ab officii sui manet executione suspensus, ut in 
+      <lb ed="#C" n="123"/>fra eo quoniam. de quo consilio semper consuevit fieri men 
+      <lb ed="#C" n="124"/>tio in literis contra usurarios impetratis, cum dicitur eo 
+      <lb ed="#C" n="125"/>ad restituendum, quicquid ultra sortem perceperint, pe 
+      <lb ed="#C" n="126"/>roenam in Lateran. concilio contra usurarios aeditam, con 
+      <lb ed="#C" n="127"/>pellatis, ut de contrahen einpt. ad nostram, de jurejur. ad nostran 
+      <lb ed="#C" n="128"/>Unde ab hac poena, semper incipiendum est: &amp; poena el 
+      <lb ed="#C" n="129"/>primitus imponenda. Sed cui restituet clericus ob atio 
+      <lb ed="#C" n="130"/>nem, quam a tali accepit? danti non, argum. 17quae. 4 sun 
+      <lb ed="#C" n="131"/>qui opes, 12. qu. 2. nulli liceat, dicunt quidam, ut Alanus, quo¬ 
+      <lb ed="#C" n="132"/>episcopo loci, ut ausert ecclesiae in poenam accipientis, si 
+      <lb ed="#C" n="133"/>26 quaestio 3. constituit, alias irregulariter obtinet quod de 
+      <lb ed="#C" n="134"/>lictum personae &amp;c. ut IS. quaestio quinta si episcopum. Gul 
+      <lb ed="#C" n="135"/>elmus Na. dicit, quod restituitur illi qui obtulit in oppro 
+      <lb ed="#C" n="136"/>brium sui. argum supra de homi sicut dignum §eos, &amp; infr. eo 
+      <lb ed="#C" n="137"/>dem cum tu § super his. Sed dummodo intelligas usurari 
+      <lb ed="#C" n="138"/>os manifestos d fore. Respondeo manifestos voco no¬ 
+      <lb ed="#C" n="139"/>torios, vel evidentia facti, scil. qui usurarius mensam tenet
+    <!--</p>
+    <p>
+      <lb ed="#C" n="140"/>ADDITIONES 
+      <lb ed="#C" n="141"/>b Qui emuntab ecclesiis, &amp; monast.riis.] Adde Archi. ine¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="142"/>quicunque, 14. 9. 4. Ioan. Andr. in rubrica de usu (y &amp; Bald. in 
+      <lb ed="#C" n="143"/>pater puellae. C. de inoffic. testam. Cy &amp; Bald in I ea pactione, &amp; ib 
+      <lb ed="#C" n="144"/>And &amp; Saly C. de usur. Pau de Cast. &amp; Alex de Imo. in lg. d 
+      <lb ed="#C" n="145"/>fideicom. C. ae transact. La de Rodulphis in repet, cap. consuluit, d 
+      <lb ed="#C" n="146"/>usur in secunda parte, in 15. quaestione, idem in tractat. usurarum 
+      <lb ed="#C" n="147"/>q11. &amp; per Ludu Ro consil. 522. incip. Pro pleniori discussione, i 
+      <lb ed="#C" n="148"/>tertio dubi¬ 
+      <lb ed="#C" n="149"/>. Quae poena usurariorum. JAdde doct. in c. quanquam de nsu.d 
+    </p>
+    <p>
+      <lb ed="#C" n="150"/>6. &amp; per Doct in olem. I. eo t1 
+      <lb ed="#C" n="151"/>d Vsurarios manifestos. JAddegl in c.I. de usu lib 6 gl in capi¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>quanquam eodem iitul glos. in clemen eos, de sepuli. &amp; ibi Card.i 
+      <lb ed="#C" n="153"/>19. quaest. Aob. in capit. cum in dige. de usu. Lau. Rodul. in traciais 
+      <lb ed="#C" n="154"/>υππωπgα--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0741.xml-->
+      <pb ed="#C" n="724"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>paratam ad pecuniam mutuandam cuilibet sub usuri: 
+      <lb ed="#C" n="2"/>sicut meretrix in prostibulo cuilibet patet, argument. su 
+      <lb ed="#C" n="3"/>pra de cohabitatione clericorum &amp; mulierum, c tua, &amp; capit. fi¬ 
+      <lb ed="#C" n="4"/>&amp; in hoc casu ipso jure poenam patitur canonis praetaxi 
+      <lb ed="#C" n="5"/>tam, vel manifestos intelligam, notorios juris: puta qui¬ 
+      <lb ed="#C" n="6"/>per episcopum sunt in ecclesia publicati. Secus si adhu 
+      <lb ed="#C" n="7"/>ab ecclesia tolerentur, vt argument. supra de cohabitation 
+      <lb ed="#C" n="8"/>clericorum &amp; mulierum nostra, nam si manifesti sunt per f¬ 
+      <lb ed="#C" n="9"/>mam tantum, non tamen notorii, ideo patiuntur hanc p 
+      <lb ed="#C" n="10"/>nam ipso jure, sed per publicationem, sic intellige infrae 
+      <lb ed="#C" n="11"/>dem cum tu. responsio. 1. Sufficit autem ad publicationen 
+      <lb ed="#C" n="12"/>faciendam, quod vocati confiteantur, vel negantes pert¬ 
+      <lb ed="#C" n="13"/>stes convincantur, supra de cohabitatione clericorum tuarum 
+      <lb ed="#C" n="14"/>Sufficiunt etiam &amp; certa argumenta cum fama, infra eoc 
+      <lb ed="#C" n="15"/>cum tu. quamvis autem nullus appareat accusator, supe 
+      <lb ed="#C" n="16"/>hoc procedet nihilominus episcopus ex officio ut ibi. su 
+      <lb ed="#C" n="17"/>per hoc vide supra de probationibus S &amp; quot sunt species, &amp; ver 
+      <lb ed="#C" n="18"/>sic. 2. &amp; versicul. 3. quam cito autem satisfaciunt, haec poen¬ 
+      <lb ed="#C" n="19"/>cessat: ut infra eodem cum tu respon.i. sic 8i distinct. si qui sun 
+      <lb ed="#C" n="20"/>Quid si notorium sit, aliquem usuras recepisse, hi tame 
+      <lb ed="#C" n="21"/>qui solverunt non repetunt, vel quia non audent, vel qui¬ 
+      <lb ed="#C" n="22"/>juraverunt non repetere. Respon. Ecclesia vel ex denun 
+      <lb ed="#C" n="23"/>ciatione alicujus, vel ex puro officio suo procedet in ho¬ 
+      <lb ed="#C" n="24"/>&amp; usurarium ad restitutionem faciendam compellet, infi 
+      <lb ed="#C" n="25"/>eo, cum in diaec. &amp; supra de jurejur. ad nostram 2. supra de institu 
+      <lb ed="#C" n="26"/>cum venissent, ante fin &amp; junge quod notat. infra eodem sub? 
+      <lb ed="#C" n="27"/>alia ab adversario, persicul quid si nullus apparet. Quid si ep 
+      <lb ed="#C" n="28"/>scopus in vita usurarii recepit oblationem, sed in mort 
+      <lb ed="#C" n="29"/>non admittit ipsum ad sepulturam, sed ipsum asserit pun¬ 
+      <lb ed="#C" n="30"/>endum, ut infra eodem quia in omnibus in fi nam cui commu 
+      <lb ed="#C" n="31"/>nicamus vivo, &amp;c. ut notat. supra de sepult. § quibus interdica 
+      <lb ed="#C" n="32"/>tur. Quid si publicatus decedat, sed haeres satisfacit dei 
+      <lb ed="#C" n="33"/>suris? Dico non esse sepeliendum, nisi certis indiciis at 
+      <lb ed="#C" n="34"/>pareat de contritione: argument. 24. quaest. 2. ne quicquam 
+      <lb ed="#C" n="35"/>&amp; 25. quaestio. 6. qui recedunt, &amp; infra de sentent, excommunica 
+      <lb ed="#C" n="36"/>a nobis 2.
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e2506">
+               <lb ed="#C" n="37"/>ALia a judice, quae aliquando sequitur ex superiori, in 
+      <lb ed="#C" n="38"/>42 flicta enim paena canonis si contumacia exigat, &amp; usu 
+      <lb ed="#C" n="39"/>rarius clericus sit, ab officio, beneficioque suspenditur. S 
+      <lb ed="#C" n="40"/>laicus, excommunicatur, ut infra eodem praeterea in princii 
+      <lb ed="#C" n="41"/>&amp; si nec adhuc clericus desistat, degradandus est: ut infr. 
+      <lb ed="#C" n="42"/>eodem cap. 114. quaest 4 canonum, &amp; cap quontam, &amp; cap. si qui 
+      <lb ed="#C" n="43"/>oblitus, quam tamen poenam evadit, si desistat, nam de jur 
+      <lb ed="#C" n="44"/>communi, nisi parcatur, degradatus est, sic intellige pra 
+      <lb ed="#C" n="45"/>missa jura, &amp; 47. distinste.&amp; 2. secundum Goffred. Sed 8 
+      <lb ed="#C" n="46"/>si laicus sit, &amp; prima poena inflicta, se non emendaverit 
+      <lb ed="#C" n="47"/>majori excommunicatione percutietur, infra eodem quo 
+      <lb ed="#C" n="48"/>niam, &amp; cap praeterea, in fin. &amp; sic crescente contumacia, &amp; c 
+      <lb ed="#C" n="49"/>ut supra ut lit. non contestat quantum § ultim. Et hoc intell 
+      <lb ed="#C" n="50"/>gis. quando delegatus est, cui mandatur quod incipiat: 
+      <lb ed="#C" n="51"/>poena consilii, secus si mandetur, quod per censuram eccle 
+      <lb ed="#C" n="52"/>siasticam eam cogat. Item secus si ordinarius sit, talis enin 
+      <lb ed="#C" n="53"/>ab initio potest excommunicare, sic intellige supra de pi 
+      <lb ed="#C" n="54"/>gno significante, supra de jurejurand. debitores, &amp; cap. ad nostram 
+      <lb ed="#C" n="55"/>&amp; infra eodem tuas. Quid si juravi usuras reddere? dicu 
+      <lb ed="#C" n="56"/>notat. supra de jurejura. Squomodo censetur, versicul. si qui 
+      <lb ed="#C" n="57"/>igitur, &amp; versic. &amp; hoc no. Hac poena cogitur vsuras redde 
+      <lb ed="#C" n="58"/>re. nedum usurarius, quinimo &amp; haeres suus sive sit filius 
+      <lb ed="#C" n="59"/>sive extraneus, ut infra eo tua nos, &amp;c. Michael. ff deregjur. e: 
+      <lb ed="#C" n="60"/>qua persona, &amp; tenetur haeres, quamvis ad eum nihil per 
+      <lb ed="#C" n="61"/>venit argument. 12.q. 2. episcopus qui filios ps distinct. bene qu 
+      <lb ed="#C" n="62"/>dem ff. de evictio si parentes i quaest. 4 ecclesia. Sitem peccato, ver 
+      <lb ed="#C" n="63"/>sicul. item peccato Israelitarum, ibi maxime, &amp; c. 16. qu. 6 si epi 
+      <lb ed="#C" n="64"/>scopus, sicut haeres tenetur condictione furtiva ff de condic 
+      <lb ed="#C" n="65"/>furt. si pro fure §conditio ff.vi bono. rapt. leg. 26 ultim. ex quo c 
+      <lb ed="#C" n="66"/>nim in universum succedit, praesumitur res pervenisse ac 
+      <lb ed="#C" n="67"/>eum, ut infra eodem tua secundum Joan. licet Lau. &amp; Ala. di 
+      <lb ed="#C" n="68"/>cant, quod non teneatur haeres, nisi quatenus vires haere 
+      <lb ed="#C" n="69"/>ditatis patiuntur, ut supra de appella qua fronte, &amp; de rapto 
+      <lb ed="#C" n="70"/>literis, tu dic ut no sup. de sepul. § ul. &amp; de rapt. sub S in summ 
+      <lb ed="#C" n="71"/>notandum &amp; versic seq. Quid si alter haeredum factus sit no 
+      <lb ed="#C" n="72"/>solvendo, nunquid alius tenetur insolidum? Non vide 
+      <lb ed="#C" n="73"/>tur, argument. ff de fidetu. inter eos§ cum inter, sed contra, f 
+      <lb ed="#C" n="74"/>commo leg? § haeres, &amp; de fi dejusso tuto si fidejussores, dic quo 
+      <lb ed="#C" n="75"/>infolidum tenetur, inquantum ad ipsum saltem de haere 
+      <lb ed="#C" n="76"/>ditate pervenit, nam &amp; res haereditaria obligata videtur 
+      <lb ed="#C" n="77"/>in ra eodem cum tu § final. Quid si literae impetrentur con-
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0741.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>tra usurarium, &amp; moritur ante citationem, nunquid pe 
+      <lb ed="#C" n="79"/>hujus literas haeres suus poterit conveniri? argum. quod 
+      <lb ed="#C" n="80"/>sic, infra eodem tua. quia turpia lucra sunt ab haeredibus ex 
+      <lb ed="#C" n="81"/>torquenda: utff. de calum in haeredem. T. contra, argument 
+      <lb ed="#C" n="82"/>f qui satisdare cogantur. si decesserit, &amp; quae sentent, sine appella 
+      <lb ed="#C" n="83"/>rescind. leg penulti nisi de haerede fiat mentio in rescripto 
+      <lb ed="#C" n="84"/>sicut supra de contrahend. empt ad nostram, de offic. delegat. cun 
+      <lb ed="#C" n="85"/>olim, &amp; cap. P. &amp; G. non obstant alia jura, quia loquuntu 
+      <lb ed="#C" n="86"/>in ordinario, qui haeredem iudicare poterit, ut defunctum 
+      <lb ed="#C" n="87"/>&amp; probatur haec solutio supra de rescript. significavit. Iten 
+      <lb ed="#C" n="88"/>quamvis pignus pignori dari possit, fructus tamen per 
+      <lb ed="#C" n="89"/>cepti sortem extenuant, &amp; ideo quicunque sit possessor 
+      <lb ed="#C" n="90"/>tenetur mihi rem restituere, licet ipsam alii obligaverim 
+      <lb ed="#C" n="91"/>dummodo creditori primo fuerit satisfactum, &amp; per quo 
+      <lb ed="#C" n="92"/>cunque manus ambulaverit possessio, idem juris, ut sup 
+      <lb ed="#C" n="93"/>de pignor. illo, &amp; capit cum contra. super quo vide quod nota 
+      <lb ed="#C" n="94"/>supra de pignor paragrapho quando efficaciter intentetur. Qui 
+      <lb ed="#C" n="95"/>libet autem cogitur ad usuras restituendas, Christianus 
+      <lb ed="#C" n="96"/>sive Judaeus, clericus sive laicus, ut infra eodem capitul Le 
+      <lb ed="#C" n="97"/>secundo &amp; capitul. post miserabilem, &amp; capitul. quano. Qua 
+      <lb ed="#C" n="98"/>liter autem cogatur Judaeus, dic ut notat. supra de Judae § 
+      <lb ed="#C" n="99"/>&amp; in quibus graventur, &amp; versicul. sequent. &amp; specialitero 
+      <lb ed="#C" n="100"/>ultino versicul. &amp; versicul. secundo. Videtur tamen quoc 
+      <lb ed="#C" n="101"/>Judaeus possit moderatas usuras recipere, ut a contra 
+      <lb ed="#C" n="102"/>rio sensu innuitur, infra eodem quanto, &amp; quae dicantur mo 
+      <lb ed="#C" n="103"/>deratae, notat supra paragrapho qualiter petantur, versicul. pe 
+      <lb ed="#C" n="104"/>tuntur, &amp; sequent. Sed dic, quod ibi vacat: argumen. a con 
+      <lb ed="#C" n="105"/>trario sensu, sicut C. de episcop. &amp; cleric. conventiculam, vel id 
+      <lb ed="#C" n="106"/>eo dicit, Immoderatas, quia omnis usura immoderat 
+      <lb ed="#C" n="107"/>est, &amp; ideo hodie omnis usurarius infamis est, quia om 
+      <lb ed="#C" n="108"/>nis usura reprobata ad hoc pertinet, quod notat. suprae 
+      <lb ed="#C" n="109"/>dem quot sint ejus species, versi secundum, &amp; San aliquo casi 
+      <lb ed="#C" n="110"/>resp. 1S in aliis § qualiter petantur, versic &amp; hoc notandum, &amp; si 
+      <lb ed="#C" n="111"/>Judaei ab omni usura recipienda se debent abstinere, 1 
+      <lb ed="#C" n="112"/>infra eodem post miserabilem, &amp; patet supra §. an aliquo, veri 
+      <lb ed="#C" n="113"/>culo 
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e2680" n="11">
+               <lb ed="#C" n="114"/>EST autem usura reddenda a ei, a quo extorta est, 
+      <lb ed="#C" n="115"/>vel haeredi suo: &amp; si talis non inveniatur, est pauperi 
+      <lb ed="#C" n="116"/>bus eroganda: ut infra eodem cum tu. § super his, &amp; argumer 
+      <!--</p>
+    <p>
+      <lb ed="#C" n="117"/>ADDITIO 
+      <lb ed="#C" n="118"/>a Vsura reddenda. J In hunc locum duos, eosque distincto 
+    </p>
+    <p>
+      <lb ed="#C" n="119"/>Martini articulos in unum conjiciemus, nempe an &amp; cuiu 
+      <lb ed="#C" n="120"/>sura restituenda sit. Et usuram restitui oportere, probatu 
+      <lb ed="#C" n="121"/>extra, de fur cap si quis, cum sim. idque is a quibus extorta fuit 
+      <lb ed="#C" n="122"/>vel accepta 14. 95. non sane, &amp; quando possibilitas ad est. Ci 
+      <lb ed="#C" n="123"/>autem agitur ad restitutionem, &amp; non reddit, cum possit, ni 
+      <lb ed="#C" n="124"/>remittitur illi peccatum 14. q. 3. si res. Horum occasione add 
+      <lb ed="#C" n="125"/>potest rubiicella haec, utrum sufficiat usurario in periculum 
+      <lb ed="#C" n="126"/>condere testamentum superrestitutione usurarum. Testa 
+      <lb ed="#C" n="127"/>mentum condere pro restitutione usurarum, non sufficern 
+      <lb ed="#C" n="128"/>ad salutem animae, Martin scribit, quia, inquit, testamentum 
+      <lb ed="#C" n="129"/>est nostrae voluntatis justa sententia, de eo, quod post mol 
+      <lb ed="#C" n="130"/>tem suam quis fieri voluit. ff. detestam. leg. 1. sed post morten 
+      <lb ed="#C" n="131"/>homini non est locus poenitentiae, vel remissionis peccatorum 
+      <lb ed="#C" n="132"/>Cum ergo non remittatur peccatum, nisi restituatur ablarum 
+      <lb ed="#C" n="133"/>ut 14 quaestio. 6 si aliena. cum talis non vult ablata restitui, ni 
+      <lb ed="#C" n="134"/>si post mortem, non valet testamentum, quod facit ad resti 
+      <lb ed="#C" n="135"/>tutionem peccati. Item justitia Dei requirit, ut ille qui pec¬ 
+      <lb ed="#C" n="136"/>cavit satisfaciat. Sed cum usurarius jubet, ut usurae restituan 
+      <lb ed="#C" n="137"/>tur, non ipse vult satisfacere, sedvult, ut sui haeredes fatisfa¬ 
+      <lb ed="#C" n="138"/>ciant, quod est contra justitiam, quia poena debet tenere su 
+      <lb ed="#C" n="139"/>os authores . I. sancimus C. de pon. nec poena ultra progredide 
+      <lb ed="#C" n="140"/>bet, quam delictum fuerit in excedente repertum. ut extra, d 
+      <lb ed="#C" n="141"/>his quae fi a ma par, capit. c. quaesivit. Dico igitur, quod non suf 
+      <lb ed="#C" n="142"/>ficit condere testamentum usurarium ad salutem animae 
+      <lb ed="#C" n="143"/>cum est in mortis periculo. Sed si habeat pecuniam, und 
+      <lb ed="#C" n="144"/>possit fieri restitutio, prius expediat per fidelem nuncium su 
+      <lb ed="#C" n="145"/>um, quam moriatur: &amp; sub voce praeconiae faciat solennite 
+      <lb ed="#C" n="146"/>publicari, ut omnes a quibus per se, vel peralium habuit usu 
+      <lb ed="#C" n="147"/>ram, veniant recepturi plenam &amp; integram satisfactionem 
+      <lb ed="#C" n="148"/>&amp; interim faciat fieri publicum instrumentum. Vt auten 
+      <lb ed="#C" n="149"/>quilibet sciat, qualiter est obligandus usurarius, instrumen 
+      <lb ed="#C" n="150"/>tum obligationis infra scripsi ex Martino, apud quem stat hu 
+      <lb ed="#C" n="151"/>jusmodi rubricella. Qua in re ita scribit. Ejusmodi ait, in 
+      <lb ed="#C" n="152"/>strumentum manu publica tabellionis confici debet, quii 
+      <lb ed="#C" n="153"/>est publica persona, &amp; ideo possunt recipere obligationem, 8 
+      <lb ed="#C" n="154"/>promissionem nomine &amp; vice illorius, quib. debet fieri restitu 
+      <lb ed="#C" n="155"/>tio, &amp; in quo cassentur omnia instrumenta usuraria, recipiam 
+      <!-\-Henricus_a_Segusio_cardinalis_Hostiensis-0742.xml-\->
+      <pb ed="#C" n="0742"/>
+      <cb ed="#C" n="a"/>
+      <lb ed="#C" n="1"/>turque fidejussores, &amp; jurent usurarii, fidejussores, &amp; haerede¬ 
+      <lb ed="#C" n="2"/>si sunt adulti, se attenturos, ac servaturos quod promiserunt 
+      <lb ed="#C" n="3"/>Forma vero instrumenti haec est: A. filins B, volens facere ple 
+      <lb ed="#C" n="4"/>nam satisfactionem de omnibus usuris; quas aliquo mod¬ 
+      <lb ed="#C" n="5"/>habet, vel habuit, notario, aut confessori uniculque insolidun 
+      <lb ed="#C" n="6"/>recipientibus promissionem nomine &amp; vice illorum, quori 
+      <lb ed="#C" n="7"/>interest omnibus, &amp; singulis omnes usuras, quas habuit 
+      <lb ed="#C" n="8"/>quocunque persona, collegio, &amp; universitate, per se, patren 
+      <lb ed="#C" n="9"/>suum, aut avum sive per quantumcunque aliam persona; quo 
+      <lb ed="#C" n="10"/>cunque modo sub poena dupli, secundum quod res fuerit ir 
+      <lb ed="#C" n="11"/>venta, obligando &amp; hypothecando omnia bona sua habit 
+      <lb ed="#C" n="12"/>&amp; habenda, &amp;c. Vsuram autem etiam in emptione commi 
+      <lb ed="#C" n="13"/>ti, posse proditum est, ut extra, de empi, cap. ad nostram, &amp; de pij 
+      <lb ed="#C" n="14"/>illo vos. Sed pone, quod aliquis certam pecuniae quantitaten 
+      <lb ed="#C" n="15"/>debet habere ab aliqua communitite in certo termino, c 
+      <lb ed="#C" n="16"/>non potest tantum expectare sine grandi dispendio, vel no 
+      <lb ed="#C" n="17"/>potest illam recuperare, propter potentiam debitoris, nun 
+      <lb ed="#C" n="18"/>quid poterit talis vendere illam pectiniam alteri, pro minor 
+      <lb ed="#C" n="19"/>pretio, quam sit ipsa pecunia? videtur, quod sicut quis plu 
+      <lb ed="#C" n="20"/>vendidit merces suas, quam tempore contractus fuerat ven 
+      <lb ed="#C" n="21"/>diturus, pro eo quod statim non solvitur pratium, peccates 
+      <lb ed="#C" n="22"/>tra, de usuris, in civnate, &amp; cap. naviganti. Similiter igitur, vide 
+      <lb ed="#C" n="23"/>tur peccare, qui minus pretium solvit quam si pecunia ob ex 
+      <lb ed="#C" n="24"/>pectationem termini. Ad hoc dicas, quod si non flat in frau 
+      <lb ed="#C" n="25"/>dem usurarum, non est vitiosus contractus. Nam in bonis no 
+      <lb ed="#C" n="26"/>stris tria habemus, mobilia, immobilia, &amp; jura. Qui auten 
+      <lb ed="#C" n="27"/>vendit pecuniam, non eam ipsam sed jus, quod in bonis de 
+      <lb ed="#C" n="28"/>bitoris habet. Constat autem quod jus illud non tantum va 
+      <lb ed="#C" n="29"/>let quantum illa pecunia. Inter socios in contractu societa 
+      <lb ed="#C" n="30"/>tis committitur usura, quando in eo aequalitas non servatur 
+      <lb ed="#C" n="31"/>unde si aliquis ponit in societate. 30. libras ad tertiam parten 
+      <lb ed="#C" n="32"/>damni, &amp; lucri, &amp; alius ponit operam tantum, sicut quidan 
+      <lb ed="#C" n="33"/>faciunt, nisi ille qui operam, mercedem recipiat pro labore 
+      <lb ed="#C" n="34"/>quam sustineat in commercio decem librarum, quarum lu 
+      <lb ed="#C" n="35"/>crum &amp; damnum spectat ad illum, qui pecuniam dedit usu 
+      <lb ed="#C" n="36"/>tarius est qui pecunmam dedit, nam cum recepturus sit 20. li 
+      <lb ed="#C" n="37"/>bras, quae non stant suo periculo, sed illius; qui operam gerii 
+      <lb ed="#C" n="38"/>illae 20. librae dicuntur stare similiter lucro suo: quia aequun 
+      <lb ed="#C" n="39"/>est, ut qui habat onus, emolumentum quoque habeat. Nec fe 
+      <lb ed="#C" n="40"/>rendus est is, qui suscipit emolumentum, si onus ferre recu 
+      <lb ed="#C" n="41"/>set. C. de cad. tol. I unica. Et ideo de illis viginti libris nihil de 
+      <lb ed="#C" n="42"/>bet habere ad similitudinem mutuantis. Et si ille qui operan 
+      <lb ed="#C" n="43"/>gerit, nihil habeat pro mercede laboris exhibiti in lucro 
+      <lb ed="#C" n="44"/>quod accedit illi, qui pecuniam dedit, usura committitur. I 
+      <lb ed="#C" n="45"/>contractu quoque locationis usura committitur, si locator ae 
+      <lb ed="#C" n="46"/>stimat valorem rei, &amp; si perdatur, qualitercumque vult recupe 
+      <lb ed="#C" n="47"/>rare rem suam nam res aestimata loco pecuniae intercedit, ô 
+      <lb ed="#C" n="48"/>tunc non est vere locatio. Mai -->
+      <lb ed="#C" n="49"/>supra de homici sicut § eos, quia non dimittitur peccatum 
+      <lb ed="#C" n="50"/>&amp;c. ut in dicta decreta,. cum tu. &amp; 14. quaest. 6. capit.1. Quid 
+      <lb ed="#C" n="51"/>debitor, vel haeres ejus absens est? Dicunt quidam, quo¬ 
+      <lb ed="#C" n="52"/>vsurarius adhuc debet emittere usuras, sed sumptibus de 
+      <lb ed="#C" n="53"/>bitoris absentis, argument ff.deoperis libertorum, operae. S 
+      <lb ed="#C" n="54"/>autem summa expensarum itineris excedit summam u 
+      <lb ed="#C" n="55"/>surae, pauperibus eroget, ut i.q. 6. anteriorum, supra de judi 
+      <lb ed="#C" n="56"/>cum sit. Sed si de ejus proximo adventu speretur tunc pe 
+      <lb ed="#C" n="57"/>cunia deponetur, &amp; consignabitur de usur. acceptam, secum 
+      <lb ed="#C" n="58"/>dum Goffred. &amp; haec quae dixi, scilicet quod usurarius v 
+      <lb ed="#C" n="59"/>suras tenetur mittere illi, a quo extorsit, vera sunt, si usu 
+      <lb ed="#C" n="60"/>rarius novit ubi debitor habitat, alias non tenetur vagar 
+      <lb ed="#C" n="61"/>argument. f. de ope. liber. quod nisi fiat, §i. Ego dist. utrun 
+      <lb ed="#C" n="62"/>ulurarius, qui quod malae fidei est, ut patet, transferat s 
+      <lb ed="#C" n="63"/>alibi, quam ubi exercuit usuras, &amp; tunc propriis sumptib 
+      <lb ed="#C" n="64"/>tenetur mittere, vel anis, a quo extortae sunt, seu haeres 
+      <lb ed="#C" n="65"/>jus alibi se transtulerit, &amp; tunc habet locum, quod dicunt 
+      <lb ed="#C" n="66"/>sicut aperte probatur haec dist f.derei vendit sires, &amp; leg si ve 
+      <lb ed="#C" n="67"/>ro, &amp; l. sequen. &amp; de legat.i.cum res § primo, &amp; de eden. praetor. 
+      <lb ed="#C" n="68"/>itss ultimo, &amp; sequent.  
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e2735" n="12">
+      Sed quomodo potest usura rep¬ 
+      <lb ed="#C" n="69"/>ti, cum indebita sit utroque jure, ut notat. supra S an al¬ 
+      <lb ed="#C" n="70"/>quo casu contra. I ff. de cond. indeb. li. &amp; de reg jur. cujus per erro 
+      <lb ed="#C" n="71"/>rem, &amp; notat. supra de sol. ( quis sit ejus effectus, versicul. pate 
+      <lb ed="#C" n="72"/>autem familias, &amp; sequent quare nec solvere cogot: ut su 
+      <lb ed="#C" n="73"/>pra de jurejurand debitores, in princip. ideo posset dici, quo 
+      <lb ed="#C" n="74"/>si solvo, cum nonjuraverim, repetere non potero, argu 
+      <lb ed="#C" n="75"/>ment. ibi. Sed non credo hoc verum, &amp; dic quod repete 
+      <lb ed="#C" n="76"/>re possum propter pravam pactionem praecedentem, pro 
+      <lb ed="#C" n="77"/>pter quam adeo est pecunia indebita, quod non potes 
+      <lb ed="#C" n="78"/>retineri sine peccato. Objectio ergo habet locum in de 
+      <lb ed="#C" n="79"/>bitis, quorum solutio per legem non reprobatur, &amp; ho 
+      <lb ed="#C" n="80"/>patet ex eo: quia si solvo usuras usurario, etiam nulla pa 
+      <lb ed="#C" n="81"/>ctione praemissa, ipsas mihi nihilominus restituere de 
+      <lb ed="#C" n="82"/>bet, ut inf. eo. consuluit, &amp; no sup. eo. § an aliquo casu, per. 3. ho 
+      <lb ed="#C" n="83"/>etiam probatur sup. de jurej. ad nostram 2. sed &amp; cum omnis usur 
+      <lb ed="#C" n="84"/>danata sit non videtur, quod ex tali promissione etiam na 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0742.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="85"/>turalis obligatio oriatur, argument. C. eodem eoi, §. si qui 
+      <lb ed="#C" n="86"/>autem, &amp; leg sin. sic ergo potest repeti, cum utroque jur 
+      <lb ed="#C" n="87"/>indebita censeatur, ut patet in his quae notat. supra eodem 
+      <lb ed="#C" n="88"/>paragrapho an aliquo casu, responsio.i. &amp; S praecedent. versicul. si 
+      <lb ed="#C" n="89"/>nal supra de solut. §. siquis autem. Licet etiam usurariu 
+      <lb ed="#C" n="90"/>semper intelligatur esse in mora, utff. defurtis subtracto, E 
+      <lb ed="#C" n="91"/>ff de vi, &amp; vi. leg prima, § rectissime, &amp; de legi, cum res legati, ta 
+      <lb ed="#C" n="92"/>men si nota paupertas eum excusat, vel cedat bonis, ex 
+      <lb ed="#C" n="93"/>cusatus est, &amp; absolvendus est, tenetur tamen satisfacere 
+      <lb ed="#C" n="94"/>si ad pinguiorem fortunam pervenit, id est, habita ratio 
+      <lb ed="#C" n="95"/>ne, ne egeat, ff. de regulis juris, in condemnatione, super quo 
+      <lb ed="#C" n="96"/>expone idoneam cautionem, ut infra eodem cum tu. §. pen 
+      <lb ed="#C" n="97"/>ultimo &amp; supra de solutionibus Odoardus, &amp; ff. qui bonis ceder¬ 
+      <lb ed="#C" n="98"/>possunt, is qui, &amp; potest quilibet cedere ante litem contest 
+      <lb ed="#C" n="99"/>&amp; praesentialiter, vel in absentia per nuncium, vel per e 
+      <lb ed="#C" n="100"/>pistolam, ut ff. de cessione bonorum, leg. penultim. &amp; ulti. quod 
+      <lb ed="#C" n="101"/>dic ut notat. supra de solut. §quid sit ejus effectus. sub S hoc au 
+      <lb ed="#C" n="102"/>tem. no. Hoc in judicio contentioso, nam in paenitentiali di 
+      <lb ed="#C" n="103"/>cetur ei, quod totum restituat, ita quod nec retineat obo¬ 
+      <lb ed="#C" n="104"/>lum, quia non dimittitur peccatum, nisi restituatur abla¬ 
+      <lb ed="#C" n="105"/>tum, infra eodem, cum tu § super his, 14 quaestio sext. si res, ab 
+      <lb ed="#C" n="106"/>latum dico, sive per rapinam, sive per furtum, sive per u¬ 
+      <lb ed="#C" n="107"/>suram, vt notat. supra eodem in princip. ad idem 14. quaestio. 
+      <lb ed="#C" n="108"/>si quid invenisti, secundum Goffred. Sed quomodo amit 
+      <lb ed="#C" n="109"/>tet privilegium rationabile sibi ex justa causa datum? vide 
+      <lb ed="#C" n="110"/>quod notat. supra de praescript sub rubrica de praescript. rerun 
+      <lb ed="#C" n="111"/>immobili. §. quae exigantur, subsverum quicquid, nam &amp;s 
+      <lb ed="#C" n="112"/>tempore famis licet sine peccato accipere alienum, ut no 
+      <lb ed="#C" n="113"/>tat, supra de furt §quid si furtum, versicul. quae fit invito domi 
+      <lb ed="#C" n="114"/>no &amp; sequent multo fortius &amp; retinere, &amp; junge quod no 
+      <lb ed="#C" n="115"/>tat. infra de poen. §quibus &amp; qualiter, sub paragrapho sed qua 
+      <lb ed="#C" n="116"/>forma, versicul, quod si nulla, &amp; praecedent. Nedum autem 
+      <lb ed="#C" n="117"/>usurarius obligatus est, imo &amp; de possessione ex pecuni¬ 
+      <lb ed="#C" n="118"/>vsuraria empta est, debitori satisfaciendum, ut infra ecden 
+      <lb ed="#C" n="119"/>cum tu. §ultimo, argumentum ff. de leg. 2. Imperator §ultimo, e 
+      <lb ed="#C" n="120"/>leg sequ. &amp; supra ut lit. penden. ecclesia, quod intelligunt qui 
+      <lb ed="#C" n="121"/>dam, quando ex lucrativa causa ad alium pervenit, secus 
+      <lb ed="#C" n="122"/>si ex onerosa, argument. ad hoc Institut. de leg § si res alie 
+      <lb ed="#C" n="123"/>nd. Alii intelligunt hoc indistinct. in odium usurariorum 
+      <lb ed="#C" n="124"/>&amp; usurarum, &amp; argument. ff. de donatio. inter virum &amp; u 
+      <lb ed="#C" n="125"/>xorem, leg. uxor marito, curet ergo emens cautius negotia 
+      <lb ed="#C" n="126"/>ri, ut C. de furt. in cirilem, &amp; sic secundum istos, est hoc spe¬ 
+      <lb ed="#C" n="127"/>ciale, ut detur actio in rem ad vendicandas possessione 
+      <lb ed="#C" n="128"/>de pecunia actoris emptas, sicut &amp; alibi. C. de rei vendit. 
+      <lb ed="#C" n="129"/>de pecunia, &amp; I. si ut proponis, &amp; in quibusdam aliis casibus 
+      <lb ed="#C" n="130"/>quos notat. supra de contrahend. empt. §. finali, Goffre. tamer 
+      <lb ed="#C" n="131"/>hoc non admittit, ummo dicit indistincte agendum ess¬ 
+      <lb ed="#C" n="132"/>in personali actione contra usurarium, vel haeredem ejus 
+      <lb ed="#C" n="133"/>&amp; judex ex officio compellet usurarium reddere vsuras 
+      <lb ed="#C" n="134"/>si habet unde solvat, sine possessionum distractione, alia 
+      <lb ed="#C" n="135"/>compellent eum ad vendendas possessiones, &amp; sic facie 
+      <lb ed="#C" n="136"/>satisfieri ad usuris, sic intellige infra eodem cum tu § possessi 
+      <lb ed="#C" n="137"/>ones. Quid si usurarius de pecunia faenebri emat praedium 
+      <lb ed="#C" n="138"/>demum distrahit, &amp; ex illa pecunia aliud praedium emit 
+      <lb ed="#C" n="139"/>nunquid idem juris est quod in primo? Dicas quod sic 
+      <lb ed="#C" n="140"/>argument. supra ut lite pendent. ecclesia i. ff. de legat. 2. Impera 
+      <lb ed="#C" n="141"/>tor, §finali, &amp; leg sequen. Quid si possessio empta ex pecuni: 
+      <lb ed="#C" n="142"/>usuraria perveniat ad extraneum tertium possessorem 
+      <lb ed="#C" n="143"/>nunquid cogetur ipsam vendere &amp; satisfacere de usura 
+      <lb ed="#C" n="144"/>Non, secundum Goffred. nisi possessor ex causa lucrati¬ 
+      <lb ed="#C" n="145"/>va possideat, &amp; usurarius ac haeres ejus exclusus sit, &amp; in 
+      <lb ed="#C" n="146"/>ventus non solvendo ad hoc Institutio. de leg. § si res aliena, s 
+      <lb ed="#C" n="147"/>de eo per quem factum est ex hoc edi. responsio.I. Sed quid, si ta 
+      <lb ed="#C" n="148"/>lis possessio pervenerit ad illum, qui usuram solverat, &amp; 
+      <lb ed="#C" n="149"/>ex causa lucrativa, nunquid extinguitur ejus actio quan 
+      <lb ed="#C" n="150"/>prius habebat contra illum, de quo supra proximo prae 
+      <lb ed="#C" n="151"/>misi ex causa lucrativatertium possidentem? Sic. ff. d. 
+      <lb ed="#C" n="152"/>actio. &amp; obligatio. omnes debitores, secundum Goffred. u 
+      <lb ed="#C" n="153"/>surarius tamen, vel haeres ejus minime liberatur, ut ffa 
+      <lb ed="#C" n="154"/>verbor. obligatio. inter stipulat. § si rem, quam ex causa lutrati 
+      <lb ed="#C" n="155"/>va, &amp; sequeni ff de solut. quod idquod ff. de leg. 2. leg. antepenul 
+      <lb ed="#C" n="156"/>tim paragrapho impuberem, f. de leg. 3. nutu. §. 1. Quid si tibi 
+      <lb ed="#C" n="157"/>mutuo pecuniam; vt mihi alia vice remutues, nunqui 
+      <lb ed="#C" n="158"/>usuratium est? Sic, quamvis enim mihi obligaveris at 
+      <lb ed="#C" n="159"/>antidora, f. de peti. haered sed &amp; sic lege, §. consuluii, tamen 
+      <lb ed="#C" n="160"/>lam naturalem obligationem in civilem deducere, speci 
+      <lb ed="#C" n="161"/>es lucri est, &amp; ideo usura est, secundum Goffre. &amp; Rayrn 
+      <lb ed="#C" n="162"/>Moveor in contrarium, quia ex hoc nihil accedit sorti 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0743.xml-->
+      <pb ed="#C" n="726"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>nec aliquam superabundantiam video, &amp; alias invenio 
+      <lb ed="#C" n="2"/>quod id quod debetur, in pactum deducere possum, supr 
+      <lb ed="#C" n="3"/>de praeben sign ficatum supra de electio. quod significasti, quod ta 
+      <lb ed="#C" n="4"/>men alias non liceret, immo simoniacum esset. Quid 
+      <lb ed="#C" n="5"/>nim si mihi debes 10. quae non possum recuperare, &amp; mu 
+      <lb ed="#C" n="6"/>tuo tibi alia 10. tali pacto, vt optime satisdes, quod intr 
+      <lb ed="#C" n="7"/>certum tempus 20. solvas. Item nunquid mutuare qua 
+      <lb ed="#C" n="8"/>quaedam spiritualitas est, ergo de spirituali ad spiritual 
+      <lb ed="#C" n="9"/>potest fieri compensatio, sicut &amp; permutatio. sup. dere pe 
+      <lb ed="#C" n="10"/>mutatio ad quaestiones, nec obstat illud verbum Domini 
+      <lb ed="#C" n="11"/>mutuum dantes, nihil inde sperantes: quia intelligendun 
+      <lb ed="#C" n="12"/>est. Nihil, quod ad lucrum, vel superabundantiam pert 
+      <lb ed="#C" n="13"/>neat, vel quod stplus re: vt patet infra eodem consuluit, 
+      <lb ed="#C" n="14"/>14 quaestio. tertia pertotum. Porro sperare possum, quod in 
+      <lb ed="#C" n="15"/>eodem genere, sine damno mihi subvenias, &amp; in pactum 
+      <lb ed="#C" n="16"/>deducere, nam &amp; hominem beneficio hominis affici in 
+      <lb ed="#C" n="17"/>terest, f de ser expor. servus, ea leg. sed quia multi casus pol 
+      <lb ed="#C" n="18"/>sent accidere, quibus intervenientibus tu amitteres ren 
+      <lb ed="#C" n="19"/>mutuatam vel pecuniam, &amp; ego lucrarer, primae opin 
+      <lb ed="#C" n="20"/>oni debes adhaerere, quia in talibus quod tutius est, tenen 
+      <lb ed="#C" n="21"/>dum est, supra de sponsali. juvenis. Quid si foenerator par 
+      <lb ed="#C" n="22"/>tem pecuniae faenebris restituat ei, a quo habuit, vel haer 
+      <lb ed="#C" n="23"/>di suo, &amp; de voluntate ejusdem partem retineat? Dicun 
+      <lb ed="#C" n="24"/>Theolovi indistincte, quod non est liberatus, nisi totun 
+      <lb ed="#C" n="25"/>offerat, dicas, quod si ex pacto fiat, liberatus non est, argu 
+      <lb ed="#C" n="26"/>ment. supra desimoniac. veniens. Sin autem usurarius pa 
+      <lb ed="#C" n="27"/>tem liberaliter, &amp; sine pacto solvat, &amp; offerat, &amp; de ali¬ 
+      <lb ed="#C" n="28"/>parte misericordiam petat, &amp; debitor liberaliter remittat 
+      <lb ed="#C" n="29"/>liberatus est creditor, nec tenet ulterius ad restitutionem 
+      <lb ed="#C" n="30"/>sicut nec teneretur, si gratis recepisset gratis oblatum, se 
+      <lb ed="#C" n="31"/>cundum Goffred. ut nota. supra eodem paragrapho an aliqu 
+      <lb ed="#C" n="32"/>casu, versicul. 3. &amp; infra de poenitent. §. quibus &amp; qualiter, sub 5 
+      <lb ed="#C" n="33"/>sed quae forma. Hic tamen bonus judex ex certis conj¬ 
+      <lb ed="#C" n="34"/>ctaris motum sui animi informabit, nam si debitor est pau 
+      <lb ed="#C" n="35"/>per &amp; inops, &amp; usurarius dives &amp; potens, non praesumc 
+      <lb ed="#C" n="36"/>quod debitor ipsum usurarium excorde liberet, sed ho 
+      <lb ed="#C" n="37"/>facit, quia ultra recuperare non potest, &amp; ut illud tanti 
+      <lb ed="#C" n="38"/>lum quod offert, recuperare non omittat, si vero debito 
+      <lb ed="#C" n="39"/>sit dives, &amp; potens, qui consuevit mimis, &amp; joculatoribu 
+      <lb ed="#C" n="40"/>tantundem de suo, vel plus frequenter donare, praesum 
+      <lb ed="#C" n="41"/>potest, quod ex corde hoc faciat. Item si aliqua honest 
+      <lb ed="#C" n="42"/>persona, puta sacerdos, vel Episcopus tractet, &amp; dicat die 
+      <lb ed="#C" n="43"/>bitori tantum faciam tibi reddi, si ex corde, aliud remittis 
+      <lb ed="#C" n="44"/>non decipias me, qui mediator sum, nec creditorem cu 
+      <lb ed="#C" n="45"/>jus animae salutem quaero, &amp; debitor respondeat, se ex t¬ 
+      <lb ed="#C" n="46"/>to corde liberare creditorem, quare non dicam ipsum! 
+      <lb ed="#C" n="47"/>beratum, non video, nec enim curo qualitercunque sati: 
+      <lb ed="#C" n="48"/>factum sit: dummodo sit satisfactum. ff de pigno actio si rer 
+      <lb ed="#C" n="49"/>alienam §omnis, ffi de verborum significatione satisdationis, fi qu 
+      <lb ed="#C" n="50"/>sat id cogandeg. I. I. de jurejurand. non erit responsio prim, &amp; le 
+      <lb ed="#C" n="51"/>remntis, &amp; notat simile, infra eodem sub § proxim. versicu. se 
+      <lb ed="#C" n="52"/>nunquid sufficit, &amp; supra de simoniac. Squae dispensatio. versi 
+      <lb ed="#C" n="53"/>sed hoc non credo, ad hoc, supra de jurejura, capit sinal ad sin su 
+      <lb ed="#C" n="54"/>pra de transact. capit fin. ad fin. supra de jurejuran veniens, &amp; ca 
+      <lb ed="#C" n="55"/>Quintavallis. C si quis aliquem testa prohib. leg sin infra de poer 
+      <lb ed="#C" n="56"/>Deus qui. &amp; capit. omnis, infra de injuriis in nostra, in sin. S 
+      <lb ed="#C" n="57"/>qui moveantur in contrarium hoc faciet odium usur: 
+      <lb ed="#C" n="58"/>rum. Quid enim si quis alii ex alia causa injurietur? E 
+      <lb ed="#C" n="59"/>quidem hoc admittet quilibet Theologus, quod concor 
+      <lb ed="#C" n="60"/>dia possit tractare, &amp; pars ejus, quod debetur ex pact 
+      <lb ed="#C" n="61"/>remittit: alias titulus de transact. esset inutilis: &amp; quare n 
+      <lb ed="#C" n="62"/>idem in usura? Certe, quia qui nimis emungit, elicit sar 
+      <lb ed="#C" n="63"/>guinem, ut supra de renun nisi cum pridem, § propter malitiam 
+      <lb ed="#C" n="64"/>m sin. non scribo hoc in favorem usurariorum, quia nec¬ 
+      <lb ed="#C" n="65"/>is astrictus sum: sed nolo a rationabili recedere, ut The¬ 
+      <lb ed="#C" n="66"/>logis faveam, &amp; in desperantiam inducam homines, a 
+      <lb ed="#C" n="67"/>parem laqueum animarum, ad hoc 27. quaestio. 2. de viduis; 
+      <lb ed="#C" n="68"/>Dicendum est igitur &amp; tenendum, quod precibus pol 
+      <lb ed="#C" n="69"/>sit, vel jussu judicis sine pactione partium remissio fieri 
+      <lb ed="#C" n="70"/>&amp; sic dicam talem usurarium absolutum, utff. dehis, qu 
+      <lb ed="#C" n="71"/>notat. insa furti paragrapho pactus, &amp; sequent. &amp; supra de pra 
+      <lb ed="#C" n="72"/>ben nisi essent ( quia igitur haec ordinatio. 
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e3108" n="13">
+      Quid si poena ad 
+      <lb ed="#C" n="73"/>jecta sit, nisi pecunia mutuata ad certam diem solvatu 
+      <lb ed="#C" n="74"/>nunquid praesumemus ipsam in fraudem usurarum adje 
+      <lb ed="#C" n="75"/>ctam? Non, nisi ex qualitate personae creditoris, ut si for 
+      <lb ed="#C" n="76"/>te consuevit exercere usuras, sic debent intelligi, ff. de ac 
+      <lb ed="#C" n="77"/>empt &amp; vendic Julianus, paragrapho ibidem, supra de pignor.i 
+      <lb ed="#C" n="78"/>lb. in sin. secu ridum Goffr. potius puto hoc arbitrariun 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0743.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>Quid enim si creditores hoc audientes currerent omne 
+      <lb ed="#C" n="80"/>communiter, ad poenas in mutuis stipulandas? Certe ma 
+      <lb ed="#C" n="81"/>jores essent usurae, quam prius, quam poena conrentio 
+      <lb ed="#C" n="82"/>nalis in infinitum extendatur: ut ff. de verborum obligation 
+      <lb ed="#C" n="83"/>in conventionalibus Institut de inuti stipula Salteri. C. de senten 
+      <lb ed="#C" n="84"/>quae pro eo, quod interest profe leg. unica, certe multis grassat 
+      <lb ed="#C" n="85"/>tibus opus est exemplo. F. de pan. aut facta, § sin. est erg 
+      <lb ed="#C" n="86"/>praesumendum contra stipulantem poenam in mutuo, ni 
+      <lb ed="#C" n="87"/>si petatur poena, quae loco interesse succedit, de quo dic 
+      <lb ed="#C" n="88"/>vt notat. supra eodem San aliquo casa, versiculo septimo &amp; p¬ 
+      <lb ed="#C" n="89"/>ragraho qualiter contractus, versicul. quid de barbaus, &amp; de sen 
+      <lb ed="#C" n="90"/>tentia &amp; re judic. Squis sit effectus, sub §. &amp; quia, &amp; sequen ver 
+      <lb ed="#C" n="91"/>sical. sinal. vel nisi relevetur ex honestate personae, argu 
+      <lb ed="#C" n="92"/>ment. supra de procurat. in nostra, Suos vero, infra de novi operi 
+      <lb ed="#C" n="93"/>nuncia, cum ex injuncto§ supereo. Sed breviter hoc arbitra 
+      <lb ed="#C" n="94"/>rium dico 
+    </p>
+            <p xml:id="nbht7y-d1e1892-d1e3163">
+               <lb ed="#C" n="95"/>ALIA ab adversario exceptionis, quia per opem exce 
+      <lb ed="#C" n="96"/>ptio removetur a dignitate, si forte electus sit, &amp; ii 
+      <lb ed="#C" n="97"/>ludo mutaverit II. pro 12. non obstat quod dicat hoc se fe 
+      <lb ed="#C" n="98"/>cisse causa ludi, sub obtentu alicujus consuetudinis se 
+      <lb ed="#C" n="99"/>corruptelae. ut infra de extess. praelat inter dilectos, quod dic 
+      <lb ed="#C" n="100"/>vt notat. infra de excess. praelat. sub S clericus vero Item si qui 
+      <lb ed="#C" n="101"/>impetraverit literas super usuris, non auditur, nisi primo 
+      <lb ed="#C" n="102"/>restituerit, si quas aliquando extorsit usuras, quia frustr 
+      <lb ed="#C" n="103"/>legis auxilium invocat, qui committit in legem, ut rif¬ 
+      <lb ed="#C" n="104"/>eodem quia frustra. Sed nunquid sufficit, quod cautio ex 
+      <lb ed="#C" n="105"/>ponatur, notat. argument. supra de rejudic. cum aliquibus 
+      <lb ed="#C" n="106"/>f. de pignor. acti. quod non solverit, de constitutio. pet. promissor 
+      <lb ed="#C" n="107"/>§ constituro. nisi forte magna causa intervenerit, utff. der 
+      <lb ed="#C" n="108"/>judic. leg quart. § uut praetor. puta, quia non est solvendo, 
+      <lb ed="#C" n="109"/>supra de solution. Odoardus, vel si is cui debetur, contentu 
+      <lb ed="#C" n="110"/>est, utff. de pignor. actio si rem paragrapho omnes, &amp; argumet 
+      <lb ed="#C" n="111"/>supra de re judica. quod ad consultationem, &amp; notat. supra eo 
+      <lb ed="#C" n="112"/>dem sub §. proximo versiculo quid si faenerator. Quid si nullu 
+      <lb ed="#C" n="113"/>apparet, qui agat contra ipsum? Dic secundum Joan. 8&amp; 
+      <lb ed="#C" n="114"/>B. quod factadenunciatione in publico, si nullus appare 
+      <lb ed="#C" n="115"/>at, audietur, sic qui invenit rem alienam ad evadendum 
+      <lb ed="#C" n="116"/>poenam furti, debet sacere praeconizari se talem rem inve 
+      <lb ed="#C" n="117"/>nisse, si cujus est veniat, &amp; reddet, utf. de furi falsis. (qui¬ 
+      <lb ed="#C" n="118"/>lienum, &amp; §. sequent ad idem quint quaestio. tertia, quidam ma 
+      <lb ed="#C" n="119"/>ligni spiritus, supra, de clandest despons. cum inhibitio supra, qu 
+      <lb ed="#C" n="120"/>matrimon. accusar. non possunt, cum in tua, tu dic, quod si pr 
+      <lb ed="#C" n="121"/>blicus &amp; notorius est, secundum ea quae notat supra, §qu 
+      <lb ed="#C" n="122"/>pena. versicul. sed quomodo judex ex officio repelleret. 
+      <lb ed="#C" n="123"/>um, quamvis nullus appareat, argument supra de jurejur. 
+      <lb ed="#C" n="124"/>ad nostram. 2. &amp; de except. exceptionem, dicendo, quod prim¬ 
+      <lb ed="#C" n="125"/>ejiciat trabem de oculo proprio, &amp; postea festucam de o 
+      <lb ed="#C" n="126"/>culo proximi prima quae prim 3. quaestio. 7. §. porro, &amp; capi 
+      <lb ed="#C" n="127"/>qui sine, &amp; capit. postulatus, &amp; quia si nullus petat, tamen re 
+      <lb ed="#C" n="128"/>stituere tenetur, ut infra eodem cum tu. § primo, quod si no 
+      <lb ed="#C" n="129"/>torius non erat, sed occultus, &amp; adversarius objiciat, &amp; 
+      <lb ed="#C" n="130"/>incontinenti paratus sit probare, audietur, &amp; hoc proba 
+      <lb ed="#C" n="131"/>to, repelletur, argument supra de restitut. spol. literas, §. pro 
+      <lb ed="#C" n="132"/>pterea. Sed caveat qualiter excipiat, ne crimen suum vi 
+      <lb ed="#C" n="133"/>deatur confiteri, quod si occultus est, &amp; nihil ei objicia 
+      <lb ed="#C" n="134"/>tur, admitto Joan. &amp; B. sententiam. Quia si notorium sit 
+      <lb ed="#C" n="135"/>quod usuras habuit, sed is, a quo extorsit eas, non inveni 
+      <lb ed="#C" n="136"/>tur, nec haeres ejus? Respondeo faciet judex pecuniam foe 
+      <lb ed="#C" n="137"/>nebrem pauperibus erogari, &amp; sic admittet impetrantem 
+      <lb ed="#C" n="138"/>infra eodem cum tu §1. Quid si usurarius, contra quem im 
+      <lb ed="#C" n="139"/>petratum est, moriatur antecitationem, nunquid haere 
+      <lb ed="#C" n="140"/>suus per easdem literas poterit conveniri? Dic, ut notat 
+      <lb ed="#C" n="141"/>sup. eo §alia a Judice, persicul quid si literae. Quid si debitor ju 
+      <lb ed="#C" n="142"/>ravit non repetere usuras, nec recipere? Et quidem jura 
+      <lb ed="#C" n="143"/>mentum tenet, prout innuitur, supra de renunc, cum inter F 
+      <lb ed="#C" n="144"/>Gauffredi supra quod me cau. ad audientiam, debet tamen cog 
+      <lb ed="#C" n="145"/>usurarius, quod juramentum relaxet, arg supra de jurejur 
+      <lb ed="#C" n="146"/>c.a. vel si hoc fieri non potest, non audietur, quonsque se libe 
+      <lb ed="#C" n="147"/>raverit: in hoc ergocasu erit pauperib. eroganda, si eccle 
+      <lb ed="#C" n="148"/>siae fiat fides, secundum ea quae non supra eod sub S ver. quid 
+      <lb ed="#C" n="149"/>nullus, rer quid si notorium sit, alioquin impetrans non audi 
+      <lb ed="#C" n="150"/>etur, &amp; hoc potest debitor denunciare ecclesiae, non obstan 
+      <lb ed="#C" n="151"/>te juramento praedicto. Quid si juravit non denunciare 
+      <lb ed="#C" n="152"/>Temerarium est juramentum, sup. dejurej quemadmodum 
+      <lb ed="#C" n="153"/>§. illud autem in fi Quid si is, contra quem impetratum est, ap 
+      <lb ed="#C" n="154"/>pellaverit, nunquid repellitur in causa appellationis? Ir 
+      <lb ed="#C" n="155"/>videtur ex verbis, infra eo. quia. Sed contra, sup. de exces, cun 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0744.xml-->
+      <pb ed="#C" n="727"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>inter priorem, &amp; cap fin. Sed quid si usurarius impetrans ap 
+      <lb ed="#C" n="2"/>pellaverit? idem ut pridem, quo ad causam appellationis 
+      <lb ed="#C" n="3"/>sed superprincipali nunquam audietur, nisi prius restitu 
+      <lb ed="#C" n="4"/>at, ut supra. In summa notandum est, quod haeres debito 
+      <lb ed="#C" n="5"/>ris usuram repetit, ut infra eodem cum tu. §1. &amp; contra haere 
+      <lb ed="#C" n="6"/>dem creditoris agit, ut infra codem tua, ideoque si quis impe 
+      <lb ed="#C" n="7"/>traverit literas super usuris, a se, vel a patre, cujus haeres 
+      <lb ed="#C" n="8"/>xistit extortis sibi restituendis, non audietur, vt ipse rest 
+      <lb ed="#C" n="9"/>tuat usuras, quas pater ab aliis extorsit: ut infra eodem Mi 
+      <lb ed="#C" n="10"/>chael, cum enim ex persona patris agat, &amp; ipsum defende 
+      <lb ed="#C" n="11"/>re tenetur, ut ff. deregul jur. ex qua persona, &amp; ff. de procura 
+      <lb ed="#C" n="12"/>servum quoque, §penultim &amp; leg mutus, §poena. Quid si noi 
+      <lb ed="#C" n="13"/>fecerit in literis mentionem de patre, nunquid tunc ex per 
+      <lb ed="#C" n="14"/>sona patris contra eum excipietur? Non videtur, ex qui 
+      <lb ed="#C" n="15"/>de patre mentionem non fecit, nec persona sua agit, e 
+      <lb ed="#C" n="16"/>hoc quidam concedunt, dicentes, quod nunquam jung 
+      <lb ed="#C" n="17"/>tur de patre in clausula literarum, nisi quando ex perso 
+      <lb ed="#C" n="18"/>na patris vult agere, argument. ex superioribus tu dicas 
+      <lb ed="#C" n="19"/>quod si haeres sit, vel universalis successor, bona depeci 
+      <lb ed="#C" n="20"/>nia usuraria possidens ex causa lucrativa, excipi potest cin 
+      <lb ed="#C" n="21"/>tra ipsum, cum successor sit vitiorum, arg, in his, quae no 
+      <lb ed="#C" n="22"/>tat. supra eodem sub Salia a judice, versicul. hac poena, &amp; versicu 
+      <lb ed="#C" n="23"/>nedum asurarius, &amp; ff. de calum. in haeredem, &amp; de diversi &amp; i 
+      <lb ed="#C" n="24"/>po praescript. cum haeres, &amp; C. de acquir. possess. vitia. Secus,s 
+      <lb ed="#C" n="25"/>haeres non est, nec bona possidet empta de pecunia usura 
+      <lb ed="#C" n="26"/>ria. quamvis alia bona a patre suo titulo donationis rece 
+      <lb ed="#C" n="27"/>perit bona fide. C. dedonat aeris alieni. &amp; leg si patri tuo. Quid 
+      <lb ed="#C" n="28"/>aliquis tutor, curator, vel procurator, non nomine su¬ 
+      <lb ed="#C" n="29"/>proprio, sed alieno usuras recepit, nunquid repellitur, 
+      <lb ed="#C" n="30"/>usuras repetit ab illo, qui ab eo usuras extorsit, nisi &amp; ips 
+      <lb ed="#C" n="31"/>restituat illas, quas recepit nomine alieno? Videtur, quo 
+      <lb ed="#C" n="32"/>sic, argument. 46 distinct sicut non suo, &amp; supra depecca. cleri¬ 
+      <lb ed="#C" n="33"/>capit penultim &amp; 3. quaestio 4. consanguineorum, infra de senten 
+      <lb ed="#C" n="34"/>excom. mulieres. Sed quidam contra quia nec ab ipso reci 
+      <lb ed="#C" n="35"/>pi possunt: ut dicunt, cum nihil versum sit in utilitatem su 
+      <lb ed="#C" n="36"/>am. Sed certe male dicunt: quia in delictis non attend 
+      <lb ed="#C" n="37"/>tur, an versum sit: sed ipsum factum, &amp; voluntas, &amp; propo 
+      <lb ed="#C" n="38"/>situm delinquentis, 22 quaestio5 qui pererare, infra de senten 
+      <lb ed="#C" n="39"/>excom, cum voluntate, nam&amp; si procurator meus dejiciat d 
+      <lb ed="#C" n="40"/>fundo tuo teneor tibi interdicto, unde vi, nihilominus8 
+      <lb ed="#C" n="41"/>ipse, quia in hoc paruit, licet nihil ad eum pervenerit, uts 
+      <lb ed="#C" n="42"/>de vi, &amp; vi arma leg. 3. §cum procurator, nec tenetur procur¬ 
+      <lb ed="#C" n="43"/>tor foenerare: quia nec tutor pecuniam pupilli, dum tam 
+      <lb ed="#C" n="44"/>propriam pecuniam non foeneret: ut ff. de administ. tut. tuto 
+      <lb ed="#C" n="45"/>qui repertorium. §pecumae, &amp; I. cum plures tutelam, §ul &amp; I. se¬ 
+      <lb ed="#C" n="46"/>Onon est audiendus, fateor tamen, quod si is, in cujus utilitat 
+      <lb ed="#C" n="47"/>versum est primo &amp; principaliter, tenet, &amp; alius in subsi 
+      <lb ed="#C" n="48"/>dium: ff. de eo, per quem fa. est ex hoc edi ff de dolo. eleganter. §pe 
+      <lb ed="#C" n="49"/>&amp; junge, quod no. infra de poen. Squibus &amp; qualiter sub§ qui 
+      <lb ed="#C" n="50"/>de usur. &amp; sub §uli 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

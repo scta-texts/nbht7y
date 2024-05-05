@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 16</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 16</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="94"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e227"><!-- nbht7y-l1t16 -->
+            <head xml:id="nbht7y-d1e227-Hd1e101">Titulus 16</head>
+            <head xml:id="nbht7y-d1e227-Hd1e103" type="question-title">De sacramentis non iterandis</head>
+            <p xml:id="nbht7y-d1e227-d1e106">
+               <lb ed="#C" n="136"/>De Sacramentis non iterandis 
+      <lb ed="#C" n="137"/>Rub. XVI 
+  </p>
+            <p xml:id="nbht7y-d1e227-d1e113">
+               <lb ed="#C" n="138"/>SUMMARIA 
+      <lb ed="#C" n="139"/>1 Sacramentum quid sit 
+      <lb ed="#C" n="140"/>2 Sacramentum unde dicatur 
+      <lb ed="#C" n="141"/>3 Sacramentorum species quot sunt. 
+      <lb ed="#C" n="142"/>4 Baptismus dicitur janua omnium sacramentorum 
+      <lb ed="#C" n="143"/>5 Confirmatio quid si 
+      <lb ed="#C" n="144"/>6 Sacramentorum secunda divisio 
+      <lb ed="#C" n="145"/>Sacramentorum tertia divisio 
+      <lb ed="#C" n="146"/>Sacramentorum quarta divisio 
+      <lb ed="#C" n="147"/>9 Sacramenta minora quis conferre possii 
+      <lb ed="#C" n="148"/>I0 Sacramentum baptismi quis recipere possis 
+      <lb ed="#C" n="149"/>11 Sacramenta quae sunt iteranda 
+      <lb ed="#C" n="150"/>l2 Sacramentum quid operetur.
+  </p>
+            <p xml:id="nbht7y-d1e227-d1e144">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0112.xml-->
+               <pb ed="#C" n="95"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>EGimus de ordine clericorum, quod es 
+      <lb ed="#C" n="2"/>unum de septem sacramentis 
+      <lb ed="#C" n="3"/>&amp; de sacramento unctionis sacrae: sed ni 
+      <lb ed="#C" n="4"/>quis vana simplicitate ductus sacrament, 
+      <lb ed="#C" n="5"/>Fecclesiastica crederetiteranda: ideo appo 
+      <lb ed="#C" n="6"/>nit rubricam de sacramentis non iterandis, qui titulus ju: 
+      <lb ed="#C" n="7"/>facit cum sit negativus, &amp; perfectum sensum generet; u 
+      <lb ed="#C" n="8"/>not. mfr. debenef. eccl. in prin. videamus ergo, Quid sit sacra 
+      <lb ed="#C" n="9"/>mentum, Et unde dicatur, Quot sunt species sacramen 
+      <lb ed="#C" n="10"/>torum, Quis possit conferre, Quis recipere, Et qualite 
+      <lb ed="#C" n="11"/>conferatur, Et quae sunt iteranda, &amp; quae non, Quid ope 
+      <lb ed="#C" n="12"/>retui 
+    </p>
+            <p xml:id="nbht7y-d1e227-d1e180">
+               <lb ed="#C" n="13"/>Quid sit sacramentum. Et quidem 
+      secun<lb ed="#C" n="14" break="no"/>dum Greg. 
+      Sacra<lb ed="#C" n="15" break="no"/>mentum est in aliqua celebratione, cum res gesta ita fit, u 
+      <lb ed="#C" n="16"/>aliquid significatae rei accipiamus. quod sancte, id est di 
+      <lb ed="#C" n="17"/>gne accipiendum est. Mysterium vero est, quod occulte 8 
+      <lb ed="#C" n="18"/>invisibiliter operatur Spiritus s. ita &amp; operando significat 
+      <lb ed="#C" n="19"/>&amp; sanctificando benedicit, ut haec probantur. I. qu.1. multi 
+      <lb ed="#C" n="20"/>Sed secundum Aug. Sacramentum est invisibilis gratia 
+      <lb ed="#C" n="21"/>visibilis forma. Idem: Sacrificium visibile. invisibile sacra 
+      <lb ed="#C" n="22"/>mentum. Idem: Signum, est res praeter speciem quam in 
+      <lb ed="#C" n="23"/>gerit sensibus aliud aliquid ex se faciens in cognitionem 
+      <lb ed="#C" n="24"/>venire. de conse distin. 2. sacrificium. &amp;c. signum. Potest tamen 
+      <lb ed="#C" n="25"/>magistraliter sic describi: Sacramentum? est characte 
+      <lb ed="#C" n="26"/>quidam qui per eum qui potestatem habet corpori hu 
+      <lb ed="#C" n="27"/>mano recipientis, juxta ritum ecclesiasticum visibiliter 
+      <lb ed="#C" n="28"/>animae vero invisibiliter a Spiritu sancto imprimitur: qu 
+      <lb ed="#C" n="29"/>si digne sumatur aut agit, aut auget sine dubio, quod des 
+      <lb ed="#C" n="30"/>gnat. argu inc. allegatis. &amp; in concor. alsigna. sup. tit. 1. vers 
+      <lb ed="#C" n="31"/>sed quid est sacra unctio 
+    </p>
+            <p xml:id="nbht7y-d1e227-d1e224">
+               <lb ed="#C" n="32"/>Et unde dicatur. Et quidem a sacris seu 
+      secre<lb ed="#C" n="33" break="no"/>tis virtutibus sacramenta? di 
+      <lb ed="#C" n="34"/>cuntur, quia sub tegumento corporalium rerum divin¬ 
+      <lb ed="#C" n="35"/>virtus secretis salutem eorundem sacramentorum oper: 
+      <lb ed="#C" n="36"/>tur. Mysterium vero ob hoc dicitur, quod secretam &amp; re 
+      <lb ed="#C" n="37"/>conditam habeat dispensationem. Sacrificium auten 
+      <lb ed="#C" n="38"/>quasi sacrum sanctum, quia praece mystica consecratu 
+      <lb ed="#C" n="39"/>pro nobis in memoriam Dominicae passionis, haec du¬ 
+      <lb ed="#C" n="40"/>probantur secundum Greg. 1. q. 1. multi secularium. vel di¬ 
+      <lb ed="#C" n="41"/>quod dicitur sacramentum a sacra mente, quam infundi 
+      <lb ed="#C" n="42"/>quasi sacrans mentem. sup. tit. I. § ad exhibendum. vers. hoc un 
+      <lb ed="#C" n="43"/>guento. &amp; S quia vero Christus. vers. inpector. 
+    </p>
+            <p xml:id="nbht7y-d1e227-d1e253">
+               <lb ed="#C" n="44"/>Quot sunt species Sacramentorum Prima di 
+      <lb ed="#C" n="45"/>visio haec est. Sacramentorum 
+      <lb ed="#C" n="46"/>quaedam sunt generalia &amp; necessaria, quaedam specialia &amp; 
+      <lb ed="#C" n="47"/>voluntaria sumitur haec dist. i.q. 1. §. si ergo sacramenta. 22.4 
+      <lb ed="#C" n="48"/>4. &amp;) sin inf. de transa. veniens. quae omnia his versibus com 
+      <lb ed="#C" n="49"/>prehendas: Abluo, id est baptismus: firmo, id est confir 
+      <lb ed="#C" n="50"/>matio: cibo, id est Eucharistia: piget, id est poenitentia 
+      <lb ed="#C" n="51"/>uxor, id est matrimonium. &amp; ordinat, id est ordo: ungit, i¬ 
+      <lb ed="#C" n="52"/>est extrema unctio. intellige haec sunt septem ecclesiasti 
+      <lb ed="#C" n="53"/>ca sacramenta. Ordo voluntatis thorus est, dant quinque 
+      <lb ed="#C" n="54"/>necesie, id est sacramentum ordinis, &amp; matrimonii utrun 
+      <lb ed="#C" n="55"/>que voluntarium est. quinque, quae remanent necessari 
+      <lb ed="#C" n="56"/>sunt, sicut exponitur in sequentibus. Quaedam igitur sa 
+      <lb ed="#C" n="57"/>cramenta dicuntur generalia, quia omnes tangunt, &amp;c 
+      <lb ed="#C" n="58"/>mnibus conveniunt, &amp; sunt necessaria, quia si ex conten 
+      <lb ed="#C" n="59"/>ptu omittantur, sine ipsis salus non erit: ergo necessari. 
+      <lb ed="#C" n="60"/>sunt ad salutem, &amp; sunt quinque, &amp; ideo dicit versus supe 
+      <lb ed="#C" n="61"/>rior: Dant quinque necesse. Sunt autem haec, Baptismus 
+      <lb ed="#C" n="62"/>Confirmatio, Eucharistia, Poenitentia, Extrema unctio 
+      <lb ed="#C" n="63"/>Probantur haec de consec. dist. 4. nulla salus. &amp; dist. 5.c. 1. &amp; 2. e 
+      <lb ed="#C" n="64"/>dist. 2. &amp; si non frequentius. infra de poenitentia. omnis. de poeni 
+      <lb ed="#C" n="65"/>distin. 5. non potest quis. Jac. Infirmatur quis in vobis, &amp;c. 9 
+      <lb ed="#C" n="66"/>† dist. §. sed istudalias incipit Oleo. * Primum, scilic. baptismu 
+      <lb ed="#C" n="67"/>est introeuntium, unde dicitur janua omnium 
+      sacramen<lb ed="#C" n="68" break="no"/>torum, 632. dist. verum. * Secundum, scil. confirmatio 
+      pu<lb ed="#C" n="69" break="no"/>gnantium, unde datur ad robur. de consec. dist 5. Spiritus san 
+      <lb ed="#C" n="70"/>ctus. Tertium, scil. Eucharistia, est progredientium, und 
+      <lb ed="#C" n="71"/>&amp; viaticum appellatur. 26. qu.6. qui recedunt. &amp;c. si quis de cor 
+      <lb ed="#C" n="72"/>pore. infra de poenitentiis, quod in te habes de consecr. dist. 2. itera 
+      <lb ed="#C" n="73"/>tur. Quartum, scil. poenitentia, est redeuntium: nam rede 
+      <lb ed="#C" n="74"/>untibus datur; unde secundum Hier. secunda tabula pos 
+      <lb ed="#C" n="75"/>naufragium appellatur. de ponit dist. 1. §. 2. Quintum, scilic 
+      <lb ed="#C" n="76"/>extrema unctio, est exeuntium, quia dari consuevit tanti 
+      <lb ed="#C" n="77"/>exeuntibus de hac vita, &amp; de hoc habes. sup. tit. i. §. 1. vers.d 
+      <lb ed="#C" n="78"/>prima. Jacobus Apostolus ait, Licet autem haec quinque 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0112.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>sacramenta dicantur necessaria, tamen de baptismo hîc 
+      <lb ed="#C" n="80"/>magis proprie dicetur: quia in quibusdam ut in pueris no 
+      <lb ed="#C" n="81"/>est salus sine eo, sed sine aliis bene salvantur. de consec. distin 
+      <lb ed="#C" n="82"/>4 nulla. in adultis vero &amp; discretis saepe est salus sine eo 
+      <lb ed="#C" n="83"/>sed sine aliis non dico spretis, sed non receptis. potest eti. 
+      <lb ed="#C" n="84"/>dici, quod etiam in his non est salus sine baptismo, salten 
+      <lb ed="#C" n="85"/>interiore. nam quamvis in pueris sufficiat exterior ablu 
+      <lb ed="#C" n="86"/>tio. de paeni. dist. 4. parvulis. in adultis tamen requiritur ba 
+      <lb ed="#C" n="87"/>ptismus interior. infra de bapt. debitum. ideo dicunt aliqui 
+      <lb ed="#C" n="88"/>duo tantum necassaria esse, scil. baptismum &amp; poeniten 
+      <lb ed="#C" n="89"/>tiam, quia sine primo nusquam est salus, nec sine secundo 
+      <lb ed="#C" n="90"/>ex quo quis mortaliter peccavit: tu tamen si versibus &amp; 
+      <lb ed="#C" n="91"/>expositioni ipsorum adhaereas, non errabis. Quaedam ve 
+      <lb ed="#C" n="92"/>ro sunt specialia, quia non in omnibus conveniunt, sed qui 
+      <lb ed="#C" n="93"/>busdam, &amp; voluntaria sunt, quia ad aliquod ipsorum nul 
+      <lb ed="#C" n="94"/>lus compellitur: &amp; est ratio, quia cum ipsis, &amp; sine ipsis sa¬ 
+      <lb ed="#C" n="95"/>lus est, &amp; sunt duo, scil. ordo, &amp; conjugium, seu matrimo 
+      <lb ed="#C" n="96"/>nium. ideo dicit vers. superior, ordo voluntatis thorus est 
+      <lb ed="#C" n="97"/>De ordine habes 74. dist. ubi ista didicisti. de matrimonio. 30. 4 
+      <lb ed="#C" n="98"/>2ubi non est consensus. infra de spons. cum locum. ex his duobus 
+      <lb ed="#C" n="99"/>elicit Gratianus aliam distinctionem 
+    </p>
+            <p xml:id="nbht7y-d1e227-d1e381">
+               <lb ed="#C" n="100"/>Secunda divisio Sacramentorum 
+    </p>
+            <p xml:id="nbht7y-d1e227-d1e386">
+               <lb ed="#C" n="101"/>SAcramentorum quaedam necessitatis, quaedam digni¬ 
+      <lb ed="#C" n="102"/>tatis. 1. q. 1. §. sed notandum. voluntariorum enim quaed 
+      <lb ed="#C" n="103"/>dignitatis sunt, quia non admittuntur nisi digni, id est sine 
+      <lb ed="#C" n="104"/>crimine, sine infamia, sine irregularitate, cum ad alia o 
+      <lb ed="#C" n="105"/>mnes liberius admittantur. &amp; est ratio, quia alia sacramen 
+      <lb ed="#C" n="106"/>ta recipiunt homines propter se tantum: sacramenta ve¬ 
+      <lb ed="#C" n="107"/>ro ordinum recipiunt non propter se solum, sed propte 
+      <lb ed="#C" n="108"/>alios. 1. q. 1. §. ecce. Dicuntur autem sacramenta ordinis in 
+      <lb ed="#C" n="109"/>plurali, quia plures sunt ordines. quod dic, ut not. suprad 
+      <lb ed="#C" n="110"/>ord. ab Episc. §. quid juris. vel ideo dignitatis dicuntur, qui 
+      <lb ed="#C" n="111"/>dignioribus, in ecclesia, sc. Episcopis conferuntur. ut not 
+      <lb ed="#C" n="112"/>inf. eod. quis possit conferre &amp; isto respectu dicitur sacramen 
+      <lb ed="#C" n="113"/>tum, in quo chrisma ponitur majus caeteris. matrimonii 
+      <lb ed="#C" n="114"/>vero majus dicitur ratione significationis. Eucharistia 
+      <lb ed="#C" n="115"/>vero sacramentum majus est in substantia, baptismus qui 
+      <lb ed="#C" n="116"/>ad effectum, quia radix est aliorum. Unde versus 
+      <lb ed="#C" n="117"/>
+               <quote xml:id="nbht7y-d1e227-Qd1e425">Major in effectu baptismus, corpus inesse 
+      <lb ed="#C" n="118"/>Conjugium signo majori chrisma ministro</quote>
+            </p>
+            <p xml:id="nbht7y-d1e227-d1e431">
+               <lb ed="#C" n="119"/>Tertia divisio Sacramentorum
+    </p>
+            <p xml:id="nbht7y-d1e227-d1e437">
+               <lb ed="#C" n="120"/>SAcramentorum? quaedam sunt, in quibus confertur 
+      <lb ed="#C" n="121"/>gratia. 1.q1. quicquia. ut sunt sacramenta necessitatis, &amp; 
+      <lb ed="#C" n="122"/>ordinis, sive dignitatis. Quaedam vero sunt in quibus gra 
+      <lb ed="#C" n="123"/>tia non confertur, sicut matrimonia, quae contrahuntu 
+      <lb ed="#C" n="124"/>quando pretia interveniunt. 32 q. 2honorantur. 30. q. 5. alite 
+      <lb ed="#C" n="125"/>&amp; conditiones pecuniariae apponuntur. infra de cond. ap 
+      <lb ed="#C" n="126"/>po. de illis, sive cum consumantur. 32. 4 2. connubia. quod non 
+      <lb ed="#C" n="127"/>esset, si per ipsum gratia conferretur. nam in illis in qui 
+      <lb ed="#C" n="128"/>bus gratia confertur, talia simoniam inducunt. infra de pa 
+      <lb ed="#C" n="129"/>ctis c. sin &amp; de transact. super eo. 1.q. 2. quampio 
+    </p>
+            <p xml:id="nbht7y-d1e227-d1e461">
+               <lb ed="#C" n="130"/>Quarta divisio Sacramentorum 
+    </p>
+            <p xml:id="nbht7y-d1e227-d1e466">
+               <lb ed="#C" n="131"/>SAcramentorum etiam quaedam sunt iterabilia, quae¬ 
+      <lb ed="#C" n="132"/>dam non sunt, quod dic, ut no. infra eod. §. quae sunt iteran 
+      <lb ed="#C" n="133"/>da. Circa hoc consuevit quaeri quare sacramenta fuerunm 
+      <lb ed="#C" n="134"/>instituta. satis enim poterat Dominus sine ipsis saluti hu 
+      <lb ed="#C" n="135"/>mavi generis providere. Respon. tribus casib. fuerunt in 
+      <lb ed="#C" n="136"/>stituta. Primo propter humilitatem, ut dum homo se insensi 
+      <lb ed="#C" n="137"/>bilibus, &amp; inferiorib. rebus, propter Deum reverenter subji 
+      <lb ed="#C" n="138"/>cit, ut ex hac obedientia majora apud Dominum merea¬ 
+      <lb ed="#C" n="139"/>tur. arg. infra de major. &amp; obed solitae. resp. 1. §. 1. Secundo pro¬ 
+      <lb ed="#C" n="140"/>pter eruditionem, ut per illud quod foris in specie visibili 
+      <lb ed="#C" n="141"/>cernitur, erudiamur ad virtutem sacramentorum invisibilem 
+      <lb ed="#C" n="142"/>agnoscendam i.qu.i.multae. &amp; cap. multi. Tertio propter exerci 
+      <lb ed="#C" n="143"/>tationem, cum enim homo ociosus esse non debeat, proponitu 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="144"/>ADDITIONES 
+      <lb ed="#C" n="145"/>a Quid sit sacramentum) Adde in §. notandum. 1 9. 1. Card. in Cle. I. 
+      <lb ed="#C" n="146"/>in 9. q. de priv. S. Tho in 4. seni. dist. 1. 
+      <lb ed="#C" n="147"/>b Et unde dicatur) Addec. sacrificium. de consecr. dist. 1. c. multi. I 
+      <lb ed="#C" n="148"/>q.1. Abb. in rub. de bapi 
+      <lb ed="#C" n="149"/>Ianua omnium sacramentorum) Addec. sin. de presbyt. non ba¬ 
+      <lb ed="#C" n="150"/>pti.c. per catechismum. de cogn. Spi. lib. 6. glaummae. de consec. dist. 4 
+      <lb ed="#C" n="151"/>glin c. quicunque. 77. dist. Archid. inc. cave. 28 q. 1 -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0113.xml-->
+      <pb ed="#C" n="96"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>ei sacramentis, utilis &amp; salubris exercitatio, per quam va 
+      <lb ed="#C" n="2"/>nam &amp; noxiam ociositatem declinet immunda vel van¬ 
+      <lb ed="#C" n="3"/>non cogitet, vel loquatur, sed se ad bonam operationen 
+      <lb ed="#C" n="4"/>exerceat: quia fides sine operibus mortua est. supratit. 
+      <lb ed="#C" n="5"/>cap. unico. §. quia vere Christus versic. inter scapulas ergo secur 
+      <lb ed="#C" n="6"/>dum Hieron. facito aliquid operis, ut te diabolus inveni 
+      <lb ed="#C" n="7"/>at occupatum. de consec dist. 5. nunquam. nam ocium &amp; ve 
+      <lb ed="#C" n="8"/>luptas, arma sunt antiqui hostis, ad miseras animas capti 
+      <lb ed="#C" n="9"/>vandas. supra de renunciat nisi cum pridem. §. verum. Unde 
+      <lb ed="#C" n="10"/>versus 
+      <lb ed="#C" n="11"/>
+               <quote xml:id="nbht7y-d1e227-Qd1e528">Ocia si tollas, periere Cupidinis arcus</quote>
+               <lb ed="#C" n="12"/>Et iterum: 
+      <lb ed="#C" n="13"/>
+               <quote xml:id="nbht7y-d1e227-Qd1e535">Quaeritur Aegysthus quare sit factus adulter 
+      <lb ed="#C" n="14"/>In promptu causa est, desidiosus erat</quote>
+            </p>
+            <p xml:id="nbht7y-d1e227-d1e541">
+               <lb ed="#C" n="15"/>Quis possit conferre. Minores minora, sieu 
+      <lb ed="#C" n="16"/>sacerdotes baptismum,8 
+      <lb ed="#C" n="17"/>praecedentia. supra de sacra unction. §. quia vero Christus. ver 
+      <lb ed="#C" n="18"/>perfrontis. ibi. unde cum caeteras unctiones, &amp;c. Item extreman 
+      <lb ed="#C" n="19"/>unctionem. sup. eod. §.1. Item matrimonium, dando etian 
+      <lb ed="#C" n="20"/>benedictionem. infra de secund. nupt. c. 1. &amp; 4. Item poen 
+      <lb ed="#C" n="21"/>tentiam &amp; Eucharistiam, quae potest exercere sacerdos 
+      <lb ed="#C" n="22"/>etiam sine altaris ministerio infra de corpore vitia, cap. signis 
+      <lb ed="#C" n="23"/>cavit. &amp; de clerico debili mi.c. 2. de consecr. dist. 4. constet. 16. qu. 
+      <lb ed="#C" n="24"/>adjicimus &amp; de his. infra de offic. archiepisc. c. 2. majores vero 
+      <lb ed="#C" n="25"/>id est Episcopi &amp; superiores majora, sicut sacramenta con 
+      <lb ed="#C" n="26"/>firmationis &amp; ordinis conferunt: ut no. supra tit. 1. §. a qu 
+      <lb ed="#C" n="27"/>&amp; qualiter. versuli 
+    </p>
+            <p xml:id="nbht7y-d1e227-d1e572">
+               <lb ed="#C" n="28"/>Quis recipere. Sacramentum? baptismi quilibe 
+      <lb ed="#C" n="29"/>recipere potest &amp; debet. quod dic 
+      <lb ed="#C" n="30"/>ut not. infra de bapt. §. quis baptizari. caetera vero non nis 
+      <lb ed="#C" n="31"/>Christianus recipere potest. quod dic, ut no. infra de praes 
+      <lb ed="#C" n="32"/>non bapti. §. quid sit de ordinibus, excepto matrimonio quo 
+      <lb ed="#C" n="33"/>non solum apud Latinos &amp; Graecos, sed etiam apud fi 
+      <lb ed="#C" n="34"/>deles &amp; infideles existit. infra detransact. cap. ult. §. l. 38. qu.¬ 
+      <lb ed="#C" n="35"/>§. 1. &amp; pertotum. inter infideles enim matrimonium ve 
+      <lb ed="#C" n="36"/>rum est, non tamen est ratum. quod dic, ut not. infra de di 
+      <lb ed="#C" n="37"/>vort. §. quot modis. vers. ultimo
+    </p>
+            <p xml:id="nbht7y-d1e227-d1e596">
+               <lb ed="#C" n="38"/>Et qualiter conferatur. Juntamorem ecck 
+      <lb ed="#C" n="39"/>siasticum, quem 
+      A<lb ed="#C" n="40" break="no"/>postolica sedes observat. sup. tit. 1. §. quia vero Christus. &amp; S 
+      <lb ed="#C" n="41"/>ultimo infra de haeret. ad abolendam. respon. i. quod si aliud in 
+      <lb ed="#C" n="42"/>caute sit omissum, caute supplendum erit suo tempor 
+      <lb ed="#C" n="43"/>infra eod.c.i. &amp; sin. &amp; supra tit. i. respons. 1.ut ecce, cum prae 
+      <lb ed="#C" n="44"/>byter ordinatur, tam ordinans quam astantes praesbyter 
+      <lb ed="#C" n="45"/>debent ei manum imponere. 23. distinct. praesbyter. Si ver¬ 
+      <lb ed="#C" n="46"/>diaconus ordinetur, non astantes praesbyteri, sed solu 
+      <lb ed="#C" n="47"/>ordinans manum imponit. 23. distinct. diaconus. pone ei 
+      <lb ed="#C" n="48"/>go, quod omissa est manus impositio, caeteris omnibusr 
+      <lb ed="#C" n="49"/>te &amp; canonice peractis, nunquid est ordinatus? Sic. sed ta 
+      <lb ed="#C" n="50"/>men executionem non habet, quousque manus impositi¬ 
+      <lb ed="#C" n="51"/>quae omissa fuerat, sit suppleta: verum caute supplend. 
+      <lb ed="#C" n="52"/>est. verbi gratia, proximo tempore, quando Pontifex alio 
+      <lb ed="#C" n="53"/>ordinabit, veniet defectum patiens una cum aliis, non in 
+      <lb ed="#C" n="54"/>apparatu solenni, sed stabit quasi ministrans episcopo 
+      <lb ed="#C" n="55"/>nec erit intentio episcopi ut super eum orationes jam di 
+      <lb ed="#C" n="56"/>ctas iteret. sed quando veniet ad locum, ubi facienda fui 
+      <lb ed="#C" n="57"/>set manus impositio, tunc apponat quanto cautius pote 
+      <lb ed="#C" n="58"/>rit, ne error a circumstantibus cognoscatur: sed si per sal 
+      <lb ed="#C" n="59"/>tum promotus sit, vel alius magnus error intervenerit, i 
+      <lb ed="#C" n="60"/>quo de facili diligens cautela in publico adhiberi neque 
+      <lb ed="#C" n="61"/>at, consulo, quod in capella sua privatim ordines celebre¬ 
+      <lb ed="#C" n="62"/>&amp; sic secreto diligenter ac solenniter suppleat quod om 
+      <lb ed="#C" n="63"/>sit. 52.dist. solicitudo. sic intellige infra eodem pastoralis, &amp; caj 
+      <lb ed="#C" n="64"/>praesbyter. argum. supra de usu pall. nisi specialis. 43. dist. in man 
+      <lb ed="#C" n="65"/>datis. 23. qu. 2. Dominus. 22. qu. 2. utilem ff. de novationibus doli.ii 
+      <lb ed="#C" n="66"/>sin infra quod metus causa, cap.i. per haec jura cauta simulati¬ 
+      <lb ed="#C" n="67"/>approbatur: secus de ficta sicut hypocrisis, &amp; quae sin 
+      <lb ed="#C" n="68"/>causa fit. infra de reg. ut cler. infra de celeb. mis. de homine. qua 
+      <lb ed="#C" n="69"/>autem sunt de substantia, quae de solennitate, &amp; quae d 
+      <lb ed="#C" n="70"/>honestate, &amp; in quo casu iteretur ordo, vel suppleatur, di 
+      <lb ed="#C" n="71"/>ut not. sup. tit I. §. aquo. &amp; qualiter. vers. patet. Sed qualiter in 
+      <lb ed="#C" n="72"/>telligitur quod astantes praesbyteri debent manum im 
+      <lb ed="#C" n="73"/>ponere praesbytero ordinando, ut not. sup. nunquid omne 
+      <lb ed="#C" n="74"/>praesentes hoc facere debent. Ita videtur, quia indistinct 
+      <lb ed="#C" n="75"/>loquitur. 23. dist. presbyter. sed dic, quod duo sufficiunt. an 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0113.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="76"/>sup. detemp. ord. si archiepiscopus, &amp; cap. sequi 76 dist. § porro. sec 
+      <lb ed="#C" n="77"/>nunquid subdiaconus manus impositionem recipit? Di 
+      <lb ed="#C" n="78"/>cunt quod non 23. dist. subdiaconus. Sed contra inf. eod, cap. 1 
+      <lb ed="#C" n="79"/>respondent quod ibi manus impositio pro benedictione 
+      <lb ed="#C" n="80"/>ponitur. Est autem multiplex manus impositio. Confir 
+      <lb ed="#C" n="81"/>matoria: de consecrat. distin. 5. manus impositio. Ordinatori a 
+      <lb ed="#C" n="82"/>&amp; haec specialis in praesbyteris &amp; diaconis. ut not. sup. eod 
+      <lb ed="#C" n="83"/>§. in princ. &amp; est generalis, respectu omnium clericorum 
+      <lb ed="#C" n="84"/>33. dist. quando generalis. Curatoria: unde Dominus in Evan 
+      <lb ed="#C" n="85"/>gelio, Super aegros manus imponent, &amp; bene habebunt 
+      <lb ed="#C" n="86"/>de hac sup. tit. 1.§. i. Benedictoria: &amp; sic accipitur in subcdi 
+      <lb ed="#C" n="87"/>acono. I. 4. 1. manus. sup. de aetat &amp; qualit. cum contingat. Con 
+      <lb ed="#C" n="88"/>secratoria: &amp; haec locum habet in dignitate episcopali. 23 
+      <lb ed="#C" n="89"/>dist n. Episcopus. Item in dignitate seculari. ut in Regib. 75 
+      <lb ed="#C" n="90"/>distinct. ordinationes supra it. I. §. 2&amp;3. Item in religione, ui 
+      <lb ed="#C" n="91"/>in sanctimonialibus. 20. qu. 4 virgines. videtur tamen hae¬ 
+      <lb ed="#C" n="92"/>benedictoria. sup. de temp ord.c.i. sed ibi ponitur Benedice 
+      <lb ed="#C" n="93"/>re pro Consecrare. Expulsoria: ut cum poenitentes ex 
+      <lb ed="#C" n="94"/>tra ecclesiam mittuntur. 50. dist. in capite. &amp; c. poenitentes. In 
+      <lb ed="#C" n="95"/>stitutoria: ut investitura corporalis. 16 9. 2. sane. Exsuffla 
+      <lb ed="#C" n="96"/>toria. 23. dist. exorcista. Reconciliatoria. 26. q. 8. qui recedum 
+      <lb ed="#C" n="97"/>II. q.3. cum aliquis. haec consistit in excommunicatis, ut in 
+      <lb ed="#C" n="98"/>proximo alleg. cap. 1. de sent. excomm. cum desideres. ad fin e 
+      <lb ed="#C" n="99"/>cap. a nobis. §. penult in haeretices. I. qu.i. Arrianos. infra de haereti 
+      <lb ed="#C" n="100"/>cis excommunicamus. 2. §. damnati. Potest tamen non absur 
+      <lb ed="#C" n="101"/>de dici, quod hodie subdiaconus impositionem recepit 
+      <lb ed="#C" n="102"/>sicut diaconus. &amp; canon antiquus loquitur juxta statun 
+      <lb ed="#C" n="103"/>ecclesiae primitivae, quando ordo subdiaconatus sacer noi 
+      <lb ed="#C" n="104"/>erat, sed hodie est. supra de aetat. &amp; qualit. a multis. infra di 
+      <lb ed="#C" n="105"/>servis non ord. miramus 
+    </p>
+            <p xml:id="nbht7y-d1e227-d1e751">
+               <lb ed="#C" n="106"/>Et quae sunt iteranda &amp;quae non Respon. 1 
+      <lb ed="#C" n="107"/>secundum omnes, hae¬ 
+      <lb ed="#C" n="108"/>tria, Baptismus, Ordo, &amp; Confirmatio nunquam deben¬ 
+      <lb ed="#C" n="109"/>iterari. unde vers. 
+      <lb ed="#C" n="110"/>
+               <quote xml:id="nbht7y-d1e227-Qd1e764">Fons, ordo, chrismanon: caetera sunt iteranda</quote>
+               <lb ed="#C" n="111"/>De duobus primis, August. 1. q. 1. sacramenta, &amp; cap. m. 
+      <lb ed="#C" n="112"/>nus. De tertio. de consecr. dist. 5. de homine. &amp; cap. de his. &amp; cat 
+      <lb ed="#C" n="113"/>dictum est vobis. reliqua vero quatuor sacramenta quidan 
+      <lb ed="#C" n="114"/>dicunt posse iterari, nam de poenitentia, matrimonio, 8 
+      <lb ed="#C" n="115"/>Eucharistia indubitanter verum est, cum videamus ipsi 
+      <lb ed="#C" n="116"/>quotidie iterari. De matrimonio habes. 32. qu. 1. aperiant 
+      <lb ed="#C" n="117"/>cap. seq. De eucharistia, de consecrat. dist. 2 quotidie. &amp;c. si no¬ 
+      <lb ed="#C" n="118"/>frequentius De poenitentia, non solenni infr. depaenit. omnis 
+      <lb ed="#C" n="119"/>non solenni ideo dixi, quia solennis poenitentia non ite 
+      <lb ed="#C" n="120"/>ratur. est enim sacramentalis. 50. dist. in cap &amp; cap seque &amp; ide 
+      <lb ed="#C" n="121"/>non reiterabilis. 50. distin. quamvis de poenitent. dist 3. quamvis 
+      <lb ed="#C" n="122"/>28 distin presbyter. 68 distin. siquis episcopus. 30. dist presbyter. nis 
+      <lb ed="#C" n="123"/>contraria consuetudo alicubi vigeat. de poeniten. dist. 3. §. ex 
+      <lb ed="#C" n="124"/>persona. unde in Ecclesiastico, Non iteres verbum in ora 
+      <lb ed="#C" n="125"/>tione tua. Idem de extrema unctione: cum enim sit me 
+      <lb ed="#C" n="126"/>dicina animae corporis, videtur quod adveniente morte 
+      <lb ed="#C" n="127"/>apponi possit &amp; debeat medicina, ut innuitur in authori 
+      <lb ed="#C" n="128"/>tate Jacobi, Infirmatur quis in vobis, &amp; cap. argum 45. dis¬ 
+      <lb ed="#C" n="129"/>illud &amp; argu. infra de offic. archipres byt, cap. 2. Quidam tamet 
+      <lb ed="#C" n="130"/>dicunt, quod nec ista quatuor iterantur. nam in secund 
+      <lb ed="#C" n="131"/>conjugio benedictio non repetitur, quae sacramentalis est 
+      <lb ed="#C" n="132"/>infra de secundis nupt. cap. 1. &amp; 4. nec eadem hostia iterun 
+      <lb ed="#C" n="133"/>consecratur, sed alia sumitur. Idem de oleo benedicto 
+      <lb ed="#C" n="134"/>quia illud quod primo fuit impositum, secundo non po 
+      <lb ed="#C" n="135"/>nitur, sed aliud. Sed dicet quis sic, Nec baptismus itera 
+      <lb ed="#C" n="136"/>tur, si secundo detur, dum eadem aqua iterum non bene 
+      <lb ed="#C" n="137"/>dicatur. Respondent, aliud est benedictione aquae, in qu 
+      <lb ed="#C" n="138"/>fit baptismus: aliud de benedictione panis &amp; olei: potes 
+      <lb ed="#C" n="139"/>enim baptismus celebrari in aqua non benedicta, quia illa 
+      <lb ed="#C" n="140"/>benedictio fit tantum proreverentia &amp; decore, non vir 
+      <lb ed="#C" n="141"/>tute sacramenti: sed corpus Christi non potest confici, ni 
+      <lb ed="#C" n="142"/>si de pane consecrnto: nec unctio fieri, nisi de oleo ab Epi 
+      <lb ed="#C" n="143"/>scopo sanctificato, ideoque illa sanctificatio ad virtuten 
+      <lb ed="#C" n="144"/>sacramenti pertinere videtur. in conjugio autem tantun 
+      <lb ed="#C" n="145"/>semelbenedicitur quisque alioquin poena imponitur sa 
+      <lb ed="#C" n="146"/>cerdoti, ut dixi, vel dic, quod iteratio est, quantum ad susce 
+      <lb ed="#C" n="147"/>ptionem, &amp; non quantum ad sanctificationem. Movetu 
+      <lb ed="#C" n="148"/>ex eo, quod canon dicit simpliciter sacramenta non ess 
+      <lb ed="#C" n="149"/>iteranda: &amp; ideo videtur eis, quod hoc simpliciter sit in 
+      <lb ed="#C" n="150"/>telligendum. 19. dist. si Romanorum. infra de offic. delega. veni 
+      <lb ed="#C" n="151"/>rabilis. §. penult &amp; fin. infra de privilegiis quia circa. ne fiat in¬ 
+      <lb ed="#C" n="152"/>juria sacramento: ut infra sequitur. Sed sine dubio non 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0114.xml-->
+          <pb ed="#C" n="97"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>semper est, ut apparet in his, quae not. supra de usa pallii 
+          <lb ed="#C" n="2"/>&amp; quo loco. Sed quare est prohibita sacramentorum ite 
+          <lb ed="#C" n="3"/>ratio? Quia non est facienda injuria sacramento, de con 
+          <lb ed="#C" n="4"/>secratio. distinctio 4. ostendituri quaest. 1quod quidam. Sed qui¬ 
+          <lb ed="#C" n="5"/>est facere injuriam sacramento? Respon. animae infigi 
+          <lb ed="#C" n="6"/>tur quaedam imago preciosa sive pictura, scilicet chara 
+          <lb ed="#C" n="7"/>cter spiritualis, unde sicut si aliquis vellerponere imag 
+          <lb ed="#C" n="8"/>nem super aliquam imaginem sive picturam, super pictu 
+          <lb ed="#C" n="9"/>ram, id est superpingere, pictura obscuraretur interior, u 
+          <lb ed="#C" n="10"/>hic, vel dic, quod facit injuriam sacramento, id est illi qu 
+          <lb ed="#C" n="11"/>contulit sacramentum, quasi non rite contulerit, ad ho¬ 
+          <lb ed="#C" n="12"/>de consecr. distinctis. 2. capit. fin. &amp; not. quod multum dispi 
+          <lb ed="#C" n="13"/>cet pictori vel fabro cuilibet, si quis opus suum verbo ve 
+          <lb ed="#C" n="14"/>facto detaestetur, &amp; pro bono habet, si commendetur, ha¬ 
+          <lb ed="#C" n="15"/>etiam ratione prohibetur iterari benedictio nuptialis, se¬ 
+          <lb ed="#C" n="16"/>de hoc dic ut not. infra de secund. nupt. §. an licitum sit, perfa 
+          <lb ed="#C" n="17"/>vel dic quod illicite, &amp; sequentibus. Item ecclesia si corruit, i 
+          <lb ed="#C" n="18"/>terum consecranda est, de consecri distinctio. I. de fabrica, ve 
+          <lb ed="#C" n="19"/>si comburatur pro majori parte, ut ea distinct. ecclesus. Sii 
+          <lb ed="#C" n="20"/>autem motum fuerit altare, vel sanguine sit pollutum, di 
+          <lb ed="#C" n="21"/>ut infra de confecr. eccles. vel alia in sumna, &amp; cap. aqua benedi 
+          <lb ed="#C" n="22"/>cta. Et generaliter non iteratur aliquod sacramentum 
+          <lb ed="#C" n="23"/>nisi illud, de quo expressum invenitur: sed hoc verum est 
+          <lb ed="#C" n="24"/>si certum sit de receptione sacramenti, alias in dubio ite 
+          <lb ed="#C" n="25"/>rari potest, quia non videtur iteratum quod nescitur ess 
+          <lb ed="#C" n="26"/>praestitum, infra de presbyt. non bapt veniens. de consec. distme 
+          <lb ed="#C" n="27"/>i.solemitas, infra de cler. per sal. pro cap. unico, infra de bapt. d 
+          <lb ed="#C" n="28"/>quibus.
+    </p>
+            <p xml:id="nbht7y-d1e227-d1e925">
+               <lb ed="#C" n="29"/>Quid operetur: sacramentum. Col 
+          <lb ed="#C" n="30"/>ge. su 
+          <lb ed="#C" n="31"/>pra tit. i.§. quia vero Christus, de consecr. distinctio. 5. c. I.per totum 
+          <lb ed="#C" n="32"/>&amp; not. quod qui invitus recipit sacramentum, etiam cha 
+          <lb ed="#C" n="33"/>racterem non recipitinfra de bapt. majores. §. ult. ideo non co 
+          <lb ed="#C" n="34"/>gitur quis praecise ordines recipere, supra de aeta. &amp; qualita 
+          <lb ed="#C" n="35"/>quaeris. Et sciendum, quod quamvis haereticus, vel de 
+          <lb ed="#C" n="36"/>gradatus corpora sepeliat, missam celebret, tamen propte 
+          <lb ed="#C" n="37"/>hoc corpore exhumanda, vestimenta benedicenda, alti 
+          <lb ed="#C" n="38"/>ria consecranda iterum non sunt. infra eodem, cap. 2. Effe 
+          <lb ed="#C" n="39"/>ctus etiam sacramentorum is est, ut talia sint accipienti 
+          <lb ed="#C" n="40"/>bus. quali corde, &amp; conscientia accipiuntur. I. quaest.i. &amp; e¬ 
+          <lb ed="#C" n="41"/>ce. cum Dominus declaravit, ideo sunt malis ad judicium 
+          <lb ed="#C" n="42"/>de consecrat. distinctio secunda. &amp; sancta malis, &amp; non peni 
+          <lb ed="#C" n="43"/>tentibus sacramenta dari non debet, utos. dist. illud, quo 
+          <lb ed="#C" n="44"/>intelligo de peccatis manifestis, nam propter occulta no 
+          <lb ed="#C" n="45"/>possunt alicui sacramenta negari, nisi per admonitionem 
+          <lb ed="#C" n="46"/>secretam, vel publice in genere factam, de conse. dist. 2. nor 
+          <lb ed="#C" n="47"/>prohibeat, de hoc not supra de aeta, &amp; qual. §. ordo, vers. quid 
+          <lb ed="#C" n="48"/>clericus petit ordinari, &amp; seq. Sacramenta vero in se sanct: 
+          <lb ed="#C" n="49"/>sunt, nec per peccatorem quantumcunque pollutum co 
+          <lb ed="#C" n="50"/>inquinari possunt anfra de cohab cler. &amp; mul. vestra. In sun 
+          <lb ed="#C" n="51"/>ma notandum est, quod paena iterantis secundum lege 
+          <lb ed="#C" n="52"/>est ultimum supplicium. C. ne sanctum bapti. reiter. I. 2. sed e 
+          <lb ed="#C" n="53"/>qui sanctitatem baptismi geminat, paena depositionis im 
+          <lb ed="#C" n="54"/>ponitur, tanquam indigno sacerdotio. C. eo. tit. lib. 1. Illi au 
+          <lb ed="#C" n="55"/>ten qui sponte fuerint iterum baptizati, vel conditionali 
+          <lb ed="#C" n="56"/>er coacti, promogeri non possunt, &amp; idem intelligo, si 
+          <lb ed="#C" n="57"/>gnoranter, &amp; postea cum sciverint, ratum habeant. Items 
+          <lb ed="#C" n="58"/>ab haereticis scienter, 50. distinct. confirmandum.i. quaest. 1. ven 
+          <lb ed="#C" n="59"/>tum, infi &amp; q. 7. qui in qualibet, &amp;c. conpenientibus. In habiti 
+          <lb ed="#C" n="60"/>tamen clericali debent isti vivere: &amp; sic retinebunt priv 
+          <lb ed="#C" n="61"/>legium clericale. 30. dist. dictum. de conse. dist.s. dictum, qui au 
+          <lb ed="#C" n="62"/>tem ignoranter sunt baptizati, sicut frequenter fit de in 
+          <lb ed="#C" n="63"/>fantibus, vel coacti absolute possunt promoveri, secundi 
+          <lb ed="#C" n="64"/>quosdam de jure, secundum alios, quod tutius est, de di 
+          <lb ed="#C" n="65"/>spensatione Episcopi. l. q. 4. placuit, de utrisque habetur di 
+          <lb ed="#C" n="66"/>cons. dis. 4. eos quos, contradicit tamen vehementer d 
+          <lb ed="#C" n="67"/>cons. dist. 4. qui bis, vel dicitur, quod si ignoranter est aliqui 
+          <lb ed="#C" n="68"/>baptizatus, non indiget paenitentia, sed tamen est irregu 
+          <lb ed="#C" n="69"/>laris, &amp; promoveri non potest. Sed illud dictum fuit o 
+          <lb ed="#C" n="70"/>lim in odium baptizantium, vel de magno rigore, vel de i 
+          <lb ed="#C" n="71"/>gnorantia juris, quae non excusat in talibus, &amp; quod dicti 
+          <lb ed="#C" n="72"/>est de rebaptizato, intelligas de reordinato, &amp; de confir¬ 
+          <lb ed="#C" n="73"/>mato arg. 68. dist.c. de conse. dist.5. dictum
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

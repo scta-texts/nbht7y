@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 19</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 19</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="425"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1088"><!-- nbht7y-l3t19 -->
+            <head xml:id="nbht7y-d1e1088-Hd1e101">Titulus 19</head>
+            <head xml:id="nbht7y-d1e1088-Hd1e103" type="question-title">De rerum permutatione</head>
+            <p xml:id="nbht7y-d1e1088-d1e106">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0442.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>De Rerum permutatione XIX. 
+      <lb ed="#C" n="80"/>Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1088-d1e117">
+               <lb ed="#C" n="81"/>SUMMARIA 
+      <lb ed="#C" n="82"/>I. Permutatio quid sit, &amp; qualiter contrahatur, &amp; nume. a 
+      <lb ed="#C" n="83"/>3. Permutari quid potes 
+      <lb ed="#C" n="84"/>Permutare quis possit 
+      <lb ed="#C" n="85"/>5. Actiones quae nascantur ex ea 
+      <lb ed="#C" n="86"/>6. Actiones quibus dentu 
+      <lb ed="#C" n="87"/>r. Actiones in quos dentur 
+      <lb ed="#C" n="88"/>Actiones ad quid dentur 
+    </p>
+            <p xml:id="nbht7y-d1e1088-d1e137">
+               <lb ed="#C" n="89"/>PRaemisso tractatu d&amp; contracii 
+      <lb ed="#C" n="90"/>nominatis, 
+      vi<lb ed="#C" n="91" break="no"/>deamus de innominatis, &amp; sic de rerum per 
+      <lb ed="#C" n="92"/>mutatione. Quid sit permutatio, Qualite 
+      <lb ed="#C" n="93"/>6 contrahatur, Quid potest permutari, Qui 
+      <lb ed="#C" n="94"/>possit permutare, Quae actiones nascantur ex ea, Quibu 
+      <lb ed="#C" n="95"/>dentur. Et in quos, Et ad quid. Novissime de actio praesci 
+      <lb ed="#C" n="96"/>verbis generaliter dicemus
+    </p>
+            <p xml:id="nbht7y-d1e1088-d1e158">
+               <lb ed="#C" n="97"/>Quid sit, permutatio a Unius rei pro alteravica¬ 
+      <lb ed="#C" n="98"/>ria praestatio, hoc si cadat in nomine speci¬ 
+      <lb ed="#C" n="99"/>ali, nam in generali stans omni contractui convenit, ergi 
+      <lb ed="#C" n="100"/>emptioni &amp; locationi, &amp; caeteris tam nominatis, quam in 
+      <lb ed="#C" n="101"/>nominatis, vnde emptio olim permutatio dicebatur, ff. d 
+      <lb ed="#C" n="102"/>contrah. emp. I.i. Et quia plura sunt negotia quam vocabu 
+      <lb ed="#C" n="103"/>la. ff. de prae script. ver. l4. obtinuit quod ita competenter de 
+      <lb ed="#C" n="104"/>clinetur hoc nomen, sicut &amp; venditio: sed quia late patet 
+      <lb ed="#C" n="105"/>nimis incertus est, censetur contractus innominatus, qui¬ 
+      <lb ed="#C" n="106"/>caret nomine certo, id est speciali: nam ut dixi omnem si 
+      <lb ed="#C" n="107"/>gnificat contractum, ex quo quid datur vel accipitur, sicu 
+      <lb ed="#C" n="108"/>dicimus ibi do vt des, ff de praescript. verbis naturalis, in fir 
+      <lb ed="#C" n="109"/>Et haec ratio potest assignari, quare vocatur contractu¬ 
+      <lb ed="#C" n="110"/>innominatus ff eodem leg. 1. §. Item emptio. Vel potest redo 
+      <lb ed="#C" n="111"/>alia ratio, nam contractus duntaxat nominati sunt ex qui 
+      <lb ed="#C" n="112"/>bus statim nascitur obligatio, vt in deposito, commodato 
+      <lb ed="#C" n="113"/>&amp; simi. nam statim ex quo contractum est, pariunt actio 
+      <lb ed="#C" n="114"/>nes, ut Institut. quibus mo re contra. ob Sitem is cui, &amp; § penulti 
+      <lb ed="#C" n="115"/>§. de pact juri. gentium, respons.i. secus in permutatione, ubi 
+      <lb ed="#C" n="116"/>non potest agi, nisi res ab alterutra partium tradita fue 
+      <lb ed="#C" n="117"/>rit, &amp; tunc ex praecedenti pacto agitur, ut C. eodem ex placi 
+      <lb ed="#C" n="118"/>to, &amp; sic secundum hoc donatio hodie contractus nomi 
+      <lb ed="#C" n="119"/>natus potest dici, quia ex solo pacto dat ac. sed olim secus 
+      <lb ed="#C" n="120"/>C. de donat si quis argentum, §ultim. Hoc non placet domini 
+      <lb ed="#C" n="121"/>meo, sed dicit, quod ideo dicuntur contractus nomina 
+      <lb ed="#C" n="122"/>ti, quia nomina adeo appropriata habent, quod nomer 
+      <lb ed="#C" n="123"/>unius nulli alii convenit, ut venditio id est venundatio¬ 
+      <lb ed="#C" n="124"/>commodatum, quasi commodo tuo datum, mutuum, qui¬ 
+      <lb ed="#C" n="125"/>de meo fit tuum: &amp; sic de singulis, sed nomen permutati 
+      <lb ed="#C" n="126"/>onis cuilibet contractui convenit, sicut sibi, &amp; ideo dicitu 
+      <lb ed="#C" n="127"/>innominatus, scilicet quia caret nomine speciali propri¬ 
+      <lb ed="#C" n="128"/>appropriato 
+    </p>
+            <p xml:id="nbht7y-d1e1088-d1e230">
+               <lb ed="#C" n="129"/>Qualiter contrahatur. Contrahitur per¬ 
+      <lb ed="#C" n="130"/>mutatio sicut sapi 
+      <lb ed="#C" n="131"/>entib. placuit, tunc demum, quando convenit, ut certa spe 
+      <lb ed="#C" n="132"/>cies detur pro certa, puta, ille Stichus pro Pamphilo. Ill. 
+      <lb ed="#C" n="133"/>domus pro hac vinea, quod quidem non est aperte. lexpres 
+      <lb ed="#C" n="134"/>sum, sed hic convincuntur, quia quoties jus de permutati 
+      <lb ed="#C" n="135"/>one loquitur, certam hincinde speciem designat, ut C. eo quam 
+      <lb ed="#C" n="136"/>tum asseveras. Si vero certa pro incerta, vel incerta pro certa 
+      <lb ed="#C" n="137"/>puta bos in genere, pro bove in genere, vel equus in specit 
+      <lb ed="#C" n="138"/>pro bove in genere non erit permutatio, sed alius contri 
+      <lb ed="#C" n="139"/>ctus innominatus, do vt des. no. est .n. quod si pecuniam di 
+      <lb ed="#C" n="140"/>in quantitate, &amp; rem mihi dones, emptio est, sed si do rem 
+      <lb ed="#C" n="141"/>&amp; rem mihi des, &amp; sic hincinde in specie permutatio est. Si 
+      <lb ed="#C" n="142"/>in genere remanebit nomen generale, do ut des. Sed sidi¬ 
+      <lb ed="#C" n="143"/>pecuniam in quantitate, ut tabulam pingas, est locatio. S 
+      <lb ed="#C" n="144"/>rem, est contractus innominatus, do ut facias. Est &amp; aliu 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="145"/>ADDITIO. 
+      <lb ed="#C" n="146"/>a Quid sit permutatio.) Adde Doct. in rub. eodaitul. Card. Zab. i 
+    </p>
+    <p>
+      <lb ed="#C" n="147"/>c. q uaesitum in I. quaesi. eodem tit. Fed. de Sen. in tractatu permuia 
+      <lb ed="#C" n="148"/>tionum -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0443.xml-->
+      <pb ed="#C" n="426"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>contractus, facio ut des, &amp; alius, facio ut facias, ut omni¬ 
+      <lb ed="#C" n="2"/>haec probantur ff de praescri ver naturalis. 
+    </p>
+            <p xml:id="nbht7y-d1e1088-d1e280">
+               <lb ed="#C" n="3"/>Quid potest permutari. * Potest autem 
+      permu<lb ed="#C" n="4" break="no"/>tari quicquid vendi potest, quod di 
+      <lb ed="#C" n="5"/>vt not supra de contrah. emp. ergo temporalia cum temporal 
+      <lb ed="#C" n="6"/>bus sed spiritualia cum temporalib. permutari non pol 
+      <lb ed="#C" n="7"/>sunt: vnde nec decima cum pecunia, ut inf. eo.c. ult. Per quo 
+      <lb ed="#C" n="8"/>patet, quod laicus non potest se eximere a praestatione de 
+      <lb ed="#C" n="9"/>cimae, quamvis det partem fundi. Spiritualia autem cum spi 
+      <lb ed="#C" n="10"/>ritualib. permutari possunt, &amp; si ecclesia cum ecclesia &amp; rati 
+      <lb ed="#C" n="11"/>one possessionum alterius si alii praeponderet, potest peci 
+      <lb ed="#C" n="12"/>nia refundi, dummodo contractus ad invicem minime mi 
+      <lb ed="#C" n="13"/>sceantur: ut inf. eo. ad quaestiones, 16. a fi. nemini. Et hoc intell 
+      <lb ed="#C" n="14"/>gas, quando fit authoritate superioris, 16qult. nemini, infi 
+      <lb ed="#C" n="15"/>ae exces prael sicut unire, &amp; de cens prohibemus, alias non licet 
+      <lb ed="#C" n="16"/>unde nec dignitas cum dignitate, nec canonia cum canoni¬ 
+      <lb ed="#C" n="17"/>sine authoritate superioris permutari debet, supra de prael 
+      <lb ed="#C" n="18"/>majoribus, infra eodem quaesitum. Et si aliqui propria temeri 
+      <lb ed="#C" n="19"/>tate hanc perinutationem fecerint, privandi sunt, ut inf¬ 
+      <lb ed="#C" n="20"/>eodem cum olim, nisi simplicitati venia tribuatur, ut inf. eoc 
+      <lb ed="#C" n="21"/>cum universorum. Sed nunquid sufficit authoritas sup¬ 
+      <lb ed="#C" n="22"/>rioris, ubi non ad ipsum, sed ad capitulum pertinet collati¬ 
+      <lb ed="#C" n="23"/>&amp; institutio praebendarum, &amp; certe non. arg, supra de offi¬ 
+      <lb ed="#C" n="24"/>Archi. ad hoc  sin fupra de officio deleg super eodem ad fin supr 
+      <lb ed="#C" n="25"/>de major &amp; obed c.si supra de his quae fi a prael, cap fi. Et nunquit 
+      <lb ed="#C" n="26"/>sufficit in hoc casu authoritas capituli? Non videtur, qui 
+      <lb ed="#C" n="27"/>non conceditur ei, quod possit dispensare contra conci 
+      <lb ed="#C" n="28"/>sed episcopo tantum, supra de praebend. vacante, argument.n 
+      <lb ed="#C" n="29"/>fra de testi. requisisti. Oppo tamen sic permutatio non es 
+      <lb ed="#C" n="30"/>contractus gratuitus, f.eodem l. i. ergo non potest intervi 
+      <lb ed="#C" n="31"/>nire in spiritualib. quae gratis sunt conferenda, 1. q. 1 grati¬ 
+      <lb ed="#C" n="32"/>&amp; q. 7. Daibertum, quae etiam abhorrent pactum &amp; modun 
+      <lb ed="#C" n="33"/>I. quaest 2. quam pio. Item si sit permutatio ecclesiarum tr¬ 
+      <lb ed="#C" n="34"/>dita una, agetur ad alteram tradendam ex permutato, &amp; 
+      <lb ed="#C" n="35"/>sic petetur praelatura, quod fieri non debet, infra de jur 
+      <lb ed="#C" n="36"/>patron. per nostras. Respondeo, hoc totum solvit authorita 
+      <lb ed="#C" n="37"/>superioris, ex cujus arbitrio, non partium, omnia per 
+      <lb ed="#C" n="38"/>dent, ut notat. supra versic. &amp; hoc intelligas, &amp; proptere¬ 
+      <lb ed="#C" n="39"/>omne vitium aboletur, arg. ff. de his qui notat. insa furti, § qu 
+      <lb ed="#C" n="40"/>jussu, supra de praebend. nisi essent, supra de pact. cum pridem, suj 
+      <lb ed="#C" n="41"/>c de elect, cum inter R. seniorem. Mancipia e autem 
+      ecclesiasti<lb ed="#C" n="42" break="no"/>ca cum mancipiis privatorum permutari non possunt nis 
+      <lb ed="#C" n="43"/>ad libertatem id est ad hoc vt liberi fiant, ut infra eod manc 
+      <lb ed="#C" n="44"/>pia. Quod verum est, nisi ecclesiae expediret: nam cum don¬ 
+      <lb ed="#C" n="45"/>ri possint, ut i3 quaest. 2.ecclesiasticis, multo fortius permuta 
+      <lb ed="#C" n="46"/>ri, unde &amp; fugitivi servi, &amp; permutari &amp; distrahi possunt 
+      <lb ed="#C" n="47"/>utinfra eodem injustum, 12. quaest. 2. fugitivi, quod verum est 
+      <lb ed="#C" n="48"/>ex quo redierint, aliud si sint in fuga, C. ad l. Faviam, de pl. 
+      <lb ed="#C" n="49"/>in fug ff de contrahend. empt. &amp; vend quod saepe, §. si quis amic 
+      <lb ed="#C" n="50"/>&amp; dixi servum ecclesiasticum posse permutari ad libertatem 
+      <lb ed="#C" n="51"/>intelligas si duo alii sibi dentur, non alias, 7. quaestio. 2. 
+      <lb ed="#C" n="52"/>piscopus qui mancipium, &amp; dixi supra de rebus eccl. non alie Re 
+      <lb ed="#C" n="53"/>autem aliena permutari non potest, quia non potest tran 
+      <lb ed="#C" n="54"/>ferri dominium, f. eo . l.. § ul ff. de cond. causa data, I fi. Dominu 
+      <lb ed="#C" n="55"/>tamen Y glossavit, quod Pedius qui hoc ait, nimis prose 
+      <lb ed="#C" n="56"/>quutus est, hoc verbum re evicta non videtur fuisse tradit. 
+      <lb ed="#C" n="57"/>Et sane potest ita distingui, vt re aliena permutata satis si 
+      <lb ed="#C" n="58"/>interim rem traditam esse unde &amp; dicetur permutatio, C. e 
+      <lb ed="#C" n="59"/>Linterim, ergo non potest agi, sed re evicta non videtur tenu 
+      <lb ed="#C" n="60"/>isse permutatio, f. de distr pig. rescriptum §1. &amp; ideo compet¬ 
+      <lb ed="#C" n="61"/>condictio obcausam ad repetendum quod datum est, vel a 
+      <lb ed="#C" n="62"/>praescr. ver, ad interesse, vel ut fiat quod convenit, ut C. eoo 
+      <lb ed="#C" n="63"/>quoniam &amp; I,cum precibus, &amp; haec ac praescr. ver bonae fide 
+      <lb ed="#C" n="64"/>est, ut Inst. de ac. Sactionum, condictio vero stricti juris est 
+      <lb ed="#C" n="65"/>sicut &amp; aliae omnes condictione:
+    </p>
+            <p xml:id="nbht7y-d1e1088-d1e419">
+               <lb ed="#C" n="66"/>Quis possit; Permutare a Permutare auit potes 
+      <lb ed="#C" n="67"/>ecclesia tantum, cum ecclesia alia, se 
+      <lb ed="#C" n="68"/>vata indemnitate vtriusque 10. quaest. 2. hoc jus. Et cum princi 
+      <lb ed="#C" n="69"/>pe potest permutare, dummodo non movetur in damnum 
+      <lb ed="#C" n="70"/>scil. quod recipiat rem aequivalentem, pragmatica sanctic 
+      <lb ed="#C" n="71"/>ie interveniente, &amp; hoc si princeps eget tai permutation 
+      <lb ed="#C" n="72"/>quamvis aliter intelligatur ab aliis, infra eodem cap. i. nam 
+      <lb ed="#C" n="73"/>vtilitatem ecclesiae consideremus tantum, nullum erit priv 
+      <lb ed="#C" n="74"/>e principis. Est autem pragmatica sanctio,  quod princep 
+      <lb ed="#C" n="75"/>de consilio procerum statuit &amp; sancit. C. de dive. rescript. le 
+      <lb ed="#C" n="76"/>ultim. sed cum privato ita demum permutat ecclesia, 
+      <lb ed="#C" n="77"/>ecclesiae ipsi expediat, ut supra de rebus eccles. non aliena¬ 
+      <lb ed="#C" n="78"/>ut supra, in fin &amp; notat. in summa hujus citul. de rebus eccle 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0443.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>non uliena. Et si permutatio inconsulte facta sit, successo¬ 
+      <lb ed="#C" n="80"/>potest revocare, ut infra eodem c. 2. C. de preca. c2. infr. de dona 
+    </p>
+            <p xml:id="nbht7y-d1e1088-d1e458">
+               <lb ed="#C" n="81"/>Quae actiones nascantur ex ea.  Duae praescript. 
+      <lb ed="#C" n="82"/>verbis, &amp; condictio ob causam, hoc 
+      <lb ed="#C" n="83"/>intellige re tradita ab alterutra partium ut supra dixi, 8 
+      <lb ed="#C" n="84"/>habes, C. eodem ex placito ff. de pac juris gentium, § sed &amp; si in a 
+      <lb ed="#C" n="85"/>lium, in sin. Idem in ac. de peculio. nam licet servus habea 
+      <lb ed="#C" n="86"/>mille, si tamen duo tantum sunt in peculio, ad illa tantum 
+      <lb ed="#C" n="87"/>est obligatus, f de pec. quoties, § si semel. Quid ergo, si poste¬ 
+      <lb ed="#C" n="88"/>augeatur peculium, adhuc agit creditor servi, fi. depecu 
+      <lb ed="#C" n="89"/>quaesitum, §1s qui. &amp; ex eadem causa &amp; eodem contractu 
+      <lb ed="#C" n="90"/>&amp; ex quo primo egit, &amp; prodest hoc ad alias opiniones cir 
+      <lb ed="#C" n="91"/>ca actionem pro socio &amp; tutelae, quae demum finit a tutel¬ 
+      <lb ed="#C" n="92"/>datur ex quasi contractu dudum ante interposito, ff. detur. 
+      <lb ed="#C" n="93"/>&amp; rati. di si tutor, §ult. &amp; I sed non datur, sic est aliquoties &amp; in 
+      <lb ed="#C" n="94"/>mutuo ff. de fidejus si quis pro eo § si mummos, sic &amp; in manda 
+      <lb ed="#C" n="95"/>to. ff. de offic. proconsul. observandum, § fin. sic &amp; in dote, C. d 
+      <lb ed="#C" n="96"/>divor. &amp; repu.l.i &amp; accedit, inf. eod cum muversorum, &amp; de sol 
+      <lb ed="#C" n="97"/>Odoardus, &amp; de usu, cum tu manifestus, &amp; quod hae duae acti 
+      <lb ed="#C" n="98"/>ones competant, probatur, f. de praescr. ver. naturalis 
+    </p>
+            <p xml:id="nbht7y-d1e1088-d1e500">
+               <lb ed="#C" n="99"/>Quibus dentur. His qui pactum 
+      permuratio<lb ed="#C" n="100" break="no"/>nis nude vestierunt rei inter 
+      <lb ed="#C" n="101"/>ventu: Hinc est: quod si unus vestivit, alter non, ei tantun 
+      <lb ed="#C" n="102"/>qui vestivit dantur, sicut inf. in caeteris innominatis coontra 
+      <lb ed="#C" n="103"/>ctib. dicetur, ad hoc infra eodem cum universorum, sic patet
+    </p>
+            <p xml:id="nbht7y-d1e1088-d1e514">
+               <lb ed="#C" n="104"/>Et in quos dentur. : Scilicet in illos qui non vestie¬ 
+      <lb ed="#C" n="105"/>runt, nec volunt fidem servare 
+    </p>
+            <p xml:id="nbht7y-d1e1088-d1e521">
+               <lb ed="#C" n="106"/>Et ad quid. Ad interesse quod nondum est. vel 
+      <lb ed="#C" n="107"/>est, sed nondum est certum tempore 
+      <lb ed="#C" n="108"/>contractus, erit autem certum per sententiam: ideo etiam 
+      <lb ed="#C" n="109"/>dicitur, quod haec actio incerta crescit, maxime a tempo 
+      <lb ed="#C" n="110"/>re morae usque ad sententiam, C. eodem in rebus. Ex supradi 
+      <lb ed="#C" n="111"/>ctis colligi potest, quod venditio &amp; permutatio in hoc si 
+      <lb ed="#C" n="112"/>miles sunt, quia utraque bonae fidei est, &amp;t ex utraque paratu 
+      <lb ed="#C" n="113"/>justa causa usucapiendi, ex utraque paratur evictio, vel ei 
+      <lb ed="#C" n="114"/>vtraque redhibitio, fi de aedili. edi sciendum, §. penultm. Dif 
+      <lb ed="#C" n="115"/>ferunt autem, quia venditio solo consensu perficitur, per 
+      <lb ed="#C" n="116"/>mutatio vero redemum tradita. Item in permutatione lo 
+      <lb ed="#C" n="117"/>cum habet condictio ob causam, in venditione non. Item 
+      <lb ed="#C" n="118"/>in venditione alius est emptor, alius venditor, in permuta 
+      <lb ed="#C" n="119"/>tione vero uterque dicitur permutator. Item in venditioni 
+      <lb ed="#C" n="120"/>emptor cogitur pretium accipientis facere, venditor noi 
+      <lb ed="#C" n="121"/>cogitur rem facere emptoris, etiam in permutatione u 
+      <lb ed="#C" n="122"/>trique tenentur rem alterius facere, secundum Pedium, u 
+      <lb ed="#C" n="123"/>dif haec not f. eo. l. i. illa quoque potest dici differentia, quod in 
+      <lb ed="#C" n="124"/>venditione non transfertur dominium re tradita, nisi pre 
+      <lb ed="#C" n="125"/>tium sit solutum, vel aliter satisfactum, secus in aliis contra 
+      <lb ed="#C" n="126"/>ctib. ergo &amp; in permutatione. secus, ut Insti. de rer dirisi. § pi 
+      <lb ed="#C" n="127"/>traditionem, &amp; S renditae. Invenitur, tamen contractus mul 
+      <lb ed="#C" n="128"/>tum affinis emptioni &amp; permutationi, non tamen est em 
+      <lb ed="#C" n="129"/>ptio vel permutatio, puta patruus tuus exposuit fundun 
+      <lb ed="#C" n="130"/>iuum venalem, pro decem: deinde pater tuus hoc auditi 
+      <lb ed="#C" n="131"/>dixit fratri suo id est patruo tuo, habeo tale praedium, quod 
+      <lb ed="#C" n="132"/>bene valet centum, &amp; sic sufficit ad pretium fundi tui d¬ 
+      <lb ed="#C" n="133"/>mihi tuum, &amp; accipe meum, hic dicit Azo, agendum util 
+      <lb ed="#C" n="134"/>actione ex empto &amp; ven. C. eo. l. 
+    </p>
+            <p xml:id="nbht7y-d1e1088-d1e586">
+               <lb ed="#C" n="135"/>ACTio autem praescriptis verbis locum habet in pacti 
+      <lb ed="#C" n="136"/>appositis incontinenti in quocunque contractu, sit C. ad 
+      <lb ed="#C" n="137"/>pact. inter empto. leg. 2. Item habet locum ubicunque dubitar 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="138"/>ADDITIONES. 
+      <lb ed="#C" n="139"/>b Non solo autem pacto, ut adnotat Mart contra hitur permu 
+    </p>
+    <p>
+      <lb ed="#C" n="140"/>tatio, sed rerum interventu quod et verissimum est, licet in 
+      <lb ed="#C" n="141"/>eam rem nihil citet, sed potuit allegare text. in leg. 15 permu¬ 
+      <lb ed="#C" n="142"/>tatio autem, ff. de re permut. In reliquis convenit Hostiensi 
+      <lb ed="#C" n="143"/>ideo non repeto 
+      <lb ed="#C" n="144"/>6 Mancipia. JAdde quid sit mancipium, vide gl. in clem.ut hiqu 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>de aeia &amp; qual. c. 2. &amp; ibi Doct. de condi. appo &amp; in Lservus, in fi si 
+      <lb ed="#C" n="146"/>de sta. hon 
+      <lb ed="#C" n="147"/>d Quis possit permutare. TAdde Federic. de Se. in tractatu per 
+    </p>
+    <p>
+      <lb ed="#C" n="148"/>mutationum. 
+      <lb ed="#C" n="149"/>e Est autem pragmatica sanctio. J Adde gl. in c perveni. 101. di 
+    </p>
+    <p>
+      <lb ed="#C" n="150"/>glinc. dicite. 25. q. 2 gl. in I. si. C. de direr. reser pgl. in Liubemus nu 
+      <lb ed="#C" n="151"/>lam, C. de sacros. eccl. Inn.inc. I. de rer per--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0444.xml-->
+      <pb ed="#C" n="427"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>potest, quae actio detur, nam domino mercium si incerti 
+      <lb ed="#C" n="2"/>sit, utrum navem conduxerit, an merces vehendas locavi 
+      <lb ed="#C" n="3"/>rit, datur actio in factum praescriptis verbis, &amp; est bonae f 
+      <lb ed="#C" n="4"/>dei, cum pro aestimato datur, ut Insti. de act. §actionum, ff. d 
+      <lb ed="#C" n="5"/>exer. act. I.1. &amp; de praescriptis verbis, l.a K ult &amp; l2364 &amp; sit 
+      <lb ed="#C" n="6"/>bi. Item habet locum in tribus contractibus innominatis 
+      <lb ed="#C" n="7"/>scil. do ut des, do ut facias, facio ut facias, de quibus supr 
+      <lb ed="#C" n="8"/>dixi equaliter contrahatur, in quarto autem scil. facio ut de: 
+      <lb ed="#C" n="9"/>locum habet act. de dolo f. de praescrip. verbis, naturalis, §quo 
+      <lb ed="#C" n="10"/>si facio. Et hoc forte verum est, cum mihi ex eo quod fi 
+      <lb ed="#C" n="11"/>cio abest, &amp; ibi non adest, ut quia servum meum mani 
+      <lb ed="#C" n="12"/>mitto, ut tuum manumittas, &amp; est ratio quia vestienti con 
+      <lb ed="#C" n="13"/>tractum debet dari praescriptis verbis, vestire autem dicor 
+      <lb ed="#C" n="14"/>cum ex eo, quod facio, aliquid tibi adest, alias dareturd 
+      <lb ed="#C" n="15"/>dolo. C. de pact. cum proponas, ff. de praescript. verb solent. Hae 
+      <lb ed="#C" n="16"/>tamen ratio fallit in facio ut facias, ut dictum est, &amp; pri¬ 
+      <lb ed="#C" n="17"/>batur ff de praescript. verbis naturalis, § ultim. sed ibi est alia ra 
+      <lb ed="#C" n="18"/>tio: quia factum erat in obligatione ab alia parte, unde¬ 
+      <lb ed="#C" n="19"/>gitur ad interesse. Si quaeras, quando debet dici do ut fa 
+      <lb ed="#C" n="20"/>cias, vel e contrario: respon attende quid praecesserit, nan 
+      <lb ed="#C" n="21"/>ii dicas, do tibi fundum, ut facias mihi armarium: est di 
+      <lb ed="#C" n="22"/>ut facias. Si vero dicatur, facio tibi armarium, ut fundun 
+      <lb ed="#C" n="23"/>des: est facio ut des, licet in faciendo alterum praecedat 
+      <lb ed="#C" n="24"/>&amp; nihilominus datur praescriptis verbis, ut C. de transa, cun 
+      <lb ed="#C" n="25"/>mota. Spectaturergo conventio, licet quidam contrad 
+      <lb ed="#C" n="26"/>cant. Ex praedictis patet quae actio competat sup de renunm 
+      <lb ed="#C" n="27"/>lectae. Id veniet in actione praescriptis verbis, quod venire 
+      <lb ed="#C" n="28"/>in actione quae daretur ex simili contractu, puto do ren 
+      <lb ed="#C" n="29"/>ut rem mihi des, id veniet quod veniret in venditione. D. 
+      <lb ed="#C" n="30"/>ut facias, id veniet quod in locatione, f. depositi, l. 1. § exc 
+      <lb ed="#C" n="31"/>ducto. &amp; de praescr. rerbis, l.a § sed si facio ut facias, in fin. ibi, qua 
+      <lb ed="#C" n="32"/>actio. &amp;c. veniet igitur interesse, &amp; dolus, &amp; lataculpa, 
+      <lb ed="#C" n="33"/>levis. Item veniet ut fiat quod convenit ff. de praescrip ve 
+      <lb ed="#C" n="34"/>bis, leg ob eam, C. de donat legem. Civilis est haec actio praescr 
+      <lb ed="#C" n="35"/>ptis verbis, &amp; eadem quae dicitur in factum ff. de praescrip¬ 
+      <lb ed="#C" n="36"/>verb. si tibi polienda, non tamen omnis in factum est pra 
+      <lb ed="#C" n="37"/>script. versicul. ea quae de damno dato proponitur, &amp; e 
+      <lb ed="#C" n="38"/>quolibet edicto vel interdicto, &amp; locum habet nedum in 
+      <lb ed="#C" n="39"/>contractibus &amp; quasi, sed &amp; in maleficiis &amp; quasi, ubicun 
+      <lb ed="#C" n="40"/>que aequitas suadet dari actionem, ff. de praescript. rerb que 
+      <lb ed="#C" n="41"/>ties, &amp; ideo dicitur ejus tenor, in multis &amp; variis articuli 
+      <lb ed="#C" n="42"/>admissis, ut C. de sac. san. eccles. sancimus, stricti juris regula 
+      <lb ed="#C" n="43"/>riter est haec actio, perpetua est, personalis est, haeredibu 
+      <lb ed="#C" n="44"/>competit, &amp; in haerede 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

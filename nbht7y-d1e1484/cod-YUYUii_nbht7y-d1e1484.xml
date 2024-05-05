@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 4</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 4</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="575"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1484"><!-- nbht7y-l4t4 -->
+            <head xml:id="nbht7y-d1e1484-Hd1e101">Titulus 4</head>
+            <head xml:id="nbht7y-d1e1484-Hd1e103" type="question-title">De sponsa duorum</head>
+            <p xml:id="nbht7y-d1e1484-d1e106">
+               <lb ed="#C" n="51"/>De sponsa duorum. IV Rubr. 
+    </p>
+            <p xml:id="nbht7y-d1e1484-d1e111">
+               <lb ed="#C" n="52"/>SUMMARIA 
+      <lb ed="#C" n="53"/>Sponsalia bina quot modis contrahantur. Et quibus praejud 
+      <lb ed="#C" n="54"/>cent. 3 
+      <lb ed="#C" n="55"/>2 Fides pactionis quae su 
+      <lb ed="#C" n="56"/>4 Temporalia seu corporalia in quo consistant 
+      <lb ed="#C" n="57"/>5 Conjugia bina an liceat habere 
+      <lb ed="#C" n="58"/>6 Cerius nuncius super depositione mortis quis dicatur 
+      <lb ed="#C" n="59"/>7 Contrahentes bina sponsalia quam poenam patiantur. 
+    </p>
+            <p xml:id="nbht7y-d1e1484-d1e131">
+               <lb ed="#C" n="60"/>DIximus supra desponsiones 
+      clandesti<lb ed="#C" n="61" break="no"/>nas prohibendas, propter peri 
+      <lb ed="#C" n="62"/>Icula animarum, quae inde proveniunt: S 
+      <lb ed="#C" n="63"/>quia inter alia pericula non minimum es 
+      <lb ed="#C" n="64"/>non contrahere bona sponsalia, videamu 
+      <lb ed="#C" n="65"/>de sponsa duorum, subaudi vivorum, ut sic habeas diffe¬ 
+      <lb ed="#C" n="66"/>rentiam inter hunc titul. &amp; illum infra de secun. nup. iste 
+      <lb ed="#C" n="67"/>nim loquitur, quando sponsus sponsa legitima vivent 
+      <lb ed="#C" n="68"/>cum alia de facto contrahit: ibi vero loquitur quand 
+      <lb ed="#C" n="69"/>sponso mortuo alteri nubit, quare decr. dominus in dict¬ 
+      <lb ed="#C" n="70"/>titul posita, quamvis communis sit utrique tit. fuisset ta 
+      <lb ed="#C" n="71"/>men sub hoc competentius collata. &amp; illa supra de spons. 
+      <lb ed="#C" n="72"/>praesentia. Item hic specialiter tractat, &amp; solvit quis contri 
+      <lb ed="#C" n="73"/>ctus firmior sit primus, vel secundus. &amp; per hoc differt 
+      <lb ed="#C" n="74"/>tit. infra de eo qui dux. in mat. quam pol per adul quia cum pe 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0592.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="75"/>hunc doceamur primum contractum firmiorem fore se 
+      <lb ed="#C" n="76"/>cundo, ambobus sponsis viventibus ibi specialiter quaeri 
+      <lb ed="#C" n="77"/>tur, &amp; instruimur, utrum secundus contractus possit e¬ 
+      <lb ed="#C" n="78"/>post facto soluto post mortem, prior vinculo confirmari 
+      <lb ed="#C" n="79"/>qualiter decret infra eo. accepisti debuisset sub illo titu me 
+      <lb ed="#C" n="80"/>lius collocari. Item quia &amp; ibi addit machinatione. Iten 
+      <lb ed="#C" n="81"/>loquitur de adulterio commisso maritali affectu: &amp; per 
+      <lb ed="#C" n="82"/>hoc differt ab illo inf. de adulie ubi tractat de adulterio con 
+      <lb ed="#C" n="83"/>misso non maritali affectu. Potest etiam sic continuari 
+      <lb ed="#C" n="84"/>Tractatum est supra de duabus speciebus sponsaliorum 
+      <lb ed="#C" n="85"/>scilicet de manifesta &amp; clandestina: nunc autem tractar 
+      <lb ed="#C" n="86"/>intendit de duabus speciebus, manifeste &amp; successive con 
+      <lb ed="#C" n="87"/>tractis: ut cum duo diversis temporib. contrahant, cum ead 
+      <lb ed="#C" n="88"/>unus de futuro, &amp; alius de praesenti: &amp; ideo dicit de spon 
+      <lb ed="#C" n="89"/>sa duorum. idem intellige de sponso duarum, si contraxe 
+      <lb ed="#C" n="90"/>rit quis cum una de praesenti, cum alia postea per verba di 
+      <lb ed="#C" n="91"/>futuro: vel econtra: unde sicut intitulatur de sponsa duo 
+      <lb ed="#C" n="92"/>rum, sic posset intitulari de sponso duarum. Videamus er 
+      <lb ed="#C" n="93"/>go quot modis bina sponsalia contrahuntur. Quae quibu 
+      <lb ed="#C" n="94"/>praejudicent. An liceat habere bina sponsalia. Quam poe 
+      <lb ed="#C" n="95"/>nam patiantur bina sponsalia contrahentes 
+    </p>
+            <p xml:id="nbht7y-d1e1484-d1e217">
+               <lb ed="#C" n="96"/>Quot modis bina sponsalia contrahantur Et qui¬ 
+      <lb ed="#C" n="97"/>dem contrahuntur multis modis, u 
+      <lb ed="#C" n="98"/>notat. supra de sponsal. Squot sunt species. &amp; §. qualiter contra 
+      <lb ed="#C" n="99"/>hantur: sed hic de duobus tantum loquitur: quia aut con 
+      <lb ed="#C" n="100"/>trahuntur, fide pactionis interveniente: puta per verba di 
+      <lb ed="#C" n="101"/>futuro: aut fide consensus scilicet de praesenti tempore 
+      <lb ed="#C" n="102"/>hinc inde concessa, &amp; mutuo suscepta. * Est ergo fides 
+      <lb ed="#C" n="103"/>pactionis, quando fidem alicui mulieri do, quod eam du 
+      <lb ed="#C" n="104"/>cam in uxorem, quae aliquando transit in fidem consen 
+      <lb ed="#C" n="105"/>sus, scilicet carnali copula subsequente, ut infra eod. ca. 1.5 
+      <lb ed="#C" n="106"/>anico. ideo remotis omnibus aliis expositionibus, sic ex 
+      <lb ed="#C" n="107"/>pone, quod ibi dicit, quod eam duceret. accipe vel infr¬ 
+      <lb ed="#C" n="108"/>positum. &amp; dic vel pro, &amp;, si permiserit mulier eum: scili 
+      <lb ed="#C" n="109"/>cet qui sibi dedit fidem, quod eam duceret, rem scil. carna 
+      <lb ed="#C" n="110"/>lem copulam secum habere, subaudi, haec res, sive carnalis 
+      <lb ed="#C" n="111"/>copula, habetur etiam pro consensu: id est, aequipolle 
+      <lb ed="#C" n="112"/>fidei consensus de praesenti, quasi dicat, haec carnalis co 
+      <lb ed="#C" n="113"/>pula matrimonium praesumptum inducit: &amp; hoc est quoc 
+      <lb ed="#C" n="114"/>exponit Glo. 9. supra de sponsalibus. is qui fidem. quae alias su 
+      <lb ed="#C" n="115"/>perflua fuisset: nisi esset glo. istius verbi: verba autem, qua 
+      <lb ed="#C" n="116"/>intervenire debent in utraque fide, notat supra de sponsali 
+      <lb ed="#C" n="117"/>bus. §. qualiter &amp; de matrimonio. §. qualiter: &amp; legitur infr¬ 
+      <lb ed="#C" n="118"/>eodem licet 
+    </p>
+            <p xml:id="nbht7y-d1e1484-d1e269">
+               <lb ed="#C" n="119"/>Quae quibus praejudicent. Et quidem aut utra¬ 
+      <lb ed="#C" n="120"/>que sunt de futuro, aut utraque sun 
+      <lb ed="#C" n="121"/>de praesenti. Aut prima de praesenti, &amp; secunda de futuro 
+      <lb ed="#C" n="122"/>Aut prima de futuro, &amp; secunda de praesenti: si utraque 
+      <lb ed="#C" n="123"/>sunt de futuro, priora praejudicant posterioribus, si ta 
+      <lb ed="#C" n="124"/>men in utrisque fides vel juramentum intervenerit, qui¬ 
+      <lb ed="#C" n="125"/>semper prius juramentum servandum est, ut notat. supr. 
+      <lb ed="#C" n="126"/>de jurejuran. §. quot comites. versicu. item si duo juramenta 
+      <lb ed="#C" n="127"/>quod si in altero tantum fides data fuit, vel juramentum 
+      <lb ed="#C" n="128"/>illud alteri praejudicat quodcunque sit illud, sive prius, si 
+      <lb ed="#C" n="129"/>ve posterius, ut supra de sponsalib. sicut secundum quos 
+      <lb ed="#C" n="130"/>dam: tu dic ut notatur. supra de sponsalibus §. qualiter. versi 
+      <lb ed="#C" n="131"/>item quinto &amp; sequent. &amp; infra eod. versic. aut primode futuro 
+      <lb ed="#C" n="132"/>&amp; supra de sponsal. sub rubrica de matrimoniis. §. sin sub §. u 
+      <lb ed="#C" n="133"/>autem. versic. praesumptorum. Aut utraque de praesenti, 8 
+      <lb ed="#C" n="134"/>in casu isto quocunque casu interveniente, priora prae 
+      <lb ed="#C" n="135"/>judicant posterioribus: quamvis secunda jurata fuerint 
+      <lb ed="#C" n="136"/>vel carnali compula roborata, non obstante responsione A 
+      <lb ed="#C" n="137"/>postolicorum contraria, ut infra eo. licet. vel consuetudine 
+      <lb ed="#C" n="138"/>ut infra eodem capit. ulti &amp; dixi supra de matrimoniis. §. qua 
+      <lb ed="#C" n="139"/>liter impediatur versicul. ligamen. sed videtur, quod si secun 
+      <lb ed="#C" n="140"/>da uxor primo sit cognita, prior sit in jure, quam prima 
+      <lb ed="#C" n="141"/>sicut consuetudo Mutinensis tenebat, ut infra cap sin. cun 
+      <lb ed="#C" n="142"/>enim matrimonium solo consensu contrahatur, ut ibi 
+      <lb ed="#C" n="143"/>dem, debet esse potior illa, cui potius traditur possessio cor 
+      <lb ed="#C" n="144"/>poralis, sic. n. est in emptione &amp; venditione: ut C. de rei ven 
+      <lb ed="#C" n="145"/>quoties in pignore, ut ff. qui po. in pi hab potior. hi tamen con 
+      <lb ed="#C" n="146"/>tractus solo consensu perficiuntur, ut Instit. de obl. §. ex con 
+      <lb ed="#C" n="147"/>sensu. &amp; ff de pign actio. l.i. de pign. contrahitur. &amp; l. creditor. §. 
+      <lb ed="#C" n="148"/>sed de similibus ad similia procedendum est. ut supra dere 
+      <lb ed="#C" n="149"/>script. mter caeteras. &amp; ff. de legi. non possunt. dicunt docto 
+      <lb ed="#C" n="150"/>res, non est ita, sed hoc bene intellexeram. Unde quaero 
+      <lb ed="#C" n="151"/>quae sit ratio, quia si ratio diversitatis reddinon potest 
+      <lb ed="#C" n="152"/>idem jus statuendum est. ut C. de libe praete. vel exhaere. I 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0593.xml-->
+      <pb ed="#C" n="576"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>in si &amp; infra de consang &amp; assi. tua nos in sine. diciplex, quod s 
+      <lb ed="#C" n="2"/>vor liberorum &amp; constitutionum imperialium hoc faci 
+      <lb ed="#C" n="3"/>ut C. de divor. &amp; repu. consensu. sed haec ratio nulla est, quia 
+      <lb ed="#C" n="4"/>pulli liberi supersunt, habet locum quod dixi. Item secun 
+      <lb ed="#C" n="5"/>da ratio etiam in aliis obligationibus adaptari valet. erg 
+      <lb ed="#C" n="6"/>non est favor constitutionum Imperialium, nec est rec 
+      <lb ed="#C" n="7"/>ditio rationis, sed potius voluntatis. Quae est ergo ratio 
+      <lb ed="#C" n="8"/>Respondeo si qua ratio reddi potest, forte haec est, qui 
+      <lb ed="#C" n="9"/>consensus matrimonii, in quo matrimonium contrahi 
+      <lb ed="#C" n="10"/>tur, spiritualis sive naturalis est, &amp; de jure naturali rati¬ 
+      <lb ed="#C" n="11"/>nali &amp; a Domino constitutus, ut notatur. sup. de sponsa su 
+      <lb ed="#C" n="12"/>rubricella, de matrimo. §. I. versic. quod autem. &amp; §. ubi. &amp; ide 
+      <lb ed="#C" n="13"/>naturalis. 5. distinct §. I. sed consensut, quo emptio contrahi 
+      <lb ed="#C" n="14"/>tur, juris gentium est, &amp; civilis, &amp; temporalis, &amp; ab hom 
+      <lb ed="#C" n="15"/>nibus constitutus, &amp; contra jus naturale, secundum quo 
+      <lb ed="#C" n="16"/>omnia sunt communia, ut 8. distinct quo jure, &amp; Instit. ac ji 
+      <lb ed="#C" n="17"/>re nat gent &amp; civi. §. jus autem gentium, &amp; etiam haec proban 
+      <lb ed="#C" n="18"/>tur. dist. i. jus naturale &amp;c jus gentium. Consensus ergo mi¬ 
+      <lb ed="#C" n="19"/>trimonialis semel contractus immutabilis &amp; perpetuu 
+      <lb ed="#C" n="20"/>remanet, nam &amp; author immutabilis est, &amp; aeternus, natu 
+      <lb ed="#C" n="21"/>ralia immutabilia permanent, nec eget consensus iste tr¬ 
+      <lb ed="#C" n="22"/>ditionis adminiculo corporalis. nam &amp; spiritualia magi 
+      <lb ed="#C" n="23"/>consistunt in bona voluntate, &amp; intellectu animi, quam i 
+      <lb ed="#C" n="24"/>facto, seu apprehensione corporali, ut 22 quaest. 5. perjurar. 
+      <lb ed="#C" n="25"/>econtra vero consensus emptionales, ut ita loquar, mut 
+      <lb ed="#C" n="26"/>bilis &amp; momentaneus permanet, nam &amp; author suus v 
+      <lb ed="#C" n="27"/>riabilis &amp; mutabilis est: &amp; humana mutabilia, unde &amp; d 
+      <lb ed="#C" n="28"/>citur cum omnis status noster suo perpetuo motu cons 
+      <lb ed="#C" n="29"/>stit. quid enim erit stabile inter homines, &amp; ita immobile 
+      <lb ed="#C" n="30"/>ut nullam patiatur immutationem, in auih. de non alien. au 
+      <lb ed="#C" n="31"/>permut. reb. ec. I. §. ut autem lex. col. 2. Item temporaliam¬ 
+      <lb ed="#C" n="32"/>gis consistunt in facto &amp; apprehensione, quam bona vt 
+      <lb ed="#C" n="33"/>luntate, &amp; intellectu: econtra vero in spiritualibus obser 
+      <lb ed="#C" n="34"/>vatur. i5.qui. ca sin. &amp; ideo in matrimonio magis operatu 
+      <lb ed="#C" n="35"/>consensus, tanquam firmior, &amp; traditio minus, tanquan 
+      <lb ed="#C" n="36"/>debilior, in emptione autem magis operatur traditio, tar 
+      <lb ed="#C" n="37"/>quam firmior, &amp; consensus minus, tanquam debilior. ci 
+      <lb ed="#C" n="38"/>probatur haec supra de transla. episcopi inter corporalia, &amp; a 
+      <lb ed="#C" n="39"/>majoritate &amp; obed solitae. &amp; C. de veteri jure enucle. tanta. § se 
+      <lb ed="#C" n="40"/>quia divinae. &amp; Instit. de jure natur. gent. &amp; civi. §. sed natur¬ 
+      <lb ed="#C" n="41"/>lia &amp; 5. distinct §. 1. &amp; S. distin §. &amp;S. dignitatem. Quae est ra 
+      <lb ed="#C" n="42"/>tio quod matrimonium carnale solvit sponsalia carnali 
+      <lb ed="#C" n="43"/>praecedentia, quamvis jurata supra de sponsal. sicut ex literi 
+      <lb ed="#C" n="44"/>§. 1. sed spirituale matrimonium contractum non solun 
+      <lb ed="#C" n="45"/>solvit sponsalia spiritualia praecedentia, imo nec valet, u 
+      <lb ed="#C" n="46"/>supra de electio, cap consideravimiu, &amp; cap. auditis. &amp; cap. cun 
+      <lb ed="#C" n="47"/>unter canonicos. ad finem. unde &amp; primo repraesentatus re 
+      <lb ed="#C" n="48"/>movet institutum secundo. supra de sententia &amp; re jud ca 
+      <lb ed="#C" n="49"/>cum Bertoldus. ad finem. cum spiritualia fortiora sint, quan 
+      <lb ed="#C" n="50"/>carnalia. supra de transla. episcopi. inter corporalia dici potes 
+      <lb ed="#C" n="51"/>quod matrimonium spirituale, quo quis magis ligaturv 
+      <lb ed="#C" n="52"/>ni ecclesiae, vel uni dignitati, quam alii ex constitution 
+      <lb ed="#C" n="53"/>ecclesiae pendet. 13. quaestio. I. ecclesias. supra de his quae fium 
+      <lb ed="#C" n="54"/>praela sine consensu Cap pastoralis. sed matrimouium carnal 
+      <lb ed="#C" n="55"/>ex const tutione divina, ut patet ex praemissis. Potest ig 
+      <lb ed="#C" n="56"/>tur in primo Papa constituere, quicquid placet, non si 
+      <lb ed="#C" n="57"/>in secundo ad quod facit quod notatur supra de electio. 
+      <lb ed="#C" n="58"/>utrum mutari super verbo, copulatur. versicul. quare ergo solv 
+      <lb ed="#C" n="59"/>tur matrimonium spirituale. &amp; supra de transla. episcop. §. ci 
+      <lb ed="#C" n="60"/>jus authoritate, ut patet ex praemissis, &amp; praecedentibu 
+      <lb ed="#C" n="61"/>non enim rescinditur tantum sacramentum, sicut dici 
+      <lb ed="#C" n="62"/>August inf. eod ca1. ad idem supra de conrer conjug. ex part 
+      <lb ed="#C" n="63"/>2 nosautem &amp; in his quae notatur. supra de conver. conjug. 
+      <lb ed="#C" n="64"/>S. sina versi. sed quare magis potest. &amp; sequentib. &amp; forte ad cor 
+      <lb ed="#C" n="65"/>stitutionem illam, quae vult, quod electione prima, cui ei 
+      <lb ed="#C" n="66"/>iam adhuc non consentit electus electione pendente, no¬ 
+      <lb ed="#C" n="67"/>fiat alia secunda, &amp; si fiat secunda, cui electus secundo e 
+      <lb ed="#C" n="68"/>iam consenserit, ut sic per mutuum consensum videatu 
+      <lb ed="#C" n="69"/>jam contractum matrimonium, inter electum &amp; ecclesi. 
+      <lb ed="#C" n="70"/>non valeat, licet secus sit in carnali facienda, mutus est for 
+      <lb ed="#C" n="71"/>te princeps ad ostendendum, quod licet nemini liceat sit 
+      <lb ed="#C" n="72"/>dicere jus, minus tamen licet homini spirituali, id est. cle 
+      <lb ed="#C" n="73"/>rico, quam carnali, id est laico ad hoc supra de elec bonae mi 
+      <lb ed="#C" n="74"/>moriae. SCre. inde est, quod effectus matrimonii spiritua 
+      <lb ed="#C" n="75"/>lis totus dependet ab authoritate judicis, &amp; juris positiv 
+      <lb ed="#C" n="76"/>ne quis scilicet authoritate propria se ingerat sup de ele 
+      <lb ed="#C" n="77"/>quatiter &amp;e quisquis necnon confirmatus administret suj 
+      <lb ed="#C" n="78"/>ac preb cum jeon dudum, &amp; de tranus la. c.i nec lite pendente se in 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0593.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>trudat supra de conces, praeb post electionem § i ibi &amp; quod inst 
+      <lb ed="#C" n="80"/>tutione facta, &amp; c. de const. ecclesia S.Mariae. &amp; cacum M. Ferra 
+      <lb ed="#C" n="81"/>sin effectus autem matrimonii carnalis a jure naturali? 
+      <lb ed="#C" n="82"/>rationali dependet, quo ad vinculum, &amp; in solo facto o 
+      <lb ed="#C" n="83"/>ligationis animi consistit, quare quilibet potest se inger¬ 
+      <lb ed="#C" n="84"/>re, &amp; solo consensu libero firmiter se ligare. supr. de spon 
+      <lb ed="#C" n="85"/>cum locum. nisi ex causa interdicatur alicui. supra de spor 
+      <lb ed="#C" n="86"/>cum apud. ideoque tenet etiam si litependente fiat. suprad 
+      <lb ed="#C" n="87"/>spon. cum Apostolica, quamvis poenitentia imponatur, qui¬ 
+      <lb ed="#C" n="88"/>sine licentia vel clandestine contractum est, ut notat supr 
+      <lb ed="#C" n="89"/>de cland desponsa &amp; infra de matrimonio contract. contra mici 
+      <lb ed="#C" n="90"/>eccles non contradicunt his ea, quae praemissa sunt in prae 
+      <lb ed="#C" n="91"/>cedenti versi. ibi, quae est ergo, &amp;c. nam matrimonium vi 
+      <lb ed="#C" n="92"/>ri &amp; mulieris carnale, &amp; spirituale potest dici, carnale re 
+      <lb ed="#C" n="93"/>spectu matrimonii ecclesiastici &amp; conjunctionis corpo 
+      <lb ed="#C" n="94"/>rum, ut in hoc versicul. spirituale respectu contractuun 
+      <lb ed="#C" n="95"/>rerum, &amp; conjunctionis animorum: ut in praecedenti 
+      <lb ed="#C" n="96"/>Item ideo electio prima fortior est regulariter, quam se 
+      <lb ed="#C" n="97"/>cunda, quia spiritualis homo non debet contra verbum 
+      <lb ed="#C" n="98"/>suum aliquo modo venire: ut notatur sup. de pactS. quiss 
+      <lb ed="#C" n="99"/>ffectus, &amp; ex hac ratione procedit quia primo oblatus 
+      <lb ed="#C" n="100"/>patrono spirituali seu ecclesiastico, potior est, quam pri 
+      <lb ed="#C" n="101"/>mo receptus, contra vero servatur in patrono temporali 
+      <lb ed="#C" n="102"/>seu seculari, ut notat. supr. de jure patro. §. in quibus. ver. inpo 
+      <lb ed="#C" n="103"/>nitentia, &amp; junge quod not supra de conpersio conjug. §. 2. ver. 
+      <lb ed="#C" n="104"/>sed quare magis. &amp; sequentib. Aut prima de praesenti, &amp; se 
+      <lb ed="#C" n="105"/>cunda de futuro, &amp; hic multo fortius, quam in superior 
+      <lb ed="#C" n="106"/>debent priora posterioribus praejudicium generare: qui¬ 
+      <lb ed="#C" n="107"/>si id, de quo magis, videturinesse: non inest, nec id de qu 
+      <lb ed="#C" n="108"/>minus ut ff de servis expor. cui pono. infra de sentent. excon mi 
+      <lb ed="#C" n="109"/>cum illorum. Aut prima de futuro, &amp; secunda de praesenti 
+      <lb ed="#C" n="110"/>&amp; tunc posteriora tanquam firmiora praejudicant pri¬ 
+      <lb ed="#C" n="111"/>ribus nisi antequam secunda contracta forent, prima pra 
+      <lb ed="#C" n="112"/>sumpta sint per carnis copulam, vel traditionem, vel la 
+      <lb ed="#C" n="113"/>psum temporis, quod dic, ut notatur. supra de sponsa, subru 
+      <lb ed="#C" n="114"/>brica de matrimoniis § ult sub §. ut autem. versicul praesumpto 
+      <lb ed="#C" n="115"/>tamen poenitentia agenda est de fide mentita infra eod ci 
+      <lb ed="#C" n="116"/>sup de spon si inter. &amp; hoc verum, quando priora legitim 
+      <lb ed="#C" n="117"/>fuerunt, scilicet quod semper praejudicent posterioribu 
+      <lb ed="#C" n="118"/>alias semper posteriora firma manerent, quamvis contr¬ 
+      <lb ed="#C" n="119"/>interdictum ecclesiae contracta, ut supra ae spons. cum Ap¬ 
+      <lb ed="#C" n="120"/>stolica &amp; dicam infra de matrimo. contracto contra interdictur 
+      <lb ed="#C" n="121"/>ecclesiae. §. quid juris. ver si vero eam. Item hoc intellige, quan 
+      <lb ed="#C" n="122"/>do utraque publice contracta sunt, secus si clam. ibi enin 
+      <lb ed="#C" n="123"/>aliquando legitima illegitimis praeponuntur, ut not, supr 
+      <lb ed="#C" n="124"/>eo. § quare. &amp; §. utrum. Item hoc intelligas, quando appare 
+      <lb ed="#C" n="125"/>quae sunt priora, quae posteriora: secus, si dubitetur. quo¬ 
+      <lb ed="#C" n="126"/>dic, ut notr sup. de testi. § quae diversitates, sub §. in contrarietat 
+      <lb ed="#C" n="127"/>bus. ver. quid si duo petant eandem uxoren 
+    </p>
+            <p xml:id="nbht7y-d1e1484-d1e631">
+               <lb ed="#C" n="128"/>An liceat habere bina conjugia. Nequaquam: hoc 
+      <lb ed="#C" n="129"/>enim impedimentum semper validum fuit 
+      <lb ed="#C" n="130"/>etiam antequam aliqua constitutione ecclesiae prohibe 
+      <lb ed="#C" n="131"/>retur: si quis enim vivente legitima, cum alia contrahai 
+      <lb ed="#C" n="132"/>adulterium committit, sicut Lamech, ut 36 qu. 2. quomod 
+      <lb ed="#C" n="133"/>virginibus. quod dic, ut not. supra de matr. §. qualiter mpedia 
+      <lb ed="#C" n="134"/>tur ver ligamen. Et hoc adeo verum est, quod quamvis vi 
+      <lb ed="#C" n="135"/>fuerit in exercitum contra Sarracenos, vel in regionem 
+      <lb ed="#C" n="136"/>longinquam, quamvis nesciatur utrum sit vivus, vel mor 
+      <lb ed="#C" n="137"/>tuus, quamvis uxorjuvencula stimulis carnis resistere ne 
+      <lb ed="#C" n="138"/>queat, tamen ad secunda vota non transibit, quousqui 
+      <lb ed="#C" n="139"/>certum nuncium receperit a de morte mariti, ut supra de 
+      <lb ed="#C" n="140"/>spon. in praesentia. * Dicetur autem nuncius is, sub quo 
+      <lb ed="#C" n="141"/>militabat, vel socius suus bonae famae, &amp; honestus, qui b¬ 
+      <lb ed="#C" n="142"/>ne noverit mortem ejus: si enim talis coram episcopo lo 
+      <lb ed="#C" n="143"/>ci jurejurando ipsum in veritate mortuum fore deposue 
+      <lb ed="#C" n="144"/>rit, lapso anno, secundum legem incontinenti secundun 
+      <lb ed="#C" n="145"/>canones, nubat in Domino. Si praeter hoc nupserit, tam 
+      <lb ed="#C" n="146"/>psa, quam is cui secundo jungitur, velut adulteri puniur 
+      <lb ed="#C" n="147"/>tur: quod hodie secundum canones intelligendum est, si e¬ 
+      <lb ed="#C" n="148"/>quo certificari sunt de vita prioris, simul remanserit. u 
+      <lb ed="#C" n="149"/>patet in his quae not. infra eod. vers. verum si primum, &amp; sequ 
+      <lb ed="#C" n="150"/>Sed si dictus nuncius deferaverit illi, qui mortuum mentitu 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="151"/>ADDITIO 
+      <lb ed="#C" n="152"/>a Quousque certum nuncium receperit.) Adde rat, in od. dem¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="153"/>nus. de secund. nut--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0594.xml-->
+      <pb ed="#C" n="577"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>est, in 10. lib. auri tenebitur obnoxius. ut C. de divort. &amp; repi 
+      <lb ed="#C" n="2"/>uxor. in authentic. hodie, quantiscunque annis, &amp; in authentic. u 
+      <lb ed="#C" n="3"/>liceat inatri &amp; aviae, § quod autem, collatio. 8. Non ergo ri 
+      <lb ed="#C" n="4"/>quiritur probatio, sed verisimilis praesumptio: ut supra u 
+      <lb ed="#C" n="5"/>lit non contest quoniam, §si rero alter, vel dic, quod refert, u 
+      <lb ed="#C" n="6"/>trum praesens velit matrimonium accusare, &amp; canonicun 
+      <lb ed="#C" n="7"/>probare impedimentum, &amp; tunc sufficit verisimilis praesum 
+      <lb ed="#C" n="8"/>ptio. puta fama communis, sine testibus, &amp; sic loquitu 
+      <lb ed="#C" n="9"/>proximus, §. vel velit contrahere simpliciter, contra m¬ 
+      <lb ed="#C" n="10"/>trimonium nihil opponens, &amp; tunc requiritur probatio cer¬ 
+      <lb ed="#C" n="11"/>ti nuncii coram episcopo facta, supra de spon. in praesentia 
+      <lb ed="#C" n="12"/>sed quod prius dixi, verius est, nam &amp; unicus testis non pro 
+      <lb ed="#C" n="13"/>bationem, sed praesumptionem inducit, ut notat. supra d 
+      <lb ed="#C" n="14"/>jurejur sub S nunc redeundum, &amp; Squando sit deferendum, ver 
+      <lb ed="#C" n="15"/>quod si obscura. Verum si contigerit primum venire, sta 
+      <lb ed="#C" n="16"/>tim debet recedere a secundo, &amp; redire ad primum, quo¬ 
+      <lb ed="#C" n="17"/>si non facit, adultera judicatur, ut 34 quaestio2cum per bell 
+      <lb ed="#C" n="18"/>cam, &amp; capit. cum in captivitate, &amp;c si virgo. Quid si non ser 
+      <lb ed="#C" n="19"/>vavit hanc solennitatem, sed nupsit, licet hoc facere non de 
+      <lb ed="#C" n="20"/>beret, cum fama communis esset in civitate, quod mortu 
+      <lb ed="#C" n="21"/>us erat, si ipsa procuravit rumorem, adultera est, ut ff. de¬ 
+      <lb ed="#C" n="22"/>dulter miles, § mulier, alias videtur excusari: nam etsi in di 
+      <lb ed="#C" n="23"/>bio nupserit, quamvis hoc facere non debuerit, licet debi 
+      <lb ed="#C" n="24"/>tum non possit exigere, exacta tamen reddet sine metu¬ 
+      <lb ed="#C" n="25"/>dulterii, sed quam cito de vita certificabitur: debet relir 
+      <lb ed="#C" n="26"/>quere adulterinos amplexus: ut infra de secundis nuptiis, di 
+      <lb ed="#C" n="27"/>minus ac redemptor, certificata autem de morte, nubat in 
+      <lb ed="#C" n="28"/>domino, ut infra de secundis nuptiis super illa, &amp; secundun 
+      <lb ed="#C" n="29"/>hoc intellige, quod notat. supra eodem versicul. si praeter ho¬ 
+      <lb ed="#C" n="30"/>Secundum legem superiorem, C. dedivort. uxor tenebatu 
+      <lb ed="#C" n="31"/>expectare per quadriennium, secundum leg. ff. vereris, pe 
+      <lb ed="#C" n="32"/>quinquennium, uiff de divort. uxores. Sed hodie quantis 
+      <lb ed="#C" n="33"/>cunque annis, &amp;c. ut supra. Quid si absente altero sponsi 
+      <lb ed="#C" n="34"/>matrimonium accusetur. Qualiter debeat procedi, vid 
+      <lb ed="#C" n="35"/>supra ui lit. non contestat. versicul. Item ubi agitur, &amp; versicul. s. 
+      <lb ed="#C" n="36"/>quens.
+    </p>
+            <p xml:id="nbht7y-d1e1484-d1e770">
+               <lb ed="#C" n="37"/>Quam poenam patiantur bina sponsali 
+      <lb ed="#C" n="38"/>contrahentes. In praece 
+      <lb ed="#C" n="39"/>denti casu, prout dist. aliquando nullam, aliquado auten 
+      <lb ed="#C" n="40"/>bigamiam, &amp; infamiam contrahunt ag supra de bigamis, nu 
+      <lb ed="#C" n="41"/>per, qui enim nomine suo, non jussu ejus in cujus potestat 
+      <lb ed="#C" n="42"/>est, vel ejus nomine, quanquam ne in potestate habet bin 
+      <lb ed="#C" n="43"/>sponsalia, vel binas nuptias contraxerit, infamis efficitu 
+      <lb ed="#C" n="44"/>e c ipso jure, uiff. dehis qui no. infa. leg. . in sin &amp; leg quid ergo, 
+      <lb ed="#C" n="45"/>si quis, &amp; §quod ait. &amp; C. ad leg. Jul de adult leg eum, excusan 
+      <lb ed="#C" n="46"/>tur autem ab hac infamia fini, si jussu patris, in cujus sun 
+      <lb ed="#C" n="47"/>potestate, contrahant, &amp; patres notantur ut dicunt leges 
+      <lb ed="#C" n="48"/>quas posui supra in superiori summa, prope finem, in illi 
+      <lb ed="#C" n="49"/>versic. quid si pater. Sed hodie forte contrarium est, cun 
+      <lb ed="#C" n="50"/>filii non teneantur sequi voluntatem parentum in matrimo 
+      <lb ed="#C" n="51"/>niis contrahendis, ut dixi supra de sponsali, §qualiter, versicu 
+      <lb ed="#C" n="52"/>contrahuntur. Item qui scienter ducit desponsatam alte 
+      <lb ed="#C" n="53"/>ri, paenitentiam 7. annorum agere debet jejunando car 
+      <lb ed="#C" n="54"/>nam sic dictam, quia caret cibis id est quadragesimam, quo 
+      <lb ed="#C" n="55"/>libet anno in pane &amp; aqua, ut infra codem accepisti. Hoc t. 
+      <lb ed="#C" n="56"/>men notat. quod decret. infra posita, quae incipit. Tuafr¬ 
+      <lb ed="#C" n="57"/>ternitas infra de mat. cont. contra inter. ectle collocatur. Quid s 
+      <lb ed="#C" n="58"/>contraham sponsalia de futuro cum duab. sic dicens, Pro 
+      <lb ed="#C" n="59"/>mitto, vel juro, quod contraham cum altera ex vobis. Re 
+      <lb ed="#C" n="60"/>spondeo. in eo est electio, sicut notat. in simili quaest supr 
+      <lb ed="#C" n="61"/>tutul.i. §ultim versicul. quid si jurasti. Quid si ita dicam? Pro 
+      <lb ed="#C" n="62"/>mitto, vel juro, quod contraham cum utraque nihil ago, qui¬ 
+      <lb ed="#C" n="63"/>&amp; si contraherem non valeret, ut patet in his quae nota si 
+      <lb ed="#C" n="64"/>pra eodem §liceat, secundum Goffred. quid ergo si cum una ip 
+      <lb ed="#C" n="65"/>sarum, quib. sic juravit, contraxit, &amp; ea mortua, superste 
+      <lb ed="#C" n="66"/>instet, quod juramentum adimpleatur? potest dici, quo 
+      <lb ed="#C" n="67"/>non tenetur, quia quando hoc juravit, aut intellexit quo 
+      <lb ed="#C" n="68"/>eodem tempore vtranque duceret, sicut Goffred. intelligi 
+      <lb ed="#C" n="69"/>vt patet, infra eodem versicul. quid si altera, &amp; sic non tenuit 
+      <lb ed="#C" n="70"/>infra de divort gaudemus, aut diversis temporib. &amp; sic, si quam 
+      <lb ed="#C" n="71"/>do contraxit cum prima, intendebat juramentum serv¬ 
+      <lb ed="#C" n="72"/>re, primum matrimonium nullum fuit sacramento def 
+      <lb ed="#C" n="73"/>ciente, vt patet in his quae notat. supra de spon sub rubrica, d 
+      <lb ed="#C" n="74"/>matrimoniis, §I. versicul. individuam, &amp; Square, versic. sed nun 
+      <lb ed="#C" n="75"/>quid haec tria. Potest dici contra, per ea quae ibi notavi, se 
+      <lb ed="#C" n="76"/>cundum ea quae no. infra de eo qui duxit in matri. Quid si al 
+      <lb ed="#C" n="77"/>tera illarum apta est ad contrahendum, altera inepta? vide 
+      <lb ed="#C" n="78"/>tur, quod teneat id quodcum apta actum sit, non obstate 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0594.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>adjectioni ineptae ff.de reg jar. non solent. C. de donat. sancimus 
+      <lb ed="#C" n="80"/>de consecrat. distinctio. 4. si non sanctificatur, dicas contrarium 
+      <lb ed="#C" n="81"/>qui sic contrahit, sicut superius est expressum, non in 
+      <lb ed="#C" n="82"/>intendit contrahere cum una, sed cum utraque, &amp; ideo in 
+      <lb ed="#C" n="83"/>tentio, seu voluntas, &amp; potestas ad invicem se impediunt 
+      <lb ed="#C" n="84"/>supra de offic. deleg. cum super abbatia, &amp; argument ff. de arb. P. 
+      <lb ed="#C" n="85"/>dius, secundum Goffred. contrarium est illud generale, s 
+      <lb ed="#C" n="86"/>non valet prout ago, valeat prout valere potest, sed 
+      <lb ed="#C" n="87"/>non est multum curandum, quia rarus est casus iste, ta 
+      <lb ed="#C" n="88"/>men est pro Goffred. argum. infra de conditio. appo, capitul 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="89"/>ADDITIONES 
+      <lb ed="#C" n="90"/>b Quam poenam patiantur contrahentes bina sponsalia. Vid. 
+    </p>
+    <p>
+      <lb ed="#C" n="91"/>gi singul in l&amp; calvitos in capis. de benedicto 32. quaestio.1. quan 
+      <lb ed="#C" n="92"/>alleg, sing. Lu. Rom in suis singularibus, in litera P. in versicu. po 
+      <lb ed="#C" n="93"/>na, &amp; per Abh. inc. cum haberet, in 2. not. de eo qui dux in ma qui 
+      <lb ed="#C" n="94"/>pol, per aduli. Abb. in cap. cum si generale, de faro competentin ia 
+      <lb ed="#C" n="95"/>e Infamis efficitur. J Adde tex. inc. nuper, de big. Abb. in c. requisi 
+    </p>
+    <p>
+      <lb ed="#C" n="96"/>vit, de spo, in Ieol. Abb. inc. accepisti, in 2. no.eo.tii.l.I.in fi ff. de in 
+      <lb ed="#C" n="97"/>fa&amp; l. I ff. de his qui no. ins.-->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

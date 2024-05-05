@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 6</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 6</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="391"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e943"><!-- nbht7y-l3t6 -->
+            <head xml:id="nbht7y-d1e943-Hd1e101">Titulus 6</head>
+            <head xml:id="nbht7y-d1e943-Hd1e103" type="question-title">De clerico aegrotante vel debilitato</head>
+            <p xml:id="nbht7y-d1e943-d1e106">
+               <lb ed="#C" n="136"/>De Clerico aegrotante, vel debilitato 
+      <lb ed="#C" n="137"/>Rubrica VI. 
+    </p>
+            <p xml:id="nbht7y-d1e943-d1e113">
+               <lb ed="#C" n="138"/>SUMMARIA. 
+      <lb ed="#C" n="139"/>1. Infirmitas sive morbus quid si¬ 
+      <lb ed="#C" n="140"/>Clericus an propter infirmitatem beneficium suum amitta¬ 
+    </p>
+            <p xml:id="nbht7y-d1e943-d1e122">
+               <lb ed="#C" n="141"/>SUpra exposuimus de praebendi 
+      <lb ed="#C" n="142"/>quas non de 
+      <lb ed="#C" n="143"/>bent habere regulariter hi, qui residentiam 
+      <lb ed="#C" n="144"/>non faciunt, ut not. supra decleric. non resid. &amp; 
+      <lb ed="#C" n="145"/>quia quidam infirmitate, vel debilitate impe 
+      <lb ed="#C" n="146"/>diti deservire non possunt, videamus quid juris de clerico 
+      <lb ed="#C" n="147"/>debilitato ministrate, &amp; quae sit differetia inter hunc titu 
+      <lb ed="#C" n="148"/>lum. &amp; illum, sup. de cor.vi. ibi no. dicamus autem hic. Quid si 
+      <lb ed="#C" n="149"/>infirmitas, sive morbus. Et an propter infirmitatem amitta 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0409.xml-->
+      <pb ed="#C" n="392"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>elericus beneficium: nam alia quae deficiunt, invenies ir 
+      <lb ed="#C" n="2"/>titulo de corpore vitiatis
+    </p>
+            <p xml:id="nbht7y-d1e943-d1e156">
+               <lb ed="#C" n="3"/>Quid sit infirmitas, iremorbus Apuds. 
+      <lb ed="#C" n="4"/>bi. sic diffinitus inven 
+      <lb ed="#C" n="5"/>tur, morbus est habitus cujusque corporis contra naturam 
+      <lb ed="#C" n="6"/>qui usum ejus ad id facit deteriorem; cujus causa natur 
+      <lb ed="#C" n="7"/>nobis ejus corporis sanitatem dedit: alias autem id in tot¬ 
+      <lb ed="#C" n="8"/>corpore accidit, vt febris, alias in parte, ut coecitas: balbu 
+      <lb ed="#C" n="9"/>autem magis vitiosus dicitur, quam morbosus, ff. deredh. ac 
+      <lb ed="#C" n="10"/>liS sed sciendum. Dicitur autem morbus sonticus, id est 
+      <lb ed="#C" n="11"/>damnosus, scilicet recidivus, qui incidit in hominem, pos 
+      <lb ed="#C" n="12"/>quam fanatus est, sontes enim nocentes dicuntur, ut f.d 
+      <lb ed="#C" n="13"/>redh actio. leg ultima, Si de verborum signific morb. Alibi dici 
+      <lb ed="#C" n="14"/>tur, quod morbus est temporalis corporis imbecillitati 
+      <lb ed="#C" n="15"/>vitium perpetuum, corporis impedimentum, veluti 
+      <lb ed="#C" n="16"/>quis luscus fit ff de veri signisi interstuprum, Sverum est mor 
+      <lb ed="#C" n="17"/>bum esse.
+    </p>
+            <p xml:id="nbht7y-d1e943-d1e191">
+               <lb ed="#C" n="18"/>Et an propter infirmitatem mitatcleri 
+      <lb ed="#C" n="19"/>cus? 
+      benefi<lb ed="#C" n="20" break="no"/>cium suum. Dist. utrum sit praelatus, &amp; is etiam propter k 
+      <lb ed="#C" n="21"/>pram non removetur, sed datur ei coadjutor, cui porti 
+      <lb ed="#C" n="22"/>competens redituum episcopatus assignatur, sic intelliga 
+      <lb ed="#C" n="23"/>infra eodem de rectoribus, notandum enim quod dicit de re 
+      <lb ed="#C" n="24"/>ctoribus, &amp; quamvis sacerdos rector possit vocari, ut suj 
+      <lb ed="#C" n="25"/>titi. cap. ultim &amp; de rescr. Rodulphus, hos tamen per excellen 
+      <lb ed="#C" n="26"/>tiam vocat hic rectores, cum sint loco Apostolorum, 2 
+      <lb ed="#C" n="27"/>distinct in novo, erit ergo praelatus judex sine exercitio, sic 
+      <lb ed="#C" n="28"/>ut &amp; si furiosus factus esset, utff. de jud judex, &amp; est specia 
+      <lb ed="#C" n="29"/>le in episcopis: &amp; quae sit ratio, statim dicam. An sit sacer 
+      <lb ed="#C" n="30"/>dos parochialis, vel minister inferior, &amp; talis propter le 
+      <lb ed="#C" n="31"/>pram removetur, infra eyden, tuanos, nam in parochiali si 
+      <lb ed="#C" n="32"/>cerdote loquitur, alias autem nunquam removetur; sec 
+      <lb ed="#C" n="33"/>datur coadjutor vel vicarius, ut notat. supra secundum Hus 
+      <lb ed="#C" n="34"/>&amp; Goffred. infra eodem versic. Hug) scripsit. Alii distinguunt 
+      <lb ed="#C" n="35"/>utrum morbus provenerit a natura, &amp; sic loquitur de re¬ 
+      <lb ed="#C" n="36"/>ctoribus. an divino judicio, &amp; sic loquitur, tua nos, cujus co 
+      <lb ed="#C" n="37"/>gnitionem, discretionem, &amp; determinationem physici 
+      <lb ed="#C" n="38"/>relinquo, &amp; potest esse divino judicio, quia cognovit mu 
+      <lb ed="#C" n="39"/>lierem immediate post leprosum. 7 quaestio 2. nuper. Hae 
+      <lb ed="#C" n="40"/>tamen solutio reprobatur, 7. quaestio i. cum percussio. Vinc 
+      <lb ed="#C" n="41"/>dixit. quod quamdiu potest quis in collegio remanere, n 
+      <lb ed="#C" n="42"/>removetur, sed ex quo non potest, removetur: sicut ju 
+      <lb ed="#C" n="43"/>dex mutatur, si non possit judicio operam dare, ff dejudi 
+      <lb ed="#C" n="44"/>si longius, unde exposuit in illa de rectoribus coadjutor, i¬ 
+      <lb ed="#C" n="45"/>est, successor, vel corrigitur per sequentem Laur. expo 
+      <lb ed="#C" n="46"/>suit in illa. tua. ab administrationis officio scil. quod est in 
+      <lb ed="#C" n="47"/>actu. Hugo scripsit, quod nunquam aliquis est vivo sul 
+      <lb ed="#C" n="48"/>rogandus, nisi eo remoto vel renunciante seu translato 
+      <lb ed="#C" n="49"/>etiam praetextu morbi, infra de conces praeb. c. i. 7. qu.i.non furi 
+      <lb ed="#C" n="50"/>i quaest. 2. in primis, quod placet Goffr. quia haec opinio, sic 
+      <lb ed="#C" n="51"/>ut dicit, confirmatur infra eo. c fi. &amp; 7.q. 1c12. &amp; 3. &amp; c. qual 
+      <lb ed="#C" n="52"/>ter, &amp;c. qua nivis triste. Et si quaeras, quid si servire non potes 
+      <lb ed="#C" n="53"/>Respon si est praelatus, dabatur ei coadjutor, infra eo. der 
+      <lb ed="#C" n="54"/>ctoribus &amp; c fisi vero fuerit inferior, sive simplex, dabiture 
+      <lb ed="#C" n="55"/>vicarius, secundum Gof. qui exponit illa decr tua, sicut Lau 
+      <lb ed="#C" n="56"/>scil. quod ibi removetur non a titulo, sed ab executione os 
+      <lb ed="#C" n="57"/>ficii, sive administrationis. T. not. idem excepto morbo le 
+      <lb ed="#C" n="58"/>prae, propter quem indistincte removetur, quicunque ipsum 
+      <lb ed="#C" n="59"/>incurrit, sive sit praelatus, sive alius, &amp; hoc comprobatur in 
+      <lb ed="#C" n="60"/>antiqua compilatione de conces praeb. &amp; eccl. non vac. ex tran 
+      <lb ed="#C" n="61"/>missa, quae hodie tanquam iniquitatem continens remot 
+      <lb ed="#C" n="62"/>est, secundum Gof. Bazianus distinguit; utrum esset curab 
+      <lb ed="#C" n="63"/>lis, &amp; sic loquitur de rectorib. vel incurabilis, &amp; sic intellig 
+      <lb ed="#C" n="64"/>tur, tua. Prior intellectus magis placet, &amp; ipsum magis aj 
+      <lb ed="#C" n="65"/>probo: quia ex textu elicitur. Baz reprobatur, inf.eodem e 
+      <lb ed="#C" n="66"/>parte, &amp; licet pro eo sit, arg. ff. de jud si longius, &amp; l. cum furio 
+      <lb ed="#C" n="67"/>sus. Sed quae est ratio, quod speciale sit in episcopis. quo¬ 
+      <lb ed="#C" n="68"/>propter lepram non removeantur, inferiores vero remo 
+      <lb ed="#C" n="69"/>veantur? haec, quia difficulter removetur episcopus, ut sut 
+      <lb ed="#C" n="70"/>de transl. episquanto. &amp;c. licet, quamvis.n.Metrop. &amp; episco 
+      <lb ed="#C" n="71"/>di cognoscere possunt de crimine, super quo accusatur epi 
+      <lb ed="#C" n="72"/>scopus, non tamen possunt episcopu deponere sine licenti 
+      <lb ed="#C" n="73"/>Papae. ut 3q. 6 qnamvis, &amp;c. dudum, timendum enim est ni¬ 
+      <lb ed="#C" n="74"/>concussis columnis corruat aedificium, ut inf de ac qualiter 2 
+      <lb ed="#C" n="75"/>quaestiminores vero ex levioribus causis removentur, u 
+      <lb ed="#C" n="76"/>infra ende n qualiter, in fin. de fimo pertuas, in fin. s5 distict. si Er 
+      <lb ed="#C" n="77"/>angelica, verum propter alias infirmitates non sunt pri 
+      <lb ed="#C" n="78"/>vandibene ficiis, sed potius dandus est eis coadjutor, etian 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0409.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>si paralyticus sit is, de quo agitur ne terreantur volente 
+      <lb ed="#C" n="80"/>Deo militare, ut inf. eo cum percussio, &amp;c pe &amp; ult quia noc 
+      <lb ed="#C" n="81"/>addenda afflictio afflicto, ut ibidem, &amp; 7.qu.cum percusio: 
+      <lb ed="#C" n="82"/>lias persecutio, 3. qu. 9 judicas . dist. ad ejus vero ins de censi. licet 
+      <lb ed="#C" n="83"/>Idem est, si factus sit impotens, non ex culpa sua, inf eo. c. 
+      <lb ed="#C" n="84"/>secus, si culpa sua, &amp; secundum hoc intellige quod non sup 
+      <lb ed="#C" n="85"/>de corp. vit. per decr. sup. de aeta, &amp; qual. c.i. &amp; de elec. cum in cunctis 
+      <lb ed="#C" n="86"/>hoc sane. Sed abbas removetur, si inutilis sit, 18 q. 2. si quis al 
+      <lb ed="#C" n="87"/>bas. Alii dist inter morbum perpetuum &amp; tempor alem, se¬ 
+      <lb ed="#C" n="88"/>reprobatur, inf. eoc pe &amp; ult. servire n. intelliguntur nobis 
+      <lb ed="#C" n="89"/>&amp;c. quod dicut no sup. de cle. non resid § qualiter, rer. atem qu 
+      <lb ed="#C" n="90"/>m serritio Pape est, unum tamen non omitto, quod si cleri 
+      <lb ed="#C" n="91"/>cus leviter pateretur, vel haberet veterem quartanam qui 
+      <lb ed="#C" n="92"/>merito sperni posset, &amp; esset intentus circa propria nego 
+      <lb ed="#C" n="93"/>tia, nihil perciperet, nisi serviret, supradicta ergo non de f 
+      <lb ed="#C" n="94"/>ctitia infirmitate, sed de vera &amp; gravi intelliguntur, ut pro 
+      <lb ed="#C" n="95"/>baturff de re jud quarta, &amp; de redhaec. l. i.§ sed sciendum, in fin 
+      <lb ed="#C" n="96"/>Et jungendum est supra de corp. vit. quod clericus infirmu 
+      <lb ed="#C" n="97"/>officium suum potest exercere, nisi vexetur a daemonio 
+      <lb ed="#C" n="98"/>vel epileptico morbo, &amp; caderet assidue cum amissione vo 
+      <lb ed="#C" n="99"/>cis confusae &amp; jactatione spumae, 7.q. uli per totum. Si vere 
+      <lb ed="#C" n="100"/>raro caderet, cum annua expectatione posset celebrare 
+      <lb ed="#C" n="101"/>33 dist communiter, ita tamen quod habeat vicini solaminis 
+      <lb ed="#C" n="102"/>adjutorem, 7 q. 1. illud
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

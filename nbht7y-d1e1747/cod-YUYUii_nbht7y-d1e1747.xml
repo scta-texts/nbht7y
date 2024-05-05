@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 6</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 6</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="674"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1747"><!-- nbht7y-l5t6 -->
+            <head xml:id="nbht7y-d1e1747-Hd1e101">Titulus 6</head>
+            <head xml:id="nbht7y-d1e1747-Hd1e103" type="question-title">De judaeis, sarracenis, et eorum servis</head>
+            <p xml:id="nbht7y-d1e1747-d1e106">
+               <lb ed="#C" n="31"/>De Judaeis, Sarracenis, &amp; eorum 
+      <lb ed="#C" n="32"/>servis. VI. Rub 
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e113">
+               <lb ed="#C" n="33"/>SUMMARIA 
+      <lb ed="#C" n="34"/>IIudaei qui dicantur. Et unde dicantur. 2. Et in quibus tolerentur 
+      <lb ed="#C" n="35"/>3. Et in quibus graventur, 
+      <lb ed="#C" n="36"/>4 Ecclesia an peccet, dum sinit Iudaeos ritus suos observar. 
+      <lb ed="#C" n="37"/>6 Blasphemus Christi an possit exercere vim potestatis in homine 
+      <lb ed="#C" n="38"/>Christiano. 
+      <lb ed="#C" n="39"/>7 ludaei an cogantur solvere decimas de terris suis, &amp; oblation 
+      <lb ed="#C" n="40"/>8 Poena, quae imponatur non servantibus privilegia Iudaeorum 
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e133">
+               <lb ed="#C" n="41"/>DE his qui Spiritum sanctum per 
+      simo<lb ed="#C" n="42" break="no"/>niam blasphemant, exposui 
+      <lb ed="#C" n="43"/>mus supra nunc dicamus de his, qui Deun 
+      <lb ed="#C" n="44"/>male colendo inhonorant: &amp; sic de Judaei: 
+      <lb ed="#C" n="45"/>&amp;c &amp; quia haec rubrica tripartita est: prim 
+      <lb ed="#C" n="46"/>dicamus de Judaeis, secundo de Sarracenis, tertio de servi 
+      <lb ed="#C" n="47"/>eorum videamus: Qui dicantur Judaei, Et unde dicantur 
+      <lb ed="#C" n="48"/>In quib is tolerentur, Et in quibus graventur, Quae poen¬ 
+      <lb ed="#C" n="49"/>imponatur ipsorum privilegia non servantibus 
+      <lb ed="#C" n="50"/>uit dicantur. Judaei. . Hi qui ad literam 
+      Mo<lb ed="#C" n="51" break="no"/>saicam legem tenent, id est, cir 
+      <lb ed="#C" n="52"/>cuncidendo: &amp; ad alia legalia ad literam faciendo, ide 
+      <lb ed="#C" n="53"/>hi qui nimis adhaerent literae, judaizare dicuntur: ut sup 
+      <lb ed="#C" n="54"/>de sac. unct. §. pen. quod Christiani facere non debent: ut 
+      <lb ed="#C" n="55"/>dit § 1. &amp; 6. dist. §. paen supr. de cele mis cum Marthae, §, caeterun 
+      <lb ed="#C" n="56"/>&amp; de consti translato 
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e171">
+               <lb ed="#C" n="57"/>Et unde dicantur. A nomine dignioribus trib. 
+      sci<lb ed="#C" n="58" break="no"/>licet a tribu Juda, quae inter alias bellico 
+      <lb ed="#C" n="59"/>sior extitit: &amp; in bellis primam aciem, &amp; Regni privilegiun 
+      <lb ed="#C" n="60"/>obtinuit, scilicet ut de ea sola rex crearetur: sicut ex trib¬ 
+      <lb ed="#C" n="61"/>Levi sacerdotes accipiebantur. Dicuntur etiam Hebrae¬ 
+      <lb ed="#C" n="62"/>ab Heber. cujus familia cultum tenuit unius Dei: caetero 
+      <lb ed="#C" n="63"/>idololatria foedat, secundum Da.
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e189">
+               <lb ed="#C" n="64"/>In quibus tolerentur. Et certe, ut habeant vetere 
+      <lb ed="#C" n="65"/>synagogas, &amp; eos reficiant secundun 
+      <lb ed="#C" n="66"/>pristinam formam. si corruerint, vel altius, non latius ref 
+      <lb ed="#C" n="67"/>ciant, non praeciosius: pro magno enim debent habere 
+      <lb ed="#C" n="68"/>quod in veteribus synagogis, &amp; suis observantiis tolerar 
+      <lb ed="#C" n="69"/>tur, ut inf. eod. Iudaei. &amp;c. consuluit, &amp; C.eo. I.ult §. illud, &amp; in 
+      <lb ed="#C" n="70"/>eam vetantur Christiani irruere, ut C. eo. in synagoga. sic no 
+      <lb ed="#C" n="71"/>quod aliud est reficere, aliud de novo facere, ut f. de ope ni 
+      <lb ed="#C" n="72"/>nun. l. §. opus novum, &amp; §. qui ad aedificium, &amp; de iti actuque pri 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0691.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="73"/>va. unde § reficere, est in contrarium, arg ff. de mor inferen.! 
+      <lb ed="#C" n="74"/>§. aedificare. Item permittitur eis matrimonia contraher 
+      <lb ed="#C" n="75"/>inter se. l. 1. Sed addit I. quod hoc facere debent secundun 
+      <lb ed="#C" n="76"/>legem Rom. non juxta ritus suos: sed cavere debent, ne 
+      <lb ed="#C" n="77"/>cum Christianis contrahant, ut C. eo. Inemo. &amp; l. nequis, se 
+      <lb ed="#C" n="78"/>dec. permittit, quod juxta ritum suum contrahant, ut sun 
+      <lb ed="#C" n="79"/>de consang. de infidelib. &amp; dixi in summa de divor. §. quot modi 
+      <lb ed="#C" n="80"/>ver. non solum, &amp; de consang §. usque ad quotum gradum, ver. si ve 
+      <lb ed="#C" n="81"/>ro inf. hos gradus Item permittitur eis agere, &amp; conveniria 
+      <lb ed="#C" n="82"/>pud judices nostros ordinarios, non apud seniores eorum 
+      <lb ed="#C" n="83"/>sed arbitrium possunt eligere etiam Judaeum, cujus sen 
+      <lb ed="#C" n="84"/>tentiam ordinarius exequetur, quod est mirabile, ut C. e¬ 
+      <lb ed="#C" n="85"/>Judaei Romano. Sed nec in sabbatis suis trahi debent ad ju 
+      <lb ed="#C" n="86"/>dicium, nec ipsi alios trahent, quia festivitates suas ab ei 
+      <lb ed="#C" n="87"/>permittimus celebrari. &amp; sibi laudabiles quas habuerint 
+      <lb ed="#C" n="88"/>attentius consuetudines conservantur, nec debent caedi 
+      <lb ed="#C" n="89"/>nec percuti, vel occidi, seu in suis festivitatibus perturbi 
+      <lb ed="#C" n="90"/>ri, nec pecunia, vel aliae res auferri sine judicio potestati 
+      <lb ed="#C" n="91"/>terrae, nec sepulchra eorum effodi, obtentu alicujus pecu 
+      <lb ed="#C" n="92"/>niae, ut C. eo. die sabbato, &amp; infr. eo sicut Iudaei, §.1. &amp; 2. Permitti 
+      <lb ed="#C" n="93"/>tur etiam eis sua, prout melius possunt, vel poterunt ven 
+      <lb ed="#C" n="94"/>dere, sicut Christiano, quia nullum est cuique sua commis 
+      <lb ed="#C" n="95"/>tere, ut C. de Iudae nemo exterus, nec debent Christiani in eo 
+      <lb ed="#C" n="96"/>saevire. &amp; si sceleribus teneantur, ideo enim judicialis vigo 
+      <lb ed="#C" n="97"/>in medio positus est, ne quisquam audeat sumere ultione 
+      <lb ed="#C" n="98"/>ut C eo. nullus. Quid ergo si judicialis vigor in medio posi 
+      <lb ed="#C" n="99"/>tus non sit? Dicit Plac vacare hic, argu. a contrario sensu 
+      <lb ed="#C" n="100"/>Sed Az. contra admittens, quod tunc possumus nobis di 
+      <lb ed="#C" n="101"/>cere jus in causa tuitionis, vel nostrum recuperandi, ve 
+      <lb ed="#C" n="102"/>nobis debitum, non ut ultio sumatur vulnerando, vel oc 
+      <lb ed="#C" n="103"/>cidendo. arg, sup de decu generali. lib. i0. &amp; in auth. ut judi. sin 
+      <lb ed="#C" n="104"/>quoquo suffra § si quis autem, col. 2. &amp; C. quando liceat sine judic 
+      <lb ed="#C" n="105"/>vindictam sumere I i ff. ad l. Aquil. itaque quemadinodum si quis 
+      <lb ed="#C" n="106"/>&amp; ad leg. Iul. de adul. marito. si ergo judex non sit in medio 
+      <lb ed="#C" n="107"/>ad arma &amp; rixas, poterit perveniri. nam dicitur, cur &amp; ar¬ 
+      <lb ed="#C" n="108"/>ma &amp; rixas, &amp;c. f. de ususr. aequissimum. &amp; parum est, juri 
+      <lb ed="#C" n="109"/>esse in civitate, &amp;c. ffdeorig jur. l. 2§. postoriginem nec refert 
+      <lb ed="#C" n="110"/>utrum judex non habeatur, vel inutilis habeatur. supra d 
+      <lb ed="#C" n="111"/>transla. epis. inter corporalia. §. sed neque &amp; ff. quod cu jusque univer 
+      <lb ed="#C" n="112"/>si. I.aff. qui satis cos quoties, quod dic, ut non sup de treu. &amp; pa 6 
+      <lb ed="#C" n="113"/>quid sit justum bellum &amp; sup de restit spol § quis spoliatus, sub s 
+      <lb ed="#C" n="114"/>intell gendum, &amp; ver seq &amp; sup. de senten &amp; re jud sub tubricad 
+      <lb ed="#C" n="115"/>sen §. quis sententiam debet, per fallit hoc forte, &amp; seque Licet pro 
+      <lb ed="#C" n="116"/>pria culpa Judaeos servituti subjecerit: ipsos tamen tole 
+      <lb ed="#C" n="117"/>rat pietas Christiana: sed ipsi ingrati pro gratia reddun¬ 
+      <lb ed="#C" n="118"/>contumeliam, pro familiaritate contemptum: impenden 
+      <lb ed="#C" n="119"/>tes nobis illam retributionem, quam juxta vulgare pro 
+      <lb ed="#C" n="120"/>verbium, Mus in pera: serpens in gremio: ignis in sinu suis 
+      <lb ed="#C" n="121"/>consueverunt hospitibus exhibere, 13. q. 2. his ita nam sunm 
+      <lb ed="#C" n="122"/>quidam, qui quod nephandum est dicere, nutrices Chri¬ 
+      <lb ed="#C" n="123"/>stianas habentes non permittunt lactare filios, cum cor 
+      <lb ed="#C" n="124"/>pus Christi sumpserunt, nisi primo triduum lac effuderint 
+      <lb ed="#C" n="125"/>in latrinam quasi intelligunt, quod corpus Christi incor 
+      <lb ed="#C" n="126"/>poretur, &amp; ad secessum descendat. Sed falsum est, ut d¬ 
+      <lb ed="#C" n="127"/>consec. dist. 2. trib gradibus. &amp;c credere. &amp; alia inaudita commit. 
+      <lb ed="#C" n="128"/>tunt, &amp; detestabilia, quae a fidelibus sunt minime toleran 
+      <lb ed="#C" n="129"/>da, ne si haec negligant, quae inducunt confusionem fidel 
+      <lb ed="#C" n="130"/>indignationem divinam incurrant: quia facientes &amp; con¬ 
+      <lb ed="#C" n="131"/>sentientes: &amp; sup. de off. dele. c.i. inf. de sent. excom. quanto. hae¬ 
+      <lb ed="#C" n="132"/>habentur inf. eod &amp; si Iudaeos resp 1. §. 1. Sed nonne pecca 
+      <lb ed="#C" n="133"/>ecclesia dum sinit Iudaeos ritus suos observare, ut sup. di¬ 
+      <lb ed="#C" n="134"/>ctum est? non: quia non approbat, sed permittit: quod aui¬ 
+      <lb ed="#C" n="135"/>tem permittimus, nolentes percipimus, id est, concedimus 
+      <lb ed="#C" n="136"/>quia malas hominum voluntates ad plenum prohibere non 
+      <lb ed="#C" n="137"/>possumus, 31. q.1. hac ratione. Item si ecclesia eos non tolera 
+      <lb ed="#C" n="138"/>ret, videretur eos ad fidem praecise velle cogere: quod fier 
+      <lb ed="#C" n="139"/>non debet. ut no. inf. eo §. seq. ver hanc autem
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e361">
+               <lb ed="#C" n="140"/>Et in quibus graventur Et cerre olim 
+      an<lb ed="#C" n="141" break="no"/>tequam 
+      crucifi<lb ed="#C" n="142" break="no"/>gerentur Dominum nostrum Jesum Christum, non grava 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="143"/>ADDITIONES 
+      <lb ed="#C" n="144"/>a Qui dicantur Iudaei.] Adde doct. in rub. eo. tii 
+      <lb ed="#C" n="145"/>b Veteres synagogas] Addec. Iudae, co.tii. &amp; in I.fin. C.eo. &amp; as 
+    </p>
+    <p>
+      <lb ed="#C" n="146"/>Iudaeipossint aedificare synagogas in terris noviter factis, si¬ 
+      <lb ed="#C" n="147"/>ne licentia Papae, &amp; an inferior ab eo possit dispensare, vide 
+      <lb ed="#C" n="148"/>Card. Zab. in c. Iudaei, ele. I. in I. col. de Iuda--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0692.xml-->
+      <pb ed="#C" n="675"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>bantur in aliquo, imo multis gaudebant privilegiis, &amp; po 
+      <lb ed="#C" n="2"/>pulus peculiaris, sive specialis Domini dicebantur. Se¬ 
+      <lb ed="#C" n="3"/>hoc suo delicto perdiderunt: sic intellige, C eod jussio. nan 
+      <lb ed="#C" n="4"/>illud privilegium, de quo ibi loquitur, sua culpa perdide 
+      <lb ed="#C" n="5"/>runt in morte preciosa Domini nostri Jesu Christi: quii 
+      <lb ed="#C" n="6"/>psos servos, nos autem liberos fecit, ut infeo. &amp; si Iudaeol. 1. 
+      <lb ed="#C" n="7"/>spon. . § f. Hanc autem servitutem, &amp; gravamina sequenti 
+      <lb ed="#C" n="8"/>vitant, si sponte voluerint baptizari, quod possunt sine ci 
+      <lb ed="#C" n="9"/>tradictione cujusquam: sed non coguntur. Nam Christis 
+      <lb ed="#C" n="10"/>dem habere non creditur, qui ad fidem Christi cogitur pra 
+      <lb ed="#C" n="11"/>cise venire, ut infreo sicut Iudaei. respon. 1. Sunt igitur indi 
+      <lb ed="#C" n="12"/>cendi ad fidem suscipiendam authoritatibus &amp; rationil 
+      <lb ed="#C" n="13"/>blandimentis potius, quam asperitatibus quia coacta se¬ 
+      <lb ed="#C" n="14"/>vitia non placent Deo. 65. dist qui syncera. inducantur erg¬ 
+      <lb ed="#C" n="15"/>beneficientiae consolatione, vel informatione doctrina 
+      <lb ed="#C" n="16"/>ad colendum Deum. 23. 4 4. c. in. nec timeant amissionen 
+      <lb ed="#C" n="17"/>patrimonii: quia eis reddi praecipimus in integrum. nan 
+      <lb ed="#C" n="18"/>si in Judaismo ipsum retinet quis, multo fortius Christi¬ 
+      <lb ed="#C" n="19"/>nus, &amp; ad hoc seculares potestates per excommunicatio 
+      <lb ed="#C" n="20"/>nem cogi possunt, ut inf eo. Iudaei. 2. quod intellige, nisi sin 
+      <lb ed="#C" n="21"/>domus, vel fundi de usuris comparati, ad quarum restiti 
+      <lb ed="#C" n="22"/>tionem tenentur, ut no. inf. eo. ver coguntur, m si. &amp; ideo ven 
+      <lb ed="#C" n="23"/>di debent, &amp; reddi, ut inf de usur, cum tu quamvis autem n¬ 
+      <lb ed="#C" n="24"/>cogantur praecise fidem suscipere: tamen si semel ad fiden 
+      <lb ed="#C" n="25"/>pervenerint, id est, baptizati fuerint, etiam per jocum co 
+      <lb ed="#C" n="26"/>guntur praecise fidem servare. sic intellige sup. de bapti ma 
+      <lb ed="#C" n="27"/>jores. §. ult &amp; 45 dist. de Iudaeis, &amp; de hoc non sup. de conver. in 
+      <lb ed="#C" n="28"/>§. qualiter converti possint. &amp; de bap. majores, §. quis sit ejus effi¬ 
+      <lb ed="#C" n="29"/>ctus. ver. effectus autem. Si vero fidem recipere renuunt, gra 
+      <lb ed="#C" n="30"/>vantur ipsi Judaei in multis. Primo, quia universitati Ju 
+      <lb ed="#C" n="31"/>daeorum legari non potest. C. eo. tit. i.li. Sed nunquid singu 
+      <lb ed="#C" n="32"/>lis? Forte sic, secundum Azo. argu ff. de reb dub. cum senatu 
+      <lb ed="#C" n="33"/>nulli tamen clerico hoc facere licet, etsi sudaeus frater suu 
+      <lb ed="#C" n="34"/>sit: alias post mortem ejus dicitur anathema, ut inf. eo. tit.i 
+      <lb ed="#C" n="35"/>si quis episcopus, &amp;c. in eos. 24. quaem 2 sane profertur licet tamer 
+      <lb ed="#C" n="36"/>pascere eos, arg. 86. dist. pasce. quia adhuc possint ad fiden 
+      <lb ed="#C" n="37"/>pervenire cum de nemine sit desperandum: c de pae. dist 
+      <lb ed="#C" n="38"/>nemo, 32q. 2.ancillam, 13. dist. quiescamus, ii qui. quoniam multo 
+      <lb ed="#C" n="39"/>Secundo gravantur, quia ad dignitates eligi prohibentur 
+      <lb ed="#C" n="40"/>ut C. eo. I. ul nisi alicui indulgeatur speciali privilegio prin 
+      <lb ed="#C" n="41"/>cipis: &amp; sic solvitur, ff.de decu generaliter. §. ult. vel dic, quo¬ 
+      <lb ed="#C" n="42"/>ibi non erat Iudaeus: sed superstitione Iudaica laborabat 
+      <lb ed="#C" n="43"/>vel corrigitur, quia ad nullam dignitatem, a ad nullun 
+      <lb ed="#C" n="44"/>officium, vel ministerium admittuntur, ita quod Christi¬ 
+      <lb ed="#C" n="45"/>nos, &amp; maxime clericos, seu ecclesias gravare possint: a 
+      <lb ed="#C" n="46"/>his enim abstinere debent. alias per provinciale consilium 
+      <lb ed="#C" n="47"/>quod singulis an tenere praecipitur: ut sup. de ac sicul olin 
+      <lb ed="#C" n="48"/>monitione praemissa, &amp; districtione, qua convenit com 
+      <lb ed="#C" n="49"/>pescendum: nam Christianus princeps, nisi hoc corrigat 
+      <lb ed="#C" n="50"/>vel corrigi faciat, excommunicandus est. Christiani om 
+      <lb ed="#C" n="51"/>nes a participatione Judaei in mercimoniis, &amp; aliis compe 
+      <lb ed="#C" n="52"/>scendi, quousque Judaeis satisfaciat: ita videlicet, ut quicqui¬ 
+      <lb ed="#C" n="53"/>occasione hujus officii adeptus fuerit in pauperes Chri 
+      <lb ed="#C" n="54"/>stianos, juxta providentiam episcopi erogando officium 
+      <lb ed="#C" n="55"/>quod irreverenter assumpsit, cum rubore dimittat: ut in 
+      <lb ed="#C" n="56"/>eo, cum sit. &amp; in concilio Tole. de quo eadem Dec. mention 
+      <lb ed="#C" n="57"/>facit: quod concilio Tol. habes, 54. dist. nulla. 17q. 4. constitui 
+      <lb ed="#C" n="58"/>&amp; ar. inf. eo. ad liberandum ante fi. ibi nisi per totum, quod e 
+      <lb ed="#C" n="59"/>commercio. &amp;c. Possint tamen principes reditus suos Ju 
+      <lb ed="#C" n="60"/>daeis vendere, deputato Christiano custode, ecclesii ve 
+      <lb ed="#C" n="61"/>clericis non suspecto, per quem Judaei, sive Saraceni, siv 
+      <lb ed="#C" n="62"/>Christi injuria jura regalia consequantur, ut inf eod ex 
+      spe<lb ed="#C" n="63" break="no"/>ciali.
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e515">
+      Est autem ratio hujus jus prohibitionis, quia 
+      absur<lb ed="#C" n="64" break="no"/>dum visum est concilio generali, ut blasphemus Christ 
+      <lb ed="#C" n="65"/>vim potestatis exerceat in homines Christianos, ut inf. eoc 
+      <lb ed="#C" n="66"/>cum sit, &amp; c.i. in fi. debent ergo cavere Judaei ab injuriis Chri 
+      <lb ed="#C" n="67"/>stianorum. nam si in eos sevierint, maxime illos, qui de no 
+      <lb ed="#C" n="68"/>vo Christianati sunt, scilicet neophytos, comburentur, se 
+      <lb ed="#C" n="69"/>cundum Iut C. eo. l. 2. Sed secundum can. coguntur satis fa 
+      <lb ed="#C" n="70"/>cere passo injuriam. Quid si Judaeus episcopi subditus, cle 
+      <lb ed="#C" n="71"/>ricum percusserit? debet eum episcopus mulcta necunia 
+      <lb ed="#C" n="72"/>ria punire ad arbitrium, vel alia, quae magis videbuntur ex 
+      <lb ed="#C" n="73"/>pedire, puta fustigationem citra sanguinis effusionem, in 
+      <lb ed="#C" n="74"/>de rap. in archiepiscopatu. &amp; laeso faciet satisfieri, alas si J. 
+      <lb ed="#C" n="75"/>daeus non est de suo, sed de alieno dominio, dominum suusi 
+      <lb ed="#C" n="76"/>moveat, subaudi &amp; compellat, arg inf eo ludaet. 2. in si &amp; in 
+      <lb ed="#C" n="77"/>de male. c fi. ut ecclesiae dominae clerici, scilic. quae per ipsi 
+      <lb ed="#C" n="78"/>videtur passa injuriam, ut arg 3 4..nulli, in fi. 2. qu. 7. accusatio 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0692.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>&amp; sup. de fo comp. c. 2 &amp; injuriam passo faciat satisfieri com 
+      <lb ed="#C" n="80"/>petenter ad quod Judaeus per subtractionem participa 
+      <lb ed="#C" n="81"/>tionis Christianorum in mercimoniis, &amp; aliis compesce 
+      <lb ed="#C" n="82"/>tur, sic intellige inf.eo postulasti. Et si licet dictet authoritas 
+      <lb ed="#C" n="83"/>nihil ad nos, de his, qui foris sunt. .a.multi. a5. dist qui syn 
+      <lb ed="#C" n="84"/>tera. &amp; sup de divor, gaudemus resp. i illud intelligi debet, quo 
+      <lb ed="#C" n="85"/>ad religionis eis invitis regulas canonicas imponendas, ve 
+      <lb ed="#C" n="86"/>ipsos directe spiritualiter puniendos: tam en multum ac 
+      <lb ed="#C" n="87"/>nos, ut ipsos nobiscum, sive sub nobis habitatos in praemis 
+      <lb ed="#C" n="88"/>sis compescamus, &amp; in seque ut &amp; apparet in his quae no, ut 
+      <lb ed="#C" n="89"/>eo. § ver hanc autem, e &amp; seq. Tertio, ut ipsi a communione 
+      <lb ed="#C" n="90"/>Christianorum assidua abstineant, ne simplices ab eis cor 
+      <lb ed="#C" n="91"/>rumpantur. 28. q. 1. saepe, inf eo. ad hoc Quarto, ut ab actis legi 
+      <lb ed="#C" n="92"/>timis repellantur. 2q7. alieni. unde non ferunt testimoni 
+      <lb ed="#C" n="93"/>um contra Christianum. (ut sup. de test Iudaei. quod dicut 
+      <lb ed="#C" n="94"/>no. in summa. eo. tit. §. quis possit esse testis. ver fides. Quinto, u 
+      <lb ed="#C" n="95"/>Christiana mancipia non habeant: quod dic ut no. infrsu 
+      <lb ed="#C" n="96"/>rub de ser. Iudae per canones. &amp; seq. Sexto, ut in diebus lamen 
+      <lb ed="#C" n="97"/>tationum, &amp; Dominicae passionis in publicum minim 
+      <lb ed="#C" n="98"/>prodeant ut inscod in nonnullis. § 1. &amp; ut in die parasceve 
+      <lb ed="#C" n="99"/>hostia &amp; fenestras clausas teneant. ut infr. eod quia. &amp; ne i 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="100"/>ADDITIONES. 
+      <lb ed="#C" n="101"/>e Cum de nemine sit desperandum) Adde c. crripiantur 24 9. 
+      <lb ed="#C" n="102"/>d Ad nullam dignitatem.] Adde quod Iudaei non possunt ess 
+    </p>
+    <p>
+      <lb ed="#C" n="103"/>doctores: quia non sunt capaces dignitatis, &amp; doctoratus es 
+      <lb ed="#C" n="104"/>dignitas: &amp; per consequens, non possunt esse doctores. ut i¬ 
+      <lb ed="#C" n="105"/>c quanto, de magist. &amp; dicit Bart. in l.omnes, C. de decu. lib. 10. ub 
+      <lb ed="#C" n="106"/>dicit se tespondisse duobus Iudaeis doctis in meditina; &amp; pe 
+      <lb ed="#C" n="107"/>Bart &amp; Sal in I fin. C. de iud Bart. in I generaliter, in § si ff. de cu¬ 
+      <lb ed="#C" n="108"/>Bat. in proom. C. pet. de Anc. in cle. 2. de magi Abb. in cap. cum fit 
+      <lb ed="#C" n="109"/>de Iudae. Abb. in c proposuisti ad finem. de prob¬ 
+      <lb ed="#C" n="110"/>e Consequens erat, si Hostiensi inmentem venisset, ut interji 
+    </p>
+    <p>
+      <lb ed="#C" n="111"/>ceretur haec rubricella, qualiter Iudaei invitentur ad fidem 
+      <lb ed="#C" n="112"/>quam ex Mart. eo. tit. in summa huc referemus Iudaei, inquit 
+      <lb ed="#C" n="113"/>non debent inviti ad baptismum compelli, si tamen baptiza 
+      <lb ed="#C" n="114"/>ri velint, non debent ab aliquo prohiberi, ut exira de Iud.c siu 
+      <lb ed="#C" n="115"/>ut. Item debent authoritatibus, rationibus, &amp; blandimenti, 
+      <lb ed="#C" n="116"/>potius, quam asperitatibus provocari ad fidem, 43d st. qui syn 
+      <lb ed="#C" n="117"/>cera, &amp; ca.Iuuaels. Si tamen conditionaliter coactus baptizar 
+      <lb ed="#C" n="118"/>sacramentum receperit, &amp; post modum recessefit a fide, com 
+      <lb ed="#C" n="119"/>pelli debet redire, &amp; fidem servare, ne nomen domini blas 
+      <lb ed="#C" n="120"/>phemetur, de bapt maiores. Quod autem ait Host. Iudae os tole 
+      <lb ed="#C" n="121"/>rari posse, ut veteres synagogas, &amp; habeant, &amp; reficiant, ac 
+      <lb ed="#C" n="122"/>novas non pertinet. extra, de Iudaeis, &amp; e. consuluis &amp; ca. Iudaei. 
+      <lb ed="#C" n="123"/>Sed nec debent in die Parasceves aperire ostium, vel sene 
+      <lb ed="#C" n="124"/>stras, vel exire in publicum, quia illo die Christianos illuder! 
+      <lb ed="#C" n="125"/>consueverunt, exira eod.ait. si Iudaeos, &amp; ca. in nonnullis. Plerique 
+      <lb ed="#C" n="126"/>autem doctorum nolunt concedere, quod oblationes &amp; de 
+      <lb ed="#C" n="127"/>cimas personales possimus a Iudaeis accipere propter hone 
+      <lb ed="#C" n="128"/>statem ecclesiae conservandam. Pot est tamen distingui utri 
+      <lb ed="#C" n="129"/>hujusmodi ludaei habeant aliquid de laboribus, &amp; industris 
+      <lb ed="#C" n="130"/>suis, &amp; hujusinodi Personalia possunt recipi, aut nihil ha¬ 
+      <lb ed="#C" n="131"/>beant, ut de usura, &amp; tunc non est licitum ab eis talia recipe 
+      <lb ed="#C" n="132"/>re. Sed in hoc casi non peccaret, qui ab eis haec acciperet, us 
+      <lb ed="#C" n="133"/>que ad quantitatem damni; quod patitur ecclesia per hoc 
+      <lb ed="#C" n="134"/>quod occupant loca, quae a fidelibus habitari solebant; sicu 
+      <lb ed="#C" n="135"/>nec peccaret aliquis damnificâtus a fure, vel raptore, per in 
+      <lb ed="#C" n="136"/>cendium, vel alio similimodo, si recuperaret ab eo damnun 
+      <lb ed="#C" n="137"/>suum, licet fur, aut raptor nihil haberet, quod non essete 
+      <lb ed="#C" n="138"/>furto, vel rapina acquisitum, dum tamen non reciperet pr¬ 
+      <lb ed="#C" n="139"/>damno illo res furtivas, vel raptas in specie. Item non debe 
+      <lb ed="#C" n="140"/>mus comedere cum eis, nec habitare, nec eos ad covlvia no¬ 
+      <lb ed="#C" n="141"/>stra vocare, necire ad sua, 28. 9. i. omnes. Excipitur tamen ca 
+      <lb ed="#C" n="142"/>sus, cum ad praedicandam Christi fidem ad eos Christiani ac 
+      <lb ed="#C" n="143"/>cedunt. quia tunc uossunt uticibis appositis a Paganis, cum mo¬ 
+      <lb ed="#C" n="144"/>destia tamen, de ludaeis quam sit, dummodo quod apponi 
+      <lb ed="#C" n="145"/>tur non sit idolis immolatum, quia tunc sanctius esset mori 
+      <lb ed="#C" n="146"/>quam cum veneratione ido lothyto velci, 22. q. 3. sicut sanctus 
+      <lb ed="#C" n="147"/>in summa tamen famis necessitate, cum execratione idoli 
+      <lb ed="#C" n="148"/>possitquis comedere idolothytum, quia necessitas non ha¬ 
+      <lb ed="#C" n="149"/>bet legem, ut de consecra. dist sicut. Debent autem Iudaei in ha 
+      <lb ed="#C" n="150"/>bituimo ferte signum aliquod, ne commisceantur conjugit 
+      <lb ed="#C" n="151"/>Chi istianis d. c. in nonnullis. Sed nec sunt ad legitimos actus 
+      <lb ed="#C" n="152"/>admittendi Iudaei. 2. q. 7. alieni. Iudaeorum filii si conversi fue 
+      <lb ed="#C" n="153"/>runt ad fidem debent habere parentum successionem. extr. 
+      <lb ed="#C" n="154"/>eod c. 2. Mart 
+      <lb ed="#C" n="155"/>Non ferunt testimonium contra Christianum.J Adde Doct 
+      <lb ed="#C" n="156"/>inc cum sit.ue ludae gl in verbo, viri incle.  de test. de Io. Fantu. i 
+      <lb ed="#C" n="157"/>cap non potest. 2. quae 8. &amp; in quo casu Iudaeus potest esse testis 
+      <lb ed="#C" n="158"/>contra Christianum, vidae per gl. in verbo orthodox in I que 
+      <lb ed="#C" n="159"/>niam ae lare. &amp; idem tenet Fran. de Are: licet eam non alle 
+      <lb ed="#C" n="160"/>get. in e praesentium. de iel¬ -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0693.xml-->
+      <pb ed="#C" n="676"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>contumeliam fidei nostrae aliquid dieant, alias licita ami 
+      <lb ed="#C" n="2"/>tunt, si se ab illicitis non temperaverint: ut C. e. Iudaeos. qui 
+      <lb ed="#C" n="3"/>privilegium meretur amittere, qui permissa sibi abutitu 
+      <lb ed="#C" n="4"/>potestate. 11quaest3. pripilegium Septimo, ut tam mascul 
+      <lb ed="#C" n="5"/>quam foeminae liquod signum apertum deferant in on 
+      <lb ed="#C" n="6"/>ni Christianorum provincia, &amp; omni tempore, ut sic a Chri 
+      <lb ed="#C" n="7"/>stianis populis qualitate habitus discernantur. Marsilis 
+      <lb ed="#C" n="8"/>deferunt toram serica ante pectus, ad modum stellae, 
+      <lb ed="#C" n="9"/>mulieres oralia in capite &amp; haec signa praecepit fieri dom 
+      <lb ed="#C" n="10"/>nus Jo archiepiscopus Vienen. tunc Apostolicae sedis! 
+      <lb ed="#C" n="11"/>gatus. in concilio Manuaschae. sic &amp; habitus novitiorun 
+      <lb ed="#C" n="12"/>discerni praecipitur ab habitu professorum supra dereg, ju 
+      <lb ed="#C" n="13"/>statuimus. Sic in qualitate vestis discerni debet meretrix 
+      <lb ed="#C" n="14"/>matrona. f. de injer. l.I. §. si quis virgines &amp; miles a privato. u 
+      <lb ed="#C" n="15"/>ff de lo &amp; condu. si ignorans. &amp; mulier a masculo per longun 
+      <lb ed="#C" n="16"/>crinem discernitur. quod est contra provinciales. 30. dist. 
+      <lb ed="#C" n="17"/>qua foemina. Haec differentia est inter Judaeos &amp; Christia 
+      <lb ed="#C" n="18"/>nos, ideo facienda, quia in quibusdam partibus tanta cor 
+      <lb ed="#C" n="19"/>fusio inolevit, quod propter ignorantiam contingit ipsos al 
+      <lb ed="#C" n="20"/>&amp; quando carnaliter adinvicem commisceri, g quae 
+      con<lb ed="#C" n="21" break="no"/>mixtio, seu conjunctio, merito condemnatur, &amp; ne sub ho 
+      <lb ed="#C" n="22"/>velamine velint aliqui errore suum palliare: ideo est qui 
+      <lb ed="#C" n="23"/>litas habitus discernenda: ut inf e in nonnullus. resp. 1. &amp; iden 
+      <lb ed="#C" n="24"/>de Sarracenis, ut ibi. nam si Christanus Sarracenam, vi 
+      <lb ed="#C" n="25"/>Judaeam cognoverit ignoranter, non tenetur de judaismo 
+      <lb ed="#C" n="26"/>vel paganatu: argu. 34. 4 2. in lectu inf de cle. exc. Apostolicae. 
+      <lb ed="#C" n="27"/>tallum igitur commixtione est omnino abstinendum. 25 
+      <lb ed="#C" n="28"/>q. 1. care. Octavo, ut quantumcunque boni medici sint h ni 
+      <lb ed="#C" n="29"/>hil lucrentur cum Christianis, quia nec ipsos vocare de 
+      <lb ed="#C" n="30"/>bent in suis infirmitatibus, nec ab eis recipere medicinan 
+      <lb ed="#C" n="31"/>nec cum eis in eisdem balneis balneare. 28 9.1. nulbus, &amp;c.a 
+      <lb ed="#C" n="32"/>mnes Nono, ut nec Christiani cum eis comedant, quod di¬ 
+      <lb ed="#C" n="33"/>ut no. inf. sub rub de Surracenis §. qualiter. ver ticet auctm Chr 
+      <lb ed="#C" n="34"/>stiani. Cum autem Judaeus Christianum blasphemans, ve 
+      <lb ed="#C" n="35"/>in eum saeviens puniatur, multo fortius si Deum blasphe¬ 
+      <lb ed="#C" n="36"/>maverit: est per potestatem secularem poena legitima fi 
+      <lb ed="#C" n="37"/>riendus: nec enim debemus dissimulare ejus opprobri¬ 
+      <lb ed="#C" n="38"/>qui probra nostra delevit, ut infra eo. in nonnullis § ult. Sec 
+      <lb ed="#C" n="39"/>quae est poena haec? Dicunt quidam, quod pecuniaria, u 
+      <lb ed="#C" n="40"/>inf. eo postulasti. &amp; est hoc matrimonium in foro ecclesiast 
+      <lb ed="#C" n="41"/>co. Sed in seculari hoc non credo verum: imo legali, qua 
+      <lb ed="#C" n="42"/>est decapitatio etiam in Christiano, ut dicam inf. ac ialed 
+      <lb ed="#C" n="43"/>§ qualiter quod libet genus puniatur. versic. blasphemantes auten 
+      <lb ed="#C" n="44"/>super verbo, conunenti, cui etiam si renuerit recipere ac per 
+      <lb ed="#C" n="45"/>agrare, &amp;c. &amp; seq &amp; legitur mauth ut non luxu. contra nati 
+      <lb ed="#C" n="46"/>ram § ult col e hoc notat Papa, quando dixit per potest¬ 
+      <lb ed="#C" n="47"/>tem iecularem condignae animadversionis adjectione. si 
+      <lb ed="#C" n="48"/>infra de falsis. ad falsariorum §1 &amp; supra de jud cum non ab ho 
+      <lb ed="#C" n="49"/>mine &amp; infraut ia dabolendam §. 1. animadversio enim mi 
+      <lb ed="#C" n="50"/>rum imperium denotat, unde in hoc casu animadverter 
+      <lb ed="#C" n="51"/>est, animam a corpore vertere. ut ff.dejuris. om. iud l. 3. ne 
+      <lb ed="#C" n="52"/>excusabit se aliquis me Judicem causa judi. quis enim It 
+      <lb ed="#C" n="53"/>dos appellat, ex quibus crimina oriuntur ut constitutio 
+      <lb ed="#C" n="54"/>ne. ff veteris. § illud vero sane. nam ludus noxius in culpa es 
+      <lb ed="#C" n="55"/>ff. ad leg. Aquil. nam ludus. ad hoc supra de praesump. ci. &amp; C. a 
+      <lb ed="#C" n="56"/>rel &amp; sum fune &amp; alea &amp; luso. I. Graeca. quam quidam haben 
+      <lb ed="#C" n="57"/>&amp; incipit, alearum ludus. Quid enim de Judaeo. qui coran 
+      <lb ed="#C" n="58"/>me reddebat computum alicui in capella sancti Nutrii, de 
+      <lb ed="#C" n="59"/>minae comitissae provinciae, &amp; iratus levavit manus sua 
+      <lb ed="#C" n="60"/>versus crucem, &amp; dixit: Potius vellem esse suspensus, sicu 
+      <lb ed="#C" n="61"/>ille fuit, qui illic pendet, quam unquam magis vellem re¬ 
+      <lb ed="#C" n="62"/>dere computum coram vobis. dicebat enim se intellexiss 
+      <lb ed="#C" n="63"/>hoc de quodam homine, qui pendebat in patibulo extr 
+      <lb ed="#C" n="64"/>civitatem. &amp; ex parte septentrionis stabat tam crucifixus 
+      <lb ed="#C" n="65"/>quam suspensus. merito quicquid intelligeret, saltem u 
+      <lb ed="#C" n="66"/>alii terreantur, fuit in quingentis solidis regalibus cond¬ 
+      <lb ed="#C" n="67"/>natus. arg. inf eo ad liberam in fi. &amp; de reg. ju. estote. nam sun 
+      <lb ed="#C" n="68"/>aliqua, quae mala sunt in se: nec possint bono animo fier 
+      <lb ed="#C" n="69"/>ut patet supra de jurejur. eisi Christus §. quidam. Sed &amp; de mi 
+      <lb ed="#C" n="70"/>lo verbo, &amp; malo homine non debet praesumi nisi malun 
+      <lb ed="#C" n="71"/>sup. de ele Osius. &amp; de cle non resi c. 1 Puniuntur etiam &amp; alii 
+      <lb ed="#C" n="72"/>poenis Judaei, sicut &amp; haeretici, de quibus dicemus infrati 
+      <lb ed="#C" n="73"/>6. poena &amp; §.1. ver. &amp; qui novam. &amp; praeced.
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e767">
+      Coguntur 
+      et<lb ed="#C" n="74" break="no"/>iam Judaei decimas solvere de terris suis, &amp; oblationibu 
+      <lb ed="#C" n="75"/>baudi quae a fidelibus pro anniversario super domo: 
+      <lb ed="#C" n="76"/>1i qua relinquuntur, sed domus postea ad eos transit cun 
+      <lb ed="#C" n="77"/>onere suo, alias offerre non tenentur. &amp; sic intellige. sup¬ 
+      <lb ed="#C" n="78"/>de deci. de terris &amp; infra de us quanto. vel dic, ut no. sup. de p¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0693.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>roch. § in quibus sub §. 1. ver. vel nisi ratione consuetudini 
+      <lb ed="#C" n="80"/>eodem modo coguntur ad usuras restituendas. inf. deusus 
+      <lb ed="#C" n="81"/>post miserabilem, alias Christiani Judaeos gravere non deben 
+      <lb ed="#C" n="82"/>inf eod. sicut forte circa pensionum exactiones, ut per ho 
+      <lb ed="#C" n="83"/>compellantur ad rectitudinem festinare. 23. 96 jam vero
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e795" n="3">
+               <lb ed="#C" n="84"/>Quae poena imponatur ipsorum privilegia non fer¬ 
+      <lb ed="#C" n="85"/>vantibus. Et certe Judaeo non contento suis fin 
+      <lb ed="#C" n="86"/>bus non est privilegium servandum, ut C. eo. Iudaeos iuseo 
+      <lb ed="#C" n="87"/>&amp; si Indaeos. 11. 43 privilegium. Sed si Judaei quiete degant. 
+      <lb ed="#C" n="88"/>aliquis eis res suas auferre convictus sit, in duplum rest 
+      <lb ed="#C" n="89"/>tuere cogitur. quod sijudex dissimulaverit, eandem ro 
+      <lb ed="#C" n="90"/>nam patitur. &amp; idem in pagano. ut C. de sac. paga &amp; templ¬ 
+      <lb ed="#C" n="91"/>Christianis. hoc secundum leg. sed secundum cano quicus 
+      <lb ed="#C" n="92"/>que venerit contra ea quae not supr. eod. §. in quib. tolerentus 
+      <lb ed="#C" n="93"/>ver. sed nec in sabbatis honoris, &amp; officii sui periculum pi 
+      <lb ed="#C" n="94"/>tietur aut excommunicationi subdetur nisi praesumptic 
+      <lb ed="#C" n="95"/>nem suam digna correxerit satisfactione, ut mira cod sici 
+      <lb ed="#C" n="96"/>Iudaei. in fi. Sed &amp; si Judaei delinquant in supradictis, vel 
+      <lb ed="#C" n="97"/>liis veniendo contra canonicas sanctiones, puniunti 
+      <lb ed="#C" n="98"/>quandoque in personis inf e in nonnullis. 27. dist saepe quar 
+      <lb ed="#C" n="99"/>doque pecuniariter. infr. cod, cum sit. in si &amp; non sup. cohB 
+      <lb ed="#C" n="100"/>quib. ver. quid si ludeus &amp; seq quandoque per poenam spir 
+      <lb ed="#C" n="101"/>tualem indirecte quia excommunicantur fideles eis par 
+      <lb ed="#C" n="102"/>ticipantes. inf eo &amp; i Iudaeos. in si. supra de decim dererris, unf¬ 
+      <lb ed="#C" n="103"/>de usur. quanto 
+    <!--/p>
+    <p>
+      <lb ed="#C" n="104"/>ADDITIONES 
+      <lb ed="#C" n="105"/>g Aliquando carnaliter adinvicem commisceri] Adde qua po 
+    </p>
+    <p>
+      <lb ed="#C" n="106"/>na puniuntur Iudaei cognoscentes carmaliter Christianan 
+      <lb ed="#C" n="107"/>Vide tex in c. hinc apparet 24 quae 5 &amp; in §. palam &amp; in §. mub 
+      <lb ed="#C" n="108"/>enim. 29. 7. &amp; per Old confil. 333 incip. Qualiter puniatur Iuden 
+      <lb ed="#C" n="109"/>ubi dicit se vidisse virilia incisa ante palatium in civitate Vis 
+      <lb ed="#C" n="110"/>b Quantumeunque boni medici sint.] Adde dect. in e nullus eu 
+    </p>
+    <p>
+      <lb ed="#C" n="111"/>tis. limita, nisi aliud suaderet qualitas temporis, puta pestis, I 
+      <lb ed="#C" n="112"/>qua deficerent medici, secundum Maria. de Senis, in c. 1. e In 
+      <lb ed="#C" n="113"/>dae. ar. c. qualitas temporis. 16. 9. 1 Secundo limita, nisi vocarer 
+      <lb ed="#C" n="114"/>tur ad curam, in qua medici Christiani defecissent. maxim 
+      <lb ed="#C" n="115"/>si in ea Iudaeus excelleret, quia propter eminentem scien 
+      <lb ed="#C" n="116"/>tiam relaxatur legis dispositio secundum BalI sed&amp;e regrob¬ 
+      <lb ed="#C" n="117"/>ri in §. valde. ff de exe. b.--> 
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e844">
+               <lb ed="#C" n="118"/>De Sarracenis. Rubrica. 
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e849">
+               <lb ed="#C" n="119"/>SUMMARIA 
+      <lb ed="#C" n="120"/>1 Sarraceni qui dicantur. Et unde dicantur. 
+      <lb ed="#C" n="121"/>3 Christiani qualiter se debeant habere erga Sarracenos 
+      <lb ed="#C" n="122"/>4 Portantes aliquid ad Sarracenos, qua poena puniantur 
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e860">
+               <lb ed="#C" n="123"/>EX quo vidimus de Judaeis, videamus de
+      <lb ed="#C" n="124"/>Sarracenis. Qui sunt Sarraceni, Et 
+      <lb ed="#C" n="125"/>unde dicantur, Qualiter erga ipsos Christiani 
+      <lb ed="#C" n="126"/>se debeant habere 
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e871">
+               <lb ed="#C" n="127"/>Qui sunt Sarraceni. Hi qui deos innumeros 
+      de<lb ed="#C" n="128" break="no"/>asque immo demones colunt. &amp; adorant, 
+      <lb ed="#C" n="129"/>nec novum Testamentum, nec vetus recipiunt, quibu¬ 
+      <lb ed="#C" n="130"/>interdicitur, ne sub nobis degentes faciant sacrificia, ve 
+      <lb ed="#C" n="131"/>inspecto jecore animalis, vel extis, id est, interiorib. pro 
+      <lb ed="#C" n="132"/>mittant vel divinent aliquid futurum, ut C. de paga. l. 2. Eo 
+      <lb ed="#C" n="133"/>rum etiam templa claudi praecipiuntur sub poena mor 
+      <lb ed="#C" n="134"/>tis, &amp; amissionis bonorum, ut C. de paga.li. sicque nemo a 
+      <lb ed="#C" n="135"/>periat delubra, id est, templa sic dicta, quia deluduntur 
+      <lb ed="#C" n="136"/>daemonibus nemo dicat, aperiat animo venerantis, vel ad 
+      <lb ed="#C" n="137"/>orantis, multo magis prohibetur infandis, id est, nefancdi 
+      <lb ed="#C" n="138"/>simulacris, vel imaginibus honorem reddi, vel impios po 
+      <lb ed="#C" n="139"/>stes templorum redimi, id est. ornari sertis, id est, coronis 
+      <lb ed="#C" n="140"/>vel prophanos ignes accendi aris, id est, altarib. vel adoler¬ 
+      <lb ed="#C" n="141"/>id est. cremari in eis thura, vel victimas caedi, vel pateris, ic 
+      <lb ed="#C" n="142"/>est, scyphis libari vina. id est, gustari. sicque prohibet sacri 
+      <lb ed="#C" n="143"/>legium religionem reputari, ut C. de paga.I2 &amp; Ipen. &amp; ul 
+      <lb ed="#C" n="144"/>tima. festos autem conventus civium. omni tamen sacrisi 
+      <lb ed="#C" n="145"/>cio &amp; superstitione explosis, non prohibet. C. de pag¬ 
+      <lb ed="#C" n="146"/>prophanos. Omnia autem templa Sarracenorum applicantu 
+      <lb ed="#C" n="147"/>reip. ut Imperator ubicunque velit, possit donare, sicut se 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="148"/>ADDITIO. 
+      <lb ed="#C" n="149"/>a Qui sunt Sartaceni.] Adde Atch. in eIsmanl. in prin 50 At--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0694.xml-->
+      <pb ed="#C" n="677"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>cit Caesar Phoca, qui dedit Beato Bonifacio templum quo¬ 
+      <lb ed="#C" n="2"/>vocabatur Phantheon. ad hoc C. de paga. omnia. Quod si pa 
+      <lb ed="#C" n="3"/>gani aliquod rescriptum impetraverint pro eversione o 
+      <lb ed="#C" n="4"/>namentorum publicorum operum; quae servanda sun 
+      <lb ed="#C" n="5"/>sicut sacrificia prohibentur, abjectae hujus chartae de ma 
+      <lb ed="#C" n="6"/>nibus timentium ad principem referantur, ut C. de pag. si 
+      <lb ed="#C" n="7"/>ut sacrificia. hi etiam poenas patiuntur maximorum haer¬ 
+      <lb ed="#C" n="8"/>ticorum, nam &amp; haeretici dicuntur, ut dicam. inf.tit.i. §.i.d 
+      <lb ed="#C" n="9"/>qui novem. &amp; praecedenti. &amp; § &amp; qua poena. versicu. Item dicit Ie 
+      <lb ed="#C" n="10"/>seq &amp; ver. quo autem ad poenas. ubi loquitur de Samaritani? 
+      <lb ed="#C" n="11"/>qui Sarraceni sunt. no, inf. eo. §. seque versi quidam. Item nor 
+      <lb ed="#C" n="12"/>debent tenerem publica officia, sicut dictum est de Judaeis 
+      <lb ed="#C" n="13"/>sup.tit. 1, &amp; in quib. graventur. ver.a &amp; seq.
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e956">
+               <lb ed="#C" n="14"/>Et unde dicantur A Sara, uxore Abrahae,  
+      <lb ed="#C" n="15"/>voluerunt nuncupari: &amp; ta 
+      <lb ed="#C" n="16"/>men ab ea nati non sunt, nec originem habuerunt, imo a 
+      <lb ed="#C" n="17"/>Agar ancilla Sarae. quasi Agareni, vel Agarieni deberen 
+      <lb ed="#C" n="18"/>potius nuncupari. de hoc 32. qu. 4. recurratur. &amp;c.dixit Sara a 
+      <lb ed="#C" n="19"/>Abraham. unde competentius dicimur filii Sarae, quae fui 
+      <lb ed="#C" n="20"/>legitima, quia in Sara firmata est ecclesia, &amp; ideo Paran 
+      <lb ed="#C" n="21"/>vel Judaei, non debent sub se Christianos habere, ne filii! 
+      <lb ed="#C" n="22"/>berae, id est. Sarae, hoc est Christiani filiis, scilicet extraf 
+      <lb ed="#C" n="23"/>dem catholicam positis famulentur, ancillae, scil. Agar, u 
+      <lb ed="#C" n="24"/>inf. eo. &amp; si Iudaeos. §. pen. Quidam tamen ex his quinquel 
+      <lb ed="#C" n="25"/>bros Moysi receperunt. Sed prophetas respuerunt, qui Sa 
+      <lb ed="#C" n="26"/>maritani a Samaria civitate dicuntur. &amp; ideo in Evange 
+      <lb ed="#C" n="27"/>lio dicitur, non coutuntur Judaei Samaritanis. hi auten 
+      <lb ed="#C" n="28"/>ad fidem suscipiendam inducuntur, sicut diximus supr. d 
+      <lb ed="#C" n="29"/>Iudae §. &amp; in quibus. ver hanc autem 
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e993">
+               <lb ed="#C" n="30"/>Qualiter erga ipso Christiani debeant se 
+      ha<lb ed="#C" n="31" break="no"/>bere. Et quidem degente 
+      <lb ed="#C" n="32"/>sub imperio, non debent impugnare, nec in eos saevire, 
+      <lb ed="#C" n="33"/>lias puniuntur, ut not. supra de Iudae. § ult. alii autem, qu 
+      <lb ed="#C" n="34"/>dominium Romanae ecclesiae non recognoscunt, sive in 
+      <lb ed="#C" n="35"/>perii Romani, impugnandi sunt, ut no. supra detreug. &amp; p. 
+      <lb ed="#C" n="36"/>quid sit justum bellum. &amp; de voto. §. in quo casu, &amp; a quo cru 
+      <lb ed="#C" n="37"/>debeat praedicari. &amp; infra de haeret. §. qualuer devitetur, uis 
+      <lb ed="#C" n="38"/>ecclesia. &amp; praeced. &amp; sequent. non ergo sunt fovendi a Chr 
+      <lb ed="#C" n="39"/>stianis. nam proditioni proximum est barbaros instruere 
+      <lb ed="#C" n="40"/>qualiter validiores reddantur contra catholicos, quar 
+      <lb ed="#C" n="41"/>nullus eis quamvis tanquam legati ad partes istas acce 
+      <lb ed="#C" n="42"/>dant, debet vendere ferrum factum, vel infectum, non scu 
+      <lb ed="#C" n="43"/>ta, non arcus, non sagittas, non cujuscunque generis a 
+      <lb ed="#C" n="44"/>ma. alias secundum legem decapitabitur Christianus, b¬ 
+      <lb ed="#C" n="45"/>nis publicatis, ut C. quae res expor. non debent. l. 2. Sed secur 
+      <lb ed="#C" n="46"/>dum concilium Lateranense tales excommunicati sun 
+      <lb ed="#C" n="47"/>ipso jure, &amp; fiunt servi capientium, &amp; bonorum omnium 
+      <lb ed="#C" n="48"/>amissione mulctantur, quibus junguntur, &amp; hi, qui in g¬ 
+      <lb ed="#C" n="49"/>leis Piraticis, sive navibus Saracenorum, regimen &amp; gi 
+      <lb ed="#C" n="50"/>bernationis curam exercent, &amp; haec sententia crebra 8 
+      <lb ed="#C" n="51"/>solennis debet per ecclesias maritimarum urbium proferr 
+      <lb ed="#C" n="52"/>&amp; solenniter publicari, ut inf eo. ita quorundam. Sed &amp; Con 
+      <lb ed="#C" n="53"/>cilium generale huic poenae subjicit illos, qui eis vend un 
+      <lb ed="#C" n="54"/>lignamina galearum, vel naves: c vel galeas, vel in mach 
+      <lb ed="#C" n="55"/>nis, vel in quibusvis aliis, subaudi similibus consilium ve 
+      <lb ed="#C" n="56"/>auxilium Saracenis impendunt in dispendium terrae Si 
+      <lb ed="#C" n="57"/>ctae. &amp; licet bona sua sine spe recuperationis amittant,? 
+      <lb ed="#C" n="58"/>servi capientium fiant, non tamen absolvi merentur, nis 
+      <lb ed="#C" n="59"/>lucrum quod perceperint ex commercio tam damnato 
+      <lb ed="#C" n="60"/>tantundem de suo transmiserint in subsidium terrae Sar 
+      <lb ed="#C" n="61"/>ctae, &amp; si solutum non fuerit, id in poenam aliam commi 
+      <lb ed="#C" n="62"/>tatur. vel dic, quod illud quod dixi de poena servitutis, S 
+      <lb ed="#C" n="63"/>amissionis bonorum, locum habet, quando etiam invitu 
+      <lb ed="#C" n="64"/>captus est. Sed si voluntarius redit ad ecclesiae gremiun 
+      <lb ed="#C" n="65"/>vitat poenam servitutis, &amp; amissionis bonorum, &amp; mer 
+      <lb ed="#C" n="66"/>tur absolutionem, si quid lucratus est, &amp; tantundem de suo 
+      <lb ed="#C" n="67"/>&amp;c. nam hanc poenam intelligere non potes de servo facte 
+      <lb ed="#C" n="68"/>quia postea de suo nihil solvere posset, quod verius credo 
+      <lb ed="#C" n="69"/>sic intelligo inf. eo. ad liberandam. Nedum autem prohiben 
+      <lb ed="#C" n="70"/>tur Christiani praedicta Sarracenis vendere, immo &amp; vi 
+      <lb ed="#C" n="71"/>num &amp; oleum, &amp; quodlibet aliud liquaman: nam haec a¬ 
+      <lb ed="#C" n="72"/>eos deferenda non sunt etiam causa gustus quasi dica 
+      <lb ed="#C" n="73"/>ita parum, quod inde gustare possunt: ut C. quae res expo d 
+      <lb ed="#C" n="74"/>bent l.i. Quid ergo de aridis? lex non prohibet, &amp; sic vide 
+      <lb ed="#C" n="75"/>tur permisum. arg ff.dererum permutat. ad quaestiones, &amp; a 
+      <lb ed="#C" n="76"/>officio archipresbyt. cap. 2. &amp; ff. de probat. ab ea parte. secundun 
+      <lb ed="#C" n="77"/>Azo. Sed Placent. dixit, quod ratio liquidorum etiam a¬ 
+      <lb ed="#C" n="78"/>aridos fructus transit, &amp; bene, ut apparet ex sequent: ta 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0694.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>men in his non imponit lex certam poenam, &amp; sic arbitra 
+      <lb ed="#C" n="80"/>rie puniri potest, qui talia eis vendit. argument. infra eod 
+      <lb ed="#C" n="81"/>postulasti. &amp; supra de officio delega. de causis. Sed decretalis ta 
+      <lb ed="#C" n="82"/>les excommunicat, qui jam amplius cum Satracenis mei 
+      <lb ed="#C" n="83"/>cimonium habuerint per se, vel per alios aliquo ingenio 
+      <lb ed="#C" n="84"/>aliqua subsidia, mercimonia, consimilia, vel alia transmi 
+      <lb ed="#C" n="85"/>serint; quandiu inter nos &amp; ipsos guerra duraverit. ut in 
+      <lb ed="#C" n="86"/>fra eodem quod olim Et? quod dicit in princ. Sane licet, 
+      <lb ed="#C" n="87"/>hoc fuerit in Lateranens. concilio districte prohibitum 
+      <lb ed="#C" n="88"/>scilicet ne quis lignamina, ferrum, ut dictum est supra 
+      <lb ed="#C" n="89"/>nos tamen illos omnes, qui nedum ea, sed quaevis alia ac 
+      <lb ed="#C" n="90"/>Sarracenos deportaverint, excommunicamus, &amp;c. ut in 
+      <lb ed="#C" n="91"/>nuunt sequentia, nec hanc excommunicationem vitabi 
+      <lb ed="#C" n="92"/>is qui tempore treugae ad ipsos talia deportat, nec perju 
+      <lb ed="#C" n="93"/>rium, si hoc juraverat, quia aliud est pax, aliud treuga, u 
+      <lb ed="#C" n="94"/>notat. supra de treug &amp; pa. §. quid sit treug. &amp; §. quid sit pax. sec 
+      <lb ed="#C" n="95"/>talia licet deportare causa captivorum redimendorum 
+      <lb ed="#C" n="96"/>non tamen arma, &amp; quod ea non deferant, debent coram 
+      <lb ed="#C" n="97"/>judice, antequam iter arripiant, firmare proprio jura 
+      <lb ed="#C" n="98"/>mento; ut infra eod significavit. respon.i.&amp; §. ultimo. Illud ta 
+      <lb ed="#C" n="99"/>men videtur quod tempore treugae possint Christian 
+      <lb ed="#C" n="100"/>cum commercio adire Alexandriam, dummodo cavean 
+      <lb ed="#C" n="101"/>in nercibus prohibitis. de quibus supra diximus. ut infeo 
+      <lb ed="#C" n="102"/>significavit. §. 1. Licet autem Christiani non debeant man 
+      <lb ed="#C" n="103"/>ducare cum Judaeis, subaudi: sub nobis degentibus. ut 28 
+      <lb ed="#C" n="104"/>qu.i nullus. &amp; ca. omnes cum Sarracenis. tamen scilicet nobi 
+      <lb ed="#C" n="105"/>iubditis possumus comedere: ut ii. qu 3. ad mensam. ratio di 
+      <lb ed="#C" n="106"/>versitatis haec est: quia Judaei propter abusionem scriptu 
+      <lb ed="#C" n="107"/>rarum, &amp; contemptum ciborum nostrorum magis viden 
+      <lb ed="#C" n="108"/>tur fidem nostram impugnare. ad hoc 23. 4. 4 infideles. Cum 
+      <lb ed="#C" n="109"/>aliis autem Sarracenis scilicet hostibus comedere non die 
+      <lb ed="#C" n="110"/>bemus; nisi praedicatores simus, quibus hoc indulgetu 
+      <lb ed="#C" n="111"/>speciali privilagio: &amp; potest quilibet, habita praelati 
+      licen<lb ed="#C" n="112" break="no"/>tia, eis praedicare. Sed tamen debent abstinere a carnibu 
+      <lb ed="#C" n="113"/>diebus prohibitis: ut inf. eo. quam sit. argu. infr. de sententia ex 
+      <lb ed="#C" n="114"/>communicationis cum voluntate. §. I. &amp; sic intellige ii quae. 3. a. 
+      <lb ed="#C" n="115"/>mensam dum tamen id quod apponitur non idolis immo 
+      <lb ed="#C" n="116"/>latum sit, quia tunc sanctius esset mori fame, quam tali ci 
+      <lb ed="#C" n="117"/>bo vesci 32. quae. 4. sicut sanctius. Quod quidam intelliguni 
+      <lb ed="#C" n="118"/>quando fieret ad venerationem idoli: alias in summa ne 
+      <lb ed="#C" n="119"/>cessitate famis cum horrore &amp; execratione posset indi 
+      <lb ed="#C" n="120"/>quis ad sustentationem naturae sumere, quia necessita 
+      <lb ed="#C" n="121"/>non habet legem. de consecratio. distin.i. sicut inf. de regu ju¬ 
+      <lb ed="#C" n="122"/>quod non est. &amp; necessitas contraria est voluntati ff. quod me 
+      <lb ed="#C" n="123"/>causa li &amp; nullum est peccatum, nisi voluntarium i5 4 ic.i 
+      <lb ed="#C" n="124"/>&amp; c. illa excusat ergo necessitas ab esu idolothyti, sicut &amp; 
+      <lb ed="#C" n="125"/>rapina. de consecratio dist. 5. discipillos &amp; a furto: infra defurt 
+      <lb ed="#C" n="126"/>si quis ab hoini. infra de homi. interfecisti. &amp; a violatione qua 
+      <lb ed="#C" n="127"/>dragesimalis observantiae supra de observa jejunii, consilium 
+      <lb ed="#C" n="128"/>§ f. secundum Joan. Vel dic, quod cum Sarracem hodi 
+      <lb ed="#C" n="129"/>discernant cibaria nostra, non licet, cum his comedere, si 
+      <lb ed="#C" n="130"/>ve subditis, sive hostibus, nisi alicui concedatur special 
+      <lb ed="#C" n="131"/>privilegio, ut infra eod quam sit. vel nisi in summa necessi 
+      <lb ed="#C" n="132"/>tate, ut dictum est &amp; sic corriguntur superiora capitula 
+      <lb ed="#C" n="133"/>quae hoc concedebant: vel intelliguntur de praedicatori 
+      <lb ed="#C" n="134"/>bus vel privilegiatis: ut no. sup. &amp; sic intellexerunt Laui 
+      <lb ed="#C" n="135"/>&amp; Joan. quia quamvis verba aliorum, quae de Judaeis tan 
+      <lb ed="#C" n="136"/>tum loquuntur, deficiant, mens tamen &amp; ratio durat. ac 
+      <lb ed="#C" n="137"/>hoc ut supra de constit. iransla. ff. de petit. haered item veniunt, 
+      <lb ed="#C" n="138"/>ait senatus 
+      <!--
+    </p>
+    <p>
+      <lb ed="#C" n="139"/>ADDITIONES. 
+      <lb ed="#C" n="140"/>b Et unde dicantur.] Adde Io. An. &amp; do. in rub. de Indaeis 
+      <lb ed="#C" n="141"/>e Vendunt lignamina galearum, vel naves.] Adde tex. in cap. i 
+      <lb ed="#C" n="142"/>quorundam. &amp; cap. ad I.berandam de Iudaeis &amp; per Bonifacium 
+      <lb ed="#C" n="143"/>VIII. in extravagantib. incip contra illos &amp; tex. &amp; ibi Bal. in L.2 
+      <lb ed="#C" n="144"/>C.quae res expor. pos. &amp; tex. in l. fi. C. de poen 
+      <lb ed="#C" n="145"/>De servis Judaeorum &amp; Sarrace¬ 
+      <lb ed="#C" n="146"/>norum. Rub. -->
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e1239">
+               <lb ed="#C" n="147"/>SUMMARIA 
+      <lb ed="#C" n="148"/>i Iudaei &amp; Sarraceni an possinthabere mancipis 
+      <lb ed="#C" n="149"/>2 Servi haereticorum impune possunt dominos suos relinquere, &amp; 
+      <lb ed="#C" n="150"/>ad ecclestam confuger. 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0695.xml-->
+      <pb ed="#C" n="678"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>3 Christianum nullus potest habere in servun 
+      <lb ed="#C" n="2"/>4 Christianae non debent Iudaeis intra domum servire, nec filio 
+      <lb ed="#C" n="3"/>eorum nutriri 
+      <lb ed="#C" n="4"/>5 Servus baptizatus an remaneat servus, sicut prius 
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e1265" n="1">
+               <lb ed="#C" n="5"/>QVia Judaei? &amp; Sarraceni, de quibu 
+      <lb ed="#C" n="6"/>praemisimus. plerunque 
+      <lb ed="#C" n="7"/>emunt mancipia, an eis habere liceat, vide 
+      <lb ed="#C" n="8"/>amus. &amp; certe sic prohibitum est in legibu 
+      <lb ed="#C" n="9"/>E ne Christianum mancipium, vel haereticus 
+      <lb ed="#C" n="10"/>vel paganus, vel Judaeus habeat, vel possideat, vel circun 
+      <lb ed="#C" n="11"/>cidat, alias ad libertatem pervenit ipsum mancipium, et 
+      <lb ed="#C" n="12"/>Christianum erat, antequam ab eis possideretur, sive poste 
+      <lb ed="#C" n="13"/>Christianatum fuit. Sed hoc intellige, quando emit ipsun 
+      <lb ed="#C" n="14"/>causa serviendi sibi, ut apparet ex sequentibus: haeretic¬ 
+      <lb ed="#C" n="15"/>etiam imponitur capitalis poena hoc ipso quod habuit ve 
+      <lb ed="#C" n="16"/>circuncidit. Sed si pagani vel Judaei mancipium non Chri 
+      <lb ed="#C" n="17"/>stianum circunciderint, capite puniuntur propter circum 
+      <lb ed="#C" n="18"/>cisionem. quod non fieret propter solam possessionem, u 
+      <lb ed="#C" n="19"/>C. ne Christianum mancipium. in ipsa rub. &amp; lunica, &amp; de episce 
+      <lb ed="#C" n="20"/>pis. &amp; cle. I.ul ponitur autem poena capitalis pro poena exi 
+      <lb ed="#C" n="21"/>Ili, ut C. de ludaeis, Iudaei, Canones autemm prohibent quo 
+      <lb ed="#C" n="22"/>nullus Judaeus baptizatum, vel baptizari volentem in su¬ 
+      <lb ed="#C" n="23"/>servitio audeat retinere, ut infra eo. c. ult in princ. Sed dis 
+      <lb ed="#C" n="24"/>Utrum sit vernaculus, id est, ex propria ancilla natus, 8 
+      <lb ed="#C" n="25"/>domi nutritus. &amp; talis si velit fieri Christianus, statim er 
+      <lb ed="#C" n="26"/>pitur in libertatem: nullo pretio dato, C. de episcopis &amp; cle 
+      <lb ed="#C" n="27"/>Deo nobis. §. is ita &amp; arg 54. dist fraternitatem. Vel empticius 
+      <lb ed="#C" n="28"/>&amp; tunc subdist utrum Judaeus emat Christianum, &amp; tun 
+      <lb ed="#C" n="29"/>eripitur in libertatem: ut inf. eo multorum. in princ. &amp; 54. dis 
+      <lb ed="#C" n="30"/>a mancipia.
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e1324" n="2">
+      Similiter servi haereticorum impune possun 
+      <lb ed="#C" n="31"/>dominos suos relinquere, &amp; ad ecclesiam confugere. C.d 
+      <lb ed="#C" n="32"/>haere. &amp; Manichaeis. Vel paganum, &amp; tunc si emit causa se 
+      <lb ed="#C" n="33"/>viendi, quam cito baptizari desiderat, audiendus est, &amp; ir 
+      <lb ed="#C" n="34"/>libertatem eripitur, &amp; baptizatur sine cujusque calumni¬ 
+      <lb ed="#C" n="35"/>quam cito voluntas ipsius fuerit patefacta, &amp; sic intellig 
+      <lb ed="#C" n="36"/>54. dist fraternitatem. C. de episc. &amp; cle. Iult inf eod sicut. &amp; inf er 
+      <lb ed="#C" n="37"/>c. I.in fi. Sed &amp; si mancipium Christianum emptum fueri 
+      <lb ed="#C" n="38"/>causa mercimonii: &amp; ipsum intra tres menses venalem ex 
+      <lb ed="#C" n="39"/>ponat: nec per ipsum steterit quo minus vendiderit, quam 
+      <lb ed="#C" n="40"/>docunque desideraverit fieri Christianus, sive intra tre 
+      <lb ed="#C" n="41"/>menses, sive post: potest quilibet ipsum redimere dati 
+      <lb ed="#C" n="42"/>duodecim solidis &amp; Christianus, qui ipsum emit, potes 
+      <lb ed="#C" n="43"/>eum libertati donare, vel baptizatum suo servitio retine 
+      <lb ed="#C" n="44"/>re. sic intellige inf. eo. c. 1. §. datis. Quod si intra tres menses i 
+      <lb ed="#C" n="45"/>psum venalem non exposuerit. praesumitur emptus caus 
+      <lb ed="#C" n="46"/>se viendi, &amp; ideo si vult baptizari, in libertatem eripitur 
+      <lb ed="#C" n="47"/>ita quod Judaeus non audebit vendere, nec alius comp¬ 
+      <lb ed="#C" n="48"/>rare: sequitur igitur ex praemissis, quod si baptizari renue 
+      <lb ed="#C" n="49"/>rit, potest ipsum in perpetuum possidere. est ergo inducti 
+      <lb ed="#C" n="50"/>in favorem fidei Christianae: ut patet inf eod c.ult. &amp; 54. dis 
+      <lb ed="#C" n="51"/>fraternitatem.
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e1372" n="3">
+      Sequitur etiam ex praemissis, quod nullus 
+      <lb ed="#C" n="52"/>a potest habere Christianum in servum: a nam si nemo v 
+      <lb ed="#C" n="53"/>detur Dominus membrorum suorum: b ff. ad l. Aquil. I 
+      <lb ed="#C" n="54"/>ber homo, 1. multo minus extraneorum: &amp; multo minu¬ 
+      <lb ed="#C" n="55"/>ecclesiae. sup. de re. permu. mancipia. Sed omnes Christian 
+      <lb ed="#C" n="56"/>sunt membra ecclesiae igitur Christiano nemo poterit de 
+      <lb ed="#C" n="57"/>minari, sed tamen contrarium verum est, quia Christianus 
+      <lb ed="#C" n="58"/>ut patet in his quae no. sup. de ser. non ord &amp; infrx eo versic. se 
+      <lb ed="#C" n="59"/>quid si Christianus. &amp; se. non ob. opinio supra dicta, quia ae 
+      <lb ed="#C" n="60"/>quivocatur in domino &amp; membris. Item nemo dominu 
+      <lb ed="#C" n="61"/>est membrorum suorum: verum est, quo ad mutilandum 
+      <lb ed="#C" n="62"/>vel eis abutendum, sic nec extraneorum. Sed bene est do 
+      <lb ed="#C" n="63"/>minus, quo ad nutriendum, &amp; eis bene utendum, sic &amp; ex 
+      <lb ed="#C" n="64"/>traneorum, &amp; junge quod no. inf. eod. ver. sed nunquid servi 
+      <lb ed="#C" n="65"/>baptizatus. &amp; supra eo. ver sed &amp; mancipium. in fi. Quid si aliu 
+      <lb ed="#C" n="66"/>emit ipsum emptum causa serviendi, vel post tres menses 
+      <lb ed="#C" n="67"/>intra quos ipsum non exposuerit venalem? Respondeo 
+      <lb ed="#C" n="68"/>Si scienter emit, imputabit sibi, quia nihilominus erit li 
+      <lb ed="#C" n="69"/>ber. Sed si ignorabat. agat contra Judaeum ad interesse, qu 
+      <lb ed="#C" n="70"/>ipsum decepit. arg ff. de contrah empt. liberi hominis. Sed cu 
+      <lb ed="#C" n="71"/>jus monetae intelliguntur duodecim solidi supradicti? R. 
+      <lb ed="#C" n="72"/>spondeo de consueta hoc intelligunt quidam. inf. de male 
+      <lb ed="#C" n="73"/>di stat uimus § fi respectu religionis ar ff. de leg. 1. si servus plu 
+      <lb ed="#C" n="74"/>ruι. § sinumerus &amp; de leg3. nummis. &amp; de contrah. emp. Impi 
+      <lb ed="#C" n="75"/>rotores 4 dist. eritautem lex. Alii, quos sequitur Goff. dicun 
+      <lb ed="#C" n="76"/>quo d erunt aurei, &amp; sic exponunt. 12. solidos. id est. 12. aureos. 
+      <lb ed="#C" n="77"/>GC Instit de pama uemere litigan § S C. de spor. ommibus. C. de fa 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0695.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>mo, si quis nummos. nam &amp; in simili casu I. dicit viginti soli 
+      <lb ed="#C" n="79"/>dos dandos, ne libertas revocetur. f.de manumis. testam cun 
+      <lb ed="#C" n="80"/>ex falsis. alia dicit 20. aureorum de inoff. testam. Pap. §. fin. da 
+      <lb ed="#C" n="81"/>buntur autem hi solidi a quocunque Christiano empto 
+      <lb ed="#C" n="82"/>re. 54. dist. fraternitatem. Quid si plures emptores simui oc 
+      <lb ed="#C" n="83"/>currant intra tres menses? locus erit gratificationi. argu 
+      <lb ed="#C" n="84"/>supra de ele. venerabilem. §. objectioni &amp; de jure parr, cum autem 
+      <lb ed="#C" n="85"/>&amp; f. ad Syl. sena, con si quis in gravi §. si cum omnes ff. de relig. 
+      <lb ed="#C" n="86"/>sum fun. I. sin. &amp; hoc intelligas, ubi pares sunt qui occur 
+      <lb ed="#C" n="87"/>runt: alias episcopus debet eligere magis idoneum. argu 
+      <lb ed="#C" n="88"/>mentum. ff. de accusat. si plures. f.de popula actio. si plures. Se¬ 
+      <lb ed="#C" n="89"/>nunquid redemptus fiet servus redimentis in easu isto 
+      <lb ed="#C" n="90"/>Non: sed restituet ei pretium, vel serviet ei tempore, u 
+      <lb ed="#C" n="91"/>notatur. infra eodem versiculo sequen. Quid si nullus est em 
+      <lb ed="#C" n="92"/>ptor, nisi forte pretium datum fuit causa pietatis, non a 
+      <lb ed="#C" n="93"/>nimo repetendi. argumen ff.de ne, gest. Nesennius ff. de religio 
+      <lb ed="#C" n="94"/>&amp; sum. fu. &amp; si quis. §. prohibente. Quod si nullus emptor ap 
+      <lb ed="#C" n="95"/>pareat, nihilominus erit liber: &amp; quaeret pretium ostia 
+      <lb ed="#C" n="96"/>tim. ff. de manumis. I.4. §. servus. vel si habet pretium solvat 
+      <lb ed="#C" n="97"/>Institutio de noxa. actio. §. dominus. vel si nullo modo potes 
+      <lb ed="#C" n="98"/>habere, serviat ei per quinquennium: argument: C. de ca( 
+      <lb ed="#C" n="99"/>postli rever Lultima 36 quaestio.I. de raptoribus. Sic favor fide 
+      <lb ed="#C" n="100"/>privat aliquem servo: ut dictum est. Item privat ali 
+      <lb ed="#C" n="101"/>quem filio suo: ut supra de conversansi cap. ultimo. Item pri 
+      <lb ed="#C" n="102"/>vat aliquem uxore sua: ut 28. quaestio. 1. si fidelis. supra d 
+      <lb ed="#C" n="103"/>divor. quanto. &amp; capit. gaudemus. Patet, quod nullum Chri 
+      <lb ed="#C" n="104"/>stianum mancipium Judaeo servire debet: ut mfra eodem 
+      <lb ed="#C" n="105"/>capit. i. in principi multo minus liberi Christiani Judaei 
+      <lb ed="#C" n="106"/>servire debent: ideo Christianos vel Christianas non li 
+      <lb ed="#C" n="107"/>cet Judaeo habere intra domum assidue serviendi cau 
+      <lb ed="#C" n="108"/>sa, neque tanquam nutrices, neque tanquam obstetri 
+      <lb ed="#C" n="109"/>ces: alias Christiani ipsi cum eis habitantes excommuni 
+      <lb ed="#C" n="110"/>cantur, si discedere nolint. &amp; idem intelligas de Sarrace 
+      <lb ed="#C" n="111"/>nis, ut infra eodem ludaei. 2. &amp; capit. ad hoc. &amp; si Judaei ipso 
+      <lb ed="#C" n="112"/>Christianos volentes divertere non dimittant, sub ex¬ 
+      <lb ed="#C" n="113"/>communicatione inhibetur omnibus Christianis, ne cum 
+      <lb ed="#C" n="114"/>eis commercium aliquod audeant exercere: ut infra es 
+      <lb ed="#C" n="115"/>dem, &amp; si Iudaeos. in fine.
+    </p>
+            <p xml:id="nbht7y-d1e1747-d1e1518" n="4">
+      Ex hoc etiam quod dixi, quod¬ 
+      <lb ed="#C" n="116"/>intra domum non debent Christianae Judaeis servire 
+      <lb ed="#C" n="117"/>vel filios suos nutrire, videtur concessum a contrari¬ 
+      <lb ed="#C" n="118"/>quod extra domum liceat. unde Judaeis licet habere, escri 
+      <lb ed="#C" n="119"/>pticios colonos, originarios Christianos: quia ex quo tale 
+      <lb ed="#C" n="120"/>colendis terris diutius adhaeserunt, conditionem loci se 
+      <lb ed="#C" n="121"/>quantur, &amp; ideo in possessionibus Judaeorum remaneni 
+      <lb ed="#C" n="122"/>ad rura colenda, &amp; pensiones consuetas eis reddent: 8 
+      <lb ed="#C" n="123"/>cuncta quae de colonis vel originariis jura praecipiunt 
+      <lb ed="#C" n="124"/>peragent, &amp; nihil eis oneris extra hoc indicetur. quia ta 
+      <lb ed="#C" n="125"/>les districtione legum liberi judicantur. quod si Judaeui 
+      <lb ed="#C" n="126"/>talem ad alium transferre voluerit, vel ad aliud obse 
+      <lb ed="#C" n="127"/>quium deputare jus colonarium, &amp; ius dominii sibi ju 
+      <lb ed="#C" n="128"/>ris severitate damnavit, id est, ipso facto sibi abstulit, ui 
+      <lb ed="#C" n="129"/>infra eodem multorum. §. 1. &amp; 2. Et est argument. quod s 
+      <lb ed="#C" n="130"/>quis mutat pedagium de loco ad locum, vel plus consue¬ 
+      <lb ed="#C" n="131"/>to exigit, privilegium pedagii amittit, sicut curia Impe 
+      <lb ed="#C" n="132"/>rialis tenet: &amp; bene, quia privilegium pedagii meretur 
+      <lb ed="#C" n="133"/>&amp;c. ii quaestio. 8. privilegium. &amp; notatur supra de Iudaeis. 6 
+      <lb ed="#C" n="134"/>&amp; in quibus graventur. versiculo. 6. Qui autem dicantur ad 
+      <lb ed="#C" n="135"/>scripticii coloni a vel originarii, dic ut plene notatur a 
+      <lb ed="#C" n="136"/>supra de natis ex liber. ven. sub §. sic fecimus. &amp; persicul. seq 
+      <lb ed="#C" n="137"/>Liquet ex praemissis. quod non obst. authoritas Aposto 
+      <lb ed="#C" n="138"/>li dicentis Subditi estote dominis vestris, non tantum 
+      bo<lb ed="#C" n="139" break="no"/>nis &amp; modestis, sed etiam discolis: quia intelligi debet 
+      <lb ed="#C" n="140"/>de his, qui in gleba serviunt, non domi. sic supra decem 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="141"/>ADDITIONES. 
+      <lb ed="#C" n="142"/>a Nullus potest habere Christianum servum.] Adde term in ea 
+    </p>
+    <p>
+      <lb ed="#C" n="143"/>mancipia. 54. disi 
+      <lb ed="#C" n="144"/>b Dominus membrorum suorum.] Adde gloss. inc. non inferen¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>da, 23. quae 3 gluss. in c ex parte. de corp. vitia. Abb. inc.cum olim, d 
+      <lb ed="#C" n="146"/>regul inr. Domi. in ca. sicut, 3. q. I. Cy. in l. rescripia. C. sicontra ins, vl 
+      <lb ed="#C" n="147"/>uti public 
+      <lb ed="#C" n="148"/>t xii solidos, id est, 12. aureos.] Adde glo. in rubr. C.devet. num. Ii 
+    </p>
+    <p>
+      <lb ed="#C" n="149"/>30. gl. &amp; ibi Bal. in I. fin. C. commu. deleg Cyn in Ipen. C. de don. Sal 
+      <lb ed="#C" n="150"/>in l. illud, C. de sac san. eccl. Ioan. And. in addi. Spec. tit de instru edi¬ 
+      <lb ed="#C" n="151"/>to, in § porro, in f 
+      <lb ed="#C" n="152"/>a Qui dicantur ascripticii coloni.) Adde L omnes, &amp; ibi doct. C. d¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="153"/>agri &amp; censitis 11--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0696.xml-->
+      <pb ed="#C" n="679"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>omnis. Sed quid si Christianus a Christiano mancipium 
+      <lb ed="#C" n="2"/>merit sive causa mercimonii, sive causa serviendi, nur 
+      <lb ed="#C" n="3"/>quid potest ipsum servum &amp; in suo servitio retinere? sic 
+      <lb ed="#C" n="4"/>ut Instit. de jure persona §. servitus, &amp; de contrahen. empt. § quo 
+      <lb ed="#C" n="5"/>si fugerit servus, qui venit. &amp; a contrario sensu. infra eod c 
+      <lb ed="#C" n="6"/>pitulo, &amp; capitulo sfinali. &amp; argument. infra eodem, &amp; si Judae 
+      <lb ed="#C" n="7"/>Judaeum tamen secum in sua familia non habebit. 28 qua 
+      <lb ed="#C" n="8"/>stione prima sequenti penultim &amp; capitul. nullus. Quid si tali 
+      <lb ed="#C" n="9"/>servus emptus baptizari voluerit? Respondeo, non debe 
+      <lb ed="#C" n="10"/>prohiberi: quia ubi Spiritus, ibi libertas, 19. quaestio. 2. du¬ 
+      <lb ed="#C" n="11"/>sunt de renunciat. nisi cum pridem. §. sed dices. Quid si dom 
+      <lb ed="#C" n="12"/>nus non permittat, dicens quod hoc non facit servus e 
+      <lb ed="#C" n="13"/>charitate, sed ne sic, sicut prius verberetur, vel male tract¬ 
+      <lb ed="#C" n="14"/>tur? nihiloninus compellendus est dominus: quia in di 
+      <lb ed="#C" n="15"/>bio tutius eligendum. infra de regul. jur. estote. sic etiam pe 
+      <lb ed="#C" n="16"/>test intelligi, mfra cod sicut Judaet. ubi absque calumnia, nan 
+      <lb ed="#C" n="17"/>&amp; alias talia sunt superioris arbitrio committenda. supr 
+      <lb ed="#C" n="18"/>de regula licet. §. talis ergo. &amp; S. quo circa.? Sed nunquid se 
+      <lb ed="#C" n="19"/>vus baptizatus manebit servus, sicut prius? Sic: nam? 
+      <lb ed="#C" n="20"/>servitus de jure divino. est introducta. 36. distin. 6 &amp; con 
+      <lb ed="#C" n="21"/>firmata de jure gentium..distinct ius gentium. &amp; de jure ci 
+      <lb ed="#C" n="22"/>nonico approbata. 11.9. 1. ab illo capitalo si quis de servis usqu 
+      <lb ed="#C" n="23"/>ad ca eccleuarum servos. puto tamen, quod non est ita des¬ 
+      <lb ed="#C" n="24"/>viendum in eum, sicut prius, imo est inter alios servosn 
+      <lb ed="#C" n="25"/>Christianos, tractandus leniter &amp; benigne: argum. supr 
+      <lb ed="#C" n="26"/>de majorit. &amp; obed. per tuas. nam nec in servum aliquem es 
+      <lb ed="#C" n="27"/>nimis acriter saeviendum. Instit. de his qui sui juris vel alien 
+      <lb ed="#C" n="28"/>sunt. §. dominorum. &amp; junge quod not. supra tod. versiculs¬ 
+      <lb ed="#C" n="29"/>quitur.
+    <!--</p>
+    <p>
+      <lb ed="#C" n="30"/>ADDITIO. 
+      <lb ed="#C" n="31"/>e Servitus de jure divino ]Adde Card. Alexan. in cap. quo iare.i 
+    </p>
+    <p>
+      <lb ed="#C" n="32"/>1. col 8. distine--> 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

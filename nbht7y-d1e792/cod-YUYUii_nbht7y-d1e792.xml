@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 23</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 23</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="292"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e792"><!-- nbht7y-l2t23 -->
+            <head xml:id="nbht7y-d1e792-Hd1e101">Titulus 23</head>
+            <head xml:id="nbht7y-d1e792-Hd1e103" type="question-title">De praesumptionibus</head>
+            <p xml:id="nbht7y-d1e792-d1e106">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0309.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="76"/>De Praesumptionibus. Rubri¬ 
+      <lb ed="#C" n="77"/>ca XXIII 
+  </p>
+            <p xml:id="nbht7y-d1e792-d1e117">
+               <lb ed="#C" n="78"/>SUMMARIA 
+      <lb ed="#C" n="79"/>1 Praesumptio quid si 
+      <lb ed="#C" n="80"/>2 Praesumptionis species quot sin 
+      <lb ed="#C" n="81"/>3 Praesumptionum divisio secunda 
+      <lb ed="#C" n="82"/>4 Praesumptionum divisio quarta 
+      <lb ed="#C" n="83"/>Bonum esse recte factum praesumitur 
+    </p>
+            <p xml:id="nbht7y-d1e792-d1e133">
+               <lb ed="#C" n="84"/>EXpedito tractatu de vera probatione 
+      <lb ed="#C" n="85"/>accedamus ad tractatum di¬ 
+      <lb ed="#C" n="86"/>quasi probatione, seu semiplena: &amp; sic vi 
+      <lb ed="#C" n="87"/>deamus de praesumptione, quae &amp; aliquar 
+      <lb ed="#C" n="88"/>do plenam probationem facit, puta quar 
+      <lb ed="#C" n="89"/>do violenta est, sive juris est, &amp; dejure: a aliquando pro¬ 
+      <lb ed="#C" n="90"/>bationem jam semiplene factam adjuvat, aliquando prae 
+      <lb ed="#C" n="91"/>sumptionem solam inducit, sic ut vox ipsa sonat, ut in in 
+      <lb ed="#C" n="92"/>ferioribus apparebit. Dicamus igitur, Quid sit praesum 
+      <lb ed="#C" n="93"/>ptio, Quot ejus species, Quid sit ejus effectus
+    </p>
+            <p xml:id="nbht7y-d1e792-d1e158">
+               <lb ed="#C" n="94"/>Quid sit praesumptio. Alicujus facti dubi 
+      <lb ed="#C" n="95"/>aliquoties semiplena, 
+      <lb ed="#C" n="96"/>aliquoties plena investigatio. secundum Goffre. Vel dic 
+      <lb ed="#C" n="97"/>praesumptio est alicujus facti dubii semiplena aliquand 
+      <lb ed="#C" n="98"/>quasi plena facta investigatio, quae aliquando motum a 
+      <lb ed="#C" n="99"/>nimi judicis, vel alterius hominis informat, qualiter debe 
+      <lb ed="#C" n="100"/>at se habere, &amp; aliquando ostendit qualiter debeat judi 
+      <lb ed="#C" n="101"/>care. Vel praesumptio est ex diversis personarum, rerum 
+      <lb ed="#C" n="102"/>locorum, temporum, factorum qualitatibus perspicatio 
+      <lb ed="#C" n="103"/>&amp; prout fieri potest consideratio certa probatione defici 
+      <lb ed="#C" n="104"/>ente animi cujuslibet hominis, &amp; maxime judicis proba 
+      <lb ed="#C" n="105"/>bilis, sive justa instructio, ut ex inferioribus apparebit
+    </p>
+            <p xml:id="nbht7y-d1e792-d1e187">
+               <lb ed="#C" n="106"/>Quot ejus species. Prima cirsio haec est. quia 
+      <lb ed="#C" n="107"/>praesumptionum alia temer¬ 
+      <lb ed="#C" n="108"/>ria. &amp; haec reprobatur. 2. qu. i. primo, &amp; G. qu. I. oves. mfrad 
+      <lb ed="#C" n="109"/>sent. excomm. inquisitioni. Alia probabilis, ut quando qui 
+      <lb ed="#C" n="110"/>infamatus est, ideoque inducit purgationem. supra de pri 
+      <lb ed="#C" n="111"/>batio. sicut consuetudo. &amp; c. ad nostram. 2. qu. 5. presbyter. infrad 
+      <lb ed="#C" n="112"/>pur canc.. &amp; 2. Admittitur etiam probabilis ad semiple 
+      <lb ed="#C" n="113"/>nam probationem faciendam, ut patet infra eod.c.in mu 
+      <lb ed="#C" n="114"/>tis, &amp; infra de sentent. excomm. inquisitioni, &amp; supra de restit spo 
+      <lb ed="#C" n="115"/>solicitae, secundum Goff. Est &amp; alia violenta, &amp; huic statu 
+      <lb ed="#C" n="116"/>adeo, quod sententia fertur propter eam, quo ad thorum 
+      <lb ed="#C" n="117"/>vel quo ad hoc, ut alias suspectus puniatur. haec enim a¬ 
+      <lb ed="#C" n="118"/>pronunciandum est sufficiens, ad hoc, ff. dehis qui sui juri 
+      <lb ed="#C" n="119"/>sunt. I filium. supra de testib. praeterea. ut cum invenitur solu 
+      <lb ed="#C" n="120"/>cum sola, nudus cum nuda, &amp; in loco suspecto, ut infr. eo¬ 
+      <lb ed="#C" n="121"/>literis, &amp;c. seq. 32. 42. dixit dominus
+    </p>
+            <p xml:id="nbht7y-d1e792-d1e224">
+               <lb ed="#C" n="122"/>SEcunda divisio? haec est praesumptionum. Alia judi 
+      <lb ed="#C" n="123"/>cis sive contumacia hominis. Alia famae Alia naturae 
+      <lb ed="#C" n="124"/>Aliajuris tantum. Alia juris, &amp; dejure. Alia qualitas f¬ 
+      <lb ed="#C" n="125"/>cti. Alia judicis sive contumaciae hominis, ut quando epi 
+      <lb ed="#C" n="126"/>scopus citavit clericum suum, nisi redit ad ecclesiam, prae 
+      <lb ed="#C" n="127"/>sumit judex, quod habet ecclesam pro derelicta. argum. 
+      <lb ed="#C" n="128"/>contrario sensu. 7. qui praesentium. haec bene admittit pro 
+      <lb ed="#C" n="129"/>bationem in contrarium, ut ibi no. iufr. de cle non re. sub S u 
+      <lb ed="#C" n="130"/>tilitatem hujus tit &amp; de hac legitur, 2. qu. 5. omnibus vobis. crre 
+      <lb ed="#C" n="131"/>sin. Alia famae, ut quando quis infamatus est, nec apparen 
+      <lb ed="#C" n="132"/>alia indicia, &amp; haec admittit probationem in contrarium 
+      <lb ed="#C" n="133"/>aliquando per inquisitionem, ut infra eodem, cumm juver 
+      <lb ed="#C" n="134"/>tute, &amp; de accusa inquisitionis, &amp; capit. qualiter. 2. aliquandm 
+      <lb ed="#C" n="135"/>per purgationem, ut notatur supra S. quot ejus species. Alia 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="136"/>ADDITIONES. 
+      <lb ed="#C" n="137"/>a Sive juris est, &amp; dejure) Adde cap. quanto de praesumpt. Dob 
+    </p>
+    <p>
+      <lb ed="#C" n="138"/>in cap. is qui despon. Innoc. in cap. fraternitatis, de frig. Doct. in auth 
+      <lb ed="#C" n="139"/>sed iam necesse. C. de incest. nupi 
+      <lb ed="#C" n="140"/>b Quid sit praesumptio) Adde Doct. in rubr. aodtis--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0310.xml-->
+      <pb ed="#C" n="293"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>naturae, ut si pater exhaeredaverit filium, e praesumitur 
+      <lb ed="#C" n="2"/>quod injuste, quia non permittit natura praesumere, quo 
+      <lb ed="#C" n="3"/>tilius patrem offendat, vel econtra. C de mofficioso restamen 
+      <lb ed="#C" n="4"/>nerimodo. &amp; authent. non liceat patri; quia nullus affectu 
+      <lb ed="#C" n="5"/>vincit paternum vel maternum, infra eodem, afferte. C. de cu 
+      <lb ed="#C" n="6"/>rae. fur. I. ult. &amp; ideo plerunque consilium capit pro liberi 
+      <lb ed="#C" n="7"/>paternapietas. ff. de adulter. nec ea lege: &amp; magis veretur stu 
+      <lb ed="#C" n="8"/>prum pater in filium, quam in seipsum. J. quod met. caus. 
+      <lb ed="#C" n="9"/>usti quiden ideo paterfilium exhaeredans, dicitur quodan 
+      <lb ed="#C" n="10"/>furore testatus. f. de inofficioso iestamemo. l.1. &amp; 2. &amp; ex ha 
+      <lb ed="#C" n="11"/>praesumptione contingit, quod non praesumitur fratren 
+      <lb ed="#C" n="12"/>contra fratrem falsum testimonium dicere, maxime ii 
+      <lb ed="#C" n="13"/>crimine haeresis, vel in alio gravi. infra eod literas. natural 
+      <lb ed="#C" n="14"/>etiam foedus non permittit quicquam saevi criminis susp¬ 
+      <lb ed="#C" n="15"/>cari. infrade cohabi. cleric. &amp; mu.c.2&amp;c. ulti. dic, ut dixi in 
+      <lb ed="#C" n="16"/>summa. Alia juris tantum, puta cum jus praesumit est ali 
+      <lb ed="#C" n="17"/>quid. sed non statuit jus super praesumpto. secundun 
+      <lb ed="#C" n="18"/>Gofir. ut si vir diu fuerit cum uxore sua in lecto praesumi 
+      <lb ed="#C" n="19"/>jus, quod ipsam cognoverit. si ipse hoc dicat, quamvi 
+      <lb ed="#C" n="20"/>uxor neget mfrade despons. impub. continebatur. &amp;c. duo pu¬ 
+      <lb ed="#C" n="21"/>r1. 33. 4.1. siquis acceperit. tamenbene admittit probationen 
+      <lb ed="#C" n="22"/>in contrarium, 27. q. 1. nec aliqua. supra de proba. proposuist. 
+      <lb ed="#C" n="23"/>&amp; c. causam. nec praetermittendum est, quod aliquand 
+      <lb ed="#C" n="24"/>lex fingit bonum, quod canon malum praesumit. nam in 
+      <lb ed="#C" n="25"/>liberae mulieris conjunctione, &amp; cohabitatione, lex prae 
+      <lb ed="#C" n="26"/>sumit matrimonium. ff. deritu nupt. in liberae. canon, vero 
+      <lb ed="#C" n="27"/>praesumit stuprum, seu contubernium, nisi probetur ma 
+      <lb ed="#C" n="28"/>trimonium. 30. quaest. 5. c. 1. &amp; 2. &amp; hoc propter periculum 
+      <lb ed="#C" n="29"/>quod accidere potest clandest despon. nam quamvis v 
+      <lb ed="#C" n="30"/>rum matrimonium contractum sit inter aliquos, si tamei 
+      <lb ed="#C" n="31"/>alter divertat, non distringentur per ecclesiam, nisi matri 
+      <lb ed="#C" n="32"/>monium probetur. 30. quaest. 5. §. his ita. infra de clandest. de 
+      <lb ed="#C" n="33"/>sponsa. c. 1. &amp; nota. in sumina ejusdem tit. §. quare prohibeantur 
+      <lb ed="#C" n="34"/>Item exemplum de praesumptione juris tantum. C. deep¬ 
+      <lb ed="#C" n="35"/>scop. &amp; cler. authent. licentiam. 12. q. 5. nulli. infra de testa. requi 
+      <lb ed="#C" n="36"/>sisti. secundum Goffre. item si chirographum a cancella 
+      <lb ed="#C" n="37"/>tum sit, praesumitur debitor liberatus, nisi contrariun 
+      <lb ed="#C" n="38"/>probetur. ff. de probat. si chirographum. Item instrumento 8 
+      <lb ed="#C" n="39"/>literis statur prima facie, nisi probetur contrarium. supr 
+      <lb ed="#C" n="40"/>de probat. §. postcessionem. C. de probat. jubemus. quod dic, u 
+      <lb ed="#C" n="41"/>notatur supra de probat. §. &amp; quot sunt species. vers. 10. fit etiar 
+      <lb ed="#C" n="42"/>probatio. &amp; de fide instrum. §. quibus instrumentis. Item pra 
+      <lb ed="#C" n="43"/>sumitur a jure, quod quicquid habet uxor de bonis mari 
+      <lb ed="#C" n="44"/>ti, acquisierit, nisi contra probetur. ff de donat inter virum e 
+      <lb ed="#C" n="45"/>axor. Quintus Mutius. C. de donat. inter virum &amp; uxor. etian 
+      <lb ed="#C" n="46"/>sic in clerico administrationem habente, ut not. infra de p¬ 
+      <lb ed="#C" n="47"/>ca. cleric. §. ulti. &amp; ideo si relinquitur clerico ab extraneo 
+      <lb ed="#C" n="48"/>praesumitur relictum intuitu ecclesiae, nisi contrariun 
+      <lb ed="#C" n="49"/>probetur. infra de testam. requisisti. Item praesumit jus, quo¬ 
+      <lb ed="#C" n="50"/>quilibet sit idoneus, nisi contra probetur, ut infra eod, 
+      <lb ed="#C" n="51"/>in. supra de scrut. in ordin. fa.c. unico. &amp; quod sit solvendo. ff.d 
+      <lb ed="#C" n="52"/>privileg. cred. si creditores in sin. licet sit argum. supra de pro 
+      <lb ed="#C" n="53"/>bat. ex persona. &amp; praesumitur, quod quilibet sit bonae fidei 
+      <lb ed="#C" n="54"/>nisi probetur malae. C. de evict. I.pen. C. qui mili. non pos. su 
+      <lb ed="#C" n="55"/>per servis. lib 12. &amp; de non num. pecun. authenti. contra qui pro 
+      <lb ed="#C" n="56"/>priam. &amp; ideo qui dolum dicit, dolum probare debet. ff. d 
+      <lb ed="#C" n="57"/>probat. quoties. §. qui dolo, vel culpa. ff. de administr. tutor. chiro 
+      <lb ed="#C" n="58"/>graphis. Dominus tamen Gulielmus Alumen. Parisiens 
+      <lb ed="#C" n="59"/>episcopus dicebat, quod potius debemus praesumere ma 
+      <lb ed="#C" n="60"/>lum quam bonum: quia pro uno bono inveniuntur 10 
+      <lb ed="#C" n="61"/>mala. Et multi sunt rocati, pauci vero electi. Sed hoc fi 
+      <lb ed="#C" n="62"/>aequitate, &amp; benignitate juris, &amp; quia de omnibus dubii 
+      <lb ed="#C" n="63"/>benigna interpretatio fieri debet. infra deregul. jur estot 
+      <lb ed="#C" n="64"/>Item si Abbas aliquem praesentaverit, praesumitur, quo¬ 
+      <lb ed="#C" n="65"/>hoc facit de consensu clericorum sive monachorum suo 
+      <lb ed="#C" n="66"/>rum, nisi contra probetur. infra de his quae fiunt a praelat. sin 
+      <lb ed="#C" n="67"/>consensu, cap. ea noscitur. Item si quis metu literarum, quae 
+      <lb ed="#C" n="68"/>audivit contra se impetratas, appellavit, praesumitur fru 
+      <lb ed="#C" n="69"/>stratorie appellasse. infra de appell. super eod. sed incumbi 
+      <lb ed="#C" n="70"/>probatio adversario: ut dicunt quidam. argum. ff. depro 
+      <lb ed="#C" n="71"/>bat. ab ea parte. &amp; l. in except. quod non credo verum. supr 
+      <lb ed="#C" n="72"/>de ossic. delegat, cum causa. &amp; demu. pet. c. i. Alia juris, &amp; d 
+      <lb ed="#C" n="73"/>jure: puta cum quis fingit aliquid, &amp; statuit super ficto, se 
+      <lb ed="#C" n="74"/>cundum Goffr. &amp; hoc non admittit probationem in con 
+      <lb ed="#C" n="75"/>trarium, ut si semel dejeraverit quis, nunquam admitti 
+      <lb ed="#C" n="76"/>tur in testimonium, quia praesumit jus, quod semper deje 
+      <lb ed="#C" n="77"/>raret. supra de testib. testimonium. quod dic, ut dixi in sum 
+      <lb ed="#C" n="78"/>ma § quis possit. versic. excipitur perjurus. Item si ante liti 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0310.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>contestat. testes produxerit actor, nisi intra annum con 
+      <lb ed="#C" n="80"/>venerit adversarium, vel ipsum super hoc certificaverit 
+      <lb ed="#C" n="81"/>praesumet jus, quod in fraudem hoc fecerit, &amp; ideo elapsi 
+      <lb ed="#C" n="82"/>anno non valent testimonia, ut supra, utlit. contest. quoniam 
+      <lb ed="#C" n="83"/>Item si aliqua mulier invita tradatur marito, habitat seci 
+      <lb ed="#C" n="84"/>per annum &amp; dimidium, de caetero non poterit reclama 
+      <lb ed="#C" n="85"/>re: Idem si permittat se cognosci, quamvis etiam non ha 
+      <lb ed="#C" n="86"/>beat annos legitimos, nam &amp; carnalis copula facit de spon 
+      <lb ed="#C" n="87"/>salibus matrimonium, jure praesumente, quod consense 
+      <lb ed="#C" n="88"/>rit, &amp; de hac praesumptione facit jus, &amp; sic dicitur prae 
+      <lb ed="#C" n="89"/>sumptio juris &amp; de jure. infra de spons. ad id quod &amp; de despon 
+      <lb ed="#C" n="90"/>impube. de illis a nobis puberes. &amp; qui matri. accus. non pos. insu 
+      <lb ed="#C" n="91"/>per, &amp; de spons. juvenis. &amp; de despons. impube. literas. &amp; de con 
+      <lb ed="#C" n="92"/>di. appo per tuas. Item exemplum infra de sponsa commissum 
+      <lb ed="#C" n="93"/>54. distinct. fraternitatem. 27. distin. quod interrogasti. 27. quaesi 
+      <lb ed="#C" n="94"/>2. vidua. infra de regulavidua. Et alias generaliter, ubicun 
+      <lb ed="#C" n="95"/>que jus fingit, et statuit super ficto. Quandoque tamen 
+      <lb ed="#C" n="96"/>jus fingit, aliud esse, quam sit. nam fingit mulierem stipu 
+      <lb ed="#C" n="97"/>latam dotem quae non est stipulata. C. derei uxor. actio. I.u 
+      <lb ed="#C" n="98"/>nica. in princ. Fingit etiam natum, quod non est. ff. de stati 
+      <lb ed="#C" n="99"/>hom. qui in utero. Item fingit vivere, quod non vivit. Institu 
+      <lb ed="#C" n="100"/>de excus. tutor. §. filii autem. Sed &amp; fingit non esse natum 
+      <lb ed="#C" n="101"/>quod natum est. ff. de liber. &amp; posthum. Titius testamento. § 
+      <lb ed="#C" n="102"/>Lucius. Praeterea fingit non conceptum, quod nascitu 
+      <lb ed="#C" n="103"/>mortuum. ff. de verbor. sign qui mortui. secundum Goffred 
+      <lb ed="#C" n="104"/>Ubi ergo jus praesumit, &amp; ex tali praesumptione jus facit 
+      <lb ed="#C" n="105"/>dicitur praesumptio juris, &amp; dejure: sed si quis non statu 
+      <lb ed="#C" n="106"/>eret jus ex tali praesumptione, sed praesumeret tantum 
+      <lb ed="#C" n="107"/>tunc dicitur praesumptio juris tantum, &amp; talis bene ad 
+      <lb ed="#C" n="108"/>mittit probationem in contrarium, etiamsi sit violenta, u 
+      <lb ed="#C" n="109"/>de hoc not. supra multa exempla, &amp; habes 35. quaest 3. extra 
+      <lb ed="#C" n="110"/>ordinaria. Ideoque praesumptio juris est, quando jus prae 
+      <lb ed="#C" n="111"/>sumit super dubio cancellando, magis tamen pendet ex 
+      <lb ed="#C" n="112"/>una parte, &amp; ideo ei stamus prima facie. Praesumptio ve 
+      <lb ed="#C" n="113"/>ro juris, &amp; dejure est, quando jus super dubio aequitati 
+      <lb ed="#C" n="114"/>pensata aestimat, quod verius sit, &amp; certius, seu tutius in 
+      <lb ed="#C" n="115"/>tendens ex tali aestimatione jus statuere: ideo additurS 
+      <lb ed="#C" n="116"/>de jure, quasi dicat est praesumptio juris, id est jus in du 
+      <lb ed="#C" n="117"/>bio juste, &amp; rationabiliter praesumit, &amp; de jure, id est just. 
+      <lb ed="#C" n="118"/>facit, &amp; tute, quia ex tali praesumptione constituit jus. Un 
+      <lb ed="#C" n="119"/>de prima facie est justa praesumptio a jure inducta, sed du 
+      <lb ed="#C" n="120"/>bitativa ex honestate, vel aequitate, vel fama, vel natura 
+      <lb ed="#C" n="121"/>seu qualitate facti procedens. Secunda vero justa, &amp; cer 
+      <lb ed="#C" n="122"/>ta ex vi constirutionis juris a ratione, seu honestate natu 
+      <lb ed="#C" n="123"/>rae, seu publicae justitiae procedens: ideo dicitur aliquic 
+      <lb ed="#C" n="124"/>notorium juris. Alia qualitatis facti, &amp; de hoc jure est si 
+      <lb ed="#C" n="125"/>militer, quia scilicet jus propter qualitatem facti praesu 
+      <lb ed="#C" n="126"/>mit aliud bene, vel male actum. inde dicitur, quod per ex¬ 
+      <lb ed="#C" n="127"/>teriorag comprehenduntur inferiora. nam si quis sim 
+      <lb ed="#C" n="128"/>pliciter, humiliter, &amp; continenter vixerit, cum honestis a 
+      <lb ed="#C" n="129"/>discretis libenter conversetur, praesumuntur ejus opera bo 
+      <lb ed="#C" n="130"/>na, &amp; recta, &amp; munda: &amp; econtra si libenter non oraverit, 
+      <lb ed="#C" n="131"/>non jejunaverit, nec humiliter se habuerit, sed cum luxu 
+      <lb ed="#C" n="132"/>riosis, lusoribus, &amp; potatoribus se exposuerit, hujus operi 
+      <lb ed="#C" n="133"/>praesumi possunt inhonesta, &amp; mala, ut mfr. eod c. ex studiis 
+      <lb ed="#C" n="134"/>5o dist si quis dia. infra de sta. mo. quod Dei timorem. respons.i.8 
+      <lb ed="#C" n="135"/>sic de malo opere praesumitur malus animus. secund. ho 
+      <lb ed="#C" n="136"/>intellige supra de elect. Osius. infr. de cler. non resi. C.I. nam con 
+      <lb ed="#C" n="137"/>tumelia, furta, &amp; hujusmodi in sui natura mala sunt. inf¬ 
+      <lb ed="#C" n="138"/>tit.i. &amp; si Christus. §. quaedam, &amp; de reg jur. estote ff. de adult, si ad 
+      <lb ed="#C" n="139"/>ulterium. &amp; de verb sig probrum, &amp; opprobrium. &amp; impudicu 
+      <lb ed="#C" n="140"/>oculus impudici cordis est nuncius, secund. August. 224 
+      <lb ed="#C" n="141"/>5. net solo. &amp; caui viderit. ideo quicquid injuriosum fit, au 
+      <lb ed="#C" n="142"/>dicitur, praesumitur animo injuriandi factum, vel dictum 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="143"/>ADDITIONES. 
+      <lb ed="#C" n="144"/>e Si pater exhaeredavent filium) Adde Doct. in c. Qginta vallis 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>deureιων 
+      <lb ed="#C" n="146"/>d Si chirographum) Adde an &amp; quando restituto chirographo 
+    </p>
+    <p>
+      <lb ed="#C" n="147"/>videatur remitti debitum. vide per Arch. in c. hunc numerum 
+      <lb ed="#C" n="148"/>76 distin 
+      <lb ed="#C" n="149"/>e Quilibet praesumituridoneus) Adde l. non omnes. in s. Barbaris 
+    </p>
+    <p>
+      <lb ed="#C" n="150"/>ff. de re mili. &amp; per Spec. ait. de prob. in §. I. vers. resta 
+      <lb ed="#C" n="151"/>f De omnibus dubiis) Adde cap. absiu. Il. 4. 3.c. incer dilectos. de fidi 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>instr. cum dilecti. de accusati¬ 
+      <lb ed="#C" n="153"/>g Per exteriora) Adde glo inc. &amp; si quaestiones de simo.Lis qui ins 
+    </p>
+    <p>
+      <lb ed="#C" n="154"/>divus. ff. de tu. &amp; cur. da ab bis zl.insin. de rer. divis. in sicervos--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0311.xml-->
+      <pb ed="#C" n="294"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>nisi contrarium probetur. ut C. ad I. Corn. de sic.l.. &amp; de inju¬ 
+      <lb ed="#C" n="2"/>si non convitii. licet delinquens dicat, quod ludens fecerii 
+      <lb ed="#C" n="3"/>ut infra eod. c.I. nam ludus noxius in culpa est ff. ad lAqui 
+      <lb ed="#C" n="4"/>nam ludus. &amp; idemo non debet remanere impunitus. ff. a 
+      <lb ed="#C" n="5"/>fur. infarti actio. §. ulti. quis enim ludos appellabit, ex qui 
+      <lb ed="#C" n="6"/>bus crimina oriuntur, ut in const. ff. vet. §. illud vero. ide 
+      <lb ed="#C" n="7"/>praesumitur de facili contra usurarios, qui consueverum 
+      <lb ed="#C" n="8"/>exercere usuras, ut not. supra quod met. caus. §. qualiter. d 
+      <lb ed="#C" n="9"/>stinguatur. vers. quid enim de pact. &amp; infra de contraheni 
+      <lb ed="#C" n="10"/>empt. §. qualiter rescindatur. versic. de contractu ad contr¬ 
+      <lb ed="#C" n="11"/>ctum. &amp; vers. de re ad rem. &amp; de pignor. §. quibus pact. &amp; ver 
+      <lb ed="#C" n="12"/>ibi, &amp; seque &amp; habes. infra de pigno. illo. in sin ff. de action. empt. e 
+      <lb ed="#C" n="13"/>vend. Julianus. §. idem Pomponius. Item ex qualitate fact 
+      <lb ed="#C" n="14"/>loci, &amp; personae praesumitur contra illum, qui dicit se coi 
+      <lb ed="#C" n="15"/>pulsum in civitate, vel coram praetore, cum sit potensS 
+      <lb ed="#C" n="16"/>nobilis. ffequod met causa non est perisimile. Item a commit 
+      <lb ed="#C" n="17"/>niter accidentibus praesumitur contra excipientes, &amp;d 
+      <lb ed="#C" n="18"/>lationes petentes, ut not. supra de dilat. §. &amp; quando §. quie 
+      <lb ed="#C" n="19"/>ties. Item qui natus est de Christianis, &amp; inter Christiano 
+      <lb ed="#C" n="20"/>conversatus, praesumitur baptizatus, ut not. infra de presb¬ 
+      <lb ed="#C" n="21"/>non bapti. §. i. vers. quid si mortuus. &amp; in eod. tit legitur. c.uli¬ 
+      <lb ed="#C" n="22"/>in fin. Item quod constat semel verum, semper praesumi 
+      <lb ed="#C" n="23"/>tur verum, nisi probetur contrarium; unde sufficit, quoc 
+      <lb ed="#C" n="24"/>probemrem patris mei fuisse, sive possideam, sive petam 
+      <lb ed="#C" n="25"/>nisi alius probet contrarium. C. deprob. sive posssidetis. quo 
+      <lb ed="#C" n="26"/>dic, ut not. supra de prob. &amp; S. quot sunt species. vers. dominium
+    </p>
+            <p xml:id="nbht7y-d1e792-d1e643">
+               <lb ed="#C" n="27"/>TErtia divisio praesumptionum haec est, quia, Alia si 
+      <lb ed="#C" n="28"/>praesumptio facti praesentis ad praesens. Alia praesenti 
+      <lb ed="#C" n="29"/>ad praeterita. Alia praeteriti ad futura. Alia praeteriti ac 
+      <lb ed="#C" n="30"/>praesens. Alia ex praesenti circa futurum. Alia ex praeteri 
+      <lb ed="#C" n="31"/>tis circa praeteritum: Alia praesentis ad praesens. ut 6. qu. 
+      <lb ed="#C" n="32"/>qui crimen. Item non est verisimile, quod aliquis renuncie 
+      <lb ed="#C" n="33"/>majori beneficio pro minori. infra cod. quia non est verisiumi 
+      <lb ed="#C" n="34"/>le. supra de renunc. super hoc. non enim diligens paterfami 
+      <lb ed="#C" n="35"/>llas pecuniam suam jactare praesumitur, ut f.de proba cun 
+      <lb ed="#C" n="36"/>de indebito. Item ad praesens. infra eod. literas. §. 1. ibi, quoc 
+      <lb ed="#C" n="37"/>eo tempore. Item si quis petit dilationem, praesumitu 
+      <lb ed="#C" n="38"/>subterfugere. infra eod. nullus. Item ex praesentibus operi 
+      <lb ed="#C" n="39"/>bus in praesentibonum, vel malum praesumitur circa ado 
+      <lb ed="#C" n="40"/>lescentem. infra eodem, ex ftudiis quicquid sit in futurum. di 
+      <lb ed="#C" n="41"/>cit enim Salomon, Tria sunt mihi difficilia, &amp; quartum 
+      <lb ed="#C" n="42"/>penitus ignoro, via colubri supra petram, via aquilae in 
+      <lb ed="#C" n="43"/>aere, via navis in medio maris, &amp; quartum est via adole 
+      <lb ed="#C" n="44"/>scentis in adolescentia sua. Alia praesentis ad praeterita, u 
+      <lb ed="#C" n="45"/>si quis accusetur de adulterio, &amp; excuset se praetextu pro 
+      <lb ed="#C" n="46"/>ximitatis, si postea cum illa ob quam accusabatur, con 
+      <lb ed="#C" n="47"/>trahat, apparet nunc, quod ab initio commisit adulterii 
+      <lb ed="#C" n="48"/>C. de adulter. si quis adulterii. ff. ad Mac. item si alias idem Juli¬ 
+      <lb ed="#C" n="49"/>nus § interdum. sic infra qui filii sint legitimi. per venerabilen 
+      <lb ed="#C" n="50"/>§1. &amp; defrig. &amp; malesic. fraternitatis. in fin. 34. qu. 2. per belli 
+      <lb ed="#C" n="51"/>cam. infra de spon. in praesentia. &amp; de secund. nupt, cap. secund 
+      <lb ed="#C" n="52"/>Alia praeteriti ad futura, quia ex transacta vita in te didici 
+      <lb ed="#C" n="53"/>mus quid de subsequenti praesumere debeamus, ideo d 
+      <lb ed="#C" n="54"/>cimus consuetudinem patrisfamil. spectandam. infra eoc 
+      <lb ed="#C" n="55"/>mandata. &amp;c. scribam. secundum quod legitur interroga 
+      <lb ed="#C" n="56"/>tive. &amp; infra eod illud in fin. &amp; de praescript. ad audientiam. su 
+      <lb ed="#C" n="57"/>pra tit.i. cum dilectus. ff.de pignor action. vel universorum. &amp; a 
+      <lb ed="#C" n="58"/>usuris. qui semisses. infra eoa, cum in juventute. Alia praeteri 
+      <lb ed="#C" n="59"/>ti ad praesens, ut quando quaeritur de fama alicujus, ut in 
+      <lb ed="#C" n="60"/>proxi. concord. quia talis famae habendus est quis, quali 
+      <lb ed="#C" n="61"/>est in civitate sua. ff. de quaestion. de minore. supra de elect. pos 
+      <lb ed="#C" n="62"/>quam. &amp; cap. scriptum. &amp; vicini hoc semper melius cogne 
+      <lb ed="#C" n="63"/>verunt. infra eod quosdam. &amp;c. quanto 77. dist. quicunque &amp; 
+      <lb ed="#C" n="64"/>monachus. Alia ex praesenti circa futurum. ut 5o. dist. siqui 
+      <lb ed="#C" n="65"/>diaconus. Alia ex praeterito circa praeteritum. 28. distin. qui 
+      <lb ed="#C" n="66"/>sunt. Item praesumitur ex signo. annulus enim significat? 
+      <lb ed="#C" n="67"/>liquando, quod mulier sit uxorata, aliquando quod pan 
+      <lb ed="#C" n="68"/>vendit. infra eod. illud. aliquando dignitatem. ut infra de vi 
+      <lb ed="#C" n="69"/>ta, &amp; honestate cle. clerici. 2. aliquando voluptatem in digiti 
+      <lb ed="#C" n="70"/>clericorum simplicium, &amp; militum non conjugatorum 
+      <lb ed="#C" n="71"/>nam hos procaces, seu procatores esse ostendit. Item an 
+      <lb ed="#C" n="72"/>sulae, id est annuli, aliquando ponuntur in digito causa sor 
+      <lb ed="#C" n="73"/>tilegii, ut 26. q. 2 illud. quasi in medio. ibi, ante destructionem o 
+      <lb ed="#C" n="74"/>sibus. Et est notandum, quod quamvis haeretici levi argu 
+      <lb ed="#C" n="75"/>detegantur. scilicet quantum ad hoc, ut suspecti habeantur, ut ( 
+      <lb ed="#C" n="76"/>de haeretic. I. 2. non debet tamen quis in tanto crimine. 8 
+      <lb ed="#C" n="77"/>propter violentam praesumptionem condemnari, ut infi¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0311.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>eodem, literas. sed contra. ff. de rebus cred. du. si mulier. 32 quaest. 
+      <lb ed="#C" n="79"/>dixit dominus. infra eod. afferte. Gulielm. Nas. dixit, quo¬ 
+      <lb ed="#C" n="80"/>loquitur de suspicione, quae facti est: ego dico, quod &amp; s 
+      <lb ed="#C" n="81"/>de violentia intelligatur, &amp; juris praesumptione non con 
+      <lb ed="#C" n="82"/>demnabitur: si veram poenitentiam agit, non fictam, alia 
+      <lb ed="#C" n="83"/>condemnabitur, &amp; ex his apparere potest, utrum in tene 
+      <lb ed="#C" n="84"/>bris ambulet, an in luce. &amp; hoc dixit litera ipsa plane ve 
+      <lb ed="#C" n="85"/>dic, ut not. infra de haeret. §. qualiter deprehendatur. versicul &amp; 
+      <lb ed="#C" n="86"/>quia inter solicitudines, &amp; vers. ergo sola. Qualiter autem oris 
+      <lb ed="#C" n="87"/>tur praesumptio ex persona, loco, tempore, &amp; aetate, alii qu 
+      <lb ed="#C" n="88"/>modis in libello. tit. plenius dicitur, qui &amp; ordo judiciali 
+      <lb ed="#C" n="89"/>vocatur
+    </p>
+            <p xml:id="nbht7y-d1e792-d1e786">
+               <lb ed="#C" n="90"/>Quid sit ejus effectus Et certe varius &amp; 
+      multi<lb ed="#C" n="91" break="no"/>plex, sicut variae, &amp; mu 
+      <lb ed="#C" n="92"/>tiplices sunt ejus species, ut patet. supra eod quot ejus specie 
+      <lb ed="#C" n="93"/>in summa notandum, quod omne bonum? factum recte 
+      <lb ed="#C" n="94"/>praesumitur actum. 38. dist. quia sunt, &amp; omne malum pravi 
+      <lb ed="#C" n="95"/>praesumitur. infra cod. c. 1 6. q.1. si omnis 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

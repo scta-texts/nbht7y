@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 42</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 42</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="526"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1345"><!-- nbht7y-l3t42 -->
+            <head xml:id="nbht7y-d1e1345-Hd1e101">Titulus 42</head>
+            <head xml:id="nbht7y-d1e1345-Hd1e103" type="question-title">De baptismo, et eius effectu</head>
+            <p xml:id="nbht7y-d1e1345-d1e106">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0543.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="71"/>De Baptismo, &amp; ejus effectu. Ru¬ 
+      <lb ed="#C" n="72"/>brica. XLII. 
+    </p>
+            <p xml:id="nbht7y-d1e1345-d1e117">
+               <lb ed="#C" n="73"/>SVMMARIA. 
+      <lb ed="#C" n="74"/>I. Baptismus quid si 
+      <lb ed="#C" n="75"/>2. Et ubi fuit mstitutus 
+      <lb ed="#C" n="76"/>3. Baptizare quis posssit vel debeae 
+      <lb ed="#C" n="77"/>4. Nullus potest seipsum baptizari 
+      <lb ed="#C" n="78"/>5. Pater vel mater an possit filium baptizare necessitate imm 
+      <lb ed="#C" n="79"/>nente 
+      <lb ed="#C" n="80"/>§. Forma baptismi quae sit 
+      <lb ed="#C" n="81"/>7. Baptizari potest quis a quocunque sive Judaeo, Pagamo, haereti 
+      <lb ed="#C" n="82"/>co, &amp;. 
+      <lb ed="#C" n="83"/>8. Ordo si mutatur in baptisimo, an valeat. 
+      <lb ed="#C" n="84"/>9. Exorcismus quid su 
+      <lb ed="#C" n="85"/>10. Mulier si laborat in extremis, qualiter potest baptizari in 
+      <lb ed="#C" n="86"/>II. Baptizati inriti an sint baptizat. 
+      <lb ed="#C" n="87"/>12. Baptizati ficte an sint baptizati 
+      <lb ed="#C" n="88"/>3. Baptizatus in nomine genitoris, &amp; nati, &amp; sancti flaminis 
+      <lb ed="#C" n="89"/>an sit bapuzatus 
+      <lb ed="#C" n="90"/>14. Species baptismi quot sim 
+      <lb ed="#C" n="91"/>15. Effectus baprismi quis su 
+      <lb ed="#C" n="92"/>Baptizans an requiratur quod intendat baptizari 
+    </p>
+            <p xml:id="nbht7y-d1e1345-d1e163">
+               <lb ed="#C" n="93"/>QUoniam baptismus generalis cum 
+      ce<lb ed="#C" n="94" break="no"/>lebratione missae fieri 
+      con<lb ed="#C" n="95" break="no"/>suevit, ideo praemisso tractatu de celebrati 
+      <lb ed="#C" n="96"/>Jone missarum, dicamus de Baptismo. Ve 
+      <lb ed="#C" n="97"/>sic: In superiori rubrica dictum est de cor 
+      <lb ed="#C" n="98"/>pore Christi, quo nihil in sacrificiis majus esse potest de consi 
+      <lb ed="#C" n="99"/>dist. 2. nihil, sed quia baptismus inter alia acraienta magi 
+      <lb ed="#C" n="100"/>est necessarius &amp; efficax utpote fundamenti m omnium sa 
+      <lb ed="#C" n="101"/>cramentorum, 32. dist § porro, inf. de praesbi non baptiza veniens 
+      <lb ed="#C" n="102"/>videamus de baptisino. Quid sit baptismus, Ubi fuit insti 
+      <lb ed="#C" n="103"/>tutus, Quis poisit vel debeat baptizare, Quae sit ejus for 
+      <lb ed="#C" n="104"/>ma, Quot ejus species. Quis sit ejus effectus 
+    </p>
+            <p xml:id="nbht7y-d1e1345-d1e193">
+               <lb ed="#C" n="105"/>Quid sit  baptismus. Et ablutio ex¬ 
+      <lb ed="#C" n="106"/>terior cum certa for¬ 
+      <lb ed="#C" n="107"/>ma verborum, sine qua nemo salvari potest: quae profici 
+      <lb ed="#C" n="108"/>ad salutem, &amp; colligitur. 1.q1.dec rahere, inf. eo. non ut appone 
+      <lb ed="#C" n="109"/>res, supra de summa trin.c.a.Sult. Quandoque autem vocatu 
+      <lb ed="#C" n="110"/>baptiimus ipse character animae impressus, de consec. dist 4 
+      <lb ed="#C" n="111"/>tunc palere, quae enim est ista tanta virtus aquae, ut corpu 
+      <lb ed="#C" n="112"/>tangat. &amp; cor abluat, nis hoc faciente verbo: non quia di 
+      <lb ed="#C" n="113"/>citur, sed quia creditur, ne &amp; in ipso verbo aliud est sonu 
+      <lb ed="#C" n="114"/>transiens aliud virtus manens. 17.1 Detraheri
+    </p>
+            <p xml:id="nbht7y-d1e1345-d1e217">
+               <lb ed="#C" n="115"/>Ubi fuit institutus15 Crea hoc diversae sunt? 
+      <lb ed="#C" n="116"/>opiniones, nam quidam di¬ 
+      <lb ed="#C" n="117"/>cunt ipsum fuisse institutum, per verba quae Jesus Chri 
+      <lb ed="#C" n="118"/>stus dicit Nicodemo, Nisi quis renatus fuerit, &amp;c. de consec 
+      <lb ed="#C" n="119"/>dist; filius. Secundi dicunt, quod quando misit Judam cum aliis 
+      <lb ed="#C" n="120"/>1.9.1. dedit. Tertii. quando dixit discipulus, Ite, baptizate omne 
+      <lb ed="#C" n="121"/>ge es, &amp;c. de conse dist. 4. improprie in illo verbo, Eutes, &amp;c 
+      <lb ed="#C" n="122"/>Joannes putat ipsum fuisse institutum, cum Dominus a Joan 
+      <lb ed="#C" n="123"/>ne Baptizatus est, ubi vim regenerativam contulit aquis, di 
+      <lb ed="#C" n="124"/>consec. dist 4 per aquam. Dic quod ibi fuit institutum facto 8&amp; 
+      <lb ed="#C" n="125"/>exemplo. Verbo autem &amp; praecepto fuit institutum, cum 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="126"/>ADDITIONES. 
+      <lb ed="#C" n="127"/>a Quid sit baptismus. )Baptismum brevius definivisse visus es 
+    </p>
+    <p>
+      <lb ed="#C" n="128"/>Mart. in Sum eo. tit. cujus haec verba sunt: Baptismus est exte 
+      <lb ed="#C" n="129"/>rior hominis abblutio, tum certa forma verborum. Est enim 
+      <lb ed="#C" n="130"/>character infixus animae, ut 19. 1. detrahe. Quod autem de for 
+      <lb ed="#C" n="131"/>ma dictum est, de reali, non formali accipiendum est, de conse 
+      <lb ed="#C" n="132"/>d st. I cap retulerunt. Nam si laicus baptizet proferens verba 
+      <lb ed="#C" n="133"/>necessaria, non tamen literaliter, nec in sua lingua, sed it 
+      <lb ed="#C" n="134"/>Graeca, vel alia bene baptizat. Nam Apostoli loquebantur 
+      <lb ed="#C" n="135"/>variis linguis baptizantes. In reliquis Marti &amp; Hostiens 
+      <lb ed="#C" n="136"/>conveniunt, ideoque illorum sententias huc referendas nor 
+      <lb ed="#C" n="137"/>duxi. Adde S. Tho. in 3. parie, q. 66. arg. 1.idem Tho. in 9. senten 
+      <lb ed="#C" n="138"/>dist. 3art. 
+      <lb ed="#C" n="139"/>Vbi fuit institutus.] Adde tex. in c. nulla de consec. dist. 4. gloss is 
+      <lb ed="#C" n="140"/>c ex quo de consecr. dist. 4. S. Tho. in 4. senten distin. 1920. 2. ari 
+      <lb ed="#C" n="141"/>1. 2. 3. &amp; 4 -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0544.xml-->
+      <pb ed="#C" n="527"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>dixit Apostolis, seu discipulis, Euntes in mundum docet 
+      <lb ed="#C" n="2"/>omnes gentes, baptizantes eos in nomine Patris, &amp; Filii,? 
+      <lb ed="#C" n="3"/>Spiritus sancti, de conse. dist. 4 proprie, infr. eo. debitum, &amp;c. nor 
+      <lb ed="#C" n="4"/>ut apponeres 
+    </p>
+            <p xml:id="nbht7y-d1e1345-d1e260">
+               <lb ed="#C" n="5"/>Quis possit, vel debeat bapitare Etcerne ned 
+      <lb ed="#C" n="6"/>sacerdos vel diaconus, sed &amp; haeret, 
+      <lb ed="#C" n="7"/>cus, &amp; paganus, &amp; excommunicatus, de consec distin. 4. siv 
+      <lb ed="#C" n="8"/>haereticus, &amp; quicunque: dum tamen in forma ecclesiaerit 
+      <lb ed="#C" n="9"/>conferatur, ut patet sup. de sum. trin.c.i.§pe. &amp; in his quaen 
+      <lb ed="#C" n="10"/>sup. detempo. ord. § &amp; a quo, ver. haec igitur sit fides tua, &amp; praec 
+      <lb ed="#C" n="11"/>32 dist. § verum. transit enim sol vel per lapideos canales, 
+      <lb ed="#C" n="12"/>venit ad aureolam, 19. dist. secundum, sic nihil interest qui 
+      <lb ed="#C" n="13"/>recipiatur, quo ad veritatem, licet intersit, quo ad effectum 
+      <lb ed="#C" n="14"/>de conse dist. 4. sicut in sacris.* Nullus tamen seipsum potes 
+      <lb ed="#C" n="15"/>baptizare: quod dic, ut no. nf. eo § seqe. ver. item discretio Ho¬ 
+      <lb ed="#C" n="16"/>tamen officium ad presbyterum tantum, vel episcopum 
+      <lb ed="#C" n="17"/>&amp; diaconum in necessitate, vel de praedictorum mandato pe 
+      <lb ed="#C" n="18"/>tinet: ut patet de conse. dist 4. constat, &amp;c. venisti, &amp;c. seque nece 
+      <lb ed="#C" n="19"/>sitate etiam instante, quilibet &amp; quaelibet potest baptizare 
+      <lb ed="#C" n="20"/>ut in dicto c, constat, &amp;c. seq. &amp; si quis in necessitate baptiz, 
+      <lb ed="#C" n="21"/>verit, debeat postea baptizatus deportari ad sacerdotem 
+      <lb ed="#C" n="22"/>qui quaerit, quae forma servata est: sic intellige disti, c inni 
+      <lb ed="#C" n="23"/>cessitate, &amp; c. Romanus, &amp; c. seq &amp; secundum quod audiet, ve 
+      <lb ed="#C" n="24"/>iterum baptizavit: vel supplebit quod est omissum, secur 
+      <lb ed="#C" n="25"/>dum ea quae not. sup. de sacram. non iterand sup quae suntiterand. 
+      <lb ed="#C" n="26"/>5 &amp; infeo § fi. ver. infi. &amp; seq.? Sed nunquid pater &amp; mater po 
+      <lb ed="#C" n="27"/>sunt filium baptizare, necessitate imminente: quia tali tem 
+      <lb ed="#C" n="28"/>pore quilibet potest facere, ut dictum est, &amp; arg. inf. de o 
+      <lb ed="#C" n="29"/>servatio jejunii consilium § pen. &amp; infra de regjur. quod non e 
+      <lb ed="#C" n="30"/>licitum, &amp; adde quod nota. de cogn. spi §fi. ver. quid ergo, si alt¬ 
+      <lb ed="#C" n="31"/>conjugum 
+    </p>
+            <p xml:id="nbht7y-d1e1345-d1e321">
+               <lb ed="#C" n="32"/>Quae sit jus forma ? Ad ejus formam seu essent 
+      <lb ed="#C" n="33"/>am duo necessaria sunt, verbum &amp; eleme 
+      <lb ed="#C" n="34"/>tum, infra eodem, non ut apponeres, unde cum saliva non po 
+      <lb ed="#C" n="35"/>test quis baptizari: ut ibi, quamvis aqua deficiat. Item ne 
+      <lb ed="#C" n="36"/>cessarium est verbum, scil. quod observetur forma verbo 
+      <lb ed="#C" n="37"/>rum: videlicet quod dicat baptizans mergendo baptizar 
+      <lb ed="#C" n="38"/>dum ter: Petre ego baptizo te in nomine Patris, &amp; Filii, 8 
+      <lb ed="#C" n="39"/>Spiritus sancti, infra eodem c.i. Sed &amp; sufficit unica imme¬ 
+      <lb ed="#C" n="40"/>sio si consuetudo terrae hoc approbet, de consecr. distin 4. d 
+      <lb ed="#C" n="41"/>Trinitate. Sed nunquid hoc pronomen Ego, est de substa 
+      <lb ed="#C" n="42"/>tia? Quidam dicunt, quod sic: ut Joannes, &amp; Gulielmus N. 
+      <lb ed="#C" n="43"/>so, ut infra eodem c.i. Alan. &amp; T. contra, nam verbum bapt 
+      <lb ed="#C" n="44"/>zo per secutum sensum generat, &amp; pronomen in se impor 
+      <lb ed="#C" n="45"/>tat. de consecr. dist. 4. retulerunt. Primi dicunt, quod Ego, es 
+      <lb ed="#C" n="46"/>8 de substantia? Non enim dixit Dominus: Sum qui sum 
+      <lb ed="#C" n="47"/>sed Ego sum qui sum, nec dixit, Sum lux mundi: &amp; non si 
+      <lb ed="#C" n="48"/>ne causa, nam plus importat, cum dicit, Ego, quod d. non ali 
+      <lb ed="#C" n="49"/>gus: quia ad discretionem inventa sunt haec pronomina. Ho 
+      <lb ed="#C" n="50"/>facit contra propositionem: quia nedum a Deo, nedum 
+      <lb ed="#C" n="51"/>sacerdote nedum a Christiano, imo a Judaeo, Pagano, hi 
+      <lb ed="#C" n="52"/>retico, &amp; quocunque conferri potest: vt no. sup. eo §quis po 
+      <lb ed="#C" n="53"/>su, dicas ergo sufficere, si dixit baptizo. nec dixit Dom 
+      <lb ed="#C" n="54"/>nus, Vos baptizate: sed Baptizate: ut dixit supra. Cum ei 
+      <lb ed="#C" n="55"/>go in secunda persona pronomen non apposuit, nec in ips 
+      <lb ed="#C" n="56"/>habemus necesse apponere: unde &amp; alibi pronomen dic 
+      <lb ed="#C" n="57"/>tur abundare, ff. de haere. insti. l.a. § qui valei, nec interest, utrun 
+      <lb ed="#C" n="58"/>stipuler habere licere, vel mihi habere licere ff. de verborum 
+      <lb ed="#C" n="59"/>obligi stipulatio ista, sed tamen verbum, &amp;c. quae in forma sunt 
+      <lb ed="#C" n="60"/>puto esse substantialia, &amp; necessaria, infra eodem c.i. Qui¬ 
+      <lb ed="#C" n="61"/>d si dicat baptizo te in nomine Trinitatis, d vel in nomin 
+      <lb ed="#C" n="62"/>Christi? videtur baptizatus: quia quod in praedicta form 
+      <lb ed="#C" n="63"/>explicite dicitur, implicite intelligitur hic, de conse dis4 
+      <lb ed="#C" n="64"/>auodam, &amp;c. in synodo, arg. de summa Trin.c.i. § sacramentum 
+      <lb ed="#C" n="65"/>sed credo, quod illud respicit antiquum tempus Aposte 
+      <lb ed="#C" n="66"/>lorum, nam Dominus dixit, In nomine Patris, &amp; Filii, e 
+      <lb ed="#C" n="67"/>Spiritus sancti: &amp; non in nomine Trinitatis, &amp; ideo hae 
+      <lb ed="#C" n="68"/>forma tenenda est, inf. eo.c.i. &amp; 2. &amp;c. debitum, &amp;c. non ut at 
+      <lb ed="#C" n="69"/>poneres, de conse. dist. 4. sanctum, si non sanctificatur. I. si reverac 
+      <lb ed="#C" n="70"/>c.m synodo, arg. sup. de reser, cum dilecta, &amp; de offic. deleg pruden 
+      <lb ed="#C" n="71"/>tiam, cum olim, abbas venerabili, sed contra 30. 4 3. super quibus. 
+      <lb ed="#C" n="72"/>Item discretio debet esse inter baptizantem &amp; baptizatum 
+      <lb ed="#C" n="73"/>ut probat praedicta authoritas: nam si baptizatis illum ba 
+      <lb ed="#C" n="74"/>ptizabitis: quia natura correlativorum haec est, quod uni 
+      <lb ed="#C" n="75"/>non sit aliud, ergo nullus seipsum baptizare potest, ad quo¬ 
+      <lb ed="#C" n="76"/>designandum Dominus non a seipso, sed a Joanne volu 
+      <lb ed="#C" n="77"/>itbaptizari, ut dixi supra, &amp; infra eodem capitulo debitum, a 
+      <lb ed="#C" n="78"/>hoc, 35. quaestio. 1. capitulo I. ff. dererum perinutat. leg. i. supra d 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0544.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>jure patron per nostras, &amp; de institut, capit ultim. contra ar gu 
+      <lb ed="#C" n="80"/>ff de adop si consul. &amp; accedit, de consec. distinct. 4 per aquam, 
+      <lb ed="#C" n="81"/>capitulo tathecumenum. Item elementum, id est, aqua ne 
+      <lb ed="#C" n="82"/>cessaria est, ut dixi: quia nisi quis renatus fuerit, &amp;c. infr 
+      <lb ed="#C" n="83"/>eodem non. ut de consecra. distinct. a, cap.i. &amp; I. quaest. i firmisime 
+      <lb ed="#C" n="84"/>Licet autem puer totus non immergatur in aqua, nihilo 
+      <lb ed="#C" n="85"/>minus baptizatus intelligitur, dummodo quantalibet par¬ 
+      <lb ed="#C" n="86"/>aquae super eum infundatur, secundum Joannem, sic et 
+      <lb ed="#C" n="87"/>iamsi super renes, &amp; super ventrem ponatur, secundun 
+      <lb ed="#C" n="88"/>Hugon. vel super pedem, secundum quosdam, argum. d 
+      <lb ed="#C" n="89"/>consecr distinct. 4. nec quenquam, sicut sufficit etiam, si ingre 
+      <lb ed="#C" n="90"/>dior partem fundi ad adipiscendam possessionem totiu 
+      <lb ed="#C" n="91"/>fundi, fide acquir. posses. possideri, §i. sic de paenitentia. distinct. 
+      <lb ed="#C" n="92"/>vulvaris, argum. supra de consecr. distinct4. proprie, ibi, triun 
+      <lb ed="#C" n="93"/>millium, &amp;c. nam non posset aliter Apostolus de quo ib 
+      <lb ed="#C" n="94"/>loquitur, baptizasse una die tria millia hominum. Sed con 
+      <lb ed="#C" n="95"/>tra, arg. eodem capitulo I. de corpore. Gratianus dixit, quoc 
+      <lb ed="#C" n="96"/>caput debet perfundi, vel praeter caput maxima pars cor 
+      <lb ed="#C" n="97"/>poris, quod satis videtur verius: nam si solus pes nascere 
+      <lb ed="#C" n="98"/>tur, non diceretur natus, sic nec renatus: &amp; haec duo aequi 
+      <lb ed="#C" n="99"/>parantur, infra eodem debitum, &amp; semper caput magis attem 
+      <lb ed="#C" n="100"/>di debet: quia ibi viget magis ratio hominis, &amp; ubi capu 
+      <lb ed="#C" n="101"/>est, totum corpus esse videtur, ff.dereli, &amp; sum. fune cum in 
+      <lb ed="#C" n="102"/>diversis, infra de verb. sig. cum olim. Quid si substantialia ver 
+      <lb ed="#C" n="103"/>ba dicuntur, sed corrupte? Valet etiamsi dicat, In no 
+      <lb ed="#C" n="104"/>mine patrias, &amp; filias, &amp; spiritus sanctas, nam cum virtu 
+      <lb ed="#C" n="105"/>illorum verborum excludat daemonium, excludit etiam 
+      <lb ed="#C" n="106"/>precis, seu vocis corruptae vitium, de consec. distinct 4 sinor 
+      <lb ed="#C" n="107"/>sanctificatur, c. retulerunt. Quid si aliquod verbum, quod no 
+      <lb ed="#C" n="108"/>est de forma ibi addatur, seu misceatur? ditunt aliqui, quoc 
+      <lb ed="#C" n="109"/>si praemittatur, &amp; si dicatur, Arma virumque cano, ego te ba 
+      <lb ed="#C" n="110"/>ptizo, &amp;c. vel si post formam adjiciatur, hoc modo, ego ba 
+      <lb ed="#C" n="111"/>ptizo te in nomine Patris, &amp; Filii, &amp; Spiritus sancti, &amp; dia 
+      <lb ed="#C" n="112"/>boli, efficax est baptismus: quia cum impertinentia extrin 
+      <lb ed="#C" n="113"/>secus adjiciuntur, non vitiant, ff. de verborum obli. quae extrin 
+      <lb ed="#C" n="114"/>secus, si vero interponitur, ut si dicat, Ego te baptrzo, Arm¬ 
+      <lb ed="#C" n="115"/>virumque cano, In nomine Patris, &amp;c. tuc vitiat, &amp; non con 
+      <lb ed="#C" n="116"/>fertur baptismus: nam si ordinationi testamenti aliqui¬ 
+      <lb ed="#C" n="117"/>impertinens misceatur, non valet, licet si pertinens esset 
+      <lb ed="#C" n="118"/>non vitiaretur, f. de test haeres, §si. in forma autem baptism 
+      <lb ed="#C" n="119"/>esse verbum aliud a verbis Domini alienum, &amp; impertinen 
+      <lb ed="#C" n="120"/>censeri debet. Doctores tamen nostri dicunt, quod sive prae 
+      <lb ed="#C" n="121"/>mittatur, sive sequatur, sive interponatur, semper vitiatu 
+      <lb ed="#C" n="122"/>baptisimus, secundum Goff. quia formae nihil detrahendun 
+      <lb ed="#C" n="123"/>est, vel addendum, de conse. dist. 4. firnnissime, &amp;c. si non sancti 
+      <lb ed="#C" n="124"/>ficatur, &amp; cap. Arrianus. Quid si dicat, non ego te baptizo 
+      <lb ed="#C" n="125"/>&amp; quid potest esse, nisi quod vox sonat. ff. de ju. solut. ju 
+      <lb ed="#C" n="126"/>dicatum. Quid si dicat. Ego te baptizo in nomine Patris, &amp; 
+      <lb ed="#C" n="127"/>Filii, &amp; Spiritus sancti, &amp; omnium Sanctorum, non est ba 
+      <lb ed="#C" n="128"/>ptizatus: quia nihil jungi debet in forma: ut statim no su 
+      <lb ed="#C" n="129"/>eo. ver. doctores, &amp; in hoc hodie omnes conveniunt. Ergi 
+      <lb ed="#C" n="130"/>credamus eis, ff. qui satisd. cog. inter omnes.* Quid si ordo 
+      <lb ed="#C" n="131"/>mutatur: ut si dicat, Ego baptizo te in nomine Patris, 8 
+      <lb ed="#C" n="132"/>Filii, &amp; Spuns sancti? Dicunt quidam, quod valet, arg. C. de tes 
+      <lb ed="#C" n="133"/>praeposteri, sup. de resc. causam, ff. de solu. nec. n.ordo Alii dicum 
+      <lb ed="#C" n="134"/>contrarium, ar ff. de sen &amp; interlo. omnium jud. prolatam, nan 
+      <lb ed="#C" n="135"/>ordo verborum de forma est, &amp; hoc videtur securius, u 
+      <lb ed="#C" n="136"/>tamen scias, quod non est vis, utrum dicat, ego baptizo te 
+      <lb ed="#C" n="137"/>vel ego te baptizo, dummodo alia aliqua verba non trans 
+      <lb ed="#C" n="138"/>mutentur. Quid si in prolatione verborum interponatu 
+      <lb ed="#C" n="139"/>mora naturalis &amp; compendiosa, ut de respirando, tussien 
+      <lb ed="#C" n="140"/>do, vel spuendo non vitiatur, ar. C. de test. cum antiquitas, hae 
+      <lb ed="#C" n="141"/>etiam quaestio potest locum habere, si quaeratur de mori 
+      <lb ed="#C" n="142"/>interposita in consecratione Eucharistiae: &amp; verba, qua 
+      <lb ed="#C" n="143"/>dicuntur in confectione sanguinis, secundum opinionem illo 
+      <lb ed="#C" n="144"/>rum, qui dicunt, quod una est forma illorum verborum, Hoc es 
+      <lb ed="#C" n="145"/>corpusmeum, &amp;c. &amp; illorum, Hic est sanguis, &amp;c. &amp; junge 
+      <lb ed="#C" n="146"/>quod no. sup. de ele S qualiter, sub s primo, hoc est, super 
+      ver<lb ed="#C" n="147" break="no"/>bo mox. Tu tamen teneas, quod duae sunt formae illorum 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="148"/>ADDITIONES 
+      <lb ed="#C" n="149"/>e Ego, est de substantia. JAdde Doct. in c. l.eo.tit. &amp; per Pet. de 
+    </p>
+    <p>
+      <lb ed="#C" n="150"/>Pal. in 4. sent. dist. 3. 9. 
+      <lb ed="#C" n="151"/>d Baptizo te in nomine Trinitatis. JAdde gl inc. multi de conse¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>dist 4. Car. Zab. in c. I. in I. op. de ba. &amp; in sum, confessorum, ti. de bap. 
+      <lb ed="#C" n="153"/>II. &amp; 12. &amp; per Pet. de Palu. 4. sent. dist. 2. g. 1. in 4. co--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0545.xml-->
+      <pb ed="#C" n="528"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>verborum, Hoc est corpus, &amp;c. per quae panis in corpu 
+      <lb ed="#C" n="2"/>transubstantiatur, &amp; illorum, Hic est sanguis, &amp;c. per qui 
+      <lb ed="#C" n="3"/>vinum transubstantiatur in sanguinem, de conse. aist. 2. p. 
+      <lb ed="#C" n="4"/>nis est in altari, &amp; sequent. &amp;c. quis susanguis. Sed nonne es 
+      <lb ed="#C" n="5"/>sanguis in corpore, &amp; corpus in sanguine? Sic: sed pe 
+      <lb ed="#C" n="6"/>commixtionem, non per transubstantiationem, seu trans 
+      <lb ed="#C" n="7"/>lationem. Sed cum parvuli intelligantur baptizati in fid 
+      <lb ed="#C" n="8"/>parentum &amp; patrinorum, de consec. dist. 4 quaeris, &amp;c. illus 
+      <lb ed="#C" n="9"/>quod erit si parentes vel patrini infideles sunt? Dicas 
+      <lb ed="#C" n="10"/>quod nihilominus in fide ecclesiae baptizati intelliguntur 
+      <lb ed="#C" n="11"/>&amp; in verbo Christi, dummodo forma ecclesiae fuerit ol 
+      <lb ed="#C" n="12"/>servata, de conse. dist 3. Romanus, sed si forma observata no 
+      <lb ed="#C" n="13"/>sit, vel non intendebat baptizare, baptizatus nihil agit,! 
+      <lb ed="#C" n="14"/>cet enim intentio offerentis, vel parentum non consid¬ 
+      <lb ed="#C" n="15"/>retur, de cons.dist. 4. non aliud, consideratur tamen intenti 
+      <lb ed="#C" n="16"/>baprizati baptizato contraria, ut apparet in his, quae no 
+      <lb ed="#C" n="17"/>infra eodem quis sit effectus, per effectus autem iste, &amp; seq. cor 
+      <lb ed="#C" n="18"/>sideratur etiam intentio baptizantis, qui si intendat no 
+      <lb ed="#C" n="19"/>baptizare, nihil agitur: quicquid Gra &amp; alii dicant, ut i. 
+      <lb ed="#C" n="20"/>I. Secce. quando, de conse. distin. 4. quamvis, &amp;c. solet, sed si inti 
+      <lb ed="#C" n="21"/>dit baptizare, vel non habeat intentionem baptizato cor 
+      <lb ed="#C" n="22"/>trariam, valet: unde ebrius baptizat, i. quaestio. dedit, &amp; af 
+      <lb ed="#C" n="23"/>paret in his, quae notantur, infra eodem versicul. solutio, aut ba 
+      <lb ed="#C" n="24"/>ptizatus, &amp; versicul. quod si baptizans non intendit, &amp; sic intell 
+      <lb ed="#C" n="25"/>ge, de conse. distinct. 4 quos a paganis, &amp; hoc quando parvu 
+      <lb ed="#C" n="26"/>sunthi, qui baptizantur, &amp; qui nihil intelligunt. Quid e 
+      <lb ed="#C" n="27"/>go de adultis? istorum fides consideranda est: &amp; debent e¬ 
+      <lb ed="#C" n="28"/>techizari, &amp; in fide instrui, antequam baptizentur, &amp; d 
+      <lb ed="#C" n="29"/>conse distinct. 4 Judaei, quorum perfidia, &amp;c. sequen. usque ad c. 
+      <lb ed="#C" n="30"/>pit sine paenitentia, &amp; debet esse mora 40. dierum, si adultu 
+      <lb ed="#C" n="31"/>sit, quidam paenitentiam agere de commissis, de consec. d 
+      <lb ed="#C" n="32"/>stinct. 4. cap. ne quod absit, sed illud hodie non servatur, im 
+      <lb ed="#C" n="33"/>infra 2. vel 3. dies ad arbitrium episcopi poterit baptizari 
+      <lb ed="#C" n="34"/>secundum Hugo. ut autem plenius hoc intelligas, scir 
+      <lb ed="#C" n="35"/>debes, quod antiquitus, antequam aliquis baptizaretur 
+      <lb ed="#C" n="36"/>catechizabatur, id est scrutabatur, vel instruebatur, nan 
+      <lb ed="#C" n="37"/>cathechismus Graece, Latine dicitur instructio: quia ir 
+      <lb ed="#C" n="38"/>strui debet in symbolo, &amp; in fide, idem vocatur scrutinium 
+      <lb ed="#C" n="39"/>quia talis scrutatur, id est interrogatur de articulis de c¬ 
+      <lb ed="#C" n="40"/>thechismo, habes, de consec. distinct. 4 m catechismo, &amp; tang 
+      <lb ed="#C" n="41"/>tur de hoc, infra de co. spi. contracto de scrutinio, supra de cape¬ 
+      <lb ed="#C" n="42"/>mo.c.i. inprinc. &amp; incipiebat, catechismus est quarta feri 
+      <lb ed="#C" n="43"/>tertiae hebdomadae 40 &amp; tunc fiebat bis, quarta hebde 
+      <lb ed="#C" n="44"/>madabis, in quinta bis, ita quod in sabbatho ante ramo 
+      <lb ed="#C" n="45"/>olivarum, sub sequenti fiebat septimo, tunc &amp; erat ultimi 
+      <lb ed="#C" n="46"/>&amp; generale scrutinium exorcizabatur, id est adjurabatur 
+      <lb ed="#C" n="47"/>* Exorcismus Graece dicitur, Latine adjuratio, ut cun 
+      <lb ed="#C" n="48"/>dicitur, Exi ab eo spiritus immunde, &amp; sic ducebatur in 
+      <lb ed="#C" n="49"/>sancto sabbatho ad baptismum, haec ergo scil. catechismu 
+      <lb ed="#C" n="50"/>&amp; exorcismus, rudium &amp; neophytorum sunt, &amp; praecedum 
+      <lb ed="#C" n="51"/>baptismum, non tamen sunt adeo necessaria, quod sufi 
+      <lb ed="#C" n="52"/>cit ad salutem: &amp; quin sine ipsis possit baptizari, de conse 
+      <lb ed="#C" n="53"/>distinct. 4 firmissime, &amp; cap. nec quenquam, abigitur tamen sp 
+      <lb ed="#C" n="54"/>ritus immundus, id est debilitatur, ut minus noceat, ve 
+      <lb ed="#C" n="55"/>ostendit in proximo abigendum, secundum hoc intell 
+      <lb ed="#C" n="56"/>ge, de consec. distin. 4 catechumenum, &amp; csire parvuli, 7. &amp; c. s. 
+      <lb ed="#C" n="57"/>quent. hoc tamen hodie non servatur in parvulis: sed on 
+      <lb ed="#C" n="58"/>nes in sabbatho sancto deportantur ad baptismum, &amp; ar 
+      <lb ed="#C" n="59"/>tea, sicut &amp; quando placet presbyteris, catechizantur. I 
+      <lb ed="#C" n="60"/>adultis etiam arbitrium episcoporum servatur: sed ben 
+      <lb ed="#C" n="61"/>est, ut ante baptismum, si potest sine periculo fieri, instrui 
+      <lb ed="#C" n="62"/>tur. Sine periculo autem, non sine causa dixi, quid enin 
+      <lb ed="#C" n="63"/>si quis Judaeus veniat ad me, petens baptismum, &amp; dicens 
+      <lb ed="#C" n="64"/>quod statim baptizetur, alioquin si moram adhibeo, per 
+      <lb ed="#C" n="65"/>culum est, ne alii Judaei ipsum interficiant, si hoc perper 
+      <lb ed="#C" n="66"/>dant, hoc habui de facto, &amp; quia perpendi, quod verumd 
+      <lb ed="#C" n="67"/>cebat, statim ei exposui fidem catholicam, quanto dilig 
+      <lb ed="#C" n="68"/>tius potui, &amp; baptizavi, ad hoc authentic. quomodo oportet. 
+      <lb ed="#C" n="69"/>Piscop. S igitur ordinandus episcopus, &amp; de conse. distin. 4. ne quo 
+      <lb ed="#C" n="70"/>absit: sin autem nullum periculum immineat, tunc vel pe 
+      <lb ed="#C" n="71"/>octo menses, vel per alios arbitrarie sunt hujusmodi inte 
+      <lb ed="#C" n="72"/>Cate chumenos retinendi, &amp; sic intellige, de conse. distinct. 
+      <lb ed="#C" n="73"/>Itidaei &amp;csequent. Et nunquid omni tempore debet qui 
+      <lb ed="#C" n="74"/>Oaptizari? Non videtur, nisi necessitate languoris, ve 
+      <lb ed="#C" n="75"/>Mor tis vel bolli periculo imminente, de conse distinct. 4. v. 
+      <lb ed="#C" n="76"/>Aerabilis, &amp; cap. baptiz andi, &amp; capit. catechumenis, &amp; sequent. ( 
+      <lb ed="#C" n="77"/>Ii pra dixi, persicul baptizari, vel dic quod illud in adultis lo 
+      <lb ed="#C" n="78"/>Cum habet tantum, non in parvulis, quibus praeter bapti¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0545.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>mum fluminis, vel sanguinis nulla salus promittitur, d 
+      <lb ed="#C" n="80"/>consec. distinct. quart. nulla, nam in parvulis timendum est 
+      <lb ed="#C" n="81"/>ne morte praeveniantur, in adultis autem hoc non time 
+      <lb ed="#C" n="82"/>tur, quia ibi conversio mentis baptismi vicem supplere ni 
+      <lb ed="#C" n="83"/>dubitatur, ut supra dixi, versic. baptizari. de conse. distin¬ 
+      <lb ed="#C" n="84"/>baptismi vicem, in princip. &amp; post medium, ibi, sicut autem in 
+      <lb ed="#C" n="85"/>latrone, &amp;c. &amp; cap. baptizandi sibi. Quid si quis baptizatu 
+      <lb ed="#C" n="86"/>in nomine Christi, nunquid est baptizatus? sic, de conse¬ 
+      <lb ed="#C" n="87"/>distinct. 4. a quodam, &amp; cmulti. 1.qu.i. firmissime, &amp; cap. dedit, 8&amp; 
+      <lb ed="#C" n="88"/>tamen non est baptizatus in nomine Trinitatis, ut nota 
+      <lb ed="#C" n="89"/>supra eodem versicul quid si dicat, Baptizo te in nomine Trinia 
+      <lb ed="#C" n="90"/>tis, &amp; est ratio, quia in nomine Trinitatis non intelliae 
+      <lb ed="#C" n="91"/>tur, nisi trium personarum essentiae unitas: sed in hoc no 
+      <lb ed="#C" n="92"/>mine episcopi, intelligitur unctus, &amp; ungens, &amp; a quo u 
+      <lb ed="#C" n="93"/>gitur, unde Ambro. Si Christum dicas, &amp; patrem, a cu 
+      <lb ed="#C" n="94"/>unctus est filius, &amp; ipsum qui unctus est filium, &amp; spiri 
+      <lb ed="#C" n="95"/>quo unctus est, designasti, &amp; quia non a Trinitate, sec 
+      <lb ed="#C" n="96"/>Christo dicuntur Christiani, quasi uncti, denominentu 
+      <lb ed="#C" n="97"/>ab uncto, supra de sac. unctio cap. unico, §quia vero, rer. mfron 
+      <lb ed="#C" n="98"/>te, nec dicas, quod corrigatur illud ca. a quodam, sicut dixi 
+      <lb ed="#C" n="99"/>Bar. per illud. de consec. distinct. 4. in synodo, nam ille canon 
+      <lb ed="#C" n="100"/>quodam Nicolao est, &amp; posterior illo cap. synodo, quod fui 
+      <lb ed="#C" n="101"/>Zachariae, propterea, qui praecessit Nicolaum, ut patet in 
+      <lb ed="#C" n="102"/>Chronicis, verumtamen dicerem hodie non esse bapt 
+      <lb ed="#C" n="103"/>zandum in nomine Christi, quia nec consuetum est, si ta 
+      <lb ed="#C" n="104"/>men fieret, valeret, secundum Goffred. argument. supr. 
+      <lb ed="#C" n="105"/>de jurejura quemadinodum, sed &amp; graviter peccaret bapti 
+      <lb ed="#C" n="106"/>Zans, non puto quod esset hodie baptizatus, secundun 
+      <lb ed="#C" n="107"/>Hug ut patet in his, quae notantur supra eodem rersicul docti 
+      <lb ed="#C" n="108"/>res, &amp; quia Romana ecclesia non servat. infra dehaeret. a 
+      <lb ed="#C" n="109"/>abolendam. * Quid si mulier laborat in partu, adeo quod i 
+      <lb ed="#C" n="110"/>de morte ipsius &amp; prolis timetur, apparet tamen aliqui¬ 
+      <lb ed="#C" n="111"/>de prole extra ventrem, sed non potest videri, utrum sit ma 
+      <lb ed="#C" n="112"/>sculus, vel saemina: consulo obstetrici, quod accipiat: 
+      <lb ed="#C" n="113"/>quam, &amp; liniendo caput, si apparet, vel faciendo cuma 
+      <lb ed="#C" n="114"/>qua crucem super ipsum dicat sic: Creatura Dei, ego te ba 
+      <lb ed="#C" n="115"/>ptizo in nomine Patris, iterum liniendo dicat, &amp; Filii, itt 
+      <lb ed="#C" n="116"/>rum liniendo dicat, &amp; Spiritus sancti. Si vero non caput 
+      <lb ed="#C" n="117"/>sed alia pars corporis appareat, e baptizari non potest, 
+      <lb ed="#C" n="118"/>secundum ea, quae no supra eodem versic. licet autem ti 
+      <lb ed="#C" n="119"/>tus, &amp; seq. si mulier moriatur, procede sicut no supr. de con 
+      <lb ed="#C" n="120"/>se. eccle. distinct. 1. §. &amp; an sit iteranda, ver. quid si mulier praegnam 
+      <lb ed="#C" n="121"/>&amp; sequent. si proles nascitur, deportetur ad sacerdotem, &amp; 
+      <lb ed="#C" n="122"/>suppleat quod deest, secundum ea, quae notantur supra ei 
+      <lb ed="#C" n="123"/>dem §ejus posssit, versicul hoc tamen officium, &amp; sive sit masci 
+      <lb ed="#C" n="124"/>lus, sive foemina, creatura, vel bona res, vel cara res, vel bo 
+      <lb ed="#C" n="125"/>na dies, potest congrue appellari: sed nec vis est in nomi 
+      <lb ed="#C" n="126"/>ne, cum etiam mutare possit, dum tamen in fraudem noi 
+      <lb ed="#C" n="127"/>fiat. C. de muta. no.l.unica. Quid ergo si quis putet baptiz 
+      <lb ed="#C" n="128"/>re puerum, cui imponet nomen Petrus, cum forte sit pr 
+      <lb ed="#C" n="129"/>ella, nunquid baptismus caret effectu? videtur quod sic 
+      <lb ed="#C" n="130"/>quia in sexu erratum est, ff. de contrahend empti. alicquin, a 
+      <lb ed="#C" n="131"/>fin. &amp; circa hoc potest allegari quicquid notatur infra d 
+      <lb ed="#C" n="132"/>spon sub rubric. de matri. §qualiter impediatur, sub § i. versicul 
+      <lb ed="#C" n="133"/>conditio. &amp; infra de conjug ser. § &amp; an matrimonium. Sed cor 
+      <lb ed="#C" n="134"/>tra, quia non videtur, quod tales errores impediant bar 
+      <lb ed="#C" n="135"/>tismum: quantum enim ad Dei cultum, non est masculus 
+      <lb ed="#C" n="136"/>neque faemina, neque liber, neque servus: omnes enim in Chri 
+      <lb ed="#C" n="137"/>sto eandem mercedem accipiemus, authent de mona.lSho 
+      <lb ed="#C" n="138"/>autem nobis, collatio .i. &amp; licet homo erret in sexu, non erra 
+      <lb ed="#C" n="139"/>in persona, quam tenet, &amp; quam baptizare intendit, ut pa 
+      <lb ed="#C" n="140"/>tet in superiori proxim. quaest. Item sicut Joannes Ba 
+      <lb ed="#C" n="141"/>ptista ait, Medius est qui baptizat, quem vos nescitis: scili 
+      <lb ed="#C" n="142"/>cet Spiritus sanctus, qui errare non potest. Apostolus 
+      <lb ed="#C" n="143"/>Nolite errare, Deus non irridetur, nec obstante jura, qua 
+      <lb ed="#C" n="144"/>videntur contradicere, quia aliud est in contractibus, in 
+      <lb ed="#C" n="145"/>quibus paratur alicui praejudicium, aliud in baptismo, ir 
+      <lb ed="#C" n="146"/>quo nulli paratur praejudicium, unde etsi de facto dubi 
+      <lb ed="#C" n="147"/>tetur, an aliquis baptizatus sit, unico testi creditur, de cons¬ 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="148"/>ADDITIO. 
+      <lb ed="#C" n="149"/>e Sed alia pars corporis appareat. JAdde Car. Alex. in c. baptizar 
+    </p>
+    <p>
+      <lb ed="#C" n="150"/>5. dist. ubi sequitur opinio Host. hic contrariam opinionem te 
+      <lb ed="#C" n="151"/>net Pet. de Pal. in 4. sent. dist. 6. 9. 1. prout refert. Ste. de Gaiet. ii 
+      <lb ed="#C" n="152"/>suo sactamentali, tit. de sac baptisma. in 36. 5 -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0546.xml-->
+      <pb ed="#C" n="529"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>distinct quarta placuit. &amp; in consec ecclesia de conse distin.i.eccle 
+      <lb ed="#C" n="2"/>secus in sacramento ordinis. 98. distinct. Afros. supra, de cleri 
+      <lb ed="#C" n="3"/>cis peregrinant. capit. primo, &amp; cap. tuae. quia in primis casibu 
+      <lb ed="#C" n="4"/>nemini paratur praejudicium: in ultimo pararetur, ut col 
+      <lb ed="#C" n="5"/>ligitur i. q. 1. §. ecce. cum honoris. Solutio. Autbaptizatus in 
+      <lb ed="#C" n="6"/>tendebat baptizare personam, cujuscunque sexus esset, d 
+      <lb ed="#C" n="7"/>sic est baptizata, ut patet in his quae not. supra in proxi.( 
+      <lb ed="#C" n="8"/>Aut intendebat tantum masculum, &amp; non foeminam ba 
+      <lb ed="#C" n="9"/>ptizare, &amp; sic non est baptizata, ut apparet in his quae no 
+      <lb ed="#C" n="10"/>supra eod. quie respons. 1. &amp; versicu. sed cum parvuli. Aut de ho 
+      <lb ed="#C" n="11"/>non cogitabat, sed simpliciter baptizabat, &amp; tunc videtu 
+      <lb ed="#C" n="12"/>baptizata: ut apparet in his quae notantur supra eod. ve 
+      <lb ed="#C" n="13"/>sic. sed contr. &amp; in dicto versic. sed cum parvuli. in his ta 
+      <lb ed="#C" n="14"/>men ultimis casibus si adhuc vivat, posset baptizari sin 
+      <lb ed="#C" n="15"/>errore, juxta consilium quod notatur infra eodem §. versi 
+      <lb ed="#C" n="16"/>sed si dubitetur. quod videtur tutius. Quid de furiosis bapti 
+      <lb ed="#C" n="17"/>zatis? si semper fuit furiosus, tenet baptismus, argum. ff.a 
+      <lb ed="#C" n="18"/>leg. 2 cum pater. § surdo. ubi dicitur emolumentum acquii 
+      <lb ed="#C" n="19"/>furioso. nam &amp; tales parvulis aequiparantur, &amp; dormier 
+      <lb ed="#C" n="20"/>tibus. ff.de acqu. posses. Ii S. furiosus nec gravatur actu alibu 
+      <lb ed="#C" n="21"/>peccatis. 3.4. 9. judicas. Ideo sufficit, quod contradicere n¬ 
+      <lb ed="#C" n="22"/>potest. de conse. dist 4. tunc valere. &amp;c. quaeris. Si vero incida 
+      <lb ed="#C" n="23"/>I in furorem, vel incipiat quis dormire, &amp; baptizetur: &amp; ar 
+      <lb ed="#C" n="24"/>te erat in proposito baptizandi, character imprimitur,e 
+      <lb ed="#C" n="25"/>baptizatus est. Sin autem erat in voluntate contraria, se 
+      <lb ed="#C" n="26"/>licet non baptizandi, nullus character imprimitur. infr 
+      <lb ed="#C" n="27"/>eodem. majores. §. ille vero qui nunquam consentit. Quid si era 
+      <lb ed="#C" n="28"/>in proposito non baptizandi, neque in contrario, scilice 
+      <lb ed="#C" n="29"/>baptizandi, quia nec de hoc cogitabat? Dic, quod char¬ 
+      <lb ed="#C" n="30"/>cter imprimitur, ut apparet in his quae notantur infra eo¬ 
+      <lb ed="#C" n="31"/>§. fin. vers. effectus autem iste. &amp; seq. &amp; sic etiam intellige infr¬ 
+      <lb ed="#C" n="32"/>eod. majores. §. item quaeritur. 45. distinct. de Judaeis. 26 quaest. 
+      <lb ed="#C" n="33"/>qui recedunt. * Quid de his, qui baptizantur inviti? Si 
+      con<lb ed="#C" n="34" break="no"/>ditionalis fuit coactio, characterem recipit, &amp; baptizatu 
+      <lb ed="#C" n="35"/>est, &amp; cogendus est fidem servare. 45. distinct. de Judaeis. qui 
+      <lb ed="#C" n="36"/>coacta voluntas est voluntas. 15. qu. 1. merito nec impedi 
+      <lb ed="#C" n="37"/>talis voluntas ordinis sacramentum 74. distinct. ut ista.n. 
+      <lb ed="#C" n="38"/>que matrimonium. infra de spons. veniens 32q. 4. inter caeter. 
+      <lb ed="#C" n="39"/>Si vero coactio absoluta fuerit, nihil agitur, nec characte 
+      <lb ed="#C" n="40"/>* imprimitur. infra eod. majores §. item quaeritur. Quid de f 
+      <lb ed="#C" n="41"/>cte baptizatis? characterem recipiunt, sed non rem sacra 
+      <lb ed="#C" n="42"/>menti, id est, non proficit ad salutem nisi illa fictio receda 
+      <lb ed="#C" n="43"/>de consec. di stin. 4. tunc valere. &amp;c. solet. Lqu. ficti. Quid si bapti 
+      <lb ed="#C" n="44"/>zans non intendit baptizare: sed baptizatus hoc intendit 
+      <lb ed="#C" n="45"/>dicas quod nihil confertur. de consec. distinct. a solet quaeri. 
+      <lb ed="#C" n="46"/>qu. i. S. ecce quando. nam &amp; si per locum fiat stipulatio, no 
+      <lb ed="#C" n="47"/>valet ff. de actio. &amp; obligat l. 3. § verborum. secundum Goffr 
+      <lb ed="#C" n="48"/>dic quod sufficit, si contraria intentio non adsit, etiam 
+      <lb ed="#C" n="49"/>per jocum fiat ergo quicquid intendat baptizans, si bapt 
+      <lb ed="#C" n="50"/>zatus intendit nihil recipere, nihil agitur: ut patet infr. et 
+      <lb ed="#C" n="51"/>majores. in fin. Item quicquid intendat baptizatus, si bapt 
+      <lb ed="#C" n="52"/>zans intendit, vel tradere, vel traditur, ut in dictis juribus 
+      <lb ed="#C" n="53"/>quae sic intelligo: ut not. supra eod versicu. solutio. ut b¬ 
+      <lb ed="#C" n="54"/>ptizans. &amp; ver. sed cum parvuli. Sed nunquid potest qui 
+      <lb ed="#C" n="55"/>seipsumbaptizare? non, sicut reconcillare. de conse. disti 
+      <lb ed="#C" n="56"/>4. sanctum. ut &amp; not. supra eod ver discretio. Quid si qui 
+      <lb ed="#C" n="57"/>baptizaretur cum vino, vel cum saliva? non valet, imo re 
+      <lb ed="#C" n="58"/>quiritur aqua, non alius liquor. infra eod. non ut apponere 
+      <lb ed="#C" n="59"/>&amp; not. supra eod § respons. i. &amp; versic. item elementum. Quid 
+      <lb ed="#C" n="60"/>alius liquor sit cum aqua mixtus? videtur quod tunc te 
+      <lb ed="#C" n="61"/>neat, maxime si vinum misceatur argum. supra de celebra 
+      <lb ed="#C" n="62"/>missa. in quadam. &amp; de consec. eccles. vel altaris. quod in dubiu¬ 
+      <lb ed="#C" n="63"/>quod Doctores admittunt, si aqua praevalet, alias contra 
+      <lb ed="#C" n="64"/>secus autem in sacramento Eucharistiae, in quo plures d 
+      <lb ed="#C" n="65"/>vino requiruntur, quam de aqua. supra de celebra. missa. pe 
+      <lb ed="#C" n="66"/>niciosus. per quam decret. videtur contrarium posse dic 
+      <lb ed="#C" n="67"/>cum enim generalis consuetudo ecclesiae teneatur, ut in 
+      <lb ed="#C" n="68"/>sola &amp; pura aqua, sine alia mixtura fiat baptismus, videtu 
+      <lb ed="#C" n="69"/>alia forma omnino reprobanda: ut ibi, &amp; argum. de conse¬ 
+      <lb ed="#C" n="70"/>distinct. 4. de trina. infra de haeret ad abolendam. unde &amp; si for 
+      <lb ed="#C" n="71"/>tuito casu hoc etiam factum sit, tutius videtur, quod tali 
+      <lb ed="#C" n="72"/>iterum baptizetur, juxta consilium scriptum. infra eod. 
+      <lb ed="#C" n="73"/>fin. vers. sed si dubitetur. Quid si is, de quo dubitatur, utrun 
+      <lb ed="#C" n="74"/>baptismus rite collatus sit, moriatur parvalus, antequan 
+      <lb ed="#C" n="75"/>sensum vel rationem effectualem habeat? relinquo ipsun 
+      <lb ed="#C" n="76"/>filio Dei, cui pater omne judicium dadit. Quid si Latinu 
+      <lb ed="#C" n="77"/>non in Latina lingua, sed in Graeca, vel in Hebraica, vel 
+      <lb ed="#C" n="78"/>lia extranea baptizat aliquem, &amp; profert verba apta? 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0546.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>congrua? baptismus tenet. nam &amp; Apostoli variis lingui 
+      <lb ed="#C" n="80"/>loquebantur. ad hoc C. de sentent. &amp; interloc. omnium judii 
+      <lb ed="#C" n="81"/>judices. &amp; forma realis potius attendenda est, quam ver 
+      <lb ed="#C" n="82"/>balis. de consec distinct. 4. retulerunt. &amp; junge quod notatu 
+      <lb ed="#C" n="83"/>supra de sentent. &amp; re judic. sub rubri. de sentent. §. qualiter pro 
+      <lb ed="#C" n="84"/>ferri debeat. versicul posset &amp; illud dici. * Quid si quis bapti 
+      <lb ed="#C" n="85"/>zetur in nomine genitoris, &amp; nati, &amp; sancti flaminis? di¬ 
+      <lb ed="#C" n="86"/>quod tenet: quia nec refert utrum ex aequipollentibu 
+      <lb ed="#C" n="87"/>quid dicatur. ff. de verborum obligation. quae extrinsecus &amp; I 
+      <lb ed="#C" n="88"/>in nomine. infra de verborum significatio. tamen his. secundum 
+      <lb ed="#C" n="89"/>Goffred. hanc tamen aequipollentiam non nimis prose 
+      <lb ed="#C" n="90"/>quaris,. ut patet in his quae notantur supra eodem versicu 
+      <lb ed="#C" n="91"/>quid si aliquod verbum &amp; sequen, cum sequenti quaestio 
+      <lb ed="#C" n="92"/>ne. Et nunquid potest baptizari in nomine paternitatis 
+      <lb ed="#C" n="93"/>filiationis, &amp; spiritualis fanctitatis? non, secundum Gof 
+      <lb ed="#C" n="94"/>Sed cum nemo ignorans vel non consentiens obligetur 
+      <lb ed="#C" n="95"/>C. de don. nec ignorans. unde &amp; is, qui nihil intendit, non ob 
+      <lb ed="#C" n="96"/>ligatur: ut C. defalsa monet.l.i. Quaeritur, quomodo parvu 
+      <lb ed="#C" n="97"/>li, qui consentire non possunt, obligantur, vel amentes, ve 
+      <lb ed="#C" n="98"/>dormientes, ut not. supra eod. vers. quid de furiosis. &amp; se 
+      <lb ed="#C" n="99"/>quen. &amp; tenentur adstricti ad servandas omnes sponsione 
+      <lb ed="#C" n="100"/>factas ante baptismum. de consec. distinct. 4. respons.i. specia 
+      <lb ed="#C" n="101"/>le est inbaptismo, ut aliquis ignorans obligetur per ali 
+      <lb ed="#C" n="102"/>um: &amp; est ratio specialitatis: quia per hoc fit melior con 
+      <lb ed="#C" n="103"/>ditio baptizati, cum a potestate &amp; vinculo diaboli libere 
+      <lb ed="#C" n="104"/>tur. &amp; sic necesse habet hoc habere ratum. argum. de nego 
+      <lb ed="#C" n="105"/>gest. solvendo. &amp; I. sed an ultro ff. de solut solutioni 
+    </p>
+            <p xml:id="nbht7y-d1e1345-d1e1151">
+               <lb ed="#C" n="106"/>Quot ejus species Tres. Est enim baprismus 
+      <lb ed="#C" n="107"/>fluminis, flaminis, &amp; san¬ 
+      <lb ed="#C" n="108"/>guinis. Fluminis, id est aquae de hoc dixi supra S proxi Fla 
+      <lb ed="#C" n="109"/>minis, id est Spiritus sancti, ut si aliquis velit baptuzari, &amp; 
+      <lb ed="#C" n="110"/>hoc desideret cum summo fervore animi: si non inveni 
+      <lb ed="#C" n="111"/>qui eum baptizet, &amp; sic moriatur, ad aeternam patrian 
+      <lb ed="#C" n="112"/>convolat, ex quo baptismum non contemptus religionis 
+      <lb ed="#C" n="113"/>sed articulus necessitatis excludit, ut legitur de Judaeo 
+      <lb ed="#C" n="114"/>qui seipsum baptizavit. infra eodem, debitum. de consec. distin 
+      <lb ed="#C" n="115"/>4. vicem. &amp;c. catechumenum. &amp;c. non dubito. Inde legitur 
+      <lb ed="#C" n="116"/>quod cum beatus Ambrosius Valentinianum duceret a¬ 
+      <lb ed="#C" n="117"/>baptismum, mortuus est Valentinianus. Unde Ambro 
+      <lb ed="#C" n="118"/>sius, Doleo ventrem meum, quia quem regnaturus eram 
+      <lb ed="#C" n="119"/>perdidi: ille tamen gratiam quam poposcerat, non amisi 
+      <lb ed="#C" n="120"/>infra, de presbyter. non baptiza Apostolicam. Dixi, do leo ven 
+      <lb ed="#C" n="121"/>trem, per similitudinem, sicut posset dolere mater, si ami 
+      <lb ed="#C" n="122"/>sisset partum. nam sicut carnaliter gignitur filius, carnal 
+      <lb ed="#C" n="123"/>actu interveniente, generatur spiritualis, &amp; per characte 
+      <lb ed="#C" n="124"/>rem exteriorem character interior imprimitur animae 
+      <lb ed="#C" n="125"/>sicut baptizans, quantum ad exteriorem, pater seu pater 
+      <lb ed="#C" n="126"/>nus intelligitur; sic quantum ad interiorem Spiritul 
+      <lb ed="#C" n="127"/>sanctus. infra eodem debitum &amp; sic anima est filia Dei. ind 
+      <lb ed="#C" n="128"/>Propheta: Audi filia, &amp; vide, &amp;c. &amp; dicitur sponsa. indi 
+      <lb ed="#C" n="129"/>Apostolus: Despondi vos uni viro, &amp;c, ad hoc infra de co 
+      <lb ed="#C" n="130"/>spi. § quot ejus species. versicul. si ergo baptizans, &amp; praeceden e 
+      <lb ed="#C" n="131"/>infra de presbyter. non baptizan. veniens. Est &amp; baptismus san 
+      <lb ed="#C" n="132"/>guinis, quo sancti Innocentes baptizati intelliguntur 
+      <lb ed="#C" n="133"/>ut si credens in Christum, antequam baptizetur, occi 
+      <lb ed="#C" n="134"/>datur pro Christo. de consec. distinctione quarta, baptism 
+      <lb ed="#C" n="135"/>vicem 
+    </p>
+            <p xml:id="nbht7y-d1e1345-d1e1219">
+               <lb ed="#C" n="136"/>Quis sit effectus. Remissio omnium 
+      peccato<lb ed="#C" n="137" break="no"/>rum. nam sine poenitentia om 
+      <lb ed="#C" n="138"/>nia peccata tollit actualia &amp; originalia. de conset. dist. 4 sin 
+      <lb ed="#C" n="139"/>poenitentia. &amp; de poen. distinct 7. §. hoc autem. &amp;c. sequent nullu 
+      <lb ed="#C" n="140"/>expectet: ut probatur, quod talis moriens nec purgatori 
+      <lb ed="#C" n="141"/>um tangit, g sed &amp; per poenitentiam, si postea corruerit, 
+      <lb ed="#C" n="142"/>homo resurget, &amp; reparabitur, &amp; novus efficitur. supra de 
+      <lb ed="#C" n="143"/>sum. Trinit. c. 1. §. sacramentorum. &amp; §. sin. &amp; 5o distinct ferrum 
+      <lb ed="#C" n="144"/>Originalia tamen remanent actu, licet tollantur reatu. d 
+      <lb ed="#C" n="145"/>consec. dist 4. non ex quo, licet autem baptismus tollat pecca 
+      <lb ed="#C" n="146"/>ta, non tamen tollit notam seu irregularitatem: ergo ne¬ 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="147"/>ADDITIONES 
+      <lb ed="#C" n="148"/>f Baptismus fluminis] Adde gl. in c. Apestolicam de preibyter. no¬ 
+      <lb ed="#C" n="149"/>bapt. gl summae. de conse. dist. 4. &amp; gl. in c. firmissime i5. q. 
+      <lb ed="#C" n="150"/>g Nec pufgatorium tangit] Doct. in capit. quod autem de pon&amp; 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>remi. &amp; ibi Ant. Rosellus in sua repeti. &amp; per Doc. in clesabusioni 
+      <lb ed="#C" n="152"/>but. cod. aii -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0547.xml-->
+      <pb ed="#C" n="530"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>bigamiam 26 dist. acutius. &amp;c. una tantum &amp; si aliquis adul 
+      <lb ed="#C" n="2"/>tus baptismum accipit ficte, scilicet quia non conterat 
+      <lb ed="#C" n="3"/>quando recipit, licet character ineum imprimatur, no 
+      <lb ed="#C" n="4"/>tamen gratia, nec remittuntur peccata: sed tunc demun 
+      <lb ed="#C" n="5"/>incipit operari, cum fictio recedit. de consecrat. distm 4 cun 
+      <lb ed="#C" n="6"/>valere. nam gratia in baptismo non quaerit gemitum, ve 
+      <lb ed="#C" n="7"/>planctum, nec opus aliquod, sed solam contritionem cor 
+      <lb ed="#C" n="8"/>dis, &amp; fidem. &amp; sic omnia gratis condonat: ut ibidem pro 
+      <lb ed="#C" n="9"/>batur. &amp; c. sme poaenitentia. secundum Ambrosium, ad idem 
+      <lb ed="#C" n="10"/>de poenitentia. dist. 1. § soniliter in fin. &amp; hoc intellige, quantun 
+      <lb ed="#C" n="11"/>ad peccata actualia. nam originalia per vim sacrament 
+      <lb ed="#C" n="12"/>remittuntur parvulis: secus in adultis, in quibus requiri 
+      <lb ed="#C" n="13"/>tur cordis contritio. alias etiam originalia non remitten 
+      <lb ed="#C" n="14"/>tur, hoc intelligas, etiam si dormientes baptiaentur, vel a 
+      <lb ed="#C" n="15"/>mentes, sed postea vigilant, vel sani facti sunt, &amp; sui con 
+      <lb ed="#C" n="16"/>potes, nec conteruntur. Sed si nullum actuale peccatun 
+      <lb ed="#C" n="17"/>commiserant: ut puta, quia a nativitate continuo furor 
+      <lb ed="#C" n="18"/>laboraverunt, non video quare talibus non dicam pecca¬ 
+      <lb ed="#C" n="19"/>ta dimitti &amp; originalia, &amp; actualia, &amp; haec distinctio com 
+      <lb ed="#C" n="20"/>probatur. infra eod majores § caeterum. &amp; seq secundum ho 
+      <lb ed="#C" n="21"/>intellige quod praecedit, &amp; quod legitur de consecrat. disti¬ 
+      <lb ed="#C" n="22"/>4 a capit. parvulo recenter nato. usque ad c. manus quoque. C 
+      <lb ed="#C" n="23"/>26 quaesti. 6 qui recedunt. &amp; infra eod majores. §. rerum. &amp; 
+      <lb ed="#C" n="24"/>sequent. hic vero &amp; sequent. Effectus autem iste in contr 
+      <lb ed="#C" n="25"/>dicente nihil operatur: secus, si aliqui coacti veniant a 
+      <lb ed="#C" n="26"/>baptismum. quia tales cogendi sunt fidem, quam suscep: 
+      <lb ed="#C" n="27"/>runt servare. nam ex quo non contradixerunt, charact¬ 
+      <lb ed="#C" n="28"/>rem receperunt. infra eod majores. §. item quaeritur. &amp; § .ll. 
+      <lb ed="#C" n="29"/>tunc ergo characterem sacramentalem imprimit oper¬ 
+      <lb ed="#C" n="30"/>tio, cum obicem voluntatis non invenit existentem ex 
+      <lb ed="#C" n="31"/>pressim: ut in dec. majores in fin. Unde imprimitur, etiam 
+      <lb ed="#C" n="32"/>periocum fiat hoc, vel derisum. dum tamen his qui in 
+      <lb ed="#C" n="33"/>mergit intendat baptizi re. &amp; sic intellige secundum Hu 
+      <lb ed="#C" n="34"/>go. I. q. 1. §. ecce quando. de consecrat. d. stinct. 4 quamvis &amp; 
+      <lb ed="#C" n="35"/>solet. Ideo parvulus characterem recipit, licet reclame 
+      <lb ed="#C" n="36"/>quando pervenit ad aetatem legitimam. de consecrat. dist. 4 
+      <lb ed="#C" n="37"/>6 quaeris &amp; c parculi. Sic ergo secundum Hugo. 
+      requiri<lb ed="#C" n="38" break="no"/>tur, quod baptizans intendit baptizare, alias nihil agitur 
+      <lb ed="#C" n="39"/>sed non requiritur intentio offerentium, vel baptizato 
+      <lb ed="#C" n="40"/>rum, sicut idem Hugo not. de consecrat. d stinct 4. solet. Al 
+      <lb ed="#C" n="41"/>dicunt, quod nec intentio baptizantis requiritur cum si 
+      <lb ed="#C" n="42"/>sacramentum necessitatis, licet aliud sit in sacramenti: 
+      <lb ed="#C" n="43"/>quae voluntatis sunt. &amp; in hac opinione videtur fuisse Gra 
+      <lb ed="#C" n="44"/>I. quaest. 1. §. ecce. cum honore. dicas, quod in baptizante no 
+      <lb ed="#C" n="45"/>requiritur intentio, quae pro baptizato sit: dummod 
+      <lb ed="#C" n="46"/>contraria non adsit. unde &amp; ebrius baptizat. 1. qu. 1. dedi¬ 
+      <lb ed="#C" n="47"/>qui tamen nihil intendit nam quod sobrius cavet, ebriu 
+      <lb ed="#C" n="48"/>ignorans committit, nescit quid loquitur, sepultus jace 
+      <lb ed="#C" n="49"/>15. sane quod dic, ut supra eod § quae su ejus forma. vers. sed cun 
+      <lb ed="#C" n="50"/>parruli. Sed &amp; quamvis impresso characteri non possin 
+      <lb ed="#C" n="51"/>baptizati renunciare infra de dirort. quanto. §. pen. tamer 
+      <lb ed="#C" n="52"/>effectui characteris, id est salvationi renunciare possun 
+      <lb ed="#C" n="53"/>baptizati, ut in supradictis cap. sic tollitur contra. suprad 
+      <lb ed="#C" n="54"/>reg. cum scimus infra eod majores §. sed adhuc. &amp; sequent &amp; ei 
+      <lb ed="#C" n="55"/>ratio, quia character semel receptus amitti non potes 
+      <lb ed="#C" n="56"/>quia quod factum est. nequit non fieri. 3245 si Paulus ff. d 
+      <lb ed="#C" n="57"/>ca &amp; postli. rerers. in belli. §. factum. &amp; supra de ord ab piscop 
+      <lb ed="#C" n="58"/>qui renunc. epi c. 1. in fin. not. quod baptismus non est reite 
+      <lb ed="#C" n="59"/>randus, sicut nec caetera sacramenta, ut dixi supra de acd 
+      <lb ed="#C" n="60"/>non reiter. quod si quis fecerit, si clericus sit, deponendus 
+      <lb ed="#C" n="61"/>rit. de consecrat distin. 4 quibus eos. quod si laici hac fecerim 
+      <lb ed="#C" n="62"/>excommunicandi sunt, &amp; graviori poena feriendi, nec po 
+      <lb ed="#C" n="63"/>sunt ordinari. q 7.qui in qualibet. Sed si dubitetur de aliquo 
+      <lb ed="#C" n="64"/>Ban sit baptizatus, h potest baptizari his verbis praemis 
+      <lb ed="#C" n="65"/>Si tu baptizatus non es, baptizo te in nomine Patris, &amp;c 
+      <lb ed="#C" n="66"/>de consecrat. distinct 4 si nulla infra eod. c 2. &amp; hoc intelliga 
+      <lb ed="#C" n="67"/>sive de facto, sive de jure dubitatio oriatur, maxime in h. 
+      <lb ed="#C" n="68"/>casibus in quibus sunt diversae opiniones. ut not supra ey¬ 
+      <lb ed="#C" n="69"/>quae sit forma. pers quid ergo si quis putet. &amp; praecedent ad hoc 
+      <lb ed="#C" n="70"/>Siepra de rescription sciscitatus. &amp; notatur infratitu.I. renims 
+      <lb ed="#C" n="71"/>licut &amp; dixi de ecclesia supra de consecrat. eccles. vel alt su 
+      <lb ed="#C" n="72"/>Prima listinctione 6) distinct preshyteri quos, &amp; § sequent E 
+      <lb ed="#C" n="73"/>G cunt quidam quod licet esset primitus baptizatus, ni 
+      <lb ed="#C" n="74"/>nilominus characterem recipit. argument. in proxi. d.c 
+      <lb ed="#C" n="75"/>quia &amp; possessio ex pluribus causis acquiri potest. ff. dea¬ 
+      <lb ed="#C" n="76"/>Taeresad possession possideri. §. ex pluribus. sed non est verum 
+      <lb ed="#C" n="77"/>quod in hoc casu ad vocem solumnodo refertur, secun 
+      <lb ed="#C" n="78"/>aUm Gra. 6S. distinction. §. quid ergo. argumen. ex eo, quod li 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0547.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>bertas servo praestita nihil addit. C. de manumiss. vindict. leg 
+      <lb ed="#C" n="80"/>secund 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="81"/>ADDITIO. 
+      <lb ed="#C" n="82"/>b Si dubitetur de aliquo, an sit baptizatus] Adde an rebaptiza 
+      <lb ed="#C" n="83"/>tus scienter sit irregularis, vide per Arch. n e qui in ali qua ciar 
+    </p>
+    <p>
+      <lb ed="#C" n="84"/>caprinc. 51d.. -->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

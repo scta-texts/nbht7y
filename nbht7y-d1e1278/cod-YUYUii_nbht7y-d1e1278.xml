@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 36</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 36</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="509"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1278"><!-- nbht7y-l3t36 -->
+            <head xml:id="nbht7y-d1e1278-Hd1e101">Titulus 36</head>
+            <head xml:id="nbht7y-d1e1278-Hd1e103" type="question-title">De religiosis domibus, ut episcopo sint subiectae</head>
+            <p xml:id="nbht7y-d1e1278-d1e106">
+               <lb ed="#C" n="140"/>De religiosis Dominibus XXXVI.
+      <lb ed="#C" n="141"/>Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1278-d1e113">
+               <lb ed="#C" n="142"/>SUMMARIA 
+      <lb ed="#C" n="143"/>Locus religiosus quis dicatur. Et cui subest 
+      <lb ed="#C" n="144"/>2 Locus religiosus &amp; sacer habent se tanquam genus &amp; species 
+      <lb ed="#C" n="145"/>Aedes sacrae quae dicantur 
+      <lb ed="#C" n="146"/>4 Fundare quis possit locum religiosum 
+      <lb ed="#C" n="147"/>6 Monasterium unum si alii uniatur ignorante episcopo an va 
+      <lb ed="#C" n="148"/>leat unic 
+      <lb ed="#C" n="149"/>7 Religiosi an possint fieri seculares 
+      <lb ed="#C" n="150"/>8 Seculares an possint fieri religios¬ 
+      <lb ed="#C" n="151"/>o Abbas vel monachus quot habitaculis debeat esse contentus 
+    </p>
+            <p xml:id="nbht7y-d1e1278-d1e137">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0527.xml-->
+               <pb ed="#C" n="510"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>QVoniam monachi sine claustro 
+      vi<lb ed="#C" n="2" break="no"/>vere non 
+      in<lb ed="#C" n="3" break="no"/>telliguntur posse, sicut nec piscis sine aqua. 16 
+      <lb ed="#C" n="4"/>qu.). placuit. &amp;c. si cupis, sed degerere debent in 
+      <lb ed="#C" n="5"/>locis religiosis, &amp; vacare orationibus ideo praemisso tra 
+      <lb ed="#C" n="6"/>ctatu de Monachis, videamus de parochiis eorundem,? 
+      <lb ed="#C" n="7"/>sic de religiosis domibus. dicendum agitur, Quis dicatu 
+      <lb ed="#C" n="8"/>locus religiosus, Quis possit fundare locum religiosum 
+      <lb ed="#C" n="9"/>Cui subest, Et utrum religiosi possint fieri seculares. ve 
+      <lb ed="#C" n="10"/>contra, Et quot habitaculis monachus seu Abbas debea 
+      <lb ed="#C" n="11"/>esse contentus 
+    </p>
+            <p xml:id="nbht7y-d1e1278-d1e171">
+               <lb ed="#C" n="12"/>Quis dicatur locus reigiosus Dictumetli 
+      <lb ed="#C" n="13"/>pra de sepulturis. §. quid 
+      <lb ed="#C" n="14"/>sepultura. sed sciendum, quod hic ponitur domus religios 
+      <lb ed="#C" n="15"/>pro sacra. unde exponendum est de religiosis, id est, sacris 
+      <lb ed="#C" n="16"/>vel ideo dixit religiosis, ut includat loca religiosa, &amp; nos 
+      <lb ed="#C" n="17"/>consecrata, sicut xenodochia, id est, hospitalia, &amp;c. infra e¬ 
+      <lb ed="#C" n="18"/>de xenodochiis. &amp; junge quod no inf. eo. ver. &amp; no. Dicitur au 
+      <lb ed="#C" n="19"/>a tem xenodochium a locus, ubi peregrini suscipiuntur 
+      <lb ed="#C" n="20"/>b Est &amp; orphanotrophium, b ubi pueri utroque parente or 
+    </p>
+            <p xml:id="nbht7y-d1e1278-d1e193">
+               <lb ed="#C" n="21"/>bati nutriuntur, &amp; aluntur. Et est brephotrophium in qu 
+      <lb ed="#C" n="22"/>pauperes &amp; infirmi pascuntur &amp; curantur. Est nosoco 
+      <lb ed="#C" n="23"/>mium, in quo aegroti curantur. Est &amp; gerontocomium, in 
+      <lb ed="#C" n="24"/>quo senes &amp; Valetudinarii sustentantur hae autem omne 
+      <lb ed="#C" n="25"/>ipecies religionis approbatae videntur &amp; de his habes. 1q. 
+      <lb ed="#C" n="26"/>si quis omnem. ante fin. &amp; C. de sac. sanct. eccles. I.ult. C.de episc. ( 
+      <lb ed="#C" n="27"/>cle. orphanotrophos. &amp; l. omnia oratoria. in auth de reb. eccles. no 
+      <lb ed="#C" n="28"/>alien. §. 1.col. 2. &amp; de eceles. titul. §. 1. col9. ibi tamen videtur 
+      <lb ed="#C" n="29"/>quod praelati nomine hoc vocentur. &amp; de his similiter ha 
+      <lb ed="#C" n="30"/>bes. 23. q. 8. tributum. §. quamvit ante fi. Et sunt hae diversae spe 
+      <lb ed="#C" n="31"/>cies hospitalium, &amp; talia loca videntur, quod quilibet po 
+      <lb ed="#C" n="32"/>sit facere propria authoritate. arg. Inst. de rer di §. religiosun 
+      <lb ed="#C" n="33"/>tamen ex quo facta sunt ad curam episcopi in cujus dioe 
+      <lb ed="#C" n="34"/>constructa sunt, pertinent: qui curare debet, ut officium 
+      <lb ed="#C" n="35"/>cui deputata sunt, exequantur. inf. eo. de xenodochiis. nec pa 
+      <lb ed="#C" n="36"/>ti debet, quod ex quo semel servitio Dei dedicata sunt, a¬ 
+      <lb ed="#C" n="37"/>humanos usus revertantur. inf eod ad hoc sup. de rer. permu 
+      <lb ed="#C" n="38"/>mancipia. &amp;tc. sequ. Videntur tamen dicere ca. sup. de rer permu 
+      <lb ed="#C" n="39"/>adhoc. quod nemo sine authoritate episcopi talem locun 
+      <lb ed="#C" n="40"/>possit construere. &amp; est verum, quod non reputatur reli 
+      <lb ed="#C" n="41"/>giosus, quo ad hoc, ut de corpore eccl intelligatur, nisi au 
+      <lb ed="#C" n="42"/>thoritas episcopi interveniat, vel a principio, vel ex pos 
+      <lb ed="#C" n="43"/>facto. quod dic, ut not. sup. de reg § quis sit regularis. versi. qui 
+      <lb ed="#C" n="44"/>de rusticis. &amp; seq &amp; inf. eod. versi. dicitur autem locus. * Et no 
+      <lb ed="#C" n="45"/>quod locus religiosus &amp; facer habent se tanquam genu 
+      <lb ed="#C" n="46"/>&amp; species, transit enim nomine speciali. &amp; dicitur sacei 
+      <lb ed="#C" n="47"/>remanet in generali, quod dicitur religiosus, sic adopti 
+      <lb ed="#C" n="48"/>transit in nomine speciali, &amp; dicitur arrogatio. remane 
+      <lb ed="#C" n="49"/>in generali, &amp; dicitur adoptio, f de adoptio. l.1. §. ult. ergo le 
+      <lb ed="#C" n="50"/>cus sacer religiosus est, sed non convertitur: ideo dixit d 
+      <lb ed="#C" n="51"/>religiosis, &amp; non de sacris, ut sub genere speciem compr¬ 
+      <lb ed="#C" n="52"/>hendere posset. Dicitur autem locus sacer ille, qui rite, i¬ 
+      <lb ed="#C" n="53"/>est, juxta eccles. formam. &amp; per Pontifices Deo dedicatu 
+      <lb ed="#C" n="54"/>est. * Et aedes sacrae, id est, eccl. &amp; domus quae rite ad 
+      mi<lb ed="#C" n="55" break="no"/>nisterium Dei dedicata sunt, sacra dicuntur, ut calices, vi 
+      <lb ed="#C" n="56"/>stimenta sacerdotalia, &amp; similia. Inst. de rerum di. §. nullus e 
+      <lb ed="#C" n="57"/>haec dicta obligari prohibentur, praeterquam pro redem 
+      <lb ed="#C" n="58"/>ptione captivorum, ut in di §. &amp; C. de sat. san. eccles sancimi 
+      <lb ed="#C" n="59"/>nemini. &amp; sup. de pigno.c.I.infra eo. ad hoc &amp; not. in sum. de 
+      <lb ed="#C" n="60"/>bus eccl. non alie. §. quae res. &amp; §. seq &amp; ideo dixit, per Pontis 
+      <lb ed="#C" n="61"/>cem, quia eccl. aedificanda non est sine authoritate dioec 
+      <lb ed="#C" n="62"/>de conse. di. I. nemo. de hoc dicetur infra de eccles. aedi. §. cuj 
+      <lb ed="#C" n="63"/>authoritate. qui tit. affinis est huic. sed haec est differenti: 
+      <lb ed="#C" n="64"/>quia ibi principaliter tractatur de parochiis secularibu 
+      <lb ed="#C" n="65"/>aedificandis, hic de monasteriis. &amp; ideo etiam dixit, rel¬ 
+      <lb ed="#C" n="66"/>giosis, quia monasterium nec sine licentia episcopi est a 
+      <lb ed="#C" n="67"/>dificatum: ut in auth. de monachis §. illud. coli. &amp; ut nullus fa 
+      <lb ed="#C" n="68"/>bricet oratorii domum, col. 5. de eccles. titula si quis, colum. 19. c 
+      <lb ed="#C" n="69"/>mnia vero oratoria, quae aliqui in domibus etiam proprii 
+      <lb ed="#C" n="70"/>ex devotione authoritate episcopi construunt, religios 
+      <lb ed="#C" n="71"/>sunt. 18. quaestio. 2. quidam. de conse distinct. 5. unicuique &amp; cat 
+      <lb ed="#C" n="72"/>clericos. &amp; est idem oratorium, quod ecclesia, seu capell¬ 
+      <lb ed="#C" n="73"/>infra de eccl. aedi. cfi sed non est ibi sine authoritate episcop 
+      <lb ed="#C" n="74"/>celebrandum. ut in d. c. unicuique. Sed &amp; murus civitati 
+      <lb ed="#C" n="75"/>ideo sanctus appellatur, quia si aliquis delinquat circ 
+      <lb ed="#C" n="76"/>murum rumpendo, vel transcendendo, quia scilice 
+      <lb ed="#C" n="77"/>non vult intrare per portam, sed per murum, secundun 
+      <lb ed="#C" n="78"/>legem decapitandus est Institut de rerum dist. §. sanctae, &amp; id 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0527.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>eo quia Remus frater Romuli, transcendit murum deci 
+      <lb ed="#C" n="80"/>pitatus fuit. unde Lucanu 
+      <lb ed="#C" n="81"/>
+               <quote xml:id="nbht7y-d1e1278-Qd1e331">Fraterno primi maduerunt sangnine muri</quote>
+               <lb ed="#C" n="82"/>Et tangitur haec historia supra dererum divi.I. ult. Sed ne¬ 
+      <lb ed="#C" n="83"/>authoritate Imperatoris hoc facere licet, quamvis vide¬ 
+      <lb ed="#C" n="84"/>tur contradicere. ff. de rerum divi. sacra. §. 1. sed expone ib 
+      <lb ed="#C" n="85"/>principis, id est Papae, quia duo Principes sunt ut not suj 
+      <lb ed="#C" n="86"/>de offic. ordin. S. quis possit &amp; de majo. &amp; obe § quis cui. &amp; de cor 
+      <lb ed="#C" n="87"/>stit. §. quis possit. vel dic secundum quod Doc. dicunt quo 
+      <lb ed="#C" n="88"/>loquitur secundum tempora sua secundum quae princep 
+      <lb ed="#C" n="89"/>sacerdos erat. &amp; juvatur haec opinio. 63.distinct. Valentinus 
+      <lb ed="#C" n="90"/>nus. sed quicquid dicant hodie, planum est, quod de hi 
+      <lb ed="#C" n="91"/>non debet se intromittere. supra de decimis. tua. &amp; infra uip. 
+      <lb ed="#C" n="92"/>tet in his quae not. infra qui fil. sint legit. §. qualiter. &amp; a quo per 
+      <lb ed="#C" n="93"/>ergo. &amp; sequentur
+    </p>
+            <p xml:id="nbht7y-d1e1278-d1e360">
+               <lb ed="#C" n="94"/>Quis possit fundare locum: religiosum, pa¬ 
+      <lb ed="#C" n="95"/>tet ex his quae not supraec 
+      <lb ed="#C" n="96"/>proxi. versi. videtur tamen dicere &amp; praece, quod quilibe 
+      <lb ed="#C" n="97"/>potest fundare locum religiosum, remanente in nomin 
+      <lb ed="#C" n="98"/>generali, sed sacrum non potest, nisi authoritate episcop. 
+      <lb ed="#C" n="99"/>ut dictum est. &amp; probatur 16. qu. 1quicunque. 18. quaest. 2. nulli 
+      <lb ed="#C" n="100"/>monachus, &amp; in trib. ca. praece. Unum tamen no. quod ex qu 
+      <lb ed="#C" n="101"/>domus semel facta est religiosa, authoritate episcopi in 
+      <lb ed="#C" n="102"/>terveniente ad humanos usus seu seculares reduci no¬ 
+      <lb ed="#C" n="103"/>debet. infra eodem inter quatuor. &amp; est hoc generale in omni 
+      <lb ed="#C" n="104"/>bus Deo dicatis, vel consecratis. 19. quaest 2 quae semel. supr 
+      <lb ed="#C" n="105"/>de rerum permut mancipia. de conse di i ligna. &amp;c. vestimenta? 
+      <lb ed="#C" n="106"/>cap. vasal f. de reli &amp; sump fune si quis sepulchra infra eod a 
+      <lb ed="#C" n="107"/>hoc &amp; junge quod no infra eod. §. &amp; utrum. &amp; accedita 
+      <lb ed="#C" n="108"/>hanc materiam. 18. qu. 2. pervenit. &amp; cap. dndum supra titul. ic 
+      <lb ed="#C" n="109"/>sin §. ultim
+    </p>
+            <p xml:id="nbht7y-d1e1278-d1e397">
+               <lb ed="#C" n="110"/>Cui subest Episcopo in aejus dicec situs est, 16 q. 9. 
+      <lb ed="#C" n="111"/>omnes basilicae. 18. quaest. 2. monasteria.i.dem 
+      <lb ed="#C" n="112"/>stitut. cum venissem respon. 1. &amp; infra ca. de xenodochiis. subel 
+      <lb ed="#C" n="113"/>autem, quo ad duas leges. scil dioece. &amp; jurisdi. sed secun 
+      <lb ed="#C" n="114"/>dum Goffred. utramque episcopus remittere potest, v 
+      <lb ed="#C" n="115"/>infra eod. constitut cum venerabilis. ad fi 16. quaestio 2. visis. nan 
+      <lb ed="#C" n="116"/>&amp; decimas; potest dare extra baptismalem eccles. 16quaes 
+      <lb ed="#C" n="117"/>statumus. &amp; jura eccle. detrahere, &amp; alteri dare infradees 
+      <lb ed="#C" n="118"/>cessib prael. sicut venire 7. quae. 2.bonae rei. dummodo cum con 
+      <lb ed="#C" n="119"/>sensu capituli hoc faciat. supra de donat. pastoru. licet posse 
+      <lb ed="#C" n="120"/>in contrarium allegari. nam subditus seipsum eximer 
+      <lb ed="#C" n="121"/>non potest supra de for comp si diligenti. &amp; cap. significasti. 1 
+      <lb ed="#C" n="122"/>quaestio. i. clericum cujuslibet. &amp; capit. clericum nullus, sic &amp; 
+      <lb ed="#C" n="123"/>contra videtur, quod &amp; possit a se excutere jurisdis ordi 
+      <lb ed="#C" n="124"/>nariam, sed hoc verum est, in totum. f. de ossic. praesi legam 
+      <lb ed="#C" n="125"/>quia nec episcopus sine licentia Papae potest renunciar 
+      <lb ed="#C" n="126"/>episcopatui. supra de renunc. nisi cum pridem supra de reguli 
+      <lb ed="#C" n="127"/>ribus, licet. §. fin. sed in parte potest, ut in primis concor¬ 
+      <lb ed="#C" n="128"/>quantumcunque tamen eximat, semper videtur 4 tenuis 
+      <lb ed="#C" n="129"/>ie. &amp; de his dictis duabus legibus plenius not. supra de of 
+      <lb ed="#C" n="130"/>ordin. §. quid pertinet, sub §. sunt autem quaedam. versicul. nota 
+      <lb ed="#C" n="131"/>verunt. &amp; ver. &amp; nota. quod quantumcunque quod dicut ibi no 
+      <lb ed="#C" n="132"/>Quod etiam dictum est, quemlibet scilicet locum subess 
+      <lb ed="#C" n="133"/>episcopo, intra cujus dioeces. est. intelligas esse verum, nis 
+      <lb ed="#C" n="134"/>probetur exemptus infra eo constitutus, vel nisi praescriptio 
+      <lb ed="#C" n="135"/>obste. supra de praescript. auditis. infra eod, cum venerabilis. ( 
+      <lb ed="#C" n="136"/>c. seque &amp; ex quo aliquis locus exemptus est, vel praescr. mu 
+      <lb ed="#C" n="137"/>nitus, si praeter consensum fratrum obedientiam promit 
+      <lb ed="#C" n="138"/>tat praelatus Episcopo non praejudicat istud monasterio 
+      <lb ed="#C" n="139"/>inf. eod. cum dilectus filius, quia delictum personae non debe 
+      <lb ed="#C" n="140"/>redundare in damnum eccl. 16. q. 6. siepiscopum supra de ex 
+      <lb ed="#C" n="141"/>cep cum venerabilis. §. imtelleximus. nisi forte, quo ad possel 
+      <lb ed="#C" n="142"/>sionem argum inf. de jure patro ex literis, &amp; ca. consultationi 
+      <lb ed="#C" n="143"/>bus &amp; in se. concord. sic etiam nec si totus conventus con 
+      <lb ed="#C" n="144"/>sentiat praejudicat ordinario &amp; sententia lata supra de don 
+      <lb ed="#C" n="145"/>inter dilect. infra de capel monac. capit. 2. supra de arbitris. cun 
+      <lb ed="#C" n="146"/>tempore.? Sed nunquid si unum monasterium alii uniatur, 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="147"/>ADDITIONES. 
+      <lb ed="#C" n="148"/>a Diciturautem zenodochium.] Adde gl. in §. sancimus. 35. 9. 
+    </p>
+    <p>
+      <lb ed="#C" n="149"/>gl. in verbo xenod. inclem. per literas. de praeb. doct. in c. de xenodoch 
+      <lb ed="#C" n="150"/>&amp; in I. si quis ad declinandam. C. de epis &amp; cli 
+      <lb ed="#C" n="151"/>B Est &amp; orphanotrophium.] Adde Behedictum Capram in ca 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>perliueras. de prab. &amp; in l. orphanotrophos. C. de epis &amp; e¬ -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0528.xml-->
+      <pb ed="#C" n="511"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>episcopo suo ignorante, nunquid valet unio? Videtu 
+      <lb ed="#C" n="2"/>quod sic, saltem si uniatur monasterio regulae arctiori: 
+      <lb ed="#C" n="3"/>arg. supra de regularib. licet. &amp;c. sane. dum tamen licentia pe 
+      <lb ed="#C" n="4"/>tita fuerit, licet non obtenta, ut in dec.licet. &amp; quia nec ex¬ 
+      <lb ed="#C" n="5"/>mitur a jurisd. episcopali, infra eod. quia monasterium. ide 
+      <lb ed="#C" n="6"/>episcopus debet ratum habere, quod alii prodest, &amp; sil 
+      <lb ed="#C" n="7"/>non obest arg ff. de aqua plu. arcen. in summa. §. item Varus. f 
+      <lb ed="#C" n="8"/>de servis expor. si fervus. &amp; l. supra de commodato. c unico. supr¬ 
+      <lb ed="#C" n="9"/>de rescribt. plerunque. Si contra, ad episcopum pertinet u 
+      <lb ed="#C" n="10"/>nio. infra de exces. praelat sicut unire. &amp; providentiae ipsin 
+      <lb ed="#C" n="11"/>committitur, qualiter ecclesiae dioec. consistere debeani 
+      <lb ed="#C" n="12"/>70. distinct. sanctorum. Item paratur praejudicium episco 
+      <lb ed="#C" n="13"/>po, quia gaudebit privilegiis monasterii, cui unitur supr 
+      <lb ed="#C" n="14"/>de statu mona. recolentes. arg. C de rei ven. I.I. Item forte Abba 
+      <lb ed="#C" n="15"/>monasterii, cui unitum est, nollet visitare, &amp; sic gravabi 
+      <lb ed="#C" n="16"/>monasterium veniendo ibi, bonis suis spoliando, depau 
+      <lb ed="#C" n="17"/>perando, &amp; sic praejudicabit episcopo. cujus interest habe 
+      <lb ed="#C" n="18"/>re sub se subditos locupletes. in auth. at jud. sine quoquo sus 
+      <lb ed="#C" n="19"/>fragio. §. cogitatio collat. 2. &amp; expedit etiam Reipub. ne qui 
+      <lb ed="#C" n="20"/>re sua mase utatur. Institat. de his qui sui juris, vel alien. sun 
+      <lb ed="#C" n="21"/>5. sed hoc tempore. Solutio. dicas non valere unionem, ni 
+      <lb ed="#C" n="22"/>nuthoritas episcopi intervenit, ut patet in his quae notan 
+      <lb ed="#C" n="23"/>tur supra eod. §. respons. I. &amp; supra quod met. cau.c. penult. Sun 
+      <lb ed="#C" n="24"/>autem 4. causae, quae unionem inducunt. Prima est ten 
+      <lb ed="#C" n="25"/>poris turbatio, seu qualitas. infra eod. monasterium. 16. qu. 
+      <lb ed="#C" n="26"/>temporis qualitas. Secunda duarum ecclesiarum vicinitas 
+      <lb ed="#C" n="27"/>ut in dec. cum tempore. Inde versu 
+      <lb ed="#C" n="28"/>
+               <quote xml:id="nbht7y-d1e1278-Qd1e548">Mantua ve miserae nimium vicina Cremona</quote>
+               <lb ed="#C" n="29"/>Quia propter solam vicinitatem fuit a quodam Imperi¬ 
+      <lb ed="#C" n="30"/>tore submissa Cremonae. Tertia est, paupertas. 10 q. 4. unic 
+      <lb ed="#C" n="31"/>Quarta est, religionis deformitas. arg. infra eod. ne cleric. vi 
+      <lb ed="#C" n="32"/>mon. relatum. supra de ftatu mona. in singulis. respons. 1. ibi. ac 
+      <lb ed="#C" n="33"/>ducent autem in hujus primordiis novitatis, &amp;c. hanc au 
+      <lb ed="#C" n="34"/>tem causam non notaverunt Doctores, sed loco istius di 
+      <lb ed="#C" n="35"/>xerunt, quod quarta causa erat desolatio, vel destituti¬ 
+      <lb ed="#C" n="36"/>clericorum, seu monachorum. infra eod. quia monasterium 
+      <lb ed="#C" n="37"/>sed ibi non est potius causa temporis, qualitas, vel pau 
+      <lb ed="#C" n="38"/>pertas, ficut litera dicit. Si vis scire quot modis fiat unio 
+      <lb ed="#C" n="39"/>vide quod not. supra ne sede pacant. §. quot modis. Quod au 
+      <lb ed="#C" n="40"/>tem dixi, quemlibet locum religiosum subesse episcope 
+      <lb ed="#C" n="41"/>dico supra eod. respons.i. intelligas esse verum? quando cer 
+      <lb ed="#C" n="42"/>tum est de terminis episcopatuum, quia episcopatus 
+      <lb ed="#C" n="43"/>ecclesiae limitatae sunt, ut not. supra de paro. §. quid sit paro 
+      <lb ed="#C" n="44"/>chia. Sed si incertum sit, ad novos terminos recurretur 
+      <lb ed="#C" n="45"/>vel etiam secundum quosdam, ad terminos jurisd. seculi 
+      <lb ed="#C" n="46"/>ris civitatum. Sed &amp; ille episcopus fuendus erit, qui inco 
+      <lb ed="#C" n="47"/>las anno quolibet confirmavit, &amp; etiam baptizavit, &amp; si 
+      <lb ed="#C" n="48"/>intelligas. infra eodc.. &amp; I6o. qu. 3. licet. in reg. cum e se. &amp; io. dis 
+      <lb ed="#C" n="49"/>3 &amp; 49. 6. hoc quippe. quia nulli turbanda est sua possessio 
+      <lb ed="#C" n="50"/>quousque de jure proprietatis constet. 8 q. 4. nonne. 16. q. 
+      <lb ed="#C" n="51"/>volumus. supra ut lit. pend. a memoria. Probantur autem ter 
+      <lb ed="#C" n="52"/>mini per libros antiquos, testes, &amp; famalm. supra de proba 
+      <lb ed="#C" n="53"/>rum causam. Quid si nullo modo apparere potest de limi 
+      <lb ed="#C" n="54"/>tibus forte dirimetur sorte. argum f. de jud. sed cum amb¬ 
+      <lb ed="#C" n="55"/>i distinct cleros 26. qu. 2. sors. imo dic, quod si ambo episcop 
+      <lb ed="#C" n="56"/>sunt ejusdem provinciae metrop. qui dae hoc cognoscer 
+      <lb ed="#C" n="57"/>debet. supra deforo compet. sane. &amp; poterit grat: ficare cui vo 
+      <lb ed="#C" n="58"/>luerit, vel sibi retinere arg. supra dedeci quidontam. si vero sun 
+      <lb ed="#C" n="59"/>diversarum provinciarum, tunc idem racere poterit Pri 
+      <lb ed="#C" n="60"/>mas vel Papa. Qualiter autem aliquis eximi possit, diel 
+      <lb ed="#C" n="61"/>tur infra de privile. §. quid operetur. &amp; qualiter possit aliqui 
+      <lb ed="#C" n="62"/>res praescribi. supra de praescri. rerum immob §. quae exigantur 
+      <lb ed="#C" n="63"/>sub) quartum. 
+    </p>
+            <p xml:id="nbht7y-d1e1278-d1e627">
+               <lb ed="#C" n="64"/>Et utrum religiosi posim fieri seculares. 
+      Di<lb ed="#C" n="65" break="no"/>cas, quod persona ex quo 
+      <lb ed="#C" n="66"/>professa est nullo modo: ut de stat. mon, cum ad monasterium 
+      <lb ed="#C" n="67"/>m sin. nisi in casu, sicut not. supra de vot § qualiter. vers. sed? 
+      <lb ed="#C" n="68"/>de votis. &amp; seq. possunt tamen populum regere. quod di¬ 
+      <lb ed="#C" n="69"/>ut non supra tit. i. §. &amp; utrum locus tamen, seu monasteriun 
+      <lb ed="#C" n="70"/>religiosis personis deputatum, aliquando per seculare 
+      <lb ed="#C" n="71"/>retinetur. ut infra eod. inter quatuor. &amp; sic spurii in subsid 
+      <lb ed="#C" n="72"/>um admittuntur ad honores. ff. de decu. generaliter. §. spu 
+      <lb ed="#C" n="73"/>rios. quod qualiter intelligatur, nota. supra de regular. §. a 
+      <lb ed="#C" n="74"/>quid teneatur. vers. sed &amp; tenetur 
+    </p>
+            <p xml:id="nbht7y-d1e1278-d1e653">
+               <lb ed="#C" n="75"/>Vel econverso, id est seculares possint 
+      fi<lb ed="#C" n="76" break="no"/>eri 
+      religi<lb ed="#C" n="77" break="no"/>osi: planum est de personis, quod sic, prout non. sup. de relis 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0528.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>Item locus deputatus secularibus relig. deputari potes 
+      <lb ed="#C" n="79"/>de consensu dioec. &amp; secularium clericorum. nec cogun 
+      <lb ed="#C" n="80"/>tur clerici seculares recipere habitum, sed providebitu 
+      <lb ed="#C" n="81"/>eis in vita sua. Sic loquitur inf. de eccles aedi si ad audientiam 
+      <lb ed="#C" n="82"/>Illud autem certum est, quod Papa, etiam invitis mona 
+      <lb ed="#C" n="83"/>chis, potest locum religiosum deputare clericis seculari 
+      <lb ed="#C" n="84"/>bus, vel econtrario cum de jure possit supra jus dispensare 
+      <lb ed="#C" n="85"/>supra de conces. prabend. proposuit. quia quilibet potest au 
+      <lb ed="#C" n="86"/>ferrejus suum. 9. q. 3. nunc vero. &amp;c. per prmcipalem. verun 
+      <lb ed="#C" n="87"/>tamen non decet eum, nec istud facere intendit. suprad 
+      <lb ed="#C" n="88"/>mon. in singulis. §. porro, cum similibus &amp; argu. supra de rescrip¬ 
+      <lb ed="#C" n="89"/>cap. 2 
+    </p>
+            <p xml:id="nbht7y-d1e1278-d1e693">
+               <lb ed="#C" n="90"/>Et quot, habitaculis monachus seu abbas de 
+      <lb ed="#C" n="91"/>beat esse contentus. Uno 
+      <lb ed="#C" n="92"/>non tamen debent in diversis locis vocem vel locum mo 
+      <lb ed="#C" n="93"/>nachi quaerere, vel habere, nec unus abbas diversis mona 
+      <lb ed="#C" n="94"/>steriis praesidere. infra eodc. ulti. §. ulii. supra de elect, constitu 
+      <lb ed="#C" n="95"/>tus. cum ergo hoc specialiter monachis prohibeatur, &amp; i 
+      <lb ed="#C" n="96"/>dem de canonicis regularibus intelligatur. supra de postu¬ 
+      <lb ed="#C" n="97"/>c. 2. videtur a contrario sensu clericis secularibus hoc con 
+      <lb ed="#C" n="98"/>cessum. arg. ff.de judic. cum praetor. quod dic, ut not. supra d 
+      <lb ed="#C" n="99"/>praeb. § sin. sub §. &amp; illud. Et quia plerunque discordiae pari 
+      <lb ed="#C" n="100"/>unt novitates: ut supra de consuet. c. ani ep. &amp; in ipsis consti 
+      <lb ed="#C" n="101"/>tuendis evidens debet esse utilitas. f. de constii. prin. inreb. 8 
+      <lb ed="#C" n="102"/>omne collegium illiciium est nisi a jure vel principe ap 
+      <lb ed="#C" n="103"/>probetur ff. de illic. col. I 3. statuitur, quod nullus novam re 
+      <lb ed="#C" n="104"/>lig inveniat, sed accipiat unam de approbatis: quia nimia 
+      <lb ed="#C" n="105"/>religionum diversitas in eccles Dei confusionem inducii 
+      <lb ed="#C" n="106"/>infra cod c. ult. respon. 1. §.1. Et illud not. quod ex fundationi 
+      <lb ed="#C" n="107"/>eccles. acquiritur jus patronatus. ut notat. insra titu. i.§. ei 
+      <lb ed="#C" n="108"/>quibus 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

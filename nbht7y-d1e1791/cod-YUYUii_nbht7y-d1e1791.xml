@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 10</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 10</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="689"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1791"><!-- nbht7y-l5t10 -->
+            <head xml:id="nbht7y-d1e1791-Hd1e101">Titulus 10</head>
+            <head xml:id="nbht7y-d1e1791-Hd1e103" type="question-title">De his, qui filios occiderunt</head>
+            <p xml:id="nbht7y-d1e1791-d1e106">
+               <lb ed="#C" n="69"/>De his qui filios occiderunt X. Rubr. 
+    </p>
+            <p xml:id="nbht7y-d1e1791-d1e111">
+               <lb ed="#C" n="70"/>SUMMARIA 
+      <lb ed="#C" n="71"/>I. Poaena legis Pompeiae de parricidiis, in quibus locum habeae 
+      <lb ed="#C" n="72"/>Et quae sit ejus poena. 2 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0706.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="73"/>3. Parentibus, ad quorum latus filii suffocati reperiuntur, qua 
+      <lb ed="#C" n="74"/>do &amp; qualis poenitentia imponatur 
+    </p>
+            <p xml:id="nbht7y-d1e1791-d1e129">
+               <lb ed="#C" n="75"/>POst illa crimina. uaein Deum prli 
+      <lb ed="#C" n="76"/>cipaliter commit 
+      <lb ed="#C" n="77"/>tuntur: restat videre de his, quae in hominem 
+      <lb ed="#C" n="78"/>&amp; nihilominus in Deum. Sed &amp; quia inte¬ 
+      <lb ed="#C" n="79"/>i haec homicidium gravius reputatur, de ip 
+      <lb ed="#C" n="80"/>sodicendum est. Verum quia omnia homicidia excedi 
+      <lb ed="#C" n="81"/>parricidium, vel fratricidium, &amp; gravius reputatur: de ip 
+      <lb ed="#C" n="82"/>so praemittit Author, apponens rubricam de his, qui filio 
+      <lb ed="#C" n="83"/>occiderunt, &amp; quia tales incidunt in l. Pompetam, de parrici 
+      <lb ed="#C" n="84"/>diis, videamus. In quib. casibus poena l. Pompeiae, de parricidi 
+      <lb ed="#C" n="85"/>is, locum habeat. Quae sit ejus poena. Quando &amp; qualis poe 
+      <lb ed="#C" n="86"/>nitentia imponatur parentibus, quorum filii ad latus suf 
+      <lb ed="#C" n="87"/>focati reperiuntur 
+    </p>
+            <p xml:id="nbht7y-d1e1791-d1e161" n="1">
+               <lb ed="#C" n="88"/>In quibus: casibus poenalegis Pompeiae de 
+      <lb ed="#C" n="89"/>parricidiis, locum ha 
+      <lb ed="#C" n="90"/>beat. Et quidem locum habet, ubi quis occidit parentem 
+      <lb ed="#C" n="91"/>vel aliquem filiorum: nam ascendentibus, &amp; descendentib 
+      <lb ed="#C" n="92"/>in infinitum, locum habet; &amp; nomine parentum omnes ascen 
+      <lb ed="#C" n="93"/>dentes: nomine vero filiorum, omnes descendentes con 
+      <lb ed="#C" n="94"/>tinentur. utff de in jus voc. quicunque § ultim. &amp; I. si hac, § libero¬ 
+      <lb ed="#C" n="95"/>Sed in collateralibus quibusdam locum habet, vt in fratr¬ 
+      <lb ed="#C" n="96"/>patrueli, vel consobrino, &amp; in proximioribus ejus, &amp; in af 
+      <lb ed="#C" n="97"/>finibus quibusdam dicitur: scil. uxore, viro, nurum, genero 
+      <lb ed="#C" n="98"/>vitrico, privigno, socero, patrono, ut ff eod l.i. &amp; I. sed scien 
+      <lb ed="#C" n="99"/>dum. Sed &amp; qui praestiterunt opem, eadem l. tenentur 8 
+      <lb ed="#C" n="100"/>etiam durius puniuntur, quam si ipsemet hoc commisissent 
+      <lb ed="#C" n="101"/>quod est notandum: ut f. eodem utrum, &amp; leg si sciente Sed 8 
+      <lb ed="#C" n="102"/>si quis venenum emerit, ut patri daret, quamvis non de 
+      <lb ed="#C" n="103"/>derit, eadem l. tenetur, frater autem ejus, qui totum cegno 
+      <lb ed="#C" n="104"/>verit, sed patri non indicaverat, relegandus est: medicu 
+      <lb ed="#C" n="105"/>ultimo supplicio affligendus. Eadem etiam lege tenetu 
+      <lb ed="#C" n="106"/>pater, qui in venatione filium suum occidit, &amp; qui nove 
+      <lb ed="#C" n="107"/>cam adulteravit. Sed in hoc casu deportatur tantum pater 
+      <lb ed="#C" n="108"/>quia magis more latronis, quam jure patris eum interfe 
+      <lb ed="#C" n="109"/>cit, nam patria potestas in pietate debet consistere, non in 
+      <lb ed="#C" n="110"/>atrocitate, ut ffeodem leg. 1. in fin. &amp; leg. 2. &amp; leg. divus, nec ob 
+      <lb ed="#C" n="111"/>praedictis, quod dicitur, ff. eodem l. penultim. qui alias perso 
+      <lb ed="#C" n="112"/>nas occiderint praeter patrem &amp; matrem, avum &amp; aviam 
+      <lb ed="#C" n="113"/>capitis paena, aut ultimo supplicio plectuntur: quod enim 
+      <lb ed="#C" n="114"/>dicit, praeter patrem, &amp;c. subaudi, vel similes, vel dic illo 
+      <lb ed="#C" n="115"/>solos verbis, &amp; sententiam l. Pompeiae contineri. Sed ali 
+      <lb ed="#C" n="116"/>multi continentur sententia: ut d.l. sed sciendum, vel potes 
+      <lb ed="#C" n="117"/>aliter intelligi, ut statim dicam, infra codem § seq. ver. inio ho¬ 
+      <lb ed="#C" n="118"/>ideo dicii 
+    </p>
+            <p xml:id="nbht7y-d1e1791-d1e231" n="2">
+               <lb ed="#C" n="119"/>Quae sit ejus poena Et certe ut paricidi 
+      <lb ed="#C" n="120"/>virgis sanguineis verbera 
+      <lb ed="#C" n="121"/>tus in culeo, id est sacco corii cocti insutus cumcane, galle 
+      <lb ed="#C" n="122"/>gallinaceo, id est capone, juxta vulgare: &amp; cum vipera, &amp; 
+      <lb ed="#C" n="123"/>simia in profundum maris jactetur, vel in amnem proxi 
+      <lb ed="#C" n="124"/>mum, juxta ritum regionis, ut omnium elementorum usi 
+      <lb ed="#C" n="125"/>vivus carere incipiat, &amp; ei coelum superstiti, terra mortuc 
+      <lb ed="#C" n="126"/>auferatur. Sed si mare, vel amnis proximus non inveni 
+      <lb ed="#C" n="127"/>tur bestiis subjicitur: ut hic probatur. C.es.I.unica, &amp; ff eo.! 
+      <lb ed="#C" n="128"/>pe Et notandum est, quod nulla alia paena imponi debet: ut( 
+      <lb ed="#C" n="129"/>eo. I. unica, &amp; ideo mirabile est, quod dicit Iff. eo.l.i. locum ha 
+      <lb ed="#C" n="130"/>bere I. Corn. de sica. sed dic locum habet, quia reus ea tenetur 
+      <lb ed="#C" n="131"/>sed non accusatur, vel dic illud imitandum esse vel locun 
+      <lb ed="#C" n="132"/>habet, quia utrobique imponitur capitalis poena secundun 
+      <lb ed="#C" n="133"/>Azo. Imo hoc ideo dicit, quia aliqui praedictorum tenen 
+      <lb ed="#C" n="134"/>tur hac l. aliqui. I. Cor. de sica. ut supra not. proxi. § versic. sed &amp; 
+      <lb ed="#C" n="135"/>quis, nec ob ff eodem sed sciendum, dico enim quod hi, qui leg 
+      <lb ed="#C" n="136"/>Cor. de sic. accusantur &amp; puniuntur, sententia hujus I. con 
+      <lb ed="#C" n="137"/>tinentur, quia moriuntur sicut &amp; ibi, licet non eodem mo 
+      <lb ed="#C" n="138"/>do: &amp; sic non verbis, sed rebus inspectis, eadem l. puniun 
+      <lb ed="#C" n="139"/>tur, scil ultimo supplicio. C. commu. deleg. I. 3. infi. sed hoc ex 
+      <lb ed="#C" n="140"/>pone, ut Institut. de pub. inS alia demum, cum lex prima faci 
+      <lb ed="#C" n="141"/>contradicere videatur 
+    </p>
+            <p xml:id="nbht7y-d1e1791-d1e283">
+               <lb ed="#C" n="142"/>Quando &amp; qualis peniteta imponatur pa¬ 
+      <lb ed="#C" n="143"/>rentibus, quorum filii 
+      suf<lb ed="#C" n="144" break="no"/>focati ad latus reperiuntur. Et certe aut certum est, quod
+      <lb ed="#C" n="145"/>ipsimet interfecerunt scienter, diabolo instigante, &amp; si 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="146"/>ADDITIO 
+      <lb ed="#C" n="147"/>a Quae sit ejus poena.J Adde Doct. in rub eod tis -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0707.xml-->
+      <pb ed="#C" n="690"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>imponenda est poena major &amp; gravior, quam pro alio ho 
+      <lb ed="#C" n="2"/>micidio, arg. in superioribus &amp; infr dehomici cum juramen 
+      <lb ed="#C" n="3"/>to, de pen dist iaut facta. In hoc tamen casu maritus vxoren 
+      <lb ed="#C" n="4"/>recuperat, quam coactus abjuraverat; &amp; ipsa poenitenti 
+      <lb ed="#C" n="5"/>am agit secundum arbitrium episcopi, ita quod si alios h¬ 
+      <lb ed="#C" n="6"/>bet filios, ipsos possit pacifice gubernare, ut infra eodem in 
+      <lb ed="#C" n="7"/>telleximas. Sed si maritum non habet, inducenda est, ut ali 
+      <lb ed="#C" n="8"/>quam religionem intret, ad quod si induci nequierit: tuti 
+      <lb ed="#C" n="9"/>us est ei dare licentiam nubendi in domino uni soli, quan 
+      <lb ed="#C" n="10"/>si multos inhonestos admitteret amatores: ut infra eod. vi 
+      <lb ed="#C" n="11"/>niens, sic supra de conper conjuqg veniens, &amp; est hoc verum, quan 
+      <lb ed="#C" n="12"/>do timetur de incontinentia, ut dixi: alias contra: ut noti 
+      <lb ed="#C" n="13"/>supra de spon sub rubric de matt. § qualiter impediatur, versicu 
+      <lb ed="#C" n="14"/>spon. &amp; de eo qui cogno consangui. uxor. suae. Squid iuris sit. Au 
+      <lb ed="#C" n="15"/>certum est, quod non interfecerunt, nec in culpa sunt, se¬ 
+      <lb ed="#C" n="16"/>casu fortuito contingit illud, &amp; tunc de stricto jure in null¬ 
+      <lb ed="#C" n="17"/>tenentur, arg. infra de homicid ex literis, Joannes &amp; capit u 
+      <lb ed="#C" n="18"/>tim. nisi ad cautelam velint poenitere, quod semper vell¬ 
+      <lb ed="#C" n="19"/>debent, propter duplicitatis ambiguum &amp; quia ex qui 
+      <lb ed="#C" n="20"/>de periculo animae agitur, est via tutior eligenda, ad hoc 
+      <lb ed="#C" n="21"/>23. quaestios excommunicatorum 34. quaest. z. in lectum. nam 8 
+      <lb ed="#C" n="22"/>bonarum mentium est. &amp;c. ut supra de obser. jeju, consilium, 
+      <lb ed="#C" n="23"/>cum autem, &amp; s. distin ad ejus vero supra de spon juvenis, &amp; ide 
+      <lb ed="#C" n="24"/>dicitur, quod nec debent parentes omnino esse securid 
+      <lb ed="#C" n="25"/>morte talium, quare semper praecipiuntur poenitere, ut in 
+      <lb ed="#C" n="26"/>fra eodem de infantibus tamen in dubio praesumitur, quo 
+      <lb ed="#C" n="27"/>non excerta scientia, sed potius ex incuria hoc proven¬ 
+      <lb ed="#C" n="28"/>rit, supra de praesum afferte, vnde &amp; repentini casus iniquita 
+      <lb ed="#C" n="29"/>per conjecturam maternae pietatis emendanda est. C. d 
+      <lb ed="#C" n="30"/>inoffic. testa si mater, nam quomodo potest mater filium ob 
+      <lb ed="#C" n="31"/>livisci, 2. quaest. 6. ad Romanam. sed &amp; omnem affectum vin 
+      <lb ed="#C" n="32"/>cit paternus, C. de cura fur.l..in prin. Ideo semper aliquan 
+      <lb ed="#C" n="33"/>poenitentiam debent agere velle, quia ex quo agitur depe 
+      <lb ed="#C" n="34"/>riculo animae, &amp; securior via eligenda est, ut supra nota 
+      <lb ed="#C" n="35"/>Aut certum est, quod non adhibuerunt omnem diligenti 
+      <lb ed="#C" n="36"/>am, quam debuerut, &amp; sic culpa praecessit casum, &amp; tunc 
+      <lb ed="#C" n="37"/>gravis sit culpa, imponitur poenntentias. vel 7. annor secu 
+      <lb ed="#C" n="38"/>dum arbitrium poenitentiarii, go dist si qua faemina, &amp;c. seq. Si qui 
+      <lb ed="#C" n="39"/>sponte, occulta, si occultu sit. publica, si publicum, &amp; majo 
+      <lb ed="#C" n="40"/>ii in lectum suffocetur, quam in cunis, est major sacerdot 
+      <lb ed="#C" n="41"/>Graeco, quam laico, ut infr de pon quaesitum, &amp; licet dispen 
+      <lb ed="#C" n="42"/>setur, quo ad ecclesiam per paenitentiam, quae arbitrari 
+      <lb ed="#C" n="43"/>est, ut ibi, non tamen, quo ad homicidium, quod enorm 
+      <lb ed="#C" n="44"/>dictum est, &amp; indispensabile 5o dist minor. Aut culpa, qua 
+      <lb ed="#C" n="45"/>praecessit casum, levis fuit, &amp; tunc imponitur poenitenti 
+      <lb ed="#C" n="46"/>trium annorum. Sed hoc intellige, infra eodem de infant 
+      <lb ed="#C" n="47"/>bis, clerici etiam parentes si per industriam occiderint 
+      <lb ed="#C" n="48"/>deponuntur, ut infra de poenis quaesitum, monendi etian 
+      <lb ed="#C" n="49"/>sunt parentes, quod tam tenellos secum in uno non col 
+      <lb ed="#C" n="50"/>locent lecto ne negligentia qualibet interveniente, com 
+      <lb ed="#C" n="51"/>primantur, vel suffocentur, ut 2. 9 5. consuluisti
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

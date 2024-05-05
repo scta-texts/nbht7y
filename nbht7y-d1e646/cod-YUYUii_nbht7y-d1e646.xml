@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 10</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 10</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="229"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e646"><!-- nbht7y-l2t10 -->
+            <head xml:id="nbht7y-d1e646-Hd1e101">Titulus 10</head>
+            <head xml:id="nbht7y-d1e646-Hd1e103" type="question-title">De ordine cognitionum</head>
+            <p xml:id="nbht7y-d1e646-d1e106">
+               <lb ed="#C" n="46"/>De Ordine cognitionum. Rubri¬ 
+      <lb ed="#C" n="47"/>ca X 
+    </p>
+            <p xml:id="nbht7y-d1e646-d1e113">
+               <lb ed="#C" n="48"/>Elapsis fertis, de quibus praemisimus, lites recto 
+      <lb ed="#C" n="49"/>tramite coram comperentibus iu¬ 
+      <lb ed="#C" n="50"/>dicibus peragi possunt. Sed quia plures quaestiones ali 
+      <lb ed="#C" n="51"/>quando proponuntur ab una &amp; eadem parte, aliquand 
+      <lb ed="#C" n="52"/>a diversis, aliquando incidunt, aliquando emergunt ini 
+      <lb ed="#C" n="53"/>psis judiciis, videamus quem ordinem cognoscendi&amp; dif¬ 
+      <lb ed="#C" n="54"/>finiendi debeat servare judex. Si quidem una tantum pro 
+      <lb ed="#C" n="55"/>ponitur; ibi ordo spectandus non est. de quo hic quaeri 
+      <lb ed="#C" n="56"/>tur. sed alius de quo diximus supra de judic. sub §. porrect. 
+      <lb ed="#C" n="57"/>&amp; ut lit. non contest. §. in aliis, &amp; seq. sed si plures quaestione 
+      <lb ed="#C" n="58"/>oriantur. Aut utraque est civilis. Aut utraque criminalis 
+      <lb ed="#C" n="59"/>Aut mista. Item aut proponitur utraque ab una &amp; eaden 
+      <lb ed="#C" n="60"/>parte, aut a diversis. Si utraque civilis sit, &amp; ab eademm par 
+      <lb ed="#C" n="61"/>te proponatur, potest quidem regulariter. Sed fallit in ca 
+      <lb ed="#C" n="62"/>sibus nfrano. si enim contrariae sunt, hoc facere non po 
+      <lb ed="#C" n="63"/>test. ut si petat pecuniam actione furti, quasi eo invito con 
+      <lb ed="#C" n="64"/>tractam, &amp; actione mandati, quasi voluntate sua data sii 
+      <lb ed="#C" n="65"/>C. defur.l.i. &amp; de hoc dixi sup. de lib. ob § quid debeat continer 
+      <lb ed="#C" n="66"/>vers. cum plures actiones; &amp; seq. Item quando una de 
+      <lb ed="#C" n="67"/>pendet ex altera necesse est; quod primo pronuncietu 
+      <lb ed="#C" n="68"/>super ea, ex qua alia dependet. primo ergo quaerendun 
+      <lb ed="#C" n="69"/>est, utrum aliquis haeres sit, antequam ipsae agat tanquan 
+      <lb ed="#C" n="70"/>haeres. inf eod. tuam C. dehaered. act. ut decitum. Idem est, si al 
+      <lb ed="#C" n="71"/>tera sit prae ambula, ut quia quaeritur de possessione 8 
+      <lb ed="#C" n="72"/>proprietate alicujus rei. C de ju. or. ho? intelliga secundun 
+      <lb ed="#C" n="73"/>dist. quam feci, infra tit. prox. sub rub. de causa poss &amp; propr? 
+      <lb ed="#C" n="74"/>un quaestio possessionis, sub§. his igitur vers. cum posiessorem 
+      <lb ed="#C" n="75"/>&amp; seque quaestio enim spoliationis privilegiata est: infra co¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0246.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="76"/>caultim. In actionibus autem, quae electione tolluntur, i 
+      <lb ed="#C" n="77"/>dem juris est, ut dicitur in tributoria, &amp; quod jussu. &amp; de¬ 
+      <lb ed="#C" n="78"/>in rem verso, &amp; de pecul. &amp; in actio. ex testamento &amp; re 
+      <lb ed="#C" n="79"/>vend. &amp; hypothecaria pro leg. vel fideic. haereditatis. Ve 
+      <lb ed="#C" n="80"/>pro ipsa haereditate competentibus, de quibus dicitur inm 
+      <lb ed="#C" n="81"/>de pesta, &amp; ad hoc, f.de tribu.I. quod in haeredem, §. eligere. &amp; dele 
+      <lb ed="#C" n="82"/>ga. cum filius, §. variis, &amp; de rg jur nemo. § quoties. Item si al 
+      <lb ed="#C" n="83"/>tera sit praejudicialis, primo tractanda est, ut si peto fur 
+      <lb ed="#C" n="84"/>dum Titianum tanquam meum, &amp; eidem dico debere ser 
+      <lb ed="#C" n="85"/>vitutem per alium fundum, quem constat tuum propriu 
+      <lb ed="#C" n="86"/>fore: hic enim primo constare debet, utrum fundus meu¬ 
+      <lb ed="#C" n="87"/>sit, antequam possim ei vendicare servitutem: secus, si pri 
+      <lb ed="#C" n="88"/>mo peto servitutem &amp; secundo fundum. Vel si convenii 
+      <lb ed="#C" n="89"/>te reiven pro parte indivisa, postea ago communi divi? 
+      <lb ed="#C" n="90"/>pro eadem re repellendus sum; quia antequam dividatur 
+      <lb ed="#C" n="91"/>debet constare, an ibi habeam partem, vel non. Idem si pe 
+      <lb ed="#C" n="92"/>to fundum tanquam meum, &amp; iterum condico fructus, a 
+      <lb ed="#C" n="93"/>si constaret fundum esse meum f. de excep fundum Titia 
+      <lb ed="#C" n="94"/>num, &amp; l. sed &amp; si ane. &amp; l. fundi. Si autem occasione ejus 
+      <lb ed="#C" n="95"/>dem rei velit proponere quis complures actiones confr¬ 
+      <lb ed="#C" n="96"/>aliquem, eligere tenetur: quod dic, ut fiot supra de lib oll 
+      <lb ed="#C" n="97"/>quid debeat continert. versi, cum plures actiones, &amp; seque Se 
+      <lb ed="#C" n="98"/>&amp; si buis velit plures convenire super eadem re, potest, ci 
+      <lb ed="#C" n="99"/>prohibitus non sit, vel occasione diversarum rerum, vel sa 
+      <lb ed="#C" n="100"/>ctorum, argu f. de prob. ab ea parte, infra de rest. spol. cum ad se 
+      <lb ed="#C" n="101"/>dem, &amp; de fide instrum. inter dilectos, &amp; de do. inter dilectos, &amp; a 
+      <lb ed="#C" n="102"/>censibus cum olum, &amp; cap. olim Ubi autem a diversis partibu 
+      <lb ed="#C" n="103"/>plures quaestiones proponuntur, dic, ut not. supra de mul 
+      <lb ed="#C" n="104"/>peut. §. &amp; quando §i qualiter, §. in quibus, infra de causa poss, e 
+      <lb ed="#C" n="105"/>propr. sub rub. de causa proprieta. §. an quaestio sub S his igtiis 
+      <lb ed="#C" n="106"/>ver. cum possessorium. Sin autem utraque criminalis est, &amp; 
+      <lb ed="#C" n="107"/>ab una &amp; eadem parte proponuntur, &amp; contra eundem 
+      <lb ed="#C" n="108"/>si ex diversis factis, potest cum non sit prohibitus, sed e¬ 
+      <lb ed="#C" n="109"/>eodem facto videtur, quod non liceat: arg a contrario sen 
+      <lb ed="#C" n="110"/>su. I. C. de accu qui crimen, quia Deus non judicat bis in id i 
+      <lb ed="#C" n="111"/>psum: nec de delicto uno saepius quaerendum est suprad 
+      <lb ed="#C" n="112"/>off. leg licet, f nau. cau. sta licet, §. ul. Quod si plures criminale 
+      <lb ed="#C" n="113"/>pactiones quis proponere velit contra duos ex diversi¬ 
+      <lb ed="#C" n="114"/>factis, uno eodemque tempore &amp; eodem libello: non po 
+      <lb ed="#C" n="115"/>test accusare duos, sed diversis libellis potest duos accusa 
+      <lb ed="#C" n="116"/>re non tamen tres: ut C. qui accus. non poss. cum rationibus. ve 
+      <lb ed="#C" n="117"/>dic, quod nec duos potest, etiam in diversis libellis: nis 
+      <lb ed="#C" n="118"/>suam vel suorum injuriam prosequatur. una enim accu¬ 
+      <lb ed="#C" n="119"/>satio per alteram impeditur: ut f de accu hos, §. l. &amp; ad l Iu¬ 
+      <lb ed="#C" n="120"/>de adul. inter §. ult. nec obstat I. cum rationibus. nec enim dicit 
+      <lb ed="#C" n="121"/>quod duo accusari possunt, sed de trib. negat: quia de tri 
+      <lb ed="#C" n="122"/>bus fuerat quaesitum: eodem modo neganet de duobuss 
+      <lb ed="#C" n="123"/>de duobus quaesitum fuisset, secundum dominum ineum 
+      <lb ed="#C" n="124"/>Sed occasione unius criminis unus etiam centuin vel mil 
+      <lb ed="#C" n="125"/>le poterit accusare, ut C sireus vel accu mor fuerit. Iiff ad le¬ 
+      <lb ed="#C" n="126"/>Iul de adult. vim passam, §. incest. fallit hoc in accusatore adu 
+      <lb ed="#C" n="127"/>terii. ut C. ad leg. Iul de adult. reos, &amp; ff. de adulter si maritus 
+      <lb ed="#C" n="128"/>§. ultim. Ubi autem unus pro uno crimine vult agere con 
+      <lb ed="#C" n="129"/>tra unum civiliter, &amp; pro eodem crimine contra eundein 
+      <lb ed="#C" n="130"/>criminaliter, pendente priore judicio, vel econtra, no 
+      <lb ed="#C" n="131"/>potest f. de pub jud. l. 4. ff.vi bono. rap. 12. §. 1. Sed finito prior 
+      <lb ed="#C" n="132"/>judicio; potest ad aliud haberem recursum; si tamen utra 
+      <lb ed="#C" n="133"/>que quaestio proponantur propter rem familiarem: ui 
+      <lb ed="#C" n="134"/>quia aliquid ab est, vel abfuit de patrimonio nostro. C.quam 
+      <lb ed="#C" n="135"/>do civil. actio preju. cri l. unica. &amp; hoc locum habet in publi 
+      <lb ed="#C" n="136"/>cis judiciis, ut ipsa litera dicit. idem in privatis. nam in 
+      <lb ed="#C" n="137"/>quolibet furto hoc locum habet, ut ff. de fur. Lult. licet. Pl. 
+      <lb ed="#C" n="138"/>dist. inter publica judicia, &amp; privata. nec obstat ff. de furt in¬ 
+      <lb ed="#C" n="139"/>terdum. § qui furem. nam ibi dixi mihi jus capiendo furem 
+      <lb ed="#C" n="140"/>&amp; deducendo ad judicem. ideo debeo esse contentus, quôo 
+      <lb ed="#C" n="141"/>corporaliter puniatur, &amp; quod res mihi restituatur remo 
+      <lb ed="#C" n="142"/>ta poena furti de quadruplo rei. Si autem competat crimi¬ 
+      <lb ed="#C" n="143"/>halis &amp; civilis ad vindictam tantum, tollitur una per alte 
+      <lb ed="#C" n="144"/>ram f. de inju. quod senatuscon. &amp; I praetor. §.i. hoc locum ha 
+      <lb ed="#C" n="145"/>bet; quando plures actiones moventur ab uno contra u 
+      <lb ed="#C" n="146"/>num, vel plures. Sed &amp; si a diversis partibus aut ab actore 
+      <lb ed="#C" n="147"/>movetur una, &amp; a reo altera, aut plures &amp; diversi agun 
+      <lb ed="#C" n="148"/>contra unum. Si actor movet unam, &amp; reus alteram, non ir 
+      <lb ed="#C" n="149"/>modum exceptionis; sed petitionis; locum habet regula 
+      <lb ed="#C" n="150"/>Qui prior appellat, prior agat, ut ff dejud. qui prior infra co 
+      <lb ed="#C" n="151"/>cam dilectus §. nos Haec autem regula locum habet, cum utra 
+      <lb ed="#C" n="152"/>que est civilis, vel utraque criminalis, &amp; neutra praejudicia 
+      <lb ed="#C" n="153"/>lis item cum prima est major secunda: sed si secunda si 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0247.xml-->
+      <pb ed="#C" n="230"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>major prima, praejudicat in criminalibus nisi nomen accu 
+      <lb ed="#C" n="2"/>sati accusare volentis, accusantem, receptum sit inter reos 
+      <lb ed="#C" n="3"/>quia tunc obtentu majoris criminis objecti, non differtu 
+      <lb ed="#C" n="4"/>prima accusatio, sicut &amp; si quaevis alia exceptio opponer¬ 
+      <lb ed="#C" n="5"/>tur. ff. de adul si maritus. §. prae scriptiones. fallit regula, cum utri 
+      <lb ed="#C" n="6"/>que est civilis, &amp; secunda praejudicialis: quia est de libert. 
+      <lb ed="#C" n="7"/>te vel filiatione. Inst. de act. §. praejudiciales ao. de libe. cau ordi. 
+      <lb ed="#C" n="8"/>ad legem. Iul. de adul. quontam Alexandrum. &amp; de ord. cog l.n e 
+      <lb ed="#C" n="9"/>I.cum status. Item falsit, cum secunda est criminalis &amp; prim 
+      <lb ed="#C" n="10"/>civilis. C. de ord. iud. l. ult. Item cum utraque est criminalis 
+      <lb ed="#C" n="11"/>sed secunda major: Item cum utraque est par: sed accus¬ 
+      <lb ed="#C" n="12"/>tus vult prosequi suam injuriam, vel suorum. C. qui accu 
+      <lb ed="#C" n="13"/>non poss.l..&amp; I. neganda g. 46.1. 1. Sin autem reus non in me 
+      <lb ed="#C" n="14"/>dum petitionis, sed exceptionis aliquid objiciat actori; u 
+      <lb ed="#C" n="15"/>eum repellat, semper de exceptione est cognoscendum 
+      <lb ed="#C" n="16"/>fundata intentione actoris C ae probat exceptionem &amp; de e 
+      <lb ed="#C" n="17"/>cept. si quidem. inf. eoc..&amp; de sent &amp; rejud inter monusterium a 
+      <lb ed="#C" n="18"/>haec probatur. infr. eo, cum dilectus. Sed an de incidenti pro 
+      <lb ed="#C" n="19"/>nunciandum sit quaeritur. &amp; ait Ber. non esse pronuncii 
+      <lb ed="#C" n="20"/>dum, nisi quando criminalis incidit civili, vel econtra sa 
+      <lb ed="#C" n="21"/>tis est, enim quod judex de principali pronunciet: qui 
+      <lb ed="#C" n="22"/>per consequens, &amp; de incidenti pronunciare videtur. C.a 
+      <lb ed="#C" n="23"/>ord cog. l.I. &amp; pen &amp; de ord jud. l. 2. &amp; ad legem Iul. de adul. qui 
+      <lb ed="#C" n="24"/>niam. &amp; ad legem Falc. de pla prae ses ff. de praeva. proevaricationi 
+      <lb ed="#C" n="25"/>vel dic quod ibi non opponitur praevaricatio in modun 
+      <lb ed="#C" n="26"/>exceptio. imo in modum accusationis: &amp; ideo necesse es 
+      <lb ed="#C" n="27"/>quod primo pronuncietur super praevaricatione. nec ol 
+      <lb ed="#C" n="28"/>stat. ff. de in inte. rest. utile. quia ibi non pronunciatur supe 
+      <lb ed="#C" n="29"/>incidenti, sed super aetate, id est, ut restituatur in integrun 
+      <lb ed="#C" n="30"/>ratione aetatis, ad hoc ut liceat intendere veterem actionem 
+      <lb ed="#C" n="31"/>&amp; ita caetera cognitionis, scilicet restitutionis rei faciei 
+      <lb ed="#C" n="32"/>dae dilata sunt. Pla. autem &amp; Mar. dixerunt, semper pro 
+      <lb ed="#C" n="33"/>nunciandum de incidenti quaestione. ut ff. de jud. de quar 
+      <lb ed="#C" n="34"/>inf. de cau poss. &amp; proprie, cum super in fin. nisi conditio rei, qu 
+      <lb ed="#C" n="35"/>pupillus est vel servus, vel judicis, qui minor magistratu 
+      <lb ed="#C" n="36"/>est, hoc impediat. ut in legib. allegatis pro Ber. &amp; hanc op 
+      <lb ed="#C" n="37"/>nionem jus canonicum comprobat, nam &amp; secundum 
+      <lb ed="#C" n="38"/>psum de incidenti pronunciatur, ut sup. de elect. cum dilec 
+      <lb ed="#C" n="39"/>inf. eo. tua. inf. qui fil sint legit. lator. secundum Goff. Joan. H 
+      <lb ed="#C" n="40"/>&amp; Azo. distinxerunt inter incidentes quaestiones &amp; emer 
+      <lb ed="#C" n="41"/>gentes. Incidentes dicuntur, quae ante litem motam con 
+      <lb ed="#C" n="42"/>petunt, vel quando quaeritur de circunstantiis rei princ 
+      <lb ed="#C" n="43"/>palis, vel pactum de non petendo exceptionem rei judi 
+      <lb ed="#C" n="44"/>catae &amp; juramenti, &amp; similia. &amp; in his obtinet sententi 
+      <lb ed="#C" n="45"/>Ber. ut probatur. inf. eod. c.i. Emergentes autem dicuntur 
+      <lb ed="#C" n="46"/>quae proponuntur ex his quae emergunt in litem, vel qui 
+      <lb ed="#C" n="47"/>do quaeritur de circunstantiis judicii, scil. non potest ess 
+      <lb ed="#C" n="48"/>procurator vel testis, vel non est danda dilatio, vel an si 
+      <lb ed="#C" n="49"/>respondendum interrogationi, vel positioni, vel utrum si 
+      <lb ed="#C" n="50"/>quis in poss. servitutis vel libertatis. &amp; similia. &amp; in his ob 
+      <lb ed="#C" n="51"/>tinet sententia Plaff. de lib. cau. I. liberis. Il.ul. vel planius e 
+      <lb ed="#C" n="52"/>compendiosius dicas, quod incidentes sunt peremptori¬ 
+      <lb ed="#C" n="53"/>exceptiones, emergentes vero sunt dilatoriae exceptiones 
+      <lb ed="#C" n="54"/>ut etiam patet per jam posita exempla. Brevius expedi¬ 
+      <lb ed="#C" n="55"/>me, hanc tradens regulam: Quandocunque aliquid oppe 
+      <lb ed="#C" n="56"/>nitur in judicio, propter quod impeditur cognitio prir 
+      <lb ed="#C" n="57"/>cipalis negotii, nisi primo pronuncietur super exceptic 
+      <lb ed="#C" n="58"/>nem, tunc super ipsa exceptione primo pronunciabitur 
+      <lb ed="#C" n="59"/>cum judex aliter jurisdictionem suam expedire non pos 
+      <lb ed="#C" n="60"/>sit. inf. eod. tuam. Sed quae est ratio, quod quaestio legitima 
+      <lb ed="#C" n="61"/>tionis a coram seculari judice, quantumcunque magno, in 
+      <lb ed="#C" n="62"/>cidat, nedum non pronuciare, sed nec cognoscere potest 
+      <lb ed="#C" n="63"/>ut inf. eo. tuam. &amp; inf qui fil. sint leg. lator. &amp;c causamquae. cun 
+      <lb ed="#C" n="64"/>alias judex, quantumcunque minimus, cognoscat de causa 
+      <lb ed="#C" n="65"/>quantumcunque magna, si ipsam contingat incidere, qui¬ 
+      <lb ed="#C" n="66"/>hoc quasi naturaliter jurisdictioni inest. C. de judi placet. C 
+      <lb ed="#C" n="67"/>deora. iud Ii. cum nec aliter jurisdictio expediri possit. &amp;. 
+      <lb ed="#C" n="68"/>sic contradicit ff. de jurisd. omn. jud. l. 2. &amp; sup. de off. deleg prae 
+      <lb ed="#C" n="69"/>terea. nam jurisdictione mandata, totum officium juris di 
+      <lb ed="#C" n="70"/>cendi transit ff. de suspect tutor. I.§. anautem. Responae, ut noi 
+      <lb ed="#C" n="71"/>inf. qui fil sint leg § qualiter. &amp; a quo ver tum ratione natur¬ 
+      <lb ed="#C" n="72"/>li. &amp; inf. de cau. poss. &amp; proprie sub resp. de causa poss. §. 1. sub §. ho 
+      <lb ed="#C" n="73"/>tamen no. ver. propter rem per servum. Si vero potest pro 
+      <lb ed="#C" n="74"/>nunciari super principali, &amp; in ipso procedi quamvis in 
+      <lb ed="#C" n="75"/>terlocutoria non detur super exceptione, sufficit quod di¬ 
+      <lb ed="#C" n="76"/>eodem principali pronuncietur inf.co. c.i. Nec obstat regu 
+      <lb ed="#C" n="77"/>la, de qua re, quia dic, cognovit sc. principaliter, aliud si it 
+      <lb ed="#C" n="78"/>cidenter. inf. eo. c. I. Et jure ordinario, aliud, si delegato exa 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0247.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>minatio tantum commissa est. ut sup. de off. ord. dilectus infra 
+      <lb ed="#C" n="80"/>de test. cum clamor. vel in voluntate partium dimissum. sup 
+      <lb ed="#C" n="81"/>de elect scriptum. &amp;c. dudum. C.I. pronunciare debet, nisi in 
+      <lb ed="#C" n="82"/>pediatur appellatione justa sup. de lib. obl. c. 2. &amp; 3. 2q4. 6. decu 
+      <lb ed="#C" n="83"/>Vel recusatione de novo orta sup. de of deleg insimuante. Ve 
+      <lb ed="#C" n="84"/>recusatione superioris. inf. ut lite. pend. eccl 2. Vel propte 
+      <lb ed="#C" n="85"/>personam, de cujus crimine quaeritur, ad hoc ut depona 
+      <lb ed="#C" n="86"/>tur, ut puta quia episcopus est. 3. q. 6 quamvis. &amp;c. scqe. Seu 
+      <lb ed="#C" n="87"/>relatione facta supra de of. deleg, licet. Vel pollicita. ut mfr.d 
+      <lb ed="#C" n="88"/>app. intimasti C. de rel. L1 2. &amp;3. Quamvis autem quilibet judes 
+      <lb ed="#C" n="89"/>de incidentibus possit cognoscere, licet alias principalite 
+      <lb ed="#C" n="90"/>non posset. sup. de in integ. rest. cau. §. I. C. de jud I. quoties. &amp; d 
+      <lb ed="#C" n="91"/>ord jud li inf. de den. inter vi. &amp; uxo, &amp; si necesse. fallit in latco 
+      <lb ed="#C" n="92"/>qui de spiritualibus, quamvis inciderint cognoscere nor 
+      <lb ed="#C" n="93"/>potestc. tuan inf qui fil sint leg. lator. &amp;c. causam. quia haec ab 
+      <lb ed="#C" n="94"/>horrent canones inf de jud decernimus. &amp; de elect Massana &amp; 
+      <lb ed="#C" n="95"/>no. de hoc supra de foro comp §. quibus ex causis, ver. sed nun 
+      <lb ed="#C" n="96"/>quid judex secularis. Praejudicat ergo aliquando civili 
+      <lb ed="#C" n="97"/>civili, ut si convenias me actione furti, nomine rei, quan 
+      <lb ed="#C" n="98"/>dico meam esse, vel si petis a me haereditatem, &amp; ego objj 
+      <lb ed="#C" n="99"/>cio tibi servitutem, secundum Bertoldum. Aliquando cri 
+      <lb ed="#C" n="100"/>minalis criminali, ut si marito accusanti uxorem de adul 
+      <lb ed="#C" n="101"/>terio, excipiat uxor de lenocinio, f. ad l. Iuliam de adul. lus 
+      <lb ed="#C" n="102"/>si publico vel si accusas me de furto criminaliter ad poenan 
+      <lb ed="#C" n="103"/>extraordinariam, ff. defur I. ult. pro servo tuo, quem dici 
+      <lb ed="#C" n="104"/>me surripuisse certa die, ego excipio, &amp; dico, quod tu di¬ 
+      <lb ed="#C" n="105"/>praecedenti ipsum interfecisti. &amp; ita accuso te de homici 
+      <lb ed="#C" n="106"/>dio, secundum Bertold. Item forte si accusas me de hom 
+      <lb ed="#C" n="107"/>cidio, &amp; ego objicio quod socius meus fuisti. f. de fide inst¬ 
+      <lb ed="#C" n="108"/>repetita. C. de lib. cau. si filium. caute tamen objiciatur, ne con 
+      <lb ed="#C" n="109"/>fiteatur crimen: quasi dicat, non confireor. Sed si hoc veri 
+      <lb ed="#C" n="110"/>esset. non potes me accusare, quia fuisti in loco, in quo di 
+      <lb ed="#C" n="111"/>cis me interfecisse, &amp; etiam tractavisti mecum. arg. C. deca 
+      <lb ed="#C" n="112"/>cep. si quidem &amp; no. simile. inf. de conc. praeb. §. &amp; utrum benj 
+      <lb ed="#C" n="113"/>cium vers. si vero recipiatur. Civilis autem praejudicat crim 
+      <lb ed="#C" n="114"/>nali: ut si accusas me de plagio nomine servi, quem dici¬ 
+      <lb ed="#C" n="115"/>meum vel si accusas me de crimine falsi, tanquam fervun 
+      <lb ed="#C" n="116"/>ad decapitandum: ego dico me liberum. primo n. tractab 
+      <lb ed="#C" n="117"/>tur causa libertatis. Criminalis vero civili praejudicat: 
+      <lb ed="#C" n="118"/>peto ex testamento, vel instrumento, quod falsum accu 
+      <lb ed="#C" n="119"/>sas. probantur haec &amp; exemplificantur etiam alio modo 
+      <lb ed="#C" n="120"/>4. 6. S. aliquando, &amp; § seq. C. eo, si de haer &amp; Isi crimen &amp; Isires e 
+      <lb ed="#C" n="121"/>,cum status. Verum si libertas petatur ex testamento, cuju 
+      <lb ed="#C" n="122"/>cognitio pendet ex eo quod speratur, ut quomodo de h¬ 
+      <lb ed="#C" n="123"/>reditate moveatur, prius cognoscetur de haereditate, qui 
+      <lb ed="#C" n="124"/>libei tate fi de petitio. haer si quis liber. Sed ubi diversi&amp; plure 
+      <lb ed="#C" n="125"/>agunt contra unum: si quidem unus primo, &amp; alter secum 
+      <lb ed="#C" n="126"/>do veniat, &amp; agant ambo civiliter, vel criminaliter, obtine 
+      <lb ed="#C" n="127"/>regula Qui prior. sed si simul veniant, &amp; agant civiliter, in 
+      <lb ed="#C" n="128"/>dex eliget quem velit, ut sit locus gratificationi f.derelig 
+      <lb ed="#C" n="129"/>ult. §. 1. inf. de ju. pat. quod autem. supr. de elect. venerabilem, §ob 
+      <lb ed="#C" n="130"/>jectioni. Si vero plures agant criminaliter, judex magi 
+      <lb ed="#C" n="131"/>idoneum eligere debet ff. de acc. si plures &amp; de popu. acc. si plu 
+      <lb ed="#C" n="132"/>res. nec obstat. infra. de accu. licet. ubi videtur innuere, quoc 
+      <lb ed="#C" n="133"/>plures admittantur ad accusationem: quia ibi non fui 
+      <lb ed="#C" n="134"/>formatus libellus: nec lis conte. nam si ad hoc ventum es 
+      <lb ed="#C" n="135"/>set, Innoc. forte alterum elegisset 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="136"/>ADDITIO 
+      <lb ed="#C" n="137"/>a Quaestio legitimationis. Adde Io. Zo. &amp; Car. Ale. in repe cavi 
+    </p>
+    <p>
+      <lb ed="#C" n="138"/>nerab. lem, qui fil sint leg. &amp; per Ant. de Ros. &amp; Lu. de Serdis in tras 
+      <lb ed="#C" n="139"/>de legitimatione -->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

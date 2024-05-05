@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 29</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 29</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="745"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e2004"><!-- nbht7y-l5t29 -->
+            <head xml:id="nbht7y-d1e2004-Hd1e101">Titulus 29</head>
+            <head xml:id="nbht7y-d1e2004-Hd1e103" type="question-title">De clerico per saltum promoto</head>
+            <p xml:id="nbht7y-d1e2004-d1e106">
+               <lb ed="#C" n="95"/>De Clerico per saltum promoto. 
+      <lb ed="#C" n="96"/>XXIX. Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e2004-d1e113">
+               <lb ed="#C" n="97"/>SUMMARIA. 
+      <lb ed="#C" n="98"/>I Clericus quare prohibetur promoveri per saltum. Et quam pa 
+      <lb ed="#C" n="99"/>nam patiatur.3 
+      <lb ed="#C" n="100"/>3 Et qualiter excusetur. 4. Et an &amp; quomodo dispensetur 
+    </p>
+            <p xml:id="nbht7y-d1e2004-d1e124">
+               <lb ed="#C" n="101"/>NEdum clericus nullo modo ordo 
+      <lb ed="#C" n="102"/>natus prohibetur
+      <lb ed="#C" n="103"/>administrare officia ecclesiastica, quinimo 
+      <lb ed="#C" n="104"/>&amp; non rite ordinatus, quia nulla differen 
+      <lb ed="#C" n="105"/>a tia est, ut fi qui satisd. cog. quoties, &amp; deacc.ti 
+      <lb ed="#C" n="106"/>nulla differentia. ideoque apponitur de cle¬ 
+      <lb ed="#C" n="107"/>rico per saltum promoto: in qua rubrica videndum est 
+      <lb ed="#C" n="108"/>Quare prohibeatur, Quam paenam patiatur, Qualiter ex 
+      <lb ed="#C" n="109"/>culetur, A quo dispensetui 
+    </p>
+            <p xml:id="nbht7y-d1e2004-d1e147">
+               <lb ed="#C" n="110"/>Quare prohibeatur Diri supra pros iclicet 
+      <lb ed="#C" n="111"/>quia nulla differentia, &amp;c 
+      <lb ed="#C" n="112"/>&amp; quia de gradu in gradum ascendendum est, ut 93. distin 
+      <lb ed="#C" n="113"/>legimus. ad i f.de ina. &amp; hon. ut gradatim &amp; lhonor. §. gerendo 
+      <lb ed="#C" n="114"/>rum. C. ut dignitatum ordo servetur. I.i. &amp; 2. lib. 12. &amp; per cert. 
+      <lb ed="#C" n="115"/>interstitia 77 dist. in singulis. &amp; cap. quicunque &amp; sequen casum 
+      <lb ed="#C" n="116"/>igitur appetit, qui ad summi loci fastigia postpositis gra 
+      <lb ed="#C" n="117"/>dibus per abrupta quaerit ascensum. 48. dist. sicut. ideo quae 
+      <lb ed="#C" n="118"/>rendum est de ordinibus clerici peregrini, ne forte saltun 
+      <lb ed="#C" n="119"/>fecerit, ut supra de cler peregr. ca.i.in fi. Sed nunquid talis re 
+      <lb ed="#C" n="120"/>cipiat characterem, dicit Hugo. quod si laicus ordinetu 
+      <lb ed="#C" n="121"/>ad aliquem sacrum ordinem, clericatu non praemisso, nul 
+      <lb ed="#C" n="122"/>lum recipit, nam sicut mulieris &amp; viri conjunctio unum 
+      <lb ed="#C" n="123"/>faciunt corpus, ut supra de regular. Ad Apostolicam. sic cleri 
+      <lb ed="#C" n="124"/>catus &amp; sacerdotium unum faciunt episcopum. ad hoc 
+      <lb ed="#C" n="125"/>40. dist sicut; sed si de minoribus ordinibus habeat aliquem 
+      <lb ed="#C" n="126"/>recipit sacrum. Vinc. vero dixit, quod bene recipit qui 
+      <lb ed="#C" n="127"/>sacrum, quamvis nullum habeat de minoribus praetere 
+      <lb ed="#C" n="128"/>piscopalem, quem nemo recipere potest, nisi sacerdos sit 
+      <lb ed="#C" n="129"/>ut infra de excess. praela. ex literis prope si. versi cum igitur. si ta 
+      <lb ed="#C" n="130"/>men ordinetur in episcopum quis, non recepto subdiaco 
+      <lb ed="#C" n="131"/>natu, vel diaconatu, Episcopus est, dum tamen fuerit sa 
+      <lb ed="#C" n="132"/>cerdos, sed illum ordinem quem non recipit, conferre ni¬ 
+      <lb ed="#C" n="133"/>poterit. arg. iq.1. gratia. &amp;c. ventum. &amp; qu 7. Daybertum, &amp; a 
+      <lb ed="#C" n="134"/>con. dist 4 quomodo. Mihi videtur secundum Bertran. quo 
+      <lb ed="#C" n="135"/>qualiscunque ordo conferatur, sive gradatim, sive per sal 
+      <lb ed="#C" n="136"/>tum quod character conferatur, no tamen executo, dun 
+      <lb ed="#C" n="137"/>tamen is, cui confertur Christianus sit, alias contra, cun 
+      <lb ed="#C" n="138"/>baptismus sit fundamentum omnium sacramentorum, u 
+      <lb ed="#C" n="139"/>supra de presby. non bapt. veniens. unde fundamento deficien 
+      <lb ed="#C" n="140"/>te, super aedificari non potest, ergo a contrario postea po 
+      <lb ed="#C" n="141"/>test, scilicet quo ad characterem, non tamen quo ad exe 
+      <lb ed="#C" n="142"/>cutionem, &amp; ideo quod omissum est, caute supplendum 
+      <lb ed="#C" n="143"/>&amp; dispensandum, ut hic probatur 52. dist. solicitudo. infra eo 
+      <lb ed="#C" n="144"/>c. unico. &amp; supra de tempo. ordin quod translationem, &amp;c. consu¬ 
+      <lb ed="#C" n="145"/>tationi. &amp;c. literas. &amp;c. dilectus. &amp; apparet in his quae nota 
+      <lb ed="#C" n="146"/>supta de schisima S quid juris, &amp; suprade sacr, non iteranca&amp;. 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0763.xml-->
+      <pb ed="#C" n="746"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>dummodo in forma ecclesiae conferatur, ut ibi. non ob 40 
+      <lb ed="#C" n="2"/>distin.c. sicut. nam quod ibi dicit. clericatus, &amp; sacerdotiun 
+      <lb ed="#C" n="3"/>faciunt sacerdotem verum, est rite ordinatum, cum alii 
+      <lb ed="#C" n="4"/>ordinibus gradatim &amp; canonice receptis. porro quamvi 
+      <lb ed="#C" n="5"/>inordinate collatus sit, nihilominus tamen est ordo sace 
+      <lb ed="#C" n="6"/>dotalis, nec obst infra de excess. praela ex literis: non enim ni¬ 
+      <lb ed="#C" n="7"/>gat quin character episcopalis transferatur, sed quod ipsi 
+      <lb ed="#C" n="8"/>exercere non potest, quod puto verum, adeo quod mihi 
+      <lb ed="#C" n="9"/>confert talis episcopus, nisi in sacerdotio promotus si 
+      <lb ed="#C" n="10"/>quamvis ipse characterem receperit, &amp; est ratio, quia cun 
+      <lb ed="#C" n="11"/>mortuus sit &amp; frigidus, male dabit aliis vitam, nec obst supr 
+      <lb ed="#C" n="12"/>de ordina ab episcop qui resi. episcop. cap. 1. quia ibi innuit cha 
+      <lb ed="#C" n="13"/>racter sacerdotalis, qui aliquas reliquias praestat chari 
+      <lb ed="#C" n="14"/>cteri episcopali scilicet quo ad characterem in alium tran 
+      <lb ed="#C" n="15"/>ferendum. non tamen tantum potest juvare, quod in al 
+      <lb ed="#C" n="16"/>um transferat vivificantem, sive vivum, ut notat supra¬ 
+      <lb ed="#C" n="17"/>schisma §. quid juris. Quid si aliquis minor quatuordecin 
+      <lb ed="#C" n="18"/>annis promoveatur ad sacros ordines, nunquid cogitu 
+      <lb ed="#C" n="19"/>continere, si quando pervenerit ad legitimam aetatem, con 
+      <lb ed="#C" n="20"/>trahere velit? Quidam dicunt quod sic arg. inf. cad c. unici 
+      <lb ed="#C" n="21"/>supra de tempo ord. vel non est compos, ut ita pius possit or 
+      <lb ed="#C" n="22"/>do, quam votum: alii contra. arg. 32. 41. integritas. &amp; supra d 
+      <lb ed="#C" n="23"/>regularibus, ad nostram, significatum, cum sunus, cum virum, &amp; 
+      <lb ed="#C" n="24"/>junge quod no. de hac materia supra de tempo. ordin § &amp; cu 
+      <lb ed="#C" n="25"/>sub §, si qui incipit sed &amp; praeter regulas supradictas. ver. requir 
+      <lb ed="#C" n="26"/>tur etiam aetas, &amp; seq 
+    </p>
+            <p xml:id="nbht7y-d1e2004-d1e293" n="2">
+               <lb ed="#C" n="27"/>Quam pae am patiatur. Urab administratione ab 
+      <lb ed="#C" n="28"/>stiueat, alias incidit in poenam superiorist 
+      <lb ed="#C" n="29"/>tuli, cum non fit rite ordinatus, ut patet in his quae nota 
+      <lb ed="#C" n="30"/>supra tit . §. 
+    </p>
+            <p xml:id="nbht7y-d1e2004-d1e304" n="3">
+               <lb ed="#C" n="31"/>Qualiter Pexcusetur. In totum non excusatur, mi 
+      <lb ed="#C" n="32"/>nuitur tamen poena propter ignorantian 
+      <lb ed="#C" n="33"/>quamvis non probabilem omnino, ut inf. eod, ca. unico. &amp;s 
+      <lb ed="#C" n="34"/>dubitet, an omnes ordines gradatim receperit, credi de 
+      <lb ed="#C" n="35"/>bet de honestis viris inter quos conversatus est, ut ibidem 
+      <lb ed="#C" n="36"/>&amp; supra de presbyt. non bapti. venieni
+    </p>
+            <p xml:id="nbht7y-d1e2004-d1e320" n="4">
+               <lb ed="#C" n="37"/>A quo dispensetur. si scienter promoreatu 
+      <lb ed="#C" n="38"/>per saltum, non tamenm 
+      <lb ed="#C" n="39"/>nistret Injungetur poenitentia: &amp; supplebitur caute, quo¬ 
+      <lb ed="#C" n="40"/>incaute omissum est, &amp; sic per Episcopum dispensabitur 
+      <lb ed="#C" n="41"/>argument. 52. distinctio. solicitudo. &amp; supra de sacram. non itt 
+      <lb ed="#C" n="42"/>ran. cap. 1. Idem si ministravit, sed credebat se promotun 
+      <lb ed="#C" n="43"/>fore gradatim: licet vicini contrarium asserant, cum ider 
+      <lb ed="#C" n="44"/>promotus in minori aetate in hoc consentiat, &amp; suppleb 
+      <lb ed="#C" n="45"/>tur gradus omissus, &amp; discreta poenitentia injungetur, &amp; 
+      <lb ed="#C" n="46"/>id quod factum nescitur, non videbitur reiterari, ut inf. 
+      <lb ed="#C" n="47"/>cap. unico &amp; de consecra. distinct.i.ecclesia. solennitates. &amp; distin 
+      <lb ed="#C" n="48"/>4. sinulla. Si tamen scienter per saltum promotus in ordi 
+      <lb ed="#C" n="49"/>ne, non gradatim recepto ministraverit, incidit in men 
+      <lb ed="#C" n="50"/>tem superioris tituli, &amp; sic non potest cum eo, nisi per si¬ 
+      <lb ed="#C" n="51"/>dem Apostolicam dispensari, quod dic, ut not. supra in si 
+      <lb ed="#C" n="52"/>periorib. tit. §. per quem, &amp; in quo 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

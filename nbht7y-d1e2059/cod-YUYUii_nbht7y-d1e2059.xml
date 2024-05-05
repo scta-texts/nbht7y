@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 34</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 34</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="760"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e2059"><!-- nbht7y-l5t34 -->
+            <head xml:id="nbht7y-d1e2059-Hd1e101">Titulus 34</head>
+            <head xml:id="nbht7y-d1e2059-Hd1e103" type="question-title">De purgatione canonica</head>
+            <p xml:id="nbht7y-d1e2059-d1e106">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0777.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>De Purgatione canonica. Ru¬ 
+      <lb ed="#C" n="79"/>brica. XXXIV 
+    </p>
+            <p xml:id="nbht7y-d1e2059-d1e117">
+               <lb ed="#C" n="80"/>SUMMARIA. 
+      <lb ed="#C" n="81"/>I. Purgatio canonira quid sit Quando sit indicenda; 
+      <lb ed="#C" n="82"/>2. Species purgationis quot sini 
+      <lb ed="#C" n="83"/>4. Numerus compurgatorum quotus sit 
+      <lb ed="#C" n="84"/>5. Compurgatores quales esse debeam 
+      <lb ed="#C" n="85"/>6. Purgatus an valeat accusari de eodem crimine 
+      <lb ed="#C" n="86"/>7. Poena quae sit deficientis in probationi 
+    </p>
+            <p xml:id="nbht7y-d1e2059-d1e135">
+               <lb ed="#C" n="87"/>VSque modo tractatum est in superiori 
+      <lb ed="#C" n="88"/>bus de delictis &amp; excessit 
+      <lb ed="#C" n="89"/>puniendis: sed quia plerunque dum de hi 
+      <lb ed="#C" n="90"/>agitur, ad purgationem canonicam perve 
+      <lb ed="#C" n="91"/>nitur, videamus de purgatione canonic 
+      <lb ed="#C" n="92"/>secundum Gof. Vel sic: Quia privilegio ce 
+      <lb ed="#C" n="93"/>sante, de quo sup. titi. expedivimus, ubi quis delictum ci 
+      <lb ed="#C" n="94"/>misit, si convincitur, puniri debet, secundum ea, quae not¬ 
+      <lb ed="#C" n="95"/>sup. tit..§fi sub§ sed dici potest, probatione autem deficiente co 
+      <lb ed="#C" n="96"/>gitur se purgare, viso tractatu de privilegiis, videamus d 
+      <lb ed="#C" n="97"/>purgatione canonica dicentes. Quid sit purgatio canoni 
+      <lb ed="#C" n="98"/>ca. Quot sint species purgationis. Quando sit indicendi 
+      <lb ed="#C" n="99"/>purgatio. Qualiter fieri debeat. Quotus numerus com 
+      <lb ed="#C" n="100"/>purgatorum: &amp; quales compurgatores requirantur. Ai 
+      <lb ed="#C" n="101"/>purgatus de eodem crimine valeat accusari. Quae sit pen 
+      <lb ed="#C" n="102"/>deficientis in purgatione 
+      
+      <lb ed="#C" n="103"/>Quid sit canonica purgatio. Et quidem purga¬ 
+      <lb ed="#C" n="104"/>tio est de objecto crimine innocentiae o¬ 
+      <lb ed="#C" n="105"/>stensio, secundum Da. &amp; Gof. tu dic, quod canonica pur¬ 
+      <lb ed="#C" n="106"/>gatio est nocentis infamiae ecclesiasticae innocentiae canc 
+      <lb ed="#C" n="107"/>nice facta detectio Bene dico, innocentiae, quia infamatu 
+      <lb ed="#C" n="108"/>ad honores promoveri non debet, supra de accu. omnipoteni 
+      <lb ed="#C" n="109"/>81. distantis Daniel. 33. dis. laici, ff. de muner. reus, multa &amp; ali¬ 
+      <lb ed="#C" n="110"/>mala inde proveniunt: vnde &amp; dicitur, Crudelis est, qui si 
+      <lb ed="#C" n="111"/>mam suam negligit, 12. quaestio. 1. nolo, super quo vide, quo 
+      <lb ed="#C" n="112"/>no. sup. de coha. cle &amp; mu. § quid sit notorium. Infamiae ideo di 
+      <lb ed="#C" n="113"/>xi, quia nedum de crimine infamato indicitur purgatio 
+      <lb ed="#C" n="114"/>sicut innuit descriptio Da. imo &amp; de alio, nam si quis dica 
+      <lb ed="#C" n="115"/>tur filius sacerdotis, purgat se de tali infamia, inf. eo accedes 
+      <lb ed="#C" n="116"/>&amp; tamen non est peccatum illius, sed patris, 5o dis. nasci, sic 
+      <lb ed="#C" n="117"/>ut de hoc, &amp; aliis quibusdam casibus no. infra eo § quando si 
+      <lb ed="#C" n="118"/>indicenda, ver. hoc tamen notabis, &amp; seq. Ecclesiasticae innocem 
+      <lb ed="#C" n="119"/>tiae, ideo jungitur, quia ex quo purgatio praestita est, nor 
+      <lb ed="#C" n="120"/>debet nocere infamia praecedens, ut no. infra eo. § purgatur 
+      <lb ed="#C" n="121"/>potest tamen esse, quod nocens est, sed ecclesia non respi 
+      <lb ed="#C" n="122"/>cit occulta, licet vera sint, unde judicium suum fallit, &amp; falli 
+      <lb ed="#C" n="123"/>tur, inf de sen. exco, a nobis, sic intellige, quod purgans suan 
+      <lb ed="#C" n="124"/>innocentiam ostendit, infra eo. ex tua Canonice facta dete 
+      <lb ed="#C" n="125"/>ctio, quare dixi, patet in his, quae notat. infra eo. §qualitersi 
+      <lb ed="#C" n="126"/>eri debeat. Vel melius, purgatio canonica est alicujus bona 
+      <lb ed="#C" n="127"/>opinionis ob malam famam sugillatae, seu propulsatae ac 
+      <lb ed="#C" n="128"/>satisfaciendum credentibus &amp; suspicionem tollendan 
+      <lb ed="#C" n="129"/>canonice facta declaratio, ut colligitur, infra eodem monu 
+      <lb ed="#C" n="130"/>les, &amp; capit. si quis, de gradu, &amp; capit. si quis presbyter, ad fin.
+    </p>
+            <p xml:id="nbht7y-d1e2059-d1e234">
+               <lb ed="#C" n="131"/>Quot sint species purgationis Duae scil canonici, 
+      <lb ed="#C" n="132"/>quae approbatur, &amp; de qua in hoc tit. spe 
+      <lb ed="#C" n="133"/>cialiter tractatur. Item vulgaris, quae reprobatur, u 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="134"/>ADDITIONES. 
+      <lb ed="#C" n="135"/>a Canonica purgatio. J Adde an tollatur infamia delicti, vidi¬ 
+      <lb ed="#C" n="136"/>per Arch. in c. omnibus in fin. 244 
+      <lb ed="#C" n="137"/>b Huc referri non incongrue potest, quod eleganter a Mat 
+    </p>
+    <p>
+      <lb ed="#C" n="138"/>tino scriptum est, in haec verba: Quamvis generaliter purga 
+      <lb ed="#C" n="139"/>tio canonica ratio criminis dicatur, potest tamen dici etian 
+      <lb ed="#C" n="140"/>ratione defectus natalium, ut extra, de offic. ordin. capit. ex par 
+      <lb ed="#C" n="141"/>te. Sed &amp; in causis mere civilibus indicitur purgatio, argu 
+      <lb ed="#C" n="142"/>ment. extra. de sentent &amp; re iudica. quod ad consultationem, secum 
+      <lb ed="#C" n="143"/>dum unam lecturam. Sed quaeri potest, an is, qui judic 
+      <lb ed="#C" n="144"/>tantum suspectus est, an ad expurgationem compelli debe 
+      <lb ed="#C" n="145"/>at, &amp; eum non cogendum responsum est, nisi fuerit coram 
+      <lb ed="#C" n="146"/>eo accusatus, &amp; accusatore probare nequeunte, reus rema 
+      <lb ed="#C" n="147"/>neat suspectus, &amp; infamis apud judicem, aut episcopum, tun¬ 
+      <lb ed="#C" n="148"/>poterit illi purgatio indici, ut 2. 9. 5. omnibus, &amp; extra, de accula 
+      <lb ed="#C" n="149"/>pione, veniens. Mar -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0778.xml-->
+      <pb ed="#C" n="761"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>infra eodem ex tuarum, de qua infra titul.i. specialiter tractati 
+      <lb ed="#C" n="2"/>habetur 
+    </p>
+            <p xml:id="nbht7y-d1e2059-d1e256">
+               <lb ed="#C" n="3"/>Quando sit indicenda purgatio Et quidem 
+      quan<lb ed="#C" n="4" break="no"/>do quis infamatus est apud bonos, &amp; 
+      <lb ed="#C" n="5"/>graves de aliquo crimine, deficiente accusatore, &amp; prob¬ 
+      <lb ed="#C" n="6"/>tione certa, infra eodem si quis presbyter, &amp;c. quoties, &amp; duob 
+      <lb ed="#C" n="7"/>casib. praecedentibus &amp;c. hos inter alios, dum tamen infami 
+      <lb ed="#C" n="8"/>non habuit ortum ab inimicis, infra eo, cum in juventute, §. 
+      <lb ed="#C" n="9"/>secundum Gos. &amp; idem videtur in hoc casu, si tanta sit in 
+      <lb ed="#C" n="10"/>famia, quod scandalum generet, arg. infra eo.c. 2.in si &amp; c. in 
+      <lb ed="#C" n="11"/>ter solitudines. §1. &amp; sic intellige, infra eod. accedens, circa pri 
+      <lb ed="#C" n="12"/>cipium a tuis aemulis, &amp;c. Idem si non generet scandalum, &amp; 
+      <lb ed="#C" n="13"/>ipse procurator offerat se instanter &amp; importune, infra e¬ 
+      <lb ed="#C" n="14"/>tum in juventute, §. caeterum, quia procurator. Alii dicun 
+      <lb ed="#C" n="15"/>indistin. purgationem indicendam esse, ex quo quis apu¬ 
+      <lb ed="#C" n="16"/>bonos &amp; graves infamatus est, ut infra eo, cum dilecto §. fi. su 
+      <lb ed="#C" n="17"/>pra de accus. qualiter, Si. &amp; haec tenent T &amp; B. &amp; junge circ¬ 
+      <lb ed="#C" n="18"/>hoc, quod non supra de accu. sub rubric. de inquisitionibus S qui 
+      <lb ed="#C" n="19"/>sit effectus, ver si autem de crimine, &amp; seq. ubi invenies forman 
+      <lb ed="#C" n="20"/>hujus articuli plenius expeditam, hoc tamen notabis, quo 
+      <lb ed="#C" n="21"/>nedum propter infamiam peccati, sive delicti, injungitu 
+      <lb ed="#C" n="22"/>purgatio, imo&amp; propter infamiam, &amp; defectus, ut infra eo 
+      <lb ed="#C" n="23"/>dem accedens, &amp; notat. supra eodem S. quae sit purgatio. versicul 
+      <lb ed="#C" n="24"/>infamiae. Item quando quaeritur de impotentia coeundi 
+      <lb ed="#C" n="25"/>ut notat supra de frigid Squaliter, &amp; quando versicu. est auter 
+      <lb ed="#C" n="26"/>hoc rectum judicium, &amp; sequent. Aliquando etiam indicitu 
+      <lb ed="#C" n="27"/>illi, de quo habetur suspicio, quod per surreptionem im 
+      <lb ed="#C" n="28"/>petraverit, supra de offic. ordi. ex parte. Sed &amp; in civilibus 
+      <lb ed="#C" n="29"/>liquando injungitur, sicut uno modo legitur, supra de sen 
+      <lb ed="#C" n="30"/>tent. &amp; re judic. quo ad consultationem: secundum Goffred. 
+      <lb ed="#C" n="31"/>mo regulare est, quod arbitrio judicis committatur, ut a 
+      <lb ed="#C" n="32"/>ctore in probatione deficiente, praesumptione vero pr 
+      <lb ed="#C" n="33"/>ipso faciente, reo deferat juramentum, ad suam innocen 
+      <lb ed="#C" n="34"/>tiam ostendendam, supra de jurejur. § sin quod dic, vt plen¬ 
+      <lb ed="#C" n="35"/>notat. supra de jurejur. sub s. nunc redeundum, §. quando sit de 
+      <lb ed="#C" n="36"/>ferendum. Hoc etiam teneas, quod tunc demum ad han 
+      <lb ed="#C" n="37"/>purgationem recurrendum est. quando aliae probatione 
+      <lb ed="#C" n="38"/>deficiunt, non obst. prava corruptela Saxoniae &amp; Daciae 
+      <lb ed="#C" n="39"/>vbi si rem tibi surreptam in una manu quis teneat, &amp; offe 
+      <lb ed="#C" n="40"/>rat purgationem, quantumcunque habeas testes paratos 
+      <lb ed="#C" n="41"/>absolutione praestita purgatione: quae corruptela repro 
+      <lb ed="#C" n="42"/>batur, sup. de prob. ad nostram econtra: nec illi, qui per teste 
+      <lb ed="#C" n="43"/>probavit intentionem suam, est juramentum indicendi 
+      <lb ed="#C" n="44"/>sup. de prob. c2. in notoriis igitur cum nulla probatio requi 
+      <lb ed="#C" n="45"/>ratur, non est indicenda purgatio, inf. eo, cum dilectio. § pen 
+      <lb ed="#C" n="46"/>&amp; de hoc no. sup. de accu sub rubr. de inquisitionibus, §fin. ver. 
+      <lb ed="#C" n="47"/>ergo est ordo 
+    </p>
+            <p xml:id="nbht7y-d1e2059-d1e356">
+               <lb ed="#C" n="48"/>Qualiter fieri debeat. Haec est forma: infamatus 
+      <lb ed="#C" n="49"/>jurabit se immunem ab eo quo la¬ 
+      <lb ed="#C" n="50"/>borat infamia, vnde si infamatus sit quis, quod ecclesian 
+      <lb ed="#C" n="51"/>S. Petri simoniace presbytero Petro dederit, jurabit supe 
+      <lb ed="#C" n="52"/>sancta Dei Evangelia, quod pro ecclesia S. Petri presbyte 
+      <lb ed="#C" n="53"/>ro Petro danda, nec ipse scilicet, infamatus per se, nec pe 
+      <lb ed="#C" n="54"/>submissam personam; ne aliquis pro eo se sciente pretiun 
+      <lb ed="#C" n="55"/>receperit, infra eodem quoties. Nec illud omitti debet, quo 
+      <lb ed="#C" n="56"/>si quis in dignitate certa, vel ordine constitutus infam¬ 
+      <lb ed="#C" n="57"/>tus sit de simoniaca venditione justitiae incontinentia, ve 
+      <lb ed="#C" n="58"/>quovis alio crimine non cogitur jurare, quod nunquan 
+      <lb ed="#C" n="59"/>commiserit haec crimina, vel alia, ante promotionem su 
+      <lb ed="#C" n="60"/>am: sic enim posset cogi, quod a tempore nativitatis su¬ 
+      <lb ed="#C" n="61"/>non peccasset mortaliter: quod esset iniquum, ut prob¬ 
+      <lb ed="#C" n="62"/>tur 34. dist fraternitatis. &amp; infra eodem accepimus § i. Sed suff 
+      <lb ed="#C" n="63"/>cit, quod juret, quod a tempore promotionis suae illa no¬ 
+      <lb ed="#C" n="64"/>commiserit, argumen. supra de eo, qui cogn. consangum uxo 
+      <lb ed="#C" n="65"/>suae. discretionem, &amp; capit penult. &amp; si supra de jurejur. quemac 
+      <lb ed="#C" n="66"/>modum in princip supra de test. cog. praeterea, §hujusmodi rero i¬ 
+      <lb ed="#C" n="67"/>stes, supra de aetat. &amp; qualitat. accepimus §1. supra de electio scr 
+      <lb ed="#C" n="68"/>ptums sin &amp; § penultim. &amp; praecedent. ad fi. &amp; est hoc expre¬ 
+      <lb ed="#C" n="69"/>sum infra eodem tit, capit. accepimus, §. fin. Videtur tame 
+      <lb ed="#C" n="70"/>contra argument. infra eodem inter §ipsum igitur, sed respi 
+      <lb ed="#C" n="71"/>de, ut notat. infra eodem ( quotus, sub Squales, versicul. &amp; no 
+      <lb ed="#C" n="72"/>tantum, &amp; seq. Illa autem forma, quod obtentu alicujus pae 
+      <lb ed="#C" n="73"/>nitentiae, dicat se immunem ab objectis criminibus re 
+      <lb ed="#C" n="74"/>probatur omnino: nemo enim scit, utrum dignus sit odio 
+      <lb ed="#C" n="75"/>vel amore, unde &amp; si simplex fuero: hoc ipsum ignorat? 
+      <lb ed="#C" n="76"/>nima mea, quare hoc temerarium est jurare, ut infra eoc 
+      <lb ed="#C" n="77"/>capit accepimus, §. porro. Compurgatores autem jurabuni 
+      <lb ed="#C" n="78"/>quod credunt infamatum verum jurasse, ut insra cod que 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0778.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>ties, in fin infra eodem c. si in sin non ergo jurabunt, quod im 
+      <lb ed="#C" n="80"/>munis sit simpliciter. Sed bene possunt hoc jurare, quan 
+      <lb ed="#C" n="81"/>tum ad propriam conscientiam, inf eo constitutus, quomo 
+      <lb ed="#C" n="82"/>do enim possunt hoc simpliciter &amp; pro vero scire, hoc e 
+      <lb ed="#C" n="83"/>set incurrere anceps perjurium, f. rerum ainota. Marcellus 
+      <lb ed="#C" n="84"/>ff. de jurejuran. videamus, inde etiam dicitur, quod multun 
+      <lb ed="#C" n="85"/>discrepat paternum &amp; haereditarium juramentum, C. d. 
+      <lb ed="#C" n="86"/>rebus cre. &amp; jurejura generaliter, responsio primo. ideo etian 
+      <lb ed="#C" n="87"/>reprobatur testis, qui astruit probare negativam, supra d 
+      <lb ed="#C" n="88"/>tausa poss. &amp; proprie, cum ecclesia Sutrina §nos igitur 
+    </p>
+            <p xml:id="nbht7y-d1e2059-d1e452">
+               <lb ed="#C" n="89"/>Quotus numerus compurgatorum, &amp; 
+      qua<lb ed="#C" n="90" break="no"/>les compurgatores requi 
+      <lb ed="#C" n="91"/>rantur. De numero dic, quod episcopus purgat se mant 
+      <lb ed="#C" n="92"/>duodena sui ordinis, sacerdos sexta, diaconus trina 24 
+      <lb ed="#C" n="93"/>omnib. si legitimi &amp;c. pusbyter si a plebe, &amp; sic potest intelliae 
+      <lb ed="#C" n="94"/>infra eo. c. iunde ver 
+      <lb ed="#C" n="95"/>
+               <quote xml:id="nbht7y-d1e2059-Qd1e469">Pontificem parium manus expurgat duodena 
+      <lb ed="#C" n="96"/>Sexta sacerdotem, levitam tertia purgai 
+      <lb ed="#C" n="97"/>Major majori, minor est adhibenda minor. 
+      <lb ed="#C" n="98"/>Quem plebs infamat purgabitur in manifesto 
+      <lb ed="#C" n="99"/>arg infra de poeniten.c.i. supra de simon. ex tuae 
+      <lb ed="#C" n="100"/>Quem chorus ante chorum sua sit purgatio prasto</quote>
+               <lb ed="#C" n="101"/>id est, parata, &amp; nota. quod dicit, quem plebs, &amp;c. &amp; quen 
+      <lb ed="#C" n="102"/>chorus, &amp;c. qui.d. si publice infamatus sit, inter laicos, cor¬ 
+      <lb ed="#C" n="103"/>ipsis purgabit se. Si vero inter clericos tantum infama 
+      <lb ed="#C" n="104"/>tus sit, tunc coram clericis tantum se purgabit &amp; innui 
+      <lb ed="#C" n="105"/>tur infra eodem c. 2. in fin. &amp; supra de accus. qualiter. 2. §1 ad fin 
+      <lb ed="#C" n="106"/>nam ubi nascitur malum, ibi moriatur, 2. quaestio. 1. sipe 
+      <lb ed="#C" n="107"/>caverit. Sed certe hodie tenent omnes, quod numerus con 
+      <lb ed="#C" n="108"/>purgatorum arbitrarius est, vnde duo primi versus cor 
+      <lb ed="#C" n="109"/>riguntur, &amp; abjiciendi sunt: tertius scilicet Major majo 
+      <lb ed="#C" n="110"/>ri, &amp;c. tenendus est, sed quod dicit, est adhibenda, sub 
+      <lb ed="#C" n="111"/>audi, arbitrio judicis, ut probatur supra de simoniac. cum es 
+      <lb ed="#C" n="112"/>sent, ad fin supra de accusat cum P. Maconella, &amp; cap. inquisitio 
+      <lb ed="#C" n="113"/>nis § penultim. in fi2.quaest. j. omnibus, in si. infra eod ex tuarum 
+      <lb ed="#C" n="114"/>&amp; cum in juventuti§ sin. Est tamen casus in quo forte nu 
+      <lb ed="#C" n="115"/>merus arbitrarius non est, supra de frig. laudabilem §i. quoc 
+      <lb ed="#C" n="116"/>dic, ut no. in summa ejusdem tit. Squaliter, persic. sed nunquic 
+      <lb ed="#C" n="117"/>sufficit 
+    </p>
+            <p xml:id="nbht7y-d1e2059-d1e520">
+               <lb ed="#C" n="118"/>QUales autem debeant esse compurgatores, primo 
+      <lb ed="#C" n="119"/>&amp; requiritur, quod sint ejusdem ordinis, vt notat. supr. 
+      <lb ed="#C" n="120"/>eodem §. responsio. 1. est tamen notandum, quod quando h 
+      <lb ed="#C" n="121"/>qui ejusdem ordinis sunt, inimici sunt infamati, vel ess. 
+      <lb ed="#C" n="122"/>praesumuntur; admittuntur compurgatores ordinis in 
+      <lb ed="#C" n="123"/>ferioris, argument. supra codem cum in juventute §fin. 2. quae 
+      <lb ed="#C" n="124"/>5. si legitimi, idem videtur, si tot episcopi non inveniuntur 
+      <lb ed="#C" n="125"/>infra eodem quoties, quinimo ex eadem causa clericis defi 
+      <lb ed="#C" n="126"/>cientib. laici admittuntur, 2qu. 5 omnibus, vel etiam foemi 
+      <lb ed="#C" n="127"/>nae: argument. 18. quaestio. 2. in decima. Tales autem requi 
+      <lb ed="#C" n="128"/>runtur compurgatores, qui vitam &amp; conversationem in¬ 
+      <lb ed="#C" n="129"/>famati cognoscant, infra eodem cum P. Manconella, qui etian 
+      <lb ed="#C" n="130"/>vicini sint, &amp; honesti, infra eodem cum dilectus. Et non tan¬ 
+      <lb ed="#C" n="131"/>tum debent habere notam infamati vitam &amp; conversatio 
+      <lb ed="#C" n="132"/>nem praesentem, sed etiam praeteritam, ut patet infra eo 
+      <lb ed="#C" n="133"/>dem inter soliciiudines, §. ipsum igitur, ibi qui conversatio 
+      <lb ed="#C" n="134"/>nem &amp; vitam ipsius non tam moderno tempore noverint 
+      <lb ed="#C" n="135"/>quam transacto, &amp; sic videtur, quod a tempore nativita 
+      <lb ed="#C" n="136"/>tis debeat quis se purgare, contra id quod notat. supra eo 
+      <lb ed="#C" n="137"/>dem §qualiter, versicul. nec illud &amp; sequent. Sed tu dic, quoc 
+      <lb ed="#C" n="138"/>ideo hoc dicit, quia si in praeterito fuisset malus, non inve 
+      <lb ed="#C" n="139"/>niret de facili compurgatorem, argument. infra eodem cap 
+      <lb ed="#C" n="140"/>i supra de praesumpt. mandata f. de edend si quis ex argentariis, § 
+      <lb ed="#C" n="141"/>primo ibid. quid enim, si humilis &amp; deploratus, &amp;c. Ve 
+      <lb ed="#C" n="142"/>speciale est in crimine haeresis, quod purget se de praesent 
+      <lb ed="#C" n="143"/>&amp; praeterito, propter periculum fidei, sicut &amp; speciale est 
+      <lb ed="#C" n="144"/>quod cum decima quarta manu sui ordinis purgatio in 
+      <lb ed="#C" n="145"/>dicitur, &amp; quod compurgatores requiruntur vita proba 
+      <lb ed="#C" n="146"/>ti, ut ibi dicitm praecedenti §. attendentes, &amp; hoc propter im¬ 
+      <lb ed="#C" n="147"/>manitatem criminis, &amp; periculum fidei, ut infamia conver 
+      <lb ed="#C" n="148"/>tatur in famam: &amp; omne scandalum &amp; suspicio de catho 
+      <lb ed="#C" n="149"/>licorum mentibus deleatur, ut mfra eodem c paragrapho prae 
+      <lb ed="#C" n="150"/>cipias. Alias autem sufficit, quod quis purget se de tem 
+      <lb ed="#C" n="151"/>pore post suam promotionem elapso, ut notat. supra eod 
+      <lb ed="#C" n="152"/>patagrapho proxim, versic. sed sufficit. Non ergo debet inquir 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0779.xml-->
+      <pb ed="#C" n="762"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>de compurgatorum nationibus, &amp; aliis circumstantiis 
+      <lb ed="#C" n="2"/>ac si deberent ordines celebrari: utinam nempe episcop 
+      <lb ed="#C" n="3"/>nostri tempotis sic discuterent ordinandos, sed su 
+      <lb ed="#C" n="4"/>cit, quod sint bonae famae in suis ordinibus ministran 
+      <lb ed="#C" n="5"/>tes, nec injudicio pro crimine condemnati, &amp; quod al 
+      <lb ed="#C" n="6"/>ecclesia tolerentur, ut infra eo, constitutul, non ergo suffice 
+      <lb ed="#C" n="7"/>ret. quod ministrarent in suis ordinibus ab ecclesia tolera 
+      <lb ed="#C" n="8"/>ti, si infamia laborarent: licet secus sit, quando quaeritur 
+      <lb ed="#C" n="9"/>utrum ab infamato possumus recipere ecclesiastica s¬ 
+      <lb ed="#C" n="10"/>cramenta: ut no. supra de cohabit cleri. &amp; mulier, vestra, &amp; ca¬ 
+      <lb ed="#C" n="11"/>sina &amp; pen
+    </p>
+            <p xml:id="nbht7y-d1e2059-d1e629">
+               <lb ed="#C" n="12"/>An! purgatus de eodem rimine valest 
+      <lb ed="#C" n="13"/>accusari. 
+      Di<lb ed="#C" n="14" break="no"/>cunt quidam, quod si accusatione pendente, fuerit indi 
+      <lb ed="#C" n="15"/>cta purgatio, &amp; praestita, postmodum de eodem crimini 
+      <lb ed="#C" n="16"/>accusari non potest sicut in absolutione, seu abolition 
+      <lb ed="#C" n="17"/>observatur: supra de accusat. de his. 23. quaestio. tertio. si illic 3. 
+      <lb ed="#C" n="18"/>3.§ abylitione, ne delicto ejusdem hominis saepius quaera 
+      <lb ed="#C" n="19"/>tur. ff nau cau. stab. licet, nisi in casibus, f. de praeva. l3. ae accu 
+      <lb ed="#C" n="20"/>si cui§ iisdem. secus. si nulla praecedente accusatione fuit pui 
+      <lb ed="#C" n="21"/>gatio indicta &amp; praestita, nam tunc denuo potest accusa 
+      <lb ed="#C" n="22"/>ri, argument 2 quaestio.5. hoc habet proprium, &amp; capit. Mennam 
+      <lb ed="#C" n="23"/>ibi enim purgatus se purgat. si tamen cessaverit accusator 
+      <lb ed="#C" n="24"/>id est, si nullus eum accuset, innuit ergo, quod post prim 
+      <lb ed="#C" n="25"/>pursationem admittitur accusatio, ad idem, argument,3 
+      <lb ed="#C" n="26"/>quaestio 2. admonere, ubi quis post poenitentiam accusatur 
+      <lb ed="#C" n="27"/>Item sicut post absolutionem indicitur purgatio. ita pos 
+      <lb ed="#C" n="28"/>purgationem admittenda est accusatio, supra de accusa. v 
+      <lb ed="#C" n="29"/>niens Lau. dixit, quod sive accusatio praecesserit, sive nor 
+      <lb ed="#C" n="30"/>nunquam pargatus potest de eodem crimine accusari 
+      <lb ed="#C" n="31"/>quia jusjurandum majoris authoritatis est, quam senter 
+      <lb ed="#C" n="32"/>tia. f.de jurejur. leg. 2. &amp; idem consequitur quis per jusjuri 
+      <lb ed="#C" n="33"/>dum quod per sententiam, ff. de jurejur, sed &amp; si §. si cum, e 
+      <lb ed="#C" n="34"/>praetor tuetur jusjurandum de jurejur. leg. 3. §. 1. &amp; periv 
+      <lb ed="#C" n="35"/>rium solum dominum habet ultorem. C. de rebus credito ( 
+      <lb ed="#C" n="36"/>jurejura leg 2. C. de arbitr authentic. decrevit, &amp; jusjurandun 
+      <lb ed="#C" n="37"/>bona fide exactum, actionem popularem consumit, argu 
+      <lb ed="#C" n="38"/>f de jurejur. eum qui. Sin pupillaribus. Dicas, quod ration 
+      <lb ed="#C" n="39"/>infamiae de novo exortae, potest iterum accusari, &amp; indi 
+      <lb ed="#C" n="40"/>ci purgatio, argument. supra de juram calum caeterum, supr 
+      <lb ed="#C" n="41"/>de test. cogen praeterea, supra de excep. pastoral. infra eodem c. cur 
+      <lb ed="#C" n="42"/>injurentute, respon. 1§1. &amp; sin. sic potest intelligi, 2. quaestio. 
+      <lb ed="#C" n="43"/>hoc habet, &amp; capit. Mennam. Sin autem quaeratur de infami 
+      <lb ed="#C" n="44"/>praecedente juramentum purgationis, &amp; terminus ass 
+      <lb ed="#C" n="45"/>gnatus fuit, intra quem appareret accusator, &amp; non app¬ 
+      <lb ed="#C" n="46"/>ruit, non poterit accusari, argument. supra de cland. despor 
+      <lb ed="#C" n="47"/>cum inhibrio, nisi mala fide indicta esset purgatio, quia tum 
+      <lb ed="#C" n="48"/>posset iterum accusari: argument. f. de jurejur. eum qui. §. 1 
+      <lb ed="#C" n="49"/>popularib &amp;I si duo § sin. velnisi immineret periculum an¬ 
+      <lb ed="#C" n="50"/>mae: &amp; is, qui vult accusare, absens fuisset, supra qui ma, a 
+      <lb ed="#C" n="51"/>cusa pos. c 2. Vel dic, quod sive terminus assignatus fueri 
+      <lb ed="#C" n="52"/>sive non: sive accusatio praecesserit, five non, post purg¬ 
+      <lb ed="#C" n="53"/>tionem praestitam ratione infamiae praeteritae accusari ni 
+      <lb ed="#C" n="54"/>poterit: nisi accusans suam, vel suorum injuriam prosequa 
+      <lb ed="#C" n="55"/>tur, ff. de accusa. si cui §iisdem, vel nisi doceat primum accu 
+      <lb ed="#C" n="56"/>satorem praevaricatum fuisse: ff de praevar. leg 3. vel nisi veli 
+      <lb ed="#C" n="57"/>probare, quod purgans dejeravit, quod fieri potest cun 
+      <lb ed="#C" n="58"/>sacramentum purgationis sit judiciale, &amp; contra judicia 
+      <lb ed="#C" n="59"/>le juramentum probatio admittitur ff. de jurejur. admone 
+      <lb ed="#C" n="60"/>di, secundum Goff. C. de rebus cred. I. fi. 
+    </p>
+            <p xml:id="nbht7y-d1e2059-d1e739">
+               <lb ed="#C" n="61"/>Quae, sit poena deficienti in porgatione 
+      Re<lb ed="#C" n="62" break="no"/>gulam trado tibi, quod sicut 
+      pu<lb ed="#C" n="63" break="no"/>niretur de crimine, de quo impetebatur, si convincere 
+      <lb ed="#C" n="64"/>tur, considerato modo agendi, sic punietur si in purgatio 
+      <lb ed="#C" n="65"/>ne deficiat, unde si acculetur quis de crimine, quod depo 
+      <lb ed="#C" n="66"/>sitionem inducit &amp; indicatur purgatio, in qua praestand 
+      <lb ed="#C" n="67"/>accusatus deficit, deponetur, supra de sumonias de hoc auter 
+      <lb ed="#C" n="68"/>idem, si in modum inquisitionis agatur, &amp; sic crimen ex 
+      <lb ed="#C" n="69"/>ceptum &amp; immane, de quo quis etiam in modum inqui 
+      <lb ed="#C" n="70"/>sitionis deponitur, puta homicidium, simonia. supra d 
+      <lb ed="#C" n="71"/>accusa. inquisuionis, supra de simoniac. per tuas, vel haeresis 
+      <lb ed="#C" n="72"/>infra eodem inter solicitudines. Sed contra supra de simoni¬ 
+      <lb ed="#C" n="73"/>insinuatum, ubi non fit depositio, sed tantum privatio a be 
+      <lb ed="#C" n="74"/>neficiis, &amp; tamen est crimen exceptum, scil. simonia, di¬ 
+      <lb ed="#C" n="75"/>quod ibi plures deliquerant: &amp; ideo parcitur multitudi 
+      <lb ed="#C" n="76"/>ni, quia grave erat omnes deponere, argument. supra d 
+      <lb ed="#C" n="77"/>cleric. excommunicat. ministr. latores, alias autem, si unus es 
+      <lb ed="#C" n="78"/>set tantum, vel pauci, fieret depositio, igitur si in modun 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0779.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>exceptionis opponitur crimen, ut excludatur quis abe 
+      <lb ed="#C" n="80"/>neficio, defectus purgationis eandem poenam inducet 
+      <lb ed="#C" n="81"/>supra de accu acctdens, secundum Goffr. vel dic, quod ubi ij 
+      <lb ed="#C" n="82"/>modum accusationis quaeritur decrimine, locum habe 
+      <lb ed="#C" n="83"/>quod supradictum est: ubi vero in modum denunciati¬ 
+      <lb ed="#C" n="84"/>nis vel inquisitionis, arbitraria erit poena, secundum ea qui 
+      <lb ed="#C" n="85"/>no, supra de accu. §quis sit effectus, &amp; sub rubrica, de inquisitionm 
+      <lb ed="#C" n="86"/>bus § quis sit effectus 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

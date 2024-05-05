@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 21</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 21</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="107"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e283"><!-- nbht7y-l1t21 -->
+            <head xml:id="nbht7y-d1e283-Hd1e101">Titulus 21</head>
+            <head xml:id="nbht7y-d1e283-Hd1e103" type="question-title">De bigamis</head>
+            <p xml:id="nbht7y-d1e283-d1e106">
+               <lb ed="#C" n="50"/>De Bigamis non ordinandi 
+          <lb ed="#C" n="51"/>XXI. Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e113">
+               <lb ed="#C" n="52"/>SVMMARIA 
+          <lb ed="#C" n="53"/>I. Debigamia quid si¬ 
+          <lb ed="#C" n="54"/>Bigamus proprie quis dicatur 
+          <lb ed="#C" n="55"/>Bigamiae species quot suni 
+          <lb ed="#C" n="56"/>Bigamus unde dicatur 
+          <lb ed="#C" n="57"/>Biganus a susceptione ordinum quare arceatur 
+          <lb ed="#C" n="58"/>Castitas major requiritur in uxore, quam viro
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e131">
+               <lb ed="#C" n="59"/>DIximus de quibusdam irregularitatib 
+          <lb ed="#C" n="60"/>sive impedimentis, quae absqu 
+          <lb ed="#C" n="61"/>peccato proveniunt: sed quia bigamia sin¬ 
+          <lb ed="#C" n="62"/>peccato contrahitur: nam secundum Aug. ni. 
+          <lb ed="#C" n="63"/>damnatur bigamus, nec trigamus, nec si di 
+          <lb ed="#C" n="64"/>ci potest, octogamus. 31. q. 1. aperiant. c si dormierit. apponitu 
+          <lb ed="#C" n="65"/>ergo hec rubrica de bigamis non ordinandis. Bigamia enin 
+          <lb ed="#C" n="66"/>inter alias irregularitates non minima reputatur, quia se 
+          <lb ed="#C" n="67"/>cundum Apostolum bigamus promoveri non potest, und 
+          <lb ed="#C" n="68"/>dicit. Oportet Episcopum esse unius uxoris virum. 26. dis
+          <cb ed="#C" n="b"/>
+               <lb ed="#C" n="69"/>§.1. &amp; §. quod unius uxoris id est non plurium, ut ibi. &amp; no. supra 
+          <lb ed="#C" n="70"/>de temp. ord. §. &amp; cuim 2 regula. Si ergo nullam habuit, nor 
+          <lb ed="#C" n="71"/>prohibetur, imo est affectuosius admittendus. 31. d st. anti 
+          <lb ed="#C" n="72"/>triennium. &amp; §. causa vero institutionis, unde praecipitur etiam 
+          <lb ed="#C" n="73"/>quod talis quaeratur, qui uxorem non habeat. 61. dist. Chati 
+          <lb ed="#C" n="74"/>nensis. &amp; merito, quia nuptiae replent mundum, virginit 
+          <lb ed="#C" n="75"/>paradisum 324.1. nuptiae, dicendum est ergo, Quid sit biga 
+          <lb ed="#C" n="76"/>mia, Quis dicatur bigamus, Quot species bigamiae, Unde 
+          <lb ed="#C" n="77"/>dicatur bisamus, Quare bigamus a promotione ordinun 
+          <lb ed="#C" n="78"/>arceatur, Et an cum bigamo dispensetui 
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e180" n="1">
+               <lb ed="#C" n="79"/>Quid sit bigamia. Et quidem irregularitas 
+          <lb ed="#C" n="80"/>ex defectu proveniens sa 
+          <lb ed="#C" n="81"/>cramenti. in 26. dist, acutius, &amp; apparet in his, quae no infr. eo 
+          <lb ed="#C" n="82"/>S quarebigamus. Alii dicunt, quod bigamia est defectus e: 
+          <lb ed="#C" n="83"/>secundis nuptiis proveniens, sed haec descriptio non pla 
+          <lb ed="#C" n="84"/>cet, quia non est covertibilis cum suo descripto, cum mul 
+          <lb ed="#C" n="85"/>tis aliis modis, quam ex secundis nuptiis, proveniat biga 
+          <lb ed="#C" n="86"/>mia, sicut apparet ex sequentibus 
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e200" n="2">
+               <lb ed="#C" n="87"/>Quis dicatur bigamus? Proprieis qu 
+          <lb ed="#C" n="88"/>successive &amp; di 
+          <lb ed="#C" n="89"/>versis temporib duas legitimas uxores habuit. 31 4.1. aperi 
+          <lb ed="#C" n="90"/>ant, quod intelligas, si cum utraque matrimonium fuerit con 
+          <lb ed="#C" n="91"/>summatum. alioqui contra. inf.cod. debitum 34. dist. Valenti 
+          <lb ed="#C" n="92"/>no. large autem &amp; improprie, sive interpretative sumpt¬ 
+          <lb ed="#C" n="93"/>vocabulo, dicitur bigamus multis modis, b quam ex secu¬ 
+          <lb ed="#C" n="94"/>dis nuptiis, unde videndum 
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e220" n="3">
+               <lb ed="#C" n="95"/>Quot sunt species bigamiae. Et quidem
+          <lb ed="#C" n="96"/>duae: scilicet vt 
+          <lb ed="#C" n="97"/>ra, quando videlicet quis duas habuit, ut dixi sup proxim. § 
+          <lb ed="#C" n="98"/>&amp; probatur 26. dist. una tantum, nec repetita copula. &amp; c. deind. 
+          <lb ed="#C" n="99"/>&amp;c. actus. Alia interpretativa. Interpretative enim dici 
+          <lb ed="#C" n="100"/>turbigamus multis modis. Primo, qui de jure contraxii 
+          <lb ed="#C" n="101"/>cum vidua vel corrupta. infra eodem de bigamis. 32. dist feria¬ 
+          <lb ed="#C" n="102"/>tim 33. dist. maritum, &amp; dicitur vidua hic corrupta, licet vi 
+          <lb ed="#C" n="103"/>non habuit, ff. deverb sign malum. §. vidua 34. dist. curandum. &amp; 
+          <lb ed="#C" n="104"/>c praecipimus, nam si maritum habuerit, &amp; maritus, ante 
+          <lb ed="#C" n="105"/>quam conveniat, moriatur, vidua non dicetur, quantum 
+          <lb ed="#C" n="106"/>ad hoc, de quo quaeritur 34. dist. vidua &amp;c. ult. Sed propri¬ 
+          <lb ed="#C" n="107"/>vidua est, c cujus maritus mortuus est. Ejecta, quae ma¬ 
+          <lb ed="#C" n="108"/>rito vivente projicitur. Meretrix, a quae multorum libi¬ 
+          <lb ed="#C" n="109"/>dini patet. 34. dist. vidua. 33. q. 4. meretrices. Secundo, qui ha 
+          <lb ed="#C" n="110"/>buit duas uxores ante baptismum, e vel unam ante, &amp; a¬ 
+          <lb ed="#C" n="111"/>liam post. 33. dist si quis viduam 26. dist §.. &amp; c2.&amp; 3. Tertio 
+          <lb ed="#C" n="112"/>quae castitatem promissam violat. 279.1. quotquot ergo sub 
+          <lb ed="#C" n="113"/>diaconus contrahens matrimonium, bigamus censetur. 
+          <lb ed="#C" n="114"/>cui enim sit templum Dei &amp; vas Domini sacrarium Spiri 
+          <lb ed="#C" n="115"/>tus Sancti indignum est eum cubilibus &amp; immundiciis 
+          <lb ed="#C" n="116"/>deservire: ideo sacrilegium &amp; incestum committit. 28. disi 
+          <lb ed="#C" n="117"/>decernimus. &amp;c. de his, votum frangit ecclesiae, scandalum 
+          <lb ed="#C" n="118"/>generat, &amp; eandem infamat, dominum Papam, &amp; canoni 
+          <lb ed="#C" n="119"/>contemnit, &amp; malum exemplum praebet. Quarto, quia u 
+          <lb ed="#C" n="120"/>nam de facto, alteram de jure, vel corruptam de facto, vel 
+          <lb ed="#C" n="121"/>duas de facto duxit uxores, quod in partem ad factum con 
+          <lb ed="#C" n="122"/>venit retorqueri 34. dist. Christiano, 21 q. I. quomodo rirginib &amp; 
+          <lb ed="#C" n="123"/>inf. dedivor. gaudemus, inf. eo. nuper, &amp; c. a nobis, punitur enim 
+          <lb ed="#C" n="124"/>astectus cum opere sublecuto &amp; quia Deus non ex ope 
+          <lb ed="#C" n="125"/>rib, j udicat, sed ex animo. 224. 5. qui perjurare. Quinto, si u 
+          <lb ed="#C" n="126"/>xorem propriam adulteram scienter retinuit, quod intel 
+          <lb ed="#C" n="127"/>lige secundum quosdam, si postea cognoverit eam: alioqui mi 
+          <lb ed="#C" n="128"/>nus durum videretur: hoc comprobatur, 24. di si cujus. ve 
+          <lb ed="#C" n="129"/>est consilium, non praeceptum. Alii autem hoc intelliguni 
+          <lb ed="#C" n="130"/>indistincte quod verius videtur scil. quod etiansi ignoranter 
+          <lb ed="#C" n="131"/>eam cognoverit, bigamus efficiatur, ut apparet in his qua 
+          <lb ed="#C" n="132"/>no. inf. eo. §. quare bigamus, ver 7. &amp; ver. 9. ver 3. &amp; est forte in 
+          <lb ed="#C" n="133"/>ductu illudjus ad terrendum contrahentes, quasi innuat, quoc 
+          <lb ed="#C" n="134"/>vix possunt promoveri hi qui uxores ducunt, etiam uxorib 
+          <lb ed="#C" n="135"/>mortuis sine periculo, cum dicatur casta, quam nemo rogavit 
+          <!--<lb ed="#C" n="136"/>ADDITIONES 
+          <lb ed="#C" n="137"/>a Quis dicatur bigamus. Adde Doct. in rubr. de big. S. Tho. in 4 
+          <lb ed="#C" n="138"/>sen dist. 273. ari.. 
+          <lb ed="#C" n="139"/>b Bigamus multismodis. Adde Spe. tit. de disp. in p. iuxia ver, con 
+          <lb ed="#C" n="140"/>trahitur. &amp; gl &amp; Doct. inc, super eo. de bigam 
+          <lb ed="#C" n="141"/>Vidua est. Addec. vidua 34. di &amp; inc.i. &amp; quod ibino. de consang. &amp; 
+          <lb ed="#C" n="142"/>assin. malum. in §. vidua ff. de verb. sign. Eal. in I. Deo nobis. C. de epi 
+          <lb ed="#C" n="143"/>&amp; cl¬ 
+          <lb ed="#C" n="144"/>d Meretrix. Adde gl. inc. inter opera de spon. &amp; ibi Doct. Cyn. inI 
+          <lb ed="#C" n="145"/>mercalem C. de cond. ob turp caus. Bald in l. neque naiales. C. de probatis 
+          <lb ed="#C" n="146"/>6 Ante baptismum. Adde S. Tho. in 4. sen. dist. 27. q. ulb--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0125.xml-->
+          <pb ed="#C" n="108"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>Septimo, quia publicam poenitentiam egit, vel repudiati 
+          <lb ed="#C" n="2"/>duxit, infra eodem cap. 1. 50. dist. im capite jejunii, &amp; de his &amp; 
+          <lb ed="#C" n="3"/>praecedentibus tit habes, 54 distquicunque 34. distinct. 
+      praeci<lb ed="#C" n="4" break="no"/>pimus 
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e328" n="4">
+               <lb ed="#C" n="5"/>Unde dicatur bigamus. Dicitur aute ju 
+          <lb ed="#C" n="6"/>xta vulgare provin 
+          <lb ed="#C" n="7"/>cialium quasi bigamus id est stultus inde factus, ibiden 
+          <lb ed="#C" n="8"/>vocatur gamus: vel dicitur digamus, quasi homo bini con 
+          <lb ed="#C" n="9"/>jugii: inde monogamus, a monos, quod est unum, &amp; g¬ 
+          <lb ed="#C" n="10"/>mos, quod est conjugium, imo gamos, quod est musiei 
+          <lb ed="#C" n="11"/>unde Pergama a pyr, quod est ignis, &amp; gamos, quasi igni 
+          <lb ed="#C" n="12"/>mulierum destructa, scilicet Pergama 1 rojae, ergo big¬ 
+          <lb ed="#C" n="13"/>musbinae uxoris, sive mulieris maritus, 26. distinct. uniu 
+          <lb ed="#C" n="14"/>uxoris virum, id est monogamum, &amp; sic dici potest octogi 
+          <lb ed="#C" n="15"/>mus, 31. q 1 aperiant
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e354" n="5">
+               <lb ed="#C" n="16"/>Quare: bigamus a susceptione ordinum arce 
+          <lb ed="#C" n="17"/>atur, tetigi quatuor ratio 
+          <lb ed="#C" n="18"/>nes, supra de temp. ordi. §. &amp; cui in 2. regula prohibetur quidi 
+          <lb ed="#C" n="19"/>non propter defectum sacramenti, quia Christus non du 
+          <lb ed="#C" n="20"/>as, sed unam tantum sibi ecclesiam copulavit, 26. distine 
+          <lb ed="#C" n="21"/>acutius, &amp;c. qui sine, unde dicit Aug. quod vir unius ux¬ 
+          <lb ed="#C" n="22"/>ris episcopus significat unitatem ex omnibus gentibu 
+          <lb ed="#C" n="23"/>collectam, &amp; uni viro Christo subditam. Ideo sicut duo 
+          <lb ed="#C" n="24"/>bus dominis scilicet contrariis servire non licet, sic ab un 
+          <lb ed="#C" n="25"/>domino apostatare, atque in alterius superstitionem ir¬ 
+          <lb ed="#C" n="26"/>non licet, prohibetur ergo bigamus, non propter pecca 
+          <lb ed="#C" n="27"/>tum, sed propter normam sacramenti amissam non ad vi 
+          <lb ed="#C" n="28"/>tae meritum, sed ad ordinationis signaculum, 26. distinct 
+          <lb ed="#C" n="29"/>acuttus inde est, quod quamvis quis bigamiam contraxi 
+          <lb ed="#C" n="30"/>ante baptismum, nihilominus impeditur, quia perbapti 
+          <lb ed="#C" n="31"/>mum culpa dimitti potest, lex aboleri non potest. 26. d 
+          <lb ed="#C" n="32"/>stinct. uni. &amp; §. bigamus. Quidam, ut Tanc. &amp; ejus sequa 
+          <lb ed="#C" n="33"/>ces, exponentes haec verba, dixerunt quod in matrimo 
+          <lb ed="#C" n="34"/>nio consumato triplex sacramentum designatur. Pri 
+          <lb ed="#C" n="35"/>mum est unio fidelis animae ad Deum per fidem, &amp; dil¬ 
+          <lb ed="#C" n="36"/>ctionem, &amp; charitatem, &amp; haec significatur in carnalim¬ 
+          <lb ed="#C" n="37"/>trimonio per conjunctionem animorum, unde ait Apo 
+          <lb ed="#C" n="38"/>stolus. Qui adhaeret Deo, unus spiritus est cum eo. Secun 
+          <lb ed="#C" n="39"/>dum sacramentum est unio humanae naturae ad Deum 
+          <lb ed="#C" n="40"/>quae facta est in utero virginis, ad quod pertinet, Verbun 
+          <lb ed="#C" n="41"/>Caro factum est, &amp;c. &amp; hoc designatur in carnali, perm 
+          <lb ed="#C" n="42"/>stionem corporum consumato: non autem ipsa comistic 
+          <lb ed="#C" n="43"/>sacramentum designat, sed per ipsum actum consumma 
+          <lb ed="#C" n="44"/>tum sacramentum significatur. Tertium sacramentun 
+          <lb ed="#C" n="45"/>est unitas ecclesiae ex omnibus gentibus collecta, &amp; un 
+          <lb ed="#C" n="46"/>viro Christo subdita, &amp; hoc significatur in clerici promo 
+          <lb ed="#C" n="47"/>ti unione, id est qui unicam &amp; virginem tantum habuit u 
+          <lb ed="#C" n="48"/>xorem, &amp; in ipsa unitate consistit, &amp; ille unus hoc sacra 
+          <lb ed="#C" n="49"/>mentum significat. Unde ubi secundum matrimoniun 
+          <lb ed="#C" n="50"/>contractum est, hoc tertium sacramentum locum non ha 
+          <lb ed="#C" n="51"/>bet, quia recessum est ab unitate, cum in secundo matri 
+          <lb ed="#C" n="52"/>monio divisio facta sit, ideo &amp; non significaret promotu 
+          <lb ed="#C" n="53"/>clericus unitatem, quare promoveri non potest. Item pe 
+          <lb ed="#C" n="54"/>secundum matrimonium receditur a conjunctione prim 
+          <lb ed="#C" n="55"/>matrimonii, sed ex quo ecclesia se Christo conjunxit, al 
+          <lb ed="#C" n="56"/>eo nunquam discessit, nec ipse abea, sic intelligunt, infr. eo 
+          <lb ed="#C" n="57"/>debitum, &amp; dictum cacutius. Consuevit autem quaeri, in qui 
+          <lb ed="#C" n="58"/>consistat hoc tertium sacramentum? Dicunt quidam 
+          <lb ed="#C" n="59"/>quod in ipso conjugio, sed hoc falsum est: quia mortua uv 
+          <lb ed="#C" n="60"/>xore, desinit conjugium esse, in authen. de nup §. deinceps, e 
+          <lb ed="#C" n="61"/>sic nulla esset significatio, nec posset quis promoveri, pr 
+          <lb ed="#C" n="62"/>ma uxore mortua. Unde dic, quod consistit in proposit¬ 
+          <lb ed="#C" n="63"/>unitatis servandae, de quo dixi, infra de matrimonio, § quid si 
+          <lb ed="#C" n="64"/>matrimonium, ver. individuam, unde si secundum matrimo 
+          <lb ed="#C" n="65"/>nium, contrahat quis, ab hoc proposito recedit, &amp; sic ab ho¬ 
+          <lb ed="#C" n="66"/>sacramento: clericus ergo qui post mortem uxoris virgi 
+          <lb ed="#C" n="67"/>nis unitatis propositum servavit repraesentat hoc sacrame 
+          <lb ed="#C" n="68"/>tum, ut dicit August.
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e471" n="6">
+      Sed quare exigitur major castita 
+          <lb ed="#C" n="69"/>f ex parte uxoris, quam ex parte viri? dicit Hug. quod vi 
+          <lb ed="#C" n="70"/>significat ecclesiam, quae in parte recessit a Christo adulte 
+          <lb ed="#C" n="71"/>rando &amp; recedendo a fide, &amp; sic in viro corrupto, non de
+          <cb ed="#C" n="b"/>
+               <lb ed="#C" n="72"/>est hujusmodi significatio sacramenti, sed uxor significat 
+          <lb ed="#C" n="73"/>Christum, qui nunquam ecclesiam dimisit, unde ipse est 
+          <lb ed="#C" n="74"/>fons vivus cui non communicat alienus, infra deregula, li 
+          <lb ed="#C" n="75"/>cet, in fi. vel dic, ut not. infra ver. conformitas, vel ideo, qui¬ 
+          <lb ed="#C" n="76"/>mulier promoveri non potest ad ordines, infra de paenquae 
+          <lb ed="#C" n="77"/>dam, &amp; vide quod no. ins. eo. ver. quinto quaeritur, cum consecra 
+          <lb ed="#C" n="78"/>tio episcopi. Alii dicunt, quod videtur verius, &amp; magis pro¬ 
+          <lb ed="#C" n="79"/>prium, quod vir significat Christum, qui primo sibi copu 
+          <lb ed="#C" n="80"/>lavit synagogam, secundo ecclesiam, quae ecclesia semper 
+          <lb ed="#C" n="81"/>virgo permansit saltem mente, unde Apost. Despondi e 
+          <lb ed="#C" n="82"/>nim vos uni viro virginem castam exhibere Christo, 26 4 
+          <lb ed="#C" n="83"/>I. nuptiarum, &amp; ideo exigitur quod uxor non diviserit car 
+          <lb ed="#C" n="84"/>nem suam in plures, quod si fecerit, deest significatio sacra 
+          <lb ed="#C" n="85"/>menti unitatis. Vel planius in matrimonio carnali con 
+          <lb ed="#C" n="86"/>summato attenditur duplex sacramentum, propter du 
+          <lb ed="#C" n="87"/>plicem conjunctionem quae est in eo, ut dixi, supra eo. vers 
+          <lb ed="#C" n="88"/>primum, &amp; vers. secundum. Prima est conjunctio animo 
+          <lb ed="#C" n="89"/>rum, haec significat conjunctionem fidelis animae ad De 
+          <lb ed="#C" n="90"/>um, quae conjunctio fidelis animae dissolvitur per conse 
+          <lb ed="#C" n="91"/>quens peccatum, sicut &amp; alia conjunctio animorum con 
+          <lb ed="#C" n="92"/>jugum ante carnalem copulam dissolvitur per religionis 
+          <lb ed="#C" n="93"/>ingressum, infra de conver. conjug. verum, C ex publico. Secun 
+          <lb ed="#C" n="94"/>da est conjunctio corporum, &amp; haec significat conjunctio 
+          <lb ed="#C" n="95"/>nem Christi &amp; ecclesiae: inter Christum enim &amp; ecclesiam 
+          <lb ed="#C" n="96"/>intelligitur ecclesiae matrimonium, quod potest dici initi 
+          <lb ed="#C" n="97"/>atum in prophetis &amp; patriarchis, ratum vero in tempore 
+          <lb ed="#C" n="98"/>gratiae, scilicet in nativitate Christi, quando ipse lapis an 
+          <lb ed="#C" n="99"/>gularis coepit aedificare ecclesiam, unum parietem de Ju 
+          <lb ed="#C" n="100"/>daeis, alterum de Gentib erigens, consummatum in cru 
+          <lb ed="#C" n="101"/>ce, vel ratum fuit in cruce, consummabitur in prima, se 
+          <lb ed="#C" n="102"/>cundum fratrem Ray. &amp; Gof. dicas ergo contractum ir 
+          <lb ed="#C" n="103"/>nativitate, ut supra dixi, ratum, vel ut infra subs. in quaru 
+          <lb ed="#C" n="104"/>cellula. Ex his ergo procedit ratio, quare sacramentum 
+          <lb ed="#C" n="105"/>conjugii dicitur majus, quo ad significationem, sicut not 
+          <lb ed="#C" n="106"/>supra de sacramen non iteran. §. quot sunt species, sub §. secund¬ 
+          <lb ed="#C" n="107"/>divisio, qua per ipsum sacramenta supradicta significatur 
+          <lb ed="#C" n="108"/>unde super illum Psal. Nunquid qui dormit non adjiciet 
+          <lb ed="#C" n="109"/>ut resurgat? Dicit August. notandum quod dicit dormit 
+          <lb ed="#C" n="110"/>quia sicut de latere dormientis Adae. subaudi primi carna 
+          <lb ed="#C" n="111"/>lis, qui erat forma futuri, subaudi, Adae, scilicet secund 
+          <lb ed="#C" n="112"/>spiritualis assumpta est costa, scilicet carnalis, de qua for 
+          <lb ed="#C" n="113"/>mata est Eva, g subaudi sponsa carnalis: ita dormivit Chri¬ 
+          <lb ed="#C" n="114"/>stus somno mortis, ut de latere dormientis, de quo proflu¬ 
+          <lb ed="#C" n="115"/>xerunt sanguis &amp; aqua, quae sunt nostrae redemptionis 
+          <lb ed="#C" n="116"/>sacramenta, formaretur sibi sponsa, subaudi spiritualis, 
+          <lb ed="#C" n="117"/>scilicet ecclesia, ad hoc, infra de celeb. miss. cum Matihae, §. quae 
+          <lb ed="#C" n="118"/>siristi, &amp; §. s. &amp;c. in quadan, &amp; infra de bap. majores §. cauta 
+          <lb ed="#C" n="119"/>Item in eadem secunda conjunctione scil. corporum con 
+          <lb ed="#C" n="120"/>jugum significatur conjunctio divinitatis &amp; humanitatis, 
+          <lb ed="#C" n="121"/>facta in utero virginali, de qua dixi sup. Cum ergo quaeli 
+          <lb ed="#C" n="122"/>bet conjunctio per se scilicet tam conjunctio Christi&amp; ec 
+          <lb ed="#C" n="123"/>lesiae. quam unio divinitatis &amp; humanitatis unica sit, irrei 
+          <lb ed="#C" n="124"/>terabilis &amp; indivisibilis, merito significatur in primi matri 
+          <lb ed="#C" n="125"/>monii conjunctione carnali, sed cum quis transit ad secum 
+          <lb ed="#C" n="126"/>dam uxorem, recedit ab hac unitate cedens sive tenden¬ 
+          <lb ed="#C" n="127"/>in pluralitatem, &amp; ideo non poterit de caetero significare 
+          <lb ed="#C" n="128"/>dictam unitatem &amp; irreiterabilem &amp; indivisibilem conjum 
+          <lb ed="#C" n="129"/>ctionem. Ex quo enim significatur, scilicet conjunctio 
+          <lb ed="#C" n="130"/>Christi &amp; ecclesiae, item conjunctio divinitatis &amp; humani 
+          <lb ed="#C" n="131"/>tatis unicum &amp; irreiterabile &amp; indivisibile est: oportet 
+          <lb ed="#C" n="132"/>quod suum significans, scilicet matrimonium carnale, con 
+          <lb ed="#C" n="133"/>iummatum unicum, &amp; reiteratum, &amp; indivisum fuerit. Hae¬ 
+          <lb ed="#C" n="134"/>est ratio quam ponit Aug. licet obscure, 26. dist. acutius, &amp; 
+          <lb ed="#C" n="135"/>Innocentius eandem tangit, infra eod. debitum, &amp; ex his li 
+          <lb ed="#C" n="136"/>quet, quare contrahitur irregularitas bigamiae 
+          <!--<lb ed="#C" n="137"/>ADDITIO. 
+          <lb ed="#C" n="138"/>g Formata est Eva. Adde text. in capit, gandemus, de diver. Es qua 
+          <lb ed="#C" n="139"/>re plus de costa quam de pede &amp; capite. Vide glo in verbo casta iocsi 
+          <lb ed="#C" n="140"/>33 quaest;--> 
+        </p>
+            <p xml:id="nbht7y-d1e283-d1e626">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0126.xml-->
+               <pb ed="#C" n="109"/>
+               <cb ed="#C" n="a"/>
+               <!--<p>
+        <figure>
+      <lb ed="#C" n="1"/>ARBOR BIGAMIA 
+    </p>
+    <p>
+      <lb ed="#C" n="2"/>T 
+      <lb ed="#C" n="3"/>Deu 
+      <lb ed="#C" n="4"/>paer 
+      <lb ed="#C" n="5"/>Deus fi¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="6"/>lius. 
+      <lb ed="#C" n="7"/>7 
+      <lb ed="#C" n="8"/>Mar. A¬ 
+      <lb ed="#C" n="9"/>sdae &amp; Ere 
+    </p>
+    <p>
+      <lb ed="#C" n="10"/>1 
+      <lb ed="#C" n="11"/>5 
+      <lb ed="#C" n="12"/>3 
+    </p>
+    <p>
+      <lb ed="#C" n="13"/>Vananter 
+      <lb ed="#C" n="14"/>Mat. Dei 
+    </p>
+    <p>
+      <lb ed="#C" n="15"/>Mat. Petri 
+    </p>
+    <p>
+      <lb ed="#C" n="16"/>&amp; Diab. 
+      <lb ed="#C" n="17"/>L&amp;EMar. 
+    </p>
+    <p>
+      <lb ed="#C" n="18"/>Es 
+    </p>
+    <p>
+      <lb ed="#C" n="19"/>7 
+      <lb ed="#C" n="20"/>4 
+    </p>
+    <p>
+      <lb ed="#C" n="21"/>6 
+    </p>
+    <p>
+      <lb ed="#C" n="22"/>11 
+    </p>
+    <p>
+      <lb ed="#C" n="23"/>Beur pr¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="24"/>Vinc. ho 
+      <lb ed="#C" n="25"/>sMae chri 
+    </p>
+    <p>
+      <lb ed="#C" n="26"/>Mat. Epi 
+    </p>
+    <p>
+      <lb ed="#C" n="27"/>Mat. uni. 
+    </p>
+    <p>
+      <lb ed="#C" n="28"/>ritus san 
+    </p>
+    <p>
+      <lb ed="#C" n="29"/>Epetrca 
+      <lb ed="#C" n="30"/>sig E 
+    </p>
+    <p>
+      <lb ed="#C" n="31"/>ctus. 
+      <lb ed="#C" n="32"/>fidelium. 
+      <lb ed="#C" n="33"/>&amp; Eccl. 
+      <lb ed="#C" n="34"/>7 
+    </p>
+    <p>
+      <lb ed="#C" n="35"/>3 
+      <lb ed="#C" n="36"/>10 
+    </p>
+    <p>
+      <lb ed="#C" n="37"/>Vin. inss. 
+      <lb ed="#C" n="38"/>suam. sa¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="39"/>Ma. bona 
+    </p>
+    <p>
+      <lb ed="#C" n="40"/>&amp; diabol. 
+      <lb ed="#C" n="41"/>cer. &amp; ecc. 
+    </p>
+    <p>
+      <lb ed="#C" n="42"/>gX 
+    </p>
+    <p>
+      <lb ed="#C" n="43"/>— 
+      <lb ed="#C" n="44"/> 
+    </p>
+    <p>
+      <lb ed="#C" n="45"/>8 
+    </p>
+    <p>
+      <lb ed="#C" n="46"/>4 
+      <lb ed="#C" n="47"/>7 
+    </p>
+    <p>
+      <lb ed="#C" n="48"/>Vm. h. 
+      <lb ed="#C" n="49"/>suae hap¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="50"/>Mat. Dei 
+    </p>
+    <p>
+      <lb ed="#C" n="51"/>&amp; diabol 
+      <lb ed="#C" n="52"/>&amp; fi. an 
+    </p>
+    <p>
+      <lb ed="#C" n="53"/>&amp; sianim. 
+    </p>
+    <p>
+      <lb ed="#C" n="54"/>— 
+    </p>
+    <p>
+      <lb ed="#C" n="55"/>5 
+      <lb ed="#C" n="56"/>Vin. haei 
+      <lb ed="#C" n="57"/>&amp; didal 
+      </figure>-->
+               <!--Henricus_a_Segusio_cardinalis_Hostiensis-0126.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="58"/>HIC posui, quantum planus potui, n. 
+      <lb ed="#C" n="59"/>opiniones videar ignorare, &amp; qui po 
+      <lb ed="#C" n="60"/>test capere, capiat: sed quia non o 
+      <lb ed="#C" n="61"/>mnes capiunt haec verba, propter de 
+      <lb ed="#C" n="62"/>fectum capacitatis rudium, grossor 
+      <lb ed="#C" n="63"/>&amp; puerilium animorum, fudia, gros 
+      <lb ed="#C" n="64"/>sa, &amp; puerilia exempla ponere volo 
+      <lb ed="#C" n="65"/>&amp; rationem quare bigamus impeditur, planius explica 
+      <lb ed="#C" n="66"/>re; ne rudes propter has subtilitates cadant in desperan 
+      <lb ed="#C" n="67"/>tiam intellectus, cum faciliori via duci possint. tales enin 
+      <lb ed="#C" n="68"/>plane ducendi sunt. Inst. de just. &amp; jur. §. his generaliter. inf. d 
+      <lb ed="#C" n="69"/>poen. Deus qui. §. Apostoli. prolixitatis autem imploro venia 
+      <lb ed="#C" n="70"/>quia dum brevis videri cupio, obscurus fio. Igitur ad evi 
+      <lb ed="#C" n="71"/>dentiam hujus tractatus, &amp; quorundam aliorum declara 
+      <lb ed="#C" n="72"/>tionem, depinxi hîc arborem in hunc modum: Pone a 
+      <lb ed="#C" n="73"/>borem; posita arbore &amp; depicta, sequitur lectio arboris 
+      <lb ed="#C" n="74"/>quae talis est. Diligenter notanda sunt ea quae in arbor, 
+      <lb ed="#C" n="75"/>hac leguntur. Primo enim posui principium a quo cunct 
+      <lb ed="#C" n="76"/>descendunt. Joan. 8. Ego principium, qui &amp; loquor vobis 
+      <lb ed="#C" n="77"/>nam a Jove principium. Musae Jovis omnia plena: &amp; a ca 
+      <lb ed="#C" n="78"/>pite edenda est ratio, f. de eden. l.argentarius, §. edi autem idem 
+      <lb ed="#C" n="79"/>super quo vide quod not. supra in proaem. &amp; quoniam cujusque rei 
+      <lb ed="#C" n="80"/>&amp; §. unde habuit originem. &amp; de sum. Trin. in princ. &amp; §. cur dica 
+      <lb ed="#C" n="81"/>tur im summa, &amp; §. quot modis, vers. recte autem. A dextris auti 
+      <lb ed="#C" n="82"/>lineam directam depinxi, per quam fides catholica, &amp; fide 
+      <lb ed="#C" n="83"/>les Christiani significantur, qui ad dexteram collocabur 
+      <lb ed="#C" n="84"/>tur. juxta illud, Venite benedicti, &amp;c. Matih. 25. Haec direct 
+      <lb ed="#C" n="85"/>linea in tres partes dividitur; per primam designatur pa 
+      <lb ed="#C" n="86"/>ter generans, per secundam filius genitus &amp; exiens. Joan. 16 
+      <lb ed="#C" n="87"/>Exwi a patre, &amp;c. quae secunda linea a prima linea exit 
+      <lb ed="#C" n="88"/>quia filius a patre solo est, &amp;c. per tertiam vero lineam Spir 
+      <lb ed="#C" n="89"/>tus sanctus repraesentatur, quae tertia linea non generatur 
+      <lb ed="#C" n="90"/>a praemissis duabus lineis, sed procedit, quia Spiritus san 
+      <lb ed="#C" n="91"/>ctus a Patre &amp; Filio, &amp;c. Est autem ipsa linea sine principi¬ 
+      <lb ed="#C" n="92"/>&amp; sine fine, &amp; est una respectu essentiae, sed est trina respe 
+      <lb ed="#C" n="93"/>ctu personarum, quae potius intellectu fidei; quam oculc¬ 
+      <lb ed="#C" n="94"/>visibili perpenduntur. super hoc vide quod no sup. de sum 
+      <lb ed="#C" n="95"/>Trinit. S. cur dicatur summa, pers. dicit &amp; Aug. &amp; per totum §. Ii 
+      <lb ed="#C" n="96"/>medio autem geniti &amp; procedentis quaedam cellula pon 
+      <lb ed="#C" n="97"/>tur. quae ab aliis &amp; per alias repletur, &amp; per eandem Deu 
+      <lb ed="#C" n="98"/>repraesentatur, sicut per primam cellula, quam pono prin 
+      <lb ed="#C" n="99"/>cipium, ut non notes principium quod non est, neque finem 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0126.xml-->
+      <cb ed="#C" n="c"/>
+               <lb ed="#C" n="100"/>non enim debes notare principium: quia illud quod est i 
+      <lb ed="#C" n="101"/>nis, revoluta arbore est prius. Item nec finem notare debes 
+      <lb ed="#C" n="102"/>quia illud quod est finis, non revoluta arbore est prius ips¬ 
+      <lb ed="#C" n="103"/>revoluta. in ipsa ergo non recolligitur qui Unitatem &amp; 
+      <lb ed="#C" n="104"/>Trinitatem sine principio &amp; sine fine veraciter non credit. 
+      <lb ed="#C" n="105"/>Sed &amp; quaedam linea protenditur ab ultima cellula lineae 
+      <lb ed="#C" n="106"/>per quam lineam Filius designatur ad primam cellula lineae 
+      <lb ed="#C" n="107"/>quae linea Spiritum sanctu repraesentat, ad notandum, quoc 
+      <lb ed="#C" n="108"/>Spiritus sanctus ab utroque aequaliter procedit, ut dictum 
+      <lb ed="#C" n="109"/>est. Et quia Patri attribuitur potentia, Filio sapientia, Spi¬ 
+      <lb ed="#C" n="110"/>ritui sancto benignitas seu gratia. In linea Patris ponuntu 
+      <lb ed="#C" n="111"/>trescellulae, quae summae potentiae sunt, &amp; in lineam Filii a 
+      <lb ed="#C" n="112"/>liae tres, quae summae sapientiae sunt. In linea Spiritus san 
+      <lb ed="#C" n="113"/>cti aliae tres, quae summae benignitatis, sive gratiae sunt. Po 
+      <lb ed="#C" n="114"/>nuntur autem tres cellulae in qualibet linea; ad designandum 
+      <lb ed="#C" n="115"/>quod qualis Pater, talis Filius, &amp;c. &amp; quod hi tres unum sun 
+      <lb ed="#C" n="116"/>in essentia, quod etiam probatur per primam cellulam, in qua 
+      <lb ed="#C" n="117"/>scriptum est, Deus unum principiu, &amp;c. &amp; per ultimam cel 
+      <lb ed="#C" n="118"/>lulam inter lineam exeuntem, &amp; procedentem politam 
+      <lb ed="#C" n="119"/>in qua scriptum matrimonium est unitatis fideliu, caetera 
+      <lb ed="#C" n="120"/>pet quam quaelibet essentia designatur. in omnibus his ta 
+      <lb ed="#C" n="121"/>men sane intelligas totam Trinitatem indivisibilem, quo ac 
+      <lb ed="#C" n="122"/>essentiam &amp; opera, quia inseparabilia sunt opera Trinita 
+      <lb ed="#C" n="123"/>tis. 28. qu. i sic enim neque §. proinde. &amp; quia etiam oculus saepe fal 
+      <lb ed="#C" n="124"/>litur. 27. q.i. nec aliqua noli tantum laxari exteriorem ocu 
+      <lb ed="#C" n="125"/>lum, quod interior seducatur. non enim exteriori ocul¬ 
+      <lb ed="#C" n="126"/>hanc summam Trinitatem comprehendere potes; sed si inte 
+      <lb ed="#C" n="127"/>rius fidelis fueris, non errabis. vides enim nunc per specu 
+      <lb ed="#C" n="128"/>lum in aenigmate. 1. ad Cor. 13. Sed si fides tua viva fuerit, vi 
+      <lb ed="#C" n="129"/>debis facie ad faciem in regno suo hoc quod modo suspiras 
+      <lb ed="#C" n="130"/>quod nobis &amp; cunctis fidelib. tribuere digneturis, ad cuju 
+      <lb ed="#C" n="131"/>honorem &amp; laudem hoc scribimus, qui in trinitate perfect. 
+      <lb ed="#C" n="132"/>vivit &amp; regnat Deus per omnia secula seculorum, Amen 
+      <lb ed="#C" n="133"/>Comprobantur omnia haec sup de summa Trin. &amp; fide catho 
+      <lb ed="#C" n="134"/>t.i. &amp; 2. &amp; in his quae not. ibi in summa. Verum a sinistris line¬ 
+      <lb ed="#C" n="135"/>obliquam descripsi, in qua concluduntur omnes extra fi 
+      <lb ed="#C" n="136"/>dem catholicam positi: quae ideo obliqua depingitur; qui¬ 
+      <lb ed="#C" n="137"/>omnia obera ejus obliqua &amp; mortua sunt, nec tangit pri 
+      <lb ed="#C" n="138"/>mam cellulam, quia a charitate separata est, in principit 
+      <lb ed="#C" n="139"/>autem directa depingitur, ad denotandum quod non obli 
+      <lb ed="#C" n="140"/>que, sed juste &amp; directe judicatus fuit pater superbiae. E 
+      <lb ed="#C" n="141"/>dimittitur foramen in prima cellula arboris, in qua scriptum 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0127.xml-->
+      <pb ed="#C" n="110"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>est, Deus unum principium, &amp;c. ut ostendat casum: &amp; po 
+      <lb ed="#C" n="2"/>nitur a sinistris, quia infideles omnes Christiani, &amp; alii qu 
+      <lb ed="#C" n="3"/>per ipsam repraesentantur, &amp; in ipsa includantur, vocabum¬ 
+      <lb ed="#C" n="4"/>tur in die judicii, ad sinistram, dicente Domino, Ite male 
+      <lb ed="#C" n="5"/>dicti, &amp;c. Et ut haec, quae dixi plenius elucescant, debet po 
+      <lb ed="#C" n="6"/>ni imago divina in medio, prout fit in arbore consangu 
+      <lb ed="#C" n="7"/>tatis, quae imago cum dextera manu amplectatur directi 
+      <lb ed="#C" n="8"/>lineam, ad denotandum unionem Dei &amp; fidelium, in d 
+      <lb ed="#C" n="9"/>lectione &amp; charitate, &amp; gloriam promissam, qua fruentu 
+      <lb ed="#C" n="10"/>aeternaliter, quam oculus non vidit, &amp;c. 1. Cor 2. Sinistran 
+      <lb ed="#C" n="11"/>vero manum super obliquam lineam teneat elevatam, &amp; 
+      <lb ed="#C" n="12"/>non tangat, ad notandum terrorem judicii &amp; poenarun 
+      <lb ed="#C" n="13"/>infernalium, quibus in ipsam inclusi aeternaliter sine spi 
+      <lb ed="#C" n="14"/>misericordiae punientur. Contra ordinationem hujus ar 
+      <lb ed="#C" n="15"/>boris &amp; ejus lectionem sic objicitur, cum linea sit ordina 
+      <lb ed="#C" n="16"/>ta collectio personarum, &amp;c. ubicunque est defectus oi 
+      <lb ed="#C" n="17"/>dinis, ibi est defectus &amp; lineae: unde sicut in arbore cor 
+      <lb ed="#C" n="18"/>sanguinitatis non est eadem linea ascendentium, vel de 
+      <lb ed="#C" n="19"/>scendentium, &amp; collateralium: ita videtur quod non si 
+      <lb ed="#C" n="20"/>eadem linea, quae superius vocatur directa, &amp; dicitur di 
+      <lb ed="#C" n="21"/>vidi in tres partes, non enim una &amp; eadem linea potest ha 
+      <lb ed="#C" n="22"/>bere plura capita, quam duo, vel plures terminos, quan 
+      <lb ed="#C" n="23"/>duos. ergo ut videtur non est identitas lineae, ubi designa 
+      <lb ed="#C" n="24"/>tur identitas essentiae divinae. Huic respondeo, quod sicu 
+      <lb ed="#C" n="25"/>divina essentia ultra naturam potest, sic &amp; linea ultra na 
+      <lb ed="#C" n="26"/>turam depingitur, nec alicui alii assimilatur, cedit enim in 
+      <lb ed="#C" n="27"/>ralibus natura humana divinae naturae, &amp; virtus supra con 
+      <lb ed="#C" n="28"/>suetudine operatur. mfra de celeb. miss. cum Marthae. §quaes 
+      <lb ed="#C" n="29"/>visti. hoc est quod sup. tetigi in lec. vers. est autem ipsa nec enin 
+      <lb ed="#C" n="30"/>inter creatorem &amp; creaturam tanta potest esse similitudi 
+      <lb ed="#C" n="31"/>notari, quin major sit dissimilitudo notanda, sup. de summ 
+      <lb ed="#C" n="32"/>trin damnamus, §. cum ergo veritas. Secundo opponitur col 
+      <lb ed="#C" n="33"/>tra illud quod dixi in illo verm inedio, sup. in elec. illud enin 
+      <lb ed="#C" n="34"/>minus convenienter dictum videtur, cum inter genitum 
+      <lb ed="#C" n="35"/>&amp; procedentem non sit aliquod medium, nec secunrem 
+      <lb ed="#C" n="36"/>nec secundum intellectum. Huic respond. Non ego ide¬ 
+      <lb ed="#C" n="37"/>haec depinxi, sed ut ostendam distinctionem personarum 
+      <lb ed="#C" n="38"/>quia quamvis unum sint in essentia, nec inter ipsos sit ali 
+      <lb ed="#C" n="39"/>quod medium, tamen certum est, quod alius est Pater, ali 
+      <lb ed="#C" n="40"/>us Filius, alius Spiritus S. non dico aliud ergo non pons 
+      <lb ed="#C" n="41"/>tur cellula ad denotandum medium inter procedenten 
+      <lb ed="#C" n="42"/>&amp; genitum, sicut opponitur, sed ad designandum, quo¬ 
+      <lb ed="#C" n="43"/>qui trinitatem &amp; unitatem firmiter credit, &amp; simpliciter confi 
+      <lb ed="#C" n="44"/>tetur, gratia divina in praesenti repletur, &amp; fruetur glori¬ 
+      <lb ed="#C" n="45"/>in futuro. Tertio opponitur contra id quod dixi sup in le 
+      <lb ed="#C" n="46"/>vers. sed &amp; quaedam linea, &amp; seq ubi innuitur, quod in Trini 
+      <lb ed="#C" n="47"/>tate aliquid ponatur prius, aliquid posterius, sed secundi 
+      <lb ed="#C" n="48"/>Symb. Athanasii intrinitate nihil prius aut posterius, ni 
+      <lb ed="#C" n="49"/>hil, &amp;c. Respondeo, non pono aliquid tanquam prius au 
+      <lb ed="#C" n="50"/>posterius, imo intelligitur quod semper sic fuit, semper si¬ 
+      <lb ed="#C" n="51"/>erit. &amp; haec possunt potius mente percipi, quam occulat 
+      <lb ed="#C" n="52"/>fide videri. volve ergo arborem, &amp; videbis posterius, quo¬ 
+      <lb ed="#C" n="53"/>antea erat prius, &amp; econtra. tu tamen quicquid volvatui 
+      <lb ed="#C" n="54"/>semper intellige nihil prius, nihil posterius, sicut in lect 
+      <lb ed="#C" n="55"/>arboris plenius elucescit, sed &amp; potest dici aliquid prius 
+      <lb ed="#C" n="56"/>posterius, respectu divinitatis aeternae, scil. sine principio 
+      <lb ed="#C" n="57"/>&amp; sine fine, &amp; humanitatis de novo assumptae in utero vii 
+      <lb ed="#C" n="58"/>ginali. Visa lectione ordinationis arboris circa lineas vi 
+      <lb ed="#C" n="59"/>deamus de cellulis sigillatim. Et sciendum, quod ibi po 
+      <lb ed="#C" n="60"/>nuntur 11. cellulae ex parte una, &amp; 5. ex parte altera 
+      <lb ed="#C" n="61"/>TN prima cellula de 11 ita scribitur, Deus unum princi 
+      <lb ed="#C" n="62"/>piumomnium visibilium &amp; invisibilium, corporaliun 
+      <lb ed="#C" n="63"/>&amp; incorporalium, &amp; sine principio, &amp; sine fine. Hoc est con 
+      <lb ed="#C" n="64"/>tra Cerdonianos, qui ponunt duo principia contraria, sci 
+      <lb ed="#C" n="65"/>licet unum bonum &amp; unum malum, 33. q. sin §. sin. vers. Cen 
+      <lb ed="#C" n="66"/>donian. Sed falsum est, quia unum est tantum principium 
+      <lb ed="#C" n="67"/>supra de sum. trin.c. 1. a quo processit sacerdotium &amp; impe 
+      <lb ed="#C" n="68"/>rium. in auth. quomodo oportet episcopos. respon.i. in princ. coll. 
+      <lb ed="#C" n="69"/>unde Joan. c. I. In principio erat verbum, &amp;c. in Genes. c. L.II 
+      <lb ed="#C" n="70"/>principio creavit Deus coelum &amp; terram. I. Cor. 11. Omni 
+      <lb ed="#C" n="71"/>ex Deo 
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e988">
+               <lb ed="#C" n="72"/>IN secunda cellula ita scribitur, Matrimonium Adae &amp; 
+      <lb ed="#C" n="73"/>Evae in paradiso contractum. Hoc est unum de sacra 
+      <lb ed="#C" n="74"/>mentis ecclesiae, quod est majus &amp; dignius aliis, quo ad si 
+      <lb ed="#C" n="75"/>gnificationem. cum enim omnia alsa sacramenta praece 
+      <lb ed="#C" n="76"/>dat, merito aliqua sequentia per ipsum habent significari 
+      <lb ed="#C" n="77"/>non econtra. Hoc enim quod non est, significare non po 
+      <lb ed="#C" n="78"/>test. &amp; primo quaerenda est persona, quam ratio ff. dejur 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0127.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>codici. quidam referunt. Nota igitur, quod hoc sacramentm 
+      <lb ed="#C" n="80"/>in magna veneratione haberi debet, tum ratione autor is 
+      <lb ed="#C" n="81"/>qui ipsum instituit, scil. Dei, tum ratione loci in quo insti¬ 
+      <lb ed="#C" n="82"/>tutum est, quia in paradiso: a tum ratione temporis, quia 
+      <lb ed="#C" n="83"/>tempore innocentiae: tum ratione prioritatis, quia priu¬ 
+      <lb ed="#C" n="84"/>est tempore: &amp; ideo dici potest, quod potius est jure. inf. d¬ 
+      <lb ed="#C" n="85"/>ma. &amp; obe.c. i. tum ratione peccati evitandi, &amp; suscipiendae 
+      <lb ed="#C" n="86"/>prolis, &amp; propositi unitatis. de quibus dic, ut not. inf. de spon 
+      <lb ed="#C" n="87"/>sub secunda parte rub. scil. de matrimoniis §. quid sit matrimoni um 
+      <lb ed="#C" n="88"/>&amp; S. qualiter contrahatur. Ex hoc ergo videbis apertam cau 
+      <lb ed="#C" n="89"/>sam, quare bigamus non possit promoveri. Et ut hoc me 
+      <lb ed="#C" n="90"/>lius videas, scire debes, quod matrimonium istud, scilicet 
+      <lb ed="#C" n="91"/>Adae &amp; Evae, fuit initiatum Gene 2. ibi, Et misit Deus sopo 
+      <lb ed="#C" n="92"/>rem in Adam, &amp;c. Contractum, Gen. 2. ibi, Hoc nunc os es 
+      <lb ed="#C" n="93"/>ossibus meis, &amp;c. a Ratificatum, Gen. 2. ibi. Propter hoc re¬ 
+      <lb ed="#C" n="94"/>linquet homo, &amp;c. Consummatum, Gen 3. ibi, Adam vero 
+      <lb ed="#C" n="95"/>cognovit uxorem suam, &amp;c. Sic &amp;t matrimonium carna 
+      <lb ed="#C" n="96"/>le, de quo hîc habes, inter Christianos dicitur. Initiatum per 
+      <lb ed="#C" n="97"/>verba de futuro, sc. per sponialia, f. de spons.l.i. 30. q. 5. nostra 
+      <lb ed="#C" n="98"/>tes. Contractum per verba de praesenti, 27. 42. §. 1. 1nf. de spon 
+      <lb ed="#C" n="99"/>cum locum. Ratum quando per ecclesiam approbatur, 304 
+      <lb ed="#C" n="100"/>5.c.1.&amp; 2. &amp; c. spon sus per totum, inf. de cland. despon Cum inhibi 
+      <lb ed="#C" n="101"/>tio. Inter infideles ratum non habetur, quia non habent sa 
+      <lb ed="#C" n="102"/>cerdotium. supra de const. transla. Vel verius dic, quod rati 
+      <lb ed="#C" n="103"/>ficatur in sacramento fidei, sc. baptismo, quod est funda 
+      <lb ed="#C" n="104"/>mentum omnium sacramentorum, quo ad hanc ratifica 
+      <lb ed="#C" n="105"/>tionem: ut probatur, infra de presbyt. non bap. veniens, respon¬ 
+      <lb ed="#C" n="106"/>mf de divort. quanto. §. si pero alter fidelium. Ideo inter fideles 
+      <lb ed="#C" n="107"/>respuitur libellus repudii, qui inter infideles admittitur 
+      <lb ed="#C" n="108"/>ut innuit Aug 28. q 15. sin. Et vide super hoc quod not. ins 
+      <lb ed="#C" n="109"/>de spon. sub rub. de mat. ad fin. Consummatum per carnis co 
+      <lb ed="#C" n="110"/>pulam, inf. de conjug. ex publico. ad fin. &amp; c. ex parte 2. ad sin. per 
+      <lb ed="#C" n="111"/>quam una caro fiunt, &amp; uniuntur inseparabiliter, quam 
+      <lb ed="#C" n="112"/>diu vixerint: ita quod licet in veritate duo sint corpora 
+      <lb ed="#C" n="113"/>unum tamen corpus censetur, infra de conper. conjug. a 
+      <lb ed="#C" n="114"/>Apostolicam 
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1088">
+               <lb ed="#C" n="115"/>IN tertia cellula sic scribitur: Matrimonium inter Deun 
+      <lb ed="#C" n="116"/>&amp; B. Mariam virginem. Quamvis enim quaelibet anima 
+      <lb ed="#C" n="117"/>sponsa Dei dicatur, tamen specialiter gloriosa virgo spon 
+      <lb ed="#C" n="118"/>sa Dei intelligitur. unde in Cantic. c. 1. Ecce tu pulchra e 
+      <lb ed="#C" n="119"/>amica mea, &amp; macula non est in te. Et iterum, Veni de Li 
+      <lb ed="#C" n="120"/>bano sponsa mea, &amp;c. Et iterum, Hortus conclusus, foni 
+      <lb ed="#C" n="121"/>signatus. &amp; c. 6. Quae est ista quae progreditur quasi auro 
+      <lb ed="#C" n="122"/>ra consurgens, &amp;c. de hoc matrimonio legitur. 28. 92. §. 1 
+      <lb ed="#C" n="123"/>&amp; 2. &amp; §. etre. &amp; seq. Istud matrimonium potest dici instia 
+      <lb ed="#C" n="124"/>tum, Luc. i. ibi, Missus est Gabriel Angelus, &amp;c. Contra 
+      <lb ed="#C" n="125"/>ctum eodem, ibi. Invenisti gratiam apud Dominum: ecce 
+      <lb ed="#C" n="126"/>concipies &amp; paries filium. &amp;c. Ratificatum eodem: Spiri 
+      <lb ed="#C" n="127"/>tus sanctus superveniet in te. Consummatum eodem: Ecc¬ 
+      <lb ed="#C" n="128"/>ancilla Domini, &amp;c. Et hoc sequitur matrimonium divi 
+      <lb ed="#C" n="129"/>nae &amp; humanae naturae in utero gloriosae virginis Maris 
+      <lb ed="#C" n="130"/>ineffabiliter contractum: &amp; indissolubiliter, seu irreitera 
+      <lb ed="#C" n="131"/>biliter uniens naturas. de quo in Psal. Operatus est saluti 
+      <lb ed="#C" n="132"/>in medio terrae. Item, Suscepimus Deus misericordiam 
+      <lb ed="#C" n="133"/>tuam in medio temp li tui. hoc potest dici initiatum. Esa.7 
+      <lb ed="#C" n="134"/>Ecce virgo concipiet, &amp; pariet filium, &amp;c. Et Hiere. 31. No 
+      <lb ed="#C" n="135"/>vum faciet Dominus super terram: mulier circundabi 
+      <lb ed="#C" n="136"/>virum. &amp; per verba aliorum Prophetarum qui dixerum 
+      <lb ed="#C" n="137"/>aperte, Filum Dei humanam naturam assumpturum: haec 
+      <lb ed="#C" n="138"/>enim fuerunt verba de futuro, per quae diximus matri 
+      <lb ed="#C" n="139"/>monium initiari debere supra in prima cellula, vers. initi 
+      <lb ed="#C" n="140"/>atum. Contractum per verba Gabrielis, dicentis, Luc. I. Avv 
+      <lb ed="#C" n="141"/>gratia plena, Dominus tecum: &amp; per resposionem virginis 
+      <lb ed="#C" n="142"/>dicentis: Fiat mihi secundum verbum tuum. sic enim pe 
+      <lb ed="#C" n="143"/>mutuum consensum contrahitur matrimonium, ut not 
+      <lb ed="#C" n="144"/>sup. in prima cellula. ver. contractum, &amp; per unicum contra 
+      <lb ed="#C" n="145"/>hi potest, 22 9. 2. honorantur, infr. de conver.conju. ex parte2.re 
+      <lb ed="#C" n="146"/>spon. I. ibi mediantibus internuntiis per verba de praesenti 
+      <lb ed="#C" n="147"/>&amp;c ff de spon. sufficit. &amp; l. in sponsalib. nihil interest. &amp; I in. quo 
+      <lb ed="#C" n="148"/>dic, ut no. inf. de spon. §. qualiter contrahantur. vers.I. &amp; seq. Ra 
+      <lb ed="#C" n="149"/>tum divina autoritate &amp; voluntate. tantum enim matrimo 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="150"/>ADDITIONES 
+      <lb ed="#C" n="151"/>a Quia in Paradiso) Addec. sicut non omnia. in §. his iia. 31. q. 2. glo 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>summae. 17. q.1. &amp; in c.I. de voto. lib. 6. or ginaliter. Gen. 2.c 
+      <lb ed="#C" n="153"/>b Nunc os ex ossibus meis) Adde gloan §. Adam. de pon.dist. 2. &amp; 
+    </p>
+    <p>
+      <lb ed="#C" n="154"/>gloo cag sin defrigid--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0128.xml-->
+      <pb ed="#C" n="111"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>nium alterius voluntate &amp; authoritate rati icari non po 
+      <lb ed="#C" n="2"/>tuisset: unde ad Galat 4. Misit Deus filium suum factue 
+      <lb ed="#C" n="3"/>muliere, factum sub lege. Consummatum in incarnatio 
+      <lb ed="#C" n="4"/>ne, nam sine aliqua corruptione, Spiritu sar cto operante 
+      <lb ed="#C" n="5"/>Verbum caro factum est, Joan. 1. &amp; Luc.i. ibi, Spiritus sar 
+      <lb ed="#C" n="6"/>ctus superveniet in te, &amp;c. sed in hac consummatione tot. 
+      <lb ed="#C" n="7"/>Trinitas operata est, quia indivisa sunt opera Trinitatis 
+      <lb ed="#C" n="8"/>sic intellige. supra de sum. trin. c. 1. Patet ex praedictis, quo 
+      <lb ed="#C" n="9"/>Deus sponsam humanam habuit incorruptam, unican 
+      <lb ed="#C" n="10"/>&amp; virginem, scil. ante partum, &amp; in partu, &amp; post partum 
+      <lb ed="#C" n="11"/>scilbeatam &amp; gloriosam Mariam: ex qua &amp; in qua hum¬ 
+      <lb ed="#C" n="12"/>nam carnem puram &amp; immaculatam assumpsit, &amp; utram 
+      <lb ed="#C" n="13"/>que naturam divinam scilic. &amp; humanam ineffabiliter &amp; 
+      <lb ed="#C" n="14"/>irreiterabiliter simul univit: sed &amp; sponsam duxit, etian 
+      <lb ed="#C" n="15"/>spiritualem immaculatam &amp; virginem. unde sequitur
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1207">
+               <lb ed="#C" n="16"/>IN quarta cellula, in qua sic scriptum est, Matrimoniun 
+      <lb ed="#C" n="17"/>Jesu filii Dei vivi &amp; ecclesiae. Potest autem dici hoc fuis 
+      <lb ed="#C" n="18"/>se initiatum in consummatione praecedentis, vel in partu 
+      <lb ed="#C" n="19"/>Contractum, in praedicatione. Ratum, in divina author 
+      <lb ed="#C" n="20"/>tate. Consummatum in passione, in qua, &amp; per quamri 
+      <lb ed="#C" n="21"/>dempti sumus. Vel dic, quod fuit initiatum. Matih. 3. ibi 
+      <lb ed="#C" n="22"/>Exinde coepit Jesum praedicare &amp; dicere. Poenitentiam? 
+      <lb ed="#C" n="23"/>gite, &amp;c. Contractum, Matth. 27. ibi, Et manducantibus il 
+      <lb ed="#C" n="24"/>lis, accepit Jesus panem, &amp; benedicens, fregit, &amp; dedit i 
+      <lb ed="#C" n="25"/>lis, &amp; ait, Sumite, hoc est corpus meum, &amp;c. Et Cantic. 4 
+      <lb ed="#C" n="26"/>Dilectus meus mihi, &amp; ego illi. Ratum, Act. 2. Factus ess 
+      <lb ed="#C" n="27"/>repente de coelo sonus, &amp;c. Et ad Roman. 8. Ipse enim Spi 
+      <lb ed="#C" n="28"/>ritus testimonium reddit spiritui nostro, quod sumus Fi 
+      <lb ed="#C" n="29"/>lii Dei: si autem filii, &amp; haeredes, &amp;c. Consummatum pos 
+      <lb ed="#C" n="30"/>publicationem Evangelii, ad Galat. 4. Ejice ancillam &amp; fi 
+      <lb ed="#C" n="31"/>lium ejus. haec est igitur fides catholica, &amp;c. &amp; vide quo 
+      <lb ed="#C" n="32"/>not. supra eod. versic. exhis ergo procedit ratio. &amp; sic vi 
+      <lb ed="#C" n="33"/>des, quod Deus habet sponsam unicam &amp; virginem, u 
+      <lb ed="#C" n="34"/>dixi supra versic. patet ex praedictis. duxit &amp; sponsam spi 
+      <lb ed="#C" n="35"/>ritualem, scilicet ecclesiam, sive fidem catholicam, scilice 
+      <lb ed="#C" n="36"/>unicam, &amp; virginem perfectam &amp; immaculatam. und 
+      <lb ed="#C" n="37"/>Cant. 6. Vna est columba mea perfecta mea. de hac 7. q. 1 
+      <lb ed="#C" n="38"/>Novatianus. Igitur plane &amp; plene liquere potest, quare bi 
+      <lb ed="#C" n="39"/>gamus non promovetur: quia nullus potest desponsari¬ 
+      <lb ed="#C" n="40"/>ecclesiam msi sit similis sponso suo. accedat ergo conjuga 
+      <lb ed="#C" n="41"/>tus volens desponsare ecclesiam, quam desponsat sace 
+      <lb ed="#C" n="42"/>dos, ut not. infra versic. contractum. &amp; sequent. in 7. cellul 
+      <lb ed="#C" n="43"/>dicere potest episcopus, Vis desponsare ecclesiam, id est 
+      <lb ed="#C" n="44"/>vis ad ordines promoveri? Responsio laici. Volo. Inter 
+      <lb ed="#C" n="45"/>rogatio episcopi, Es tu bigamus? id est, duxisti duas uxc 
+      <lb ed="#C" n="46"/>res successive? Responsio laici, Duxi. Determinatio ep 
+      <lb ed="#C" n="47"/>scopi, Repellendus es, etiam si unicam &amp; corruptam uxc 
+      <lb ed="#C" n="48"/>rem carnalem duxisses. nam Deus sponsus ecclesiae no 
+      <lb ed="#C" n="49"/>habuit nisi unicam humanam &amp; virginem: nec divisit ver 
+      <lb ed="#C" n="50"/>bum incarnatum in plures, ut not. supra eod. versi. quam 
+      <lb ed="#C" n="51"/>vis. &amp; versic. ex hoc sequitur in tertia cellula, ut patet. t 
+      <lb ed="#C" n="52"/>vero duxisti duas carnales, vel unam corruptam, ergo ec 
+      <lb ed="#C" n="53"/>clesia respicit sponsalia tua, quia non es similis sponso su¬ 
+      <lb ed="#C" n="54"/>in unitate, &amp; virginitate sacramenti, quod est inter ipsun 
+      <lb ed="#C" n="55"/>&amp; beatam Mariam, sive inter divinam &amp; humanam natu 
+      <lb ed="#C" n="56"/>ram, quia invenitur sponsus unus unius virginis, vel in 
+      <lb ed="#C" n="57"/>corruptae tu vero es sponsus unus duarum, vel unius cor 
+      <lb ed="#C" n="58"/>ruptae. contraria igitur contrariis displicent, sed similia si 
+      <lb ed="#C" n="59"/>milibus gaudent, argum. supra de elect transmissa. 13dist. ne 
+      <lb ed="#C" n="60"/>vt. infra ae appell. solicitudinem. &amp; de bapi majores. §. sed adhu 
+      <lb ed="#C" n="61"/>quaeritur. secundum hoc potest intelligi quod not. supr 
+      <lb ed="#C" n="62"/>cod. §. quare bigamus. respons. 1. 26. dist. acutius. Item potest do 
+      <lb ed="#C" n="63"/>cere praelatus, tu fuisti divisus in carnalitate, ideo timer 
+      <lb ed="#C" n="64"/>dum est ecclesiae, ne moveres schisma, &amp; divisionem in spi 
+      <lb ed="#C" n="65"/>titualitate, unde cum sacerdotes constituantur, ut per pra 
+      <lb ed="#C" n="66"/>dicationem animas sibi commissas in unitate charitatis 
+      <lb ed="#C" n="67"/>&amp; pacis, &amp; fidei simul colligant &amp; teneant, &amp; Deo sic uni 
+      <lb ed="#C" n="68"/>tas offerant, non esse bonus sacerdos, qui divisionem ve 
+      <lb ed="#C" n="69"/>luisti, nec tu qui corruptionem, quia praesumi potest, quo 
+      <lb ed="#C" n="70"/>sicut voluntas tua divisa, vel corrupta fuit in carnali com 
+      <lb ed="#C" n="71"/>mercio, ita &amp; praedicatio tua schismatica vel corruptibilis 
+      <lb ed="#C" n="72"/>esset: &amp; quod potius quaereres quae tua sunt, quam qua 
+      <lb ed="#C" n="73"/>Jesu Christi, ideo promoveri non potes, ad hoc, inf. de een 
+      <lb ed="#C" n="74"/>sib. cum Apostolus. §. i. &amp;c. procurationes. §. fin. 63. dist. nosse. inj 
+      <lb ed="#C" n="75"/>de offic. ord. inter caetera. ergo propter defectum sacrament 
+      <lb ed="#C" n="76"/>unitatis &amp; virginitatis, in matrimonio carnali, quod con 
+      <lb ed="#C" n="77"/>traxit bigamus contrahendo matrimonium, a promotio 
+      <lb ed="#C" n="78"/>ne ordinum arcetur. unde in epist. Cyprian. mart. nec ha 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0128.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>beat ecclesiasticam ordinationem, qui ecclesiae non tenei 
+      <lb ed="#C" n="80"/>unitatem, quisquis ille fuerit, scilic. qui unitatem non ser 
+      <lb ed="#C" n="81"/>vaverit, licet de se multum jactans, &amp; plurimum sibi ven 
+      <lb ed="#C" n="82"/>dicans prophanus est, alienus est, foris est, &amp; cum post pri 
+      <lb ed="#C" n="83"/>mum esse non possit, quisquis post unum qui solus esse 
+      <lb ed="#C" n="84"/>debet, factus jam non secundus, sed nullus est. 7. 4. 1. factu 
+      <lb ed="#C" n="85"/>est. Licet autem ibi loquatur de illo, qui occupavit seden 
+      <lb ed="#C" n="86"/>viventis, tamen ad unitatem, de qua hic loquimur trah 
+      <lb ed="#C" n="87"/>potest, &amp; de hac unitate expressum habes, 26 dist. acutius 
+      <lb ed="#C" n="88"/>&amp; c. una. &amp; arg. ad hoc quod dixi de praesumptione corruptionis 
+      <lb ed="#C" n="89"/>82. dist. proposuisti. supra de fil. presby. literas. &amp; vide quod not 
+      <lb ed="#C" n="90"/>infra in i. cellula. vers. potest ergo. 
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1376">
+               <lb ed="#C" n="91"/>IN quinta cellula sic scribitur, Matrimonium Petri, &amp; 
+      <lb ed="#C" n="92"/>sacerdotii, sive ecclesiae. Initiatum fuit hoc Matth. 16vbi 
+      <lb ed="#C" n="93"/>Tu es Petrus a, &amp; super hanc petram aedificabo ecclesiam 
+      <lb ed="#C" n="94"/>meam, &amp; dabo tibi claves, &amp;c. haec enim fuerunt verba de 
+      <lb ed="#C" n="95"/>futuro, &amp; de hoc 2i. dist. in novo. §. contractum. Act. 1. Veni 
+      <lb ed="#C" n="96"/>entibus illis, &amp;c. vel dic contractum per illa verba, Pasc 
+      <lb ed="#C" n="97"/>oves meas, sup. de elect. significasti. haec enim fuerunt verba 
+      <lb ed="#C" n="98"/>de praesenti. &amp; de hoc sup. detranslat. etiam. in c. 1. Ratum 
+      <lb ed="#C" n="99"/>quando intronizatus est Antiochiae, vel dic, quod ratum 
+      <lb ed="#C" n="100"/>est divina authoritate: ideo dicit Papa, qui successo¬ 
+      <lb ed="#C" n="101"/>est Petri, quod non humanae constitutioni innititur, sec 
+      <lb ed="#C" n="102"/>divirae: quia ejus potestas non est ex homine, sed ex Deo 
+      <lb ed="#C" n="103"/>infra de jud. novit. §.1. &amp; idemo dicitur, Navicula Petri fluctu 
+      <lb ed="#C" n="104"/>are potest, mergi non potest: unde versus 
+      <lb ed="#C" n="105"/>
+               <quote xml:id="nbht7y-d1e283-Qd1e1410">Fluctuat, &amp; nunquam vergitur illa ratis</quote>
+               <lb ed="#C" n="106"/>&amp; forte ratum est per illa verba, Matth. 28. Dicite discipuli 
+      <lb ed="#C" n="107"/>ejus, &amp; Petro, &amp;c. Consummatum quando cathedratur 
+      <lb ed="#C" n="108"/>Romae est: vel forte quando Dominus interrogatus fui 
+      <lb ed="#C" n="109"/>a Petro, Domine, quo vadis? Respondit Dominus, Veni 
+      <lb ed="#C" n="110"/>Romam iterum crucifigi, scil. in te. quod intelligens Pe 
+      <lb ed="#C" n="111"/>trus pro se dictum, scil. ut ipse Petrus ibi crucifigeretur: &amp; 
+      <lb ed="#C" n="112"/>sic per consequens Christus. 3. q. 1. nulli. in fin &amp; sic matri¬ 
+      <lb ed="#C" n="113"/>monium quod jam contraxerat, confirmaretur, ad locun 
+      <lb ed="#C" n="114"/>ipsum Romam protinus est reversus, inf qui fil sint legit pe 
+      <lb ed="#C" n="115"/>venerabilem. §. rationibus. vers sane. cum Deuteron. &amp; ibi cru 
+      <lb ed="#C" n="116"/>cifixus est: &amp; sic consummatum est matrimonium Petri 
+      <lb ed="#C" n="117"/>&amp; Apostolatus, quo ad successores, &amp; quo ad locum. 2. 47 
+      <lb ed="#C" n="118"/>B. Petrus &amp; Paulus. &amp;c. puto. 21. dist. quamvis. 22. dist. c. 1
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1441">
+               <lb ed="#C" n="119"/>IN sexta cellula ita scriptum est, Matrimonium episcop 
+      <lb ed="#C" n="120"/>&amp; ecclesiae. Initiatum potest dici, quando eligitur, Heb¬ 
+      <lb ed="#C" n="121"/>Nemo sibi assumat honorem, &amp;c. Contractum confirma 
+      <lb ed="#C" n="122"/>tur, sup. de translat. episcopi inter corporalia §. sicut autem. ime 
+      <lb ed="#C" n="123"/>est contractum per mutuum consensum eligentium &amp; e 
+      <lb ed="#C" n="124"/>lecti. sup. de elect, cum inter canonicos. §. 2. Ratum, quando ac 
+      <lb ed="#C" n="125"/>obedientiam suscipitur, argum. inf. dejurejur. ergo. imo dic 
+      <lb ed="#C" n="126"/>quod in confirmatione ratificatur. Consummatum, cun 
+      <lb ed="#C" n="127"/>consecratur, ut haec probantur. supra de transl. episcopi. licet 
+      <lb ed="#C" n="128"/>quod dic, ut not. in summa ipsius tit. §. cujus authoritate. ver 
+      <lb ed="#C" n="129"/>perum cum matrimonium &amp; seq.
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1468">
+               <lb ed="#C" n="130"/>IN septima cellula sic scribitur, Matrimonium sacerdo 
+      <lb ed="#C" n="131"/>tis &amp; ecclesiae. Initiatum intelligitur, quando ordinatur 
+      <lb ed="#C" n="132"/>quod intelligas, dum ad minores ordines promovetur 
+      <lb ed="#C" n="133"/>Cum enim tonsuratur in sortem Domini assumitur. inf. di 
+      <lb ed="#C" n="134"/>praeb. cum secundum Apostolum. &amp; datur species matrimoni 
+      <lb ed="#C" n="135"/>hujusmodi contrahendi. verum non est ligatus. unde po 
+      <lb ed="#C" n="136"/>test pedem retrahere. Inf. de cler. conjug. cum so. Contractum, 
+      <lb ed="#C" n="137"/>quando cura sibi committitur. imo dic, contrahitur, quam 
+      <lb ed="#C" n="138"/>do ad sacros ordines promovetur. unde de caetero resilire 
+      <lb ed="#C" n="139"/>non potest supr de aetat. &amp; qual. a multis, inf decler. conjug. e.1 
+      <lb ed="#C" n="140"/>&amp; 2. aequiparatur ergo consensui de praesenti. infr. de spon 
+      <lb ed="#C" n="141"/>duo. c fi. Ratificatum, quando ab eo obedientia suscipitur 
+      <lb ed="#C" n="142"/>imo quando per episcopum cuipraesentatus est, approbatur 
+      <lb ed="#C" n="143"/>&amp; in matricula scribitur. 23. dist. quando. vel in sacramente 
+      <lb ed="#C" n="144"/>fidei, sicut dixi sup. in 2. cellula. vers. ratum. Consummatum 
+      <lb ed="#C" n="145"/>quando in possessionem mitt. imo dice quod in presbyteri 
+      <lb ed="#C" n="146"/>promovetur, sup de sum. tri c. 1§ pen sup de sacra unct c. unico 
+      <lb ed="#C" n="147"/>§quia vero Christus. vers. per frontis chrismationem. unde de cae 
+      <lb ed="#C" n="148"/>tero potest per exhibitionem sacramentorum ecclesiae spi 
+      <lb ed="#C" n="149"/>rituales filios generare, ut patet in concord. proxi. alleae 
+      <lb ed="#C" n="150"/>Hoc quo ad matrimonium contractum inter sacerdoren 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="151"/>ADDITIO 
+      <lb ed="#C" n="152"/>4 Tu es Petrus) Addetex. inc praeceptis. 12. dist. c. Petrus. 2. q. 7. c. lo¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="153"/>quitur. 24. q. I.c. quamvis. 21. disi--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0129.xml-->
+      <pb ed="#C" n="112"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>&amp; ecclesiam generalem. Sed quo ad ecclesiam particula 
+      <lb ed="#C" n="2"/>rem, dico quod initiatur, quando a persona ecclesiastici 
+      <lb ed="#C" n="3"/>eligitur sive repraesentatur. infra defur. pat. quod autem. pe 
+      <lb ed="#C" n="4"/>assensum vero huic repraesentationi praestitum contrahi 
+      <lb ed="#C" n="5"/>tur, quando praelatus ipsum admittit &amp; confirmat, ratifi 
+      <lb ed="#C" n="6"/>catur: quando curam committit, consummatur. arg inf.d 
+      <lb ed="#C" n="7"/>inst. ex frequentib. &amp; in his quae no. sup. in 7. cellula, &amp; de ho 
+      <lb ed="#C" n="8"/>matrimonio legitur 40. dist sicut. 21. q4. 2 sicut in unaquaque &amp; di 
+      <lb ed="#C" n="9"/>cit decret. quod sicut episcopus praeest matrici, id est, ca 
+      <lb ed="#C" n="10"/>thedrali ecclesiae, sic archipresbyter plebi suae. infra de offi¬ 
+      <lb ed="#C" n="11"/>archiepisc. c. 1. ad fin.
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1549">
+               <lb ed="#C" n="12"/>In 3 cellula, ad quam protenditur linea una, quae a 7. 
+      cel<lb ed="#C" n="13" break="no"/>lula procedit: &amp; alia quae procedit a 4. sic scribitur: 
+      Ma<lb ed="#C" n="14" break="no"/>trimonium baptismi &amp; fidelis animae. Initiatum videtu 
+      <lb ed="#C" n="15"/>hoc Mauh. 3. ibi, Baptizatus autem Jesus confestim ascen 
+      <lb ed="#C" n="16"/>dit de aqua, &amp;c. &amp; ecce vox de coelis, dicens, Hic est filiu 
+      <lb ed="#C" n="17"/>a meus dilectus a, in quo mihi complacui. sup. de sacra unct 
+      <lb ed="#C" n="18"/>c.i. §. quia pero. vers.cujus adventus. Contractum. Mat. h. ul ibi 
+      <lb ed="#C" n="19"/>Qui crediderit, &amp; baptizatus fuerit, salvus erit. Ratificati 
+      <lb ed="#C" n="20"/>in passione, ad Ro. 6. Consepulti enim sumus cum illo pe 
+      <lb ed="#C" n="21"/>baptismum in mortem, ut quomodo surrexit Christus 
+      <lb ed="#C" n="22"/>mortuis per gloriam patris, ita &amp; nos in novitate vitae am 
+      <lb ed="#C" n="23"/>bulemus, &amp;c. Item, quia tunc exivit de latere ejus sangui 
+      <lb ed="#C" n="24"/>b &amp; aqua. 8Jom. 19. inf. de celeb. mis. in quadam per sacramenti 
+      <lb ed="#C" n="25"/>autem baptismi Christi sanguine rubricati culpa remitti 
+      <lb ed="#C" n="26"/>tur, inf. de bapt. majo. §. caute. Consummatum post promul 
+      <lb ed="#C" n="27"/>gationem i vangelii, ad Gal 5. Si circuncidimini, Christu 
+      <lb ed="#C" n="28"/>nil vobis pro dest. hoc intelligi potest de baptismo in gene 
+      <lb ed="#C" n="29"/>re, sive de baptismo secundi Adae, id est, filii Dei, ut sicul 
+      <lb ed="#C" n="30"/>matrimonium primum carnale in persona primi Adae con 
+      <lb ed="#C" n="31"/>tractum fuit, ut dixi supr. eo. in 2. cellula. sic in persona s¬ 
+      <lb ed="#C" n="32"/>cundi Adaebaptismus Spiritus sancti primo fuit institu 
+      <lb ed="#C" n="33"/>tus: &amp; sicut ad exemplum primi matrimonsi carnalis in 
+      <lb ed="#C" n="34"/>ter homines &amp; mulieres, tota die matrimonium carnal¬ 
+      <lb ed="#C" n="35"/>contrahitur: sic ad exemplum baptismi Christi omnes ba 
+      <lb ed="#C" n="36"/>ptizari debemus, ut sic quaelibet anima vocari mereatu 
+      <lb ed="#C" n="37"/>sponsa Dei. hoc igitur intelligo. Initiatum in Catechimo 
+      <lb ed="#C" n="38"/>argu. de cons.dist. 4. Catechumenum, vel per verba sacerdotis 
+      <lb ed="#C" n="39"/>dicentis, vis baptizari? &amp; patrini respondentis, Volo: hae¬ 
+      <lb ed="#C" n="40"/>enim sunt verba de futuro, Contractum per verba 
+      sacri<lb ed="#C" n="41" break="no"/>dotis dicentis, Petre, ego baptizo te in nomine Patris, e8 
+      <lb ed="#C" n="42"/>Filii, &amp; Spiritus sancti. de quo dic, ut no. inf. de bapt prodes 
+      <lb ed="#C" n="43"/>autem consensus patrini filio spirituali. de cons. dist. 4. illu 
+      <lb ed="#C" n="44"/>perscrutari. Ratum Spiritu sancto operante. inf. de bapt debi 
+      <lb ed="#C" n="45"/>tum. §. in baptismo quippe. Consummatum per chrismati 
+      <lb ed="#C" n="46"/>unctionem in capite. supra de sacr. unct. c. unico. §. quia vero 
+      <lb ed="#C" n="47"/>vers. in vertice. de cons. dist. 4 postquam
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1630">
+               <lb ed="#C" n="48"/>IN cellula 9. ita scriptum est Matrimonium Dei &amp; fide 
+      <lb ed="#C" n="49"/>lis animae. Initiatum in creatione 56 dist. nasci. Aug. Do 
+      <lb ed="#C" n="50"/>mine fecisti nos ad te. Contractum in baptismo. Ore. 
+      <lb ed="#C" n="51"/>Sponsabo te mihi in fide. Ratum in sancta operatione t. 
+      <lb ed="#C" n="52"/>lis enim anima firmatur cum Deo. Psal. Qui facit haec, nor 
+      <lb ed="#C" n="53"/>movebitur in aeternum. vel dic, quod ratificatur in Dei¬ 
+      <lb ed="#C" n="54"/>lectione. 1. Cor. 6. qui adhaeret Deo, unus spiritus est cun 
+      <lb ed="#C" n="55"/>eo. infra eod. debitum. Consummatum in gloriae adeptione 
+      <lb ed="#C" n="56"/>Cant 3. Tenui eum, nec dimittam. Jac.i. Beatus virqui sus 
+      <lb ed="#C" n="57"/>fert tentationem, quoniam cum probatus fuerit, &amp;c. ve 
+      <lb ed="#C" n="58"/>dic, quod consummatur, quando ab aerumnis hujus secu 
+      <lb ed="#C" n="59"/>li perfecta poenitentia, vel sine mortali peccato, domini¬ 
+      <lb ed="#C" n="60"/>vocante subtrahitur. 21. q. 6. si preshyter
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1661">
+               <lb ed="#C" n="61"/>IN 10. cellula sic scriptum est. Matrimonium bonae ope 
+      <lb ed="#C" n="62"/>rationis, &amp; fidelis animae. Initiatum in gratiae praeven 
+      <lb ed="#C" n="63"/>tione, Psal. Praevenisti eum in benedictionibus dulcedi 
+      <lb ed="#C" n="64"/>nis. Contractum in praevenientis gratiae receptione, sivt 
+      <lb ed="#C" n="65"/>in assensu liberi arbitrii. Psalin. Tibi dixit cor meum ex 
+      <lb ed="#C" n="66"/>quisivit te facies mea, faciem tuam Domine requiram 
+      <lb ed="#C" n="67"/>Actor. 9. Domine, quid me vis facere? Esaiae 6. Ecce ego 
+      <lb ed="#C" n="68"/>mitte me. 8. q. 1. in scriptur. Proverb. 23. Fili, praebe mihi co 
+      <lb ed="#C" n="69"/>tuum. Psal. Paratum cor meum Deus. Ratum in boni o 
+      <lb ed="#C" n="70"/>peris executione. 1. Timo. 4. Exerce teipsum ad pietatem 
+      <lb ed="#C" n="71"/>Psal. Qui facit haec, non movebitur in aeternum. Consum 
+      <lb ed="#C" n="72"/>matum in boni operis assuefactione &amp; continuatione 
+      <lb ed="#C" n="73"/>Matth. 10. Qui perseveraverit usque in finem, hic salvus e 
+      <lb ed="#C" n="74"/>rit. ad hoc in. qu. 3. aestman.
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1694">
+               <lb ed="#C" n="75"/>In 11 cellula inter lineam genitam, &amp; praecedentem 
+      <lb ed="#C" n="76"/>posita, quae ab aliis, &amp; per alias repletur, sic scriptum ha 
+      <lb ed="#C" n="77"/>betur. Matrimonium unitatis fidelium ex diversis genti 
+      <lb ed="#C" n="78"/>bus in unum collectae, &amp; uni viro Christo subditae. Ho¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0129.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>videtur initiatum, quando filius in hunc mundum ven inens 
+      <lb ed="#C" n="80"/>dispersiones Israel congregavit. vel per illa verba, Centu¬ 
+      <lb ed="#C" n="81"/>plum accipies, quae fuerunt verba de futuro. Contractu fr 
+      <lb ed="#C" n="82"/>in praedicatione, quam exercuit per se &amp; per suos. nam inn 
+      <lb ed="#C" n="83"/>omnem terram exivit sonus eoru, &amp;c. Joan. 10. Alias ove¬ 
+      <lb ed="#C" n="84"/>habeo a quae non sunt ex hoc ovili, &amp; illas oportet me ad¬d 
+      <lb ed="#C" n="85"/>ducere, ut vocem meam audiant, &amp; fiat unum ovile,  &amp; 
+      <lb ed="#C" n="86"/>unus pastor. inf. de ma. &amp; ob solitae §. pen vel dic contractum, 
+      <lb ed="#C" n="87"/>quando commendavit discipulos Deo Patri. supr. de su vn 
+      <lb ed="#C" n="88"/>trin. damnamus. §. cum ergo. Ratum, quando dedit potesta tem 
+      <lb ed="#C" n="89"/>ecclesiae faciendi miracula in nomine suo. Marc. ult. In no 
+      <lb ed="#C" n="90"/>mine meo daemonia ejicient. Acto 5. in plateis ponebantui 
+      <lb ed="#C" n="91"/>infirmi, &amp;c. Consummatum erit in fine seculi, quando jam 
+      <lb ed="#C" n="92"/>intraverit plenitudo gentium, &amp; omnis Israel salvus fiet 
+      <lb ed="#C" n="93"/>Matth. 25. Venite benedicti, &amp;c. In quolibet praedictorum 
+      <lb ed="#C" n="94"/>unitatem &amp; firmitatem invenies, non schisma, non divisi¬ 
+      <lb ed="#C" n="95"/>onem quae per bigamiam no. &amp; ideo bigamus non pro 
+      <lb ed="#C" n="96"/>movetur, quia unitas fidei divisionem vel corruptionem 
+      <lb ed="#C" n="97"/>non recipit. 24. q1. loquitur, &amp; no mfra de schisma. Potest er 
+      <lb ed="#C" n="98"/>go dicere quaelibet anima parochianorum per se: &amp; omnes 
+      <lb ed="#C" n="99"/>insimul nolumus ministrum bigamum, quia nesciret nos 
+      <lb ed="#C" n="100"/>Deo unire, scil. in dilectionis unitate. infr. de cele. miss. cum 
+      <lb ed="#C" n="101"/>Marthae. §. rerum inter opiniones, vel unire, id est, subjicere 
+      <lb ed="#C" n="102"/>seu repraesentare. Unire enim multis modis dicitur, ut no 
+      <lb ed="#C" n="103"/>inf. ne sede racan. deficit ergo in bigamo signaculum unita 
+      <lb ed="#C" n="104"/>tis: quare ordines recipere non potest, ut dicit Augusti 
+      <lb ed="#C" n="105"/>nus, &amp; sic linea ista una est. respectu essentiae, &amp; ipsam es 
+      <lb ed="#C" n="106"/>sentiam denotat i. cellula 9. cellulae sequentes denotan 
+      <lb ed="#C" n="107"/>trinitatem in personis, &amp; sic ab unitate in trinitatem per 
+      <lb ed="#C" n="108"/>veniemus, quia ipsa est unitas in trinitate per 11. cellulan 
+      <lb ed="#C" n="109"/>eandem essertiam intelligimus quae ab aliis repletur, ut 
+      <lb ed="#C" n="110"/>trinitate personarum ad divinam essentiam revertamur 
+      <lb ed="#C" n="111"/>Igitur in arbore hac quantum possibile est, unitas in trini 
+      <lb ed="#C" n="112"/>tate, &amp; trinitas in unitate, sine principio, &amp; sine fine. ad ho¬ 
+      <lb ed="#C" n="113"/>de cons. dist. 4. omnes, quos sup. de sum. trin. c. 1. &amp; 2. sic ex pedi 
+      <lb ed="#C" n="114"/>ta est linea arboris, quae a dextris imaginis divinae ponitur 
+      <lb ed="#C" n="115"/>Videamus de alia linea, quae ponitur a sinistris, in qua 
+      <lb ed="#C" n="116"/>sunt 5. cellulae 
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1792">
+               <lb ed="#C" n="117"/>IN cellula 1. sic scriptum est, Vinculum inferni &amp; dia 
+      <lb ed="#C" n="118"/>boli per superbiam contractum. Initiatum, quando co 
+      <lb ed="#C" n="119"/>gitavit se aequalem Deo fieri, dicens, Ponam sedem mean 
+      <lb ed="#C" n="120"/>ab Aquilone Esaiae 14. Contractum, quando projectus es 
+      <lb ed="#C" n="121"/>cum suis complicibus in infernum. Esaiae 14. Quo eecidi 
+      <lb ed="#C" n="122"/>sti Lucifer, qui mane oriebaris? Consummatum, quia se 
+      <lb ed="#C" n="123"/>cundum Psal. Non adjiciet ut resurgat. Esaiae 24. Grava 
+      <lb ed="#C" n="124"/>bit eum iniquitas sua, &amp; corruet: non adjiciet ut resurgat
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1813">
+               <lb ed="#C" n="125"/>IN cellula e sic scriptum est, Vinculum hominis &amp; pec 
+      <lb ed="#C" n="126"/>cati. Initiatum in pronitate contracta ex traditione fo 
+      <lb ed="#C" n="127"/>mitis per propagationem. adRom. 5. in Adam omnes pec 
+      <lb ed="#C" n="128"/>caverunt, vel dicinitiatum in primo motu, quando al 
+      <lb ed="#C" n="129"/>ipso immoratur. Contractum in cogitatione prava, quan 
+      <lb ed="#C" n="130"/>do ei assensus praebetur, &amp; sic cogitationes perversae sepa 
+      <lb ed="#C" n="131"/>rant a Deo. Sapient. 1. Conjungunt diabolo, ut locutio per 
+      <lb ed="#C" n="132"/>versa. Psalm. Perdes omnes qui loquuntur mendacium 
+      <lb ed="#C" n="133"/>&amp; qui loquitur iniqua, non dirigetur in conspectu Dei: qui 
+      <lb ed="#C" n="134"/>d. non placebit sponso in pravo opere. Psalm. Odisti o 
+      <lb ed="#C" n="135"/>mnes, qui operantur iniquitatem. Consummatum, in 
+      <lb ed="#C" n="136"/>longa peccandi consuetudine. nam peccator cum in pro 
+      <lb ed="#C" n="137"/>fundum peccatorum venerit, contemnit. Psalm. Putru 
+      <lb ed="#C" n="138"/>erunt &amp; corruptae sunt cicatrices meae. vel in morte. n. 4 
+      <lb ed="#C" n="139"/>3. aestimant. de consec. dist. 4. fironissime 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="140"/>ADDITIONES 
+      <lb ed="#C" n="141"/>a Hic est filius meus dilectus) Adde tex inc. omnes ques. de cons 
+      <lb ed="#C" n="142"/>b Sanguis &amp; aqua) Adde cap in sacramentorum.c. non oportet. c. ro 
+    </p>
+    <p>
+      <lb ed="#C" n="143"/>vera. &amp; c. accesserunt. de conse. dist. 2. &amp; inc. si quis autem de con 
+      <lb ed="#C" n="144"/>dist. 4 
+      <lb ed="#C" n="145"/>In nomine Patris) Adde tex. id c proprie c. si quis prebyter &amp; ii 
+      <lb ed="#C" n="146"/>s multi sunt. de conse. dist. 4. &amp; in c. debitum. de bapi 
+      <lb ed="#C" n="147"/>d Alias oves habeo) Adde tex. in cap in demo Paaris mei. in s. ham 
+    </p>
+    <p>
+      <lb ed="#C" n="148"/>societatem de poen. dist. 1 
+      <lb ed="#C" n="149"/>o Fiat unum ovile) Adde tex. in c, si. deba--> 
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1850">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0130.xml-->
+               <pb ed="#C" n="113"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>IN cellula3. scribitur sic, Vinculum inter infidelem 
+      ani<lb ed="#C" n="2" break="no"/>mam, &amp; diabolum. Initiatum de fide dubitando. nan 
+      <lb ed="#C" n="3"/>dubius in fide, infidelis est. infra de haer c. 1. Contractum f 
+      <lb ed="#C" n="4"/>dem negando, de tali contracto vinculo Petrus amare fle 
+      <lb ed="#C" n="5"/>vit. &amp; reconciliatus fuit. Matth. 26. sic &amp; vir reconciliare po 
+      <lb ed="#C" n="6"/>test uxorem adulteram. inf de adult. si vir sciens, certe &amp; ani 
+      <lb ed="#C" n="7"/>ma tota die meretricatur, sed per poenitentiam reconcili 
+      <lb ed="#C" n="8"/>atur, &amp; nova efficitur. 50. dist. ferrrum. Consummatum er 
+      <lb ed="#C" n="9"/>rorem defendendo, &amp; fidelis persequendo &amp; conterendo 
+      <lb ed="#C" n="10"/>Cant. 2 Capite vobis vulpeculas, quae demoliuntur vineas 
+      <lb ed="#C" n="11"/>inf de pur, can. inter solicitudine 
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1883">
+               <lb ed="#C" n="12"/>IN cellula 4. sic scribitur. Vinculum inter diversas haere 
+      <lb ed="#C" n="13"/>ses, &amp; errores, &amp; diabolum. Initiatum per suggillatio 
+      <lb ed="#C" n="14"/>nem; ut sic non videantur errare: quod quando pauc 
+      <lb ed="#C" n="15"/>sunt, facere consueverunt. Contractum, quando contr¬ 
+      <lb ed="#C" n="16"/>ecelesiae castra se muniunt, cum jam ad se magnam multi 
+      <lb ed="#C" n="17"/>tudinem attraxerunt. Chrysost. A veritate se nudos osten 
+      <lb ed="#C" n="18"/>dunt, qui multitudine se armaverunt. Consummatum, u 
+      <lb ed="#C" n="19"/>ecclesiae unitatem dividant. Psal. Simul adversum te testa 
+      <lb ed="#C" n="20"/>mentum disposuerunt Moab. &amp;c. de hoc 24. qu. 3.c. ult. &amp; § seq 
+      <lb ed="#C" n="21"/>IN cellula5. sic scribitur. Vinculum inter divisionem hae 
+      <lb ed="#C" n="22"/>reticorum insimul colligatam, &amp; iniquo principi gehen 
+      <lb ed="#C" n="23"/>nae subditam. Initiatum tempore Idololatrarum, quo 
+      <lb ed="#C" n="24"/>coepit ante legem a Bel. de cujus nomine dicitur Danie. 14 
+      <lb ed="#C" n="25"/>erat quoque idolum nomine Bel, apud Babylonem, &amp; 
+      <lb ed="#C" n="26"/>Contractum, tempote Pharisaeorum &amp; Sadducaeorum sul 
+      <lb ed="#C" n="27"/>lege, de quibus Marc. 12. Mittunt ad eum quosdam e¬ 
+      <lb ed="#C" n="28"/>Pharifaeis &amp; Herodianis, &amp;c. Consummatum, tempore ide 
+      <lb ed="#C" n="29"/>lolatrarum &amp; haereticorum. de quibus Apoc. 1. Odisti 
+      fa<lb ed="#C" n="30" break="no"/>cta Nicolaitarum, quae &amp; ego odi, &amp;c. vel dic, consumma 
+      <lb ed="#C" n="31"/>bitur in diejudicii, dicente Domino, Ite maledicti, &amp;c. d 
+      <lb ed="#C" n="32"/>hoc infra de haer.c. pen. supra de elect. licet. In omnibus his vin 
+      <lb ed="#C" n="33"/>culis vel ipsorum aliquo, nulla unitas est, nulla firmitas 
+      <lb ed="#C" n="34"/>nulla integritas, sed totum divisio, totum schisma, totum 
+      <lb ed="#C" n="35"/>falsitas, totum corruptio, &amp; hoc per bigamiam repraesen 
+      <lb ed="#C" n="36"/>tatur, sive per bigamum qui divisus fuit, sive corruptus i 
+      <lb ed="#C" n="37"/>matrimonio, sicut praecedentes in vinculis infernalibus 
+      <lb ed="#C" n="38"/>sive diabolicis: sicut ergo Deus &amp; diabolus in eunden 
+      <lb ed="#C" n="39"/>subjectum simul &amp; semel, &amp; eodem modo cadere non pos 
+      <lb ed="#C" n="40"/>sunt, quia nemo potest servire Deo &amp; Mammonae, sic b 
+      <lb ed="#C" n="41"/>gamia, quae divisionem denotat, &amp; ordo sacer, qui unitat. 
+      <lb ed="#C" n="42"/>designat, in eundem subjectum simul &amp; semel &amp; congru 
+      <lb ed="#C" n="43"/>cadere non possunt, quia quantum ad hoc, sibi ad invice ad 
+      <lb ed="#C" n="44"/>versantur. arg. ad hoc. inf de baptismo major. §. sed adhuc quaeri 
+      <lb ed="#C" n="45"/>tur in fin. &amp; hoc est quod forte innuit Aug. 26. dist. acutius.n 
+      <lb ed="#C" n="46"/>sin. Ergo bigami in linea ista cadunt. &amp; per ipsam reprae 
+      <lb ed="#C" n="47"/>sentantur, non quo ad vitae meritum, sed quo ad ordinati 
+      <lb ed="#C" n="48"/>onis signaculum. sed hoc potest intelligi, quod dicit capi 
+      <lb ed="#C" n="49"/>tulum, scil. quod contrahere secundas nuptias nihil aliu¬ 
+      <lb ed="#C" n="50"/>est, quam fornicari. 21. q. I. de his, &amp; c. hac ratione. ut expona 
+      <lb ed="#C" n="51"/>fornicari, id est, recedere a signaculo sacramenti, quand¬ 
+      <lb ed="#C" n="52"/>non promovetur, alias autem non fornicatur vere. im¬ 
+      <lb ed="#C" n="53"/>caste vivit. 31. dist. Nicena. &amp; licentia Apostoli utitur infr. d 
+      <lb ed="#C" n="54"/>secundis nuptiis .c.pen. &amp; ult. in hoc ergo non condemnatur 
+      <lb ed="#C" n="55"/>31. quaest. i. aperiant. &amp;c. seq. Si bene consideraveris ordinen 
+      <lb ed="#C" n="56"/>cellularum, ex prima descendit secunda, &amp; ex secunda 
+      <lb ed="#C" n="57"/>tertia, ex tertia quarta, ex quarta quinta, ex quinta sexta 
+      <lb ed="#C" n="58"/>ex sexta septima, ex septima octava, exoctava nona, ei 
+      <lb ed="#C" n="59"/>nona decima, &amp; ex his omnibus undecima repletur, &amp; 
+      <lb ed="#C" n="60"/>unitur cum prima, quarum cellulae lineae obliquae grada 
+      <lb ed="#C" n="61"/>tim descendunm 
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e1994">
+               <lb ed="#C" n="62"/>CIrca hoc multae moventur quaestiones. In prima quae 
+      <lb ed="#C" n="63"/>ritur, quae est ratio, quod non nocet successio concu 
+      <lb ed="#C" n="64"/>binarum, nec bigamiam inducit. infra eod quia circa34. dis 
+      <lb ed="#C" n="65"/>fraternitatis, &amp; tamen nocet successio uxorum, infra eodd 
+      <lb ed="#C" n="66"/>big imis, &amp; sup eo per totum, &amp; sic videtur, quod luxuria plu¬ 
+      <lb ed="#C" n="67"/>potest castitate, quod esse non debetinauth de restitut. &amp; e 
+      <lb ed="#C" n="68"/>quae parit in undecimo mense, §. ult. col. 6. nec enim debet essi 
+      <lb ed="#C" n="69"/>meliot conditio delinquentis, quam non delinquentis, ic 
+      <lb ed="#C" n="70"/>qu. in legibus infra de donat. inter virum &amp; uxorem, &amp; fimeceffi 
+      <lb ed="#C" n="71"/>Respondeo, in concubinatu non potest notari divisio sa 
+      <lb ed="#C" n="72"/>cramenti, quod non est, argum. infra de despons inpuber. ad 
+      <lb ed="#C" n="73"/>dissolvendum. &amp; sic non deest signaculum, de quo dixi si 
+      <lb ed="#C" n="74"/>pra in quarta cellula, vers. igitur plane, &amp; seque ideo cum 
+      <lb ed="#C" n="75"/>in sacramento divisus non fuerit, admittitur ad sacramen 
+      <lb ed="#C" n="76"/>ta ecclesiae, quia non praesumitur, quod in sacramentis 
+      <lb ed="#C" n="77"/>debeat esse divisus, sed quod magis diligat spirituali¬ 
+      <lb ed="#C" n="78"/>quam carnalia, argum.I. quaestion. 7. sancimus. infra de proc in 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0130.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>nostra praesentia. §. sin. qui vero duas uxores duxit, cum ma¬ 
+      <lb ed="#C" n="80"/>trimonium sacramentum sit apud omnes, etiam infide 
+      <lb ed="#C" n="81"/>les, infra de divort quanto, &amp; cap. gaudemus, &amp; in Paradis¬ 
+      <lb ed="#C" n="82"/>contractum, ut notatur supra eod in secunda cellula: &amp; 
+      <lb ed="#C" n="83"/>sic si in sacramento semel divisus inveniatur, praesumitur 
+      <lb ed="#C" n="84"/>quod in sacramentis ecclesiasticis divisus esset, ut dixi su¬ 
+      <lb ed="#C" n="85"/>pra argu. ff. de re mili. non omnes, §. a Barbaris, infra de praesump 
+      <lb ed="#C" n="86"/>mandata. Conformitas. Deus habuit synagogam, demum 
+      <lb ed="#C" n="87"/>desponsavit ecclesiam, ut not. supra eod. in quarta cellu 
+      <lb ed="#C" n="88"/>la. Per synagogam potes intelligere concubinam. sicut e 
+      <lb ed="#C" n="89"/>nim filii concubinae illegitimi censentur, nec succedum 
+      <lb ed="#C" n="90"/>cum legitimis ab intestato. C. de naturali. libe. authent,. licet 
+      <lb ed="#C" n="91"/>sic filii synagogae non capiebant haereditatem patris, im 
+      <lb ed="#C" n="92"/>descendebant omnes ad inferos infideles in profundum 
+      <lb ed="#C" n="93"/>Patriarchae vero &amp; sancti, qui sperabant legitimari, vel re 
+      <lb ed="#C" n="94"/>dimi in limbo, vel in sinu Abrahae, sed cunctis porta glo 
+      <lb ed="#C" n="95"/>riae clausa erat. per ecclesiam autem intellige sponsam le 
+      <lb ed="#C" n="96"/>gitimam, cujus filii sine mortali peccato ab hac luce sub¬ 
+      <lb ed="#C" n="97"/>tracti statim evolant, &amp; haereditatem patris adeunt, infra 
+      <lb ed="#C" n="98"/>de baptism. debitum. sicut ergo Deus dimissa synagoga, per 
+      <lb ed="#C" n="99"/>quam concubinam intelligunt, ecclesiam desponsavit, &amp; 
+      <lb ed="#C" n="100"/>uc fornicator concubina dimissa potest ecclesiam de 
+      <lb ed="#C" n="101"/>sponsare, etiam ei reconciliari, si iam conjunctus fuerat 
+      <lb ed="#C" n="102"/>infra eod. quia circa. quinimo si matrimonium contraxi 
+      <lb ed="#C" n="103"/>cum virgine, cum affectus &amp; effectus deficiant, dispensa 
+      <lb ed="#C" n="104"/>tur. sic intellige infra de cler. conjug. sane sacerdotes. secus,s 
+      <lb ed="#C" n="105"/>affectus notari possit: ut si contraxerit quis cum duabus 
+      <lb ed="#C" n="106"/>vel cum una corrupta, infra eod. nuper &amp; cap. finali. Item 
+      <lb ed="#C" n="107"/>non debes dicere, quod fornicator sit melioris conditio 
+      <lb ed="#C" n="108"/>nis, quam sponsus, imo pejoris est, quia nec fornicator 
+      <lb ed="#C" n="109"/>ordinari debet, nec regnum Dei intrare potest: bigamu 
+      <lb ed="#C" n="110"/>tamen quamvis non ordinetur, tamen bene meretur Re 
+      <lb ed="#C" n="111"/>gnum Dei, cum caste vivat. 31. distinct. Nicena. Sed tu ob 
+      <lb ed="#C" n="112"/>jicis de illo, qui egit poenitentiam, &amp; sic non est fornica 
+      <lb ed="#C" n="113"/>tor, 5o distinct ferrum. non ergo valet oppositio facta es 
+      <lb ed="#C" n="114"/>eo, quod fuit ac si esset. Deletur igitur fornicatio per poe 
+      <lb ed="#C" n="115"/>nitentiam, cum peccatum sit. supra de tempor. ord.c.i. infr. 
+      <lb ed="#C" n="116"/>de resti. testimonium. sed bigamia non per poenitentiam, ne¬ 
+      <lb ed="#C" n="117"/>per baptismum deleri potest, quia non est peccatum. 26 
+      <lb ed="#C" n="118"/>distinct. una. non potest ergo reddi tibi defectus sacrament 
+      <lb ed="#C" n="119"/>qui ex bigamia oritur, ut not. supra eod. in quarra cellula 
+      <lb ed="#C" n="120"/>&amp; in undecima cellula, &amp; in cellula quinta. certe nec si o 
+      <lb ed="#C" n="121"/>culum vel brachium amisisses, per poenitentiam quan¬ 
+      <lb ed="#C" n="122"/>tumcunque volueris recuperare posses: quia factae cau 
+      <lb ed="#C" n="123"/>sae infectae fieri non possunt, ut not. infra eod. §. an cum li 
+      <lb ed="#C" n="124"/>gamo valent dispensari. &amp; hoc propter defectum sacramen 
+      <lb ed="#C" n="125"/>ti. erunt enim duo, scilicet conjuges, inquit Adam, in car 
+      <lb ed="#C" n="126"/>ne una, infra eod debitum. infra de regula. ad Apostolicam, id es 
+      <lb ed="#C" n="127"/>ad eandem seu unam carnem propagandam, quia eju¬ 
+      <lb ed="#C" n="128"/>propositi debent esse, quod in aliam carnem non dividan 
+      <lb ed="#C" n="129"/>tur. ff. deritu nupi. l.I. C. decri. expi. haere. adversus, ff rer. amo. I. I 
+      <lb ed="#C" n="130"/>si ergo mortua prima ducit aliam, frangit propositum sa 
+      <lb ed="#C" n="131"/>cramenti tacitum, unde si promoveretur ad sacros, time 
+      <lb ed="#C" n="132"/>retur ne votum castitatis in sacramento tacite emisso vio 
+      <lb ed="#C" n="133"/>laret. de hoc, inf. de cle. conjug. cum olim. hoc non potest no 
+      <lb ed="#C" n="134"/>tari in fornicatore, quia non habuit semper propositum 
+      <lb ed="#C" n="135"/>manendi cum concubina. alias matrimonium judicare 
+      <lb ed="#C" n="136"/>tur, ff deritu nupt in liber. &amp; de concub. in concubinatu 
+      <lb ed="#C" n="137"/>imo certe stuprum judicatur, vel adulterium, 0. q 5. aliter 
+      <lb ed="#C" n="138"/>sic secundum legem qui illam, quam uxorem habere po 
+      <lb ed="#C" n="139"/>terat, in concubinatu habuit, non punitur: secus, si uxo 
+      <lb ed="#C" n="140"/>rem, ff. de concub. l. 1. Secundo quaeritur, utrum maritu 
+      <lb ed="#C" n="141"/>virginis, qui non servavit fidem, sed alium cognovit, con 
+      <lb ed="#C" n="142"/>stante matrimonio bigamus censeatur? &amp; videtur quoc 
+      <lb ed="#C" n="143"/>sic, quia non servavit propositum unitatis, de quo tetig 
+      <lb ed="#C" n="144"/>supra eod. versic. prox. &amp; §. quare bigamus. versic. consuerii 
+      <lb ed="#C" n="145"/>sicut censetur bigamus, si uxor sua adultera sit, &amp; ipsan 
+      <lb ed="#C" n="146"/>postea cognoverit, &amp; ignoranter., 34. dist. curandum. &amp; cap 
+      <lb ed="#C" n="147"/>precipimus. &amp; cap. si cumis, quod dic, ut not. supra eod. § 
+      <lb ed="#C" n="148"/>quot sint ejui species, versic 5. vel dic, quod non debes iudicare 
+      <lb ed="#C" n="149"/>bigamum, nisi ubi hoc reperitur expressum, argu. infrad 
+      <lb ed="#C" n="150"/>sponsal. cum apud. Tertio quaero, quid si quis cognoveri 
+      <lb ed="#C" n="151"/>sponsam suam adulteram, hoc ignorans, &amp; demum facit 
+      <lb ed="#C" n="152"/>se in presbyterum ordinari, utrum recipiat characterem 
+      <lb ed="#C" n="153"/>&amp; utrum habeat executionem? Dicas, quod characte 
+      <lb ed="#C" n="154"/>rem recipit, &amp; executionem habet, ad minus quo ad se ju 
+      <lb ed="#C" n="155"/>sta &amp; probabili ignorantia excusante, argum. supra de ord 
+      <lb ed="#C" n="156"/>abepiscopo, cap. 1. in fin. &amp; cap. 2. nec enim deest fides sacra 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0131.xml-->
+      <pb ed="#C" n="114"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>menti, infra de presbyt. non bapt. Apostolicam, sed si veritaten 
+      <lb ed="#C" n="2"/>postea reperiat, ab executione abstineat, infra de presby no 
+      <lb ed="#C" n="3"/>bapt. vemens. Quarto quaeritur, quare exigitur major ca 
+      <lb ed="#C" n="4"/>stitas ex parte uxoris, quam ex parte viri? De hoc dic, u 
+      <lb ed="#C" n="5"/>notatur supra eod. §. quare bignnus. versic. sed quare exigitur 
+      <lb ed="#C" n="6"/>Quinto quaeritur, cum consecratio episcopi major, &amp; di 
+      <lb ed="#C" n="7"/>gnior sit consecratione virginum, quare potest consecri 
+      <lb ed="#C" n="8"/>ri in episcopum, non solum qui uxorem habuit, sed etian 
+      <lb ed="#C" n="9"/>qui post uxorem habuit concubinam. 33. distinctio. habuissi. 
+      <lb ed="#C" n="10"/>34. distinct. fraternitatis. sed si qua corrupta fuerit ante ba 
+      <lb ed="#C" n="11"/>ptismum, vel post, si sponte, vel vi, cum peccato, vel sine 
+      <lb ed="#C" n="12"/>non potest inter sacras virgines consecrari. 26. distinct. acu 
+      <lb ed="#C" n="13"/>eius. 32 quaest. 5. ille, &amp; cap. praecedenti. Respond. sacra virgi 
+      <lb ed="#C" n="14"/>significat ecclesiam triumphantem, non habentem macu 
+      <lb ed="#C" n="15"/>lam neque rugam. de poenit. distinct. 1. ecclesia. 21. dist. quam 
+      <lb ed="#C" n="16"/>vis. 32 quaest. 4. recurrat, sed episcopus significat ccclesian 
+      <lb ed="#C" n="17"/>militantem, in qua sunt &amp; boni &amp; mali, &amp; erunt usque a¬ 
+      <lb ed="#C" n="18"/>ultimam segregationem, quae fieri habet in litore, hoc est 
+      <lb ed="#C" n="19"/>in fine secuii. 26. distinct acutius, in sin. 2. qu. 1. multi circa fin 
+      <lb ed="#C" n="20"/>secundum Hug. Joan. &amp; Goffr. vel dic, ut not supra eo¬ 
+      <lb ed="#C" n="21"/>J. quare biganus. vers. sed quare exigitur. Est &amp; alia ratio 
+      <lb ed="#C" n="22"/>quia in consecratione virginis, consecratur virgo Chri 
+      <lb ed="#C" n="23"/>sto: unde cantatur, Veni sponsa Christi. ideo Christus, qu 
+      <lb ed="#C" n="24"/>matrem virginem elegit, &amp; carnem incorruptam assum 
+      <lb ed="#C" n="25"/>psit, &amp; semper virgo permansit, &amp; virgines diligit, &amp; eli 
+      <lb ed="#C" n="26"/>git, respuit conjugium violatae: &amp; fit hoc ad virginum 
+      <lb ed="#C" n="27"/>ordinem specialiter commendandum. Episcopus ver¬ 
+      <lb ed="#C" n="28"/>specialiter consecratur ecclesiae, quae indifferenter omne 
+      <lb ed="#C" n="29"/>admitit, &amp; nemini gremium claudit. C. de summa Trinit. 
+      <lb ed="#C" n="30"/>in nisi ibi defectus lacramenti intervenit, sicut not. supr¬ 
+      <lb ed="#C" n="31"/>eod. in quarta cellula. ubi alia ratio reformat peccatum 
+      <lb ed="#C" n="32"/>sicut apparet per ea quae ibi notantur. Ad hoc etiam es 
+      <lb ed="#C" n="33"/>consuetudo approbata, quae majorem castitatem requi 
+      <lb ed="#C" n="34"/>rit in uxore carnali, quam marito: id est, saepius accidii 
+      <lb ed="#C" n="35"/>quod maritus provocat ad divortium, ob causam adulte 
+      <lb ed="#C" n="36"/>rii ab uxore commissi, &amp; magis inde scandalizatur popu 
+      <lb ed="#C" n="37"/>lus quam econtra. si Christus sponsus conjugium corru 
+      <lb ed="#C" n="38"/>ptae respuit, sed sponsa ecclesia, dum tamen poenitentian 
+      <lb ed="#C" n="39"/>egerit, non discernit. Sexto quaeritur, quid si quis deflori 
+      <lb ed="#C" n="40"/>vit virginem, &amp; postea duxerit in uxorem? dicunt quida 
+      <lb ed="#C" n="41"/>quod non estbigamus, quia non divisit carnem suam in 
+      <lb ed="#C" n="42"/>plures, arg. 34. Valentmo. &amp; inf. cod debiuum, ad fin. 26 distinei 
+      <lb ed="#C" n="43"/>acutius, ins. qui filii sint legit. tanta. &amp; haec opinio celebrior est 
+      <lb ed="#C" n="44"/>secundum Goff. &amp; magistrum Ray alii contra, quam opi 
+      <lb ed="#C" n="45"/>nionem amplector. Quamvis enim carnem suam in plure 
+      <lb ed="#C" n="46"/>non diviserit, tamen negari non potest, quin cum corrupt 
+      <lb ed="#C" n="47"/>fuerit matrimonium consummatum. ergo deest signacu 
+      <lb ed="#C" n="48"/>lum sacramenti. de quo habes, inf. cod debitum. &amp; 27.4. 2. cun 
+      <lb ed="#C" n="49"/>societas. &amp; not. sup. eo. in quarta cellula: ideo audacter di 
+      <lb ed="#C" n="50"/>co, quod virgo debet esse sponsa eo tempore, quo matri 
+      <lb ed="#C" n="51"/>monio contrahitur, &amp; etiam quando consummatur. und 
+      <lb ed="#C" n="52"/>si ab alio post contractum defloretur, bigamia contrahitur 
+      <lb ed="#C" n="53"/>si postea consummetur, ut apparet ex his quae no. sup. eo 
+      <lb ed="#C" n="54"/>vers.2. quaeritur, &amp; seque debet ergo desponsari in virginita 
+      <lb ed="#C" n="55"/>re, 20. 4. 5. qualis, &amp; virgo debet esse in contractu, 32. disnemi 
+      <lb ed="#C" n="56"/>34. dist. curandum, &amp;c. praecipimus, §. quod ergo de pellice. ne¬ 
+      <lb ed="#C" n="57"/>admitto quod alii exponunt, virgo, id est, non ab alio co 
+      <lb ed="#C" n="58"/>gnita, quia a quocunque cognita sit, semper verum est, quo¬ 
+      <lb ed="#C" n="59"/>deflorata remansit, nec virginitas semel amissa recuperi 
+      <lb ed="#C" n="60"/>ri potest, 324. 5. si Paulus. C. de raptu virg. I. unica, respon.i.duc 
+      <lb ed="#C" n="61"/>enim requiruntur ad hoc, ut sacramentum non desit. Pr) 
+      <lb ed="#C" n="62"/>mum est, quod non diviserit carnem suam in plures, &amp; 
+      <lb ed="#C" n="63"/>ideo requiritur, quod unica sit. Secundum est, quod sit vii 
+      <lb ed="#C" n="64"/>go, &amp; ideo si sit corrupta desponsata, deficit hoc. inf. decle¬ 
+      <lb ed="#C" n="65"/>conju. c2. &amp; expressum in auth. quomodo opor. episcopus. §. 1. co 
+      <lb ed="#C" n="66"/>lat. 1. Septimo quaeritur, quid si aliquis credit contraher 
+      <lb ed="#C" n="67"/>cum virgine, &amp; invenit eam corruptam? Dicas, quod bi 
+      <lb ed="#C" n="68"/>gamus censetur, cum sit maritus corruptae, 51. dist. quima 
+      <lb ed="#C" n="69"/>liquo. ad hoc excusat error vel violentia, 32. qu. 5. ille autem 
+      <lb ed="#C" n="70"/>lex autem promotionis factum requirit, non voluntatem 
+      <lb ed="#C" n="71"/>15. qu. 5. c. sin. sed &amp; ipsam considerat cum opere subsecu 
+      <lb ed="#C" n="72"/>to, infra eod. nuper. &amp; sin. Octavo quaeritur, quid si quis du 
+      <lb ed="#C" n="73"/>eat uxorem etiam corruptam, moritur tamen ante carni 
+      <lb ed="#C" n="74"/>copulam, demum ducit virginem, &amp; cognoscit, nunqui¬ 
+      <lb ed="#C" n="75"/>repellitur? Dicas, quod non, quia non divisit carnem su 
+      <lb ed="#C" n="76"/>in plures, nec cum corrupta matrimonium consumma 
+      <lb ed="#C" n="77"/>vit: sicut nec bigamus censetur, qui ab alio ductam, se¬ 
+      <lb ed="#C" n="78"/>minime cognitam desponsavit, inf. cod debitum. 33. dist. c. siu 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0131.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>Nono quaeritur, quid si maritus mulierem accusat de adu I¬ 
+      <lb ed="#C" n="80"/>terio, &amp; pendente accusatione illam cognoscit etiam ad 
+      <lb ed="#C" n="81"/>praeceptum ecclesiae, quia non debet suspendi commere ui 
+      <lb ed="#C" n="82"/>lite pendente. inf. ui lit. pen.c. 2.11. q. 1. quia res. 8. 9. 4. nonne, 33 
+      <lb ed="#C" n="83"/>q 2. seculares. 35. q. 6. multorum. utrum contrahat bigamiam? 
+      <lb ed="#C" n="84"/>Dicas quod sic, quia irregularitas solo facto contrahitur. 
+      <lb ed="#C" n="85"/>&amp; absque peccato, ut apparet ex his quae not. sup. eo. vets. 2. 
+      <lb ed="#C" n="86"/>ver. 6. &amp; ver. 7. quidam tamen hunc excusare volunt, quae¬ 
+      <lb ed="#C" n="87"/>si magis pati quam agere videatur, &amp; propter bonum obe¬ 
+      <lb ed="#C" n="88"/>dientiae, arg. 23. qu.i. quid culpatur, im sin &amp; quia mortalite 
+      <lb ed="#C" n="89"/>peccat, si non reddat. ms. de conjug. lepro c. 2.§. sin. sed nihil eutem, 
+      <lb ed="#C" n="90"/>quia si conscientiam habet, potius sustinere debet excom 
+      <lb ed="#C" n="91"/>municationem usque ad fin. litis, arg. inf. de sent excom. mqui 
+      <lb ed="#C" n="92"/>sitioni, &amp; si mulier absolvitur, adhuc non consulo, quod co¬ 
+      <lb ed="#C" n="93"/>gnoscat, nisi velit incurrere irregularitatem, ut apparet in 
+      <lb ed="#C" n="94"/>his quae no. sup. eo. vers. 3. nec peccat, cum ob adulterium 
+      <lb ed="#C" n="95"/>commissum per exceptionem ortam, eam repellat. de ho¬ 
+      <lb ed="#C" n="96"/>mfra de divort §. quot modis. versic. 5. &amp; infra de conjug. servo. § 
+      <lb ed="#C" n="97"/>&amp; an matrimonium, versic. quid si lite pendente. Illud etiam no 
+      <lb ed="#C" n="98"/>quod si cum vidua contrahit nullum privilegium retinet, 
+      <lb ed="#C" n="99"/>quod dic, ut not. infra de cleri conjug. §. quam poenam, vers. n 
+      <lb ed="#C" n="100"/>mihuumm 
+    </p>
+            <p xml:id="nbht7y-d1e283-d1e2434">
+               <lb ed="#C" n="101"/>Et an cum bigamo: mleat dispensari: Non vi¬ 
+      <lb ed="#C" n="102"/>detur, quia contra 
+      Aposto<lb ed="#C" n="103" break="no"/>lum est, insra cod super eo. &amp; cap nuper. &amp;c. sin. sed contra 
+      <lb ed="#C" n="104"/>33. dist. lector, 50. dist. quicunque. 2. Solut. Dispensare potes 
+      <lb ed="#C" n="105"/>Papa, qui loco Petri successit, &amp; ideo est major Paulo in 
+      <lb ed="#C" n="106"/>administratione 1. dist. §. 1. &amp;c. i.m novo. 247. puto. nam &amp; s 
+      <lb ed="#C" n="107"/>Petrus hoc prohibuisset, tamen par in parem non habui 
+      <lb ed="#C" n="108"/>imperium, supra de elect. mnotuit. §. 1. Alii dicunt contrarium 
+      <lb ed="#C" n="109"/>unde dicunt, Martinus Papa, qui dispensavit, in dae lecter 
+      <lb ed="#C" n="110"/>non fuit Martinus Papa, sed Martinus Capra. ideo Nico 
+      <lb ed="#C" n="111"/>laus furiosus scripsit non sine furore, quod si bigamus ex 
+      <lb ed="#C" n="112"/>dispensatione ordinaretur, non reciperet characterem. 
+      <lb ed="#C" n="113"/>sicut nec asinus: &amp; est ratio, quia sicut oculum amissun 
+      <lb ed="#C" n="114"/>non posset tibi Papa reddere, sic nec defectum sacramen 
+      <lb ed="#C" n="115"/>ti: quia factae causae, infectae fieri non possunt, 3295. si Pau 
+      <lb ed="#C" n="116"/>lus, ff. de ca &amp; posili. rever. in bello, § factae causae, in auth de aequa 
+      <lb ed="#C" n="117"/>li. dotis. §. I. ver. quid igitur prius, col. 6. Cum enim baptismus. 
+      <lb ed="#C" n="118"/>non possit reddere hunc defectum, nec Papa poterit, qui 
+      <lb ed="#C" n="119"/>nec sine baptismo c posset animam salvare, sed ubi dispen¬ 
+      <lb ed="#C" n="120"/>satione agitur, &amp; quaeritur utrum valeat, quantum ad ec 
+      <lb ed="#C" n="121"/>clesiam militantem, quis dubitabit de plenitudine pote 
+      <lb ed="#C" n="122"/>statis, secundum quam Papa potest de jure supra jus, infra 
+      <lb ed="#C" n="123"/>de conces. praeb. propo suit, &amp; de nihilo aliquid facere, supra d 
+      <lb ed="#C" n="124"/>consti. cum accessissent. C. de rei uxo. I.unica.i. respo g u 3. per prin 
+      <lb ed="#C" n="125"/>cipalem. &amp; quidem quamvis defectum non possit redde 
+      <lb ed="#C" n="126"/>re, tamen patientem defectum poterit ordinare arg supri 
+      <lb ed="#C" n="127"/>de cor. vitia.c.2. &amp; de elect mnotuit. Nam &amp; Apostolus crimi 
+      <lb ed="#C" n="128"/>nosum prohibuit ordinari, ut not. supra de tempor. ord. §. &amp; 
+      <lb ed="#C" n="129"/>cui in i. reg. &amp; tamen cum ipsis dispeniare potest, inf. de jud 
+      <lb ed="#C" n="130"/>at si clerici. Fertur etiam, quod Lucius Papa cum Panor¬ 
+      <lb ed="#C" n="131"/>mitano archiepiscopo, qui fuit bigamus, dispensavit: ho¬ 
+      <lb ed="#C" n="132"/>tamen non potest, id est non congruit potentiae suae, si¬ 
+      <lb ed="#C" n="133"/>exponitur, infra de fla. mon. cum ad monastertum, in fin. 32. qu.5 
+      <lb ed="#C" n="134"/>. Paul. &amp; sic intellige. 50. distin. miror. Alii dicunt,. quod po 
+      <lb ed="#C" n="135"/>test dispensare, quo ad executionem ordinum suscepto 
+      <lb ed="#C" n="136"/>rum. arg. infra de cler conju. sane sacerdotes, non suscipiendorum 
+      <lb ed="#C" n="137"/>inf. cod c in quia impediunt contrahenda. &amp;c. infra de jure¬ 
+      <lb ed="#C" n="138"/>jur quemadmodum. &amp; hoc intelligit de bigamo interpreta 
+      <lb ed="#C" n="139"/>tivo, cum quo dispensatur de mandato Papae, vel si religio 
+      <lb ed="#C" n="140"/>nem intraverit, etiam ut promoveatur, sic intelligunt, in 
+      <lb ed="#C" n="141"/>fra qui cleric. vel ro. c. 1. &amp; 2. Puto, quod c. lector intelliga 
+      <lb ed="#C" n="142"/>tur secundum statum primitivae ecclesiae, secundum qui 
+      <lb ed="#C" n="143"/>subdiaconatus non erat sacer ordo. supra de servis non or 
+      <lb ed="#C" n="144"/>dinandis, miramur. unde Papa hodie de facili cum subdia 
+      <lb ed="#C" n="145"/>cono non dispensaret. dico tamen, quod hoc posset facere, s 
+      <lb ed="#C" n="146"/>vellet. Episcopi vero dispensare possunt cubigamis, usque 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="147"/>ADDITIONES. 
+      <lb ed="#C" n="148"/>a Etan cum bigamo) Adde glos. in cap sunt quidam. 259.1 archi 
+    </p>
+    <p>
+      <lb ed="#C" n="149"/>dia in capit I.de biga lib. 6. Bald. in cap. at si clerici. de ind. S. Th. in 
+      <lb ed="#C" n="150"/>4. sent dist. 27. q. 3. arg. 
+      <lb ed="#C" n="151"/>Non reciperet characterem) Adde quod talis recipit chara 
+      <lb ed="#C" n="152"/>sterem, ut tenent Domini de Rot. decis. 452. incip. quodam, in 
+      <lb ed="#C" n="153"/>novissi 
+      <lb ed="#C" n="154"/>Nec sine baptismo) Adde Card. 8. Sixu in ract. de potestate Pa 
+    </p>
+    <p>
+      <lb ed="#C" n="155"/>pe. q. 46 -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0132.xml-->
+      <pb ed="#C" n="115"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>ad minores ordines, 50. dist, quicunque. 2 quia tales non sum 
+      <lb ed="#C" n="2"/>ministri, nec rectores, nec habent officium praedicandi 
+      <lb ed="#C" n="3"/>unde de divisione non est timendum in talibus: secus d¬ 
+      <lb ed="#C" n="4"/>sacris, de consecra. dist. atribus. Si ergo bigamus ad sacro 
+      <lb ed="#C" n="5"/>ordines promoveretur, ordinatus ab executione, ordina 
+      <lb ed="#C" n="6"/>tor a collatione ordinum suspenditur, quia in hoc casi 
+      <lb ed="#C" n="7"/>contra Apostolum dispensare non licet cum bigamo 
+      <lb ed="#C" n="8"/>quamvis cum ordinato possit, infrreo, super eo 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

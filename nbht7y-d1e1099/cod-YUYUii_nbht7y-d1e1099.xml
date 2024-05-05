@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 20</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 20</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="427"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1099"><!-- nbht7y-l3t20 -->
+            <head xml:id="nbht7y-d1e1099-Hd1e101">Titulus 20</head>
+            <head xml:id="nbht7y-d1e1099-Hd1e103" type="question-title">De feudis</head>
+            <p xml:id="nbht7y-d1e1099-d1e106">
+               <lb ed="#C" n="45"/>De Feudis. XX. Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e111">
+               <lb ed="#C" n="46"/>SUMMARIA 
+      <lb ed="#C" n="47"/>Feudum quid sit &amp; unde dicatur, &amp; nu.¬ 
+      <lb ed="#C" n="48"/>Feudum quis possit constitueri 
+      <lb ed="#C" n="49"/>Quid olim obtinebat de feudi alienatione 
+      <lb ed="#C" n="50"/>Quid hodie obtinet de alignatione feud 
+      <lb ed="#C" n="51"/>Feudum qualiter distinguatur 
+      <lb ed="#C" n="52"/>Feundum qualiter constituatur 
+      <lb ed="#C" n="53"/>Mulier in quibus casibus infeudum succeda 
+      <lb ed="#C" n="54"/>Investitura per quos fieri possit, &amp; per quos recip¬ 
+      <lb ed="#C" n="55"/>10. Fidelitas quid su 
+      <lb ed="#C" n="56"/>u. Investiturafacta quod jus acquiratur vasallo 
+      <lb ed="#C" n="57"/>12. Feudum quibas modis seu tausis amittatur 
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e140">
+               <lb ed="#C" n="58"/>FIximus de contractibus per quos de 
+      <lb ed="#C" n="59"/>minia rerum transferuntur 
+      <lb ed="#C" n="60"/>videamus de his per quos jus accipiendi fru 
+      <lb ed="#C" n="61"/>ctus transfertur, &amp; sic de feudis, qui tracti 
+      <lb ed="#C" n="62"/>tus similis est juri emphyteuticario: de qu 
+      <lb ed="#C" n="63"/>dic quantum ad actionem, ut notat, supra de locat. &amp; cen su 
+      <lb ed="#C" n="64"/>§potut. In summa igitur videamus, Quid sit feudum Ur 
+      <lb ed="#C" n="65"/>de dicatur, Quis possit constituere feudum, Quid olin 
+      <lb ed="#C" n="66"/>obtinebat de feudi alienatione, Quid hodie obtineat d 
+      <lb ed="#C" n="67"/>feudi alienatione, Qualiter feudum distinguatur, Quali 
+      <lb ed="#C" n="68"/>ter feudum constituatur &amp; acquiratur, In quib. casib. mu 
+      <lb ed="#C" n="69"/>lier in feudum succedat. Per quos fiat investitura, &amp; pe 
+      <lb ed="#C" n="70"/>quos recipiatur, &amp; coram quibus testib. Quid sit fidelita: 
+      <lb ed="#C" n="71"/>&amp; qualiter sit facienda, Quod jus acquiratur vasallo fact. 
+      <lb ed="#C" n="72"/>investitura. Quibus modis seu causis feudum amittatur 
+      <lb ed="#C" n="73"/>Apud quem vel apud quos judices causa feudi debeat. 
+      <lb ed="#C" n="74"/>gitari
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e180">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0444.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="75"/>Quid sit feudum. Est itaque feudum beneficium. 
+      <lb ed="#C" n="76"/>benevola actio, tribuens gaudium capien¬ 
+      <lb ed="#C" n="77"/>ti, capiensque tribuendo in id quod facit prona, &amp; sua spon 
+      <lb ed="#C" n="78"/>te parata. Vel est feudum illud beneficium, quod ex be 
+      <lb ed="#C" n="79"/>nevolentia alicujus ita traditur alicui, &amp; proprietate eju 
+      <lb ed="#C" n="80"/>rei, quae in feudum datur penes dantem remanente, id es 
+      <lb ed="#C" n="81"/>domino. ususfructus autem ejusdem rei ita in accipient, 
+      <lb ed="#C" n="82"/>transeat, ut ad eum haeredesque suos masculos &amp; faeminas 
+      <lb ed="#C" n="83"/>si de eis nominatim dictum fuerit, &amp; in perpetuum pertine 
+      <lb ed="#C" n="84"/>at ad hoc, ut ipse sive ejus haeredes fideliter domino servi 
+      <lb ed="#C" n="85"/>ant, sive illud servitium nominatim dictum fuerita domi 
+      <lb ed="#C" n="86"/>no, quale esse debeat, sive indeterminate sit promissum, u 
+      <lb ed="#C" n="87"/>in constit feu. qui, casi feud amit. circa princ. Vel dic, quod feu 
+      <lb ed="#C" n="88"/>dum est beneficium rei alicujus investitura interveniente, si¬ 
+      <lb ed="#C" n="89"/>concessae seu datae alii, quod dominium penes concedenten 
+      <lb ed="#C" n="90"/>remaneat, cujus occasione recipiens, &amp; successor ejus con 
+      <lb ed="#C" n="91"/>cedenti domino ad id de quo &amp; quousque convenit, ac seu 
+      <lb ed="#C" n="92"/>di natura requirit, secundum diversarum regionum consue 
+      <lb ed="#C" n="93"/>tudines obligatur, &amp; ipsis deficientib jure scripto. B Et sic 
+      <lb ed="#C" n="94"/>patet, quod ante omnia pacta, si de ipsis appareat, sunt ser 
+      <lb ed="#C" n="95"/>vanda, f de reju. contractus, ff. de pa. juris ge §ait praetor, ipsi 
+      <lb ed="#C" n="96"/>vero deficientibus consuetudo regionis, infra de sepul certiisi 
+      <lb ed="#C" n="97"/>cari, sed &amp; consuetudine deficiente, jure scripto uti pote 
+      <lb ed="#C" n="98"/>rit circa hanc materiam strenpus advocatus, vt no. inf eo 
+      <lb ed="#C" n="99"/>quid hodie, ver. sed an hodie, &amp; §si. in fi Tenetur ergo vasallu¬ 
+      <lb ed="#C" n="100"/>facere servitium domino occasione seud nisi ratione ob 
+      <lb ed="#C" n="101"/>ligationis aliud dicatur, ut inf. eod c. 1. potest enim feudum a 
+      <lb ed="#C" n="102"/>certum servitium dari, ut in constitut. seud de capitaneo, qui 
+      <lb ed="#C" n="103"/>curiam vendidit, capit. I. similiter potest fendum dari 
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e250">
+               <lb ed="#C" n="104"/>Unde dicatur. Et utique feudum dicitur a fideli 
+      <lb ed="#C" n="105"/>tate, vel a fide, nec enim debet a 
+      <lb ed="#C" n="106"/>liqua investitura fieri ei qui fidelitatem facere recusat, i 
+      <lb ed="#C" n="107"/>constitut. seud. per quos fiat inrestitura, &amp; per quos reci. capii 
+      <lb ed="#C" n="108"/>nulla, &amp; capit. sequent. Haec autem sic sunt intelligenda, sci 
+      <lb ed="#C" n="109"/>licet nisi feudum eo pacto sit acquisitum, ut eo fidelita 
+      <lb ed="#C" n="110"/>non praestetur, ut ibidem, &amp; in quibus casib. seundum amit 
+      <lb ed="#C" n="111"/>c est&amp; alia 
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e270">
+               <lb ed="#C" n="112"/>Quis possit constiruere: feudum, &amp; qualiter 
+      con<lb ed="#C" n="113" break="no"/>stituatur. Constituebat olim feudun 
+      <lb ed="#C" n="114"/>Archiepiscopus, Abbatissa, Praepositus: bodie vero con 
+      <lb ed="#C" n="115"/>stituere non valent hujusmodi personae, &amp; hoc intelligem 
+      <lb ed="#C" n="116"/>dum est de rebus ipsius ecclesiae, quae videlicet ei subject 
+      <lb ed="#C" n="117"/>sunt, ut in constitut seu qui dare feu. possunt, &amp; qualiter acqui 
+      <lb ed="#C" n="118"/>ratur, in princ. &amp; Episcopum vel Abbatem, &amp;c. Quod sic pu 
+      <lb ed="#C" n="119"/>to intelligendum, ut videlicet id quod in feudum datun 
+      <lb ed="#C" n="120"/>est, tempore sui ingressus invenerit, si fuerit apertum ad 
+      <lb ed="#C" n="121"/>huc in feudum dari possit, ut infra eodem, capit. 2. sed si ali¬ 
+      <lb ed="#C" n="122"/>prius data non invenerit, de novo dare prohibetur, &amp; ho¬ 
+      <lb ed="#C" n="123"/>est quod dixit, quae ei subjectae sunt, secundum quod le 
+      <lb ed="#C" n="124"/>gitur in constitut feud de clerico qui investit facit, capit. cleri 
+      <lb ed="#C" n="125"/>co. Videtur etiam quod Episcopus de novo possit seu 
+      <lb ed="#C" n="126"/>dum concedere, ob gratiam scilicet praeteriti servitii, m 
+      <lb ed="#C" n="127"/>fra de donat per tuas, &amp; de censi, cum venerabilis, &amp; de pecu. cle 
+      <lb ed="#C" n="128"/>ric final. 25. quaestio. 1. § ultim, circa fi. Item in alio praelato, ar 
+      <lb ed="#C" n="129"/>gument. infra de testam. relatum, §licet autem, de donat. caeterum 
+      <lb ed="#C" n="130"/>12. quaestio. 2. si quos de servis, quod non est verum, nisi a Pa 
+      <lb ed="#C" n="131"/>pa impetretur infra de donatio per tuas. Sed &amp; si proprium 
+      <lb ed="#C" n="132"/>feudum in pignus recipiant, non computant fructus in 
+      <lb ed="#C" n="133"/>sortem, ut infra capit.I.dic ut notat. infra de usur. §. an ali 
+      <lb ed="#C" n="134"/>quo casu, versiculi. quando ectlesia. Item antiquum feudun 
+      <lb ed="#C" n="135"/>alii dari potest, ut notat. supra non obstante juramento 
+      <lb ed="#C" n="136"/>quo tenetur adstrictus ne de novo infeudet. Sed &amp; si con 
+      <lb ed="#C" n="137"/>tingat vasallum feudum alienare, vel patrem, potest fili 
+      <lb ed="#C" n="138"/>um vel consanguineum ejusdem de tali feudo investire 
+      <lb ed="#C" n="139"/>Et si feudum recuperare non possit de facili potest dari a 
+      <lb ed="#C" n="140"/>lii qui ipsum recuperet, &amp; pro ecclesia recognoscat, ut inf 
+      <lb ed="#C" n="141"/>eodem t. 2. Sed nunquid decimas possunt clerici in feudun 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="142"/>ADDITIONES 
+      <lb ed="#C" n="143"/>a Quid sit feudum. JAdde do. in rub eo tit. Card. Zab. in c. I. eo tii 
+    </p>
+    <p>
+      <lb ed="#C" n="144"/>doct. in prog. fentex. in § si qui. ex can. seu amit en us 
+      <lb ed="#C" n="145"/>b Feudi definitio a Martino iradita eo tit in summa, ut brevior 
+    </p>
+    <p>
+      <lb ed="#C" n="146"/>ita rei congruentiori videtur. Feudum, inquit, est concessi 
+      <lb ed="#C" n="147"/>rei prohumagio facta. Hac definitionem probat bonus tex 
+      <lb ed="#C" n="148"/>in c. ex diligeni in prin. de simo -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0445.xml-->
+      <pb ed="#C" n="428"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>dare? dixit Io. quod fructus bene possunt dare laico e 
+      <lb ed="#C" n="2"/>causa non tanquam titulus, sed tanquam beneficium, arg 3. 
+      <lb ed="#C" n="3"/>distin si quis vero, sed jus decimale nunquam: nam aliud es 
+      <lb ed="#C" n="4"/>jus, aliud ipsa res, ff.deeric. raccae, ergo decimae, id est res ijn 
+      <lb ed="#C" n="5"/>sae possunt dari in feudum, secundum Jo. sed tamen not 
+      <lb ed="#C" n="6"/>transibit ad haeredes, ut infra de deci ad hoc, unde forte sect 
+      <lb ed="#C" n="7"/>dum quod proprie feudum accipitur, non possunt dar 
+      <lb ed="#C" n="8"/>in feud. infra de deci. quamvis. Contra quod etiam fructu 
+      <lb ed="#C" n="9"/>dari non possunt, quia cibus est Levitarum, 16. quaestio i. 
+      <lb ed="#C" n="10"/>vertimini, &amp; capit. ultin. nec etiam ad usum potest haber 
+      <lb ed="#C" n="11"/>laicus de decimis, vt ibi, &amp; i6. quaestio 7. capit. 1. quia sine p 
+      <lb ed="#C" n="12"/>riculo animae suae eas retinere non posset infra de deci. pr 
+      <lb ed="#C" n="13"/>hibemus, &amp; ibi dicitur, quod nullo modo transferantur in 
+      <lb ed="#C" n="14"/>laicos, quia nec ipsas possidere possunt supra de praescrip 
+      <lb ed="#C" n="15"/>causam. Dicit tamen T. quod est quoddam jus civile, quo¬ 
+      <lb ed="#C" n="16"/>concedi eis potest, ffide usucap. non solum, § qui pignori. Ali 
+      <lb ed="#C" n="17"/>dicunt, quod decimae duplici jure debentur ecclesiae, un¬ 
+      <lb ed="#C" n="18"/>ratione divini obsequii in ea praestiti, 13. quaestio 1Shis ita ¬ 
+      <lb ed="#C" n="19"/>quaestio. infra dedecim norum, &amp; capit. tua nobis, §antepenu¬ 
+      <lb ed="#C" n="20"/>hoc jus percipiendi decimas, mere spirituale est, nec po 
+      <lb ed="#C" n="21"/>test in laicum cadere. Item debentur in signum subject 
+      <lb ed="#C" n="22"/>onis, &amp; dominii universalis, 16. quaestio i revertimini, &amp;c. 
+      <lb ed="#C" n="23"/>decinae infra dedecim. tua nobis, &amp; capit. cum non sit, hoc ju 
+      <lb ed="#C" n="24"/>non est ita spirituale, ut primum: immocivile, vel quas 
+      <lb ed="#C" n="25"/>&amp; cadere potest in laicum, &amp; si non in totum, saltem qui 
+      <lb ed="#C" n="26"/>tum ad fructuum perceptionem, ut in illa tua, in fine Quo 
+      <lb ed="#C" n="27"/>verum est in decimis antiquitus concessis laicis, de nov 
+      <lb ed="#C" n="28"/>enim nullae decimae possunt eis concedi nfra de decim pro 
+      <lb ed="#C" n="29"/>hibemus, &amp; capit. quamris supra de his quae fiunt a praelat. sin 
+      <lb ed="#C" n="30"/>consens. capit. cum Apostolica, dic quod nullo modo hodi 
+      <lb ed="#C" n="31"/>s decimae e in feudum dari possunt, ut in constitut feud. 
+      qui<lb ed="#C" n="32" break="no"/>bus mod seu amitt, cap. item si episcopus velabbas, nec etiam la 
+      <lb ed="#C" n="33"/>cus a laico sub obligatione pignoris, ipsas decimas acc 
+      <lb ed="#C" n="34"/>pere debet, quia nec clericus alterius ecclesiae, ut infra a 
+      <lb ed="#C" n="35"/>decim capit. ultiin. &amp; expressum est, quod licet locatio po 
+      <lb ed="#C" n="36"/>sit fieri, non tamen perpetua, vel quae videatur ad feudun 
+      <lb ed="#C" n="37"/>extendi, supra de locat. vestra, quod dic, vt notat. infra de de 
+      <lb ed="#C" n="38"/>cim sub 53. Sed &amp; Marchiones, &amp; Comites. Item &amp; m 
+      <lb ed="#C" n="39"/>nores &amp; majores valvasores, qui capitanei appellantur 
+      <lb ed="#C" n="40"/>a feud. dare possunt, d ut in constitut. feud. qui feu. da pos. circ 
+      <lb ed="#C" n="41"/>prin. Idem dicendum videtur de minimis, de his scil. qui a 
+      <lb ed="#C" n="42"/>eis feudum acceperunt, cum idem hodie servandum sit in 
+      <lb ed="#C" n="43"/>is, quod etiam in majorib. servabatur, ut in const seu de nati 
+      <lb ed="#C" n="44"/>ra feu. in fi. Verum licet ex antiqua consuetudine quandoci 
+      <lb ed="#C" n="45"/>que volebant, feudum auferebant, medio tamen jure dever¬ 
+      <lb ed="#C" n="46"/>tum est, ut usque ad vitam fideli auferre non valeant, &amp; post 
+      <lb ed="#C" n="47"/>ea ultra processum est sci. ut si decedit fidelis, ad ejus filio 
+      <lb ed="#C" n="48"/>transeat sed illum tantum quem dominus voluerit, licet hodi 
+      <lb ed="#C" n="49"/>ad omnes aequaliter pertineat, ut in constitut seud. qui seu¬ 
+      <lb ed="#C" n="50"/>da pos. § &amp; quia vidimus. Verum Corradus usque ad nepote 
+      <lb ed="#C" n="51"/>ex filio produxit hanc successionem, ita &amp; ad fratrem, 
+      <lb ed="#C" n="52"/>frater sine legitima prole decedat, ut ibidem sequitur in 
+      <lb ed="#C" n="53"/>cum vero Cogradus, &amp; in Lombar. heneficiis &amp; ti. tributis, leg ulti 
+      <lb ed="#C" n="54"/>§ praecipimus. Sed hoc quod dicimus de fratre, est intelligi 
+      <lb ed="#C" n="55"/>dum quandocunque est paternum, quomodo in alio seud 
+      <lb ed="#C" n="56"/>frater fratri non succedit, nisi eo pacto fuerit acquisitum 
+      <lb ed="#C" n="57"/>ut in praedicto § cum pero Corradus, &amp; in constitut de gradibu 
+      <lb ed="#C" n="58"/>suc. infeu.c.i.vel nisi fuerit seu. de communibus bonis em 
+      <lb ed="#C" n="59"/>ptum, domino sciente, cum insimul starent, vel inhonest. 
+      <lb ed="#C" n="60"/>i. in exercitu regis acquisitum, ut in consti. de benesi fratris,( 
+      <lb ed="#C" n="61"/>qualiter frater succedat fratri in feudo, cap si quis acquisierit, b 
+      <lb ed="#C" n="62"/>ne dixit, domino sciente: quomodo secus esset, si eo igno 
+      <lb ed="#C" n="63"/>rante, tunc enim non succederet frater fratri infeudum, n 
+      <lb ed="#C" n="64"/>forte invitus dominus alium quam quem velit acquirat va 
+      <lb ed="#C" n="65"/>sallum, ut in constit feud de fra. de novo benesi. inves.c. 2. Sed a¬ 
+      <lb ed="#C" n="66"/>id quod dicimus, nisi feudum sit emptum, &amp;c. tu instabi¬ 
+      <lb ed="#C" n="67"/>nunquid feudum venditur? &amp; videtur quod sic, ut in prae 
+      <lb ed="#C" n="68"/>dicto c. de benesi. fra. &amp; in constitu denatura, seu §si rero, &amp; quem 
+      <lb ed="#C" n="69"/>admodum ad filiam feudum pertineat, c &amp; si quis sine filio, se¬ 
+      <lb ed="#C" n="70"/>obstare videtur, quod dicitur infra scil. quod feudum no 
+      <lb ed="#C" n="71"/>sub praetextu pecuniae, sed honore &amp; amore domini a¬ 
+      <lb ed="#C" n="72"/>quiritur, ut in const seu. de fe da inviceml commissoriae, c.I.si qui 
+      <lb ed="#C" n="73"/>obligavit. sed illud sic intelligas non sub praetextu pecunia 
+      <lb ed="#C" n="74"/>i. quod pecunia sola non sit causa quare seu. datur, hodi 
+      <lb ed="#C" n="75"/>autem qualiter successio feudi extendatur, infra pleniu 
+      <lb ed="#C" n="76"/>dicemus. Feudum autem guardiae &amp; castaldiae, vel quoc 
+      <lb ed="#C" n="77"/>pro mercede alicujus rei datur, potest transacto anno ju 
+      <lb ed="#C" n="78"/>re auferri, etiam pretio pro eo dato non restituto, nisi ac 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0445.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>certum tempus datum sit, ut in const seu. de seu guardiae, c. 1. &amp; d 
+      <lb ed="#C" n="80"/>contentione inter dominum &amp; vasallum, &amp; de invest. vas¬ 
+      <lb ed="#C" n="81"/>insuper feudum. 
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e526">
+               <lb ed="#C" n="82"/>Quid olim obtinebat, defeudi aliena- 
+      <!-- missing line break -->tione?
+      <lb ed="#C" n="83"/>Et quidem jure antiquissimo poterant vasalli usque ad me 
+      <lb ed="#C" n="84"/>dietatem feudi pignori obligare. Item alienare, i. libellari¬ 
+      <lb ed="#C" n="85"/>nomine dare. Sed &amp; locare, nisi foret fraudulenta loca 
+      <lb ed="#C" n="86"/>tio feudi, poterant etiam necessitate suadente usque ad mi 
+      <lb ed="#C" n="87"/>diam partem, etiam ignorante domino, feudum recte ven 
+      <lb ed="#C" n="88"/>dere, ut in constit feud. qui. mod seud amit. §rursus, &amp; defeu¬ 
+      <lb ed="#C" n="89"/>alienat, capit. 1. &amp; qualiter poterat olim feud. alienat. capit. 1.( 
+      <lb ed="#C" n="90"/>capit. est autem optima, &amp; §. donare. Sed haec sunt intelliger 
+      <lb ed="#C" n="91"/>da secundum jus antiquum, quando vasallus non habe 
+      <lb ed="#C" n="92"/>bat feudum in curte, aliud si habebat feudum in curte, 
+      <lb ed="#C" n="93"/>si habebat ex curte, quando dominus habebat districtum 
+      <lb ed="#C" n="94"/>vel alium honorem: quoniam tunc si aliquam partem si 
+      <lb ed="#C" n="95"/>ne voluntate domini alienabat, a feudo cadebat, ut in con 
+      <lb ed="#C" n="96"/>stitut. feudorum, quibus modis feudum amit. §item si quis fun 
+      <lb ed="#C" n="97"/>dum. Sed si fiebat alienatio sicut fieri non debebat, locun 
+      <lb ed="#C" n="98"/>habebat praescri. 30. an. &amp; obstabat tam scienti quam igno 
+      <lb ed="#C" n="99"/>ranti, ut in const seu. qualiter poierat olim feudum alic. § praescri 
+      <lb ed="#C" n="100"/>ptione autem triginta annorum
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e572">
+               <lb ed="#C" n="101"/>Quid hodie obtineat de feudi 
+      aliena<lb ed="#C" n="102" break="no"/>tione. 
+      <lb ed="#C" n="103"/>Et certe hodie non potest etiam minima pars alienai sin¬ 
+      <lb ed="#C" n="104"/>voluntate domini: &amp; si fiat alienatio ad de minum feudi, I 
+      <lb ed="#C" n="105"/>bere revertitur, nulla praescriptione obstante, quia quo¬ 
+      <lb ed="#C" n="106"/>ab initio non valuit, non potest tractu temporis conval¬ 
+      <lb ed="#C" n="107"/>scere, ut in consti. seu. de prohibita seu. alie per Federicum l. Impi 
+      <lb ed="#C" n="108"/>rialem, &amp; deca. Cor. reg. cap. 1. Sed utrum totum an parten 
+      <lb ed="#C" n="109"/>tantum alienatam amittere debeat, lege non cavetur, po 
+      <lb ed="#C" n="110"/>test tamen intelligi sine calum. vi partem tantum amitta 
+      <lb ed="#C" n="111"/>sicut &amp; ille qui contra consti. Lotharii regis seudum ali¬ 
+      <lb ed="#C" n="112"/>nat, ut in constitut. de rasqui contra constitut. Loiharii regseu 
+      <lb ed="#C" n="113"/>alunat. in princip. nec enim debet ultra progredi poen¬ 
+      <lb ed="#C" n="114"/>quam reperiatur delictum, ut C. depoenis, sancimus. Sec 
+      <lb ed="#C" n="115"/>an hodie pignori obligari possit secundum quod dixit Pi 
+      <lb ed="#C" n="116"/>similiter remanet in quaestione, &amp; incautum, igitur leg 
+      <lb ed="#C" n="117"/>praescripta sine caluinnia strenuus advocatus uti poterit 
+      <lb ed="#C" n="118"/>ut in constitut feud de seud cog capit.i. Quid ergo? Respot 
+      <lb ed="#C" n="119"/>Pil. Obligari non poterit, pignori, quoniam lex pra 
+      <lb ed="#C" n="120"/>dicta alienationem prohibet, ergo &amp; pignoris obligati¬ 
+      <lb ed="#C" n="121"/>est prohibita, ut C. de rebus alienandis. non alien. leg. ultivna si 
+      <lb ed="#C" n="122"/>pra de rebus ecclesiae non alienandis nulli. Quicquid tamei 
+      <lb ed="#C" n="123"/>circa hanc partem notaverit Pil. argumentando, hoc 
+      <lb ed="#C" n="124"/>dem poterat dicere expressum per legem praedictam in 
+      <lb ed="#C" n="125"/>perialem, quae nominatim pignorationem feudi proh 
+      <lb ed="#C" n="126"/>bet, licet alibi nominaverit idem Pil. contrarium, quod po 
+      <lb ed="#C" n="127"/>sit usque ad medietatem pignori obligari, ut per eum no 
+      <lb ed="#C" n="128"/>in constitut seud de feud alien capit i. super illo verbo, intelli 
+      <lb ed="#C" n="129"/>gas de libello, &amp;c. Sed an possit in feudum dari, nec ho 
+      <lb ed="#C" n="130"/>die prohibetur, nec olim, sicut ergo poterat, sic potest 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="131"/>ADDITIONES. 
+      <lb ed="#C" n="132"/>c Nullo modo hodie decimae. JAdde Bald. const. 408. incip. no 
+    </p>
+    <p>
+      <lb ed="#C" n="133"/>revocando in 4. volum 
+      <lb ed="#C" n="134"/>d Feudemdare possunt. JAdde Bal. Ia. Alua &amp; Car. Alex. in c. 
+    </p>
+    <p>
+      <lb ed="#C" n="135"/>qui seu dare pos in usibus feudorum 
+      <lb ed="#C" n="136"/>e Post articulum illum, Quis feudum constituere potest con 
+    </p>
+    <p>
+      <lb ed="#C" n="137"/>sequentererat adjicienda rubricella, Quae res dari, an no 
+      <lb ed="#C" n="138"/>in feudum possint, ab Hostiensi praetermissa, sed a Mart 
+      <lb ed="#C" n="139"/>in summa titul. de seud. erudite discussa. Feudales, inquit 
+      <lb ed="#C" n="140"/>res, quae consueverunt infcudari in feudum concedi pos 
+      <lb ed="#C" n="141"/>sunt. Vnde feudum decedentis infeudare potest praelatus 
+      <lb ed="#C" n="142"/>licet juraverit se de novo non infeudare, &amp; potest de ipsi 
+      <lb ed="#C" n="143"/>filium decedentis investire. Similiter seudum alienatum po 
+      <lb ed="#C" n="144"/>test alicui concedere, sed ita, ut illud revocet pro ecclesia 
+      <lb ed="#C" n="145"/>Aliae quoque res, quae feudales non sunt de novo infeuda 
+      <lb ed="#C" n="146"/>possunt, nisi in quatuor casibus quorum tres habentur, extr¬ 
+      <lb ed="#C" n="147"/>de feud capit final. ubi de hoc quartus vero notat exira de de 
+      <lb ed="#C" n="148"/>nationibus per tuas. Novum autem non est, quod iterato con 
+      <lb ed="#C" n="149"/>fertui, ut extra deseud, capit. final. Decimae tamen non pos 
+      <lb ed="#C" n="150"/>sunt laicis in perpetuum concedi in seudum, utio. quaest prim. 
+      <lb ed="#C" n="151"/>cap. fina &amp; extra, ae decimis, cap. prohibemus, &amp; c ad haec, &amp;c. quam 
+      <lb ed="#C" n="152"/>ris, &amp; dehis quae fiunt a prael cum Apostolica. Ad tempus aiiten 
+      <lb ed="#C" n="153"/>non ut titulus, sed ut stipendium decimae perceptio laico pos 
+      <lb ed="#C" n="154"/>set concedi, arg. 32. dist .c. quis Mari -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0446.xml-->
+      <pb ed="#C" n="429"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>quia quod specialiter non mutatur, quare stare prohi 
+      <lb ed="#C" n="2"/>betur, ut C de test sanconus, quicquid enim non mutatur. 
+      <lb ed="#C" n="3"/>nova intelligi debet durare, C. de appellat. praecipimus, in fi. ei 
+      <lb ed="#C" n="4"/>go &amp; hodie poterit in fendum dari, syncere tamen, &amp; sin 
+      <lb ed="#C" n="5"/>fraude, ut mconstitut. seud. qualiter poterat seu. olim alien. circ 
+      <lb ed="#C" n="6"/>princip. secundum Pil. Sed haec vera sunt, dum tamen si¬ 
+      <lb ed="#C" n="7"/>cundus vasallus talis sit, qui feudo servire possit, ut si do 
+      <lb ed="#C" n="8"/>minus miles est, &amp; ille qui accepit miles inveniatur a 
+      <lb ed="#C" n="9"/>hoc, ut in feud. si contigerit, domino servire possit ut pri 
+      <lb ed="#C" n="10"/>or. Item si non dederit alia I nisi qua ipse habet, scilicet u 
+      <lb ed="#C" n="11"/>ihabet in se &amp; suis haeredibus, quod intelligi debeat tan 
+      <lb ed="#C" n="12"/>tam de masculis, non debet dare in se &amp; in suos haeredes 
+      <lb ed="#C" n="13"/>etiam foeminas, in constitut seud de dege Corradi, § ex eadem, 
+      <lb ed="#C" n="14"/>meliorem enim feudi conditionem facere potest, sed no 
+      <lb ed="#C" n="15"/>deteriorem sine voluntate domini vel eorum agnatorum 
+      <lb ed="#C" n="16"/>ad quos successione pertinere debet, ut m constitut. de i 
+      <lb ed="#C" n="17"/>vest. ret alis. §retautem, &amp;c. Quidam tamen volunt dicere 
+      <lb ed="#C" n="18"/>quod hodie non possit feudum in feudum dari, sine voli 
+      <lb ed="#C" n="19"/>tate domini, &amp; hoc per constit praedictam Imperialem, ci 
+      <lb ed="#C" n="20"/>per eam prohibeatur alienatio. quasi velit dicere, quod ho 
+      <lb ed="#C" n="21"/>sit alienatio: quod quidem verum non videtur secundun 
+      <lb ed="#C" n="22"/>assignatam rationem, &amp; argum. in his quae nota, sup. de lo¬ 
+      <lb ed="#C" n="23"/>sub § potuit, per. hoc si velit venaere, &amp; de hac materia pleniu 
+      <lb ed="#C" n="24"/>not. in constitut. dec. Corradi regis, capit. 1. Sed nunquid po 
+      <lb ed="#C" n="25"/>test pro anima legari? Dic ut notat. infra de iminu. eccl. § ii 
+      <lb ed="#C" n="26"/>quantum, sub § sed nec illa immunitas 
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e705">
+               <lb ed="#C" n="27"/>Qualiter feudum distinguatur. Quod 
+      <lb ed="#C" n="28"/>quidem
+      <lb ed="#C" n="29"/>ita potest distingui, feudorum aliud dicitur paternum, 
+      <lb ed="#C" n="30"/>liud novum: aliud etiam dicitur maternum seu foemine 
+      <lb ed="#C" n="31"/>Item feudorum aliud est cum fidelitate, aliud sine fidelita 
+      <lb ed="#C" n="32"/>te. Item feudorum aliud est conditionale, aliud non. Iten 
+      <lb ed="#C" n="33"/>feudorum aliud perpetuum, aliud non. Itein feudorum al 
+      <lb ed="#C" n="34"/>ud habet propriam feudi naturam, aliud non. Feudum pa 
+      <lb ed="#C" n="35"/>ternum dicitur, quod a quocunque de majoribus est acqu 
+      <lb ed="#C" n="36"/>situm, hoc est ab eo parente, qui fuit agnationis commu 
+      <lb ed="#C" n="37"/>nis, ut in const fen. de gradibus suc. in feud.c.i. &amp; de natura. su¬ 
+      <lb ed="#C" n="38"/>feud. circa principi. Novum feudum dicitur, quod de nov 
+      <lb ed="#C" n="39"/>est acquisitum, ut in const feu. per quos si. in ve. &amp; perquos rec 
+      <lb ed="#C" n="40"/>capit. 1S novi vero feud &amp; qui testes sunt necessarii ad pr 
+      <lb ed="#C" n="41"/>handam novam invest. capit i. circa fin. Maternum auten 
+      <lb ed="#C" n="42"/>feudum sive foemineum dicitur, quod per foeminam a¬ 
+      <lb ed="#C" n="43"/>quisitum est, in constitut seud de beneficio foeminae, capit. 1 &amp; a 
+      <lb ed="#C" n="44"/>natura suc se cap. 1. licet secundum usum regni non debea 
+      <lb ed="#C" n="45"/>seud vocari maternum, seu paternum: ut in constit feud. a 
+      <lb ed="#C" n="46"/>maritus uxor. inben suc, capit..si faemina feudum. Cum fid 
+      <lb ed="#C" n="47"/>litate dicitur illud, de quo fidelitas juratur, vel jurari di¬ 
+      <lb ed="#C" n="48"/>bet: &amp; intelligas, quod de omni feudo debet fieri fidelita: 
+      <lb ed="#C" n="49"/>nisi per pactum remittatur, nec enim debet alias fieri in 
+      <lb ed="#C" n="50"/>vestitura, nisi fidelitas debeat inde sequi, nisi, ut dictum ess 
+      <lb ed="#C" n="51"/>per pactum remittatur, ut in constitut seud per quos fiat in 
+      <lb ed="#C" n="52"/>vestitura, &amp; per quos rec cap. 1. Sine fidelitate autem feudun 
+      <lb ed="#C" n="53"/>dicitur illud, de quo sacramentum fidelitatis fieri non de 
+      <lb ed="#C" n="54"/>bet, puta quia per pactum remissum est quod fieri potest 
+      <lb ed="#C" n="55"/>ut in praedictoc. nulla, in fi. &amp; in quibus casibus seu amit §est 
+      <lb ed="#C" n="56"/>alia ingratitudo, in fin. Feudum conditionale est illud, quo 
+      <lb ed="#C" n="57"/>datur ad certum servitium, ut, velconditionem certam fi 
+      <lb ed="#C" n="58"/>ciendam, quod fieri potest, ut in constit feud. in quibus c. 
+      <lb ed="#C" n="59"/>sibus seud amit, cap.i. in sin &amp; dec.qui curiam vend. cap. ulinn. 
+      <lb ed="#C" n="60"/>militer potest &amp; c. inde est quod alias dicitur, quod si vasa 
+      <lb ed="#C" n="61"/>lus negaverit cond. seud. quod ipsum amittere debetiut i 
+      <lb ed="#C" n="62"/>constitu seu si defeu, contro fuerit, c. vasallus sifeudum. Non com 
+      <lb ed="#C" n="63"/>ditionale feudum dicitur illud, quod sine aliqua condit 
+      <lb ed="#C" n="64"/>one datur, ut ex praemissis patet. Perpetuum feudum d 
+      <lb ed="#C" n="65"/>citur illud, quod transit ad haeredes ut in constit sen in quil 
+      <lb ed="#C" n="66"/>casibus seud amit cap. 1. in fin Non perpetuum verofeudun 
+      <lb ed="#C" n="67"/>dicitur illud, quod non transit ad haeredes. Sunt .n. qua 
+      <lb ed="#C" n="68"/>dam feuda, quae ad haeredes non transeunt, ut in const feu¬ 
+      <lb ed="#C" n="69"/>de feud Marchiae, cap. 1. qui mod seud, const. potestc. 1. &amp; tale no 
+      <lb ed="#C" n="70"/>potest in dotem dari, inf. de don inter vir. &amp; ux. nuper. Feud 
+      <lb ed="#C" n="71"/>autem quod habet propriam seudi naturam, dicituri 
+      <lb ed="#C" n="72"/>lud de quo vasallus non potest disvestiri sine culpa, in cor 
+      <lb ed="#C" n="73"/>stitut. seud. de natura feudi.cI. Item quod ad haeredes trar 
+      <lb ed="#C" n="74"/>sit, vel quod ita datur, ut ipse habeat, &amp; ejus haeredes, au 
+      <lb ed="#C" n="75"/>cui in feudum dederit in constitut. seud. de feud. non habeni 
+      <lb ed="#C" n="76"/>propriam feudi naturam, capit.i.si quis ea legalicui. Feudun 
+      <lb ed="#C" n="77"/>vero quod dicitur non habere propriam feudi naturam 
+      <lb ed="#C" n="78"/>dicitur illud quod ita datum est, ut ipse &amp; sui haeredes hi 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0446.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>beant, aut cui dederint, ut in praedicto tit. &amp;c. Item quoc 
+      <lb ed="#C" n="80"/>sine investitura est acquisitum in const. feu. qui nmo feud. con 
+      <lb ed="#C" n="81"/>stitui potest, c. I. Item feudum guardiae e&amp; castaldiae in constitu 
+      <lb ed="#C" n="82"/>feu. deseu guardiae. c. i. Item quod non transit ad haeredes ui 
+      <lb ed="#C" n="83"/>feudum Marchiae, Ducatus, &amp; Comitatus, ut in const feu 
+      <lb ed="#C" n="84"/>de fei Marchiae, c.) 
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e839">
+               <lb ed="#C" n="85"/>Qualiter feudum corstituatur? &amp; acquira¬ 
+      <lb ed="#C" n="86"/>tur? Et utique feudum con 
+      <lb ed="#C" n="87"/>stituitur uno modo, sic ut habeat propriam seudi natur 
+      <lb ed="#C" n="88"/>in constit seu qui mo seu, constitui potest, cap. 1. Acquiritur au 
+      <lb ed="#C" n="89"/>tem seudum plurib modis. Acquiritur enim investitura 
+      <lb ed="#C" n="90"/>vel eo quod habetur pro investitura, acquiritur etiam suc 
+      <lb ed="#C" n="91"/>cessione, ut in const. fen de feudicegnitione § sciendum est, &amp;d 
+      <lb ed="#C" n="92"/>consu. recti seu. c sciendum. Investitura enim acquiritur seu 
+      <lb ed="#C" n="93"/>puta cum aliquis tradit possessionem alicujus rei immo 
+      <lb ed="#C" n="94"/>bilis alicui nomine feudi corporaliter, &amp; tunc proprie di 
+      <lb ed="#C" n="95"/>citur investitura, proprie enim dicitur investitura possel 
+      <lb ed="#C" n="96"/>sio, abusive autem dicitur investitura, quando hasta vel a 
+      <lb ed="#C" n="97"/>liud corporeum quodlibet porrigitur a domino sciente s¬ 
+      <lb ed="#C" n="98"/>investituram facere, ut in constit. seu. quid se investi. in prin 
+      <lb ed="#C" n="99"/>Et bene dixi alicujus rei immobilis, quia feudum sive bene 
+      <lb ed="#C" n="100"/>ficium non potest consistere, nisi in reb. soli, aut solo cohae 
+      <lb ed="#C" n="101"/>rentib. aut in his quae inter immobilia computantur velu 
+      <lb ed="#C" n="102"/>ti cum de camera, seu de caneva feu. datur, ut in constit fen 
+      <lb ed="#C" n="103"/>de feu cog c. sciendam, in praedictis enim recte feudum con 
+      <lb ed="#C" n="104"/>sistit. nisi sit res cujus alienatio sit prohibita; nam illa nor 
+      <lb ed="#C" n="105"/>potest per beneficium dari, nisi in casu, ut in constit. seu. pe 
+      <lb ed="#C" n="106"/>quos p. investi. &amp; per quos reci § sed &amp; res. Eo autem quod ha 
+      <lb ed="#C" n="107"/>betur pro invest. acque seud puta cum dominus dixit alicu 
+      <lb ed="#C" n="108"/>coram curia, Vade in possessionem illius fundi, &amp; ipsum 
+      <lb ed="#C" n="109"/>teneas pro feud. licet enim non intercessisset investitura 
+      <lb ed="#C" n="110"/>tamen tale est, ac si intercessisset in lib. seu. de consu. refeu 
+      <lb ed="#C" n="111"/>c. sciendum. Itaque post titul. qui test. sunt ro. Veruntamen ho¬ 
+      <lb ed="#C" n="112"/>tale feudum non habebit propriam seudi naturam, cun 
+      <lb ed="#C" n="113"/>in eo nullus succedat in constit. seud. qui mo seud, constitu 
+      <lb ed="#C" n="114"/>potest, c.i. sed forte melius est, quod dicamus, quod propri 
+      <lb ed="#C" n="115"/>am feudi naturam habeat, &amp; quod in eo habeat locum suc 
+      <lb ed="#C" n="116"/>cessio, nec obst. praedictume. prox inductum, quoniam ib 
+      <lb ed="#C" n="117"/>non dixit dominus coram curia ut ingrederetur possessi 
+      <lb ed="#C" n="118"/>onem, sed alias forte eam nactus fuit de voluntate domini 
+      <lb ed="#C" n="119"/>Acquiritur autem alio modo feudum, quod habetur pro 
+      <lb ed="#C" n="120"/>investitura, puta praescri, ut si quis possedit feudum aliquoc 
+      <lb ed="#C" n="121"/>per30. an. tanquam ipsum haberet in seudum, &amp; servitium 
+      <lb ed="#C" n="122"/>domino exhibuit: quainvis enim de eo nunquam fuerit in 
+      <lb ed="#C" n="123"/>vestitus, tamen recte in eo tanquam in seudo tuebitur prae 
+      <lb ed="#C" n="124"/>scri praedicta 30. ann. ut in const seu. side feud. controver. fue.c 
+      <lb ed="#C" n="125"/>si quis per 36. ann. Per successionem autem acquiritur seu 
+      <lb ed="#C" n="126"/>dum, non quidem ex testamento, sed potius ab intestato 
+      <lb ed="#C" n="127"/>nec.n.valet aliqua ordinatio defuncti in feudo facta, siv 
+      <lb ed="#C" n="128"/>legatum, ut in const. seu. de suc feu. in princ &amp; qualiter olim pote 
+      <lb ed="#C" n="129"/>rat feud ali §donare autem. Natura enim successionis tali¬ 
+      <lb ed="#C" n="130"/>est, quod ascendentes non succedunt in feudo, puta pate 
+      <lb ed="#C" n="131"/>filio, ut in const feu de natura suc seu cap. i in prin. Descenden 
+      <lb ed="#C" n="132"/>tes vero sic, &amp; primo quidem filius patri, &amp; non filia. Item 
+      <lb ed="#C" n="133"/>nepos ex filio, &amp; non neptis, &amp; sic usque in infinitum, ut in 
+      <lb ed="#C" n="134"/>constitut. feud de suce seu foeminae, cap.. &amp; Sfilia rero, &amp; degra 
+      <lb ed="#C" n="135"/>dibas suan feud, capit.1. &amp; qui feud. dare poss § hoc quoque scien 
+      <lb ed="#C" n="136"/>dum. Postea vero succedunt collaterales, &amp; primo fra 
+      <lb ed="#C" n="137"/>tres cum fratrum praemortuorum filiis, deinde agnati ul 
+      <lb ed="#C" n="138"/>teriores olim usque ad fratres patrueles, hodie vero usque 
+      <lb ed="#C" n="139"/>ad septimum geniculum, imo usque ad infinitum in li seud 
+      <lb ed="#C" n="140"/>qui debe suc in feud c) Et bene dixi de agnatis, quoniam ac 
+      <lb ed="#C" n="141"/>cognatos seu. suc. non pertinet, ut in constitu feu. de suc seud 
+      <lb ed="#C" n="142"/>c.I.in si &amp; haec vera sunt scil. quod succedunt collaterales it 
+      <lb ed="#C" n="143"/>feudum scil. si fuerit paternum feudum, in alio n. non succe 
+      <lb ed="#C" n="144"/>dunt, nisi per pactum, ut in praedicto tit. &amp;c. De consue. im 
+      <lb ed="#C" n="145"/>perii non succedit, nisi filius descendens, imo revertitu 
+      <lb ed="#C" n="146"/>feudum ad Imperatorem, &amp; ipse confert cui vult: sic vid 
+      <lb ed="#C" n="147"/>hoc, quando fui in Alemania per proceres judicari: Quoc 
+      <lb ed="#C" n="148"/>autem dixi de filio, quod succedit patri in feudum, intelli 
+      <lb ed="#C" n="149"/>gas verum ene de legitimo ab initio, non adoptivo, nec di 
+      <lb ed="#C" n="150"/>naturali: Adoptivi enim filii, item naturales, licet poste¬ 
+      <lb ed="#C" n="151"/>efficiantur legitimi ad successionem feudi, nec soli, nec ci 
+      <lb ed="#C" n="152"/>aliis vocantur, ut in constit feu. si de feu contro fuerit, c. adopti 
+      <lb ed="#C" n="153"/>pus, &amp;c. naturales. Item hoc intelligas verum esse de tal 
+      <lb ed="#C" n="154"/>legitimo, qui non sit natus de uxore secunda morganati 
+      <lb ed="#C" n="155"/>cal. accepta, dicitur autem lex morganatica, quando aliqui 
+      <lb ed="#C" n="156"/>habens liberos de prima uxore mortua, ducit secundam 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0447.xml-->
+      <pb ed="#C" n="430"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>tali pacto interposito, quod nec ipsa, neque filii succedani 
+      <lb ed="#C" n="2"/>nec de bonis patris habeant, nisi quantum accepit tempor 
+      <lb ed="#C" n="3"/>sponsaliorum, alias dicitur l. Fallica, &amp; talis non succedit in 
+      <lb ed="#C" n="4"/>reudum, nec in proprietate, prioribus extantib. ut in const fer 
+      <lb ed="#C" n="5"/>de filiis natis de matrimonio ad morganaticam legem contracti 
+      <lb ed="#C" n="6"/>ante tit. de feudo faeminae, c. quidam habens filium, &amp; si defeud 
+      <lb ed="#C" n="7"/>controver fuerit, cap. filii nati. Item hoc verum est de tali leg 
+      <lb ed="#C" n="8"/>timo, qui fuit natus ex secundo matrimonio, quoniam i 
+      <lb ed="#C" n="9"/>le excluditur a filio ex priore matrimonio, nato scilicet in 
+      <lb ed="#C" n="10"/>feudo materno, etiam quod iniquum videtur, ut in consti¬ 
+      <lb ed="#C" n="11"/>feud si de feud controversia fuerit, c. mulier habens feud. vel dic 
+      <lb ed="#C" n="12"/>quod illud intelligitur de filiis morganaticis, quod fort 
+      <lb ed="#C" n="13"/>verius est. 
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e1032">
+               <lb ed="#C" n="14"/>In quibus casibus; mulier in feudum 
+      succe<lb ed="#C" n="15" break="no"/>dat Et quidem regulariter 
+      <lb ed="#C" n="16"/>filia non succedit, ut notat supra eodem (qualiter feudum co¬ 
+      <lb ed="#C" n="17"/>stituatur, versicul descendentes, nam proles faeminei sexus, vt 
+      <lb ed="#C" n="18"/>ex foeminino sexu descendens ad hujusmodi succession 
+      <lb ed="#C" n="19"/>aspirare non potest, ut in constit feud de gradibus suc. in feud 
+      <lb ed="#C" n="20"/>capit.i. circa prnc, licet enim filiae ut masculi, succedant le 
+      <lb ed="#C" n="21"/>gibus a successione tamen feudi removentur, &amp; earum! 
+      <lb ed="#C" n="22"/>peri, ut in constit. feud. qui feu. dare poss. &amp; qualiter actio. §. ho 
+      <lb ed="#C" n="23"/>autem notandum est. Et hoc intelligas verum esse, nisi ea c 
+      <lb ed="#C" n="24"/>ditione vel pacto fuerit feudum acquisitum, ut filii &amp; fili¬ 
+      <lb ed="#C" n="25"/>succedant, &amp; etiam tunc demum succedat filia, si mascul 
+      <lb ed="#C" n="26"/>non extiterint: alias non, ut in constitut seud de gradibus su¬ 
+      <lb ed="#C" n="27"/>in seud in fine, capitul.i. &amp; episcopum vel Abbatem, in fin. de suc 
+      <lb ed="#C" n="28"/>foeminae, § filia vero. Nec enim patet locus faeminae in seud 
+      <lb ed="#C" n="29"/>successione, donec masculus superest ex quo qui primu 
+      <lb ed="#C" n="30"/>accepit, ut in constitut. feud. qui sibi vel haeredibus suis masci 
+      <lb ed="#C" n="31"/>lis &amp; foeminis investi. accepit. ca. qui sibi. Item hoc verum est 
+      <lb ed="#C" n="32"/>quod non succedit, nisi feudum fuerit foemineum: tun¬ 
+      <lb ed="#C" n="33"/>enim secundum quosdam succedit filia patri &amp; matri in 
+      <lb ed="#C" n="34"/>feudo, ut in constitut feud de natura succ. in feud, capitul. 1. 
+      <lb ed="#C" n="35"/>principio licet videatur contradicere quod legitur in cor 
+      <lb ed="#C" n="36"/>stitut. feud. de bene feud, capit si foemina. Item verum est, quo 
+      <lb ed="#C" n="37"/>non succedit, nisi ipsa post mortem patris redimeret be 
+      <lb ed="#C" n="38"/>neficium a domino, vel nisi dominus investierit eam d 
+      <lb ed="#C" n="39"/>beneficio patris propter servitium &amp; amorem patris tun 
+      <lb ed="#C" n="40"/>enim non poterit revocari ab ullo ex parentibus suis, n 
+      <lb ed="#C" n="41"/>constitut feud. quemadmodum seud. ad filiam perti. capit. 1. E 
+      <lb ed="#C" n="42"/>haec vera sunt, quod seud. acquiritur per successionem, nis 
+      <lb ed="#C" n="43"/>fuerit tale feudum, in quo nullus succedit, sicut est feudi 
+      <lb ed="#C" n="44"/>Marchiae, vel Ducatus, vel alicujus Comitatus, vel al 
+      <lb ed="#C" n="45"/>cujus Regalis dignitatis, de quo Imperator fecit invest 
+      <lb ed="#C" n="46"/>turam: nam in eo nullus succedit, nisi ab Imperatore fu 
+      <lb ed="#C" n="47"/>erit iterum investitus, antequam morte vasalli finiatur 
+      <lb ed="#C" n="48"/>ut in constitut. feud de feud. Marchiae, capit.1. licet hoc hodi 
+      <lb ed="#C" n="49"/>sit usurpatum in constitutione, defeudalien. in fin. Item ni 
+      <lb ed="#C" n="50"/>si fuerit feudum sine investitura abinitio acquisitum, in 
+      <lb ed="#C" n="51"/>quo nullus succedit, ut in constitu feu. qui. modis feud, consti¬ 
+      <lb ed="#C" n="52"/>potest c. 
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e1119">
+               <lb ed="#C" n="53"/>Per quos fieri possit inrestitura, &amp; per quo 
+      <lb ed="#C" n="54"/>possit recipi, &amp; cora qui 
+      <lb ed="#C" n="55"/>bus testibus fieri debeat investit. &amp; utique fieri potest tan 
+      <lb ed="#C" n="56"/>a foemina, quam a masculo, etiam de novo bene. ut in consi 
+      <lb ed="#C" n="57"/>feu. per quos fi. inve. &amp; per quos reci § faemina quoque. Poteste 
+      <lb ed="#C" n="58"/>fieri investitura tam a minore 25 an. quam a majore, cun 
+      <lb ed="#C" n="59"/>dist. tamen, quia refert utrum fiat investitura de veterib¬ 
+      <lb ed="#C" n="60"/>nesi. an de novo, siquidem fiat investitura de veteri ben¬ 
+      <lb ed="#C" n="61"/>si. tunc si fiat a minore, valet, &amp; tenet, si vero de novo, secus 
+      <lb ed="#C" n="62"/>nec enim potest investitura de novo beneficio recte fieri 
+      <lb ed="#C" n="63"/>nisi ab eo qui legitimam bonorum suorum administration 
+      <lb ed="#C" n="64"/>habet, quia enim qualibet ratione de bonis suis prohib¬ 
+      <lb ed="#C" n="65"/>tur alienare eis, nec per feudum investituram potest fac¬ 
+      <lb ed="#C" n="66"/>re in constit. seu per quos fi. invest. &amp; per quos reci in princip. &amp;S 
+      <lb ed="#C" n="67"/>novi vero feudi. Hodie autem videntur per constitutioner 
+      <lb ed="#C" n="68"/>Federici sacramenta puberum: quod si minor pubes jura 
+      <lb ed="#C" n="69"/>verit se non venturum contra novam investituram, quan 
+      <lb ed="#C" n="70"/>fecerit, quod bene valeat investitura. Persona vero eju 
+      <lb ed="#C" n="71"/>qui investitur non est distinguenda, quoniam etiam ser 
+      <lb ed="#C" n="72"/>vus potest de feudo investiri, nisi ignorantia praetendatur: 
+      <lb ed="#C" n="73"/>domino scil. quia dicat se ignorasse eum servum, quando ei 
+      <lb ed="#C" n="74"/>in vestivit: tunc.n.forte non valeret investitura. Item no 
+      <lb ed="#C" n="75"/>im terest. utrum per te facias investituram, vel recipias, ai 
+      <lb ed="#C" n="76"/>per alium, potest. n. hoc negocium per procuratorem al 
+      <lb ed="#C" n="77"/>u traque parte expediri, ut in consti, seu. per quos si nvesti. &amp; pi 
+      <lb ed="#C" n="78"/>qua uos reci. §personam vero inpestituram accipienus, &amp;c. &amp; argi 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0447.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>sup. de praeb accedens. Restat igitur ut videamus coram qui 
+      <lb ed="#C" n="80"/>bus testibus fieri debeat investitura, quo quidem casu di 
+      <lb ed="#C" n="81"/>stinguendum est, aut enim fit investitura de novo benefi 
+      <lb ed="#C" n="82"/>cio, aut veteri. Item aut a laico, aut a clerico. Item aut do 
+      <lb ed="#C" n="83"/>minus habet pares, aut non. Si quidem fiat investiturad¬ 
+      <lb ed="#C" n="84"/>novo beneficio &amp; a laico, &amp; pares habeat, ille qui investi 
+      <lb ed="#C" n="85"/>coram eis saltem duobus vel tribus fieri debet, &amp; si fiat in 
+      <lb ed="#C" n="86"/>de breve testatum ab eis debet confirmari. Sed secundun 
+      <lb ed="#C" n="87"/>Medio. sufficit, quod ab extraneis confirmatur, ut in cons 
+      <lb ed="#C" n="88"/>feu. quid sit investiturac.i.&amp; 2. &amp; qui testes suntnecessarii ad pro 
+      <lb ed="#C" n="89"/>bandum novam investituram, cap.i. &amp;c. sequ. Unde si posteae 
+      <lb ed="#C" n="90"/>mergat controversia inter dominum &amp; vasallum, do min 
+      <lb ed="#C" n="91"/>in possessione seudi constituto, &amp; negante se investituran 
+      <lb ed="#C" n="92"/>fecisse, sive factam fuisse, tunc vasallus probabit per illo 
+      <lb ed="#C" n="93"/>pares, qui interfuerunt investiturae, vel perbreve testati 
+      <lb ed="#C" n="94"/>supradicto modo: &amp; si pares noluerint jurare, tunc domi 
+      <lb ed="#C" n="95"/>nus debebit eos compellere jurare: si autem noluerint cen 
+      <lb ed="#C" n="96"/>pellere, tunc vasallus poterit etiam per extraneos proba 
+      <lb ed="#C" n="97"/>re investituram esse factam, ut in lib. seu. quid sit investitur. 
+      <lb ed="#C" n="98"/>§stenim. Sin autem extranei noluerunt jurare, Comes ve 
+      <lb ed="#C" n="99"/>populus debebit eos compellere, quod si Comes vel po 
+      <lb ed="#C" n="100"/>pulus non compellat eos, tunc vasallus cum misso dom 
+      <lb ed="#C" n="101"/>ni ad Imperatorem ibit: &amp; quod Imperator judicaverit, ser 
+      <lb ed="#C" n="102"/>vabit, in constitut feud. si de feud. mvest. inter dominum &amp; rasa 
+      <lb ed="#C" n="103"/>lum lis oriatur, cap. 1. Super probatione autem investitur 
+      <lb ed="#C" n="104"/>dic ut plenius notat. in di. quae fit in I. seud quid sit investitura 
+      <lb ed="#C" n="105"/>cap. i.quae sic incipit, Circa hunc articulum talis est facien 
+      <lb ed="#C" n="106"/>da dist. aut agitur de novo, &amp;c. Et haec vera sunt scil. quo 
+      <lb ed="#C" n="107"/>fieri debet investitura coram parib., cum dominus pare 
+      <lb ed="#C" n="108"/>habeat, &amp; praesentes sunt idem &amp; si absunt: quoniam expe 
+      <lb ed="#C" n="109"/>ctari debet, donec praesentes sint, aliter enim non valere 
+      <lb ed="#C" n="110"/>investitura in li seu. de consu. rec. seu.ci.in fin. Si autem domi 
+      <lb ed="#C" n="111"/>nus non habet pares, tunc sufficiat, si fiat investitura deno 
+      <lb ed="#C" n="112"/>vobeneficio coram extraneis testib. ut in praedictoti. &amp;c 
+      <lb ed="#C" n="113"/>Et haec vera sunt, quando investitura fit de novo beneficio 
+      <lb ed="#C" n="114"/>sin autem fiat investitura de veteri beneficio, tunc ind. co 
+      <lb ed="#C" n="115"/>ram omnibus sive paribus suis extraneis fieri potest inve 
+      <lb ed="#C" n="116"/>stitura, in li seu. qui test. sunt neces. ad probam. novam inpestituri 
+      <lb ed="#C" n="117"/>cap. 1. &amp; haec vera sunt, cum laicus investituram facit. Sir 
+      <lb ed="#C" n="118"/>cutem clericus facit investituram, tunc subdis. quia aut fa 
+      <lb ed="#C" n="119"/>cit investituram de rebus eccl. aut de suis propriis reb. Si 
+      <lb ed="#C" n="120"/>quidem facit investituram de reb. eccl. tunc in differente 
+      <lb ed="#C" n="121"/>possunt testes adhiberi, siue pares, sive extranei, &amp; hoc id 
+      <lb ed="#C" n="122"/>eo, quia hujusmodi clerici saepe absconse faciunt invest 
+      <lb ed="#C" n="123"/>turam feudi, sine praesentia suorum confratrum, ut mli 
+      <lb ed="#C" n="124"/>fe si de invest. inter dominum &amp; rasallum lis oriatur, §si autem 
+      <lb ed="#C" n="125"/>venturum. Sin autem facit clericus investituram de rebu 
+      <lb ed="#C" n="126"/>propriis, tunc eadem sunt observanda, quae servantur ij 
+      <lb ed="#C" n="127"/>investitura laici in li feud. qui test sunt neces, ad prob novam in 
+      <lb ed="#C" n="128"/>vestiturim, ci. Sed hodie clericus de reb. eccl. nullam inv 
+      <lb ed="#C" n="129"/>stituram facere potest, nisi secundum quod no supra eo. 
+      <lb ed="#C" n="130"/>quis possit constitueri 
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e1295">
+               <lb ed="#C" n="131"/>Quid sit( fidelitas, &amp;a qub fieri debe 
+      <lb ed="#C" n="132"/>at, &amp; qualiter sit facien¬ 
+      <lb ed="#C" n="133"/>da. Et utique fidelitas nihil aliud est, nisi jusjurandun 
+      <lb ed="#C" n="134"/>quod a vasallo praestatur sive fit domino post investituram 
+      <lb ed="#C" n="135"/>debet enim praecedere investitura fidelitatem, &amp; non fide 
+      <lb ed="#C" n="136"/>litas investituram, ut in li. seu. quid praecedere debeat, an mve 
+      <lb ed="#C" n="137"/>stitura, an fide c.i§ fidelitatem. Et hoc verum est, quod statin 
+      <lb ed="#C" n="138"/>debet sequi fidesitas post investituram; nisi perpactum fide 
+      <lb ed="#C" n="139"/>litas sit remissa, quod fieri potest, ut in li, seu. per quos f. i 
+      <lb ed="#C" n="140"/>vestitura, &amp; per quos reci, ca. nulla, &amp; in quibus casibus seu. ami 
+      <lb ed="#C" n="141"/>cap. est &amp; alia ingratitudo. Filii vero omnes fidelitatem face 
+      <lb ed="#C" n="142"/>re debent, ut in lib seud si de feud controversia fuerit, cap. om 
+      <lb ed="#C" n="143"/>nes filii, &amp; de prohibita feud. alien. per Fed leg. unica, §. praetere 
+      <lb ed="#C" n="144"/>ducatus. Et haec vera sunt, nisi per pactum sit remissa 
+      <lb ed="#C" n="145"/>ut supra dictum est: vel nisi sit minor impubes, qui no 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="146"/>ADDITIO 
+      <lb ed="#C" n="147"/>a Quid sit fidelitas.) Adde quot modis capitur fidelitas, vid 
+    </p>
+    <p>
+      <lb ed="#C" n="148"/>per Bar. in extravaganti ad reprimendum inopiam, &amp; in ca. 1. qui 
+      <lb ed="#C" n="149"/>praecedere debeat, an investitura, an fidelitas, &amp; ibi la. Alua 
+      <lb ed="#C" n="150"/>&amp; Card. Alex. in usib seud. Et quid continetur nomine fi deli 
+      <lb ed="#C" n="151"/>tatis, vide per Doct, in c. ego. N. de inreiuran c. de forma. 22. qu5 
+      <lb ed="#C" n="152"/>&amp; per Doct. inc. de feud--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0448.xml-->
+      <pb ed="#C" n="431"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>cogitur eam facere, donec venerit in majorem aetatem, u 
+      <lb ed="#C" n="2"/>in lib seud si de feu, comroversia fuerit, &amp; c si minor, &amp; se. si qu 
+      <lb ed="#C" n="3"/>decesserit. Sed nunquid fidelitate facta, &amp; jurata domin 
+      <lb ed="#C" n="4"/>debet fieri iterum successori? Dic ut notat. supra de jure 
+      <lb ed="#C" n="5"/>§ quomodo censeatur, sub S cui. per fi. &amp; notat. quod licet quilibe 
+      <lb ed="#C" n="6"/>vasallus, &amp; prae. Fieri autem fidelitatis ita debet: Juro eg 
+      <lb ed="#C" n="7"/>ad sancta Dei Evangelia, quod amodo in antea ero fideli 
+      <lb ed="#C" n="8"/>huic, sicut debet esse vasallus domino: nec id quod mil 
+      <lb ed="#C" n="9"/>sub nomine fidelitatis commiserit, pandam alii, me scien 
+      <lb ed="#C" n="10"/>te, ad ejus detrimentum, &amp; hoc sufficit in sacramento vasa 
+      <lb ed="#C" n="11"/>li. Sin autem domesticus.i. familiaris ejus sit, qui jurat, ve 
+      <lb ed="#C" n="12"/>si ideo fidelitatem jurat, non ut feudum habeat, sed quia es 
+      <lb ed="#C" n="13"/>subjurisdictione ejus cui jurat: tunc nominatim vitam mi 
+      <lb ed="#C" n="14"/>brum &amp; illius rectum honorem jurabit, secundum quo 
+      <lb ed="#C" n="15"/>haec dicuntur in li seu qualiter vasallus jurare debeat, ci. Not. 
+      <lb ed="#C" n="16"/>igitur, quod licet aliquis fidelitatem faciat &amp; juret alicui 
+      <lb ed="#C" n="17"/>non propter hoc sequitur, quod ab eodem teneat in seud 
+      <lb ed="#C" n="18"/>bona sua, ut patet ex praemissis: sed nec omnis ille qui te 
+      <lb ed="#C" n="19"/>net feudum astringitur ad fidelitatem faciendam, ut pate 
+      <lb ed="#C" n="20"/>in his quae no. supra eo. §qualiter feudum distinguatur, ut sin 
+      <lb ed="#C" n="21"/>fidelitate, &amp; praec. Est autem sciendum, quod ille, qui domi 
+      <lb ed="#C" n="22"/>no suo fidelitatem jurat, ista sex semper in memoria hab 
+      <lb ed="#C" n="23"/>re debet: lncolumen, tutum, honestum, utile, facile, poss 
+      <lb ed="#C" n="24"/>bile, debet etiam alia duo domino suo praestare scil. cons 
+      <lb ed="#C" n="25"/>lium &amp; auxilium, si beneficio vult videri dignus, &amp; fideli 
+      <lb ed="#C" n="26"/>tate esse securus, unde versus 
+      <lb ed="#C" n="27"/>
+               <quote xml:id="nbht7y-d1e1099-Qd1e1396">Incolumem, facile, tatum, quoque possibile, honestum 
+      <lb ed="#C" n="28"/>Utile consilium fidus dabit, auxiliumque</quote>
+            </p>
+            <p xml:id="nbht7y-d1e1099-d1e1402">
+               <lb ed="#C" n="29"/>Incolumem, ne scil. sit in damnum domino suo de con 
+      <lb ed="#C" n="30"/>pore suo ergo omne venenum, omnem infirmitatem, mol 
+      <lb ed="#C" n="31"/>tem, captionem, &amp; omnem corporis laesionem vitabit. Faci 
+      <lb ed="#C" n="32"/>lene, scil. id quod dominus facere intendit, &amp; de facili pon 
+      <lb ed="#C" n="33"/>facere reddat ei difficile, sicut multi faciunt hoc latente 
+      <lb ed="#C" n="34"/>procurando. Tutum quoque ne sit ei in damnum de secre 
+      <lb ed="#C" n="35"/>to suo, ne scil. alicui relevet in detrimentuum suum, ho 
+      <lb ed="#C" n="36"/>est alicui qui posset obesse vel de conjurationibus suis, pe 
+      <lb ed="#C" n="37"/>quas tutus potest esse, ne, scil. ipsas prodendo reddat, se¬ 
+      <lb ed="#C" n="38"/>subveniat &amp; defendat. Possibile id est possibile. ne. scil. in 
+      <lb ed="#C" n="39"/>quod dominus facere intendit, &amp; ei possibile est, sicut no 
+      <lb ed="#C" n="40"/>in consimili, sup. eo. ver facile. Honestum, ne sit ei damnum d 
+      <lb ed="#C" n="41"/>sua justitia, vel de aliis causis, quae ad honestatem pertinent 
+      <lb ed="#C" n="42"/>sicut ne uxorem vel filiam dehonestet, ne carmen famosum 
+      <lb ed="#C" n="43"/>vel aliud verbum, vel factum, per quod fama domini sigill¬ 
+      <lb ed="#C" n="44"/>riposset, componat, dicat, vel faciat, nec audiendo, vel di¬ 
+      <lb ed="#C" n="45"/>simulando consentiat. Utile. ne sit ei indamnum de suis po 
+      <lb ed="#C" n="46"/>sessionibus, quin imo ne in aliquo utilitatem ipsius impedia 
+      <lb ed="#C" n="47"/>sed ipsam fieri bona fide procuret. Consiliu, quo ad verbi 
+      <lb ed="#C" n="48"/>Fidus dabit, ifidelis vasallus. Auxiliumque, scilicet de pe¬ 
+      <lb ed="#C" n="49"/>sona &amp; rebus ergo corde, ore, &amp; opere debet vasallus de 
+      <lb ed="#C" n="50"/>mino subvenire, abstinendo a malo, &amp; faciendo bonum, se¬ 
+      <lb ed="#C" n="51"/>in his omnibus sideli suo dominus vicem debet, ut no. infr. §c 
+      <lb ed="#C" n="52"/>vib. no. ver. fi. &amp; ut omnia haec probantur in li. seu deformas 
+      <lb ed="#C" n="53"/>de,c. i. 22quae. 5. de forma, supra de jurejur. ego infra de exces pra 
+      <lb ed="#C" n="54"/>la gravem, &amp; licet pro aliis extraneis non debeat quis ess 
+      <lb ed="#C" n="55"/>in judicio contra dominum, supra de postul, cap. fin. &amp; tamei 
+      <lb ed="#C" n="56"/>pro se &amp; suis haeredibus potest petere &amp; defendere jus si 
+      <lb ed="#C" n="57"/>um, ut arg. supra de jurejurand peritio, ergo supradicta ex 
+      <lb ed="#C" n="58"/>tra judicium intelliguntur. Est &amp; alia de novo super fide 
+      <lb ed="#C" n="59"/>litatis juramento forma inventa, &amp; utentium approbat. 
+      <lb ed="#C" n="60"/>consue. quae hodie in omni fere curia videtur obtinere 
+      <lb ed="#C" n="61"/>hoc scil. Ego Titius juro super sancta Dei Evangelia, quo 
+      <lb ed="#C" n="62"/>ab hac hora in antea, usque ad ultimum vitae meae ero fidi¬ 
+      <lb ed="#C" n="63"/>lis tibi Caio domino meo, contra omnem hominem, ex 
+      <lb ed="#C" n="64"/>cepto Imperatore, vel Rege, quod verbum si recte intelli 
+      <lb ed="#C" n="65"/>gatur, nulla indiget adjectione, sed integram &amp; perfectan 
+      <lb ed="#C" n="66"/>continet in se fidelitatem, sed propter simplices &amp; nom 
+      <lb ed="#C" n="67"/>nis &amp; significationis ignaros, ad illius verbi interpretatio 
+      <lb ed="#C" n="68"/>nem haec adjici solent: Juro quod nunquam scienter ero in 
+      <lb ed="#C" n="69"/>consilio, vel in facto, quod tu amittas vitam, vel membri 
+      <lb ed="#C" n="70"/>aliquod, vel tu recipias in personam laesionem aliquam, vt 
+      <lb ed="#C" n="71"/>injuriam, vel contumeliam, vel quod tu amittas aliquen 
+      <lb ed="#C" n="72"/>honorem, quem nunc habes, vel in antea possidebas, &amp; 
+      <lb ed="#C" n="73"/>scivero, vel audiero pro aliquo, quod aliquis velit aliquo 
+      <lb ed="#C" n="74"/>Istorum contra te facere, pro posse meo, ut non fiat, in 
+      <lb ed="#C" n="75"/>pedimentum praestabo, &amp; si impedimentum praestare ne 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0448.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="76"/>quiaero, quam cito potero tibi nunciabo, &amp; contra eum 
+      <lb ed="#C" n="77"/>prout potero, tibi meum praestabo auxilium, &amp; si cont¬ 
+      <lb ed="#C" n="78"/>gerit te rem aliquam, quam habes vel habebis, injuste ve 
+      <lb ed="#C" n="79"/>casu fortuito amittere, eam recuperare juvabo, &amp; recupe 
+      <lb ed="#C" n="80"/>ratam omni tempore retinere: &amp; si scivero te velle just 
+      <lb ed="#C" n="81"/>offendere aliquem, &amp; inde specialiter vel generaliter fue 
+      <lb ed="#C" n="82"/>ro requisitus meum tibi, sicut potero, praestabo auxilium 
+      <lb ed="#C" n="83"/>&amp; si aliquid mihi in secreto manifestaveris, illud sine tu¬ 
+      <lb ed="#C" n="84"/>licentia nomini pandam, vel per quod pandatur faciam 
+      <lb ed="#C" n="85"/>&amp; si consilium meum super aliquo facto postulaveris, il 
+      <lb ed="#C" n="86"/>lud tibi dabo consilium, quod mihi videbitur tibi magi 
+      <lb ed="#C" n="87"/>expedire, &amp; nunquam in persona mea aliquid faciam sci 
+      <lb ed="#C" n="88"/>enter, quod pertineat ad tuam injuriam, vel contumeli 
+      <lb ed="#C" n="89"/>am, secundum quod haec omnia ita de verbo ad verbun 
+      <lb ed="#C" n="90"/>continentur in li. seu. de nova si for, ca. est&amp; alia, &amp; est scil pos 
+      <lb ed="#C" n="91"/>rubricam illa de forma fidelitatis, ad idem supra de jurqui 
+      <lb ed="#C" n="92"/>ego. &amp; 63. distinct. tibi domino. In quibusdam tamen consue 
+      <lb ed="#C" n="93"/>tudinibus non invenitur. Recte autem ponitur in supra 
+      <lb ed="#C" n="94"/>dicto sacramento de novo invento verbum illud, contri 
+      <lb ed="#C" n="95"/>omnem hominem, quoniam vasallus contra omnes ho 
+      <lb ed="#C" n="96"/>mines debet dominum juvare, etiam contra fratrem &amp; fi 
+      <lb ed="#C" n="97"/>lium, nisi contra alium dominum antiquiorem, hic enim 
+      <lb ed="#C" n="98"/>caeteris est praeferendus, ut in lib. seud. hic finitur I de consue 
+      <lb ed="#C" n="99"/>suetud. scilicet regni incipiunt capitula in illo c. contra om 
+      <lb ed="#C" n="100"/>nes, ad idem in his quae notat. supra de jurejurand § quot co 
+      <lb ed="#C" n="101"/>mites, persicu. item si duo juramenta, &amp; ideo recte fiet, si in sa 
+      <lb ed="#C" n="102"/>cramento expressim excipiatur antiquior dominus, si a 
+      <lb ed="#C" n="103"/>lium habet dominum ille qui jurat, quod autem person¬ 
+      <lb ed="#C" n="104"/>Imperatoris nominatim debeat excipi in omni sacramen 
+      <lb ed="#C" n="105"/>to fidelitatis, expressim dicitur in li seu. de prohi seu alie pe 
+      <lb ed="#C" n="106"/>Fed I. Imperialem § illud quoque praecipimus. Item illud verbum 
+      <lb ed="#C" n="107"/>Et si scivero te velle juste aliquem offendere, &amp;c. quod ir 
+      <lb ed="#C" n="108"/>praedicto sacramento continetur, similiter recte ponitur 
+      <lb ed="#C" n="109"/>quonim non tenetur vasallus dominum adjuvare si veli 
+      <lb ed="#C" n="110"/>aliquem offendere nisi ad domini defensionem, vel nisi dubi 
+      <lb ed="#C" n="111"/>tetur utrum juste, vel injuste guerram faciat, tunc.n.tenetur 
+      <lb ed="#C" n="112"/>eum adjuvare: licet quidam dixerint, quod cum quadam 
+      <lb ed="#C" n="113"/>dist. tenetur eum adjuvare in lib. seud. hic finitur lex. ca. 1. &amp; 
+      <lb ed="#C" n="114"/>junge hic quod no sup de ireu. &amp; pac. §quod si justum bellum 
+      <lb ed="#C" n="115"/>&amp; haec vera sunt, quod tenetur dominum adjuvare, sicu 
+      <lb ed="#C" n="116"/>supra dictum est, nisi dominus sit excommunicatus, vel a 
+      <lb ed="#C" n="117"/>lias a Rege bannitus, quoniam interim vasallus est a sacra 
+      <lb ed="#C" n="118"/>mento fidelitatis absolutus, ut in praedicto tit &amp;c. Quoc 
+      <lb ed="#C" n="119"/>vero sequitur in dicto sacramento. Et inde specialiter ve 
+      <lb ed="#C" n="120"/>generaliter fuero requisitus, &amp;c. non sine ratione poni 
+      <lb ed="#C" n="121"/>tur: quia vasallus non tenetur offerre servitium domino 
+      <lb ed="#C" n="122"/>quantocunque enim tempore stetit quod domino non ser 
+      <lb ed="#C" n="123"/>vierit, ob hoc non amittit feudum, dum tamen domino pe 
+      <lb ed="#C" n="124"/>tenti servire paratus sit, si tamen sciverit domino magnun 
+      <lb ed="#C" n="125"/>periculum imminere, puta mortem, vel captionem, vel quic 
+      <lb ed="#C" n="126"/>simile, tunc enim ultro se ei offerre debet, ut in lib de feud 
+      <lb ed="#C" n="127"/>hic finitur l. c. ad hoc, &amp; si de feud controv. fue.c. licet ras. &amp; an il 
+      <lb ed="#C" n="128"/>le qui interfecit fratrem, feud. amitt. c. non cogitur. Investitur 
+      <lb ed="#C" n="129"/>vero facta &amp; fidelitate subsequuta, omnino cogitur do 
+      <lb ed="#C" n="130"/>minus investitum in vacuam possessionem mittere: quo 
+      <lb ed="#C" n="131"/>si deferat, omnem utilitatem ei praestabit, ut in lib. seud 
+      <lb ed="#C" n="132"/>de nora sid for, capit. investituram, nec liberabitur dominu 
+      <lb ed="#C" n="133"/>praestando interesse, si poeniteat investituram fecisse, ut it 
+      <lb ed="#C" n="134"/>lib. seud si de feud. controversia fuerit, cap si facta, ex praemissi 
+      <lb ed="#C" n="135"/>ergo videtur, quod dominus nullam retineat possessio 
+      <lb ed="#C" n="136"/>ne, ex quo tenetur vasallo dare vacuam possessionem: 
+      <lb ed="#C" n="137"/>lias enim non esset vacua, si aliquam retineret, ad hoc enim 
+      <lb ed="#C" n="138"/>pertinet vacui appellatio, ut nullus sit in poss. ut ff. dea¬ 
+      <lb ed="#C" n="139"/>empt. &amp; rend. leg. 2 fin. Sed dic quod dominus retinet civili 
+      <lb ed="#C" n="140"/>possessionem, &amp; vasallo tradit naturalem, tenetur enim 
+      <lb ed="#C" n="141"/>tradere vacuam scil. ut nullus sit potior vasallo in ipsa pol 
+      <lb ed="#C" n="142"/>sessione naturali, quantum ad perceptionem fructuum 
+      <lb ed="#C" n="143"/>cum vasallus quasi fructuarius intelligatur, ut in lib. seud 
+      <lb ed="#C" n="144"/>quibus ca, seu ami circa prine 
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e1660">
+               <lb ed="#C" n="145"/>Quod jus acquiratur vasallo, facta investi¬ 
+      <lb ed="#C" n="146"/>tura. Facta autem recte 
+      <lb ed="#C" n="147"/>investitura alicujus, &amp; rei possessione tradita, vasallu¬ 
+      <lb ed="#C" n="148"/>hanc habebit potestatem, scilicet quia tanquam domi¬ 
+      <lb ed="#C" n="149"/>nus poterit illam rem a quolibet possidente quasi vendi 
+      <lb ed="#C" n="150"/>care, &amp; si ab alio ejusdem rei nomine conveniatur, defen 
+      <lb ed="#C" n="151"/>sionem poterit opponere, ut in lib. seud. de inrest. rei alie. § 
+      <lb ed="#C" n="152"/>rei autem. Quam actionem habebit utilem ad ipsam rem 
+      <lb ed="#C" n="153"/>vindicandam in li, seu. si de feud. contro, sue. inter ras. &amp; aliun 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0449.xml-->
+      <pb ed="#C" n="432"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>cap si causa inter Vas. Unde hic quaeri posset, utrum vasa 
+      <lb ed="#C" n="2"/>lus habeat dominium ipsius rei saltem utile, quod quid 
+      <lb ed="#C" n="3"/>videtur, cum habeat utilem actionem, &amp; tanquam domi 
+      <lb ed="#C" n="4"/>nus possit rem quasi vendicare, ut supra dictum est, sicu 
+      <lb ed="#C" n="5"/>&amp; alias dicitur de superficiario, cui datur utilis actio. ff. d 
+      <lb ed="#C" n="6"/>rei vendic. I. superficiario, &amp; l. sequent. de pign. actio tutor, §uli 
+      <lb ed="#C" n="7"/>mo, alias incipit I sed &amp; sciens. Idem etiam dicitur &amp; de en 
+      <lb ed="#C" n="8"/>phyteuta, &amp; de eo qui non ad modicum tempus fundun 
+      <lb ed="#C" n="9"/>conduxit, quib. datur utilis in rem ff. si ager vect. vel emphy 
+      <lb ed="#C" n="10"/>pet li§ ultimo, &amp; lult. Econtra videtur, quod non habea 
+      <lb ed="#C" n="11"/>aliquod dominium, sed penes dominum remaneat, nar 
+      <lb ed="#C" n="12"/>cum dominus facit investituram alicujus beneficii propri¬ 
+      <lb ed="#C" n="13"/>tas remanet penes eum, &amp; ususfr transit ad investitum, &amp; 
+      <lb ed="#C" n="14"/>jus haeredes in li. seud in quibus casibus feud. amit. circa pris 
+      <lb ed="#C" n="15"/>Quamvis enim beneficium ad eum res in feudum sibi dat 
+      <lb ed="#C" n="16"/>pertineat, tamen proprietas ad alium spectat, in lib seud 
+      <lb ed="#C" n="17"/>invest. rei alien.c. rei autem, nec obst. quod habeat utilem 
+      <lb ed="#C" n="18"/>ctionem, sive quasi vendicationem, quia per hoc non dic 
+      <lb ed="#C" n="19"/>tur, quod habeat aliquod dominium, nam &amp; aliquando da 
+      <lb ed="#C" n="20"/>tur utilis rei vendicatio ei qui non est dominus directo, ne 
+      <lb ed="#C" n="21"/>utiliter, sicuti est ille cui datur Publicana, Institut. de ac. §. 
+      <lb ed="#C" n="22"/>ce plerunque, &amp; ff.de Publicia per totum, hoc etiam videtur in 
+      <lb ed="#C" n="23"/>nui ex praedicto c. rei autem, cum ibi dicatur, quod tanquan 
+      <lb ed="#C" n="24"/>dominus possit eam vendicare, que. d. sicut dominus possi 
+      <lb ed="#C" n="25"/>eam vendicare, ita ipse poterit eam quasi vendicare, &amp; si 
+      <lb ed="#C" n="26"/>videatur ab eo quasi excludere dominium, quicquid tame 
+      <lb ed="#C" n="27"/>superius sit allegatum, satis videtur dici posse quod habea 
+      <lb ed="#C" n="28"/>utile dominium ad exemplum praedictorum, sed dominu 
+      <lb ed="#C" n="29"/>meus dicit, quod utile dominium est chimaera
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e1752">
+               <lb ed="#C" n="30"/>Quibus modis; seu causis feudum amittatur 
+      <lb ed="#C" n="31"/>Multis de causis amittitur seu 
+      <lb ed="#C" n="32"/>dum, seu non retinetur. Amittitur enim feudum aliquad 
+      <lb ed="#C" n="33"/>propter casum. Aliquando propter incuriam, seu negl 
+      <lb ed="#C" n="34"/>gentiam. Aliquando propter culpam, quae non proprie di 
+      <lb ed="#C" n="35"/>citur Felonia. Aliquando propter Feloniam, quae respici 
+      <lb ed="#C" n="36"/>dominum. Aliquando quae respicit alium, &amp; non dom 
+      <lb ed="#C" n="37"/>num. Item cum propter Teloniam vel culpam amittitu 
+      <lb ed="#C" n="38"/>Aliquando propter suam. Aliquando propter alienam 
+      <lb ed="#C" n="39"/>Aliquando etiam sine culpa amittitur feudum, quod es 
+      <lb ed="#C" n="40"/>dignum no. Propter casum autem amittitur feudum, se 
+      <lb ed="#C" n="41"/>non retinetur, puta si vasallus efficiatur mutus, ita quo 
+      <lb ed="#C" n="42"/>nullo modo loquatur. Veruntamen si feudum magnum fu¬ 
+      <lb ed="#C" n="43"/>rit, quo ei ablato se exhibere non valeat, tantum ei relinqu 
+      <lb ed="#C" n="44"/>debet de dicto feudo, vnde se possit alere, in li seu. episcop. 
+      <lb ed="#C" n="45"/>vel abbatem, &amp;c.c. mutus, sic &amp; providetur praelato deposite 
+      <lb ed="#C" n="46"/>vel remoto, vel inhabili facto, 50. distinct. studeat, supra de cli¬ 
+      <lb ed="#C" n="47"/>debil inini. tua nos, supra derenun. ad supplicationem. Et hoc in 
+      <lb ed="#C" n="48"/>telligas verum esse in feudo, quod non est paternum, sed no 
+      <lb ed="#C" n="49"/>vum, sin autem paternum, tunc mutus, surdus, caecus, clat 
+      <lb ed="#C" n="50"/>dus, vel alius imperfectus, totum retinebit. Quidam tame 
+      <lb ed="#C" n="51"/>dixerunt, eum qui taliter natus est, seudum retinere non po 
+      <lb ed="#C" n="52"/>se, quia ipsi servire non valet, in li seu. an mutus vel alite in 
+      <lb ed="#C" n="53"/>perfectus feud. reci, capit. mutus. Propter religionem vero a 
+      <lb ed="#C" n="54"/>mittitur feudum, puta cum vasallus efficitur clericus, siv 
+      <lb ed="#C" n="55"/>conversus, quia cum factus sit miles Dei, desinit esse imile 
+      <lb ed="#C" n="56"/>seculi, nec pertinet beneficium ad eum qui non solet offic 
+      <lb ed="#C" n="57"/>um gerere, in li. seu. de eo qui arma bellica deposue. cap. i. &amp; a 
+      <lb ed="#C" n="58"/>mutus vel aliter imperfectus seud reci. poss. c mutus, in fin. &amp; si o 
+      <lb ed="#C" n="59"/>feud. controversia fuerit, capit siclericus. Imo etiam si fuer 
+      <lb ed="#C" n="60"/>paternum in eo non succedet, licet illum habitum postposu¬ 
+      <lb ed="#C" n="61"/>rit, in lib feud. de bene foemi c. ex hoc illud. Utrum autem e¬ 
+      <lb ed="#C" n="62"/>clesia possit habere feudum, dic vt notat. infra de jur.nninu. 
+      <lb ed="#C" n="63"/>inquantum, sub q sed nec illa immunitas. Propter incurian 
+      <lb ed="#C" n="64"/>autem seu negligentiam amittiturfeudum, puta, si haere 
+      <lb ed="#C" n="65"/>vasalli stetit post mortem ipsius vasalli per annum &amp; diem 
+      <lb ed="#C" n="66"/>quod non petierit a domino investituram feudi pollicen 
+      <lb ed="#C" n="67"/>do fidelitatem, nisi per pactum fuerit remissa, vel etiam si it 
+      <lb ed="#C" n="68"/>se vasallus post mortem domini eodem modo non peti¬ 
+      <lb ed="#C" n="69"/>rit ab haerede domini in li seud in quibus caus seud amit. c. 
+      <lb ed="#C" n="70"/>pit prima causa, &amp; de ca. Corradi cap i. Et hoc verum est, dum ta 
+      <lb ed="#C" n="71"/>men fuerit major. 13.ann. in li feud. de prohibita feud. alie. pi 
+      <lb ed="#C" n="72"/>Federicum, leg. Imperialem, § si quis infeudatus, secus enim e 
+      <lb ed="#C" n="73"/>set. si esset impubes, cum ipse non debeat ad sacramentum a 
+      <lb ed="#C" n="74"/>cedere, 22 quaestio5. pueri, &amp; capit parvuli. Nec cogatur fide 
+      <lb ed="#C" n="75"/>litatem facere in li seud si de feud. contro. fuerit, capit. si qu 
+      <lb ed="#C" n="76"/>decesserit. Aliud tamen observandum est in milite, quon 
+      <lb ed="#C" n="77"/>am miles potest stare per annum &amp; mensem, quod non pe 
+      <lb ed="#C" n="78"/>tat in vestituram, in li seud quo tempore miles investi pet. debe 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0449.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>at cap.i. quod qualiter intelligatur, ibidem notat. Et inte 
+      <lb ed="#C" n="80"/>lige haec vera esse, si dolose stet per dictum tempus, quo 
+      <lb ed="#C" n="81"/>non petiit, nam si dolose non stetitisset: tunc secus esset, 
+      <lb ed="#C" n="82"/>intelligetur abesse dolus, si justa causa impediente steter 
+      <lb ed="#C" n="83"/>in li. seu. de prohibita. alie, seud. per Lot.I. quoniam inter domini 
+      <lb ed="#C" n="84"/>Tunc autem intelligitur justa causa impediri, cum propte 
+      <lb ed="#C" n="85"/>mortem, vel capitales inimicitias vel infantiam, vel etian 
+      <lb ed="#C" n="86"/>propter absentiam impeditur, in li, seu quo tempore miles in 
+      <lb ed="#C" n="87"/>vest pet debeat, capit. i quod capitulum &amp; alia plura ibi sequet 
+      <lb ed="#C" n="88"/>tia &amp; praecedentia credo fuisse Lotharii Imperatoris, pro 
+      <lb ed="#C" n="89"/>pter culpam vero, quae non proprie potest dici Felonia 
+      <lb ed="#C" n="90"/>mittitur feudum, puta si dominus investituram pollicer 
+      <lb ed="#C" n="91"/>do fidelitatem petierit a vasallo, &amp; illo non praestante, do 
+      <lb ed="#C" n="92"/>minus tribus vicib. conveniente tempore interposito? 
+      <lb ed="#C" n="93"/>curiam propter hoc proclamaverit, &amp; vasallus tribus 
+      <lb ed="#C" n="94"/>cib. a suis partibus citatus jurare noluerit, dum tamenr 
+      <lb ed="#C" n="95"/>sit sacramentum per pactum remissum in li seud in quibu 
+      <lb ed="#C" n="96"/>causis feud. amit c. est &amp; alia ingratitudo. Sed nunquid mino 
+      <lb ed="#C" n="97"/>in isto casu &amp; in superiori restituetur in integrum, si rest. 
+      <lb ed="#C" n="98"/>tutionem petierit, cum hoc ipso videatur laesus scil. qui¬ 
+      <lb ed="#C" n="99"/>investituram intra tempus praedictum, &amp; fidelitatem no fe 
+      <lb ed="#C" n="100"/>cit, cum ab eo peteretur, &amp; hoc ipso debeat amittere seu 
+      <lb ed="#C" n="101"/>dum? Respondeo forte sic, non enim per constit. seu.v 
+      <lb ed="#C" n="102"/>detur illud beneficium, cum ibi hoc specialiter non dica 
+      <lb ed="#C" n="103"/>tur, quod ergo non mutatur, quare stare prohibetur, C. d 
+      <lb ed="#C" n="104"/>test. sancimus. &amp; de appellatio percipimus, in fin. Audivi tamen 
+      <lb ed="#C" n="105"/>quod in quibusdam locis non auditur volens restitui, cun 
+      <lb ed="#C" n="106"/>lex indeterminate loquatur, &amp; facit pro hac via, quia no 
+      <lb ed="#C" n="107"/>restituitur in delictis, ff.de minori. auxilium, &amp; junge quo 
+      <lb ed="#C" n="108"/>notat supra de restitut integ. § in quibus &amp; se. Est &amp; alia cul 
+      <lb ed="#C" n="109"/>pa, propter quam vasallus feudum amittit, puta si infer 
+      <lb ed="#C" n="110"/>daverit feudu alia lege quam quod ipse habet, vel etiam in 
+      <lb ed="#C" n="111"/>talem vasallum, qui feudo servire non potest, in li feud d 
+      <lb ed="#C" n="112"/>lege Corra.c. ex eadem l. descendit. Propter Feloniam auten 
+      <lb ed="#C" n="113"/>quae non respicit dominum, amittit feudum, quando va 
+      <lb ed="#C" n="114"/>sallus interficit fratrem proprium, vel filium fratris, vel al 
+      <lb ed="#C" n="115"/>ud crimen commisit, quod parricidii appellatione cont 
+      <lb ed="#C" n="116"/>netur, ad hoc, ut totam habeat haereditatem, vel etiam h¬ 
+      <lb ed="#C" n="117"/>minem tradidit, ideo quod in curia amplius stare non po 
+      <lb ed="#C" n="118"/>sit in li seud quibus modis seu amit. Sitem si fratrem, &amp; in qui 
+      <lb ed="#C" n="119"/>casibus feudum amit.c.denmque. Propter Feloniam autem, qui 
+      <lb ed="#C" n="120"/>respicit dominum amittit seu. quando vasallus reliquitde 
+      <lb ed="#C" n="121"/>minum in praeliocampestri, non mortuum, nec ad moi 
+      <lb ed="#C" n="122"/>tem vulneratum, propter alias multas ingratitudines, qui 
+      <lb ed="#C" n="123"/>enumerantur in li. seu quibus modis seud ami, cap. 1. &amp;c. se¬ 
+      <lb ed="#C" n="124"/>&amp; de feud. sine culpa non amit. cap. 1. &amp; cap. 2. quas hic enum 
+      <lb ed="#C" n="125"/>rare nimis esset prolixum. Sunt &amp; aliae ingratitudines, 
+      <lb ed="#C" n="126"/>ve Feloniae notandae, quae sunt extra praedictos titulos po 
+      <lb ed="#C" n="127"/>sitae, per quas vasallus amit. seu. puta si vasallus negaveri 
+      <lb ed="#C" n="128"/>feudum, paremve, vel seudi conditionem, in li, seud si d 
+      <lb ed="#C" n="129"/>feud controversia fuerit, c. rasallus si feudum, &amp; de l. Corradc. 
+      <lb ed="#C" n="130"/>fuerit. Et hoc verum est, si sciens negaverit, secus si igno 
+      <lb ed="#C" n="131"/>rans, quoniam tunc subvenitur ei. in li. seu side seud contro 
+      <lb ed="#C" n="132"/>versia fuerit, praedicto c. rasallus, siseu. Quid si vasallus cons 
+      <lb ed="#C" n="133"/>teatur se esse vasallum, sed non vult ostendere seu Respo 
+      <lb ed="#C" n="134"/>deo, pot est compelli ut ostendat, ui ff. de act. empt. &amp; vendi¬ 
+      <lb ed="#C" n="135"/>Titius ff. de interro ac. deaetate, §(qui tacuit, ff. de confess. certum 
+      <lb ed="#C" n="136"/>ff. de censi. forma, resp. 151. infra de censi pervenit. Si non vul 
+      <lb ed="#C" n="137"/>aliquo modo ostendere, praesumitur quod totum tene¬ 
+      <lb ed="#C" n="138"/>in seu. arg ff ad leg. Aquil. item si plures. Quid si quis facia 
+      <lb ed="#C" n="139"/>certum censum pro toto patrimonio, puta 6. denarios, so 
+      <lb ed="#C" n="140"/>vit per triennium quinque denarios tantum, vel faciebat 2 
+      <lb ed="#C" n="141"/>denarios, &amp; gallinam, solvitur alterum tantum? Videtu 
+      <lb ed="#C" n="142"/>quod pro rata incidat in commissum, argumen, infrader 
+      <lb ed="#C" n="143"/>lig. dom, constitutus, in fin. supra de loca. &amp; conduct. propter ster 
+      <lb ed="#C" n="144"/>rilitatem, §verum, infr. de testi. Raynaldus, § caeterum, &amp; praecei 
+      <lb ed="#C" n="145"/>&amp; in his quae notat. infra eodem verum tamen pro ea par 
+      <lb ed="#C" n="146"/>te. Item si vasallus feud. alienaverit contra const. Loth. ve 
+      <lb ed="#C" n="147"/>Federici, seu Corradi, amittit feud. in li. seud. de vasqui cor 
+      <lb ed="#C" n="148"/>tra constitut Loth. Regis hoc beneficium alie, capit.i. &amp; de brohi 
+      <lb ed="#C" n="149"/>feud. alien. per Loth. leg.i. &amp; dec. Corradi, capit.I. &amp; de prohib fer 
+      <lb ed="#C" n="150"/>alien. per Federicum, l. Imperialem. Veruntamen pro ea par 
+      <lb ed="#C" n="151"/>te tantum amittet, pro qua alienata erit, ut in praedicto ti 
+      <lb ed="#C" n="152"/>de vas. qui contra constitut. Loth. &amp; cap. quontam, non debet ul 
+      <lb ed="#C" n="153"/>tra progredi poena, quam reperiatur delictum, C. de paeni 
+      <lb ed="#C" n="154"/>sancimus. Nec proderit vasall. si postalienationem inj 
+      <lb ed="#C" n="155"/>ste factam, ipsum recuperaverit ab emptore, cum seme 
+      <lb ed="#C" n="156"/>fuerit apertum domino, ut in lib. seud quid juris sit, si rasal 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0450.xml-->
+      <pb ed="#C" n="433"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>post alien. seud. ipsum recuperet. capit praeterea. Quod verun 
+      <lb ed="#C" n="2"/>est, nisi vasallus potuerit &amp; voluerit jurare, quod ignoran 
+      <lb ed="#C" n="3"/>esse feud. ipsum vendidit. tunc enim dabitur electio em 
+      <lb ed="#C" n="4"/>ptori cui potius velit ipsum restituere, utrum domino, ai 
+      <lb ed="#C" n="5"/>vasallo, &amp; si vasallo restitutum fuerit, vasallus id benefic 
+      <lb ed="#C" n="6"/>um re obtinebit, non nocente ei venditione, ideo qui 
+      <lb ed="#C" n="7"/>ignorans eam fecit. quod enim dicitur, quod alienatun 
+      <lb ed="#C" n="8"/>reudum domino acquiritur, intelligendum est, cum a sci 
+      <lb ed="#C" n="9"/>ente hoc venditur. Idem est &amp; in omni alienatione, ut in 
+      <lb ed="#C" n="10"/>lib. seud. si de feu. contro fuerit, cap. si vasallus feudum alienav 
+      <lb ed="#C" n="11"/>rit. Si autem hoc non possit jurare, tunc dominus eum re 
+      <lb ed="#C" n="12"/>cuperabit, nulla ei praescriptione obstante, quia quod a 
+      <lb ed="#C" n="13"/>initio non tenuit, non potuit tractu temporis confirmari 
+      <lb ed="#C" n="14"/>in lib. seud. de prohib. feud. alie. per Fed. circa fin. primae colum.? 
+      <lb ed="#C" n="15"/>de cap. Corrad. cap. 1. Item si vasallus dominum accusaveri 
+      <lb ed="#C" n="16"/>vel testimonium contra eum tulerit in civili ac. modic. 
+      <lb ed="#C" n="17"/>vel criminali, similiter amittit feudum: licet quidam d 
+      <lb ed="#C" n="18"/>xerunt, quod in civili causa possit testimonium contr 
+      <lb ed="#C" n="19"/>dominum dicere, ut in lib. seud. de consue feudi regni, capit.s 
+      <lb ed="#C" n="20"/>militer vasallas. Item amittit vasallus feud. si expedition 
+      <lb ed="#C" n="21"/>publice indicta, vasallus a domino suo vocatus, ut secum 
+      <lb ed="#C" n="22"/>in ea expeditione ad suscipiendam Romae coronam v. 
+      <lb ed="#C" n="23"/>dat, &amp; non venerit, nec alium pro se domino acceptabil 
+      <lb ed="#C" n="24"/>miserit, vel stipendia militiae ei non dederit, puta dimidi 
+      <lb ed="#C" n="25"/>reditus feudi unius anni, ut in lib. feudo depacejur firmar 
+      <lb ed="#C" n="26"/>da. l.i. §. ulti. de prohi seu. alien per Feder Imperialem. §. firmit. 
+      <lb ed="#C" n="27"/>etiam statuimus. Hujusmodi autem stipendia, alias dicuntur h¬ 
+      <lb ed="#C" n="28"/>staditiae per capit. Corradi. quae tales erant, quo vasallus qu 
+      <lb ed="#C" n="29"/>non ibat cum domino associante Imperatorem Roman 
+      <lb ed="#C" n="30"/>pergentem, eidem domino debebat praestare in Lombai 
+      <lb ed="#C" n="31"/>dia 12. denar. de medio. in Alemania tertiam partem fri 
+      <lb ed="#C" n="32"/>ctuum seudi illius anni, quo expeditio fiebat, ut in lib. fet 
+      <lb ed="#C" n="33"/>deca. Corradi. §. similiter in hostaditiis. Propter Feloniam au 
+      <lb ed="#C" n="34"/>tem seu culpam alterius, &amp; non suam amittitur feudum 
+      <lb ed="#C" n="35"/>puta si vasallus delinquat sive culpam committat, per qu 
+      <lb ed="#C" n="36"/>reudum amittere debeat; quoniam tunc filii ejus &amp; ali 
+      <lb ed="#C" n="37"/>descendentes similiter amittunt. in lib. seud. si vasal. feu 
+      <lb ed="#C" n="38"/>privetur, cui defera seud, cap. vasalli. feud. &amp; si de feud. contr¬ 
+      <lb ed="#C" n="39"/>fuerit, cap. si rasall. culpam. Imo etiam &amp; agnati amittum 
+      <lb ed="#C" n="40"/>licet fuerit paternum, si Felonia dominum respiciat, u 
+      <lb ed="#C" n="41"/>dominus habeat suae injuriae ultionem. in lib. seud. qui cai 
+      <lb ed="#C" n="42"/>feud amit. capitu. denique licet quidam forte dicant, quo 
+      <lb ed="#C" n="43"/>illud cap. loquitur de feudo novo, &amp; non de paterno. S. 
+      <lb ed="#C" n="44"/>ne culpa vero amittitur feudum, quod est valde notandum 
+      <lb ed="#C" n="45"/>puta si dominus infeudaverit allodium suum, &amp; postea 
+      <lb ed="#C" n="46"/>um contulerit alicui ecclesiae, vel per oblationem fidelit 
+      <lb ed="#C" n="47"/>vel per contractum emptionis &amp; vendi. vel etiam per ali 
+      <lb ed="#C" n="48"/>um contractum, quoniam vasallus non poterit illud feudi 
+      <lb ed="#C" n="49"/>retinere, nisi per gratiam illud ab ecclesia reciperet, tanqu 
+      <lb ed="#C" n="50"/>novum, ut in lib. seud de pacejur. fir. l. unica. §. pen. Sed nun 
+      <lb ed="#C" n="51"/>quid tunc poterit vasallus contra dominum agere, vel a¬ 
+      <lb ed="#C" n="52"/>interesse, vel ut aliud ejusdem bonitatis feudum sibi de 
+      <lb ed="#C" n="53"/>beat dare: Ita videtur, arg. supra de praebend. inter caetera. in 
+      <lb ed="#C" n="54"/>fra de jur. patr. pastoralis. Posset autem quaeri, utrum vasal 
+      <lb ed="#C" n="55"/>lus feudum amittat ipso jure, an per sententiam? Et vide 
+      <lb ed="#C" n="56"/>tur, quod per sententiam, non ipso jure: nec enim debe 
+      <lb ed="#C" n="57"/>vasall. feudum amittere sine certa &amp; convicta culpa, &amp; lau 
+      <lb ed="#C" n="58"/>dantia per judicium parium suorum. ut in Lomb. de benes 
+      <lb ed="#C" n="59"/>cius, &amp;c. tributis. I.ulti. in lib. feud. de feud. sine culpa non ami 
+      <lb ed="#C" n="60"/>capit. 1. &amp; quo tempore miles inve pe. debeat. capit. 3. &amp; jung 
+      <lb ed="#C" n="61"/>quod not. supra de lo. sub §. quid sit de natura. vers. in simplic 
+      <lb ed="#C" n="62"/>bus. &amp; seq. Est autem sciendum, quod sicut vasallus amit 
+      <lb ed="#C" n="63"/>tit feudum propter culpam seu Feloniam, ita dominus. 
+      <lb ed="#C" n="64"/>mittit proprietatem feudi, si eam committat. ut in lib. seu 
+      <lb ed="#C" n="65"/>si de feud. contro. fuerit. cap. domino amittente. &amp; qualiter do 
+      <lb ed="#C" n="66"/>minus propriet. privetur ex facto, nec mirum, cum domi 
+      <lb ed="#C" n="67"/>nus vicem debeat praestare vasallo in his quae vasallus e 
+      <lb ed="#C" n="68"/>a tenetur in lib. seud. de forma fid, cap. I. in fin. 
+    </p>
+            <p xml:id="nbht7y-d1e1099-d1e2188">
+               <lb ed="#C" n="69"/>APud quem, vel apud quos judices causa seud debe 
+      <lb ed="#C" n="70"/>at agitari, b &amp; terminari. Distingue, nam inter quo 
+      <lb ed="#C" n="71"/>sit controversia feudi. Aut enim est controversia inte 
+      <lb ed="#C" n="72"/>dominum &amp; vasallum. Aut inter duos vasallos. Aut inte 
+      <lb ed="#C" n="73"/>dominum, &amp; alium, qui non est vasallus. Aut inter vasa 
+      <lb ed="#C" n="74"/>lum, &amp; alium, qui non est vasallus. Si quidem fuerit con 
+      <lb ed="#C" n="75"/>tro inter duos vasallos, coram domino debet agitari, i 
+      <lb ed="#C" n="76"/>lib. seud. de prohi. feud. alien. per Fed. §. praeterea si inter duo 
+      <lb ed="#C" n="77"/>Sin autem inter dominum &amp; vasallum, tunc coram pari 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0450.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>bus debebit fieri &amp; terminari, ut ibidem, &amp; in Lomb. deben¬ 
+      <lb ed="#C" n="79"/>&amp; cap. tributis. I.ult. &amp; in lib. de feud. de contro. feud. coram pa 
+      <lb ed="#C" n="80"/>rib. terminanda, cap. si inter dominum. &amp; de milite vasall. qui con 
+      <lb ed="#C" n="81"/>cumax est, capit. dominus vocat militem. Pares autem ita de 
+      <lb ed="#C" n="82"/>bebunt eligi: si enim consentiatur in eis eligendis, plani 
+      <lb ed="#C" n="83"/>est: si vero dissentiatur, tunc dominus primo eliget quo 
+      <lb ed="#C" n="84"/>voluerit, postea vasallus eliget secundum numerum a do 
+      <lb ed="#C" n="85"/>mino comprobatum, dum tamen a neutro eligantur pa 
+      <lb ed="#C" n="86"/>res, qui fidelitatem domino non juraverint invito alter¬ 
+      <lb ed="#C" n="87"/>eorum, in lib. seud. coram paribus terminanda, cap. si inter do 
+      <lb ed="#C" n="88"/>minum. debent enim pares, qui debent cognoscere, a do 
+      <lb ed="#C" n="89"/>mino suo debito fidelitatis conjurari. ut in constitu faud. d 
+      <lb ed="#C" n="90"/>prohi. alie. per Fed. I. Imperialem. §. praeterea si inter. Jure au 
+      <lb ed="#C" n="91"/>tem consuetudinario aliter observabatur, quando inte 
+      <lb ed="#C" n="92"/>duos pares erat controversia de seud. quoniam tunc cor¬ 
+      <lb ed="#C" n="93"/>judice, vel arbitro causa terminari debebat. ut in constit 
+      <lb ed="#C" n="94"/>feud. d. I. Corradi, cap. si interduos pares. nec enim poterit de 
+      <lb ed="#C" n="95"/>clinari ejus examen in const. seud. &amp; investi in mari facta 
+      <lb ed="#C" n="96"/>c. illud tamen sciendum est. &amp; an apud judic. vel curiam do 
+      <lb ed="#C" n="97"/>mini causa feud. termina debeat. capitul. ex eo quod supra 
+      <lb ed="#C" n="98"/>diximus. Vel dic, illa c. loquantur de illis non erant alia 
+      <lb ed="#C" n="99"/>vasalli ipsius domini de alio feudo, nisi quia contendebam 
+      <lb ed="#C" n="100"/>de eodem feudo, &amp; quilibet dicebat ad se partem seud perti 
+      <lb ed="#C" n="101"/>nere, dubitatur tamen ad quem deberet pertinere, consti 
+      <lb ed="#C" n="102"/>tutio vero praedicta Feder. loquitur de illis qui alias eran 
+      <lb ed="#C" n="103"/>vasalli ipsius domini, scilicet de aliis seud. &amp; praeterea u 
+      <lb ed="#C" n="104"/>nus illorum debebat esse similiter ejus vasallus de illo seu 
+      <lb ed="#C" n="105"/>licet dubitaretur quis eorum deberet esse. &amp; ita secundi 
+      <lb ed="#C" n="106"/>hoc dices, quod potius sunt diversi casus, quam adversi. S 
+      <lb ed="#C" n="107"/>hoc, quando controversia est inter dominum &amp; vasallum 
+      <lb ed="#C" n="108"/>vel inter duos vasallos. Sin vero controversia fuerit inte¬ 
+      <lb ed="#C" n="109"/>dominum &amp; alium, qui non sit vasallus, puta emptorem 
+      <lb ed="#C" n="110"/>feudi, vel alio modo possidentem ipsum feudum, vel eti: 
+      <lb ed="#C" n="111"/>inter vasallum &amp; alium non vasallum, tunc alius Judes 
+      <lb ed="#C" n="112"/>cognoscet, sub cujus jurisdictione sit saltem reus, vel re¬ 
+      <lb ed="#C" n="113"/>ipsae. Sed in hoc casu videtur subventum constitutionibus 
+      <lb ed="#C" n="114"/>per jus canonicum. vult enim quod dominus feudi co 
+      <lb ed="#C" n="115"/>gnoscat, quando non vasallus convenit vasallum. supra d 
+      <lb ed="#C" n="116"/>judic. caeterum. &amp; de foro compet. ex transmissa. &amp; cap. verum 
+      <lb ed="#C" n="117"/>Quod verum est, si dominus feudi paratus sit de vasalle¬ 
+      <lb ed="#C" n="118"/>tenere justitiam, alias in subsidium etiam ordinarius ve 
+      <lb ed="#C" n="119"/>delegatus cognoscet. supr. de foro competent. ex tenore. &amp; cat 
+      <lb ed="#C" n="120"/>cum sit generale. Potest autem hoc non absurde intelligi ub 
+      <lb ed="#C" n="121"/>tam petens quam vasallus confitentur hoc esse de seud 
+      <lb ed="#C" n="122"/>talis domini, puta Titii. sed si alter neget, tunc durum es 
+      <lb ed="#C" n="123"/>set, quod dominus deberet cognoscere, quia jam esset Ju 
+      <lb ed="#C" n="124"/>dex in re sua. supra de foro comp. si clericus quod esse non de 
+      <lb ed="#C" n="125"/>bet. C. ne quis in causa sua ju. vel jus sibi dicat. in rubro &amp; nigro 
+      <lb ed="#C" n="126"/>Quia tamen hoc in fraudem negari posset, ut declinare 
+      <lb ed="#C" n="127"/>tur judicium domini, dici potest, quod dominus eos con 
+      <lb ed="#C" n="128"/>pellet ad jurandum de veritate dicenda. arg supra de proba 
+      <lb ed="#C" n="129"/>sicut consuetudo. quia malitiis occurrendum est. ff. dere 
+      <lb ed="#C" n="130"/>vend. in fundo. supra de rescript. plerun. c. nonnulli. Si ergo 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="131"/>ADDITIONES. 
+      <lb ed="#C" n="132"/>a Sunt &amp; alii casus praeter eos, qui ab Hostiens. recensentur 
+    </p>
+    <p>
+      <lb ed="#C" n="133"/>quibus vasallus feudo privatur, hos autem ex Martin. ubi su 
+      <lb ed="#C" n="134"/>pra huc transtulimus. Iure itaque proditum ait idem feuda 
+      <lb ed="#C" n="135"/>tarium, qui feudum alienavit, seudo privari debere: nam ec 
+      <lb ed="#C" n="136"/>ipso, cadit jure suo usque adeo, ut dominus alii conceder¬ 
+      <lb ed="#C" n="137"/>possit, extra defend. capit. 2. ubi de hoc in glo. si vasallus. Nan 
+      <lb ed="#C" n="138"/>feudum alienari non debet: quod regulariter verum habet 
+      <lb ed="#C" n="139"/>In dotem enim dari potest, usque ad vitam feudatarii, ut In 
+      <lb ed="#C" n="140"/>stit de don. ante nuptias, &amp; extra de do post divort. c nuper. Quoc 
+      <lb ed="#C" n="141"/>autem de feudo alienato admittendo dictum est, procedit 
+      <lb ed="#C" n="142"/>sive totum, sive majorem partem alienet, &amp; dominus pote 
+      <lb ed="#C" n="143"/>rit illud revocare a quovis possessore. Secus tamen erit, 
+      <lb ed="#C" n="144"/>minorem partem alienet, dummodo remaneat servitium 
+      <lb ed="#C" n="145"/>domini sui. Similiter, si intra annum, &amp; diem investituran 
+      <lb ed="#C" n="146"/>feudi ab haerede domini non quaesiverit. Vel domino peten 
+      <lb ed="#C" n="147"/>ti juramentum fidelitatis tertio commonitus non praestite 
+      <lb ed="#C" n="148"/>rit. Ex de lictoquoque patris filius perdit feudum. argu. ff. d 
+      <lb ed="#C" n="149"/>bo liber. I.quaeritur. &amp; C. de quae st. I.divor. Sed circa hoc recur 
+      <lb ed="#C" n="150"/>rendum est ad consuetudines, &amp; constitutiones feudorum 
+      <lb ed="#C" n="151"/>Feudo vero non potest vasallus renuncare invito domino 
+      <lb ed="#C" n="152"/>perl. sicut initio. C. de actio &amp; obligat. Martin 
+      <lb ed="#C" n="153"/>b Causa feudi debeat agitari) Doct. in cap. caeterum. de in. Bald. in 
+    </p>
+    <p>
+      <lb ed="#C" n="154"/>cap. 1 de contro apud pares curiae. in usib. feuo -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0451.xml-->
+      <pb ed="#C" n="434"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>uterque neget, cum in hoc casu sit quaestio inter dominum 
+      <lb ed="#C" n="2"/>vasallum, cognoscent pares curiae, ut supra dictum est: vt 
+      <lb ed="#C" n="3"/>dic, si petens confiteatur, &amp; possidens neget, cognosce 
+      <lb ed="#C" n="4"/>dominus, quia judicium redditur in invitum. f. de verbor 
+      <lb ed="#C" n="5"/>oblig inter stipulantem. Sed &amp; si petens neget, vel utrique ne 
+      <lb ed="#C" n="6"/>gent, tunc cognoscetjudex ordinarius, ut lites diriman 
+      <lb ed="#C" n="7"/>tur, &amp; circuitus tollantur. f. si cert. pet. quidam. &amp; supra dere 
+      <lb ed="#C" n="8"/>script. c. fin. &amp; de ord. cog. tuam. Cognoscere autem potest di 
+      <lb ed="#C" n="9"/>quaestione seu lan sit feudum, nec ne, &amp; sic an sua sit juris 
+      <lb ed="#C" n="10"/>dictio, nec ne. ff. de jud. si quis ex aliena. &amp; si pronunciet fer 
+      <lb ed="#C" n="11"/>dum esse, remittet eos coram domino feudi qui de prin 
+      <lb ed="#C" n="12"/>cipali cognoscat, alias &amp; ipse de principali cognoscet. ar 
+      <lb ed="#C" n="13"/>Jupra de rescript. dil. fil. Sarracenus. in fin. &amp;c. &amp; ab excommun 
+      <lb ed="#C" n="14"/>cato. &amp; quicquid ibi not. sive de expressis, sive de aliis po 
+      <lb ed="#C" n="15"/>testhuic materiae adaptari. Sin autem vasallus non vasal 
+      <lb ed="#C" n="16"/>lum conveniat, tunc semper ordinarius cognoscet, qui 
+      <lb ed="#C" n="17"/>actor sequitur forum rei. ff. de for. compet. si clericus. C. de for 
+      <lb ed="#C" n="18"/>compet juris ordinem. cum enim iste casus consuetudinibu 
+      <lb ed="#C" n="19"/>feudi non sit comprehensus, absque cal. scilic. scripta str¬ 
+      <lb ed="#C" n="20"/>nuus advocatus poterit super hoc, ut in constitut. feud. 
+      <lb ed="#C" n="21"/>cogn. feud. c. 1. est argum. ad hoc praedictum cap. illud tame 
+      <lb ed="#C" n="22"/>sciendum est. &amp; cap. ex eo quod supra diximus, &amp;c. si inter p. 
+      <lb ed="#C" n="23"/>res duos &amp; de pace tenenda. l. una §. si duo homines. &amp; §. seq. Po 
+      <lb ed="#C" n="24"/>test etiam hoc probari per eandem constit. R. Imperialem 
+      <lb ed="#C" n="25"/>§. praeterea. si inter. cum enim specialiter ibi loquatur d 
+      <lb ed="#C" n="26"/>domino vasallo, voluisse videtur, quod in aliis omnib. ca 
+      <lb ed="#C" n="27"/>sibus veteres leges debeant observari, sci ut alius judexd 
+      <lb ed="#C" n="28"/>eis cognoscat. quod enim non mutatur, quare stare pro 
+      <lb ed="#C" n="29"/>hibetur. C. de testi. sancimus. nam quicquid l. nova speciali 
+      <lb ed="#C" n="30"/>ter nec videtur expressum illud reg. veterum legum, 
+      <lb ed="#C" n="31"/>constitutionum intelligitur relictum. C. de app. praecipimu 
+      <lb ed="#C" n="32"/>in fin. Tamen Goff. sic not. de hac materia. Si agitur inte 
+      <lb ed="#C" n="33"/>duos vasallos, nec revocatur in dubium, quin res de qu 
+      <lb ed="#C" n="34"/>agitur, feudalis sit, tunc cognoscet dominus. supra de for 
+      <lb ed="#C" n="35"/>comp. verum. &amp; hoc quando dubitatur quis sit vasallus. in 
+      <lb ed="#C" n="36"/>terest enim domini hoc discutere, sic intellexit supra de ju 
+      <lb ed="#C" n="37"/>dic. caeterum. &amp; capit novit. supra de foro comp. ex tenore. &amp; cas 
+      <lb ed="#C" n="38"/>ex transmissa. &amp; l. Imperialem. §. praeterea. Sed si quaestio sit in 
+      <lb ed="#C" n="39"/>ter dominum &amp; vasallum, utrum vasallus debeat feudun 
+      <lb ed="#C" n="40"/>perdere, vel habere, per pares curiae haec quaestio finietur 
+      <lb ed="#C" n="41"/>Ubi vero aliquis se asserit dominum feudi, &amp; petit se in 
+      <lb ed="#C" n="42"/>dominum recognosci, possessor autem negat, tunc cor¬ 
+      <lb ed="#C" n="43"/>ordinario loci agendum est, &amp; non coram illo, qui dicits 
+      <lb ed="#C" n="44"/>dominum, ne quis in causa sua judicet. Quod si inter du 
+      <lb ed="#C" n="45"/>os agatur non de jure rei, sed de jure possessionis, puta qui 
+      <lb ed="#C" n="46"/>ad quem venerit possidentem, licet uterque vasallus sit, &amp; 
+      <lb ed="#C" n="47"/>hoc confiteatur, non tamen coram domino feudi, sep cor 
+      <lb ed="#C" n="48"/>ordinario vel delegato, haec erit quaestio terminanda. si 
+      <lb ed="#C" n="49"/>intellexit supr. de for. comp. ex parte. secund Goffr. tamen i 
+      <lb ed="#C" n="50"/>multis locis de consuet. semper cognoscit dominus in ho 
+      <lb ed="#C" n="51"/>casu, sive de possessione, sive de proprietate quaeratur. It 
+      <lb ed="#C" n="52"/>quod supra dixit ordinarium debere cognoscere, ubi ali 
+      <lb ed="#C" n="53"/>quis petit se in dominum recognosci, planum est, si tali 
+      <lb ed="#C" n="54"/>sit ordinarius qui hoc facere possit. Sed quid si quaestios 
+      <lb ed="#C" n="55"/>inter archiepiscopum Vien. &amp; Comitem Sabaudiae supe 
+      <lb ed="#C" n="56"/>re feudali, quae ab Imperatore tenetur immediate, cert 
+      <lb ed="#C" n="57"/>nimis distat Imperator qui in temporalib. Papa qui in spi 
+      <lb ed="#C" n="58"/>ritualibus utriusque judex est. ergo compromittant supr.c 
+      <lb ed="#C" n="59"/>offic. delega. suspicionis causa. &amp; dejud. qualiter. &amp; de offic. ordin 
+      <lb ed="#C" n="60"/>significavit. &amp; de foro comp. ex tenore ad fin. alias nisi in defecti 
+      <lb ed="#C" n="61"/>non videtur quod vasallus possit compromittere in pra 
+      <lb ed="#C" n="62"/>judicium domini, ne forte habeat dominus vasallum qu 
+      <lb ed="#C" n="63"/>habere nollet. arg. supra de foro comp. significasti. ff. pro soc. ac 
+      <lb ed="#C" n="64"/>§. societas. &amp; l.qui admittitur. supra de fil presbyt proposuit nan 
+      <lb ed="#C" n="65"/>&amp; prohibere potest dominus, ne coram alio respondea 
+      <lb ed="#C" n="66"/>supra de foro competent. ex transmissa. hic clericus in his que 
+      <lb ed="#C" n="67"/>tangunt gubernationem ecclesiasticam, non potest judi 
+      <lb ed="#C" n="68"/>cium episcopi declinare in authent. de sanct. episcop. §. oecono 
+      <lb ed="#C" n="69"/>mus, col. 9. 3. quaest. 6. non liceat. 6. quaestion 3 scitote. &amp; c sequent.. 
+      <lb ed="#C" n="70"/>quaest. 2.c. 1. &amp; 2. II. q I. perrenit supra de foro compet. c. 2. &amp;c. se¬ 
+      <lb ed="#C" n="71"/>&amp; c. si diligenti. &amp;c. significasti. ut de hoc not. supra de arb. § d 
+      <lb ed="#C" n="72"/>qua re. versic sed nunquid rasallus: hoc autem in summano 
+      <lb ed="#C" n="73"/>tandum est. quod quando controversia est inter dominum 
+      <lb ed="#C" n="74"/>&amp; vasallum, &amp; sacramentum defertur a parte parti, vasa 
+      <lb ed="#C" n="75"/>lus tunc non debet exigere sacramentum cal. a domino 
+      <lb ed="#C" n="76"/>quod quisque juris in alium statuerit, ipse eodem jure u 
+      <lb ed="#C" n="77"/>tatur, in constit. seud. de consue. re send. c. sacramentum. 1 
+      <lb ed="#C" n="78"/>fin. In quo autem lo co debeat judicium feudi agitari, quae 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0451.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>ri potest. &amp; certe si inter duos vasallos sit contentio pe 
+      <lb ed="#C" n="80"/>dominum: si inter dominum &amp; vasallum, per pares curia 
+      <lb ed="#C" n="81"/>erit quaestio terminanda. ut in lib. seu. de feud. non alien sin¬ 
+      <lb ed="#C" n="82"/>contro. majo. I. Imperialem. §. pen. vocabitur ergo vasallus ac 
+      <lb ed="#C" n="83"/>curiam trina citatione per intervallum. 7. q. 10. dierum 
+      <lb ed="#C" n="84"/>vel alias ad arbitrium curiae. &amp; si nec sic venerit, vasallu 
+      <lb ed="#C" n="85"/>feudum amittere debet, &amp; dominus in possessionem po 
+      <lb ed="#C" n="86"/>netur. sed si intra an. venerit, possessionem recuperat, u 
+      <lb ed="#C" n="87"/>in lib. seu. de milite vas. qui contumax est.c.dominus vocat mil 
+      <lb ed="#C" n="88"/>tem. Vocabitur autem ubicunque curia elegerit intra ter 
+      <lb ed="#C" n="89"/>ritorium domini, cujus est feudum: nam tantum exten 
+      <lb ed="#C" n="90"/>ditur ejus jurisdictio sive forus. ff de jurisdom. jud. I.sin. ter 
+      <lb ed="#C" n="91"/>ritorium enim ideo dicitur, quia is sub cujus domini¬ 
+      <lb ed="#C" n="92"/>consistit, potestatem habet terrendi, id est submovendi 
+      <lb ed="#C" n="93"/>subaudi homines delinquentes. fi de verb sign pupillus. §. 1.1 
+      <lb ed="#C" n="94"/>ritorium. C. de episc. &amp; cler. nulli licere. § fin. ad munic. qui ex 
+      <lb ed="#C" n="95"/>co. unde &amp; territorium ponitur pro dioeces. 16 qu. 7. on¬ 
+      <lb ed="#C" n="96"/>basilicae. &amp; ideo ubique intra provinciam potest subditu 
+      <lb ed="#C" n="97"/>vocari, sicut expresse legitur in authent. de san. episc. §. ut au 
+      <lb ed="#C" n="98"/>tem omnis ecclesiasticus status. col. 9 C. ubi sent. vel clar.l.i. ergi 
+      <lb ed="#C" n="99"/>non expectet, quod curia ad ipsum veniat, imo debet ips 
+      <lb ed="#C" n="100"/>venire ad curiam fi quis or. im bo pos. servetur. I2. §. si praeses.I 
+      <lb ed="#C" n="101"/>forte detineatur in divino servitio, mittetur delegatus ac 
+      <lb ed="#C" n="102"/>ipsum. C. de episc. &amp; cler. jubemus ad sin. sed nec episcopus in 
+      <lb ed="#C" n="103"/>aliqua causa civili vel criminali personaliter est citandus 
+      <lb ed="#C" n="104"/>alioquin trahenti imponitur gravis poena, in auth. de Jane 
+      <lb ed="#C" n="105"/>episc. §. nulli vero jud &amp; § seq. col 9. Nam is locus videtur eli 
+      <lb ed="#C" n="106"/>gendus, in quo jus sine incommodo litigantium rede 
+      <lb ed="#C" n="107"/>potest. ff. de jud si locus, id est ubicunque praetor salva maje 
+      <lb ed="#C" n="108"/>state Imperii sui, id est non in prostibuio, vel alio loco in 
+      <lb ed="#C" n="109"/>honesto, salvoque more majorum, id est non extraterri 
+      <lb ed="#C" n="110"/>torium sibi commissum. 9. q. 2. cap 1. &amp; 2 is est mos majorum 
+      <lb ed="#C" n="111"/>ut extra territorium jus non dicant, sic &amp; illud quod ali 
+      <lb ed="#C" n="112"/>quis non committat jurisdic. nisi is qui ipsam suo jure ha 
+      <lb ed="#C" n="113"/>bet. ff de jurisd omn. jud more. &amp; Isin. Notandum enim est 
+      <lb ed="#C" n="114"/>quod dicit more majorum, non inferiorum, quid judiciun 
+      <lb ed="#C" n="115"/>non subditorum: ergo undecunque sint subditi, si judice 
+      <lb ed="#C" n="116"/>soliti sint jus reddere intra territorium suum &amp; vocat 
+      <lb ed="#C" n="117"/>venire debent, &amp; ibi litigare etiam in itinere dummodi 
+      <lb ed="#C" n="118"/>sedeant protribunali. f. ae inter act. voluit. §. quod ait praetor 
+      <lb ed="#C" n="119"/>&amp; dummodo non in secreto, sed palam sedeant. C. de sem 
+      <lb ed="#C" n="120"/>&amp; interl. omn. jud sintentiam. is locus jus dicitur ubicunqui 
+      <lb ed="#C" n="121"/>praetor, sicut expositum est, jus dicere constituit ff. de iustit? 
+      <lb ed="#C" n="122"/>ju. &amp; Ipen ut tamen non relinquat sacra palatia vel praetori 
+      <lb ed="#C" n="123"/>pro domibus privatorum, ne ipsa palatia contingat diru 
+      <lb ed="#C" n="124"/>C. de offi. rec provin. Isi. &amp; hoc caveat, quod locus utrique part 
+      <lb ed="#C" n="125"/>congruus sit &amp; honestus. ff. de arb. si cum dies. § si arbiter. ( 
+      <lb ed="#C" n="126"/>sequ. supra de confir. util. cum dilecta. §. nolentes. supr. de app. e¬ 
+      <lb ed="#C" n="127"/>parte. &amp; supra detest. cum olim supra de fid instru accepimus.I 
+      <lb ed="#C" n="128"/>enim aliquis ex aliena jurisdictione vocatur. venire de 
+      <lb ed="#C" n="129"/>bet ff de jud. si quis ex aliena. alioquin mulctari potest. ff.den 
+      <lb ed="#C" n="130"/>jus roc l. 2 multo fortius, si de jurisdictione non dubitetur 
+      <lb ed="#C" n="131"/>veniendum est: &amp; si quod habetur privilegium ostenden 
+      <lb ed="#C" n="132"/>dum, ut dicunt jura proxime inducta, dum tamen quis ex 
+      <lb ed="#C" n="133"/>tra provinciam, vel extra duas diaetas a dioe per literas Apo 
+      <lb ed="#C" n="134"/>stolicas non trahatur: quod dic, ut non sup. de rescr. § quae pol 
+      <lb ed="#C" n="135"/>sunt objici. vers. centesmo. &amp; junge quod no. sup. deforo compe 
+      <lb ed="#C" n="136"/>S ex quibus causis. vers. item ratione possessionis. &amp; sequ. Hodi 
+      <lb ed="#C" n="137"/>etiam non potest quis trahi per literas Apostolicas ad l 
+      <lb ed="#C" n="138"/>cum non insignem, ut in authent.d.n.extra de rescript, praese 
+      <lb ed="#C" n="139"/>ti. sicut enim quilibet episcopus potest subditis in quol 
+      <lb ed="#C" n="140"/>bet loco intra suam dioeces. ordines conferre, ita &amp; inte 
+      <lb ed="#C" n="141"/>ipsos ibidem poterit judicare. arg. infr. de paro nullus &amp; u¬ 
+      <lb ed="#C" n="142"/>2.episcopum. &amp;c. seq. &amp; per totum. ad ideon. f. de offic. procu. so 
+      <lb ed="#C" n="143"/>lent &amp; lideo. ff. de offic. praesid. I 3. &amp; 4 &amp; l. generaliter. suprad 
+      <lb ed="#C" n="144"/>offic. leg. §. in quo loco. &amp; quod intra provinciam alicui com 
+      <lb ed="#C" n="145"/>missam teneatur quis respondere, dum tamen extra nor 
+      <lb ed="#C" n="146"/>trahatur, expressum est in authen. ut omnes obe judicib. §. ho 
+      <lb ed="#C" n="147"/>considerantes. &amp; praecedentia &amp; sequentia, coll. 5. nec.n. ad angu 
+      <lb ed="#C" n="148"/>lum provinciae restringendus est judex, sed in omni loc 
+      <lb ed="#C" n="149"/>suae jurisd. potest ius reddere, sicut alias dixit lex simile.s 
+      <lb ed="#C" n="150"/>de vi. &amp; vi arm. l. i. §. 1. ibi. ideoque quando quaeritur de lo 
+      <lb ed="#C" n="151"/>co ubi quaestio agitari debeat, potius inspicitur judex 
+      <lb ed="#C" n="152"/>territorium, quam locus in quo quis degit argum ff. depo 
+      <lb ed="#C" n="153"/>stulando. l. 1. §. I. C. de fru &amp; li: expen. non ignoret. C. de jurisdic 
+      <lb ed="#C" n="154"/>omn. jud. Ipenul &amp; ult. in quibus ca. milites. l.I.C. ubi quis decu 
+      <lb ed="#C" n="155"/>vel cobor. l1. &amp; secundum hoc intellige aliquem convenir 
+      <lb ed="#C" n="156"/>tantum, ubi habet domicilium coram illo judice, nec tame 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0452.xml-->
+      <pb ed="#C" n="435"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>propter hoc removentur aliae causae, ex quibus quis for 
+      <lb ed="#C" n="2"/>sortitur. sic intellige. C. de jurisd. omn. jud. juris ordinem. ui 
+      <lb ed="#C" n="3"/>de exponi debet, ubi, id est, coram quo, vel apud quem i 
+      <lb ed="#C" n="4"/>dicem. sic C. ubi de cri. agi oport. &amp; tit. seq. ad hoc. infra de rap. 
+      <lb ed="#C" n="5"/>1. &amp; 3. qu. 6. c.1. &amp; 6. quaest. 3. placuit. Quid autem juris sit 
+      <lb ed="#C" n="6"/>de controversia sit inter dominum &amp; agnatos defuncti d 
+      <lb ed="#C" n="7"/>reu. vel inter dominum &amp; filium defuncti, vel inter agn¬ 
+      <lb ed="#C" n="8"/>tos &amp; filiam defuncti. dic ut dicit in constit. seud. si de feu¬ 
+      <lb ed="#C" n="9"/>contro fuerit.c.i.2. &amp; 3. &amp; de contro. inter mascul. &amp; foem. de B. 
+      <lb ed="#C" n="10"/>atem sciendum est. Veruntamen licet ibi dicatur, quod pe 
+      <lb ed="#C" n="11"/>sacramentum debeat terminari alterutra parte in proba 
+      <lb ed="#C" n="12"/>tione deficiente: illud tamen est intelligendum cum di¬ 
+      <lb ed="#C" n="13"/>terminatione ejus, quod legitur in const. Fed. de consu.r. 
+      <lb ed="#C" n="14"/>cti seu c. sacramentum. non semper est dandum. hoc iden 
+      <lb ed="#C" n="15"/>est de omnibus cap. in quibus dicitur sacramentum pol 
+      <lb ed="#C" n="16"/>sidenti debere dari, scilicet ut intelligantur cum determ 
+      <lb ed="#C" n="17"/>natione praedicti ca. sacramentum. Istud autem scire de 
+      <lb ed="#C" n="18"/>bes, quod omnes filii ejus qui feudum acquisierunt deben 
+      <lb ed="#C" n="19"/>facere fidelitatem, maxime si feudum indivisum habent 
+      <lb ed="#C" n="20"/>sed si ad unum ex divisione totum pervenerit, tunc ill 
+      <lb ed="#C" n="21"/>solus jurabit. ut in const. seud. si de feud, contro. fue. omnes 
+      <lb ed="#C" n="22"/>lii. Sed nunquid tenebitur jurare fidelitatem, omnibu 
+      <lb ed="#C" n="23"/>b filius sui B domini defuncti? Respondeo, non puto, 
+      quo<lb ed="#C" n="24" break="no"/>niam vasallus non cogitur pro uno feudo plures dom 
+      <lb ed="#C" n="25"/>nos habere. maxime in comitatibus &amp; ducatibus, marchi 
+      <lb ed="#C" n="26"/>onatibus, qui hodie dividi non debent, nec potest dom 
+      <lb ed="#C" n="27"/>nus sine voluntate vasalli feudum alienare, ut omnia hae 
+      <lb ed="#C" n="28"/>probantur in const. seud. de prob feud. ali per Fed. Imperialem. S 
+      <lb ed="#C" n="29"/>praeterea ducatus &amp; de feud sine culpa non amit. §. sancimus. ver 
+      <lb ed="#C" n="30"/>vel si quis. ideo vasalli in generali alienatione non cont 
+      <lb ed="#C" n="31"/>nentur, nisi hoc nominatim dictum sit, ut lib. seud. si de fer 
+      <lb ed="#C" n="32"/>vasal. ab aliquo interpell fuerit in generali. aliqui tamen volu 
+      <lb ed="#C" n="33"/>erunt dicere, quod aequali aut majori domino concec 
+      <lb ed="#C" n="34"/>possunt, ut in lib. feud. I. Corradi. Hoc etiam in summa no 
+      <lb ed="#C" n="35"/>tandum est, quod in feudo prohibitum est pactum. I. com 
+      <lb ed="#C" n="36"/>missoriae. sicut in pignore in const. seud. de feu dato in vicen 
+      <lb ed="#C" n="37"/>I. commissoriae. c. 1. &amp;c. qui curiam ven. c. similiter feud. datum 
+      <lb ed="#C" n="38"/>Est &amp; in summa notandum, quod vasallus potest feudun 
+      <lb ed="#C" n="39"/>refutare quandocunque voluerit; etiam sine voluntat 
+      <lb ed="#C" n="40"/>domini: &amp; postquam refutaverit, non tenebitur domin 
+      <lb ed="#C" n="41"/>servire, veruntamen non debebit eum offendere. in cons 
+      <lb ed="#C" n="42"/>seud de vasall. qui contra const. Lotha feud. ali. c.i. Sed &amp; In ho 
+      <lb ed="#C" n="43"/>in summa sciendum est, quod alienatio feudi paterni no 
+      <lb ed="#C" n="44"/>prohibetur inter agnatos, cum potius refutatio quam al 
+      <lb ed="#C" n="45"/>enatio videatur in const. seud. de alie seu paterni cap. 1. Pra 
+      <lb ed="#C" n="46"/>terea illud in summa sciendum est, quod si vasallus al 
+      <lb ed="#C" n="47"/>quod aedificium in feudo fecerit, aut sua pecunia ipsun 
+      <lb ed="#C" n="48"/>melioraverit, &amp; postea sine descendentibus decesserit, de 
+      <lb ed="#C" n="49"/>minus debet pati aedificium ab haerede auferri, vel debe 
+      <lb ed="#C" n="50"/>pretium meliorationis solvere. idem est, &amp; si sua pecuni 
+      <lb ed="#C" n="51"/>servitutem feudo acquisivit, licet quidam dixerint, quo¬ 
+      <lb ed="#C" n="52"/>omnino ad dominum praedicta pertineant, ut in constitu 
+      <lb ed="#C" n="53"/>seud hic finitur. I. c. si vasallus infeudo. Sed &amp; si vasallus de 
+      <lb ed="#C" n="54"/>cedat ante calendas Martii sine prole, &amp; post Augustur 
+      <lb ed="#C" n="55"/>omnes fructus qui sunt in feudo pertinent ad dominum 
+      <lb ed="#C" n="56"/>si vero post calendas Martii, &amp; ante Augustum, tunc per 
+      <lb ed="#C" n="57"/>tinent ad haeredem. Quidam tamen dixerunt, quod quo 
+      <lb ed="#C" n="58"/>cunque tempore decesserit, omnes pendentes pertinen 
+      <lb ed="#C" n="59"/>ad dominum, ut in praedicto tit. cap. si pasall. decedat. Ho 
+      <lb ed="#C" n="60"/>autem in summa non est omittendum, quod filius no 
+      <lb ed="#C" n="61"/>potest retinere feud. repudiata haereditate patris ad ho¬ 
+      <lb ed="#C" n="62"/>ut non teneatur solvere debitum paternum. sed aut te 
+      <lb ed="#C" n="63"/>tum debet repudiare, aut totum retinere, nisi dominus e 
+      <lb ed="#C" n="64"/>tanquam de novobeneficio investiat, agnatis consentiei 
+      <lb ed="#C" n="65"/>tibus, quoniam tunc illud bene retinet sine aliquo oner 
+      <lb ed="#C" n="66"/>haereditario. aliud autemagnatis, quoniam ipsi possunt seud 
+      <lb ed="#C" n="67"/>retinere repudiata haereditate sine aliquo onere haered 
+      <lb ed="#C" n="68"/>tario, ut in constitut. seud. an agnatus vel filius defuncti possi 
+      <lb ed="#C" n="69"/>retmere repud. haeredit. c. si contigerit. &amp; de capitaneo qui curian 
+      <lb ed="#C" n="70"/>vendidit. c. filius non potest. Finaliter in summa notandun 
+      <lb ed="#C" n="71"/>puto, quod salvis legibus imperialibus quae continentu 
+      <lb ed="#C" n="72"/>inconsti. seu. natura &amp; causa feudi. secundum diversas re 
+      <lb ed="#C" n="73"/>gionum consuetudines, est diversimode terminanda, sic 
+      <lb ed="#C" n="74"/>ut not. simile infra de nat. ex libero ventre. vers. quamvis, qui 
+      <lb ed="#C" n="75"/>non est consuetudo unius regionis alterius consu. sub 
+      <lb ed="#C" n="76"/>vertenda. 11. distinct. illud breviter. &amp; c. scit sancta. consue 
+      <lb ed="#C" n="77"/>tudine autem deficiente in regione aliqua recurrendun 
+      <lb ed="#C" n="78"/>est ad aliarum consuetudinem regionum. infra de cens. si 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0452.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>per eo. &amp; si nec illa appareat constitutione vel lenge scripti 
+      <lb ed="#C" n="80"/>sine cal. nisi ut poterit strenuus advocatus, ut in lib seua. d 
+      <lb ed="#C" n="81"/>feud, cogn. cap. 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="82"/>TDDITI. 
+      <lb ed="#C" n="83"/>b Nunquid tenebitur jurare fid elitatem omnibus filiis suis 
+    </p>
+    <p>
+      <lb ed="#C" n="84"/>Adde in ista materia reperio duas opin. prima opinio, quoc 
+      <lb ed="#C" n="85"/>omnibus hoc firmat gloss. in I si cuius. in §. I. ff. de usu fruct. qui¬ 
+      <lb ed="#C" n="86"/>juramentum fidelitatis est quid individuum sicut &amp; ipsa fide 
+      <lb ed="#C" n="87"/>litas. ergo unicuique insolidum debetur per regulam. 12. i 
+      <lb ed="#C" n="88"/>§. pen. ff. de verb. oblig. idem expresse firmat Bald. in l.i. in 22. 9 
+      <lb ed="#C" n="89"/>ff. de rer. divis. An. in l. 2. § ex his. &amp; ibi Ludovi. Ro. in 3. col. ff. d 
+      <lb ed="#C" n="90"/>verb. oblig. Ioan. de Imo. in l. 4. in fin. ff. eod. Bal. &amp; Ang. in Icom 
+      <lb ed="#C" n="91"/>munis. ff. de in ius voc. Gul. de Cu. &amp; Alb. de Rosa. in Iduo patro 
+      <lb ed="#C" n="92"/>ni. in princ. ff. de iureiur. &amp; latius per loan. And. in add. Spec. ii 
+      <lb ed="#C" n="93"/>tit. de loca. in §. nunc aliqua. vers. 72. contrariam opin. tenet gle 
+      <lb ed="#C" n="94"/>in c. I. in §. praeterea ducatus de prohib. feud alie. per Fed in usibu 
+      <lb ed="#C" n="95"/>fend. istam opinionem tenet Alber. de Rosa. in I. stipulatio. in 
+      <lb ed="#C" n="96"/>5. quaesitum. ff.deno. op. nun. idem Alb in Icum unus. F. de ali. C 
+      <lb ed="#C" n="97"/>ciba. leg. Idem tenet lac. de Belui. in c omnes filii si de seud fueri 
+      <lb ed="#C" n="98"/>contro. inter do. &amp; agn. in usib fen. &amp; ibi Bald sibi contrarius. iden 
+      <lb ed="#C" n="99"/>tenet lac. de Ardizonibus summus feudista in summa seu 
+      <lb ed="#C" n="100"/>dorum. in tit de succes. feud. in §. sed ubi dominus. idem tenet Spe 
+      <lb ed="#C" n="101"/>&amp; ibi loan. And. in add. intit. de feud. in §. quoniam. vers. 29. sec 
+      <lb ed="#C" n="102"/>Pilius doctor antiquus late disputa vit hunc casum, &amp; deter 
+      <lb ed="#C" n="103"/>minavit pro prima opinione, sed Fran.de Are. in L2. ff. de vers 
+      <lb ed="#C" n="104"/>oblig. tenet cum secunda opin. versi. quod vasallus non cogi 
+      <lb ed="#C" n="105"/>tur praestare juramentum fidelitatis unicuique filiorum, sec 
+      <lb ed="#C" n="106"/>sufficit uni jurare. ubi dicit quod ista opinio est sequenda in 
+      <lb ed="#C" n="107"/>practica eo; quia est communis opin. sed in tanta varietat. 
+      <lb ed="#C" n="108"/>tenerem primam opinionem, pro qua tenet Dy. &amp;t Ray. de For 
+      <lb ed="#C" n="109"/>li. &amp; Bar. in I.cum unus in princ. ff. de bo. autho ind. eandem par 
+      <lb ed="#C" n="110"/>tem tenet Ang in Lloci corpus. in § sifundus. ff. si servi. vend. &amp;--> 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

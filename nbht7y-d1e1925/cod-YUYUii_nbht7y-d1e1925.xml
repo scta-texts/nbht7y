@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 22</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 22</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="733"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1925"><!-- nbht7y-l5t22 -->
+            <head xml:id="nbht7y-d1e1925-Hd1e101">Titulus 22</head>
+            <head xml:id="nbht7y-d1e1925-Hd1e103" type="question-title">De collusione detegenda</head>
+            <p xml:id="nbht7y-d1e1925-d1e106">
+               <lb ed="#C" n="123"/>De Collusione detegenda. Rubri¬ 
+      <lb ed="#C" n="124"/>ca XXII. 
+    </p>
+            <p xml:id="nbht7y-d1e1925-d1e113">
+               <lb ed="#C" n="125"/>SUMMARIA 
+      <lb ed="#C" n="126"/>I Collusio quid sit 
+      <lb ed="#C" n="127"/>2 Quis colludere possii 
+      <lb ed="#C" n="128"/>3 Quis qualiter a lite possit discedere 
+      <lb ed="#C" n="129"/>4 Colludens qua poena feriatur. 
+    </p>
+            <p xml:id="nbht7y-d1e1925-d1e126">
+               <lb ed="#C" n="130"/>QVoniam in accusationibus criminum 
+      <lb ed="#C" n="131"/>de quibus dictum est, saep 
+      <lb ed="#C" n="132"/>colluditur, dicamus, Quid sit collusio. Qui 
+      <lb ed="#C" n="133"/>colludat, Qualiter quis a lite discedere pol 
+      <lb ed="#C" n="134"/>sit, Qua poena colludens feriatur
+    </p>
+            <p xml:id="nbht7y-d1e1925-d1e140">
+               <lb ed="#C" n="135"/>Quid, sit collusio: hnteractotem, &amp; reum la¬ 
+      <lb ed="#C" n="136"/>tens &amp; fraudulenta conven¬ 
+      <lb ed="#C" n="137"/>tio, qua interveniente, aliquando delicta remanent impu 
+      <lb ed="#C" n="138"/>nita, vel etiam committuntur, ut colligitur, infra eod, cap 
+      <lb ed="#C" n="139"/>&amp; c. audivimus, &amp; c ulti. quae aliquando committitur in cri 
+      <lb ed="#C" n="140"/>minalibus, aliquando in civilibus, ut ibidem, aliquando it 
+      <lb ed="#C" n="141"/>causa status, puta cum dominus accepta pecunia, vel alia 
+      <lb ed="#C" n="142"/>malitiose permittit se a servo suo in status judicio supera 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="143"/>ADDITIO. 
+      <lb ed="#C" n="144"/>a Quid sit collusio] Adde glo. in c ,. eod. it, gl. inc cum cler a 4 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>Dect. inrub. eoxit. de hac materia vide per Bar. in I postcontra 
+      <lb ed="#C" n="146"/>ctum. ff. de dena. &amp; an collusio committatur in causa civili vel 
+      <lb ed="#C" n="147"/>criminali. Vide per Archi. inc si quem. 2. 9. 3. loan. de Ana. sa 
+      <lb ed="#C" n="148"/>perista rubi--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0751.xml-->
+      <pb ed="#C" n="734"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>ri, quae collusio detegenda est, &amp; datur praemium deteger 
+      <lb ed="#C" n="2"/>di, quia adjudicatur ei servus, ut ff.cod. li. quod dic, ut nota 
+      <lb ed="#C" n="3"/>supr. de sent. &amp; re jud. § quibusnoceat. vers. 5. &amp; seq. In crimin. 
+      <lb ed="#C" n="4"/>libus quoque committitur, quando scil. accusator veras er 
+      <lb ed="#C" n="5"/>minum probationes abscondit, seu dissimulat: falsas ver¬ 
+      <lb ed="#C" n="6"/>excusationes admittit, &amp; per hoc incidit in vitium praeva 
+      <lb ed="#C" n="7"/>ricationis, &amp; extra ordinem punitur. 2qu 3. §. praevaricato 
+      <lb ed="#C" n="8"/>vers. sciendum. &amp; §. praevaricationem. vel quando accusato 
+      <lb ed="#C" n="9"/>in universum ab accusatione desistit, &amp; per hoc incidit i 
+      <lb ed="#C" n="10"/>vitium tergiversationis, &amp; is quinque lib. auri punitur, &amp; 
+      <lb ed="#C" n="11"/>infamis fit ff de praevarica, praevaricationis, in fin. Sed si absen 
+      <lb ed="#C" n="12"/>est accusator, &amp; tacitus nolit procedere, gravius punitus 
+      <lb ed="#C" n="13"/>ff. de poenis, absentem. §2. Sed &amp; clerici plerunque colludente 
+      <lb ed="#C" n="14"/>superecclesia, quam possident, se superari permittunt.r. 
+      <lb ed="#C" n="15"/>tinentes eandem, &amp; certam pensionem superanti redder 
+      <lb ed="#C" n="16"/>tes, ut sic superantes in ecclesia ipsa post mortem suam su¬ 
+      <lb ed="#C" n="17"/>cedant, sed non valet quod agunt, imo tales ecclesiae, supe 
+      <lb ed="#C" n="18"/>quam collusum est, sunt merito spoliandi, seu privandi, c 
+      <lb ed="#C" n="19"/>in fraudem episcoporum &amp; aliorum, ad quos collatio ipsa 
+      <lb ed="#C" n="20"/>rum pertinet, talis collusio attentetur, ut infr eo. audivimus
+    </p>
+            <p xml:id="nbht7y-d1e1925-d1e212" n="2">
+               <lb ed="#C" n="21"/>Quis colludat Et quidem colludit principali 
+      <lb ed="#C" n="22"/>persona, quae ad judicium provo 
+      <lb ed="#C" n="23"/>cavit, vel provocata est, colludit &amp; advocatus, qui sii 
+      <lb ed="#C" n="24"/>causa criminali colluserit, extra ordinem punitur, 293. 5 
+      <lb ed="#C" n="25"/>notandum versicul. praevaricator. Colludit &amp; procurator, qu 
+      <lb ed="#C" n="26"/>dolose se patitur superari, contra quem agitur de dolo, 
+      <lb ed="#C" n="27"/>solvendo sit, alias contra illum, cum quo collusum est in 
+      <lb ed="#C" n="28"/>subsidium, nisi in se transferre paratus sit actionem. Fd 
+      <lb ed="#C" n="29"/>dolo eleganter § pen argu ff de eo, per quem factum est. I sin. Co¬ 
+      <lb ed="#C" n="30"/>ludit laicus, colludit &amp; clericus, &amp; patet in his quae not su 
+      <lb ed="#C" n="31"/>pra eod §. proximo 
+    </p>
+            <p xml:id="nbht7y-d1e1925-d1e238" n="3">
+               <lb ed="#C" n="32"/>Qualiter quis site discedere posit Etcere sip¬ 
+      <lb ed="#C" n="33"/>ritualis, si temporalis, aut civili 
+      <lb ed="#C" n="34"/>est, aut criminalis, aut mixta. Si civilis sit lis: potest qui 
+      <lb ed="#C" n="35"/>libet discedere a lite per pactum, vel transactionem, nisi fi 
+      <lb ed="#C" n="36"/>mosa sit actio in quo casu si pacisceretur sine licentia ju 
+      <lb ed="#C" n="37"/>dicis, infamis remaneret reus, sedjussu praetoris licere 
+      <lb ed="#C" n="38"/>sine aliqua infamia, ut f. de his qui no. infam athletas. §. ultin 
+      <lb ed="#C" n="39"/>&amp; I. seq. &amp; I furti. §. pactus. &amp; §. qui jussu. alias autem libel 
+      <lb ed="#C" n="40"/>lo sem? oblato adversario contradicente, non licet disce 
+      <lb ed="#C" n="41"/>dere sine metu expensarum, ut C. quomodo &amp; quando ju 
+      <lb ed="#C" n="42"/>dex auth, qui semel. &amp; not. supra de libell. oblat. §. utrum acto 
+      <lb ed="#C" n="43"/>Si vero criminalis causa sit, lite non contestata disceder 
+      <lb ed="#C" n="44"/>licet, ut supra de accus licet. § quia vero. f. ad Turpil. mulier. e 
+      <lb ed="#C" n="45"/>Iquaesitum nisi nomen receptum fuerit inter reos, vel nis 
+      <lb ed="#C" n="46"/>ex hoc ipse accusatus remaneat infamatus, etiam reo no 
+      <lb ed="#C" n="47"/>consentiente, alias non licet, nisi de consensu judicis 
+      <lb ed="#C" n="48"/>rei, ut C. de abo. l. 3. &amp; §. q. 1 quidam. Sin autem accusaro 
+      <lb ed="#C" n="49"/>aliter destiterit, incidit in Turpil. si crimen quod intenta 
+      <lb ed="#C" n="50"/>bat publicum erat, ut C ad Turpil. II. &amp; punitur fidejusso 
+      <lb ed="#C" n="51"/>ejus in quantitate promissa, &amp; ipse extra ordinem, pun 
+      <lb ed="#C" n="52"/>tur pro motu judicis cum nota infamiae, ut C ad Turpil. 
+      <lb ed="#C" n="53"/>2. &amp; f. de custo. &amp; exhib. reo. Iulti. &amp; de praevarica. si is. Sed s 
+      <lb ed="#C" n="54"/>privatum erat, extra ordinem punitur. ff. ad Turpil. si qui 
+      <lb ed="#C" n="55"/>repeteret in sin. Haec secundum leges, nam secundum ca 
+      <lb ed="#C" n="56"/>nones omne crimen publicum censetur, unde non lice 
+      <lb ed="#C" n="57"/>discedere per transactionem seu gratiam, sine authoritat 
+      <lb ed="#C" n="58"/>judicis factam, alias nihilominus quaeretur de crimine 
+      <lb ed="#C" n="59"/>etiam si extraordinarie in modum inquisitionis quaereb¬ 
+      <lb ed="#C" n="60"/>tur, ut infra eodem, c.i. &amp; 2. &amp; ult. Judex tamen in crimine 
+      <lb ed="#C" n="61"/>in quo dispensare potest, indulgere poterit abolitionem 
+      <lb ed="#C" n="62"/>&amp; gratiam facere, si partes consentiant. 5. q. 2. si primates oc 
+      <lb ed="#C" n="63"/>dist c.i. &amp; c. studendum. 2qu. 3 si quem poenituerit. S praevaricatur 
+      <lb ed="#C" n="64"/>alias inquiret ut dictum est C. degener. abo. l. 2. &amp; l. indulgen 
+      <lb ed="#C" n="65"/>tia. In causa autem mixta, puta quando agitur ad thori se 
+      <lb ed="#C" n="66"/>parationem, ut supra de procur tuae. quandocunque reced 
+      <lb ed="#C" n="67"/>potest ante sententiam, ut supra de adulter. si vir sciens,. &amp; a 
+      <lb ed="#C" n="68"/>divor. ex literis. nec mirum, nam &amp; condemnatam de adul 
+      <lb ed="#C" n="69"/>terio potest sibi vir reconciliare. supra de conper conjug gai 
+      <lb ed="#C" n="70"/>demus. supra de donat inter vir. &amp; uxor. plerunque 329. 1. debi 
+      <lb ed="#C" n="71"/>nedicto. quia non solum septies, &amp;c. ut supra de jurejuran 
+      <lb ed="#C" n="72"/>quemadmodum. In spirituali tamen licet quandoque pe 
+      <lb ed="#C" n="73"/>gratiam a lite discedere. Sed qui sine justa causa discedi¬ 
+      <lb ed="#C" n="74"/>punitur. 2q. 6. quapropter. supra de sim. nemo. Sed ab ea no 
+      <lb ed="#C" n="75"/>licet discedere per transactionem vel pactum, quamvi 
+      <lb ed="#C" n="76"/>admittatur amicabilis compositio, quod dic, ut not. supr 
+      <lb ed="#C" n="77"/>de transaction. §. &amp; in quibus cesset. versic. uem cessat in spiritual 
+      <lb ed="#C" n="78"/>bus praeterquam in causa matrimoniali, ut supra de transac 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0751.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>capit. ultim. &amp; dererum permut.c. ult. Ubi vero in causa cri 
+      <lb ed="#C" n="80"/>minali, vel spiritualiter quis desistit, quam debeat, ad judi 
+      <lb ed="#C" n="81"/>cem pertinet nihilominus ex officio suo inquirere, infra¬ 
+      <lb ed="#C" n="82"/>1. &amp; 2. C. de abol. l. 2. &amp; I. falladiter. ita quod si in modum ac 
+      <lb ed="#C" n="83"/>cusationis agebatur, quaeretur iterum de antiquis crimi 
+      <lb ed="#C" n="84"/>nibus, alias si collusum non esset, vel si ageretur in modi 
+      <lb ed="#C" n="85"/>inquisitionis, quaeretur de novis tantum. infra cod c sin. e 
+      <lb ed="#C" n="86"/>supra de celebrat. miss. literas. Ubi vero collusum est, iterun 
+      <lb ed="#C" n="87"/>quaeretur, nec enim tenet sententia per collusionem lata 
+      <lb ed="#C" n="88"/>2.4.3. si quem poenituerit. f.cod. l. 2. &amp; 3&amp;I sententia. Ideo sicu 
+      <lb ed="#C" n="89"/>probata praevaricatione denuo accusatur absolutus. f. d 
+      <lb ed="#C" n="90"/>praevaric. I. 3. sic &amp; probata collusione, ut dictum est, de no¬ 
+      <lb ed="#C" n="91"/>not. de sent &amp; re judic. sub rub. de re jud. §. quibus noceat. sub? 
+      <lb ed="#C" n="92"/>haec tamen regula. vers. &amp; quod dixi, &amp; sequ. Sed ubi ex just. 
+      <lb ed="#C" n="93"/>causa vult desistere quis, judex abolitionem indulger 
+      <lb ed="#C" n="94"/>debet, C. de aboli. l..&amp; 2 q. 3. abolitio 
+    </p>
+            <p xml:id="nbht7y-d1e1925-d1e381" n="4">
+               <lb ed="#C" n="95"/>Qua poena colludens feriatur. Etquidens 
+      <lb ed="#C" n="96"/>ne poena transire non de 
+      <lb ed="#C" n="97"/>bet. ut 2. q. 3. si quem paenituerit. Clericus enim super bene 
+      <lb ed="#C" n="98"/>ficio colludens, privatur eo, ut supra eod §.i. versicul sede 
+      <lb ed="#C" n="99"/>clerici. Qualiter etiam in criminalibus puniatur, not. ref¬ 
+      <lb ed="#C" n="100"/>eodem. §. vers. in criminalibus. In causa status is qui colludi 
+      <lb ed="#C" n="101"/>perdit jus in persona illius, de cujus statu agebatur, &amp; ap 
+      <lb ed="#C" n="102"/>plicatur illi, qui collusionem detexit. F. eod. I. C. eod. I fin. d 
+      <lb ed="#C" n="103"/>mjus vocand. adoptivum. §. patronum. Qualiter etiam puni 
+      <lb ed="#C" n="104"/>atur advocatus &amp; procurator colludens, not supra eoden 
+      <lb ed="#C" n="105"/>§. quis colludat. In aliis autem civilibus causis punitur col 
+      <lb ed="#C" n="106"/>ludens pro motu judicis, quem delusit supra de offic. dele 
+      <lb ed="#C" n="107"/>de causis. &amp; breviter omnes calumniosi pro qualitate ac 
+      <lb ed="#C" n="108"/>missi criminis extra ordinem puniuntur, ut f ad Turpile 
+      <lb ed="#C" n="109"/>in privati. &amp; si privatum sit crimen, officio judicis culp 
+      <lb ed="#C" n="110"/>coercetur, utff ad Turpil siquis. §. ulti. &amp; de praevaricator. bu 
+      <lb ed="#C" n="111"/>ut not. in superioribus, &amp; supra de calum. §. quando &amp;S 
+      <lb ed="#C" n="112"/>quali poen¬ 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

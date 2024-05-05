@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 15</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 15</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="256"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e702"><!-- nbht7y-l2t15 -->
+            <head xml:id="nbht7y-d1e702-Hd1e101">Titulus 15</head>
+            <head xml:id="nbht7y-d1e702-Hd1e103" type="question-title">De eo, qui mittitur in possessionem causa rei servandae</head>
+            <p xml:id="nbht7y-d1e702-d1e106">
+               <lb ed="#C" n="42"/>De eo qui mittitur in possessionem 
+      <lb ed="#C" n="43"/>causa rei servandae. Rub. XV 
+    </p>
+            <p xml:id="nbht7y-d1e702-d1e113">
+               <lb ed="#C" n="44"/>QVia saepe contingit, quod propterde 
+      <lb ed="#C" n="45"/>lum seu contumaciam ad 
+      <lb ed="#C" n="46"/>versae partis, is qui praesens est, punitur ij 
+      <lb ed="#C" n="47"/>possessionem rei petitae, vel pro modo de 
+      <lb ed="#C" n="48"/>biti declarati: ut not. supr. ut lit. non contesta 
+      <lb ed="#C" n="49"/>quoniam frequenter. §. in aliis. vers. seque ideo viso de dolo? 
+      <lb ed="#C" n="50"/>contumacia, videmus de eo qui mit. &amp;c. &amp; quia haec rub 
+      <lb ed="#C" n="51"/>in superiori plene exposita est, &amp; tractata, ideo non ins 
+      <lb ed="#C" n="52"/>sto. Sed unum nota, quod si non steterit per illum qui pa 
+      <lb ed="#C" n="53"/>sus est missionem in possessionem, quo minus intra anni 
+      <lb ed="#C" n="54"/>caveret, sed per judicem, non imputatur ei: imo nec ob 
+      <lb ed="#C" n="55"/>stante lapsu anni postea recuperat. infra cod.c. 2. infrit. i.c. 
+      <lb ed="#C" n="56"/>Idem est si per adversarium steterit. infra eod. cum venissen 
+      <lb ed="#C" n="57"/>sed non intelligo, quod in hoc c. cum venissent: cautionen 
+      <lb ed="#C" n="58"/>obtulerit in forma judicii, nec in modum querelae: qui¬ 
+      <lb ed="#C" n="59"/>videretur renunciasse appellationi suae sup de off. de leg gri 
+      <lb ed="#C" n="60"/>tum. sed tractando de compositionequme rravit factum, dicendo, Eg 
+      <lb ed="#C" n="61"/>appellavi ex talifacto, nec volo renunciare appellationi: 
+      <lb ed="#C" n="62"/>tamen adversarius meus vellet, ego redimerem 6. lib. v. 
+      <lb ed="#C" n="63"/>xationem meam, &amp; starem juri, dummodo restitueret mi 
+      <lb ed="#C" n="64"/>hi possessionem, sed adversarius non admisit: nisi enin 
+      <lb ed="#C" n="65"/>sic intelligas, non bene sequitur id quod mandatur inqu 
+      <lb ed="#C" n="66"/>ri de causa appellationis. Sed alii dicunt quod hoc contir 
+      <lb ed="#C" n="67"/>git, quia per adversarium stetit, vel dixi, quod non appro 
+      <lb ed="#C" n="68"/>bo, nec admitto: quia si semel extinctam confiteantur ap 
+      <lb ed="#C" n="69"/>pellationem, in perpetuum non reviviscet hoc modo 
+      <lb ed="#C" n="70"/>quia is non est modus scriptus. hoc de cons. dist. 4. quaeri, 
+      <lb ed="#C" n="71"/>ff de sol. qui res. §. areanm. 7 qui.i. qut periculosum. Oblatio enin 
+      <lb ed="#C" n="72"/>necessaria est. cum enim facto opus est a hic sit, non suffi 
+      <lb ed="#C" n="73"/>cit sola voluntas offerendi cautionem. infra eod.c. 1. sic. C.d 
+      <lb ed="#C" n="74"/>tond causa da si repetendi. &amp; hoc intelligas de voluntate, qua 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0273.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="75"/>remansit in finibus suis, vel etiam si obtulerit, sed non pre 
+      <lb ed="#C" n="76"/>stitit, cum esset qui reciperet. supr. de offic. pastoralis §. ult. se 
+      <lb ed="#C" n="77"/>cus, si non fuit qui recipere vellet: quia tunc sufficit, no 
+      <lb ed="#C" n="78"/>dico sola voluntas, sed oblatio. ut inf. eod. c. 2. &amp; 3. inf. rit 2. c. 
+      <lb ed="#C" n="79"/>§. Celestinus Papa illud notatu dignum, quod sicut in miss 
+      <lb ed="#C" n="80"/>one requiritur summaria causae cognitio, ut not. supra ui 
+      <lb ed="#C" n="81"/>lit. non contest. §. &amp; in aliis. &amp; §. quod si super. sic &amp; in rest. und 
+      <lb ed="#C" n="82"/>absente illo, qui missus est, hon fit restitutio, sed ad inter 
+      <lb ed="#C" n="83"/>rumpendam praescriptionem annalem, sufficeret intra an 
+      <lb ed="#C" n="84"/>num facta oblatio, ut inf de verb. sign. dilecto, &amp; sup de offi.oro 
+      <lb ed="#C" n="85"/>pastoralis. §. alei. Alibi autem operantur verba, &amp; factum 
+      <lb ed="#C" n="86"/>nocet. sup. de elect. ecclesia.1.inf. de app ad audientiam. alibi tar 
+      <lb ed="#C" n="87"/>tundem &amp; facto quam verbo, &amp; econtra. J. de legib. de qib 
+      <lb ed="#C" n="88"/>inf. de app. ad audientiam. &amp; cap ut nostrum sup. de major &amp; 
+      <lb ed="#C" n="89"/>legebatur. Sed &amp; si non inveniuntur omnes judices, sufficij 
+      <lb ed="#C" n="90"/>quod coram uno cautio offeratur. ut infr eod. c. 2. &amp; est ra 
+      <lb ed="#C" n="91"/>tio, quia sufficit, quod coram honestis personis sit oblata 
+      <lb ed="#C" n="92"/>&amp; data. sup. de offic. ord pastoralis. §. ult. alias enim si sint plu 
+      <lb ed="#C" n="93"/>res judices dati, non valet quod ab uno fit, nisi adjecta fue 
+      <lb ed="#C" n="94"/>rit clausula, Quod si non omnes, vel quod si ambo. supr. a 
+      <lb ed="#C" n="95"/>offic. deleg, causam. &amp;c. prudentiam. vel nisi vices subdelegat. 
+      <lb ed="#C" n="96"/>sint. sup. de offic. deleg. sub quaestionum. § si rero duo &amp; c. licet. 
+      <lb ed="#C" n="97"/>c. delegatorum 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="98"/>ADDITIO 
+      <lb ed="#C" n="99"/>a facto opus) Adde c. pasioralis. de eff. ord. &amp; in cC. I. de eo qui mita 
+    </p>-->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

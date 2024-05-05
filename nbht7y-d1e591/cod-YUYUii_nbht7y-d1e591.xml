@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 5</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 5</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="213"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e591"><!-- nbht7y-l2t5 -->
+            <head xml:id="nbht7y-d1e591-Hd1e101">Titulus 5</head>
+            <head xml:id="nbht7y-d1e591-Hd1e103" type="question-title">De litis contestatione</head>
+            <p xml:id="nbht7y-d1e591-d1e106">
+               <lb ed="#C" n="56"/>De litis contestatione V. Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e591-d1e111">
+               <lb ed="#C" n="57"/>SVMMARIA 
+      <lb ed="#C" n="58"/>t. Litis contestatio quae si 
+      <lb ed="#C" n="59"/>2. Lius contestatio qualiter fieri debea 
+      <lb ed="#C" n="60"/>3. Litis contestatio quando fieri debea 
+      <lb ed="#C" n="61"/>Lis quare non contestetur per positiones &amp; responsionel. 
+      <lb ed="#C" n="62"/>Litis contestationis effectus quis su
+    </p>
+            <p xml:id="nbht7y-d1e591-d1e127">
+               <lb ed="#C" n="63"/>QVia libellis oblatis hinc inde in 
+      <lb ed="#C" n="64"/>mutuis peti¬ 
+      <lb ed="#C" n="65"/>tionibus una &amp; eadem die litis contest. est 
+      <lb ed="#C" n="66"/>ideo dicamus, Quid fit litis contestatio, Qua 
+      <lb ed="#C" n="67"/>liter fieri debeat. Et quando, Quae sit ratio 
+      <lb ed="#C" n="68"/>quod per positiones &amp; responsiones ad eas factas non con 
+      <lb ed="#C" n="69"/>testetur lis, Quis sit effectus litis contestationi:
+    </p>
+            <p xml:id="nbht7y-d1e591-d1e146">
+               <lb ed="#C" n="70"/>Quid sit litis contestatio. Principalis nego 
+      <lb ed="#C" n="71"/>tii hinc inde apu¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0230.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="72"/>judicem, facta narratio, secundum Azo. a Sed hoc non pla¬ 
+      <lb ed="#C" n="73"/>cet, quia innuit, quod per positiones contestetur, imo po 
+      <lb ed="#C" n="74"/>tius videtur de scribi mutua petitio: ideo dico, quod liti 
+      <lb ed="#C" n="75"/>contestatio est fundamentum judicii per petitionem in 
+      <lb ed="#C" n="76"/>jure propositam, &amp; congruam responsionem secutam, a 
+      <lb ed="#C" n="77"/>nimo contestandi litem factam, quo omisso, si in formaju 
+      <lb ed="#C" n="78"/>dici procedatur, vexantur inanibus laboribus &amp; sumpti 
+      <lb ed="#C" n="79"/>bus procedentes seu litigantes, ut patet in inferioribus 
+    </p>
+            <p xml:id="nbht7y-d1e591-d1e175">
+               <lb ed="#C" n="80"/>Qualiter fieri debeat, Perpetition eminju¬ 
+      <lb ed="#C" n="81"/>re propositam, &amp; 
+      re<lb ed="#C" n="82" break="no"/>sponsionem secutam ad eam, ut patet supra prox &amp; infr¬ 
+      <lb ed="#C" n="83"/>c.. supra de elect. dudum, § licet, &amp; Spartibus &amp; supra tit.i. cap. 
+      <lb ed="#C" n="84"/>ibi, mandamus quatenus, &amp;c. &amp; adde quod not. infra de ex 
+      <lb ed="#C" n="85"/>cep. S &amp; quando versicul. fin. idem si narrationi in libello pro 
+      <lb ed="#C" n="86"/>positae respondeatur, supra de dect querelam, infra de restitu 
+      <lb ed="#C" n="87"/>spol. cum ad sedem, resp. iarg. contra, mfra de dolo &amp; contu. proui 
+      <lb ed="#C" n="88"/>Sed illud intellige, secundum Ber. vel dic, ut no. infra de ex 
+      <lb ed="#C" n="89"/>cept  quis sit effectus vers. sed nunquid, &amp; seq ergo res injudi 
+      <lb ed="#C" n="90"/>cium non videtur deducta, si sola petiuo in judicio pro 
+      <lb ed="#C" n="91"/>posita sit. Sed tunc, cum judex incipit audire causam pe 
+      <lb ed="#C" n="92"/>narrationem, &amp; responsionem: ut C. de li, contest. I. 1. Quoc 
+      <lb ed="#C" n="93"/>ergo Greg vocat petitionem, lex vocat narrationem: un 
+      <lb ed="#C" n="94"/>de dicit quod reus nolens jurare de calum. habendus es 
+      <lb ed="#C" n="95"/>pro confesso, in his capitulis, quae in narratione id est in li 
+      <lb ed="#C" n="96"/>bello comprehensa sunt, ut C. de juramen calum. l. 2. § sin au 
+      <lb ed="#C" n="97"/>tem reus, &amp; bene dico in his capitulis, nam si plura sunt ca 
+      <lb ed="#C" n="98"/>pitula in libello, omnibus respondendum est, ad hoc ut si 
+      <lb ed="#C" n="99"/>plena litis conte. facta, arg. ff. de app, cum in una, &amp; de no. op¬ 
+      <lb ed="#C" n="100"/>nunc de pupillo, §si plurium, 2. quaest. 3. §notandum, in verbo, 
+      <lb ed="#C" n="101"/>plura, infra de sentent. excomm. cum pro causa. Et idem intel 
+      <lb ed="#C" n="102"/>ligas in positione plures articulos continente, ut no. supr¬ 
+      <lb ed="#C" n="103"/>de judic. quae sunt, versic. hoc tamen scias, &amp; seq. Sed &amp; si sic re 
+      <lb ed="#C" n="104"/>spondeatur, sicut in Romana curia fieri consuevit, negi 
+      <lb ed="#C" n="105"/>narrata proutnarrantur, &amp; dico petita fieri non debere 
+      <lb ed="#C" n="106"/>plena est litis conte facta, argumen. inst. qui mod tol obli. §e 
+      <lb ed="#C" n="107"/>&amp; prodita ff. de verborum oblig pluribus, in prin. &amp; l. Titia. in fin 
+      <lb ed="#C" n="108"/>Item si omnia negentur, secundum Goffred. quasi ad om¬ 
+      <lb ed="#C" n="109"/>nia intelligatur singulariter responsum. Si plura sint dis 
+      <lb ed="#C" n="110"/>junctive posita in libello, hoc admitto, sin autem compulati 
+      <lb ed="#C" n="111"/>ve, oportet quod singulariter respondeatur, alioquin pro 
+      <lb ed="#C" n="112"/>uno falso quod ibi poneretur, posset negari totus libellu 
+      <lb ed="#C" n="113"/>sine metu perjurii: ut apparet in his, quae nota. supra de re 
+      <lb ed="#C" n="114"/>scriptS &amp; at ipsius interpretatione, versicul. sed si non obligavit se 
+      <lb ed="#C" n="115"/>&amp; secundum hoc intellige, quod not. infra eodem vers. qui¬ 
+      <lb ed="#C" n="116"/>si ate juramentum, nec objicias de disjunctione posita in 
+      <lb ed="#C" n="117"/>libello: quia aliquoties admittitur, argumen. infra de resti¬ 
+      <lb ed="#C" n="118"/>spol, cum ad sedem, &amp; no. infra de libell. obla. Squid debeat, versi 
+      <lb ed="#C" n="119"/>cul sed &amp; legistae, aliquoties etiam non opponitur. Lex ergi 
+      <lb ed="#C" n="120"/>petitionem vocat narrationem, &amp; Innoc. ut supra de elect 
+      <lb ed="#C" n="121"/>querelam, Alexand. actionem, supra tit.i. cap. 1. Et Innoc. li 
+      <lb ed="#C" n="122"/>bellum, supra de libell. obla, cap. 2. Grego. libellum conven 
+      <lb ed="#C" n="123"/>tionalem: ut supra de libel. obla cap. ultim. Ignarus reclama 
+      <lb ed="#C" n="124"/>tionem seu postulationem, supra de libell. oblat, cap. 1. Sun 
+      <lb ed="#C" n="125"/>ergo haec nomina diversa, idem tamen significantia, &amp; 
+      <lb ed="#C" n="126"/>sic tam leges quam cano concordant, quod per petitionem 
+      <lb ed="#C" n="127"/>seu narrationem, sive libellum, &amp; responsionem adversus 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="128"/>ADDITIO 
+      <lb ed="#C" n="129"/>a Secundum Azon. Hanc diffinitionem probat &amp; sequitur Mar 
+    </p>
+    <p>
+      <lb ed="#C" n="130"/>tinus in summa es tit. haec adjiciens, Et fiet, inquit, haec narra 
+      <lb ed="#C" n="131"/>tio per principales personas, non per advocatos, nisi principa¬ 
+      <lb ed="#C" n="132"/>les personae fuerint adeo indiscrete, ut eorum defectus de li 
+      <lb ed="#C" n="133"/>centia judicis per alios suppleatur, ext de indi pastoralis. Simili 
+      <lb ed="#C" n="134"/>ter, si fiat interrog de facto, principalis debet respondere, ffi 
+      <lb ed="#C" n="135"/>de interrog. actio. Et hoc habet locum in omnibus interrogatio¬ 
+      <lb ed="#C" n="136"/>nibus quae fiunt ante litem contestatam, de dol &amp; contu prom 
+      <lb ed="#C" n="137"/>similiter habet locum in positionibus, quae fiunt post litem 
+      <lb ed="#C" n="138"/>contestatam, quia probationum loco succedunt, per eas ta¬ 
+      <lb ed="#C" n="139"/>men non fit litis contestatio, de elect. dudum 2. Et omnium su¬ 
+      <lb ed="#C" n="140"/>periorum ratio est, quia principalis persona inelius novit fa¬ 
+      <lb ed="#C" n="141"/>ctum, quam advocatus. Et ideo per seipsum jurare de calu 
+      <lb ed="#C" n="142"/>mnia, &amp; de veritate dicenda debet, &amp; per seipsum de facto re 
+      <lb ed="#C" n="143"/>spondet, &amp; non ad vocatus, ff. de procura. I si actor, Iunica. C. de lis 
+      <lb ed="#C" n="144"/>contest. Hoc tamen fallit in quibusdam casibus de indi passera 
+      <lb ed="#C" n="145"/>lis. Litis autem contestatio est de substantia ordinis judiciarii, it¬ 
+      <lb ed="#C" n="146"/>quod ea omissa receptio testium, nisi in casu, &amp; sententia lata ni 
+      <lb ed="#C" n="147"/>tenet, extram lit. non contest. accedens, &amp; de electione dudum.a. Mar--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0231.xml-->
+      <pb ed="#C" n="214"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>ipsum contestetur lis, &amp; non per positiones, ut sequitur in 
+      <lb ed="#C" n="2"/>tra prox. Et si contestetur: quamvis aliqui dicant liten 
+      <lb ed="#C" n="3"/>non contestari, tamen dico li. conte. unde ferenda est ser 
+      <lb ed="#C" n="4"/>tentia, infra. de rerum permut. cum olim, supra de contest. ecclesi 
+      <lb ed="#C" n="5"/>Janctae Mariae, 2qu.i.nos in quemquam, &amp; dicam mfra de confes 
+      <lb ed="#C" n="6"/>§utrum in confessum, sut pernegationem. ut C. de jud. rem non no 
+      <lb ed="#C" n="7"/>vam, §patroni, sed non contestatur per positiones &amp; respon 
+      <lb ed="#C" n="8"/>siones, ut hic, &amp; supra de ele dudum, § licet, quae sit ratio, di 
+      <lb ed="#C" n="9"/>cetur infra eodem §quae sit ratio. Hoc de vera li, cont. est enin 
+      <lb ed="#C" n="10"/>&amp; interpretativa, quod dic, ut not. infra ut lite non cont (qui 
+      <lb ed="#C" n="11"/>si super rebus versi secundum, ubi lis quasi contestari videtur 
+      <lb ed="#C" n="12"/>Quid si die adveniente respondeat reus, contendendum pu 
+      <lb ed="#C" n="13"/>to: Dico litem non esse cont. potest enim esse, quod ver¬ 
+      <lb ed="#C" n="14"/>sint quae in libello continentur, &amp; tamen concodere vult 
+      <lb ed="#C" n="15"/>&amp; sic non respondet petitioni: sed contra 3 quaest. 3 offeratur 
+      <lb ed="#C" n="16"/>dico, sic dicat, quod contendere vult, bene facit id ad quoc 
+      <lb ed="#C" n="17"/>viginti dies dati erant. Sed non est adhuc lis contest. qu¬ 
+      <lb ed="#C" n="18"/>re dicit lex, quod si respondeat, contendendum puto: iteri 
+      <lb ed="#C" n="19"/>debet sibi dari tempus sive dilatio, ut veniat instructus ac 
+      <lb ed="#C" n="20"/>respondendum, sive ad agendum, id est, excipiendum,s 
+      <lb ed="#C" n="21"/>de eden. leg. in princ. Sic ponitur accipere, pro respondere 
+      <lb ed="#C" n="22"/>infra de juram. calu. Imperatorum. Et ideo cauti judices fac 
+      <lb ed="#C" n="23"/>unt apponi, Data est dies talis ad deliberandum, &amp; respo 
+      <lb ed="#C" n="24"/>dendum. Sed certe l.i. de eden. non probat hoc, ad quod in 
+      <lb ed="#C" n="25"/>ducitur, imo potius contra: nec enim dicit iterum dand 
+      <lb ed="#C" n="26"/>dilationem. Sed si deliberavit contendere, debet venir 
+      <lb ed="#C" n="27"/>instructus ad agendum, id est respondendum, &amp; sic ex qui 
+      <lb ed="#C" n="28"/>habuit tempus ad deliberandum, incontinenti responde 
+      <lb ed="#C" n="29"/>re debet. Quid si dicat, Cedo liti? Dic quod sufficit: no 
+      <lb ed="#C" n="30"/>non tamen fertur sententia, cum nec lis conte sit, sed ma 
+      <lb ed="#C" n="31"/>nu militari aufertur ab eo res, ffderei ven. qui restituere, qui¬ 
+      <lb ed="#C" n="32"/>invitus nemo agere cogitur: ut not. supra de lib. obl. § utrun 
+      <lb ed="#C" n="33"/>possit. Sed destitisse videtur non qui distulit, sed qui in toti 
+      <lb ed="#C" n="34"/>renunciavit liti. C. depac. postquam liti ffdemi destitisse. Qui¬ 
+      <lb ed="#C" n="35"/>si non vult respondere? dic sicut de illo qui non vult jura 
+      <lb ed="#C" n="36"/>re de calumnia, ut not. infra de juram. cal. §ultim. vel dic 
+      <lb ed="#C" n="37"/>quod judex potest eum pro motu mulctare ff. si quis jus di 
+      <lb ed="#C" n="38"/>xen. non obtem. leg. unicae, aliter li non cont. non videtur quoc 
+      <lb ed="#C" n="39"/>posset fieri absolutio, vel condemnatio, vel dic, quod vidie 
+      <lb ed="#C" n="40"/>tur contestatus &amp; confessus esse, ff. de interro. act. de aetate, 
+      <lb ed="#C" n="41"/>qui tacuit, ff. sol. mat. leg. 2. Sed &amp; ita demum contestatur,s 
+      <lb ed="#C" n="42"/>petitioni respondeatur animo contestandi litem, secus,s 
+      <lb ed="#C" n="43"/>reus dicat, Ego narro factum, sicut coram amico non ani 
+      <lb ed="#C" n="44"/>mo contestandi litem, argument. infra de ord. cog. cum dili 
+      <lb ed="#C" n="45"/>ctus, infra de testi dilecto, &amp; argumen ff de cond. &amp; demon.l.2.ini 
+      <lb ed="#C" n="46"/>quibus mod pig vel hyp. sol. § debitor. S m venditione, sed si non 
+      <lb ed="#C" n="47"/>exprimatur, videtur lis contest ff. de cond. indeb. quod quisf 
+      <lb ed="#C" n="48"/>de verb obliga quicquid astringendae. C. de cond. cau. da si repeten 
+      <lb ed="#C" n="49"/>edi, super hoc vide quod notat supra de constit. §quando const¬ 
+      <lb ed="#C" n="50"/>eutio incipit arctare, I. dist. quae incipit, cum quaeritur utri 
+      <lb ed="#C" n="51"/>protestatio valeat, versic. quid si protestatio in judicio fiai 
+      <lb ed="#C" n="52"/>Potest autem omitti si. cont. ex certa scientia partium, it. 
+      <lb ed="#C" n="53"/>aquod judex de plano procedat, quod dic, ut not, sup. de lil 
+      <lb ed="#C" n="54"/>Obla. § utrum libellus, ver. &amp; hoc verum.
+    </p>
+            <p xml:id="nbht7y-d1e591-d1e407">
+               <lb ed="#C" n="55"/>Et, quando? Antequam joretur de calumnia 
+      <lb ed="#C" n="56"/>nam juramentum hoc praestandun 
+      <lb ed="#C" n="57"/>estpost narrationem, &amp; responsionem, &amp; sic postlit. con 
+      <lb ed="#C" n="58"/>re. ut C. de jura cal. leg. 2. ergo antequam positiones fiant. Pri 
+      <lb ed="#C" n="59"/>rmo enim juratur, quam positiones fiant, alias si quis sin¬ 
+      <lb ed="#C" n="60"/>juramento positiones facit, &amp; eis respondeatur, tacite re 
+      <lb ed="#C" n="61"/>nunciatum est juramento, ut argumen. C. de juramen. cal. le¬ 
+      <lb ed="#C" n="62"/>2.§ sed quia veremur. Sed interrogationes procedunt lit co 
+      <lb ed="#C" n="63"/>testa &amp; lit. contesta calumniae sacramentum, ut patet pe 
+      <lb ed="#C" n="64"/>ordinem, infra de proba. quoniam contra falsam, &amp; de jur, cal c 
+      <lb ed="#C" n="65"/>causam, in fi. Sunt igitur haec continuanda nullo actu in 
+      <lb ed="#C" n="66"/>termedio, sicut dicitur de publicatione, &amp; collatione, &amp; e 
+      <lb ed="#C" n="67"/>lectione, supra de elect. quia propter, &amp;c. cum post petitam, lice 
+      <lb ed="#C" n="68"/>haec stipulatio non per omnia sit sequenda, quia ille actu 
+      <lb ed="#C" n="69"/>vitiatur, &amp; aliquid differatur, hic autem secus, sed in ho 
+      <lb ed="#C" n="70"/>attenditur, quia non sunt articuli transponendi. Licet: 
+      <lb ed="#C" n="71"/>nemine hoc ita aperte audierim, tamen probabiliter dic 
+      <lb ed="#C" n="72"/>potest, quod positione facta, &amp; responsione secuta taciti 
+      <lb ed="#C" n="73"/>renunciari videtur, quia non praestatur, nisi exigatur, ut in 
+      <lb ed="#C" n="74"/>Ssed quia veremur, f.de novi ope num. de pupillo, §qui opus novum 
+      <lb ed="#C" n="75"/>&amp; de jureju. jusjurandum, §qui jusju. si ergo non exigatur e¬ 
+      <lb ed="#C" n="76"/>tempore, quo debet, tacite remittitur. arg ff. de proc filiusfa. 
+      <lb ed="#C" n="77"/>peterani, sed certum est tempus quo exigi debet scil. ante 
+      <lb ed="#C" n="78"/>quam patroni jurent, ut C. de jura, cal. l2. patroni autem ni 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0231.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>audiuntur, nisi jurent immediate, post lit. contest. ut C. d 
+      <lb ed="#C" n="80"/>jud rem non noram, § patroni, &amp; tamen de licentia judicis i 
+      <lb ed="#C" n="81"/>proponendo factum, requiritur quandoque consilium ad 
+      <lb ed="#C" n="82"/>vocati, ut supra de judi pastoralis. Restat ergo, quod interli 
+      <lb ed="#C" n="83"/>tem contest. &amp; juramentum patroni praestari debet, si exi¬ 
+      <lb ed="#C" n="84"/>gatur, non alias: &amp; sic qui facit, ut respondeatur position 
+      <lb ed="#C" n="85"/>suae, tacite remittit, quasi secundum omnes doctores. Put 
+      <lb ed="#C" n="86"/>tamen, quod nec tacite remitti possit ad minus, quo ad ju 
+      <lb ed="#C" n="87"/>dicem pertinet, ut patet in his, quae not. inf. eo. vers. item &amp; 
+      <lb ed="#C" n="88"/>illud etiam, si contraria sit consuetudo, ut infra de jur calun 
+      <lb ed="#C" n="89"/>caeterum, &amp; hoc expressim probat lex, per quam alii no. con 
+      <lb ed="#C" n="90"/>tra non solum de juramento partium, sed etiam advocato 
+      <lb ed="#C" n="91"/>rum, at C. de jureju propter calu.da.l2S sed quia veremur, ibi 
+      <lb ed="#C" n="92"/>dissimulatione verborum innuit, quod nec tacite remitt 
+      <lb ed="#C" n="93"/>potest, &amp; ibi pro commodo privatorum scil. pecuniario 
+      <lb ed="#C" n="94"/>Sed communi utilitate scil. periculorum animarum vitam 
+      <lb ed="#C" n="95"/>dorum: ideoque cessat omnis glossa contraria, ut patet in 
+      <lb ed="#C" n="96"/>his, quae no. supra de offi. archi Squod sit ejus officium, ver quar 
+      <lb ed="#C" n="97"/>tutem, &amp; ibi, sed omnimodo, &amp;c. hoc enim est de ordine ju 
+      <lb ed="#C" n="98"/>diciario substantiali, ut not. infra de sen. &amp; re jud sub rubr. di 
+      <lb ed="#C" n="99"/>sent (qualiter proferri, sub Sis est ordo. Sed quid si aliqua par 
+      <lb ed="#C" n="100"/>offerat se probaturam per testes seu instrumenta nunquic 
+      <lb ed="#C" n="101"/>postea, ex quo semel produxit testes, ad positiones potes 
+      <lb ed="#C" n="102"/>redire? Non puto: cum enim ponendo potuit relevari, &amp; 
+      <lb ed="#C" n="103"/>gravari elegerit, sibi imputet, quia mos ei gerendus est, ut 
+      <lb ed="#C" n="104"/>ff. de prob. circa. &amp; sibi imputet qui pro novo beneficio vetu 
+      <lb ed="#C" n="105"/>gravamen eligit, C. de jure deli. Luli sin autem, secundum Gol 
+      <lb ed="#C" n="106"/>&amp; facit pro ipso ordo illius decr quoniam frequenter. Sed ni¬ 
+      <lb ed="#C" n="107"/>puto hoc verum, quia non sunt isti actus contrarii, imoc 
+      <lb ed="#C" n="108"/>venientes: nec est angustanda probationum facultas: ne 
+      <lb ed="#C" n="109"/>invenio in jure hunc modum renunciationis, &amp; vide quo 
+      <lb ed="#C" n="110"/>no. inf de testi, cog § in quib &amp;&amp; &amp; quare Quamvis autem su 
+      <lb ed="#C" n="111"/>dixerim, quod qui omisso juramento habet recursum a 
+      <lb ed="#C" n="112"/>positionem videtur renunciare praestationi juramenti d 
+      <lb ed="#C" n="113"/>calum. &amp; tamen postea juramentum de veritate dicenda 
+      <lb ed="#C" n="114"/>&amp; offi judicis exigi potest, arg. infra de jureju. ex literis, 30. 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="115"/>ADDITIONES 
+      <lb ed="#C" n="116"/>b Litio contestatio (inquit Mart, in summa eo. tis.) fit aliquand ov 
+    </p>
+    <p>
+      <lb ed="#C" n="117"/>ra, aliquando non vera, sed quasivera, ut per narrationema 
+      <lb ed="#C" n="118"/>ctoris, &amp; responsionem rei, Responsionem dico contradicte 
+      <lb ed="#C" n="119"/>riam. Cde ind I rem nonnovam, s. patroni, &amp; de lit. conte. Lunica.! 
+      <lb ed="#C" n="120"/>tem fit quasi litis contestatio, cum agitur actione reali, &amp; ve 
+      <lb ed="#C" n="121"/>catur colonus, vel inquilinus, qui detinet nomine absent 
+      <lb ed="#C" n="122"/>vocatus nominat dominum, datur tempus ad denunciandim 
+      <lb ed="#C" n="123"/>non venit in termino dato, tunc ex his omnibus, quae proce 
+      <lb ed="#C" n="124"/>dunt, scil. quia vocatur inquilinus &amp; colonus, quia auditu 
+      <lb ed="#C" n="125"/>nominans dominum absentem &amp; quia datur tempus ad de 
+      <lb ed="#C" n="126"/>nunciandum domino, &amp; expectatus a domino non venit, ha 
+      <lb ed="#C" n="127"/>betur lis quasi contest. quoad interrumpendam longi tempo 
+      <lb ed="#C" n="128"/>poris praescriptionem, ut si. non contest. qui frequenter, &amp; C. ul 
+      <lb ed="#C" n="129"/>in rem act l. 2. Item fit litis contestatio per narrationem acte 
+      <lb ed="#C" n="130"/>ris, &amp; rei responsionem contradictoriam, ita tamen quoc 
+      <lb ed="#C" n="131"/>hujusmodinarratio fiat animo procedendi, &amp; ea intention 
+      <lb ed="#C" n="132"/>directe exposito: quia si actorproponat, vel reus respondea 
+      <lb ed="#C" n="133"/>in judicio, non eamente, quod velit litem contestari, vel re 
+      <lb ed="#C" n="134"/>spondit ei, cum protestatione salvojure suo, vel sine praejudi¬ 
+      <lb ed="#C" n="135"/>cio, ut non actor resistat, vel judici, ut judici, sed ut amice 
+      <lb ed="#C" n="136"/>seu familiari negotium qualitatem exponat, non est propte 
+      <lb ed="#C" n="137"/>rea lis contest. ut C. de lit. contest. I. unica. extra cod.tit. c.I. de electio 
+      <lb ed="#C" n="138"/>dudum. 2. Sed si plura ponantur in libello ad omnia respon 
+      <lb ed="#C" n="139"/>dendum est, ut sit plena &amp; vera litis contest. argumen. ff. de at 
+      <lb ed="#C" n="140"/>cum in una 2. quaest. 3. 9. notandum, &amp; desentent excommunic. cun 
+      <lb ed="#C" n="141"/>procausa, &amp; c. officii. Sed si reus neget omnia in libello con 
+      <lb ed="#C" n="142"/>tenta, vel si sic respondeat, Nego narrata, ut narrantur, &amp; di 
+      <lb ed="#C" n="143"/>co petita fieri non debere, plene dicitur fieri litis contestatio 
+      <lb ed="#C" n="144"/>quasi ad omnia singulariter sit responsum. argumen ff. dever 
+      <lb ed="#C" n="145"/>borum obligatio, I. pluribus, in princip. &amp; l. Titia, in fin. Item si pe 
+      <lb ed="#C" n="146"/>tam a te decem, &amp; confirearis vocatus ad judicium non ex 
+      <lb ed="#C" n="147"/>pectans libellum, dicens de plano te debere, quod petitur 
+      <lb ed="#C" n="148"/>non fit propter hoc litis contestatio, nec sequi potest senten 
+      <lb ed="#C" n="149"/>tia, sed praeceptum, ff. quod met. causa.Isin. Si vero post libel 
+      <lb ed="#C" n="150"/>lum porrectum reus confiteatur se debere, quod petitur, liti 
+      <lb ed="#C" n="151"/>contestatio facta intelligitur, &amp; sententia potest sequi, ff.a 
+      <lb ed="#C" n="152"/>confess. leg. 1 3. &amp; 5. Et secundum hoc dicitur, in confitenten 
+      <lb ed="#C" n="153"/>nullae sunt partes judicis, scilicet ad examinandum, &amp; discu 
+      <lb ed="#C" n="154"/>tiendum, sed ad pronunciandum sic, ff. ad leg. Aqui l. I. proinde 
+      <lb ed="#C" n="155"/>§. fin. Item, qui excipit, non dicitur litem cootestari de sit, con¬ 
+      <lb ed="#C" n="156"/>test. c. 1. simile. de ord. cog. c. 2. Mart 
+      <lb ed="#C" n="157"/>C Et quando. Adde Spec. it. aod. in §. 5. idem Spec. cod it, in §. pen--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0232.xml-->
+      <pb ed="#C" n="215"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>s judicantem, infra de fid insir. cum so. in fiff. de testi, curent, ne 
+      <lb ed="#C" n="2"/>moveatur quis ex eo, quod lex illa, rem non novam dicatu 
+      <lb ed="#C" n="3"/>per desuetudinem inumbrata, quia adhuc viget ratio qu 
+      <lb ed="#C" n="4"/>allego, 7. di fuerant, sic supra, de jud novit Si &amp; ae hoc, infra d 
+      <lb ed="#C" n="5"/>proba §quid debet probari. vers. item licet. Sed nec ipsam dice 
+      <lb ed="#C" n="6"/>abrogatam, ut patet in his, quae not. supra de consue. S&amp; d 
+      <lb ed="#C" n="7"/>virtute, ver generalissima Item &amp; illud dico, quod judex pro 
+      <lb ed="#C" n="8"/>prio motu poterit partes cogere ut jurent, &amp; si non ad in 
+      <lb ed="#C" n="9"/>stantiam ipsarum, sic infra de test. per tuas, &amp;c. cum clamor, &amp; 
+      <lb ed="#C" n="10"/>sic potest intelligi quod innuit dictus§ sed quia veremu¬ 
+      <lb ed="#C" n="11"/>scilicet quod nec expressim, nec tacite remitti possit, veri 
+      <lb ed="#C" n="12"/>est, quo minus possit exigi, &amp; ibi subaudi perjudicem, li 
+      <lb ed="#C" n="13"/>cet putem, quod &amp; ab aliis partibus possit exigi, quantunque 
+      <lb ed="#C" n="14"/>fuerit renunciatum, argument. supra de foro comp. si diliger 
+      <lb ed="#C" n="15"/>u, non obstante etiam consuetudine contraria, ut infra d 
+      <lb ed="#C" n="16"/>jur, cal. cal. caeterum. &amp; de fidejus. constitutus, § praesentium. Qui¬ 
+      <lb ed="#C" n="17"/>si ante argumentum hoc fiat positio generalis, quae fier 
+      <lb ed="#C" n="18"/>consuevit: pono quod omnia, quae sunt in libello, sunt ve 
+      <lb ed="#C" n="19"/>ra. satis dico litem cont. quia repetitus intelligitur totus te 
+      <lb ed="#C" n="20"/>nor ipsius libelli, &amp; sic respondetur narrationi, &amp; petitio 
+      <lb ed="#C" n="21"/>ni simul &amp; semel, unde universalis est petitio&amp; responsio 
+      <lb ed="#C" n="22"/>sicut dicitur de ele sup. de ele. inGenesi, hoc tamen intellige se 
+      <lb ed="#C" n="23"/>cundum ea, quae no sup. eo §qualiter, ver. idem si omnia, &amp; sec
+    </p>
+            <p xml:id="nbht7y-d1e591-d1e602">
+               <lb ed="#C" n="24"/>Quae sit ratio, quodper positiones, &amp; responsi 
+      <lb ed="#C" n="25"/>ones non contestetur lis. Certe v 
+      <lb ed="#C" n="26"/>detur ratio, ut verbis legem imponamus, &amp; non reb. quo 
+      <lb ed="#C" n="27"/>esse non debet, ut C. de usur. I. ali communia de leqgi leg. 2in fiu 
+      <lb ed="#C" n="28"/>sed non est ita, imo jam tetigi unam rationem, supra §( 
+      <lb ed="#C" n="29"/>quando, quia ex ordine judiciario hoc probatur. Item se 
+      <lb ed="#C" n="30"/>cunda, supra proxi. quia una debet esse litis contestatio 
+      <lb ed="#C" n="31"/>non plures, sicut una est lis, sed si per positiones contest 
+      <lb ed="#C" n="32"/>retur, tot intelligerentur litis contestationes, quod essen 
+      <lb ed="#C" n="33"/>positiones, arg, supra de electio in Genesi, ff. de verhor. obli. scir 
+      <lb ed="#C" n="34"/>debemus. Item haec est differentia inter titulum de interro 
+      <lb ed="#C" n="35"/>actio &amp; de confess. quia de interrog. locum habet ante litis 
+      <lb ed="#C" n="36"/>contesta ut notanfra de confess. §1. versi tamen, &amp; sup. de ju 
+      <lb ed="#C" n="37"/>dic. sub  fiunt autem. Sed de confessis locum habet post liti¬ 
+      <lb ed="#C" n="38"/>contest. cum positiones fiant authoritate illius tit. de confe 
+      <lb ed="#C" n="39"/>necesse est, quod lit. conte st. praecedat, nec potest dicere 
+      <lb ed="#C" n="40"/>quod prima positio singularis lit. contesta. faciat, quia jan 
+      <lb ed="#C" n="41"/>daret sibi authoritatem aliis, &amp; alia est responsio petitio 
+      <lb ed="#C" n="42"/>nis, &amp; alia positionis. Praeterea sicut quodlibet aedificium 
+      <lb ed="#C" n="43"/>ex tribus constat, scilicet fundamento, parietibus, &amp; tecte 
+      <lb ed="#C" n="44"/>ut not, supra in proaemio, §quae sit ejus materia, ita judicium 
+      <lb ed="#C" n="45"/>litis enim contesta. fundamentum est, positiones, &amp; testi¬ 
+      <lb ed="#C" n="46"/>&amp; instrumentorum productiones parietes sunt, sententi 
+      <lb ed="#C" n="47"/>vero tectum, ut apparet in his, quae not. infra de sen. &amp; reju 
+      <lb ed="#C" n="48"/>dic. in princ. &amp; de appell in prin. &amp; ideo si fundamentum defi 
+      <lb ed="#C" n="49"/>ciat, d superaedificari non potest, quia male aedificaretu 
+      <lb ed="#C" n="50"/>in aere. 1.q. 1 cum Paulus, infra de presbyte. non bapti. veniens, &amp; 
+      <lb ed="#C" n="51"/>cujusque rei ? principium potissima pars est fi deorig jur 
+      <lb ed="#C" n="52"/>Li. ideo in judicio notantur tria, scilicet principium, seul 
+      <lb ed="#C" n="53"/>tis exordium, item medium, item finis, ff. siquis jus di. non ob 
+      <lb ed="#C" n="54"/>temp.l.i. supra de off. deleg. super quaestionum, §1. &amp; 2. Ergoae 
+      <lb ed="#C" n="55"/>dificati parietes non prius tignorum pondus accipient, ni 
+      <lb ed="#C" n="56"/>si a novitatis suo humore siccentur, ne si ante pondera 
+      <lb ed="#C" n="57"/>quam solidentur accipiant, cunctam fabricam simul ad ter 
+      <lb ed="#C" n="58"/>ram deponant. 48. dist. cap. sin. Tamen aliquando aedificatu 
+      <lb ed="#C" n="59"/>in judicio sine hoc fundamento, sed speciale est, ut in cas 
+      <lb ed="#C" n="60"/>bus not. infra tit. i. sed est ibi aliud fundamentum, scilice 
+      <lb ed="#C" n="61"/>periculum amissionis probationum, &amp; aequitatis natur¬ 
+      <lb ed="#C" n="62"/>lis. Item aliquando invenitur judicium sine partibus, cun 
+      <lb ed="#C" n="63"/>fundamento &amp; sententia, ut quando confessus condennatur 
+      <lb ed="#C" n="64"/>sicut &amp; aliquod aedificium sine parietibus aliquando in 
+      <lb ed="#C" n="65"/>venitur, quia tectum hinc inde fundamento adhaeret, si 
+      <lb ed="#C" n="66"/>sententiam in confessum latam hinc inde lit. contesta 
+      in<lb ed="#C" n="67" break="no"/>telligo adhaerere 
+    </p>
+            <p xml:id="nbht7y-d1e591-d1e700">
+               <lb ed="#C" n="68"/>Quis sit effectus. Idem quod in oblatione li 
+      <lb ed="#C" n="69"/>belli, dicut not. supra de libel 
+      <lb ed="#C" n="70"/>obla quis sis effectus, &amp; quia per litis conte perpetuatur lis 
+      <lb ed="#C" n="71"/>usque ad 40. ann. ut C. de anna. exce.l.i. &amp; de praescr. 3o. aein. I.ul 
+      <lb ed="#C" n="72"/>Idem effectus litis conte, ut de caetero omnis dilatoria ex 
+      <lb ed="#C" n="73"/>cep. excludatur, ut apparet in his quae not. infra de excep¬ 
+      <lb ed="#C" n="74"/>§ &amp; quando &amp; qualiter. f Item transmittit causam ad haere 
+      <lb ed="#C" n="75"/>dem ex delictis defunctorum, C. ne ex delic. de fun.d.i. Iten 
+      <lb ed="#C" n="76"/>operatur, ut fructus percepti post litem conte &amp; expensa 
+      <lb ed="#C" n="77"/>factae valde contingant off judi. ff. de aedi. edic. aediles, §. iten 
+      <lb ed="#C" n="78"/>sciendum. inst. de ouf, qud Sillorum, &amp; S praetera. Item facit pro 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0232.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>curatorem dominum litis, C. de procu. neque. Item praestal 
+      <lb ed="#C" n="80"/>uni ex legatariis potestatem optandi, f ae legi si pluribus. I 
+      <lb ed="#C" n="81"/>tem ut melior sit conditio occupantis, sup. ae procur. non in 
+      <lb ed="#C" n="82"/>juste. Item ante litis conte. non dicitur, quis agere, sed age 
+      <lb ed="#C" n="83"/>re velle, f. rem ra hab amplius. Item in multis juris articuli 
+      <lb ed="#C" n="84"/>inspicitur tempus litis conte f. deneg gest. litis, &amp; de do. inte 
+      <lb ed="#C" n="85"/>vi. &amp; uxo. quod autem, in prin. Item effectus est, ut sententi¬ 
+      <lb ed="#C" n="86"/>ferri possit, quia alias non ferenda, regulariter dicam, infi 
+      <lb ed="#C" n="87"/>tit.1.ideoque, si lite non conte. fiant positiones, recipiantu 
+      <lb ed="#C" n="88"/>testes, vel alia fides fiat, processus judicis debet irritus nun 
+      <lb ed="#C" n="89"/>ciari, infra eodem cap. unico, supra de elect. dudum, § licet, &amp; sic 
+      <lb ed="#C" n="90"/>patet, quod hoc fundamento omisso inanibus sumptibus 
+      <lb ed="#C" n="91"/>vexantur litigatores, ut not. supra, § quid sit litis contest. &amp; s 
+      <lb ed="#C" n="92"/>judex lit. contest. dicat, cum hoc non inveniatur in actis 
+      <lb ed="#C" n="93"/>non creditur ei, nisi quatenus legitimis constiterit docu 
+      <lb ed="#C" n="94"/>mentis, ut nfra de proba quoniam contra falsam. Si tamen a 
+      <lb ed="#C" n="95"/>ctor vel reus positionem focerit, quod libello fuit respon 
+      <lb ed="#C" n="96"/>sum, &amp; negata omnia, &amp; confiteatur adversarius, sufficit 
+      <lb ed="#C" n="97"/>Secus, si neget, &amp; sic in dubium revocet, ut supra de probat 
+      <lb ed="#C" n="98"/>cap. uli 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="99"/>ADDITIONES 
+      <lb ed="#C" n="100"/>d Si fundamentum deficiat. Adde glinc. nbi sanctaefides, 24. 9.1 
+    </p>
+    <p>
+      <lb ed="#C" n="101"/>&amp; gl.in cle. I. de summa trini 
+      <lb ed="#C" n="102"/>e Cujusque rei. Adde cap. principatus.I. quaestions I. &amp; gl. in cI de siti 
+    </p>
+    <p>
+      <lb ed="#C" n="103"/>contesta 
+      <lb ed="#C" n="104"/>F Idem sentit Mart. in sum eo tit qui allegat in eandem sententiam. 
+    </p>
+    <p>
+      <lb ed="#C" n="105"/>2. q. 35. excep. Cde proba.l.exceptionem, &amp; de exceptio .c. pastoralis 
+      <lb ed="#C" n="106"/>Limitat Mart. ubi sup. nisi postmodum aliquid perveniat ac 
+      <lb ed="#C" n="107"/>notitiam illius qui proponit propter quod exceptione utatur 
+      <lb ed="#C" n="108"/>extra de excep pastoralis, &amp; de testibus praesentium. Mari-->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

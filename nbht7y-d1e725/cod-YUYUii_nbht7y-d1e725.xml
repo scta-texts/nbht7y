@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 17</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 17</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="258"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e725"><!-- nbht7y-l2t17 -->
+            <head xml:id="nbht7y-d1e725-Hd1e101">Titulus 17</head>
+            <head xml:id="nbht7y-d1e725-Hd1e103" type="question-title">De sequestratione possessionum et fructuum</head>
+            <p xml:id="nbht7y-d1e725-d1e106">
+               <lb ed="#C" n="141"/>De sequestratione possessionum &amp; 
+      <lb ed="#C" n="142"/>fructum. Rub. XVII. 
+    </p>
+            <p xml:id="nbht7y-d1e725-d1e113">
+               <lb ed="#C" n="143"/>SVMMARIA 
+      <lb ed="#C" n="144"/>t Sequestratio quid siu 
+      <lb ed="#C" n="145"/>2 Sequester quid su 
+      <lb ed="#C" n="146"/>Sequestrandi sunt duo modi 
+      <lb ed="#C" n="147"/>4 Sequestratio an sit licita 
+      <lb ed="#C" n="148"/>Sequestratio qualiter finiatur
+    </p>
+            <p xml:id="nbht7y-d1e725-d1e129">
+               <pb ed="#C" n="259"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>LIcet regulariter aditum i in 
+      su<lb ed="#C" n="2" break="no"/>periori rubrica 
+          <lb ed="#C" n="3"/>quod lite pendente nihil penitus innove 
+          <lb ed="#C" n="4"/>tur, nec moveatur quis a sua possessione 
+          <lb ed="#C" n="5"/>hoc aliquando fallit, quia aliquando fit se 
+          <lb ed="#C" n="6"/>questratio. Ideo dicamus de sequestratione possessic 
+          <lb ed="#C" n="7"/>num hic videndum, Quid sit sequestratio, Quis sequeste 
+          <lb ed="#C" n="8"/>Quod sint modi sequestrandi; Et an sit licita sequestratio 
+          <lb ed="#C" n="9"/>Et qualiter finiatui
+    </p>
+            <p xml:id="nbht7y-d1e725-d1e156">
+               <lb ed="#C" n="10"/>Quid sit sequestratio. Reide qua agturd 
+          <lb ed="#C" n="11"/>positio, puta duo conten 
+          <lb ed="#C" n="12"/>dunt de aliqua re, ponunt eam in manu communi, sicul 
+          <lb ed="#C" n="13"/>vulgariter dicitur, vel amici communis, qui eam debet re¬ ut fde acqu poss. in sequestro. Undecimus, quando possesso 
+          <lb ed="#C" n="14"/>stituere ei qui obtinuerit, &amp; interim eam custodi
+      </p>
+            <p xml:id="nbht7y-d1e725-d1e169">
+               <lb ed="#C" n="15"/>Quis sequester. Depositarius rei in judicium 
+          <lb ed="#C" n="16"/>deductae si ve amicus communis 
+          <lb ed="#C" n="17"/>de quo dixi supra prox. §. &amp; probant hoc f. depofiti. licet. &amp; 
+          <lb ed="#C" n="18"/>proprie i. de vero, sign. sequester
+      </p>
+            <p xml:id="nbht7y-d1e725-d1e180">
+               <lb ed="#C" n="19"/>Quot sunt modi sequestrandi. Duo nam
+          <lb ed="#C" n="20"/>aliquando 
+          <lb ed="#C" n="21"/>sit omittendae possessionis causa: &amp; tunc neuter litigar 
+          <lb ed="#C" n="22"/>tium possidet, sed sequesten Aliquando vero sequestratu 
+          <lb ed="#C" n="23"/>res custodiae causa, &amp; tunc possessio remanet penes poss 
+          <lb ed="#C" n="24"/>dentem, ut in legibus. inf. eod. §. prox. vers. primus allegatis su 
+          <lb ed="#C" n="25"/>per quo. vide quod not. supra acpositi. §. in quib. rel
+      </p>
+            <p xml:id="nbht7y-d1e725-d1e198">
+               <lb ed="#C" n="26"/>Et an sit licita sequestratio. Non. imm 
+          <lb ed="#C" n="27"/>generaliter es 
+          <lb ed="#C" n="28"/>illicita, unde dic de sequestratione possessionum, subaud 
+          <lb ed="#C" n="29"/>generaliter prohibita, ut C. de prohib. sequestratione. l. unici 
+          <lb ed="#C" n="30"/>ideo revocavit Innoc. sequestrationem, quam Celestinu 
+          <lb ed="#C" n="31"/>praedecessor suus arbitrio suo fecerat: quasi dicat; non ji 
+          <lb ed="#C" n="32"/>ste, ut patet infra eod, cap. I. §.1. &amp; 2 quia nemini turband 
+          <lb ed="#C" n="33"/>est sua possessio, ut not. supra tit.i.ut li pind. sub S. patet. quo 
+          <lb ed="#C" n="34"/>li pendente: &amp; sequentibus. In casibus tamen sequestr 
+          <lb ed="#C" n="35"/>tio admittitur. 6 Primus casus, in quo sequestratio ac 
+          [indent]<lb ed="#C" n="36"/>mittitur. is potest notari, scilicet de consensu utriusque pa¬ 
+          <lb ed="#C" n="37"/>tis. ut f.de solutio, si soluturus. depositi. licet f. de acquirenda po 
+          <lb ed="#C" n="38"/>sess. interesse &amp; potest hic agi sequestraria actione. f. depos 
+          <lb ed="#C" n="39"/>ri sim Asia §. cum sequestro. Secundus easus in re dotali, qua 
+          <lb ed="#C" n="40"/>justa excausa ponitur in sequestrum: puta si furor mari 
+          <lb ed="#C" n="41"/>ti interveniat. f. soluto matrimonio. si cum dotem. §. si vero di¬ 
+          <lb ed="#C" n="42"/>tis. vel quando maritus cavere non potest, &amp; scandalizare 
+          <lb ed="#C" n="43"/>tur si mulier ministraret, hic ponenda est pecunia dotali 
+          <lb ed="#C" n="44"/>penes aliquem mercatorem, ut de justo &amp; honesto lucr 
+          <lb ed="#C" n="45"/>conjuges sustententur. infra de donat. inter virum, &amp; uxoren 
+          <lb ed="#C" n="46"/>per nostras. alias si sine scandalo mariti fieri potest, etiam 
+          <lb ed="#C" n="47"/>psa mulier administrationem habebit. C. de ja. do. ubi ve 
+          <lb ed="#C" n="48"/>decret. intelligitur, quando &amp; maritus &amp; uxor suspect 
+          <lb ed="#C" n="49"/>sunt de dilapidatione, in quo non dicebatur per I. qui¬ 
+          <lb ed="#C" n="50"/>jdris esset, vel dic, ut ibi not. in Summa sub rubr. de doi 
+          <lb ed="#C" n="51"/>post divor restit. §. &amp; quando competit. vers. I. Tertius favor 
+          <lb ed="#C" n="52"/>religionis: nam licet propter contumaciam religiosorun 
+          <lb ed="#C" n="53"/>adversarii essent ponendi in possessionem ecclesiarum p¬ 
+          <lb ed="#C" n="54"/>titarum tamen fayore religionis fuerunt sequestratae suj 
+          <lb ed="#C" n="55"/>de dolo &amp; contum c. 2 quia summa est ratio, quae pro religic 
+          <lb ed="#C" n="56"/>ne facit. f. derel. &amp; sump. fun. sunt personae. 12. q. 2. religiosan 
+          <lb ed="#C" n="57"/>Quartus, quando persona, a qua res mobilis petitur, suspe 
+          <lb ed="#C" n="58"/>cta est, &amp; timetur ne cum ipsa fuglat. ff. qui satisd, cog. si fid 
+          <lb ed="#C" n="59"/>jussor. §. ult. f. de off praesid. senatus. §. f. C. de agric. &amp; censi liti 
+          <lb ed="#C" n="60"/>lib I. Quintus, quando aliquis de familia judic a me peti 
+          <lb ed="#C" n="61"/>quia forte furtum passus est: hic enim sequestratur resus 
+          <lb ed="#C" n="62"/>que in adventum successoris ff. de off praesid senatus. Sextus 
+          <lb ed="#C" n="63"/>propter eonditionem personae: nam si servus proclama 
+          <lb ed="#C" n="64"/>in libertatem, res sequestratur peculiaris &amp; hoc ideo n 
+          <lb ed="#C" n="65"/>dissipet C. quib. ad libe procla. non lic. l. 3. C de assert tollen. l.i. 
+          <lb ed="#C" n="66"/>super peculio, &amp;c argu. quod si dominus servos male tracti 
+          <lb ed="#C" n="67"/>verit, vel etiam multo fortius liberos homines, judex e 
+          <lb ed="#C" n="68"/>officio suo debet subvenire: &amp; si forte petantur ab illo qu 
+          <lb ed="#C" n="69"/>dominum recognoscunt poterunt sequestrari si timeatu 
+          <lb ed="#C" n="70"/>per certas conjecturas, quod successor propter hoc gravio 
+          <lb ed="#C" n="71"/>eis existat, ut arg. f. de of. praef. urbis. l.i.§. quod autem. &amp; argi 
+          <lb ed="#C" n="72"/>Instit. de his qui sui juris sunt. §. dominorum. &amp; vers. seque &amp; o 
+          <lb ed="#C" n="73"/>ptime f. de adul: si postulaverit. §. ratio, &amp; de quaestionib. l. 1. §. p. 
+          <lb ed="#C" n="74"/>&amp; de his quib. ut indignis, si inimicitiae, sup. ut lit. non conte. quo 
+          <lb ed="#C" n="75"/>niam. §. ult. inf. de probat. c. pen. &amp; hoc de plano inquiret ij 
+          <lb ed="#C" n="76"/>dex, ut arg. ff. de off. procon. ne quicquam. §. de plano. &amp; de of 
+          <lb ed="#C" n="77"/>praesid senatus. ad hoc idem faciunt jura superiora &amp; inf 
+          <lb ed="#C" n="78"/>riora. Septimus quando maritus petit uxor. virginis rest 
+          <!--Henricus_a_Segusio_cardinalis_Hostiensis-0276.xml-->
+          <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>matrimonium contractum negantis: sequestratur enin 
+          <lb ed="#C" n="80"/>puella quousque causa terminata sit. inf. de sponsa cum locum 
+          <lb ed="#C" n="81"/>Idem videtur, si mulieri trepidanti per cautionem no¬ 
+          <lb ed="#C" n="82"/>possit mederi, cum maritus ipsam capitali odio prosequa 
+          <lb ed="#C" n="83"/>tur, ut vidi exemplum inter Audebertum de Fos. &amp; domi 
+          <lb ed="#C" n="84"/>nam Beatricem. &amp; sup. de restit spol. ex transmissa, &amp; c. litera¬ 
+          <lb ed="#C" n="85"/>§. ul. Octavus. quando appellatur ab exetutore, ubi quid 
+          <lb ed="#C" n="86"/>si res mobilis sequestratur: si immobilis, sequestrantur 
+          <lb ed="#C" n="87"/>fructus. C. quorum app non recipien. ab executore. Nonus, it 
+          <lb ed="#C" n="88"/>colono, qui negat pensionem deberi ei, qui nunc petit, ci 
+          <lb ed="#C" n="89"/>longo tempore cessaverit. C. de agric. &amp; censi.ditib. Decimus 
+          <lb ed="#C" n="90"/>si quaestio sit dem posse. &amp; non possit probari quis possidea 
+          <lb ed="#C" n="91"/>vulgariter dicitur, vel amici communis, qui eam debet re¬ ut fde acqu poss. in sequestro. Undecimus, quando possesso 
+          [indent]<lb ed="#C" n="92"/>victus appellaverit, &amp; incipit dissipare tructus, vel alie 
+          <lb ed="#C" n="93"/>nare. 2. q. 6. quot. 2. infra eod. cap. ultnn. quem casum dixi 
+          <lb ed="#C" n="94"/>Vin. non esse l. expressum: quamvis hoc dicat lex, ubi a 
+          <lb ed="#C" n="95"/>executore appellatur, tamen salva reverentia tanti docto 
+          <lb ed="#C" n="96"/>ris hoc dieunt. I. ex qua decret. sumitur. ff. de appell. Impera 
+          <lb ed="#C" n="97"/>ratores. &amp; vide super hoc quod not supra de of. deleg. §. qua 
+          <lb ed="#C" n="98"/>delegari possim. versicu. &amp; not. quod ubi appellatur. Iden 
+          <lb ed="#C" n="99"/>in eo qui missus est in poss cau. rei servan. si alienet, seque 
+          <lb ed="#C" n="100"/>strantur fructus. inf. eo. dilect. Idem in re litigiosa. II. qu.a.ul 
+          <lb ed="#C" n="101"/>idem est secundum Gof. quod circa rem mobilemvel immob 
+          <lb ed="#C" n="102"/>persona possidens est suspecta, ne fructus depopuletur 
+          <lb ed="#C" n="103"/>vel dissipet, ut in eisdem juribus &amp; f solu. mat sicut dotem 
+          <lb ed="#C" n="104"/>§. sin autem in saevissimo. 3. 4. 2. quia ea. Duodecimus, propte 
+          <lb ed="#C" n="105"/>scandalum vitandum; scilicet quod uno modo intellexi 
+          <lb ed="#C" n="106"/>infra de don. inter vir &amp; uxor. per vestras. infra eod, cap. L&amp; argu 
+          <lb ed="#C" n="107"/>infra de jure pat c. 1. &amp; 2. Tertiusdecimus, propter contuma 
+          <lb ed="#C" n="108"/>ciam volentis cavere, ut ff.de col. von. l. 1.9. si frater. Quartus 
+          <lb ed="#C" n="109"/>decimus, ne impediatur vendendi commoditas. ff. dedolo 
+          <lb ed="#C" n="110"/>si oleum secundum Goff. Quintumdecimum addunt epi 
+          <lb ed="#C" n="111"/>scopi nostri temporis, facientes indifferenter juxta voli 
+          <lb ed="#C" n="112"/>tatis propriae beneplacitum sequestrari fructus ecclesi¬ 
+          <lb ed="#C" n="113"/>rum, &amp; aliorum beneficiorum ecclesiasticorum; de quil 
+          <lb ed="#C" n="114"/>agitur inter aliquos; &amp; potissime cum ipsimet inde refe 
+          <lb ed="#C" n="115"/>runt quaestionem, quod plerunque potius sumunt a capi 
+          <lb ed="#C" n="116"/>te, quam a jure. quare est retractandum: nam nec Papae ar¬ 
+          <lb ed="#C" n="117"/>bitrio in hoc statur. infra tod. C.1. 
+      </p>
+            <p xml:id="nbht7y-d1e725-d1e404">
+               <lb ed="#C" n="118"/>Et qualiter finiatur. Finitur aue sequestri 
+          <lb ed="#C" n="119"/>tio, existente condition 
+          <lb ed="#C" n="120"/>depositionis, &amp; restituenda est res ff. de do: si quis affirmavi 
+          <lb ed="#C" n="121"/>rit. §. si oltum. Item si sequester velit deponere officium, ju 
+          <lb ed="#C" n="122"/>sta de causa hoc facere potest, de licentia tamen judicis, &amp; 
+          <lb ed="#C" n="123"/>erit tunc deponenda res in aede sacra f. dapo. §. uli
+      <!--</p>
+      <p>
+          <lb ed="#C" n="124"/>ADDITIONES. 
+          <lb ed="#C" n="125"/>a Quid sit sequestratio. Adde Card. in clem. 1. in 15. &amp; 164. od. . 
+          <lb ed="#C" n="126"/>b In casibus tamen sequestratio admittitur, vide gl. &amp; doct. in 
+          [indent]<lb ed="#C" n="127"/>2. eodem titu. Arch in c. quia res. I1. 9 I. Ioa. An. in regula locupleta 
+          <lb ed="#C" n="128"/>ri. de re ind. lib. 6. in mercu. &amp; per Cyn. Bad &amp; alios. in LI. C. de prol 
+          <lb ed="#C" n="129"/>sequesti 
+          <lb ed="#C" n="130"/>t Hos sequestrandi modos recenset Mart in Sum aod. tit quibu¬ 
+          [indent]<lb ed="#C" n="131"/>adjicit &amp; alios, videlicet, quando maritus vergit ad inopiam 
+          <lb ed="#C" n="132"/>nam tunc separanda est dos uxoris. ff. soluto matrim I. si cun 
+          <lb ed="#C" n="133"/>dotem § sin autem. Est &amp; alius, nempe, quando timetur de sae 
+          <lb ed="#C" n="134"/>vitia viri, nec potest uxori caveri. extra. de rest. spol siteras. &amp; ca 
+          <lb ed="#C" n="135"/>ex transmissa. tunc enim sequestranda est uxor. Addit &amp; ali 
+          <lb ed="#C" n="136"/>um. si uxor timeat corrumpi extra de sponsa, cum locum. Sub 
+          <lb ed="#C" n="137"/>jungit etiam alium, si timeatur perdi commoditas venden 
+          <lb ed="#C" n="138"/>di. f. de do ma si oleum. Adnectit &amp; quando quid oblatum es 
+          <lb ed="#C" n="139"/>illi qui est de familia judicis. de offic. Praesid. I. Senatusconsudio 
+          <lb ed="#C" n="140"/>Praetermittit autem Hostiensis ardiculum hunc. Circa qua 
+          <lb ed="#C" n="141"/>fiat sequestratio, quem ex Marti. ubi supra huc transtuli 
+          <lb ed="#C" n="142"/>mus. Fit autem, ait sequestratio circa reum mobilem; vel im 
+          <lb ed="#C" n="143"/>mobilem, si persona possidens est suspecta. Fieri etiam debe 
+          <lb ed="#C" n="144"/>sequestratio de fructibus &amp; possessionibus rei immobilis 
+          <lb ed="#C" n="145"/>cum persona possidens de dilapidatione est suspecta ff. qui ia 
+          <lb ed="#C" n="146"/>tisdaere cos--> 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1814 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 30</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 30</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="481"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1211"><!-- nbht7y-l3t30 -->
+            <head xml:id="nbht7y-d1e1211-Hd1e101">Titulus 30</head>
+            <head xml:id="nbht7y-d1e1211-Hd1e103" type="question-title">De decimis, primitiis et oblationibus</head>
+            <p xml:id="nbht7y-d1e1211-d1e106">
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>De Decimis &amp; Primitiis 
+      <lb ed="#C" n="79"/>Rub. XXX. 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e115">
+               <lb ed="#C" n="80"/>SUMMARIA, 
+      <lb ed="#C" n="81"/>1 Decima quid fit. Etquare dicatur decima. nu.¬ 
+      <lb ed="#C" n="82"/>3 Species decimae quot sint 
+      <lb ed="#C" n="83"/>4 Decima eui danda sit. Etd e quibus rebus. 5. a quibus. 6. qua 
+      <lb ed="#C" n="84"/>liter. 8. &amp; quare. 9. 
+      <lb ed="#C" n="85"/>7 Leprosi an teneantur dare decimas 
+      <lb ed="#C" n="86"/>10 Decimae qualiter dividuntur; &amp; an possunt prae scribi. 11 
+      <lb ed="#C" n="87"/>12 Decima an sit solvenda de illicite acquisitis 
+      <lb ed="#C" n="88"/>13 Laicus an possit fine peccato decimas perciperi 
+      <lb ed="#C" n="89"/>14 Clerici habentes sufficiens patrimonium, vel alios reditus, a 
+      <lb ed="#C" n="90"/>licite recipiant decima¬ 
+      <lb ed="#C" n="91"/>15 Consuetudo an excuset a praestatione decimarum 
+      <lb ed="#C" n="92"/>16 Consuetudo est tantae authoritatis, quod clericos ad continen 
+      <lb ed="#C" n="93"/>tiam adstringii 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e148">
+               <lb ed="#C" n="94"/>SCripsimus de parochis, &amp; alienis 
+      pa<lb ed="#C" n="95" break="no"/>rochianis: sed quia capiti 
+      <lb ed="#C" n="96"/>bus parochiarum, hoc est, ecclesiis decima 
+      <lb ed="#C" n="97"/>&amp; primitiae solvi debent, videndum est, 
+      <lb ed="#C" n="98"/>&amp; Quid sit decima, a Quare dicatur decima, 
+      <lb ed="#C" n="99"/>Quot sint ejus species, Cui danda sit, De quibus rebus, 
+      <lb ed="#C" n="100"/>quibus, Et qualiter, Et quare, Quomodo decima divida 
+      <lb ed="#C" n="101"/>tur, Et utrum praescribi possit. 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e169">
+               <lb ed="#C" n="102"/>Quid sit decima. Omnium bonorum mobili¬ 
+      <lb ed="#C" n="103"/>um licite quaesitorum pars de 
+      <lb ed="#C" n="104"/>cima Deo data, constitutione divina debita: ut colligitu 
+      <lb ed="#C" n="105"/>infra c.i. &amp;c. parochianos. &amp;c. non est. &amp; tua, &amp; infra &amp; tua no 
+      <lb ed="#C" n="106"/>bis §. verum. &amp; cum non sit in homine. Deus enim, qui digna 
+      <lb ed="#C" n="107"/>tus est totam dare decimam, datam dignatur reciperen¬ 
+      <lb ed="#C" n="108"/>sibi, sed nobis, id est dantibus sine dubio profutura, 
+      secun<lb ed="#C" n="109" break="no"/>dum Hug. 16. 4. 1. decima 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e189">
+               <lb ed="#C" n="110"/>Quare dicatur decima? Quia decimapirs 
+      <lb ed="#C" n="111"/>dari debet, non 
+      un<lb ed="#C" n="112" break="no"/>decima. ideo etiam decimae certo quotitatis nomine, i 
+      <lb ed="#C" n="113"/>est partis decimae determinatae. infra eod c.i.at vero. nam? 
+      <lb ed="#C" n="114"/>nomina debent esse convenientia rebus. supra de praeb. cur 
+      <lb ed="#C" n="115"/>secundum Apostolum. &amp; Instit. de do. §. est &amp; aliud. &amp; est cor 
+      <lb ed="#C" n="116"/>tra quosdam Theologos, qui dicunt, quod non refert qui 
+      <lb ed="#C" n="117"/>ta pars detur, sed quanta. quod dic, ut nont. infra eod sub 
+      <lb ed="#C" n="118"/>septimo 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="119"/>ADDITIO 
+      <lb ed="#C" n="120"/>a Quid sit decima] Martinus ita definit, &amp; brevius, in Sum 
+    </p>
+    <p>
+      <lb ed="#C" n="121"/>ma. hoc titul. Decima est omnium bonorum juste acquisi 
+      <lb ed="#C" n="122"/>torum talis pars Deo debita. de quo in capitul. tua. 2. de dec 
+      <lb ed="#C" n="123"/>mis. Quidam tamen dicunt, quod licet dare decimam sit prae 
+      <lb ed="#C" n="124"/>ceptum, non tamen praeceptum est tantum dare nec minus 
+      <lb ed="#C" n="125"/>Sed quid de illis; qui non solvunt decimam. de vineis, d 
+      <lb ed="#C" n="126"/>quibusdam aliis praediis, sed necessarium, vel aliam a liquo 
+      <lb ed="#C" n="127"/>tam majorem decimam. Quid etiam de illis, qui de olivis 
+      <lb ed="#C" n="128"/>vel nucibus, vel quibusdam aliis terrae fructibus, nihil sol 
+      <lb ed="#C" n="129"/>vunt pro decima? Nunquid per consuetudinem excusantu 
+      <lb ed="#C" n="130"/>cum talis consuetudovideatur esse contraria juri divino. Re 
+      <lb ed="#C" n="131"/>spondeo, Credo, quod talis consuetudo non excusat in prae 
+      <lb ed="#C" n="132"/>dictis casibus. Si tamen compositio authoritate episcopi, ve 
+      <lb ed="#C" n="133"/>ecclesiae, cujus interest, decimas hujusmodi solvi, facta es 
+      <lb ed="#C" n="134"/>cum illis, qui debent decimas de minori parte solvenda, qui 
+      <lb ed="#C" n="135"/>minus solvunt, quam decimam, non possunt authoritat 
+      <lb ed="#C" n="136"/>propria illi, qui fecerunt compositionem, aut sine contradi 
+      <lb ed="#C" n="137"/>ctione sustinuerunt, hujusmodi compositionem, vel succes 
+      <lb ed="#C" n="138"/>sores eorum aliquid plus solito exigere, de rebus, de quibu 
+      <lb ed="#C" n="139"/>non consueverunt decimae solvi de novo exigere, neque do 
+      <lb ed="#C" n="140"/>mini praediorum ultra solitum tenentur aliquid solvere, nis 
+      <lb ed="#C" n="141"/>ecclesia ad inopiam redigatur, vel nisi authoritate Papaeho 
+      <lb ed="#C" n="142"/>fiat ex certa scientia revocantis compositionem praedictam, vt 
+      <lb ed="#C" n="143"/>consuetudinem. Veruntamen sola consuetudo non libera 
+      <lb ed="#C" n="144"/>debitorem decimarum, in praedicto casu, vel in praedi 
+      <lb ed="#C" n="145"/>ctis. Sed compositio, vel remissio, vel quietatio facta a 
+      <lb ed="#C" n="146"/>ecclesia expresse, vel tacite, vel praesumptive: &amp; ex ho¬ 
+      <lb ed="#C" n="147"/>quod per tantum tempus pacifice sustinuit, quod parum, au 
+      <lb ed="#C" n="148"/>nihil pro decima, aut minus, quam decima solveretur. Sec 
+      <lb ed="#C" n="149"/>quomodo potest ecclesia aliqua absolvere tacite, vel ex 
+      <lb ed="#C" n="150"/>presse a legitima praestatione decimarum; cum debean 
+      <!-\-Henricus_a_Segusio_cardinalis_Hostiensis-0498.xml-\->
+      <pb ed="#C" n="0498"/>
+      <cb ed="#C" n="a"/>
+      <lb ed="#C" n="1"/>tur de jure divino. Et quomodo Papa privilegium alicui d 
+      <lb ed="#C" n="2"/>decimis non solvendis daret? Dicendum est, quod ecclesi 
+      <lb ed="#C" n="3"/>non potest aliquem absolvere, vel alicui remittere jus sol 
+      <lb ed="#C" n="4"/>vendi decimas, ad quod semper tenentur domini praediori 
+      <lb ed="#C" n="5"/>Sed bene potest absolvere, vel remittere Papa actum prae 
+      <lb ed="#C" n="6"/>standi, vel ipsam praestationem. Similiter dicendum est, quo 
+      <lb ed="#C" n="7"/>Papa non dat privilegium (nec enim dare posset) non solven 
+      <lb ed="#C" n="8"/>decimas, nisi praedicto modo, sed dat jus sibi licentiam adm 
+      <lb ed="#C" n="9"/>nistrandi fructus decimarum in usus pauperum, vel retinen 
+      <lb ed="#C" n="10"/>di sibi necessaria ex eis, quod potest facere non solum de de 
+      <lb ed="#C" n="11"/>cimis, quas de jure communi debent etiam monachi, sed eti 
+      <lb ed="#C" n="12"/>de illis quas debent alii, aliis ecclesiis parochialibus dare, u 
+      <lb ed="#C" n="13"/>16. quaestio.i. cap 1. vel dic, quod Papa sub iis, quae pertinent a¬ 
+      <lb ed="#C" n="14"/>artuiculos fidei, vel ad Decalogum, potest dispensare, &amp; priv 
+      <lb ed="#C" n="15"/>legium quibusdam concedere, non tamen canonem genera 
+      <lb ed="#C" n="16"/>lem contrarium statuere, ut non solvantur. Notavit tame 
+      <lb ed="#C" n="17"/>Alanus, extra eodem titul, cap. a nobis, ubi de hoc, quod licet Pa 
+      <lb ed="#C" n="18"/>pa possit concedere alicui laico, quod non solveret, vel quo 
+      <lb ed="#C" n="19"/>reciperet ab alio, non tamen omnibus locis hoc conceder 
+      <lb ed="#C" n="20"/>posset, nisi ex causa forte ad tempus, sicut dicitur hoc Galli 
+      <lb ed="#C" n="21"/>concessum fuisse, ut d. capis a nobis, in gl. eventum. Deus enim 
+      <lb ed="#C" n="22"/>qui dignatus est totum dare, dignatus est decimarum rec 
+      <lb ed="#C" n="23"/>pere partem; non sibi, sed clericis profuturam, ut 10. quaest. 
+      <lb ed="#C" n="24"/>decimae. Decimae autem debentur ex debito juris divini, e 
+      <lb ed="#C" n="25"/>laici compelli ad solutionem earum, ut extra eo capit. tua no 
+      <lb ed="#C" n="26"/>ubi de hoc, &amp; cap. parochianos. &amp; 32. dist praeter hoc, in fin. Mai 
+      <lb ed="#C" n="27"/>tinus. Adde quare statuta plus quam octava, vel duodecima 
+      <lb ed="#C" n="28"/>vide per Zabarel. in rub. eo. tit. 2. 9 -->
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e213">
+               <lb ed="#C" n="29"/>Quot sunt ejus; species Duae, scil. 
+      per<lb ed="#C" n="30" break="no"/>sonales, ut quae 
+      <lb ed="#C" n="31"/>debentur ex negociatione, vel artificio, seu scientia, vel 
+      mi<lb ed="#C" n="32" break="no"/>litia, seu venatione. Item praediales scil. quae proveniun 
+      <lb ed="#C" n="33"/>ex ipsis praediis: ut vinum, bladum, fructus arborum, sup 
+      <lb ed="#C" n="34"/>tit. i.c si. infra eod. ad Apostolicae, &amp;c. pastoralis. De quibusdan 
+      <lb ed="#C" n="35"/>autem dubitatur utrum sint personales vel praediales: u 
+      <lb ed="#C" n="36"/>de agnis, &amp; foetibus aliorum animalium, quae in pascu 
+      <lb ed="#C" n="37"/>gregatim pascuntur: quidam hoc, quidam illud: sed di¬ 
+      <lb ed="#C" n="38"/>potest, quod sunt mixtae, cum partim a praediis proveniam 
+      <lb ed="#C" n="39"/>quia inde vivunt animalia de quibus proveniunt: argun 
+      <lb ed="#C" n="40"/>infra eodem commissum, ff.de servit. praed pecoris pascendi C. d 
+      <lb ed="#C" n="41"/>verborum signifi. I2. &amp; hac ratione videntur praediales, nan 
+      <lb ed="#C" n="42"/>&amp; boves de eo fundo intelliguntur, in quo laborant: no 
+      <lb ed="#C" n="43"/>in quo morantur, ff. de fun. ainstr. leg, cum quidam, &amp; arbor i 
+      <lb ed="#C" n="44"/>lius soli censetur, in quo vivit, &amp; in quo radices habet: no 
+      <lb ed="#C" n="45"/>illius, in quo videtur consistere. ff. arb, fur, caesa si plures, §. 
+      <lb ed="#C" n="46"/>radicibus partim a personis, id est a custodia personarum: qua 
+      <lb ed="#C" n="47"/>si deficiat, lupus invadit, infra de regjur, capit penultim. &amp; a 
+      <lb ed="#C" n="48"/>cedit, ff. de leg. 3. avibus, cum l. praeceque &amp; 4. se. &amp; hac ratione v 
+      <lb ed="#C" n="49"/>dentur personales, nam &amp; is qui natus est ex mancipiis ui 
+      <lb ed="#C" n="50"/>banis, &amp; missus est ad villam, nutriendus inter urbana, n. 
+      <lb ed="#C" n="51"/>inter rustica mancipia numeratur, ff. de rerborum signific.i. 
+      <lb ed="#C" n="52"/>qui natus, ideoque dici debet, quod tales decimae mistae sint 
+      <lb ed="#C" n="53"/>quia justa ratione petitio. haeredit. inter mistas actio cor 
+      <lb ed="#C" n="54"/>numeratur. C. depetit. haeredi. I haereditatis petitio
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e272">
+               <lb ed="#C" n="55"/>Cui danda sit personalis? Danda est eccl¬ 
+      <lb ed="#C" n="56"/>siae parochialis: 
+      <lb ed="#C" n="57"/>seu baptismali de jure communi, id est illi in qua dante 
+      <lb ed="#C" n="58"/>divina audiunt, &amp; recipiunt sacramenta. 16. quaest. i quaes 
+      <lb ed="#C" n="59"/>13.q.151. praedialis vero ecclesiae, infra cujus parochiam s 
+      <lb ed="#C" n="60"/>tum est praedium, supra titul i, cap. si. infra eodem quoniam i 
+      <lb ed="#C" n="61"/>quaest: si laicus i3. qu. 1 §1 nisi aliud obtineat de consue. infr 
+      <lb ed="#C" n="62"/>cap.1 &amp; 2&amp;c. commissum, &amp; cap. cum sint homines, &amp;c. ad Ap 
+      <lb ed="#C" n="63"/>stolicae, &amp; cap in aliquibus, vel nisi praescriptae sint, ut inferiu 
+      <lb ed="#C" n="64"/>apparebit, §&amp; utrum praescribi, sic est &amp; in tributis, quae so 
+      <lb ed="#C" n="65"/>venda sunt illi civitati, intrascujus territorium sita sunt pre 
+      <lb ed="#C" n="66"/>dia, ff. de public. &amp; vec. Imperatores, &amp; decens forma. §si rires, 8 
+      <lb ed="#C" n="67"/>notat. supra: itul.i. § quis intelligatur parochianus. Sed mista 
+      <lb ed="#C" n="68"/>cui sunt solvendae? Si apparet consue. servanda est: ut su 
+      <lb ed="#C" n="69"/>pra si non apparet, &amp; pascuntur continue in praediis pro 
+      <lb ed="#C" n="70"/>priae parochiae, ipsi dandae sunt, alias videtur, quod divid 
+      <lb ed="#C" n="71"/>debeant inter eccle, ubi pascuntur, &amp; propriam. argumen 
+      <lb ed="#C" n="72"/>f. de leg 3. qui saltum, supra de test. relatum. §ultim. &amp; hoc mi 
+      <lb ed="#C" n="73"/>nus aequum, quam justum est, si enim decima praecipu¬ 
+      <lb ed="#C" n="74"/>danda sit propter sacramenta, infra eodem capit. 2. &amp; cap. tu 
+      <lb ed="#C" n="75"/>nobis, §verum ad. &amp; non debet conqueri ecclesia, intra cu 
+      <lb ed="#C" n="76"/>jus parochiam pascantur, si ratione sacramentorum, qua 
+      <lb ed="#C" n="77"/>praestat pastoribus, cum ipsa corpora suae parochiae sint 
+      <lb ed="#C" n="78"/>vult habere medietatem, ut quaedam societas inter ec 
+      <lb ed="#C" n="79"/>clesias contracta videatur, ut scilicet una propter corpo 
+      <lb ed="#C" n="80"/>ra, &amp; altera propter praedia, imo etiam plus videtur atter 
+      <lb ed="#C" n="81"/>denda persona, cum gratia sua natura res comparaverit s 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0498.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="82"/>de usu. in pecudum, &amp; de redhi act justissime. simile Institut. pr 
+      <lb ed="#C" n="83"/>soc §nam &amp; ita fi pro socio. si non fuerit, &amp; sic media via quo 
+      <lb ed="#C" n="84"/>dammodo eligetur, supra de offic. custo, cap. 1. Alii distin.u 
+      <lb ed="#C" n="85"/>trum pascat quis animalia sua in aliena parochia, tanqui 
+      <lb ed="#C" n="86"/>advena &amp; extraneus, &amp; tunc propriae parochiae solvet de 
+      <lb ed="#C" n="87"/>cimam an tanquam incola, quia nihil solvit pro pascuo, S 
+      <lb ed="#C" n="88"/>continuae habet ea ibi, &amp; tunc solvat extraneo: quia quo ac 
+      <lb ed="#C" n="89"/>hoc, censetur parochianus, sic no Hugo, 16. quaest. I. decima 
+      <lb ed="#C" n="90"/>a populo &amp; facit pro hoc: quia quando solvitur pasquerium 
+      <lb ed="#C" n="91"/>extranea ecclesia de illo pasquerio debet habere decimi 
+      <lb ed="#C" n="92"/>tutius videtur in utroque, quod pasquerium deberet aesti 
+      <lb ed="#C" n="93"/>mari, &amp; adde quod notat. infra eodem § quarto deciuno. Ex hi 
+      <lb ed="#C" n="94"/>patet. quod ecclesiae parochiali danda est decima: 16. quaes 
+      <lb ed="#C" n="95"/>I.statumus, &amp; cap. decimis, non ergo episcopo, sed contra 
+      <lb ed="#C" n="96"/>infra eodem quoniam, supra de praescri ac. de quarta, dicas, quoc 
+      <lb ed="#C" n="97"/>loquuntur de consue, nec obst infra eodem dudum, quia ib 
+      <lb ed="#C" n="98"/>petebat episcopus ecclesias, &amp; decimas ad ecclesias ipsa 
+      <lb ed="#C" n="99"/>pertinentes, sic agit nomine ecclesiae parochialis sibi sub 
+      <lb ed="#C" n="100"/>jectae: cum non sit alius, qui agat, supra de succ. ab intest. c. u 
+      <lb ed="#C" n="101"/>tim. in fin. vel loquitur de dec. in parochia episcopi positis 
+      <lb ed="#C" n="102"/>vel quo ad suam canonicam portionem: quod verius est 
+      <lb ed="#C" n="103"/>ut patet in his, quae notan. supra de praescrip. sub rub. de praescr 
+      <lb ed="#C" n="104"/>re. immob. §quae exigantur, sub o quartum, vers. ut tamen, &amp; jun 
+      <lb ed="#C" n="105"/>quod notat. supra de sepult. sub S vetus, §i. versicul. sed nec jur¬ 
+      <lb ed="#C" n="106"/>Decretalium, &amp; seque &amp; infra eo. sub s duodecimo
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e392">
+               <lb ed="#C" n="107"/>De quibus rebus. Deblado, &amp; leguminibus 
+      <lb ed="#C" n="108"/>tam majoribus quam mini 
+      <lb ed="#C" n="109"/>mis, de pascuis pensionibus domorum, de proventib. mo 
+      <lb ed="#C" n="110"/>lendinorum, etiam ad ventum piscariarum, fictis sive cen 
+      <lb ed="#C" n="111"/>sibus vel servitiis, foeno, lana, apibus, furnis, balneis, fullo 
+      <lb ed="#C" n="112"/>nicis, argentifodinis, lapicidinis, metallinis, fructibus, ar 
+      <lb ed="#C" n="113"/>borum, pecoribus, covis, seu hortis negociatione, artifi 
+      <lb ed="#C" n="114"/>cio, de ipsa militia: &amp; generaliter de omni lucro licite ac 
+      <lb ed="#C" n="115"/>quisito. infra eodem ex multiplici, &amp; 4. c seq &amp; c. ex parte cano 
+      <lb ed="#C" n="116"/>nicorum, cum ze sequent. 16. qI. decimae, &amp; qui. 7. quicunque, &amp; c. o 
+      <lb ed="#C" n="117"/>mnes decimae, &amp; etiam de tempore, de conse. dist. 5. quadragesi 
+      <lb ed="#C" n="118"/>ma. Et notat. quod de omnibus fructibus etiam ex diver 
+      <lb ed="#C" n="119"/>sis seminibus perceptis sive simul, sive diversis temporib 
+      <lb ed="#C" n="120"/>decima solvi debet, ut in illa parte canonicorum, &amp; cui sol 
+      <lb ed="#C" n="121"/>vitur de uno semine, &amp; de alio eidem solvi debet, non ali 
+      <lb ed="#C" n="122"/>is: quia non debet una, &amp; eadem ecclesia diverso jure cen 
+      <lb ed="#C" n="123"/>seri, igitur non erit possibile, ut una ecclesia decimam bla 
+      <lb ed="#C" n="124"/>di habeat, &amp; altera decimam vini: sicut quidam servant di 
+      <lb ed="#C" n="125"/>prava corruptela, infra eodem commissum, &amp; e, cum in tua, in 
+      <lb ed="#C" n="126"/>fra de privil. quia circa. 12 quae stio. 2quia cognorimus, &amp; supra d 
+      <lb ed="#C" n="127"/>offic. archc. ultim. ad siff. de usuc eum qui &amp; junge quod nota 
+      <lb ed="#C" n="128"/>infra subo decimo. Quod dixi, decimam dandam de licit 
+      <lb ed="#C" n="129"/>acquisito, locum habet in omnibus translatis in alterum 
+      <lb ed="#C" n="130"/>ita quod repetitio non competat, debent enim homines 
+      <lb ed="#C" n="131"/>facere sibi amicos de Mammona iniquitatis, id est, etian 
+      <lb ed="#C" n="132"/>de malo acquisito facere bonum, 14. quaest5 qui habetis, §. 1 
+      <lb ed="#C" n="133"/>&amp; cap. sane, &amp; sic meretrix de lucro suo tenetur dare deci 
+      <lb ed="#C" n="134"/>mam: quia licet turpiter faciat quod sit meretrix, tamer 
+      <lb ed="#C" n="135"/>non turpiter recepit, cum sit meretrix. ff. de condict. obtur 
+      <lb ed="#C" n="136"/>cau. idem etiam, § quoties. Est tamen argument. contra: qui¬ 
+      <lb ed="#C" n="137"/>utilitas vitae laqueis legum ipsas astringere noluit. C. de¬ 
+      <lb ed="#C" n="138"/>dul quae adulterium, ad sin. &amp; quia rei turpis, vel inhonesta 
+      <lb ed="#C" n="139"/>nulla est obligatio f. pro socio, cum duobus §§. ultim. &amp; leg. s. 
+      <lb ed="#C" n="140"/>quent. &amp; quod autem, &amp; leg nec praeterinittendum. Dicas, quo 
+      <lb ed="#C" n="141"/>tenetur dare: sed ecclesia non debet recipere, ne ipsius 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="142"/>ADDITIONES. 
+      <lb ed="#C" n="143"/>b Quot sint ejus species. J. Adde gl in § his itaq, 139. 2. dect.anc.I 
+    </p>
+    <p>
+      <lb ed="#C" n="144"/>cod ti 
+      <lb ed="#C" n="145"/>e Pecoribus. Quod de decimis pecorum, ait Hostrde medio 
+    </p>
+    <p>
+      <lb ed="#C" n="146"/>cribus accipiendum recte putat Martin. ubi supra. Nec enim 
+      <lb ed="#C" n="147"/>meliora, nec deteriora, sed mediocria dari debent, ut 10. qua 
+      <lb ed="#C" n="148"/>secunda, capit. hoc ius porrectum. Indignum est enim deterior: 
+      <lb ed="#C" n="149"/>dari Deo, quae recipere dedignaretur homo: ut canon fi. ut 49 
+      <lb ed="#C" n="150"/>dissinctio &amp; cap. omnes decimae. 16. quaest. 7. Non incongrue sub 
+      <lb ed="#C" n="151"/>jici poterit quaestio, quomodo debeant praediales decimae sol¬ 
+      <lb ed="#C" n="152"/>vi, &amp; a quibus, si a colono partiario praedia teneantur: han¬ 
+      <lb ed="#C" n="153"/>in haec verba solvit M artinus ubi supra. Decimas praediale 
+      <lb ed="#C" n="154"/>tenetur dominus dare de parte sua, et colonus de parte sua 
+      <lb ed="#C" n="155"/>deductis expensis, censu, tributo, ceu partiarii solutione, a 
+      <lb ed="#C" n="156"/>extra, de deci, cap. cum homines, Otua nobis. 2. In personalibus au 
+      <lb ed="#C" n="157"/>tem si surgant ex pecunia decimata, deducuntur expensae. S 
+      <lb ed="#C" n="158"/>vero de pecunia non decimata, tunc non deducuntur expe 
+      <lb ed="#C" n="159"/>lae, ut exira de deci pastoralis -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0499.xml-->
+      <pb ed="#C" n="482"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>flagitium approbare videatur: quia nec ejus oblatio rec 
+      <lb ed="#C" n="2"/>pitur ab ecclesia, ut no. supra rit. 1. S in quibus, sub S hic tame 
+      <lb ed="#C" n="3"/>sciendum, versic. quinto, si sit meretrix, sic ergo sit insolubil 
+      <lb ed="#C" n="4"/>meretrici: quia solvere tenetur, nec potest solvere eccle 
+      <lb ed="#C" n="5"/>siae, non quia non recipiet, alii non, quia nulli licitum es 
+      <lb ed="#C" n="6"/>aliena concedere praeter domini voluntatem, infra eod cae 
+      <lb ed="#C" n="7"/>tua nobis, § praetextu, supra de jurejuran eam te. hoc ad confu 
+      <lb ed="#C" n="8"/>sionem ejus dicitur: consulo tamen, quod faciat inde el¬ 
+      <lb ed="#C" n="9"/>emosynam: ut sic Deus eam citius extrahat a peccato: qui 
+      <lb ed="#C" n="10"/>sicut aqua extinguit ignem, &amp;c. ad hoc enim valet eleem 
+      <lb ed="#C" n="11"/>syna a peccatore facta, &amp; ad quaedam alia, quod dio ut no 
+      <lb ed="#C" n="12"/>de poen. § &amp; an ficte paenitenti. Si vero repetitio competit, v 
+      <lb ed="#C" n="13"/>in simonia, usura, &amp; similibus non dabitur decima, supr 
+      <lb ed="#C" n="14"/>de jurejur. debitores, infra de simoniac ad hoc, &amp; cap. veniens, ( 
+      <lb ed="#C" n="15"/>de usuris, quia in omnibus, &amp; junge, quod nota. infra eo sub 
+      <lb ed="#C" n="16"/>quaeritur utrum de illicite acquisitis, ver. haec materia plenius ex 
+      <lb ed="#C" n="17"/>peditur 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e516">
+               <lb ed="#C" n="18"/>A quibus? A laicis o quaestio 7 decima quae bre¬ 
+      <lb ed="#C" n="19"/>viter a quolibet, nisi speciali privil¬ 
+      <lb ed="#C" n="20"/>gio domini Papae exemptus sit, infra eodem cap. tua nobis, 
+      <lb ed="#C" n="21"/>i aliquibus ad si ubi dicit consue. approbandam, subaud 
+      <lb ed="#C" n="22"/>per Papam, nec obst. quod usque ad effusionem sanguini 
+      <lb ed="#C" n="23"/>legem divinam tueri tenetur, 25. quaest. 1. sunt quidam, qui 
+      <lb ed="#C" n="24"/>non immutat constitutionem divinam in totum: sed qui 
+      <lb ed="#C" n="25"/>si pro beneficio aliquibus concedit, secundum T. Cisterc 
+      <lb ed="#C" n="26"/>en. hospitalariis, &amp; templariis teneantur dare decimas d 
+      <lb ed="#C" n="27"/>laboribus, quos propriis manibus excolunt, de pos. ant 
+      <lb ed="#C" n="28"/>concilium acquisitis: de his vero, quae post concilium 
+      <lb ed="#C" n="29"/>is collata sunt, &amp; emerunt pro monasterio de novo fuij 
+      <lb ed="#C" n="30"/>dando, tenentur dare decimas. infra eodem nuper abbates: 
+      <lb ed="#C" n="31"/>liis autem religiosis hoc conceditur, ne de novalibus, qui 
+      <lb ed="#C" n="32"/>propriis manibus excolunt, hortis &amp; nutrimentis anim¬ 
+      <lb ed="#C" n="33"/>lium solvere decimas similiter teneantur, infra eodem, e 
+      <lb ed="#C" n="34"/>parte tua. i. &amp; sic hodie tenendum est de monachis nigri¬ 
+      <lb ed="#C" n="35"/>&amp; canonicis regularib. &amp; aliis religiosis vivertibus. in con 
+      <lb ed="#C" n="36"/>muni, quicquid dicatur, 16. quaest.idecimas, &amp; aliis juribu 
+      <lb ed="#C" n="37"/>antiquis. Scripsit tamen Rayn. quod tunc demum mon¬ 
+      <lb ed="#C" n="38"/>chi nigri debent solvere decimas, cum populum non hi 
+      <lb ed="#C" n="39"/>beant: nam si habent, tunc recipient tam personales, quar 
+      <lb ed="#C" n="40"/>praediales, infra eodem dilecti, &amp; cap suggestum, quod Goffr¬ 
+      <lb ed="#C" n="41"/>probavit, &amp; bene: quia &amp; si populum habeant, a quo dicta 
+      <lb ed="#C" n="42"/>decimas exigere possunt, ut probatum est: tamen nih. lc 
+      <lb ed="#C" n="43"/>minus tenentur solvere decimas clericis secularibus, ve 
+      <lb ed="#C" n="44"/>etiam aliis religiosis, si intra limites parochiae suae praedi 
+      <lb ed="#C" n="45"/>possideant, ut patet in his, quae notat supra § cui danda, n 
+      <lb ed="#C" n="46"/>si privilegio, vel legitima praescr. sint muniti, sup. de pra 
+      <lb ed="#C" n="47"/>script. reniens, infra eodem ex parte.i.&amp; cap. a nobis, ergo domi 
+      <lb ed="#C" n="48"/>ne Goffred quare non dabunt decimas clerici clericis si 
+      <lb ed="#C" n="49"/>cularibus sicut innuitis in summa vestra, nam summa es 
+      <lb ed="#C" n="50"/>ratio, quae pro religiosis facit, fi de reli. &amp; sumpt func. sun 
+      <lb ed="#C" n="51"/>personae, supra de dolo &amp; contumac. capit. 2. infra de novi opei 
+      <lb ed="#C" n="52"/>nun, cum ex injuncto dic ergo de clericis secularibus ut no 
+      <lb ed="#C" n="53"/>tat. infra eodem versic item clerici, &amp; sequent. Cessat etiam pr 
+      <lb ed="#C" n="54"/>vilegium concessum de non dandis decimis in casib. Pr 
+      <lb ed="#C" n="55"/>mo si enormem laesionem inducat juri parochiali, infra ei 
+      <lb ed="#C" n="56"/>suggestum, infra de verborum significatio quid per novale. Seci 
+      <lb ed="#C" n="57"/>do, propter pactionem, seu amicabilem compositionem 
+      <lb ed="#C" n="58"/>infra eoden, ex multiplici. Tertio, propter contrarium? 
+      <lb ed="#C" n="59"/>ctum praescriptum: puta quia privilegiatus solvit per 3 
+      <lb ed="#C" n="60"/>anno. nfra de privil si de terra, multo fortius si 40. infrad 
+      <lb ed="#C" n="61"/>privi. accedentibus. Quarto, si privilegiatus praedium ali¬ 
+      <lb ed="#C" n="62"/>num conducat, infra eodem dilecti. Quinto, si praedium pr 
+      <lb ed="#C" n="63"/>vilegiatum aliis locet. infra eod licet. Sexto, si sententia fer¬ 
+      <lb ed="#C" n="64"/>tur contra ipsum, a qua non appellavit, sive privilegium 
+      <lb ed="#C" n="65"/>stenderit, sive non. sup. de sent. &amp; re ju. inter monasterium, &amp; 
+      <lb ed="#C" n="66"/>seque &amp; junge quod no. infra eodem sub §3. versic. sed opponi 
+      <lb ed="#C" n="67"/>tur, &amp; versic. hoc etiam privil. &amp; sequent. Sed &amp; lepro 
+      <lb ed="#C" n="68"/>tenentur dare decimas, praeterquam de hortis, &amp; de ani 
+      <lb ed="#C" n="69"/>malium nutrimentis, infra de eccl. aedisi. cum dicat Apostolus 
+      <lb ed="#C" n="70"/>hi autem quibus conceditur, ut de laborib. decimas pe 
+      <lb ed="#C" n="71"/>cipiant, &amp; de novalib. quod minus est, ipsas percipere po 
+      <lb ed="#C" n="72"/>sunt, infra eodem ex parte 3. nisi per praescrip. quae odiosa es 
+      <lb ed="#C" n="73"/>acqui litae sint decimae, infra eodem cum contingat, vel nisi la 
+      <lb ed="#C" n="74"/>co concessum sit privilegium, inf. eo. tua, &amp; insinsi. quia pr 
+      <lb ed="#C" n="75"/>vil egiuntale odiosum est. cum laicus decimam tenere non po 
+      <lb ed="#C" n="76"/>sit, &amp; elericus qui ei concedit, vel decimam, vel ecclesian 
+      <lb ed="#C" n="77"/>per petuo detinendam, tanquam arbor inutilis succidi d¬ 
+      <lb ed="#C" n="78"/>beat, infracodem ad hoc, &amp; capit. quamvis, &amp; capit prohibemus 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0499.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>sed ad tempus etiam laicis locari potest non jus decima 
+      <lb ed="#C" n="80"/>rum, sed perceptio fructuum, infra ne praelati vic su quere 
+      <lb ed="#C" n="81"/>lam. supra loca &amp; con. vestra, sic usufructuarius perception 
+      <lb ed="#C" n="82"/>fructuum vendere potest, sed non ipsum jus ff. de jure doi, 
+      <lb ed="#C" n="83"/>usufr. &amp; de peri. &amp; con. rei. ven. necessario, Sultim. &amp; de hoc pl 
+      <lb ed="#C" n="84"/>nius notat. infra eodem sub § 3. quaeritur, utrum laicus. Tent 
+      <lb ed="#C" n="85"/>tur autem solvere decimas praediales is; ad quemcunqu 
+      <lb ed="#C" n="86"/>pervenerit ipsum praedium, etiamsi Judaeus sit: quia 
+      re<lb ed="#C" n="87" break="no"/>transit cum onere suo infra eodem de terris, &amp; cap. cum sit, a 
+      <lb ed="#C" n="88"/>si. ergo ab emptore exigenda est. infra eodem pastoralis. Se 
+      <lb ed="#C" n="89"/>contra, f de contrahend. unptio. leg. ultim dic quod ibi alien¬ 
+      <lb ed="#C" n="90"/>tor personaliter obligatus erat: secus, si realiter, ff ad Trel 
+      <lb ed="#C" n="91"/>leg. 1. § si haeres. Item clerici de dote ecclesiae decimas da 
+      <lb ed="#C" n="92"/>non debent: secus, de quasi castrensi. infra eodem cZ.in prI 
+      <lb ed="#C" n="93"/>&amp; §I.16u.1. quaesti sunt, &amp;c. si quis laicus, minores tamen nmi¬ 
+      <lb ed="#C" n="94"/>jorib. &amp; sic Levitae sacerdotibus. inf. co.c.i.quasi, in princ. &amp; ma 
+      <lb ed="#C" n="95"/>xime clerici conjugati supr. de cle, conjug. diversis, &amp; sic eti 
+      <lb ed="#C" n="96"/>intelligunt quidam. 16 quaestio.i siquis laicus. Sed &amp; cleric 
+      <lb ed="#C" n="97"/>communiter viventes, decimas non tenentur solvere. 10 
+      <lb ed="#C" n="98"/>quaestio. 1decimas, a contrario sensu alii tenentur: sed quoc 
+      <lb ed="#C" n="99"/>ibi dicit, communiter viventes, subaudiendum est, maxi 
+      <lb ed="#C" n="100"/>me secundum Goffred. quia nec alii tenentur dare infi¬ 
+      <lb ed="#C" n="101"/>eodem novum, quod alii intelligunt de ecclesia cui deserv 
+      <lb ed="#C" n="102"/>unt, &amp; certe mirum esset, si clerici essent immunes, &amp; reli 
+      <lb ed="#C" n="103"/>giosi tenerentur solvere, nisi per speciale privi eximeren 
+      <lb ed="#C" n="104"/>tur. Ego intelligo, sicut notat supra eodem rersic. item cleri 
+      <lb ed="#C" n="105"/>ci, scilicet quod aequales non dent decimas aequalib. cum a 
+      <lb ed="#C" n="106"/>ipsis non recipiant sacramenta ecclesiastica, nec eis subsint 
+      <lb ed="#C" n="107"/>sed superioribus, quibus subsunt, tenentur solvere de pa 
+      <lb ed="#C" n="108"/>trimonialibus bonis, &amp; aliis ex eventu licite acquisitis, 
+      <lb ed="#C" n="109"/>hoc maniste dicit illa decr infra eodem novum, quam sic ex 
+      <lb ed="#C" n="110"/>pones: clerici a clericis, scilicet non subditis, sed sibi aequa 
+      <lb ed="#C" n="111"/>libus, non enim Levitae, sed sacerdotes, &amp; sic superiore 
+      <lb ed="#C" n="112"/>ab inferioribus infra eodem capit..versic. rursus leguntur, ho 
+      <lb ed="#C" n="113"/>ideo, quia cum aequales sint, non dicitur alter alteri spiri 
+      <lb ed="#C" n="114"/>tualia ministrare, neque ministrat: ergo superioribus mi 
+      <lb ed="#C" n="115"/>nistrantibus sibi spiritualia tenentur dare: &amp; hoc est ill 
+      <lb ed="#C" n="116"/>profecto clerici scilicet inferiores patrimonium haben 
+      <lb ed="#C" n="117"/>tes, vel aliunde licite acquirentes. Quia clericis, scilice 
+      <lb ed="#C" n="118"/>superioribus, &amp; curam animarum suarum habentib. spl 
+      <lb ed="#C" n="119"/>ritualium ministrorum labores accipiunt iz quaestio. i. 5 
+      <lb ed="#C" n="120"/>ita, decinas eis debent, quia quilibet fidelis Christianus ten¬ 
+      <lb ed="#C" n="121"/>tur ipsas dare de licite acquisitis, infra eodem, ex transmiss. 
+      <lb ed="#C" n="122"/>nisi eximatur privilegio speciali, ut notat supra eodem, re 
+      <lb ed="#C" n="123"/>spon.i. &amp; pro majori parte de patrimonialibus sic servatur 
+      <lb ed="#C" n="124"/>Nunquid ergo rectores ecclesiarum, &amp; alii, qui immedi¬ 
+      <lb ed="#C" n="125"/>te subsunt episcopis tenentur solvere eisdem deciman 
+      <lb ed="#C" n="126"/>de reditibus suis ecclesiasticis? Et quidem consuetud 
+      <lb ed="#C" n="127"/>tenet, quod non: sed de jure communi planum est, quo 
+      <lb ed="#C" n="128"/>tenentur solvere etiam decimam decimarum, ut mfraei 
+      <lb ed="#C" n="129"/>dem capit.I.versicul. rursus, &amp; cap. 2&amp; cap. ex transinissa, qui 
+      <lb ed="#C" n="130"/>quilibet tenetur, nisi specialiter sit exemptus, ut suprano 
+      <lb ed="#C" n="131"/>tatur &amp; probatur infra eodem, a nobis, &amp; patet infra eodem 
+      <lb ed="#C" n="132"/>ex parte tua.i ad sin. Item solvenda est tam a dantibus po 
+      <lb ed="#C" n="133"/>sessiones ad victum, quam recipientibus, infra eodem 
+      <lb ed="#C" n="134"/>nobis, &amp; capit. tua nobis, §. &amp; cum de cunctis, nec distinutrun 
+      <lb ed="#C" n="135"/>quota debeatur, vel quanta, ut quidam: sed utrum an 
+      <lb ed="#C" n="136"/>te solutionem factam solvatur pensio: in quo casu do 
+      <lb ed="#C" n="137"/>minus tenetur: quia res transit cum onere suo, infra es 
+      <lb ed="#C" n="138"/>dem, pastoralis, §. fructu, &amp; capit. cum non sit, ad fin. contr 
+      <lb ed="#C" n="139"/>de pignor. ex literis, 15. quaestio.1. si quis laicus, &amp; notatur su 
+      <lb ed="#C" n="140"/>pra eodem, versiculo tenetur, vel post. in quo casu cum de 
+      <lb ed="#C" n="141"/>cimata sit, dominus non tenetur: quia &amp; si tria sextari 
+      <lb ed="#C" n="142"/>tantum debeantur, diminuitur domino, verbi pratia, co 
+      <lb ed="#C" n="143"/>lonus habult 10. sextaria, debebat domino3. solvit eccle 
+      <lb ed="#C" n="144"/>siae unum, non solvet domino nisi quatuor &amp; dimidium 
+      <lb ed="#C" n="145"/>solvit domino5, ante decimationem, agat ecclesia ad d 
+      <lb ed="#C" n="146"/>midium contra dominum, sic intelligo infr. eodem cum no 
+      <lb ed="#C" n="147"/>sit in homine, sic ergo post decimationem solvit domino 
+      <lb ed="#C" n="148"/>integram pensionem donare videtur, cum retinere pos 
+      <lb ed="#C" n="149"/>set f. de neg. gest. si liber homo, &amp; leg. cum pecuniam, argumen. S 
+      <lb ed="#C" n="150"/>de condict. indeb. leg. 1. &amp; de reg. ju. cujus per errorem, vel 
+      <lb ed="#C" n="151"/>erat in jure, ut quia simplex homo: credo quod a domi 
+      <lb ed="#C" n="152"/>no potest repetere tanquam indebitum, arg ff. de prob. cum 
+      <lb ed="#C" n="153"/>de indebito, &amp; de ju &amp; fac. ign. l. juris, de hoc no in sum. de sol. 
+      <lb ed="#C" n="154"/>fi. &amp; subs si quis autem. &amp; junge quod not. infra eod, sub §13
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e821">
+               <lb ed="#C" n="155"/>Et qualiter. Sine diminutione aliqua ante¬ 
+      <lb ed="#C" n="156"/>quam sumptus deducantur de prae 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0500.xml-->
+      <pb ed="#C" n="483"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>dialibus &amp; etiam mixtis, non causa mercimonii compar¬ 
+      <lb ed="#C" n="2"/>tis supra eodem cum homines de Ortana, &amp; cap non est, &amp;c. tu 
+      <lb ed="#C" n="3"/>nobis. De personalibus vero &amp; emptis causa mercimoni 
+      <lb ed="#C" n="4"/>deducuntur expensae in ipsis rebus factae de pecunia dec 
+      <lb ed="#C" n="5"/>mata: sed expensae factae causa quaefendorum fructum 
+      <lb ed="#C" n="6"/>vel ad tuitionem rei seu. ad refec. non deducuntur. inf. eo¬ 
+      <lb ed="#C" n="7"/>pastoralis, &amp; est speciale in decima, cum alias is fructus i 
+      <lb ed="#C" n="8"/>telligatur, qui superest, deductis expensis ff. de pe. haer si a de¬ 
+      <lb ed="#C" n="9"/>inino. in fi C de fruct. &amp; litis expen.I. iff. de solu. mat. fructus, &amp; ei 
+      <lb ed="#C" n="10"/>ratio specialitatis haec: quia decima praedialis tributum est 
+      <lb ed="#C" n="11"/>16 91. decimae sunt tributa egentium animarum. Sicut es 
+      <lb ed="#C" n="12"/>go tributum solvitur, nulla facta deductione expensarum 
+      <lb ed="#C" n="13"/>vel seminis, sic &amp; decima. infra eodem, tua nobis, quo verum, &amp; 
+      <lb ed="#C" n="14"/>ut cum de cunctis, secundum Goff. &amp; Raynal. Est &amp; alia ri 
+      <lb ed="#C" n="15"/>tio: quia si tu praestas expensas, dominus per divinam pe 
+      <lb ed="#C" n="16"/>tentiam, qua cooperante expensas tibi redditcum max 
+      <lb ed="#C" n="17"/>imis usuris, infra eodem, non est in potestate, &amp; capit, cum non fu 
+      <lb ed="#C" n="18"/>ergo cum opera domini preciosior sit pecunia tua, dim 
+      <lb ed="#C" n="19"/>diam posset exigere, argument. Institut pro socio. §nam 
+      <lb ed="#C" n="20"/>rta, ergo conqueri non debes, si decimam partem accipit 
+      <lb ed="#C" n="21"/>&amp; tibi dimittit nonam. argument. infra eodem, tua nobis, 
+      <lb ed="#C" n="22"/>perum 16. quaest. 1. decimae, in artificio autem continue op 
+      <lb ed="#C" n="23"/>ratur manus hominis, &amp; laborat: quare sumptus deduct 
+      <lb ed="#C" n="24"/>re debent, argument fi commodat. in rebus, § possunt, ideoqu 
+      <lb ed="#C" n="25"/>nec semen est etiam deducendum; ut notat. infra eodem su 
+      <lb ed="#C" n="26"/>§2. In negociatione vero, ideo deducitur, ne pecunia 
+      <lb ed="#C" n="27"/>terum decimetur, infra de reg jur. bona fides. Expensae at 
+      <lb ed="#C" n="28"/>tem factae in refectione seu tuitione rei, ideo non deduci 
+      <lb ed="#C" n="29"/>tur: quia in patrimonio remanent expensae illae argi 
+      <lb ed="#C" n="30"/>mentum ff de lega. 2 Imperator § ultim &amp; leg sequent. Nec ol 
+      <lb ed="#C" n="31"/>stat, quod amisit in destructione domus clibani combu 
+      <lb ed="#C" n="32"/>stione, quia hoc debes imputare peccatis tuis: &amp; jung 
+      <lb ed="#C" n="33"/>quod notat. infra eodem, sub §. 16. Audacter dico, si licite 
+      <lb ed="#C" n="34"/>juste, &amp; honeste vivas, &amp; facias, quod debes, non inveni¬ 
+      <lb ed="#C" n="35"/>tur inopia in domo tua, nec obstat, quod de Job. oppon 
+      <lb ed="#C" n="36"/>posset, quia tunc temporis nimis regnabat imperium di¬ 
+      <lb ed="#C" n="37"/>boli: cum adhuc Dominus non lavisset nos suo sanguin 
+      <lb ed="#C" n="38"/>precioso, sed &amp; multi torquentur, ut majorem mereantu 
+      <lb ed="#C" n="39"/>coronam; quia non coronabitur, nisi qui legitime cert¬ 
+      <lb ed="#C" n="40"/>verit, sicut ergo casus fortuitus non imputatur aliis, it 
+      <lb ed="#C" n="41"/>nec domino. C depign. actio quae fortuitis. Sunt autem pe 
+      <lb ed="#C" n="42"/>sonales reddendae in fine anni, interest enim eccles. simu 
+      <lb ed="#C" n="43"/>totum recipere potius, quam singulariter per minutia 
+      <lb ed="#C" n="44"/>de quaesta quolibet, argument, supra de pigno. ex literis, ff fa 
+      <lb ed="#C" n="45"/>mil. erciscun plane C. qui. &amp; quan. quarta pare debe. leg. 2. lib 10 
+      <lb ed="#C" n="46"/>secundum Goffred. &amp; Rayn. verum si ante annum veli 
+      <lb ed="#C" n="47"/>quis solvere, non video quod possit refutari: quia hoc ju 
+      <lb ed="#C" n="48"/>re expressum non est. De animalibus vero, sicut agnis 
+      <lb ed="#C" n="49"/>hoedis, vitulis. porcis, &amp; pullis, &amp; similibus nec meliora c¬ 
+      <lb ed="#C" n="50"/>guntur solvi, nec deteriora solvi debent: sufficit ergo quo¬ 
+      <lb ed="#C" n="51"/>reddantur mediocria, argument, 10. quaestio. 2. hoc jus porr 
+      <lb ed="#C" n="52"/>ctum, ff.dere dhi. ac si quis renditor. §. final. &amp; leg. sequent. S illus 
+      <lb ed="#C" n="53"/>sciendum, deteriora autem ideo non debent reddi: qui¬ 
+      <lb ed="#C" n="54"/>absurdum est offerre Deo, quod dedignatur homo, ut 45 
+      <lb ed="#C" n="55"/>distinct. capit final. 16 quaest. 7. omnes deciunae, secundum ma 
+      <lb ed="#C" n="56"/>gistros. Et potest hoc intelligi, quando non apparet qui 
+      <lb ed="#C" n="57"/>sit decimus: alias ille solvendus est, nec mutari debet. quo¬ 
+      <lb ed="#C" n="58"/>si mutetur, utrique debetur: unde in Levitico, capit sinal. A 
+      <lb ed="#C" n="59"/>nimal autem quod immolari potest Domino, pura deci 
+      <lb ed="#C" n="60"/>mum: quia de ipso apparet quod est, si quis voverit, san 
+      <lb ed="#C" n="61"/>ctum erit, &amp; vivificari non poterit, id est nec melius ma 
+      <lb ed="#C" n="62"/>lo, nec turpius bono: quod si mutaverit, &amp; ipsum quoc 
+      <lb ed="#C" n="63"/>mutatum est, &amp; illud pro quo mutatum consecratum e 
+      <lb ed="#C" n="64"/>rit Domino eodem, ovis, &amp; bos, &amp; capra, quae sub pastori 
+      <lb ed="#C" n="65"/>virga transeunt, quicquid decimum venerit, sanctificabi 
+      <lb ed="#C" n="66"/>tur Domino 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e977">
+               <lb ed="#C" n="67"/>Et quare? Quia Dominus ipsas retinuit ins 
+      <lb ed="#C" n="68"/>gnum universalis dominii: &amp; voluit ip 
+      <lb ed="#C" n="69"/>sas solvi clericis pro servitio suo faciendo infra eodem tu¬ 
+      <lb ed="#C" n="70"/>nobis io. quaestio.I.decimae, &amp; capit revertimini, unde qui no 
+      <lb ed="#C" n="71"/>solvit, ad decimam diaboli revertetur, &amp; tarde solvere, pe¬ 
+      <lb ed="#C" n="72"/>catum est: &amp; infamis est, qui non solvit, &amp; bannum domi 
+      <lb ed="#C" n="73"/>ni Papae incurrit, ut in dictis capit. &amp; cap. statuimus. Et qui 
+      <lb ed="#C" n="74"/>solvens quadrupliciter remuneratur: primo, in abundan 
+      <lb ed="#C" n="75"/>tia fructuum: secundo, in sanitate corporis: tertio, in re 
+      <lb ed="#C" n="76"/>missione peccatorum: quarto, in acquisitione regni coelo 
+      <lb ed="#C" n="77"/>rum. 26 q1. decinae. Subtrahens vero in novem delinquit 
+      <lb ed="#C" n="78"/>Primum est praevaricatio divini mandati. Secundum ess 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0500.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>quia ad decimam revertitur. Tertium est rapina. Quar 
+      <lb ed="#C" n="80"/>tum est homicidium: sicut potest colligi in dicto capit. deci 
+      <lb ed="#C" n="81"/>mae. Quintum est sacrilegium Hiero. Amico rapere quip 
+      <lb ed="#C" n="82"/>piam, furtum est: ecclesiam fraudare, sacrilegium est, au 
+      <lb ed="#C" n="83"/>quod apertissimi sceleris est, exinde aliquis subtrahere o 
+      <lb ed="#C" n="84"/>mnium praedonum crudelitatem superat. i6 quaestio.i. que 
+      <lb ed="#C" n="85"/>niam quicquid, &amp; est expressum. 16 quaestio. 7. decimas. Sex 
+      <lb ed="#C" n="86"/>tum est, quod Dominus non increpat locustas, nec pla 
+      <lb ed="#C" n="87"/>gas amovet, 16. quaestio.i. revertimini. Septimum, quia ho¬ 
+      <lb ed="#C" n="88"/>tollit fiscus, a quod non accipit Christus, 16. quaestio 7. ma¬ 
+      <lb ed="#C" n="89"/>jores. Octavum est, quod infamiam incurrit. Nonum, quo 
+      <lb ed="#C" n="90"/>bannum domini Papae componet, sicut notatur supra, i¬ 
+      <lb ed="#C" n="91"/>est, excommunicabitur: ut notat. infra eodem, sub §. ulti 
+      <lb ed="#C" n="92"/>mo versicul. sed si de interpretratione, &amp; sequ. Et possunt re 
+      <lb ed="#C" n="93"/>peti a laico per clericum, si per ipsum jus percipiendi de 
+      <lb ed="#C" n="94"/>cimam petatur, &amp; habet locum confessoria, utff siusus 
+      <lb ed="#C" n="95"/>fruct. petatur, uti frui. §. ultimo, si vero fructus separatus pe 
+      <lb ed="#C" n="96"/>tatur, habet locum actio in rem, secundum quosdam, ar 
+      <lb ed="#C" n="97"/>gument. supra de consuetu. ex literis. C. de sacrosanct. eccles. u 
+      <lb ed="#C" n="98"/>mter divinum, &amp; hoc satis exprimitur, f. de poll leg 26 si deci 
+      <lb ed="#C" n="99"/>mam, sed &amp; agi potest condictio ex lege divina, infra eodei 
+      <lb ed="#C" n="100"/>parochianos, &amp; capit. tua. &amp; ff. decondit. ex lege, leg. unica. Si 
+      <lb ed="#C" n="101"/>patet, quod si clericus non facit servitium, vt deberet: ve 
+      <lb ed="#C" n="102"/>notorius fornicator sit laicus, non tenetur ei dare deci 
+      <lb ed="#C" n="103"/>mam argnment. supra de cohabitat. clericor. &amp; mulierum, ve 
+      <lb ed="#C" n="104"/>stra, &amp; capit tua, &amp; capit. ultiino, sed tunc laicus tenetur de 
+      <lb ed="#C" n="105"/>cimam dari proxim. superiori, argument. supra de electio 
+      <lb ed="#C" n="106"/>cum in cunctis, ad fin. &amp; superior in utilitatem eccles cui da 
+      <lb ed="#C" n="107"/>ri debebat, ipsam decimam convertere debet, argumeni 
+      <lb ed="#C" n="108"/>supra de offic. ordin quanto &amp; de successio. ab intest. sancto &amp; cap 
+      <lb ed="#C" n="109"/>ultim ad fin. nec obst. supra eodem tua nobis, § praetextu, qui 
+      <lb ed="#C" n="110"/>illud intelligo de occultis, qui adhuc per ecclesiam toleram 
+      <lb ed="#C" n="111"/>tur, &amp; junge quod notat. infra eodem sub § 4. 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e1081">
+               <lb ed="#C" n="112"/>Quomodo decima t dividatur. Secundum consuei 
+      <lb ed="#C" n="113"/>loci, ut episcopus habeat dimidiam te¬ 
+      <lb ed="#C" n="114"/>tiam, vel quartam, clerici vero eccl. deservientes aliam ha 
+      <lb ed="#C" n="115"/>beant, 10. qu.. antiquos, 16. qu.i. constitutum, sup. de praesc. de quart, 
+      <lb ed="#C" n="116"/>infra eodem quoniam, si non apparet consuetudo, dividatu 
+      <lb ed="#C" n="117"/>in quatuor partes: quarum una episcopo, alia sacerdot. 
+      <lb ed="#C" n="118"/>tertia fabricae, quarta pauperibus assignetur. 124. 2. quati 
+      <lb ed="#C" n="119"/>or, &amp; c. Vulteranae, &amp; junge hic quod no. supra de sepult, ) ub § 
+      <lb ed="#C" n="120"/>vetus, per totum. 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="121"/>ADDITIONES 
+      <lb ed="#C" n="122"/>d Tollit fiscus.] Adde glinc. 1.e0. tit. lib. 6 
+      <lb ed="#C" n="123"/>e Commode satis adjicias ex Mar. ubi supra rubricelllam de de 
+    </p>
+    <p>
+      <lb ed="#C" n="124"/>ci. novalium. Has autem illi monasterio, vel ecclesiae, quae a 
+      <lb ed="#C" n="125"/>lias recipere potest decimas de privilegio speciali, quia ci 
+      <lb ed="#C" n="126"/>per privilegium decimae simpliciter conceduntur, vider:. 
+      <lb ed="#C" n="127"/>etiam ei novalium decimas fuisse concessas: extra, de deci can 
+      <lb ed="#C" n="128"/>contingai, ubi de hoc in gl. hoc ad alium, &amp; cap. ex parte 3. ri 
+      <lb ed="#C" n="129"/>decimae novalium quae de novo assurgunt in parochia asicn 
+      <lb ed="#C" n="130"/>jus, debent illi ecclesiae dari in cujus parochia novalia sunt si 
+      <lb ed="#C" n="131"/>ta. Et episcopus inde hanc partem suam, &amp; si non acpare 
+      <lb ed="#C" n="132"/>vel dubitetur, in cujus parochia sita sint, tunc potest ea sit 
+      <lb ed="#C" n="133"/>Episcopus vendicare, ut extra, de decim. quoniam, &amp; 12. qua 
+      <lb ed="#C" n="134"/>praecipimus, item decimae insularum, quae surgunt de novo 
+      <lb ed="#C" n="135"/>debent illi Episcopo, vel ecclesiae dari de cujus parochia cen 
+      <lb ed="#C" n="136"/>sentur llaeinsulae, ff. de indic. linsulae. Item religiosi &amp; qui re 
+      <lb ed="#C" n="137"/>lidios e communiter vivunt, non tenentur solvere decima 
+      <lb ed="#C" n="138"/>de laboribus suis &amp; novalibus propriis sumptibus cultis, ne 
+      <lb ed="#C" n="139"/>de animalium nutrimentis, nec de ortis, nisi ecclesia inde gra 
+      <lb ed="#C" n="140"/>viter laederetur. Item Cistertienses, hospitalarii, temi larii ni 
+      <lb ed="#C" n="141"/>tenentur solvere decimas de possessionib. suis, quas suis la 
+      <lb ed="#C" n="142"/>borib. vel propriis sumptibus colunt, ut extra de dec ex parti 
+      <lb ed="#C" n="143"/>ubi de hoc &amp; c. adaudientiam. Secus tamen de possessionibus 
+      <lb ed="#C" n="144"/>emptis post concil. Lateran. privilegio tamen obstante, ut es 
+      <lb ed="#C" n="145"/>tii.c. nuper abbates 
+      <lb ed="#C" n="146"/>f Precium operae facturus videbor, si antequam ad decimarun 
+    </p>
+    <p>
+      <lb ed="#C" n="147"/>praescriptionem perveniamus, hanc rubricellam, de deci. dati 
+      <lb ed="#C" n="148"/>in feudum laicis, interjiciamus ex Martin. nostro huc trans 
+      <lb ed="#C" n="149"/>ferentes. Decimas olim in feudum datas laieis, ut ecelessa 
+      <lb ed="#C" n="150"/>defenderent, ut ecclesias a paganis &amp; haereticis defenderent 
+      <lb ed="#C" n="151"/>adhuc possident laici, &amp; successores eorum. Si aliqua nova 
+      <lb ed="#C" n="152"/>lia ibi surgunt, horum decimae laicis non adcrescunt, extra 
+      <lb ed="#C" n="153"/>de his quae fi. a praelat. cum Apostolica in fin. &amp; de deci, capit. tua. 
+      <lb ed="#C" n="154"/>&amp; capiu. cum in ina. Item, si nesciat decimam, quam tene 
+      <!-\-Henricus_a_Segusio_cardinalis_Hostiensis-0501.xml-\->
+      <pb ed="#C" n="0501"/>
+      <cb ed="#C" n="a"/>
+      <lb ed="#C" n="1"/>aliquis miles, utrum sit de datis ab antiquo ante con 
+      <lb ed="#C" n="2"/>cilium, vel si fuerint datae post concilium. Dic quo 
+      <lb ed="#C" n="3"/>si a tempore, cujus non extat memoria, miles huju 
+      <lb ed="#C" n="4"/>modi &amp; antecessores quiete &amp; pacifice tenuere deci 
+      <lb ed="#C" n="5"/>mam recognoscentes se eam tenere ab ecclesia media 
+      <lb ed="#C" n="6"/>te, vel immediate, &amp; reddentes inde debitum obse 
+      <lb ed="#C" n="7"/>quium ipsi ecclesiae praesumendum est, benigniore in 
+      <lb ed="#C" n="8"/>terpretatione, quod sit de decimis ab antiquo datis, ai 
+      <lb ed="#C" n="9"/>gumen. 12. distinctione, illa aliter non est praesumendum 
+      <lb ed="#C" n="10"/>quod juste possideat. Item dicunt quidam, quod quand 
+      <lb ed="#C" n="11"/>miles in aliquibus partibus a rusticis decimam accipit 
+      <lb ed="#C" n="12"/>&amp; ecclesia non petit ab hujusmodi rusticis, sed permit 
+      <lb ed="#C" n="13"/>tit tolli a militibus liberantur omnino rustici, nec pec 
+      <lb ed="#C" n="14"/>cant taliter solvendo, nisi placeat eis eo modo frauda 
+      <lb ed="#C" n="15"/>ri ajure suo. Item si ab ecclesia, vel laicis sint dec 
+      <lb ed="#C" n="16"/>mae alicui in feudum perpetuo concessae, sufficit, si 
+      <lb ed="#C" n="17"/>cundum quosdam, solius clerici consensus absque e 
+      <lb ed="#C" n="18"/>piscopi auctoritate, ad hoc ut conferantur hujusmo 
+      <lb ed="#C" n="19"/>di decima in feudum alicui ecclesiae, vel religioso loco 
+      <lb ed="#C" n="20"/>quod tantum unum est, si a tempore cujus non extat me 
+      <lb ed="#C" n="21"/>moria ita concessae sint, &amp; ante concilium Lateranen 
+      <lb ed="#C" n="22"/>se. Item, si hujusmodi seudatarius laicus decesserit 
+      <lb ed="#C" n="23"/>poterit forte episcopus haeredem ejus, vel extraneum 
+      <lb ed="#C" n="24"/>si haeredem legitimum non habeat, de illis antiqui 
+      <lb ed="#C" n="25"/>decimis infeudare. At si hujusmodi feudum a feudata 
+      <lb ed="#C" n="26"/>rio sit donatum, ita quod per episcopum facile recu 
+      <lb ed="#C" n="27"/>perari non possit, potest forte episcopus, vel in feudun 
+      <lb ed="#C" n="28"/>alicui laico concedere, qui illud recuperet, &amp; in fer 
+      <lb ed="#C" n="29"/>dum ab ecclesia recognoscat argumentum, extra, de fen 
+      <lb ed="#C" n="30"/>dis capit. ex parte. Et idem potest probabiliter conced 
+      <lb ed="#C" n="31"/>de decimis, quae tenentur a laicis tanto tempore, de cu 
+      <lb ed="#C" n="32"/>jus initio non extet memoria. Ne cognoscunt se ea 
+      <lb ed="#C" n="33"/>tenere ab ecclesia, potest dici, quod episcopus possi 
+      <lb ed="#C" n="34"/>de eis laicus infeudare, argumento dictoc. ex parte. cum pe 
+      <lb ed="#C" n="35"/>hoc ipsum procuretur utilitas ecclesiae ff de solu.l. qui decen 
+      <lb ed="#C" n="36"/>quia posterior mora illi nocet, per quem mora facta fuit 
+      <lb ed="#C" n="37"/>ff. de usur.I.debitor usurariu-->
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e1105">
+               <lb ed="#C" n="38"/>Et utrum praescribi possit? 8 Potest ab 
+      al<lb ed="#C" n="39" break="no"/>quibus &amp; ab aliquibus non laici 
+      <lb ed="#C" n="40"/>nim non possunt praescribere, supra de praescriptionibus 
+      <lb ed="#C" n="41"/>causam qu. 16. quaestio. prima pervenit, nec quo minus sati 
+      <lb ed="#C" n="42"/>faciant, aliqua consuetudine se tueri possunt, cum si 
+      <lb ed="#C" n="43"/>contra jus divinum, quod dic, vt notatur infra eodem su 
+      <lb ed="#C" n="44"/>septim. Clericus vero si parochiamhabeat, ipsam potes 
+      <lb ed="#C" n="45"/>praescribere: &amp; si parochia contra parochiam supra d 
+      <lb ed="#C" n="46"/>praescriptio. de quarta. Religiosi autem non habente 
+      <lb ed="#C" n="47"/>parochiam, ipsam praescribere non possunt, quia ne 
+      <lb ed="#C" n="48"/>possidere licet, decimasexta quaestio. prima. placuit imo t) 
+      <lb ed="#C" n="49"/>nentur solvere, nisi privilegiati sint, 16. quaest. 1. alia, 
+      <lb ed="#C" n="50"/>capit generaliter duodecima quaestio. prima, duo sunt, sed r 
+      <lb ed="#C" n="51"/>tione parochiarum ipsam praescriberent, infra eodem cun 
+      <lb ed="#C" n="52"/>contingit, &amp; capitul. cum intua. decimasexta quaestio.i.doctos 
+      <lb ed="#C" n="53"/>verum quia timetur, ne a laicis causam habuerint, deb¬ 
+      <lb ed="#C" n="54"/>ret probare titulum, sicut potest intelligi infra eodem dile 
+      <lb ed="#C" n="55"/>cti, &amp; capit. dudum, supra de praescriptionibus si diligenti, argi 
+      <lb ed="#C" n="56"/>ment. infra eodem interdimus. Gregor supra de his quae flur 
+      <lb ed="#C" n="57"/>ab episc. cum Apostolica, &amp; de praebendis in Lateranense conc 
+      <lb ed="#C" n="58"/>lio infra de privilegiis cum &amp; plantare. Idem, si laicust 
+      <lb ed="#C" n="59"/>net rem ecclesiae supra de probationibus licet. Sed parochi 
+      <lb ed="#C" n="60"/>secularis contra parochiam secularem non habet neces 
+      <lb ed="#C" n="61"/>se titulum ostendere, sic potest intelligi supra de praeser 
+      <lb ed="#C" n="62"/>ptionibus vigilanti, &amp; de quarta &amp; capitulo quontam. Si 
+      <lb ed="#C" n="63"/>durior est conditio monachorum, quamvis summa sit r. 
+      <lb ed="#C" n="64"/>tio quae pro religiosis facit, &amp; est ratio quia debet a tal 
+      <lb ed="#C" n="65"/>laico arceri, ne locupletentur, cum aliena jactura: vnd 
+      <lb ed="#C" n="66"/>etiam, secundum Gratianum non praescribunt conti¬ 
+      <lb ed="#C" n="67"/>ecclesiam minori spacio quadraginta annorum, sed e 
+      <lb ed="#C" n="68"/>clesiam contra ecclesiam triginta decimasexta quaestio 3. §po 
+      <lb ed="#C" n="69"/>test, versiculin canonibus, illud tamen hodie non tenet, ne 
+      <lb ed="#C" n="70"/>obst. infra dejure patron. cura quia aut ponitur pro &amp; sic 
+      <lb ed="#C" n="71"/>C. de verborum significatione leg. penultima ff. de verbo. significa 
+      <lb ed="#C" n="72"/>tionib. saepe, aliquando vero vel ponitur expositive, pro 
+      <lb ed="#C" n="73"/>id est, ut C. de tutoribus vel curatoribus ad litem in ipsa rubri 
+      <lb ed="#C" n="74"/>ca, de hac materia dicut plene supra de praescriptionib su 
+      <lb ed="#C" n="75"/>rubrica, de praescriptione rerum immobilium § quae exigantur su 
+      <lb ed="#C" n="76"/>quartum 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e1192">
+               <lb ed="#C" n="77"/>Quaeritur, utrum de ilicite acquisitis, 
+      pu<lb ed="#C" n="78" break="no"/>ta ex injusto bello, pro 
+      <lb ed="#C" n="79"/>hibit a venatione, furto, rapina, simonia, usura, injust 
+      <lb ed="#C" n="80"/>peda gio, vel salmarino, vel ludo, injusta tallia, vel ali¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0501.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="81"/>exactione, injusta sententia, &amp; quae judex per concussi¬ 
+      <lb ed="#C" n="82"/>nem extorquet meretricio &amp; histrionatu teneatur qui 
+      <lb ed="#C" n="83"/>dare decimam? Et videtur quod non, a contrario ser 
+      <lb ed="#C" n="84"/>su, infra eodem ex transmissa, prima qu. I. non est putand 
+      <lb ed="#C" n="85"/>infra de usuris super eodem, sed contra, quia de omnibu 
+      <lb ed="#C" n="86"/>dandae sunt decimae, vt notatur supra eodem § de quibu 
+      <lb ed="#C" n="87"/>Solutio. praediales indistinct. solvi debent a possident 
+      <lb ed="#C" n="88"/>praedia, non solum justo, sed a violento, vel clandesti 
+      <lb ed="#C" n="89"/>no: &amp; non solum catholico, sed etiam Judaeo, haeretico 
+      <lb ed="#C" n="90"/>vel pagano, vt notatur supra eodem a quibus versicul. teni 
+      <lb ed="#C" n="91"/>netur, sicut &amp; in tributo contingit. ff. ae pactis inter debit. 
+      <lb ed="#C" n="92"/>rem. C. sine censu, vel reliquis, leg. 1. nec in talibus delictur 
+      <lb ed="#C" n="93"/>privilegium indulgebat, decimasexta quaestio. 1. leg. supr 
+      <lb ed="#C" n="94"/>de ju. intelleximus, nec poena habet immunitatem! f. 
+      <lb ed="#C" n="95"/>minoribus Papinianus exuli reverso, infra de donationibus in 
+      <lb ed="#C" n="96"/>ter virum &amp; uxorem &amp; si necesse, ff. quod vi aut clam. Srriu 
+      <lb ed="#C" n="97"/>ff. de donatione inter virum &amp; uxorem leg. 3. §. 1. in personal 
+      <lb ed="#C" n="98"/>bus vero distinguitur, utrum teneatur quis ad restitutio 
+      <lb ed="#C" n="99"/>nem ut in omnibus supradictis, excepto meretricio, 
+      <lb ed="#C" n="100"/>histrionatu, sive transferatur dominium, sive non: &amp; tum 
+      <lb ed="#C" n="101"/>non debet dari decima nec recipi unde nec de injust 
+      <lb ed="#C" n="102"/>bello datur, de quo loquitur vigesimatertia quaestio prim 
+      <lb ed="#C" n="103"/>militare, supra de jurejurando sicut, secus, si justum esse 
+      <lb ed="#C" n="104"/>vigesinatertia quaestio. 5. dicat. Sed etsi non tenetur qui¬ 
+      <lb ed="#C" n="105"/>ad restitutionem, ex peccato tamen quaestus proveni 
+      <lb ed="#C" n="106"/>notoriae, ecclesia non debet recipere, ne peccatum vide 
+      <lb ed="#C" n="107"/>atur approbare, secus putarem, si occultum esset, quam 
+      <lb ed="#C" n="108"/>vis hoc sciret praelatus, argumentum trigesmasicunda quae 
+      <lb ed="#C" n="109"/>stio. quinta. Christiana, decimasexta quaestio. prima, si omnu 
+      <lb ed="#C" n="110"/>&amp; quaestio secunda si tantum, &amp; capitulo placuit, infra de¬ 
+      <lb ed="#C" n="111"/>moniacis sicut nobis. §.. sin. &amp; capitulo sequent. § fin. &amp; sup 
+      <lb ed="#C" n="112"/>de offic. ordi si sacerdotes, secundum hoc intellige quod no¬ 
+      <lb ed="#C" n="113"/>tatur supra eodem § de quibus versiculo quod dixi, &amp; versicul 
+      <lb ed="#C" n="114"/>dicas, quod tenetur dare. Ubi vero nunc tenetur ad resti 
+      <lb ed="#C" n="115"/>tutionem nec quaestus ex peccato provenit: sed licite a 
+      <lb ed="#C" n="116"/>quisitum est, indistincte dari, debet, nisi privilegium ol 
+      <lb ed="#C" n="117"/>stat, vt patet in his, quae notat. supra eodem §. de quibus, re 
+      <lb ed="#C" n="118"/>spondendum, &amp; § aliquibus, per totum. Secundo qua 
+      <lb ed="#C" n="119"/>ritur, utrum semen sit deducendum de decima? Etv 
+      <lb ed="#C" n="120"/>detur quod sic, quia dominus primum semen ministi 
+      <lb ed="#C" n="121"/>vit: &amp; illius usumfruct. agricolae dedit debet igitursi 
+      <lb ed="#C" n="122"/>men deduci ad instar pecuniae in usufruct. datae, uiff. d 
+      <lb ed="#C" n="123"/>usufructu carumrerum quae usu consumuntur leg. 2. supra d 
+      <lb ed="#C" n="124"/>pignoribus capitulo fin. ad instar gregis, in usufruct. cor 
+      <lb ed="#C" n="125"/>cessi, de usufruct. vetus fuit, &amp; sicut in negociatione de 
+      <lb ed="#C" n="126"/>ducitur capitale, alias decimatum, infra eodem pastoralis 
+      <lb ed="#C" n="127"/>Verba sunt haec: nec enim semen neque sumptus est de 
+      <lb ed="#C" n="128"/>ducendas: vt notatur supra eodem §&amp; qualiter, &amp; expre 
+      <lb ed="#C" n="129"/>sim probatur, infra eodem tua. nobis, responsio.i. &amp; § sin. Ao 
+      <lb ed="#C" n="130"/>hoc quod objectum est de primo semine, respondeo, quo 
+      <lb ed="#C" n="131"/>non fuit in usufructum concessum: sed gratis datum 
+      <lb ed="#C" n="132"/>&amp; si Deus liberalis fuit agricolae, non debet ex hoc a¬ 
+      <lb ed="#C" n="133"/>retinendum jus Dei, quod in decimis consistit aliquan 
+      <lb ed="#C" n="134"/>exceptionem assumere: sed potius plenius &amp; sine ali 
+      <lb ed="#C" n="135"/>qua diminutione reddere, nam ex hoc est ei saltem ad an 
+      <lb ed="#C" n="136"/>tidora obligatus, ff. de petitione haereditatis, sed &amp; si lege S con 
+      <lb ed="#C" n="137"/>suluit, supra de testamentis, cum officiis, &amp; capitul. relatum. 2. a 
+      <lb ed="#C" n="138"/>fi. &amp; adde quod notatur supra eodem § &amp; qualiter, versicu 
+      <lb ed="#C" n="139"/>de personalibus &amp; sequent. Item semen mortificatur: &amp; id 
+      <lb ed="#C" n="140"/>eo non deducitur, sicut tangitur, infra eodem e cum non sit n 
+      <lb ed="#C" n="141"/>homine, sed pecunia in inercede data salva manet, &amp; ide¬ 
+      <lb ed="#C" n="142"/>deducitur 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e1342">
+               <lb ed="#C" n="143"/>TErtio quaeritur, utrum laicus possit sine peccato 13 
+      <lb ed="#C" n="144"/>decimas percipere? &amp; videtur quod non: quia domi 
+      <lb ed="#C" n="145"/>nus praecepit in Levitico a eas dare Levitis, vt sit cibu¬ 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="146"/>ADDITIONES 
+      <lb ed="#C" n="147"/>g Vtrum praescribi possit. )Adde gl. in verbo componendum, in eap 
+    </p>
+    <p>
+      <lb ed="#C" n="148"/>nuper, de decim. glinc. decimae, 16. qu. I. Card. Zab. inc dudium, in 
+      <lb ed="#C" n="149"/>secundo notat. de decimi 
+      <lb ed="#C" n="150"/>a Quia dominus praecipit in Levitico. JAdde an decimae sint di 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>iure divino, vide inc. tua nos.eo.ti. sup. de deci. Car. Zab. in e. a oo¬ 
+      <lb ed="#C" n="152"/>bis, in z. oppositio, de deci. Ab. in c. fi. de terra, in 2. no. de priv--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0502.xml-->
+      <pb ed="#C" n="485"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>in domo Domini decimasexta 16. quaestio. prima revertim 
+      <lb ed="#C" n="2"/>u, &amp; jura prohibent, ne laici percipiant decimas, vel det 
+      <lb ed="#C" n="3"/>neant, infra eodem prohibemus ad hoc, &amp; capit. quoniam, su 
+      <lb ed="#C" n="4"/>pra de rescriptionibus causam, supra de his, quae fiunt a prael. 
+      <lb ed="#C" n="5"/>tis un Apostolica, in fin decimasexta quaestio. prima quonta 
+      <lb ed="#C" n="6"/>&amp; quaestio septima decimas, decima quaestio prima quia sace 
+      <lb ed="#C" n="7"/>dos, &amp; capitulo hanc consuetudinem, &amp; ad hoc, supra de ar 
+      <lb ed="#C" n="8"/>gument. pervenit. In contrarium potest induci generali 
+      <lb ed="#C" n="9"/>consuetudo in Hispania, &amp; Francia, &amp; Burgundia 
+      <lb ed="#C" n="10"/>&amp; Alemania, in plerique locis. Solutio. Aut laicus habe 
+      <lb ed="#C" n="11"/>privilegium Romanae sedis Apostolicae aut non Si la 
+      <lb ed="#C" n="12"/>cus habet privilegium Romanae sedis, sive ad tempus 
+      <lb ed="#C" n="13"/>sive in perpetuum, &amp; licite exigit, &amp; licite solvitur ei 
+      <lb ed="#C" n="14"/>sicut in privilegio continetur, quia hoc porest Roman¬ 
+      <lb ed="#C" n="15"/>sedes concedere: sic intellige, infra de jure patronatus nob 
+      <lb ed="#C" n="16"/>fuit, infra eodem a nobis, sexagefima tertia distinct. Adri¬ 
+      <lb ed="#C" n="17"/>nus, &amp; capitulo in synodo. 16. quaestio. prima huic est etiam. Se 
+      <lb ed="#C" n="18"/>opponitur, Decimae ex praecepto, &amp; ex lege divina deb¬ 
+      <lb ed="#C" n="19"/>tur, ut notatur, infra eodem sub§ septimo versiculo magistri 
+      <lb ed="#C" n="20"/>&amp; sequent. &amp; versicul. restat, quomodo ergo potest Pap 
+      <lb ed="#C" n="21"/>contravenire: imo non potest, ut supra de restitutione sp¬ 
+      <lb ed="#C" n="22"/>liatorum literas, §. opinioni, &amp; quint. distinct. in princip oci. 
+      <lb ed="#C" n="23"/>va distinct. quae contra mores, quia tenentur usque ad an 
+      <lb ed="#C" n="24"/>mam &amp; sanguinem defendere, vigesmaquinta quaestio pr 
+      <lb ed="#C" n="25"/>rna. Sunt quidam. Dicunt aliqui, quod non posset in to 
+      <lb ed="#C" n="26"/>tum hoc destruere: sed alicui pro sustentatione vitae su¬ 
+      <lb ed="#C" n="27"/>potest hoc concedere, ut notatur supra eodem §. a quibus 
+      <lb ed="#C" n="28"/>responsione prima, sed certe ubi potest in totum, &amp; in pa¬ 
+      <lb ed="#C" n="29"/>tem: &amp; contra, argumentum ff. derei vendicatione quae a 
+      <lb ed="#C" n="30"/>tota. Dicas ergo, quod aliqua sunt praecepta, in quibu 
+      <lb ed="#C" n="31"/>non servatur aliqua privata utilitas, sive temporalis, nis 
+      <lb ed="#C" n="32"/>praejudicium alterius committat aliquis, ut in furto: 
+      <lb ed="#C" n="33"/>ideo talia sine peccato non possunt omitti, quo ad affir¬ 
+      <lb ed="#C" n="34"/>mativa, vel committi, quo ad prohibitoria: &amp; in talibu 
+      <lb ed="#C" n="35"/>Papanullam potestatem habet, &amp; sic intelligenda sun 
+      <lb ed="#C" n="36"/>jura, de quibus opposui, aliqua vero sunt in quibus versa 
+      <lb ed="#C" n="37"/>tur privata sive temporalis utilitas, ut in decimis, primi 
+      <lb ed="#C" n="38"/>tiis, oblationibus &amp; similibus, per quae nemini paratu 
+      <lb ed="#C" n="39"/>praejudicium: imo nisi reddantur, peccatum est &amp; cun 
+      <lb ed="#C" n="40"/>temporalitas ad ecclesiam spectet, &amp; Deum, cujus v 
+      <lb ed="#C" n="41"/>carius universalis est Papa, potest in suis instituere: 
+      <lb ed="#C" n="42"/>de his disponere, sicut placet, ad hoc supra de translatio 
+      <lb ed="#C" n="43"/>ne Ep. scopi vel electi, capitulo primo, secundo, &amp; tertio, &amp; nono 
+      <lb ed="#C" n="44"/>quaestio tertio. cuncta per mundum &amp; sic sine cujusque inju 
+      <lb ed="#C" n="45"/>ria potest concedere laico, quod decimas alicujus loc 
+      <lb ed="#C" n="46"/>percipiat, vel non debet, sicut notatur supra. Sed no 
+      <lb ed="#C" n="47"/>debet hoc facere nisi ex causa, puta favore fideicom 
+      <lb ed="#C" n="48"/>missa, ut si concedatur alicui principi, quod percipiat de 
+      <lb ed="#C" n="49"/>cimas omnium locorum paganorum, vel haereticorum 
+      <lb ed="#C" n="50"/>vel schismaticorum, quos poterit subjugare, &amp; ad uni 
+      <lb ed="#C" n="51"/>tatem ecclesiae adducere, vel reducere, ut in eisdem c. 
+      <lb ed="#C" n="52"/>pitibus comprobatur, sed occasione istius privilegii, no 
+      <lb ed="#C" n="53"/>deberet sibi novalia vendicare infra eodem tua, &amp; infra i 
+      <lb ed="#C" n="54"/>sine. Utrum autem in hoc casu debeat percipere dec 
+      <lb ed="#C" n="55"/>mas Illarum rerum, quae non consueverant decimari 
+      <lb ed="#C" n="56"/>quae scivit Raynutius &amp; cancellavit, tamen dicendun 
+      <lb ed="#C" n="57"/>est, quod non: quia tale privilegium odiosum est: &amp; pr¬ 
+      <lb ed="#C" n="58"/>riculosum posset esse: &amp; ideo restringendum, ff. de lib 
+      <lb ed="#C" n="59"/>ris &amp; posthumis cum quidam, argumentum infra de sponsal 
+      <lb ed="#C" n="60"/>bus &amp; matrimoniis juvenis, ff. de rebus dubiis, ubi, quia nec d 
+      <lb ed="#C" n="61"/>his videtur cogitatum, ff. de pactis tres fratres, &amp; de trans¬ 
+      <lb ed="#C" n="62"/>ctionibus qui cum tutoribus in fin. ff. de contrahenda emptioni 
+      <lb ed="#C" n="63"/>leg. tertio, si clerici perciperent infra eodem cum in tua, qui¬ 
+      <lb ed="#C" n="64"/>tunc favorabile est, &amp; ideo ampliatur, ut notatur supr¬ 
+      <lb ed="#C" n="65"/>eodem §. a quibus, versicul. hi autem, &amp; sequent. Hoc etian 
+      <lb ed="#C" n="66"/>privilegium expirat in casibus. Primo, si tales princi 
+      <lb ed="#C" n="67"/>pes abutantur privilegio ecclesiam impugnando, un 
+      <lb ed="#C" n="68"/>decima quaestio. secunda privilegio, sexagesimatertia distinct. 
+      <lb ed="#C" n="69"/>one, §. verum, &amp; argumentum supra de donationibus capitul 
+      <lb ed="#C" n="70"/>sine &amp; de posthumis capitulo sin. vel si non faciat id, propte 
+      <lb ed="#C" n="71"/>quod privilegium est concessum supra de donationibus cur 
+      <lb ed="#C" n="72"/>dilecti infra de conditionibus appositis &amp;c. verum. Secunde 
+      <lb ed="#C" n="73"/>si scienter venerint contra privilegium sustinendo, quo¬ 
+      <lb ed="#C" n="74"/>ecclesia, ad quam spectat per triginta annos deciman 
+      <lb ed="#C" n="75"/>laico concessam percipiat infra de privilegiis si de terra 
+      <lb ed="#C" n="76"/>Tertio, per illud privilegium enoriniter laediturus pa 
+      <lb ed="#C" n="77"/>rochiale infra eodem suggestum. Quarto, si privilegio ex 
+      <lb ed="#C" n="78"/>presse renunciaverunt infra de regularibus statuimus 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0502.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>septim. quaestio prima quam periculosum. Quinto, si au 
+      <lb ed="#C" n="80"/>thoritate episcopi jus suum alicui ecclesiae, vel loco re 
+      <lb ed="#C" n="81"/>ligioso dederunt, sup de his quae fi. a prael. cum Apostolica 
+      <lb ed="#C" n="82"/>decimasexta qu. prima quoniam quicquid. Sexto, si aliquod e 
+      <lb ed="#C" n="83"/>norme commiserint contra ecclesiam, a qua faudum te 
+      <lb ed="#C" n="84"/>nebatur occidendo, vel mutilando rectorem, vel cleri 
+      <lb ed="#C" n="85"/>cum suum infra de panis, in quibusdam, &amp; adde quod no 
+      <lb ed="#C" n="86"/>tatur supra eodem §. a quibus, verficul. cessat etiam privilegi 
+      <lb ed="#C" n="87"/>um, ubi &amp; quosdam alios casus elicere potes. Quod s 
+      <lb ed="#C" n="88"/>laicus habet privilegium Romanae sedis, potest dici, quo¬ 
+      <lb ed="#C" n="89"/>si percepit in pace tanto tempore, quod non extet me 
+      <lb ed="#C" n="90"/>moria, praesumendum est pro ipso, &amp; habetjus in deci 
+      <lb ed="#C" n="91"/>ma, argumentum ff. de verborum significatione super quibus 
+      <lb ed="#C" n="92"/>dam, §. praeterea, &amp; sic posset intelligi decima ab anti 
+      <lb ed="#C" n="93"/>quo in feudum concessa infra eodem tua prim. &amp; supra d 
+      <lb ed="#C" n="94"/>his quae fiunt a praelatis cum Apostolica in fine, sed hoc non es 
+      <lb ed="#C" n="95"/>verum, quia nullus numerus annorum defendit laicun 
+      <lb ed="#C" n="96"/>in talibus supra de consuetudine capitulo fine, nec obstat in 
+      <lb ed="#C" n="97"/>fra de rerborum significatione superquibusdam, quia loquitu 
+      <lb ed="#C" n="98"/>in temporalibus, quae ab Imperatore, vel Rege conced 
+      <lb ed="#C" n="99"/>possunt, &amp; sic anquo tempore acquirebantur a laico, qu 
+      <lb ed="#C" n="100"/>&amp; ipsa temporalia possidere potest. Porro aliud in de 
+      <lb ed="#C" n="101"/>cimis, &amp; aliis spiritualibus, quorum concessio est Im 
+      <lb ed="#C" n="102"/>peratori, &amp; Regi, &amp; cuilibet laico, penitus interdict 
+      <lb ed="#C" n="103"/>infra eodem tua. prim. &amp; capit. dudum, quia nec laicus, ne 
+      <lb ed="#C" n="104"/>etiam religiosus de his potest disponere supra de rebus ec 
+      <lb ed="#C" n="105"/>clesiis non alienandis capitulo fina. supra de constitutionibus qu. 
+      <lb ed="#C" n="106"/>in ecclesiarum, &amp; capitulo ecclesiae sanctae Mariae, nec possidi 
+      <lb ed="#C" n="107"/>re, ut supra de prae scriptionibus causam decimasexta quaesti 
+      <lb ed="#C" n="108"/>sexta decimas, nec obstat, quod dicunt alia jura de deci¬ 
+      <lb ed="#C" n="109"/>mis ab antiquo concessis; quia intelligitur de concessi 
+      <lb ed="#C" n="110"/>one injuste, secundum Goffredum, imo quia intelligi 
+      <lb ed="#C" n="111"/>tur de concessis ante decretum Urbani Papae, nam ab il 
+      <lb ed="#C" n="112"/>lo tempore citra non poterunt concedi ab episcopo, ve 
+      <lb ed="#C" n="113"/>abbate, &amp; idem intelligo de quolibet inferiore Papae &amp; 
+      <lb ed="#C" n="114"/>de constitutione feudorum Episcopum vel abbatem. Item si e 
+      <lb ed="#C" n="115"/>piscopus vel abbas, licet R aynutius scripserit hoc esse pro 
+      <lb ed="#C" n="116"/>hibitum a tempore concilii Alexandrini ut infra eoden 
+      <lb ed="#C" n="117"/>prohibemus, infra de censibus &amp; exactionibus &amp; procurationi 
+      <lb ed="#C" n="118"/>bus prohibemus, sed forte non viderat constitutionem seu 
+      <lb ed="#C" n="119"/>dalem allegatam. Dicas ergo, quod decimae debentu 
+      <lb ed="#C" n="120"/>duplici jure ecclesiis, scilicet intuitu divini osequii in ei 
+      <lb ed="#C" n="121"/>praestiti. 12. quaestio prima, § si ergo, decimasexta quaestio sexta 
+      <lb ed="#C" n="122"/>infra eodem, novum, &amp; hoc jus cum mere sit spirituale, nor 
+      <lb ed="#C" n="123"/>cadit in laicum c &amp; argumentum supra de institutionibus 
+      <lb ed="#C" n="124"/>capitulo secundo, supra de electione &amp; electi potestate Massana de 
+      <lb ed="#C" n="125"/>cima quaestio. prima nos consuetudine, qui nec 
+      administratio<lb ed="#C" n="126" break="no"/>nem talium habere potest: ut notatur infra ne praelati 
+      vi<lb ed="#C" n="127" break="no"/>ces suas vel eccles. versicul. sed &amp; videtur, &amp; ideo hodie ab 
+      in<lb ed="#C" n="128" break="no"/>feriore Papa non potest concedi: ut supra notatur. Item 
+      <lb ed="#C" n="129"/>debentur eis in signum universalis domini, decima sexta. 
+      <lb ed="#C" n="130"/>quaestio prima revertmuni, infra eodem; tua nobis, §. rerum si 
+      <lb ed="#C" n="131"/>ad eum, &amp; hoc jus cum sit civile, potest concedi laico, 
+      <lb ed="#C" n="132"/>non quo ad proprietatem, sed quo ad fructuum 
+      perce<lb ed="#C" n="133" break="no"/>ptionem, &amp; ad tempus, non in perpetuum: ita quod non 
+      <lb ed="#C" n="134"/>transeat ad haeredes: &amp; expressim legitur infra eodem, ad 
+      <lb ed="#C" n="135"/>hoc, sed causa pietatis &amp; personae sustentationis, hoc fieri 
+      <lb ed="#C" n="136"/>potest. 32. distinct. si qui vero. duodeci ma quaestio. prima, qu 
+      <lb ed="#C" n="137"/>tua fraternitas, nam si in perpetuum posset concedi: tunc 
+      <lb ed="#C" n="138"/>jus spirituale apud ecclesiam inutile remaneret: quia 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="139"/>ADDLTIONES. 
+      <lb ed="#C" n="140"/>b Generalis consuetudo. J Adde Anto. de But. inc. nonnull.i 
+    </p>
+    <p>
+      <lb ed="#C" n="141"/>3. col. de cle non resi. Anton. de But. in clextransmissa, de praescrit 
+      <lb ed="#C" n="142"/>Archid. incap quicunq:, ele. 1. 16. q. 7. Archi. in c. maiores, ead. can 
+      <lb ed="#C" n="143"/>sa, &amp; 7 
+      <lb ed="#C" n="144"/>c Spirituale non cadit in laicum. JAdde gloss inc. imperium, Ic 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>distinct gloss. summae, 15. quasi 7. Innocentius in c. quod sicut de e 
+      <lb ed="#C" n="146"/>lectione in sua gloss. Ioan. And. in add.tioni Spoc. titulo delegati 
+      <lb ed="#C" n="147"/>in §. nunc tractemus, versic sed nunquid deleguus. Ant. de Eut. ii 
+      <lb ed="#C" n="148"/>c. nobis de iure patronat. Pet. de Anch in cleric. per literas, de prae 
+      <lb ed="#C" n="149"/>bendis. Abb. in capis. dilectus, de efficiis delega: Abbas in rubrica d 
+      <lb ed="#C" n="150"/>indic. Ioan. de Imo. in cap. quod in duviis, in 50. no. de renun iden 
+      <lb ed="#C" n="151"/>Ioan. de Imo. inc ad supplicationem in 4. no. eo.dit. Ioan. de Imo 
+      <lb ed="#C" n="152"/>in cle. I. de concas. praeben.--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0503.xml-->
+      <pb ed="#C" n="486"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>sicut corpus non potest vivere sine anima, &amp;c. prima qi 
+      <lb ed="#C" n="2"/>tertia si quis praebendas, &amp; sic intelligi debent concord.s 
+      <lb ed="#C" n="3"/>gnatae supra eodem sub §. Responsio. prim. &amp; junge quod no 
+      <lb ed="#C" n="4"/>tatur supra de feudis §. quis possit versicul. sed nunquid dec¬ 
+      <lb ed="#C" n="5"/>mas, &amp; sequent. &amp; supra eodem §. a quibus, versicul. hi au 
+      <lb ed="#C" n="6"/>tem, &amp; sequent. si vis scire, an laicus possit administrar 
+      <lb ed="#C" n="7"/>in eccles. vide infra ne praelati vices suas versicul. sed &amp; p 
+      <lb ed="#C" n="8"/>detui 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e1690">
+               <lb ed="#C" n="9"/>QUarto quaeritur? de clericis habentibus sufficien 
+      <lb ed="#C" n="10"/>patrimonium, vel alios reditus, utrum licite rec 
+      <lb ed="#C" n="11"/>piant decimas? &amp; dixerunt Raynutius &amp; Goffredu 
+      <lb ed="#C" n="12"/>quod sic, si servitium ecclesiae, cujus occasione decima 
+      <lb ed="#C" n="13"/>percipiunt, faciant. vigesimasecunda quaestio. prima, illi ai 
+      <lb ed="#C" n="14"/>tem, duodecima qu secunda charitatem, ff. de regulis juris se 
+      <lb ed="#C" n="15"/>tundum naturam, alioquin sacrilegium committunt, ve 
+      <lb ed="#C" n="16"/>si in malos usus convertant, prima quaest. secund clericos, d 
+      <lb ed="#C" n="17"/>cimasexta qu. quoniam, in fin. prima qui pastoralis, nam secur 
+      <lb ed="#C" n="18"/>dum Augustinum panis egens vita pauperis est: qui de 
+      <lb ed="#C" n="19"/>fraudat illum, homo sanguinis est, decimatertia quaesti¬ 
+      <lb ed="#C" n="20"/>huinta immolans, ad idem Ambrosi. quadragesima septim. di 
+      <lb ed="#C" n="21"/>stinct. sicut hi. Miror qualiter Goffred. secutus est hun 
+      <lb ed="#C" n="22"/>intellectum, aliqui religiosi oppido, si auderent infes 
+      <lb ed="#C" n="23"/>secularibus clericis, idem sicut clerico seculares asserunm 
+      <lb ed="#C" n="24"/>nimium amplectuntur. Ideoque breviter dic, quod cl¬ 
+      <lb ed="#C" n="25"/>fici quibus debentur, quantumcunque delinquant,n 
+      <lb ed="#C" n="26"/>si notorii sint; decimas licite exigunt: nec aliis solvi d 
+      <lb ed="#C" n="27"/>bent, etiam pauperibus, sine voluntate ipsorum infr¬ 
+      <lb ed="#C" n="28"/>eodem tua nobis, §. praetextu vero nequitiae clericorum, nequ 
+      <lb ed="#C" n="29"/>unt eas, nisi quibus ex mandato divino debentur, pr¬ 
+      <lb ed="#C" n="30"/>suo arbitrio erogare: cum nulli licitum sit aliena cuiquan 
+      <lb ed="#C" n="31"/>concedere praeter domini voluntatem: ut &amp; supra dej¬ 
+      <lb ed="#C" n="32"/>rejurando eam te. debentur autem Deo &amp; sacerdotibu 
+      <lb ed="#C" n="33"/>curam habentibus, ergo non sunt reddendae aliis, decim¬ 
+      <lb ed="#C" n="34"/>sexta qu. septima decimas etenim omnes decinas, &amp; capitul 
+      <lb ed="#C" n="35"/>decinas, &amp; cap pervenit, &amp; quaestio. prima si quis laicus, ne ur 
+      <lb ed="#C" n="36"/>quam insultent religiosi contra clericos seculares, qui 
+      <lb ed="#C" n="37"/>religiosi de jure communi primitias, neque decimas, ni¬ 
+      <lb ed="#C" n="38"/>que oblationes vivorum, vel mortuorum debent pel 
+      <lb ed="#C" n="39"/>cipere nisi curam habeant, ut decunasexta qu. prima di 
+      <lb ed="#C" n="40"/>ctos, &amp; quarto capitulo sequent. &amp; junge quod notatur si 
+      <lb ed="#C" n="41"/>pra eodem § &amp; quare, &amp; §. cui dico tamen de clericis secu 
+      <lb ed="#C" n="42"/>laribus, quod sibi caveant, nam quamvis licite ipsas ex 
+      <lb ed="#C" n="43"/>gant, &amp; eis solvantur licite: tamen si in malos usus cor 
+      <lb ed="#C" n="44"/>vertunt, licite receptis illicite abutuntur. Qualiter at 
+      <lb ed="#C" n="45"/>tem praedicta jura intelligi debeant, &amp; multa alia de ha 
+      <lb ed="#C" n="46"/>materia, &amp; utrum habens sufficiens patrimonium, po 
+      <lb ed="#C" n="47"/>sit impetere Episcopum per communem formam, cun 
+      <lb ed="#C" n="48"/>fecundum Apostolum, nisi de ipso patrimonio mentio 
+      <lb ed="#C" n="49"/>nem fecerit, plenissime invenies not. supra de rescrip s qu. 
+      <lb ed="#C" n="50"/>possuntobjici, ver pauper, &amp; seq 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e1784">
+               <lb ed="#C" n="51"/>QUinto quaeritur, utrum a laico male detinenti, di 
+      <lb ed="#C" n="52"/>Xcimas possit is, ad quem spectant decimae, ipsas ri 
+      <lb ed="#C" n="53"/>dimere sine periculo simoniae, cum alias ipsas nequea 
+      <lb ed="#C" n="54"/>recuperare? Videtur quod non, quia sic spiritualia 
+      <lb ed="#C" n="55"/>mi non possunt, ita nec redimi, infrade simonia &amp; ne al 
+      <lb ed="#C" n="56"/>quid pro spiritualibus exigetur vel promittetur querelam, &amp; 
+      <lb ed="#C" n="57"/>expressius decimasexta qu. sexta decimas quas Papa prima qu 
+      <lb ed="#C" n="58"/>quarta altâre. Item nec permutatio admittitur supra d 
+      <lb ed="#C" n="59"/>rerum permutatione capitulo sin. de hoc dic ut notatur infr 
+      <lb ed="#C" n="60"/>de simonia &amp; ne aliquid pro spiritualibus exigetur vel promitte 
+      <lb ed="#C" n="61"/>tur (qualiter committatur, ante fi. ver sed nunquid licet mihi t 
+      <lb ed="#C" n="62"/>dimer. 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e1813">
+               <lb ed="#C" n="63"/>SExto quaero, utrum praedicto praelato liceat ipsas in 
+      <lb ed="#C" n="64"/>pignore recipere, Dicas quod sic, argumentum supr¬ 
+      <lb ed="#C" n="65"/>de feudis capitulo primo infra de usuris, conquestus, quod tamet 
+      <lb ed="#C" n="66"/>intelligas, quando aliter recuperari non potest, ut dix 
+      <lb ed="#C" n="67"/>non aliter secundum Ray, ut supra de his quae fiunt a pra 
+      <lb ed="#C" n="68"/>latis sine consensu capituli cum Apostolica, &amp; melius facit a¬ 
+      <lb ed="#C" n="69"/>hoc supra de rebus eccle. non alienandis ad audientiam, §ideoqu 
+      <lb ed="#C" n="70"/>is autem ad quem non pertinent decimae, ipsas non po 
+      <lb ed="#C" n="71"/>test neque debet in pignore recipere supra eodem capitu 
+      <lb ed="#C" n="72"/>lo fin.
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e1837">
+               <lb ed="#C" n="73"/>SEptimo quaeritur, t utrum consuetudo excuset a pra 
+      <lb ed="#C" n="74"/>stationedecimarum? &amp; dicunt aliqui Theologi, quoc 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0503.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="75"/>sic a tanto, quod decima praestari debeat, hoc dicunt mo¬ 
+      <lb ed="#C" n="76"/>tale, &amp; hoc respectu debentur decimae ex praecepto d 
+      <lb ed="#C" n="77"/>ideo consuetudo contraria non nocet, etsi in tota pro 
+      <lb ed="#C" n="78"/>vincia observetur, trigesima secunda qu. septima flagitia, qui 
+      <lb ed="#C" n="79"/>in talibus diuturnitas temporis non minuit peccatum 
+      <lb ed="#C" n="80"/>sed auget infra de simonia &amp; ne aliquid pro spiritualibus ex 
+      <lb ed="#C" n="81"/>getur vel promittetur, non satis aget etiam crimen non lk 
+      <lb ed="#C" n="82"/>vigat qui resistit. vigesimaquaria qu. prima. schisma. Quo 
+      <lb ed="#C" n="83"/>vero decima pars detur, a hoc dicunt esse ceremoniale, 
+      <lb ed="#C" n="84"/>nec isto respectu debentur decimae ex praecepto, sed d 
+      <lb ed="#C" n="85"/>consi tantum, &amp; sic in quota parte praestanda, servand 
+      <lb ed="#C" n="86"/>est consuetudo unde praestabitur millesima pars tantum 
+      <lb ed="#C" n="87"/>ff de consuetudine sit ad hoc, quarta quaestio. sexta §. sin. Et! 
+      <lb ed="#C" n="88"/>habent pro se jura multa, de quibus expressius ad ho 
+      <lb ed="#C" n="89"/>paucis agam, supra titulo primo capitulo fin. ante fin ibi, &amp; ii 
+      <lb ed="#C" n="90"/>ultramarinis partibus ratione praediorum, quod iden 
+      <lb ed="#C" n="91"/>est, cum ibi praecedat, de agris decimae persolvuntur 
+      <lb ed="#C" n="92"/>quasi dicat, quod usus servandus est infra eodem commi 
+      <lb ed="#C" n="93"/>jum, §. ibi, cum ea integritate persolvant quae priusquan 
+      <lb ed="#C" n="94"/>&amp;c. quasi dicat si decima pars solvebatur, decima sol¬ 
+      <lb ed="#C" n="95"/>tur, si vigesima infra eodem dilecti, ibi de quibus consue¬ 
+      <lb ed="#C" n="96"/>verunt decimas percipere, &amp; infra eodem cum siunt hom 
+      <lb ed="#C" n="97"/>nes, ibi, ad consuetudinem duximus recurrendum, 
+      <lb ed="#C" n="98"/>capitulo sequent. ibi, quoniam a diversis diversa consu¬ 
+      <lb ed="#C" n="99"/>tudo tenetur, &amp; infra eodem aliquibus ad finem ubi expres 
+      <lb ed="#C" n="100"/>sim dicit ille, quippe decimae necessario sunt solvendae 
+      <lb ed="#C" n="101"/>quae debentur ex lege divina secundum loci consuetud 
+      <lb ed="#C" n="102"/>nem approbatam, ad idem, infra eodem nuper, ibi, eman 
+      <lb ed="#C" n="103"/>possessiones; de quibus decimae debeantur ecclesiiis.c 
+      <lb ed="#C" n="104"/>d. quia aliquae sunt de quibus non debentur, loci cor 
+      <lb ed="#C" n="105"/>suetudine repugnante.* Nec mireris, si consuetudoi 
+      <lb ed="#C" n="106"/>tantae authoritatis sit: quia &amp; clericos ad continentian 
+      <lb ed="#C" n="107"/>astringit. rigesimasecunda distin placuit, &amp; ipsos intelligib 
+      <lb ed="#C" n="108"/>les reddit supra de cleric. conju. cum olim, &amp; in baptusm. 
+      <lb ed="#C" n="109"/>attenditur consuetudo circa trinam vel unicam immer 
+      <lb ed="#C" n="110"/>sionem faciendam, deconse. distinct. quart. de trina. &amp; in mi 
+      <lb ed="#C" n="111"/>trimonio personas legitimas, illegitimas, reddit, ut no 
+      <lb ed="#C" n="112"/>tatur infra de cognatione spirituali §quis sit effectus, versicula 
+      <lb ed="#C" n="113"/>fectus vero tertiae, &amp; sequenti. &amp; si qua jura videantur dice 
+      <lb ed="#C" n="114"/>re contrarium, breviter inde te poteris expedire, dic 
+      <lb ed="#C" n="115"/>enim quod intelligenda sunt de jure communi, &amp; in loc 
+      <lb ed="#C" n="116"/>illis, in quibus de contraria consuetudine non appare 
+      <lb ed="#C" n="117"/>sic intelligi possunt omnia jura posita infra eodem pers 
+      <lb ed="#C" n="118"/>tul. magistri vero canonum. Ray. scripsit, quod diffinir 
+      <lb ed="#C" n="119"/>formidabat hanc quaestionem: audire magis cupiens 
+      <lb ed="#C" n="120"/>quam audiri; consilium tamen dedit, ut solverentur, ve 
+      <lb ed="#C" n="121"/>authoritate Episcopi, &amp; ecclesiarum, ad quas decim¬ 
+      <lb ed="#C" n="122"/>pertinent, in eleemosynis; vel alias adpias causas po 
+      <lb ed="#C" n="123"/>nerentur, &amp; de praeteritis ab eisdem remissionem pe 
+      <lb ed="#C" n="124"/>terent sibi fieri intuitu Dei; &amp; eleemosynae, &amp; ipse po 
+      <lb ed="#C" n="125"/>test audire id quod notatur infra eodem versicul. patet erg. 
+      <lb ed="#C" n="126"/>Magistri vero canonum dicunt, quod decima est iol 
+      <lb ed="#C" n="127"/>venda de praecepto, b non undecim. vel vigesim. ut no¬ 
+      <lb ed="#C" n="128"/>tatur supra eodem §. quare dicatur decima. Nam &amp; dec 
+      <lb ed="#C" n="129"/>ma integraliter est solvenda: &amp; quia triplex funiculu 
+      <lb ed="#C" n="130"/>e difficulter rumpitur, supra de treuga &amp; pace capitulo pri¬ 
+      <lb ed="#C" n="131"/>mo, hanc opinionem tripliciter possumus comprobari 
+      <lb ed="#C" n="132"/>primo, authoritatibus divinae legis: secundo, autho 
+      <lb ed="#C" n="133"/>ritatibus sanctorum patrum; tertio, perjus canoniculi 
+      <lb ed="#C" n="134"/>&amp; humanum, divina nempe lex hanc comprobat, un 
+      <lb ed="#C" n="135"/>de in Genesi. decimooctaro vir Abraham de omnibus qua 
+      <lb ed="#C" n="136"/>perceperat, dedit decimam Melchisedech. Item eodem 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="137"/>ADDITIONES 
+      <lb ed="#C" n="138"/>a Decima pars detur] Adde quare statura fuit decima plusqui 
+    </p>
+    <p>
+      <lb ed="#C" n="139"/>octava, vel duodecima, vide per Card. Zabar. eodem tit. in rul 
+      <lb ed="#C" n="140"/>in 2. quae! 
+      <lb ed="#C" n="141"/>b Decima est solvenda de praecepto. J Adde an sit de jure di 
+    </p>
+    <p>
+      <lb ed="#C" n="142"/>vino, vide in capitulotua nos de decimis. Cardinalem Zabar. i. 
+      <lb ed="#C" n="143"/>c. a nobis. in 3. oppo eod. tit &amp; Abb. inc. si de terra in 2. not. de privi 
+      <lb ed="#C" n="144"/>e Triplex funiculus. J Adde capitulum caeterum, de rescrip cap. e1 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>multiplici, &amp; de decimis &amp; in §. si pater, &amp; in leg. ultim. C. de adoptio 
+      <lb ed="#C" n="146"/>nibus auth. itaque C. commu. de succ. Cardin. Zaba. in capit. Iupe 
+      <lb ed="#C" n="147"/>quaestionum. in §. si vero duo. in 4. no. de offi deleg originaliter. Eccle 
+      <lb ed="#C" n="148"/>fiast. 4--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0504.xml-->
+      <pb ed="#C" n="487"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>tum Jacob fugeret ad Laban, locutus est cum Domino 
+      <lb ed="#C" n="2"/>dicens: Cunctorum quae dederis mihi, decimas offi¬ 
+      <lb ed="#C" n="3"/>ram tibi: quod qui non facit, juri &amp; voluntati Dei cor 
+      <lb ed="#C" n="4"/>tradicit. Leviti. capitulo sin. omnes decimae terrae; siv 
+      <lb ed="#C" n="5"/>de frugibus, sive de pomis arborum Domini sunt, &amp; i 
+      <lb ed="#C" n="6"/>li sanctificantur. &amp; Deuteron. decimoquart. Partem dec 
+      <lb ed="#C" n="7"/>mam separabis de cunctis frugibus tuis, quae nascuntu 
+      <lb ed="#C" n="8"/>in terra per annos singulos, eodem. Decimam frument 
+      <lb ed="#C" n="9"/>tui, &amp; vini, &amp; olei, &amp; primogenita de armentis, &amp;c. Ni 
+      <lb ed="#C" n="10"/>18. Filiis Levi dedit omnes decimas in possessione pr 
+      <lb ed="#C" n="11"/>ministerio, qui serviunt mihi in tabernaculo foederis 
+      <lb ed="#C" n="12"/>neque debet morari solutio. Exodi, vigesimosecundo. De 
+      <lb ed="#C" n="13"/>cimas tuas, &amp; primitias tuas non moraberis offerre, e 
+      <lb ed="#C" n="14"/>hoc enim multiplicantur, unde 2. Paralipomenon trige 
+      <lb ed="#C" n="15"/>moprimo praecepit Ezechias populo, ut darent partes si 
+      <lb ed="#C" n="16"/>cerdotibus &amp; Levitis: &amp; ipsi omnium quae gignit hi 
+      <lb ed="#C" n="17"/>mus primitias obtulerunt. Cumque acervi jaceren 
+      <lb ed="#C" n="18"/>&amp; causam requireret. Respondit Axarias sacerdos pr 
+      <lb ed="#C" n="19"/>mus, quod ex eo quo coeperunt offerri primitiae, remai 
+      <lb ed="#C" n="20"/>serunt plurima, &amp; benedixit Dominus populo. Pra 
+      <lb ed="#C" n="21"/>cepit igitur Ezechias; ut praepararent horrea in dom¬ 
+      <lb ed="#C" n="22"/>domini: quo facto, intulerunt tam primitias, quam de¬ 
+      <lb ed="#C" n="23"/>cimas. 335. Non minuas primitias, frugum tuarum, et 
+      <lb ed="#C" n="24"/>dem. Sanctifica decimas tuas. Da altissimo, sed datun 
+      <lb ed="#C" n="25"/>ejus. Malachiae tertio. Ego Dominus, &amp; vos filii a diebu 
+      <lb ed="#C" n="26"/>patrum vestrorum recessistis a legitimis meis &amp; no 
+      <lb ed="#C" n="27"/>custodistis: revertimini ad me, &amp; ego revertar ad vos, 
+      <lb ed="#C" n="28"/>dixistis, In quo ievertemur? si affliget homo dominum 
+      <lb ed="#C" n="29"/>quia vos confixistis me; &amp; dixistis, In quo confiximu 
+      <lb ed="#C" n="30"/>te? in decimis &amp; primitiis, in penuria vos maledicti esti: 
+      <lb ed="#C" n="31"/>inferte ergo omnem decimam in horreum, &amp; sit cibu 
+      <lb ed="#C" n="32"/>in domo mea, &amp; probate me: si non aparuero vobis cat¬ 
+      <lb ed="#C" n="33"/>ractas coeli, &amp; effudero vobis benedictionem usque a 
+      <lb ed="#C" n="34"/>abundantiam, &amp; increpabo provobis devorantem; &amp; 
+      <lb ed="#C" n="35"/>non corrumpet fructum terrae vestrae: nec erit sterili 
+      <lb ed="#C" n="36"/>vinea in agro. Lucae undecimo. Vae vobis Pharisaeis, qu 
+      <lb ed="#C" n="37"/>decimatis mentam &amp; rutam, &amp; omne olus, &amp; praeterit, 
+      <lb ed="#C" n="38"/>judicium &amp; charitatem Dei, haec omnia oportuit fac 
+      <lb ed="#C" n="39"/>re; &amp; illa non omittere. Idem habetur Matth. vigesim 
+      <lb ed="#C" n="40"/>tertio. Lucae decimooctavo. Decimas doomnium quae poss 
+      <lb ed="#C" n="41"/>deo. Matth. vigesimosecundo. Reddite quae sunt Caesaris C, 
+      <lb ed="#C" n="42"/>a sari, d &amp; quae sunt Dei Deo, sed &amp; alias authoritate 
+      <lb ed="#C" n="43"/>quasdam infra eodem subs. decimoseptimo, poteris invenir¬ 
+      <lb ed="#C" n="44"/>Per praedictas authoritates tamveteris, quam novi test 
+      <lb ed="#C" n="45"/>menti satis patet; quod decimae solvendae sunt, &amp; de on 
+      <lb ed="#C" n="46"/>nibus integraliter &amp; ex praecepto; &amp; si qui magistri ve 
+      <lb ed="#C" n="47"/>lunt dictas authoritates aliter intelligere, &amp; exponer¬ 
+      <lb ed="#C" n="48"/>Hieronymus contradicit infra eodem capitulo primo §. at vi 
+      <lb ed="#C" n="49"/>ro primitiae, &amp;c. non erant speciali nomine diffinitae, sul 
+      <lb ed="#C" n="50"/>audi sicut decimae, quia non erat dictum quota pars dar¬ 
+      <lb ed="#C" n="51"/>tur, sicut de decima, sed offerentium arbitrio, quasi dica 
+      <lb ed="#C" n="52"/>non sic de decimis, illae enim non arbitrio committur 
+      <lb ed="#C" n="53"/>tur, sed necessitati subjiciuntur: quia ex praecepto de 
+      <lb ed="#C" n="54"/>bentur etiam, quo ad quotitatem, unde sequitur: tradi 
+      <lb ed="#C" n="55"/>tionem quoque accepimus, non legi praeceptam subau 
+      <lb ed="#C" n="56"/>di, sicut in decima: sed arbitrio magistrorum; &amp;c. quas 
+      <lb ed="#C" n="57"/>dicat licet magistri possunt glossare, sicut placet quo a¬ 
+      <lb ed="#C" n="58"/>primitias; non tamen quo ad decimas; ne amplius a po 
+      <lb ed="#C" n="59"/>pulo exigant, &amp;c. sed decimas integraliter exigere po 
+      <lb ed="#C" n="60"/>sunt: quia quo ad illas, nullum dubium restat, &amp; jung 
+      <lb ed="#C" n="61"/>quod notatur infra eodem sub §. decimoseptimo, ubi materi 
+      <lb ed="#C" n="62"/>primitiarum plenius expeditur. Ambrosius. Quicunqu 
+      <lb ed="#C" n="63"/>recognoverit se, quod fideliter non reddiderit decimas 
+      <lb ed="#C" n="64"/>id est integraliter, &amp; de omnibus modo scilicet tempe 
+      <lb ed="#C" n="65"/>re quadraginta emendet, decimasexta quaestio septima qui 
+      <lb ed="#C" n="66"/>cunque Gregori. Decimas a laicis possideri canonica au 
+      <lb ed="#C" n="67"/>thoritate prohibemus: &amp; nisi ecclesiae reddiderint, scian 
+      <lb ed="#C" n="68"/>se sacrilegii crimen committere, &amp; aeterne damnationi 
+      <lb ed="#C" n="69"/>incurrere periculum, decimasexta qu septima decinas, iis 
+      <lb ed="#C" n="70"/>dem jubemur ab omnipotenti Deo omnium bonorum 
+      <lb ed="#C" n="71"/>decimas dare, de conse. distin. 5. quadragesona, in fin. Augus 
+      <lb ed="#C" n="72"/>Si decimas dederis, non solum abundantiam fructuun 
+      <lb ed="#C" n="73"/>recipies, sed etiam sanitatem corporis consequeris.I 
+      <lb ed="#C" n="74"/>dem: si tardius dare peccatum est, quanto magis peju 
+      <lb ed="#C" n="75"/>peccatum est, non dedisse. Idem: Cum decimas dandi¬ 
+      <lb ed="#C" n="76"/>terrena &amp; coelestia possis praemia promereri, pro avariti 
+      <lb ed="#C" n="77"/>duplicem benedictionem fraudas: si vero vis defender 
+      <lb ed="#C" n="78"/>te per consuetudinem, contradicit statim Augustinus di 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0504.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>cens, hoc Domini justissima consuetudo: ut si tu illi de 
+      <lb ed="#C" n="80"/>cimam non dederis, tu ad decimam revoceris scilicet qde 
+      <lb ed="#C" n="81"/>monium, de paenis dist. I. fugantur. Idem: Dabis impio mili 
+      <lb ed="#C" n="82"/>ti, quod vis dare sacerdoti. Idem: Decimae ex debitor 
+      <lb ed="#C" n="83"/>requiruntur: &amp; qui eas daro noluerint, res alienas inva 
+      <lb ed="#C" n="84"/>dunt. Idem, Qui praemium comparare, aut peccatorum 
+      <lb ed="#C" n="85"/>desiderat indulgentiam promereri, reddat decimam, 8 
+      <lb ed="#C" n="86"/>etiam de novem partib. studeat eleemosynam dare pau 
+      <lb ed="#C" n="87"/>peribus haec omnia verba August. leguntur decimasexta qu 
+      <lb ed="#C" n="88"/>prima decimae, dicit etiam Hiero. quod decimas &amp; primiti 
+      <lb ed="#C" n="89"/>as possumus possessiones Dei interpretari, 16 qu. I.rererti 
+      <lb ed="#C" n="90"/>mini. August. Majores nostri ideo copiis omnibus abur 
+      <lb ed="#C" n="91"/>dabant, quia Deo decimas dabant: non autem quia dis 
+      <lb ed="#C" n="92"/>cessit devotio, Dei accessit indictio, vers. fisci hoc tollit fi 
+      <lb ed="#C" n="93"/>scus, quod non accepit Christus. 16. quaestio. 7. majores, 8 
+      <lb ed="#C" n="94"/>quamvis aliqui religiosi asserant, quod potius debent ei 
+      <lb ed="#C" n="95"/>reddi, quam clericis secularibus: tamen contradicunt ei 
+      <lb ed="#C" n="96"/>Ambrosius &amp; Gregorius nisi curam habeant, ion quae.do 
+      <lb ed="#C" n="97"/>ctos, &amp; cap. moderamine, &amp; not. supra eodem sub § 4. versic. ini 
+      <lb ed="#C" n="98"/>nores. Patet ergo quod quatuor principales doctores scil 
+      <lb ed="#C" n="99"/>Augustinus Gregorius Ambrosius &amp; Hieronymus con 
+      <lb ed="#C" n="100"/>veniunt, quod decimae solvendae sunt, &amp; ex debito, &amp; sine 
+      <lb ed="#C" n="101"/>mora, &amp; integraliter, &amp; quod peccatum est, retinere. Num 
+      <lb ed="#C" n="102"/>quid ergo valet consuetudo contraria? absit; ut patet in 
+      <lb ed="#C" n="103"/>his quae not. eodem sub § resp. i. audiat ergo Ray qui voleba 
+      <lb ed="#C" n="104"/>audire, ut notat. supra eodem ver. Rayn. scripsit, &amp; quilibet e 
+      <lb ed="#C" n="105"/>consentiens, quod magis credendum divinae legi, &amp; qua 
+      <lb ed="#C" n="106"/>tuor principalibus doctoribus, quam aliquibus, qui sicul 
+      <lb ed="#C" n="107"/>asserunt aliqui clerici seculares, vel in favorem laicorum 
+      <lb ed="#C" n="108"/>vel propter zelum clericorum perverse interpretantur 
+      <lb ed="#C" n="109"/>vel dicunt se dubitare, ubi non est aliquatenus dubitan 
+      <lb ed="#C" n="110"/>dum, sed &amp; si de interpretatione divinae legis agitur magi 
+      <lb ed="#C" n="111"/>credendum est juri canonico, quam magistro, ut patet i 
+      <lb ed="#C" n="112"/>his quae no supra de rescrip. Squas vires, sub § potest autem qui 
+      <lb ed="#C" n="113"/>impetrare, &amp; § &amp; de ipsius interpretatio &amp; proculdubio de ju 
+      <lb ed="#C" n="114"/>re canonico solvi debent decimae ex integro, infra eo. com 
+      <lb ed="#C" n="115"/>missum, respon.i.in fi. &amp; cap pervenit, in fi. &amp; cap. dilecti in fin. c 
+      <lb ed="#C" n="116"/>cap. ex parte canon, in fi. &amp; cap. non est in potestate, in si &amp; cap. e 
+      <lb ed="#C" n="117"/>transmissa, imsi. &amp; cap. tua nobis in fin. &amp; breviter hoc omne 
+      <lb ed="#C" n="118"/>sancti commemorant, &amp; secundum Domini praeceptum; 
+      <lb ed="#C" n="119"/>monitione praemissa, excommunicari debet, qui non sol¬ 
+      <lb ed="#C" n="120"/>vit. 16. qu. septima decimas Deo, &amp; cap. omnes decimae, &amp; infr. 
+      <lb ed="#C" n="121"/>eodem, quasi per totum, &amp; hoc etiam vult Concili genera 
+      <lb ed="#C" n="122"/>le, infra eodem in aliquibus §1. ibi, absque contradictione sci 
+      <lb ed="#C" n="123"/>moris; vel consuetudinis, de qua praemisit in resp. 1 eccle 
+      <lb ed="#C" n="124"/>siis decimas cum integritate persolvat, &amp; ad id, si nece 
+      <lb ed="#C" n="125"/>fuerit, per censuram ecclesiasticam compellantur, eig 
+      <lb ed="#C" n="126"/>mortale peccatum est, nisi integre reddantur, nec enin 
+      <lb ed="#C" n="127"/>debet quis excommunicari; nisi pro mortali, i quaestio 
+      <lb ed="#C" n="128"/>nemo episcoporum, imo in hoc novem peccata committun 
+      <lb ed="#C" n="129"/>tur, ut notatur eodem, §&amp; quare versicu subtrahens rero, &amp; se 
+      <lb ed="#C" n="130"/>quent. &amp; hoc est etiam quod inquitidem Concilium gen¬ 
+      <lb ed="#C" n="131"/>rale, infra eodem cum non sit in homine, §i. ibi nos &amp; ecclesia 
+      <lb ed="#C" n="132"/>rum dispendiis, &amp; animarum periculis obviare volentes 
+      <lb ed="#C" n="133"/>quasi dicat non solum ecclesiae damnificantur in diminu 
+      <lb ed="#C" n="134"/>tione decimarum, sed &amp; animae periclitantur, quia a d¬ 
+      <lb ed="#C" n="135"/>mino sunt institutae &amp; quasi debitum exigi possunt, in 
+      <lb ed="#C" n="136"/>fra eodem parochianos, ideo dicit, quasi debitum, quia in 
+      <lb ed="#C" n="137"/>veritate rector ecclesiae nihil mutavit parochiano, tem 
+      <lb ed="#C" n="138"/>porale tamen exigit, ac si mutuasset, ad hoc Institutionum 
+      <lb ed="#C" n="139"/>de obligationibus quae ex quasi contractu nascantur, &amp; ex prae 
+      <lb ed="#C" n="140"/>ceptodebentur, infra eodem tua nobis, § ibi, quas Deus it 
+      <lb ed="#C" n="141"/>signum universalis dominii sibi dari praecepit, suas ess 
+      <lb ed="#C" n="142"/>decimas &amp; primitias, asseverans, ad idem dectaterti. 
+      <lb ed="#C" n="143"/>quaestio. secunda §. is ita. decimasexta quaestio prima revertimi 
+      <lb ed="#C" n="144"/>ni, &amp; capitulo decimis. Quis ergo magistrorum contra 
+      <lb ed="#C" n="145"/>Concilium generale dicere attentabit? nam talia sicu 
+      <lb ed="#C" n="146"/>quatuor Evangelia sunt servanda: nec enim ecclesia u 
+      <lb ed="#C" n="147"/>niversalis errare potest, ad hoc C. de summa Trinitate leg fin 
+      <lb ed="#C" n="148"/>&amp; decimasext. distin. sicut sancti Evangelii, licet enim ill¬ 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="149"/>ADDITIO, 
+      <lb ed="#C" n="150"/>d Reddite quae sunt Caesaris Caesari. J Adde tex in c si in mori 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>239. 8. &amp; in c. militare. 23. 9.--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0505.xml-->
+      <pb ed="#C" n="488"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>jura non loquantur de concilio generali praedicto lc 
+      <lb ed="#C" n="2"/>quuntur tamen de consimili, &amp; necesse est, ut cum e¬ 
+      <lb ed="#C" n="3"/>clesia generalis illorum &amp; istius auctrix sit, quod de un¬ 
+      <lb ed="#C" n="4"/>dicitur, de altero intelligitur, supra de constitutione transl. 
+      <lb ed="#C" n="5"/>torum, &amp; argument. infra de voto &amp; voti redemtione magnae, 
+      <lb ed="#C" n="6"/>cum igitur &amp; junge quod notat. supra eodem sub o3. versici 
+      <lb ed="#C" n="7"/>sed opponitur. In noc etiam concordant expressim lege 
+      <lb ed="#C" n="8"/>humanae, omnino cum canonibus conveniunt, &amp; certa 
+      <lb ed="#C" n="9"/>poenas imponunt non solventibus, ut in Lombardia, de dec 
+      <lb ed="#C" n="10"/>mis, leg. 2. &amp; 3. &amp; per totum, vel ultra, quae etiam sunt lege 
+      <lb ed="#C" n="11"/>Caroli, &amp; aliorum Imperatorum, ut in ipsis patet. Sed 8 
+      <lb ed="#C" n="12"/>in tantum permittitjus canonicum exigi decimas, quo 
+      <lb ed="#C" n="13"/>ex quo rebelles excommunicati fuerint, si non prosit ser 
+      <lb ed="#C" n="14"/>tentia, potest praelatus ad potestatem secularem recui 
+      <lb ed="#C" n="15"/>rere, quamvis vix possunt absque effusione sanguinis coe¬ 
+      <lb ed="#C" n="16"/>ceri, infra de homicidio voluntario vel Casuali postulasti. Resta 
+      <lb ed="#C" n="17"/>ut respondeamus juribus alleg. supra eodem sub S versi, quo¬ 
+      <lb ed="#C" n="18"/>vero decima pars detur, qui videntur probare aperte, quod su 
+      <lb ed="#C" n="19"/>per hoc sit standum consuetudini, &amp; breviter dic cum de 
+      <lb ed="#C" n="20"/>mino Hug. Cardin. quod decimae praediales ex praecept 
+      <lb ed="#C" n="21"/>debentur &amp; contra illas neque in totum, neque in partem 
+      <lb ed="#C" n="22"/>vel diminutionem aliquam, potest valere consuetudo 
+      <lb ed="#C" n="23"/>quod intelligas, nisi forte per Papam approbata esset, qu 
+      <lb ed="#C" n="24"/>solus in talibus potest privilegium concedere, ut patet in 
+      <lb ed="#C" n="25"/>his quae no. supra eo sub §3. rer. quod si laicus, &amp; § a quibus rer 
+      <lb ed="#C" n="26"/>item clerici &amp; seq. vel approbatam per conventionem, se 
+      <lb ed="#C" n="27"/>amicabilem compositionem, authoritate superioris sul 
+      <lb ed="#C" n="28"/>sequenter factam: secundum ea quae non supra detranslation 
+      <lb ed="#C" n="29"/>bus § &amp; in quibus rer. cessat, versi. item cessat in spiritualibu 
+      <lb ed="#C" n="30"/>&amp; sic potest intelligi infra eodem in aliquibus in si ibi, appro 
+      <lb ed="#C" n="31"/>batam, subaudi per Papam, vel amicabilem compositioni 
+      <lb ed="#C" n="32"/>ut dictum est, &amp; sic intellige omnia illa, quae notantur su 
+      <lb ed="#C" n="33"/>pra ab illo versicul magistri vero, usque hic. Personales ver 
+      <lb ed="#C" n="34"/>non sic ex praecepto debentur sedpotius ex interpret: 
+      <lb ed="#C" n="35"/>tione, &amp; ideo in talibus obstat consuetudo, &amp; secundun 
+      <lb ed="#C" n="36"/>hoc etiam potest intelligi infra eodem in aliquibus § fi. und 
+      <lb ed="#C" n="37"/>sic expone, illae quippe decimae, subaudi praediales, ne 
+      <lb ed="#C" n="38"/>cessario sunt solvendae, quae debentur ex lege divinari 
+      <lb ed="#C" n="39"/>pete &amp; illae quippe decimae, subaudi, personales, necessari 
+      <lb ed="#C" n="40"/>sunt solvendae, secundum loci consuetudinem approbi 
+      <lb ed="#C" n="41"/>tam, alias, ex loci consuetudine approbata, quasi dicat pri 
+      <lb ed="#C" n="42"/>mae scil. praediales, sine diminutione, quia hoc lex vultd 
+      <lb ed="#C" n="43"/>vina, &amp; sancti, secundae, scil. personales, sicut consuetud 
+      <lb ed="#C" n="44"/>docebit, alioquin infinitae animae torquerentur: cum pau 
+      <lb ed="#C" n="45"/>ci sint qui has solvunt Goff. vero uno modo voluit intell 
+      <lb ed="#C" n="46"/>gere, quod consuetudo excusaret, quo ad minutas deci 
+      <lb ed="#C" n="47"/>mas: sed non placet. argument. supra de praebendis minoribis 
+      <lb ed="#C" n="48"/>nam &amp; illae solvi debent infra eodem ex multiplici, &amp;c. cumn 
+      <lb ed="#C" n="49"/>tua. Hoc, quo ad laicos, sin autem quaeras, cui ecclesiae sin 
+      <lb ed="#C" n="50"/>solvendae: ibi valet consuetudo, si de ipsa appareat cor¬ 
+      <lb ed="#C" n="51"/>tra jus commune infra eodem cum sint, &amp; c. ad Apostolicae, e&amp; 
+      <lb ed="#C" n="52"/>secundum hoc voluerunt aliqui intelligere, infra eodem i 
+      <lb ed="#C" n="53"/>aliquibus, § ille, &amp; exponebant, illae, id est illi ecclesiae, qua 
+      <lb ed="#C" n="54"/>id est quibus ecclesiis, sed non placet, imo intellige &amp; ex 
+      <lb ed="#C" n="55"/>pone: ut supra, sed secundum hoc omnibus aliis juribu 
+      <lb ed="#C" n="56"/>contrariis est respondendum: unde sic debent intelligi o 
+      <lb ed="#C" n="57"/>mnia illa jura contraria supra de parochiis &amp; alienis paroch.. 
+      <lb ed="#C" n="58"/>fi. ibi decimae persolvantur, subaudi, parochiis quas rei 
+      <lb ed="#C" n="59"/>querunt, ut praemisit, &amp; infrac. commissum § 1. ibi, soleban 
+      <lb ed="#C" n="60"/>persolvi, scil. parochiae, in qua morantur, vel hoc ideo d 
+      <lb ed="#C" n="61"/>cit, quia in respon.2. narratur, quod sic solebat fieri, &amp; infr¬ 
+      <lb ed="#C" n="62"/>eodem dil fil. ad sin ibi, consueverunt decimas percipere sci 
+      <lb ed="#C" n="63"/>monachi, vel ideo hoc dicit: quia &amp; ipsi narraverant, quo¬ 
+      <lb ed="#C" n="64"/>sic consueverat fieri, ut apparet in prin. &amp; infra eodem nupe 
+      <lb ed="#C" n="65"/>ibi, de quibus decimae debeantur ecclesiis, scil. ecclesius p¬ 
+      <lb ed="#C" n="66"/>rochialibus, vel aliis quia in hoc servatur consuetudo, u 
+      <lb ed="#C" n="67"/>dixi: vel debebatur ratione praeteriti temporis: vel ideo ho 
+      <lb ed="#C" n="68"/>dicit, quia &amp; Papa posset aliquam possessionem privile 
+      <lb ed="#C" n="69"/>giare, sicut &amp; personam, ut statim tactum est supra eod.ri 
+      <lb ed="#C" n="70"/>stat, ideo quidam religiosi reprehenduntur in quodam e¬ 
+      <lb ed="#C" n="71"/>tra domini Grego. IX. quod incipit, Gravi vobis, pro eo 
+      <lb ed="#C" n="72"/>quod in praedicationibus suis &amp; confessionibus contrariun 
+      <lb ed="#C" n="73"/>asserebant. Consuevit etiam objici ex eo, quod legitur Na 
+      <lb ed="#C" n="74"/>meri i8. ubi dicitur, Nihil aliud possidebunt, decimarum ol 
+      <lb ed="#C" n="75"/>latione contenti, &amp; ibi, In terra eorum nihil possidebitis 
+      <lb ed="#C" n="76"/>nec habebitis partem inter eos: ego pars &amp; haereditas tu¬ 
+      <lb ed="#C" n="77"/>in medio filiorum Israel, nam secundum hoc contenti de 
+      <lb ed="#C" n="78"/>bent esse clerici decimis, &amp; aliis spiritualibus ergo non de 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0505.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>bent relinquere temporalia, aut non debet exigere hae¬ 
+      <lb ed="#C" n="80"/>spiritualia, ad quod respondeo, verum est, quod ex praece 
+      <lb ed="#C" n="81"/>pto divino non possunt petere, nisi spiritualia tantum, sec 
+      <lb ed="#C" n="82"/>non prohibetur, quin ex largitione Imperatorum vel e 
+      <lb ed="#C" n="83"/>devotione fidelium possint ipsa habere, &amp; recipere. Item of 
+      <lb ed="#C" n="84"/>ponitur eo, quod ibidem legitur. Praecipe Levitis, atque de 
+      <lb ed="#C" n="85"/>nuncia: cum acceperitis a filiis Israel decimas, quas ded 
+      <lb ed="#C" n="86"/>vobis, primitias earum offerre Domino.i. decimam part 
+      <lb ed="#C" n="87"/>decimae, &amp; infra &amp; date Aaron. sacerdoti, ubi innuitur, quo¬ 
+      <lb ed="#C" n="88"/>sicut laici tenentur dare decimas Levitis, &amp; sic Levita 
+      <lb ed="#C" n="89"/>summo sacerdoti: sed Levitae hodie non dant: ergo nec lai 
+      <lb ed="#C" n="90"/>ci tenentur dare. Sed certe melius potest inferri: Si laic 
+      <lb ed="#C" n="91"/>donant: si non reddunt Levitis, ergo &amp; Levitae, si non rec 
+      <lb ed="#C" n="92"/>dunt summo sacerdoti: quod verum est de summo sacei 
+      <lb ed="#C" n="93"/>dote, a quo quis spiritualia recipit, nisi contrario privil si 
+      <lb ed="#C" n="94"/>munitus, quod dic, ut no sup eo § a quibus. Item objicitu 
+      <lb ed="#C" n="95"/>ex eo, quod legitur Mala3 ibi, ut sit cibus in domo mea: 
+      <lb ed="#C" n="96"/>contrario, si sit aliunde cib. in ecclesia ex regularib. vel¬ 
+      <lb ed="#C" n="97"/>liis acquisitis, non debet dari decima, non dicit, ut cib. si 
+      <lb ed="#C" n="98"/>in domo mea: sed ut sit cib. scil. ipsa decima ex praecepti 
+      <lb ed="#C" n="99"/>meo, &amp; aliunde sine praecepto meo cibum habebat, nec.n.di 
+      <lb ed="#C" n="100"/>ligentia sua alicui debet esse damnosa, super quo vide quo¬ 
+      <lb ed="#C" n="101"/>no sup. de sepul subs retus, §i. ver portionem, &amp; S&amp; utrum ca 
+      <lb ed="#C" n="102"/>nonica. Item duplex est cibus, e unus ministrorum eccle¬ 
+      <lb ed="#C" n="103"/>siae, alius hospitum, pauperum: &amp; licet aliqua eccl. reper 
+      <lb ed="#C" n="104"/>atur, quae, quo ad primum abundet: nulla tamen reperi 
+      <lb ed="#C" n="105"/>tur, quae sufficiat ad secundum, ergo ratione secundi, de 
+      <lb ed="#C" n="106"/>cima ubique integraliter est solvenda, sed neque illud omitt 
+      <lb ed="#C" n="107"/>quod aliqua litera habet. Et sit cibus in domo mea, &amp; hae 
+      <lb ed="#C" n="108"/>litera hunc intellectum planius sonat. Item figunt peden 
+      <lb ed="#C" n="109"/>in eo quod dicitur Mat. 23. &amp; Luc. II. ubi dicit, hoc oporiu 
+      <lb ed="#C" n="110"/>fatere scilicet decimas solvere, quo. d. sed hodie non oportet 
+      <lb ed="#C" n="111"/>&amp; ego talibus objicio, ex eo, quod sequitur, &amp; illa scilice 
+      <lb ed="#C" n="112"/>fudicium &amp; justitiam non omittere scilicet oportuit, quo¬ 
+      <lb ed="#C" n="113"/>praecedit: ergo hodie non oportet, certe nec primum, ne 
+      <lb ed="#C" n="114"/>secundum sequitur: imo &amp; primum &amp; secundum opo¬ 
+      <lb ed="#C" n="115"/>tuit, &amp; oportet, &amp; sic non solutum praeteritum, sed ad pri 
+      <lb ed="#C" n="116"/>sens tempus significat: sicut &amp; verbum oportebit, praesen 
+      <lb ed="#C" n="117"/>&amp; futurum. f de rerhorum sig. verbum oportebit, &amp; l,xerbum 
+      <lb ed="#C" n="118"/>rit. Item insultant nobis ex eo, quod legitur Heb. 7. Tran¬ 
+      <lb ed="#C" n="119"/>lato sacerdotio, necesse est, quod legis traaslatio fiat, ergi 
+      <lb ed="#C" n="120"/>dicunt ipsi si translata sit lex, transit &amp; jus repetendi dec 
+      <lb ed="#C" n="121"/>mas, quod ratione Levitici ordinis, secundum legem Mo¬ 
+      <lb ed="#C" n="122"/>si debebatur. &amp; intelligunt, transiit id est expiravit: sed si 
+      <lb ed="#C" n="123"/>cundum intellectum hunc sequeretur, ergo expiravit? 
+      <lb ed="#C" n="124"/>lex, quod falsum est, sed fateor, quod utrumque translatur 
+      <lb ed="#C" n="125"/>est: &amp; ita sicut Levitae poterant in veteri Testamento di 
+      <lb ed="#C" n="126"/>cimas petere, sic possunt clerici, cum Levitis succ esserin 
+      <lb ed="#C" n="127"/>&amp; in novo, at ob. inf de rot magnae Scum igitur Item adhu 
+      <lb ed="#C" n="128"/>instant &amp; opponunt, si ex operibus legis non justificab 
+      <lb ed="#C" n="129"/>tur omnis caro coram illo. Rom. 3. Glos. opera legis dicur 
+      <lb ed="#C" n="130"/>tur, quae cum lege instituta &amp; terminata sunt: sed dicun 
+      <lb ed="#C" n="131"/>ipsi, tale est praeceptum de decimis, quod in lege datum fui 
+      <lb ed="#C" n="132"/>&amp; cum lege terminatum est, quod ex eo apparet: quia 
+      <lb ed="#C" n="133"/>postoli, qui ecclesiam ordinaverunt, nullam faciunt de di¬ 
+      <lb ed="#C" n="134"/>cimis mentionem, sed salva pace ipsorum Apostoli no 
+      <lb ed="#C" n="135"/>omnia ordinaverunt, imo concilia &amp; Sancti patres &amp; 
+      <lb ed="#C" n="136"/>etiam omnia ordinassent, sufficit quod non revocaverun 
+      <lb ed="#C" n="137"/>expressim, nec immutaverunt, ut probatur. C. de test, sanci 
+      <lb ed="#C" n="138"/>mus, &amp; de ap praecipimus, quia nisi jus expressim corrigatu 
+      <lb ed="#C" n="139"/>semper in suis terminis remanet: ut in auth. de non alie rehu 
+      <lb ed="#C" n="140"/>eccl. 9 fi col. 2. Nec ob. quod legitur Acto. 15. Visum spiritu 
+      <lb ed="#C" n="141"/>sancto, &amp; nobis, nihil ultra imponere vobis oneris, quan 
+      <lb ed="#C" n="142"/>haec necessario, ut abstineatis, vos ab immolatis simulach 
+      <lb ed="#C" n="143"/>rorum &amp; sanguine, &amp; suffocato, &amp; fornicatione, quia quo¬ 
+      <lb ed="#C" n="144"/>dicit ultra imponere, subaudi ad praesens, &amp; ex cau 
+      <lb ed="#C" n="145"/>sa fuit illud dictum propter novellam plantationem 
+      <lb ed="#C" n="146"/>quod desoluta erat, ut ibidem apparet, sic infra de divo¬ 
+      <lb ed="#C" n="147"/>tio. Deus qui. de poenis. Deus qui, nec enim sicut patet cuilibe 
+      <lb ed="#C" n="148"/>illa sola sine aliis sufficerent ad salutem, nec obstat quo¬ 
+      <lb ed="#C" n="149"/>in eo. c. legitur. Nunc ergo quid tentatis Deum imponer 
+      <lb ed="#C" n="150"/>jugum super cervicem discipulorum, quod neque Patres no 
+      <lb ed="#C" n="151"/>stri, neque nos portare potuimus, &amp;c. quia illud intellig 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="152"/>ADDITIO 
+      <lb ed="#C" n="153"/>e Duplex est cib. J Adde an nomine cibi contineatur potus vi 
+    </p>
+    <p>
+      <lb ed="#C" n="154"/>de per Arch in c. omnino 30. dist. Arch. inc. in quib. de consec. dist. 2 
+      <lb ed="#C" n="155"/>&amp; l.verbo rictus ff. deverb. sign--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0506.xml-->
+      <pb ed="#C" n="489"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>debet de circuncisione, de qua ibi praemisit, &amp; aliis cere 
+      <lb ed="#C" n="2"/>monialibus quae hodie ad literam non servantur. Iten 
+      <lb ed="#C" n="3"/>sic objicitur in ecclesia Graecorum quam Beatus Paulu 
+      <lb ed="#C" n="4"/>ordinavit, non dantur decimae sicut fertur, nec in hoc re 
+      <lb ed="#C" n="5"/>prehenditur per ecclesiam Romanam ad quod respondec 
+      <lb ed="#C" n="6"/>ecclesia Graecorum schismatica est, &amp; in multis aliis pe¬ 
+      <lb ed="#C" n="7"/>cat, ut patet infra de baptismo licet. Graecos, nec obst. ff. de poll 
+      <lb ed="#C" n="8"/>I2.§ decimam quis bonorum moverit. Respondeo enim ut no 
+      <lb ed="#C" n="9"/>infra de voto § quot species, ver breviter ergo. Finaliter sic oppo 
+      <lb ed="#C" n="10"/>nunt, Si peccatum non est dare decimam: ergo pecca 
+      <lb ed="#C" n="11"/>Papa &amp; eccl. Roman. &amp; praelati omnes tacendo, nec eff 
+      <lb ed="#C" n="12"/>caciter arguendo, 83. disti. error, &amp;c. sequ. ad quod responc 
+      <lb ed="#C" n="13"/>Papa potest circa hoc privilegium concedere: ut nota su 
+      <lb ed="#C" n="14"/>pra eodem § a quib. &amp; sub §3. nec est tuum ipsum arguere d 
+      <lb ed="#C" n="15"/>peccato, 9. qui. 3. aliorum, &amp;c. sequ. sed nec ipse peccat, cum par¬ 
+      <lb ed="#C" n="16"/>tus sit omnibus conquerentibus justiciam exhibere: ali 
+      <lb ed="#C" n="17"/>vero magistri caveant, quod non possunt de mala inter 
+      <lb ed="#C" n="18"/>pretatione, &amp; praelati, ne valeant de negligentia reprehe 
+      <lb ed="#C" n="19"/>di, quamvis &amp; illud certum sit, quod sine peccato solutio 
+      <lb ed="#C" n="20"/>nem eis, quod eis debetur, differre possunt, vel pro tempor 
+      <lb ed="#C" n="21"/>suo in totum remittere, vel in partem: sed nec possunt in 
+      <lb ed="#C" n="22"/>hoc seculo omnia corrigi, 6. quaest. 1 si omnia, nam &amp; Pap¬ 
+      <lb ed="#C" n="23"/>&amp; totus mundus scit, quod ubique, vel quasi in genere sun 
+      <lb ed="#C" n="24"/>publicae meretrices, publici lusores, publici usurarii: et in 
+      <lb ed="#C" n="25"/>multis religionibus publici ebriosi, quorum praelatoss 
+      <lb ed="#C" n="26"/>ideo, quod sigillatim quemlibet non veneratur, in mort¬ 
+      <lb ed="#C" n="27"/>li constitutos dixeris, unus de tot milibus vix evadet, se¬ 
+      <lb ed="#C" n="28"/>condicit Gregorius dicens de talibus quod si tali consu¬ 
+      <lb ed="#C" n="29"/>tudine everti non possunt, cum venia intelligas poenae n¬ 
+      <lb ed="#C" n="30"/>culpae, sunt suo ingenio relinquendi, ne pejores existan 
+      <lb ed="#C" n="31"/>si a tali consuetudine prohibeantur scilicet omnino siv 
+      <lb ed="#C" n="32"/>praecise, nam, ut ait Salomon: Qui multum emungit, 
+      <lb ed="#C" n="33"/>licit sanguinem. 4. dist. denique, &amp; ideo secundum August 
+      <lb ed="#C" n="34"/>num talis turba generali objurgatione ferienda est, 13. qu 
+      <lb ed="#C" n="35"/>4. non potest, &amp; secundum eundem Aug ubi plurimorun 
+      <lb ed="#C" n="36"/>strages jacent de majorib. sanandis malis, charitas sincer 
+      <lb ed="#C" n="37"/>subveniat, est saeveritati aliquid detrahendum 50. distin. u. 
+      <lb ed="#C" n="38"/>constitueretur, ad si &amp; apparet in his quae not. inf. de sponsalil 
+      <lb ed="#C" n="39"/>&amp; matrimoniis § fi. ver. item octavo, ante fin. ibi, unde notaverun 
+      <lb ed="#C" n="40"/>Raymundus &amp; Goff. certe velim nolim in genere tolero, se¬ 
+      <lb ed="#C" n="41"/>in specie nullatenus tolerabo, &amp; junge quod no. sup der¬ 
+      <lb ed="#C" n="42"/>nunc. §cui, per. grave scandalum, &amp; sequ. sic igitur quaestio es 
+      <lb ed="#C" n="43"/>soluta, &amp; fortioribus objectionibus est responsum 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e2758">
+               <lb ed="#C" n="44"/>OCTavo quaeritur &amp; de his, qui longo tempore steti 
+      <lb ed="#C" n="45"/>runt, quod non solverunt decimas: tunc corde com 
+      <lb ed="#C" n="46"/>puncti veniunt ad poenitentiam, qualiter sit eis consulen 
+      <lb ed="#C" n="47"/>dum, cum forte non sufficerent ad satisfactionem, &amp; qui 
+      <lb ed="#C" n="48"/>dem de rigore cogi possunt, ut de praeterito tempore ju 
+      <lb ed="#C" n="49"/>xta posse suum satisfaciant: sicut expressim legitur infr¬ 
+      <lb ed="#C" n="50"/>eodem cum homines de Orta. ad fi ergo debet eis jungi, vt quo 
+      <lb ed="#C" n="51"/>minus plene dederunt, nunc emendent. 16. quaestio 7. qu. 
+      <lb ed="#C" n="52"/>cunque &amp; si non possunt, injungatur quod hoc faciatit, cun 
+      <lb ed="#C" n="53"/>ad pinguiorem fortunam pervenerint supra de solution 
+      <lb ed="#C" n="54"/>bus Odoardus, ff de cessione bonorum l4. tamen de benignitat 
+      <lb ed="#C" n="55"/>canonica potest ei fieri remissio, maxime si pauper sit 
+      <lb ed="#C" n="56"/>argument. 16 quaest. I.c. si. in prin. 12. quaest. 2. aurum habet e 
+      <lb ed="#C" n="57"/>clesia, res clericorum pauperum suntz23. q. 8. convenior, &amp; a 
+      <lb ed="#C" n="58"/>7. quod autem, nam &amp; secundum leges habetur ratio in 
+      <lb ed="#C" n="59"/>condemnatione quarundam personarum, ne egeant, fi 
+      <lb ed="#C" n="60"/>de regulis juris sunt qui in id. &amp; leg sequent. ff.de regulis jurisi 
+      <lb ed="#C" n="61"/>condemnationib. &amp; in hoc sola authoritas Episcopi sufficer 
+      <lb ed="#C" n="62"/>videtur, cum per hoc fiat melior conditio eccle, &amp; jus su 
+      <lb ed="#C" n="63"/>repetet, arg. supra de his quae fiunt a ma parte, ca. cum Apostol 
+      <lb ed="#C" n="64"/>ca, §authoritates, 16. q4. I. quoniam quicquid, &amp; sup de feu. c294 
+      <lb ed="#C" n="65"/>lia, &amp; Ssinal 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e2808">
+               <lb ed="#C" n="66"/>NOno quaeritur: Quid si in eadem terra, &amp; eodem ann 
+      <lb ed="#C" n="67"/>diversa semina sparguntur: nunquid de omnibus fru 
+      <lb ed="#C" n="68"/>ctibus decima dari debet? Sic infra eodem ex parte canoni 
+      <lb ed="#C" n="69"/>corum, quia non debet una &amp; eadem ecclesia diverso jur 
+      <lb ed="#C" n="70"/>censeri, ut in quibusdam sit decimalis in quibusdam no¬ 
+      <lb ed="#C" n="71"/>infra eodem cum in tua, &amp; argument. 12. quaestio. 2. cognovimu 
+      <lb ed="#C" n="72"/>infra de privilegio quia circa ff. de usucapionibus eum qui, es 
+      <lb ed="#C" n="73"/>tamen contrarium argument. ff. de pec. hinc quaeritur S I. u 
+      <lb ed="#C" n="74"/>bi dicitur, quod peculium potest esse apud aliquem du 
+      <lb ed="#C" n="75"/>plici jure 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0506.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="76"/>Ecimo quaero. Quid si sit consuetudo in aliqua paro 
+      <lb ed="#C" n="77"/>chia, quod una ecclesia percipiat decimam de blado 
+      <lb ed="#C" n="78"/>&amp; alia de vino, &amp; alia terra, quae consuevit esse praedialis 
+      <lb ed="#C" n="79"/>sit vinatorialis, econtra quae ecclesiarum percipiet deci 
+      <lb ed="#C" n="80"/>mam: &amp; quidem illa quae percipiebat de blado, debet per 
+      <lb ed="#C" n="81"/>cipere &amp; de vino: quia licet mutetur qualitas terrae, nor 
+      <lb ed="#C" n="82"/>tamen substantia, hoc satis expressum est infra eod commis 
+      <lb ed="#C" n="83"/>sum, § &amp; sicut etiam de pascuis, &amp; faciunt ad idem jura indu 
+      <lb ed="#C" n="84"/>cta, sup. eo sub § proxi. licet etiam consuetudo in uno prae 
+      <lb ed="#C" n="85"/>dio praescripta sit ab aliqua eccl. non extendetur haec con 
+      <lb ed="#C" n="86"/>suetudo ad aliud praedium, quod de novo recolitur, inf. ec 
+      <lb ed="#C" n="87"/>cum contingat, ar ff.de pac si unus Squae omnia C. de praescript. 30 
+      <lb ed="#C" n="88"/>an. cum notissimi, §sed &amp; si quis &amp; Sin his est tamen ar. pro &amp; e 
+      <lb ed="#C" n="89"/>contra, sup. de praescr. auditis, &amp;c. cum olim §si. &amp; patet in hi¬ 
+      <lb ed="#C" n="90"/>quae non supra eod de quibus, ver. &amp; not. quod de omnibus
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e2870">
+               <lb ed="#C" n="91"/>Decimo quaero: Quid si qui Episcopi vel religiosi 
+      <lb ed="#C" n="92"/>de consuet. percipiunt omnes decimas alicujus paro 
+      <lb ed="#C" n="93"/>chiae, utrum non obstat tali consuet. possit presbytero qu 
+      <lb ed="#C" n="94"/>non habet unde vivat, competens portio assignari? Et di 
+      <lb ed="#C" n="95"/>cas, quod sic: quia hoc expressum est, sup. de praeb. extirpand. 
+      <lb ed="#C" n="96"/>Scum igituros bovis, &amp; junge eaquae non, supra de offi. or §quu 
+      <lb ed="#C" n="97"/>pertinet, sub5 sunt autem distinctae, versic. quod si religiosi, &amp; sup 
+      <lb ed="#C" n="98"/>de sepult sub § vetus, &amp; §quota. ver sed nunquid, 1 2. &amp; 3. &amp; supr. 
+      <lb ed="#C" n="99"/>de parochiis, § in quibus, sub S hoc tamen sciendum, ver. vel nis 
+      <lb ed="#C" n="100"/>sacerdos 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e2894">
+               <lb ed="#C" n="101"/>DUodecimo quaero: Quid de novalibus? A Et dicas, 
+      <lb ed="#C" n="102"/>quod si sint intra limites alicujus parochiae, de hoc ne 
+      <lb ed="#C" n="103"/>dubitetur, ad illam pertinent salva canonica Episcopi: in 
+      <lb ed="#C" n="104"/>dubio vero potest Episcopus gratificari cui voluerit: ve 
+      <lb ed="#C" n="105"/>sibi retinere, inf eo. quoniam, quam partem putas, quod eli 
+      <lb ed="#C" n="106"/>get de disjucta, nam plerique jud. omnia novalia totius dioe 
+      <lb ed="#C" n="107"/>cesis &amp; quaecunque recuperare possunt a militib. sibi usur 
+      <lb ed="#C" n="108"/>pare nituntur contra dictam decr. &amp; infra eo, cum tua. &amp; su 
+      <lb ed="#C" n="109"/>pra de praeb. c3. abutentes jurib. dicentibus quod decimae 8 
+      <lb ed="#C" n="110"/>oblationes in potestate Episcoporum consistunt, 16. q. 7. § 
+      <lb ed="#C" n="111"/>cum ergo ecclesiae, &amp; cap. seq. &amp; qui. i. statumus, &amp; § praeceden. qui 
+      <lb ed="#C" n="112"/>illa vera sunt, non ut sibi in totum approprient, sed ut con 
+      <lb ed="#C" n="113"/>muniter dispensent, 12.q. 1 §si ergo res ecclesiae, &amp;c. praeceden 
+      <lb ed="#C" n="114"/>ri, est igitur haec veritas, quod nec de nov alibus nec de re 
+      <lb ed="#C" n="115"/>cuperatis a laicis debet retinere, nisi suam canonicam, u 
+      <lb ed="#C" n="116"/>dictum est, hoc est, quatenus percipiebat de antiquis, &amp; di¬ 
+      <lb ed="#C" n="117"/>his percipiat, ar. infr. de censi. eccl. sunt enim quasi portiona 
+      <lb ed="#C" n="118"/>rii, ideo pro rata omnia communicare debent Episcopu 
+      <lb ed="#C" n="119"/>&amp; sacerdos, ar ff. loc. de condu. si merces § apparet, quod si nihi 
+      <lb ed="#C" n="120"/>percipiebat Episcopis de antiquis, ad minus sua quart 
+      <lb ed="#C" n="121"/>fraudari non debet infra eo. quoniam, &amp; apparet in his qua 
+      <lb ed="#C" n="122"/>not. supra de sepult. sub S vetus, &amp; Squota. versicu. sed nunquid 
+      <lb ed="#C" n="123"/>dummodo episcopus ecclesiam omnino privat &amp; spolia 
+      <lb ed="#C" n="124"/>parte sua, non habetur locum domini, ne utitur, sed abu 
+      <lb ed="#C" n="125"/>titur jure suo, arg ff pro emptore qui fundum §si tutor. &amp; sup 
+      <lb ed="#C" n="126"/>de restitut. spol. conquerente, &amp; de offic. ordinarii cum ab ecclesia 
+      <lb ed="#C" n="127"/>rum, &amp; cap. ad reprimendam infra de nat. ex libe. vent, cap. unico 
+      <lb ed="#C" n="128"/>Sed quid si laicus confert Episcopo decimam consentien 
+      <lb ed="#C" n="129"/>tec. suo? videtur quod tunc habeat episcopus totum, arae 
+      <lb ed="#C" n="130"/>supra de donat. pastoralis supra dehis quae fiunt a prael. pastoralis 
+      <lb ed="#C" n="131"/>nam &amp; authoritas sufficit. f. de authoritat. tuto pup. dum ta 
+      <lb ed="#C" n="132"/>men palam fiat: alias contra, ff. deadmi. tuto. non aestimo sup 
+      <lb ed="#C" n="133"/>de offic. delegati consuluit, hoc tamen non puto: quia autho 
+      <lb ed="#C" n="134"/>ritas episcopalis requiritur, &amp; ipse non potest esse autho 
+      <lb ed="#C" n="135"/>in re propria, f. de auth. tuto. leg. 1. infra de censibus prohibemus 
+      <lb ed="#C" n="136"/>recurratur ergo ad superiorem scil. ad archiepiscopum 
+      <lb ed="#C" n="137"/>ar infr de jure patro nullus, &amp; ille inducat militem, ut eccle 
+      <lb ed="#C" n="138"/>siae parochiali reddat salva canonica episcopi, qui si null¬ 
+      <lb ed="#C" n="139"/>modo induci potest, sed nobis omnibus vult episcopus to 
+      <lb ed="#C" n="140"/>tum dare, authoritate archiepiscopi facere poterit, supr. d 
+      <lb ed="#C" n="141"/>his quae fiunt a prael. cum Apostolica, sed si haec forma non ser 
+      <lb ed="#C" n="142"/>vetur, non videtur valere quod agitur, arg. supra de offic. de 
+      <lb ed="#C" n="143"/>leg venerabilis supra de rescrip cum dilecta. ad 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="144"/>ADDITIO. 
+      <lb ed="#C" n="145"/>a Quid de novalibus.J Adde cag. prishyter. &amp;c. dilecti filli. 10 
+    </p>
+    <p>
+      <lb ed="#C" n="146"/>quass. 1 -->
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e2992">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0507.xml-->
+               <pb ed="#C" n="490"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>TErtiodecimo quaeritur. Quid si is, qui tenetur ad dec 
+      <lb ed="#C" n="2"/>mam acervum indecimatum alienaverit, nunquid po 
+      <lb ed="#C" n="3"/>test ab emptore ipsam decimam ecclesia vendicare? Sic 
+      <lb ed="#C" n="4"/>quia transit cum onere suo, ut patet in his quae notat. sui 
+      <lb ed="#C" n="5"/>eodem § a quibas ver item solvenda est, sed &amp; contra vendi 
+      <lb ed="#C" n="6"/>torem agere potest. C. situtor. vel curator. I sin. si tamen ab u 
+      <lb ed="#C" n="7"/>no suum recuperaverit, non petet ab altero, quia hoc bo 
+      <lb ed="#C" n="8"/>na fides non patitur f. dereg, jur. bona fides, absit etiam, quo 
+      <lb ed="#C" n="9"/>ecclesia repetat aliquid cum augmento, 12. qu. 2. fraternitas 
+      <lb ed="#C" n="10"/>Sed nunquid ecclesia tenetur cedere actionem suam u 
+      <lb ed="#C" n="11"/>ni solventi contra alterum? &amp; quidem emptori sic, si bon 
+      <lb ed="#C" n="12"/>fide emit, malae fidei vero emptori &amp; venditori, qui nec be 
+      <lb ed="#C" n="13"/>nam habere potest de facili, nullo modo cedet, qua enin 
+      <lb ed="#C" n="14"/>fronte hoc peteret is, qui ex sua nequitia condemnatur 
+      <lb ed="#C" n="15"/>de admin. tut si plures, ff de tut. &amp; ratio. distr. li.§ nunc tractemu 
+      <lb ed="#C" n="16"/>Quid ergo, si procurator mentiens dedit intelligere ven 
+      <lb ed="#C" n="17"/>ditori, quod acervus decimatus erat? Certe nec adhuc ce 
+      <lb ed="#C" n="18"/>dentur ei actiones, quia pretium rei recepit. f. depet haer 
+      <lb ed="#C" n="19"/>&amp; rem &amp; pretium, f.de usur. quia qui pretio ffe de trib act. procu 
+      <lb ed="#C" n="20"/>ratoris, § non autem totum peculium, 2.qu. 2. monemus, &amp; duobu 
+      <lb ed="#C" n="21"/>cap. sequen
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e3047">
+               <lb ed="#C" n="22"/>QUartodecimo quaeritur. Si quis pastor habet 
+      domi<lb ed="#C" n="23" break="no"/>cilium in una parochia, &amp; causam sive ovile in alia, cu 
+      <lb ed="#C" n="24"/>sit danda decima? &amp; dixit Rayn. quod de lacte, foeno, &amp; 
+      <lb ed="#C" n="25"/>lana danda illi ecclesiae, intra cujus limites pascua sunt, qui 
+      <lb ed="#C" n="26"/>inde suscipiunt animalia nutrimentum, &amp; tales decim¬ 
+      <lb ed="#C" n="27"/>praediales sunt, infra eodem commissum, quo ad foenum, ve 
+      <lb ed="#C" n="28"/>rum dicit omnino, quo ad alia, dic ut notat. supra eodem 
+      <lb ed="#C" n="29"/>cui danda sit
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e3067">
+               <lb ed="#C" n="30"/>QUintodecimo quaeritur. Quid si miles injuste percip 
+      <lb ed="#C" n="31"/>Cens decimas ipsas violenter occupat utrum rusticu 
+      <lb ed="#C" n="32"/>teneatur? Et certe aut ipse tradit metu coactus, &amp; sic noi 
+      <lb ed="#C" n="33"/>excusatur, quo ad resti. faciendam, licet metus poenitenti 
+      <lb ed="#C" n="34"/>am, quae praeter satisfactionem est injungenda, attenuet 
+      <lb ed="#C" n="35"/>33. quaestio 5. ita ne. supra quod me cau. sacris, autem violenter fu 
+      <lb ed="#C" n="36"/>it deportata, &amp; tunc si rusticus erat in mora, puta quiarie 
+      <lb ed="#C" n="37"/>quisitus per ecclesiam congruo tempore solvere nolue 
+      <lb ed="#C" n="38"/>rit, tenetur, vt suprae de depositi, bona fides, &amp; de commo, cap. un¬ 
+      <lb ed="#C" n="39"/>ta, est autem congruum tempus, ex quo ventilatum es 
+      <lb ed="#C" n="40"/>granum, nam &amp; ante separationem dominium reside 
+      <lb ed="#C" n="41"/>penes eccles. 16. quaestio. 1. moderamine, &amp; capit. decimae, secu¬ 
+      <lb ed="#C" n="42"/>dum Rayn. sed hoc non plene probant capit. inducta, est ta 
+      <lb ed="#C" n="43"/>men verum, quod statim collectis fructibus solvi debeni 
+      <lb ed="#C" n="44"/>ut inf e.c. decimae, inf. eo cum homines, &amp; ad hoc concordat 
+      <lb ed="#C" n="45"/>Iff de polli. l2. §si decimam, si vero non erat in mora, puta ne 
+      <lb ed="#C" n="46"/>audebat fructus tangere, quousque venisset ibi decimarius 
+      <lb ed="#C" n="47"/>non tenetur de violentia, argument ff. commo. ad eos, &amp; les 
+      <lb ed="#C" n="48"/>argentum, ff. locat. &amp; condu. sed &amp; de damno, &amp; leg si merces, 
+      <lb ed="#C" n="49"/>culpae, agat ergo eccles. contra praedonem. ff locat: &amp; con¬ 
+      <lb ed="#C" n="50"/>si in leg. §. Item non utiliter. Item distinguendum est. si pro 
+      <lb ed="#C" n="51"/>pter vim tempestatis vel pluviae, vel alio casu fortuito 
+      <lb ed="#C" n="52"/>cervus corruptus est, vel amissus. ff locat &amp; conduc ex condu 
+      <lb ed="#C" n="53"/>cto. §si vis tempestatis, &amp; seq. sed &amp; forte rusticus censetur es 
+      <lb ed="#C" n="54"/>se in mora, quia in horreum ecclesiae non intulit, cum po 
+      <lb ed="#C" n="55"/>tuit, de quo dic, ut in seq sub s hoc teneas pro regula, quo 
+      <lb ed="#C" n="56"/>mora ultima semper nocet, ff. deperi. &amp; comm. reivend. illuc 
+      <lb ed="#C" n="57"/>&amp; ff. de usur. debitor 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e3130">
+               <lb ed="#C" n="58"/>SExtodecimo quaero. Utrum decima debeat colligi pe 
+      <lb ed="#C" n="59"/>decimarium in vinea, vel in area, vel in alio praedio, vt 
+      <lb ed="#C" n="60"/>colonus debeat deportare in horreum, vel in torcular, ve 
+      <lb ed="#C" n="61"/>dolium ecclesiae, &amp; quidem haec quaestio non expressim 
+      <lb ed="#C" n="62"/>per jus expeditur, quia authoritates divinae legis: qua 
+      <lb ed="#C" n="63"/>posui supra eodem sub 57. versic. magistri maxime 2. Paralip 3 
+      <lb ed="#C" n="64"/>&amp; Malach. innuunt, quod colonus debeat deportare, &amp; a¬ 
+      <lb ed="#C" n="65"/>idem 15 quaest i. revertimini, &amp; Tqu7. decimas, nam &amp; in an 
+      <lb ed="#C" n="66"/>nona &amp; tributo, &amp; publica functione temporali hoc ob 
+      <lb ed="#C" n="67"/>servatur, si non multum distet is, qui obligatus est, ut C. de ar 
+      <lb ed="#C" n="68"/>no. &amp; tribut omnes omnino, &amp; leg. pro locis, &amp; leg neono libro 1c 
+      <lb ed="#C" n="69"/>multo fortius in decimis, quae tributa sunt spiritualia, u 
+      <lb ed="#C" n="70"/>16q decnae, hoc servari oportet. arg. C. de sacrosanct. eccl. in 
+      <lb ed="#C" n="71"/>ter divinum, infra eodem tua nobis §i.ibi, cum enim Deus, &amp;c. 
+      <lb ed="#C" n="72"/>rum non sit, &amp; infra de haered. vergentes, &amp; nullae expensae de 
+      <lb ed="#C" n="73"/>duci debent, vt no. sup. eo. § &amp; qualiter. Sed contrarium in 
+      <lb ed="#C" n="74"/>nuitur, supra sub § proxi. ubi not. quod dominium est eccl 
+      <lb ed="#C" n="75"/>etiam fructib. pendentibus &amp; maxime collectis, nam i 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0507.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="76"/>dominium eccl. est, quare debet colonus ipsam deciman 
+      <lb ed="#C" n="77"/>propriis expensis colligere, &amp; ad ecclesiam deportare? 
+      <lb ed="#C" n="78"/>tem pro hac via est Numeri IS. cap. ante si nec obstat, infra eo 
+      <lb ed="#C" n="79"/>dem cum homines de Ortana, &amp; cap non est in potestate, in fi. qui 
+      <lb ed="#C" n="80"/>illud intelligi potest de expensis seminis, &amp; agricultura 
+      <lb ed="#C" n="81"/>infra eodem tua nobis, respon.i. &amp; § sin infra quae fiunt pro fru 
+      <lb ed="#C" n="82"/>ctibus percipiendis, non colligendis, sicut satis innuit ill. 
+      <lb ed="#C" n="83"/>decr. cum homnes de Ortana, &amp; expressius innuitur insm e 
+      <lb ed="#C" n="84"/>dem pastoralis, §. ibi expensas tamen quae fiunt pro fractibu 
+      <lb ed="#C" n="85"/>percipiendis, &amp;c. no. non dixit colligendis, secundum ho 
+      <lb ed="#C" n="86"/>igitur debet primo solvi trituranti, quam decimario. S 
+      <lb ed="#C" n="87"/>tis potest dici, quod hic debeat servari consuetudo argu 
+      <lb ed="#C" n="88"/>supra de sepult certificari, &amp; in his quae notat. supra eodem su 
+      <lb ed="#C" n="89"/>57. uttum scias, quod si colligentes &amp; triturantes velir 
+      <lb ed="#C" n="90"/>quod primo sibi satisfiat, quam solvantur decimae, &amp; ipsidi 
+      <lb ed="#C" n="91"/>salario suo &amp; tritura debent reddere decimam, argu. mfi 
+      <lb ed="#C" n="92"/>eo. tua nobis, § &amp; cum de cunctis, &amp;c. pastoralis, &amp;c. cum non 
+      <lb ed="#C" n="93"/>in homme, &amp; si parum lucrabuntur in hac perceptione. Qui 
+      <lb ed="#C" n="94"/>quid allegatum sit, dic quod expensae quae fiunt pro coll 
+      <lb ed="#C" n="95"/>gendis fructib. non deducuntur, quia statim fructib. col 
+      <lb ed="#C" n="96"/>lectis sunt solvendae decimae, cum homines, ut infra coden 
+      <lb ed="#C" n="97"/>ad idem 16. quaestio. 1.decimae, &amp; de rigore juris sunt ad eccle 
+      <lb ed="#C" n="98"/>siam deportandae, a vt patet in his quae notat. supra eodem 
+      <lb ed="#C" n="99"/>§ respon. 1 
+    </p>
+            <p xml:id="nbht7y-d1e1211-d1e3229">
+               <lb ed="#C" n="100"/>SEptimodecimo quaero, quid juris sit de primitiis, &amp; 
+      <lb ed="#C" n="101"/>quidem, Primitia est prima fructuum obvento, siv 
+      <lb ed="#C" n="102"/>pars domino offerenda, &amp; debetur expraeceptio Dei, sie 
+      <lb ed="#C" n="103"/>cundum Ray vnde in Exod. 22. Decimas &amp; primitias non tar 
+      <lb ed="#C" n="104"/>dabis offerre, in eodem primitias frugum terrae tuae defere 
+      <lb ed="#C" n="105"/>in domum Domini Dei tui. Item per Ezechiel. Quaeran 
+      <lb ed="#C" n="106"/>primitias vestras, &amp; initium decimarum vestrarum in om 
+      <lb ed="#C" n="107"/>nib. sanctificationibus vestris alias etiam authoritates po 
+      <lb ed="#C" n="108"/>test invenire, supra eodem sub § 7. versicu magister. Item &amp; d 
+      <lb ed="#C" n="109"/>jure can. debetur, 16. quaest.. revertimini, &amp; quaestio 7. decima 
+      <lb ed="#C" n="110"/>32 dist. praeter haec, &amp; est danda primitia sacerdoti parochi¬ 
+      <lb ed="#C" n="111"/>li. 16. quae st. 1. doctos, &amp;c. moderamine. Quota autem dari di 
+      <lb ed="#C" n="112"/>beat, non invenitur in Pentateucho. id est5 li. Moysi, a peten 
+      <lb ed="#C" n="113"/>te quod est quinque &amp; teuchos, quod est volumen, quia i 
+      <lb ed="#C" n="114"/>uno volumine 5. lib. Moysi continentur, infra eodem cap. 
+      <lb ed="#C" n="115"/>quod positum est, supra eodem sub 57. vel per praedictas, dictur 
+      <lb ed="#C" n="116"/>tamen Hiero. in eo. C. quod non dabatur minus 40 parte 
+      <lb ed="#C" n="117"/>nec plus 40. inter quadragesima: &amp; 40. arbitrarium era 
+      <lb ed="#C" n="118"/>&amp; hoc in aridis &amp; liquidis intelligas, in foetibus enim pr 
+      <lb ed="#C" n="119"/>mogenitum datur, ut patet infra de vo§ cum igitur in laege, ve 
+      <lb ed="#C" n="120"/>rum hoc visum est Hug durum, quod is, qui non habere 
+      <lb ed="#C" n="121"/>nisi unum primogenitum, ipsum daret, ideo dixit, quo 
+      <lb ed="#C" n="122"/>de ducentis dabit unum, &amp; si quis tot capita non habeat 
+      <lb ed="#C" n="123"/>proportionaliter dabitur aestimatio. Joan &amp; T. dixerunm 
+      <lb ed="#C" n="124"/>centesnum esse dandum, de hac consuevit notat. 13. qu.¬ 
+      <lb ed="#C" n="125"/>§is 11 Ray &amp; Goffr. scripserunt, ad consue recurrendun 
+      <lb ed="#C" n="126"/>&amp; si diversae sunt, recurratur ad vicinas ecclesias, ita quo¬ 
+      <lb ed="#C" n="127"/>ex multis mediocritas observetur, ad hoc supra de sepuli 
+      <lb ed="#C" n="128"/>certificari, sup. de consue, cum olim, infra de censibus super eo. infi 
+      <lb ed="#C" n="129"/>de cogna. spi. super eod. inf. de simo. ad Apostolicam 6. dist. Isidorus 
+      <lb ed="#C" n="130"/>19. dist. in canonicis, 10. qu. 2 hoc jus, vel secundum Goffr. quo 
+      <lb ed="#C" n="131"/>nimium est, debetur, infra de censi minimis, ex parte ff.de les 
+      <lb ed="#C" n="132"/>3. Potius videtur esse standum nedum in aridis &amp; liqui 
+      <lb ed="#C" n="133"/>dis, sed in omnibus dicto Hieron. infra eo. c. 1. quia de simili 
+      <lb ed="#C" n="134"/>bus ad similia, &amp;c. supra de rescrip. inter caeteras, &amp; quia ab eo 
+      <lb ed="#C" n="135"/>dem data sunt, supra de constirans lato, &amp; quia ubi eadem ra 
+      <lb ed="#C" n="136"/>tio, idem jus, infra de consan. tua. 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="137"/>ADDITIONES 
+      <lb ed="#C" n="138"/>a Sunt ad ecclesiam deportandae. JAdde cap. ad Apostolic. &amp; il 
+    </p>
+    <p>
+      <lb ed="#C" n="139"/>doct de decimis. Io. And. in c. ex parte, eo. ti 
+      <lb ed="#C" n="140"/>Tractatui decimarum rubricatim distributo recte subjici po 
+      <lb ed="#C" n="141"/>test haec rubricella. Quae mala oriantur ex non solutis de 
+      <lb ed="#C" n="142"/>cimis, quam explicuit Mart. noster in haec verba Decimari 
+      <lb ed="#C" n="143"/>(inquit) subtractio plurima mala inducit, primum est prae 
+      <lb ed="#C" n="144"/>varicatio Dominicimandati, extra de decim. a nobis, secundun 
+      <lb ed="#C" n="145"/>homines decimas solventes bonis omnibus abundant, nt 16 
+      <lb ed="#C" n="146"/>qu. 7. maiores. Tertium quia Dominus non increpat locusta 
+      <lb ed="#C" n="147"/>nec plagas amovet, nt 16. 9.1. revertimini. Quartum, quia quo 
+      <lb ed="#C" n="148"/>non accepit Christus, tollit fiscus, d.c. maiores Mari--> 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

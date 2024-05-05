@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 20</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 20</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="727"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1903"><!-- nbht7y-l5t20 -->
+            <head xml:id="nbht7y-d1e1903-Hd1e101">Titulus 20</head>
+            <head xml:id="nbht7y-d1e1903-Hd1e103" type="question-title">De crimine falsi</head>
+            <p xml:id="nbht7y-d1e1903-d1e106">
+               <lb ed="#C" n="51"/>De Crimine falsi XX. Ru¬ 
+      <lb ed="#C" n="52"/>brica 
+    </p>
+            <p xml:id="nbht7y-d1e1903-d1e113">
+               <lb ed="#C" n="53"/>SUMMARIA, 
+      <lb ed="#C" n="54"/>I. Falsitas quid sit 
+      <lb ed="#C" n="55"/>2. Qualiter committatur. Qualiter puniatur? 
+      <lb ed="#C" n="56"/>3. Falsitates variae committuntur circa rescripta Sedis Aposto 
+      <lb ed="#C" n="57"/>licae. 
+      <lb ed="#C" n="58"/>4. Quasi falsum quando committatur 
+      <lb ed="#C" n="59"/>J. Ascribens sibi, aliquando excusatur 
+      <lb ed="#C" n="60"/>Probatio qualis requiratur in falsitate 
+      <lb ed="#C" n="61"/>Accu satio qualis su in falsitate 
+      <lb ed="#C" n="62"/>capititur 
+      <lb ed="#C" n="63"/>Libellum falsum, vel famosum componens, si devincitur, de¬
+      <!-- missing line break-->capitatur.
+    </p>
+            <p xml:id="nbht7y-d1e1903-d1e141">
+               <lb ed="#C" n="64"/>PRosequens author materiam coepti¬ 
+      <lb ed="#C" n="65"/>de criminib. apponit de¬ 
+      <lb ed="#C" n="66"/>crimine falsi, vel sic: Quoniam usurarii, d 
+      <lb ed="#C" n="67"/>quib. praemisimus, plerumque falsitatem com 
+      <lb ed="#C" n="68"/>mittunt, ut usuras extorquere possint: vi 
+      <lb ed="#C" n="69"/>deamus de crimine falsi, dicentes. Quid si falsitas, Quali 
+      <lb ed="#C" n="70"/>ter committatur, Qualis probatio in ea requiratur, Qua 
+      <lb ed="#C" n="71"/>lis sit accusatio. Et qualiter puniatur
+    </p>
+            <p xml:id="nbht7y-d1e1903-d1e162" n="1">
+               <lb ed="#C" n="72"/>Quid, sit falsitas. Et quidem nihil aliud est 
+      <lb ed="#C" n="73"/>quam immutatio veritatis
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0744.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="74"/>ex certa scientia facta, nec enim committitur sine dolo, i 
+      <lb ed="#C" n="75"/>auth. de instr. cau in prin. coll. 6. 12.q. 2. homines, &amp; c. is autem, &amp;c 
+      <lb ed="#C" n="76"/>eo, nec exemplum, ff.eo quid sit falsum, &amp; Idirus, vel dicitur imi 
+      <lb ed="#C" n="77"/>tatio veritatis, eo quod falsatores b student imitari ea quae 
+      <lb ed="#C" n="78"/>vera sunt, ut falsa videantur verisimilia, secundum Azo 
+      <lb ed="#C" n="79"/>vnde in dicto authentico duplex est litera immutatio, &amp; i 
+      <lb ed="#C" n="80"/>mitatio veritatis 
+    </p>
+            <p xml:id="nbht7y-d1e1903-d1e188" n="2">
+               <lb ed="#C" n="81"/>Qualiter, committatur Et certe aliquan¬ 
+      <lb ed="#C" n="82"/>do cum scriptu 
+      <lb ed="#C" n="83"/>ra, sive scribat quis falsum, sive deleat verum, ut res id est 
+      <lb ed="#C" n="84"/>rei veritas non appareat, nec dist. utrum sit testamentum 
+      <lb ed="#C" n="85"/>instrumentumve publicum, vel privatum, utrumve sint ta 
+      <lb ed="#C" n="86"/>bulae ligneae, vel cereae. vel rationes, f. eo. l. 1. 5 qui in rationil 
+      <lb ed="#C" n="87"/>&amp; l. Paulus, § Paulus, &amp; de hoc, infra eo. sub s porro, versicul. 
+      <lb ed="#C" n="88"/>Dicto etiam committitur falsum, ut testis falsificus, &amp; ju 
+      <lb ed="#C" n="89"/>dex scienter inique contra constitutiones judicans, &amp; qu 
+      <lb ed="#C" n="90"/>testem, vel judicem corrumpit, &amp; recipiens pecuniam, ni 
+      <lb ed="#C" n="91"/>veritatem dicat, vel ut testem instruat, lectionem pravam 
+      <lb ed="#C" n="92"/>edocendo, vel qui falsis legibus innititur allegando, &amp; si 
+      <lb ed="#C" n="93"/>compilatio antiqua non videtur alleganda, ut haec probam 
+      <lb ed="#C" n="94"/>tur, f. eodem l.. Sitem qui ab instruenda, &amp;S sed si quis, &amp; S qu 
+      <lb ed="#C" n="95"/>judicem. &amp; sed &amp; si judex, &amp; leg. eos, &amp; leg. ultum. &amp; supra i 
+      <lb ed="#C" n="96"/>prima constitutione hujus libri §ultim. &amp; C. de veter. jure enu 
+      <lb ed="#C" n="97"/>2S haec autem omnia, § eandem paenam. Non autem quilibe 
+      <lb ed="#C" n="98"/>mentiens hac l. tenetur, utff. cod. quid sit. Sed si quis men 
+      <lb ed="#C" n="99"/>titur praesidi vel principi, &amp; per obreptionem aliquid ob 
+      <lb ed="#C" n="100"/>tinuerit, hac Itenetur, ut ff. eodem si quis obrepserit, unde S 
+      <lb ed="#C" n="101"/>mendax praedicator carere debet impetratis, supra de rescr 
+      <lb ed="#C" n="102"/>super litens, C. sicontra jus vel utili. publi. &amp; si legibus, &amp; de di¬ 
+      <lb ed="#C" n="103"/>ver. appa lig. 2. ideoque puniendi sunt judices, qui vetue 
+      <lb ed="#C" n="104"/>runt precum argui falsitatem, C. si contra jus vel uti. pub leg 
+      <lb ed="#C" n="105"/>puniri. Falsidicus autem testis tribus personis est obnoxi 
+      <lb ed="#C" n="106"/>us: primo Deo, ideo imponitur ei poenitentia septem an 
+      <lb ed="#C" n="107"/>norum. 7 quaestio 1 quicunque, secundo judici, ideo infami 
+      <lb ed="#C" n="108"/>fit. 22 quaestio5 si quis convictus. &amp; verberibus castigatur, 
+      <lb ed="#C" n="109"/>quaestio5 illi, qui, vel extraordinarie punitur: ut C. de test. nul 
+      <lb ed="#C" n="110"/>tum tertio, proximo, &amp; ideo juxta modum laesionis puni 
+      <lb ed="#C" n="111"/>tur 3 quaest o nihilominus, sic loquitur infra eodem cap. 1. 1. q3 
+      <lb ed="#C" n="112"/>quisquis. Sed &amp; dicto committit falsum advocatus, ve 
+      <lb ed="#C" n="113"/>procurator qui adversario secreta causae aperuit, vel in 
+      <lb ed="#C" n="114"/>strumenta prodidit, ff. eodem is qui deposita, ff. de poen si qui 
+      <lb ed="#C" n="115"/>aliquid §. si quis instrumentum, &amp; §. instrumenta, aliquando 
+      <lb ed="#C" n="116"/>etiam condemnantur ad interesse, 12. quaestio. 2siquis de cle 
+      <lb ed="#C" n="117"/>ric alias tenetur injuriarum, ff deposui, leg1§ si quis tabulas 
+      <lb ed="#C" n="118"/>f ad legem Aquill siquis testamentum, sed si quis tabulas, &amp; ei 
+      <lb ed="#C" n="119"/>iam talis proditor dici potest: 46. distinct. clericus, &amp; si¬ 
+      <lb ed="#C" n="120"/>falsum committit, qui secretum aperit, supra de ossi delega¬ 
+      <lb ed="#C" n="121"/>cum ol im magister Falsum similiter committitur in mone 
+      <lb ed="#C" n="122"/>ta, &amp; mensura: uit ff eo. quicunque &amp; llege. &amp; Ipe. §1. sup. de con 
+      <lb ed="#C" n="123"/>trahen. eiup.c.i. &amp; ponitur exemplum in moneta, de his, qu 
+      <lb ed="#C" n="124"/>nummos aureos partim raserunt, vel tinxerunt, in quo casi 
+      <lb ed="#C" n="125"/>liberi bestiis subjiciuntur, servi ultimo damnantur sup 
+      <lb ed="#C" n="126"/>plicio. Sed &amp; de diminutione habes exemplum, sup. deju 
+      <lb ed="#C" n="127"/>reju. quanto. Item ponitur exemplum de eo, qui in auro a 
+      <lb ed="#C" n="128"/>liquid vitii addiderit, vel argenteos nummos, vel adulte 
+      <lb ed="#C" n="129"/>rinos falsaverit, vel eorum tale quid non prohibuerit, ve 
+      <lb ed="#C" n="130"/>nummos stanneos, vel plumbeos emerit, vel vendiderit dol¬ 
+      <lb ed="#C" n="131"/>malo, qui tamen falsam monetam percusserit, si in totum forma 
+      <lb ed="#C" n="132"/>re noluerit, suffragio justae penitentiae absolvetur, pro men 
+      <lb ed="#C" n="133"/>sura autem falsa, duplici paena punitur, &amp; insuper relegatur 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="134"/>ADDITIONES. 
+      <lb ed="#C" n="135"/>a Quid sit falsitas. J Adde Host. in Sum. tit. de dol. &amp; contn in 5 
+    </p>
+    <p>
+      <lb ed="#C" n="136"/>ver fallacia veri, &amp; per Doct. in rub de crim. fals 
+      <lb ed="#C" n="137"/>b Falsariorum genera varia adsignat Mart. eodem titul. in Sud 
+    </p>
+    <p>
+      <lb ed="#C" n="138"/>Falsarius est, qui nomina fratrum absentium inseri facit in 
+      <lb ed="#C" n="139"/>strumento, vel illo utitur, in quo scriptum est omnes canoni 
+      <lb ed="#C" n="140"/>cos interfuisse. cum omnes non interfuerint. Similiter, si si 
+      <lb ed="#C" n="141"/>gillum subripuit furtive nomine capituli, vel qui literas ju 
+      <lb ed="#C" n="142"/>dicum aperuit, argument. de iis. quae si a praelat. quanto. Simi 
+      <lb ed="#C" n="143"/>liter, qui super linearemponit in instrumento: de relg. deve 
+      <lb ed="#C" n="144"/>nerabilis, vel qui aliter trascribit, quam sit in originali, de exci 
+      <lb ed="#C" n="145"/>cum venerabilo, similiter qui scribit falsum, vel deset verum 
+      <lb ed="#C" n="146"/>l. I. ff. eo. i.item qui adulterinum sigillum insculpi secerit, ffe 
+      <lb ed="#C" n="147"/>tit. I lege Corne. Falsarius est advocatus, qui jus clientis aperi 
+      <lb ed="#C" n="148"/>adreriario, ff.co .l. 1.udem in procuratori -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0745.xml-->
+      <pb ed="#C" n="728"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>ut ff. eodem qui falsarum, &amp; lpenult. &amp; ! quicunque. Item fact 
+      <lb ed="#C" n="2"/>committitur falsum in partu supposito, de quo privata, &amp; 
+      <lb ed="#C" n="3"/>perpetua est accusatio, nam de eo soli accusant parente 
+      <lb ed="#C" n="4"/>gel hi ad quos ea res pertinet: non quilibet ex populo, u 
+      <lb ed="#C" n="5"/>publicam accusationem intendant, utff. eodem qui falsam, 
+      <lb ed="#C" n="6"/>1. &amp; I. lege Cornel. 61. &amp; in notorium sigillorum corrupti¬ 
+      <lb ed="#C" n="7"/>ne: supra de fid instru inter dilectos. Usu etiam committitu 
+      <lb ed="#C" n="8"/>sed differt ab aliis, quia hic se liberat abstinendo ab usi 
+      <lb ed="#C" n="9"/>falsae scripturae, dummodo vel utentes falsitatem non ci 
+      <lb ed="#C" n="10"/>miserint: ut C. eodem si falsos, hoc etiam in rescripto Summ 
+      <lb ed="#C" n="11"/>Pontificis locum habet, si tamen utentes falsitate diliger 
+      <lb ed="#C" n="12"/>ter primo literas examinent, &amp; eos sera poenitentia no 
+      <lb ed="#C" n="13"/>accuset, infra eodem ad falsariorum, responsio. 1. Est auten 
+      <lb ed="#C" n="14"/>sera poenitentia, secundum quosdam, quando lis cont¬ 
+      <lb ed="#C" n="15"/>statur, postquam falsitatem cognovit, arg, ff. de in jus voca 
+      <lb ed="#C" n="16"/>quamvis, &amp; rem ha amplius. Alii dicunt, seram poenitent 
+      <lb ed="#C" n="17"/>am, qualitercunque postea usus fuerit: argument. infra eo¬ 
+      <lb ed="#C" n="18"/>accedens, &amp; de excess praelat. inter dilectos, §. verum. Ego dic 
+      <lb ed="#C" n="19"/>seram poenitentiam, ut proxime. Sed &amp; si non fuerit usu 
+      <lb ed="#C" n="20"/>fero poenitet: si intra 20. dies rescriptum destruat, vel res 
+      <lb ed="#C" n="21"/>gnet, alioquin intra 20. dies connumerandos a tempor 
+      <lb ed="#C" n="22"/>notionis, poenam excommunicationis vitabit, sed ipsis la 
+      <lb ed="#C" n="23"/>psis, ligatus est ipso jure, sic intelligo infra codem dura § u 
+      <lb ed="#C" n="24"/>timo, quamvis alii intelligant illud de sententia lata a dia 
+      <lb ed="#C" n="25"/>cesano argument. pro me. infra de exces praelat. illud respor 
+      <lb ed="#C" n="26"/>sio primo, &amp;3. quaestio3. offeratur. Sed &amp; aliter intelligit ho 
+      <lb ed="#C" n="27"/>Goffred. ut notat. infra eodem, versicul. sed &amp; in eodem Pra 
+      <lb ed="#C" n="28"/>terea usu committitur falsum, si quis se pro milite gessit 
+      <lb ed="#C" n="29"/>cum non esset, vel illicitis insignibus usus est, vel falso d 
+      <lb ed="#C" n="30"/>plomate, id est interdicto certi loci itinere breviori via ci 
+      <lb ed="#C" n="31"/>meavit, &amp; talis est pro admissi qualitate gravissime pun 
+      <lb ed="#C" n="32"/>endus, ut ffeodemeos qui. §ultim &amp; idem est in non ordi 
+      <lb ed="#C" n="33"/>nato, qui gerit officium ordinati, infra de cleric. nonord.m 
+      <lb ed="#C" n="34"/>ni. capitul. 1. &amp; 2. Idem in eo, qui sub praetextu clericun 
+      <lb ed="#C" n="35"/>munus clericale non adimpleat, aliis se muneribus sul 
+      <lb ed="#C" n="36"/>trahere conetur, C. de sacrosanct. eccles. qui sub praetextu, si 
+      <lb ed="#C" n="37"/>pra de vi. &amp; honest. cleric. capitul. sinal. Idem in eo, qui cun 
+      <lb ed="#C" n="38"/>non sit clericus, tanquam clericus nititur ecclesiasticun 
+      <lb ed="#C" n="39"/>beneficium obtinere, supra de trans. ex literis, supra de rescrij 
+      <lb ed="#C" n="40"/>tum adeo. Sed &amp; in eo, qui usu falsum committit, di. nam 
+      <lb ed="#C" n="41"/>quis falsum fabricat non utendo, non relevatur a poen¬ 
+      <lb ed="#C" n="42"/>falsi. sed is relevatur, ad cujus manum devenit falsum in 
+      <lb ed="#C" n="43"/>strumentum, quod alius confecerat: nes voluit uti, vel e 
+      <lb ed="#C" n="44"/>iam usus est ignoranter, ut C. eodem si falsos codicillos, nam 
+      <lb ed="#C" n="45"/>innocentiam suam probet, &amp; eum a quo accepit, exhibe 
+      <lb ed="#C" n="46"/>liberatur, ut C. eodem leg. majorem, ad idem infra de exces. pra 
+      <lb ed="#C" n="47"/>lat. inter dilectos, § praeterea, falsum enim non committitur 
+      <lb ed="#C" n="48"/>nisi dolo. ut notat. supra eodem  quid sit falsitas, sed contra 
+      <lb ed="#C" n="49"/>infra eodem ad falsariorum, dic, quod speciale est in falsari 
+      <lb ed="#C" n="50"/>domini Papae, ut si quis utatur falsis literis Apostolicis, e 
+      <lb ed="#C" n="51"/>iam ignoranter, non excusetur: ut ibi, &amp; est ratio, quia li 
+      <lb ed="#C" n="52"/>terae Papales cum multa diligentia, &amp; exquisita curiosit. 
+      <lb ed="#C" n="53"/>te fiunt, supr. de rescr. cum adeo, 35 q 9 Apostolicae, vel dic, quo 
+      <lb ed="#C" n="54"/>illa decr anf. eo. ad falsariorum, cum loquitur, quis falsis literis 
+      <lb ed="#C" n="55"/>seipso obtentis utitur, ubi nulla ex excusatio, ut in legit 
+      <lb ed="#C" n="56"/>supradictis, quia vitium rei propriae non excusat. C. de resci¬ 
+      <lb ed="#C" n="57"/>vendit. quisquis, secundum Goffr. sed hoc non placet, quo 
+      <lb ed="#C" n="58"/>ignorans legitur: nam &amp; quamvis multum examinentu 
+      <lb ed="#C" n="59"/>rescripta Apostolica, tamen multae falsitates committurm 
+      <lb ed="#C" n="60"/>tur: ut patet in his, quae not. infra eodem sub § porro, &amp; versi 
+      <lb ed="#C" n="61"/>sequent &amp; aliquae sunt, quae de facili non appareant: ut no 
+      <lb ed="#C" n="62"/>mfra eo. sub S ver. 9 &amp; infra eodem § fin. versicul si autem ita late 
+      <lb ed="#C" n="63"/>falsitas, &amp; praecedent. si quidem, &amp; semper debet esse proba 
+      <lb ed="#C" n="64"/>bilis ignorantia excusata, supra decleric. excomm. minist. 
+      <lb ed="#C" n="65"/>postolicae, dic ergo, sicut no. infra eodem de hoc qu &amp; qualiter pu 
+      <lb ed="#C" n="66"/>niatur, persicul in falsario domini Papae, &amp; versic praeceden. por 
+      <lb ed="#C" n="67"/>ro, &amp; supra eo. ab illo versicul. usu etiam committitur, usque ad ver 
+      <lb ed="#C" n="68"/>sicut praeterea. Multis &amp; aliis modis committitur falsum 
+      <lb ed="#C" n="69"/>c cut si quis testamentum caelaverit, amoverit, rapuerit, di 
+      <lb ed="#C" n="70"/>leverit, interleverit, subjecerit, vel falsum testamentun 
+      <lb ed="#C" n="71"/>scripserit, signaverit, recitaverit, malo dolove ea fieri cu 
+      <lb ed="#C" n="72"/>raverit, ut ff eod. qui testamentum. Item qui edicta corrup 
+      <lb ed="#C" n="73"/>rit, vel qui rem duobus alienaverit. nisi ad tempus relega 
+      <lb ed="#C" n="74"/>tur, nec bona auferuntur, sicut &amp; in eo, quijudicem corru 
+      <lb ed="#C" n="75"/>perit, ut ff. eodem leg. penul &amp; leg qui duobus, is autem qui ren 
+      <lb ed="#C" n="76"/>duobus insolidum obligavit, crimine tantum stellionatu 
+      <lb ed="#C" n="77"/>tenetur: ut) de crim stel leg. 3. Item qui instrumenta apu¬ 
+      <lb ed="#C" n="78"/>se deposita prodiderit, adversarius deponens falsum com 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0745.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>mittit, utff. eodem leg. prima, Sis qui &amp; de pom. si quis aliquid, s 
+      <lb ed="#C" n="80"/>si quis
+    </p>
+            <p xml:id="nbht7y-d1e1903-d1e491" n="3">
+               <lb ed="#C" n="81"/>POrro circa rescripta Apostolicae Sedis falsitates va¬ 
+      <lb ed="#C" n="82"/>riae committuntur. Primo cum modulus verae bulla 
+      <lb ed="#C" n="83"/>falsatur, a quia fit alius ejusdem formae, &amp; sic falsa bulla 
+      <lb ed="#C" n="84"/>in hoc falso modulo impressa; falsis literis apponitur. Se 
+      <lb ed="#C" n="85"/>cundo, cum foramen verae bullae sublevatur superius &amp; in 
+      <lb ed="#C" n="86"/>ferius cum aliquo subtili instrumento, &amp; sic extrahitur fi 
+      <lb ed="#C" n="87"/>lum, &amp; bulla remanente, foramine sublevato, per quod fi 
+      <lb ed="#C" n="88"/>lum falsarum literarum mittitur, &amp; vt nihil appareat fals 
+      <lb ed="#C" n="89"/>tatis, foramina sublevata cum parvo malleunculo lenite 
+      <lb ed="#C" n="90"/>pertunduntur. Tertio, scinditur filum sub plicatura verae li 
+      <lb ed="#C" n="91"/>terae, &amp; sic extrahitur filium dem vera litera: quo facto, ip 
+      <lb ed="#C" n="92"/>sum filum scarpitur, &amp; postea immittitur in litera falsa, ac 
+      <lb ed="#C" n="93"/>modum verae plicata, &amp; adjuncto filo consimilis cannabis, re 
+      <lb ed="#C" n="94"/>stauratur scissura fili antiqui, ita quod restauratio sub pli 
+      <lb ed="#C" n="95"/>catura finitur, ut falsitas melius obfuscetur. Quarto, quas 
+      <lb ed="#C" n="96"/>secundo sublevatur forma bullae verae ex superiori barti 
+      <lb ed="#C" n="97"/>tantum. Sed in inferiori non tangitur, sublevato vero supe 
+      <lb ed="#C" n="98"/>riori foramine, scinditur altera pars fili, pendens quasi in 
+      <lb ed="#C" n="99"/>medio bullae, quo facto, pars scissa de bulla extrahitur, ips 
+      <lb ed="#C" n="100"/>bulla sustentata cum altera parte fili, quae remanet integra 
+      <lb ed="#C" n="101"/>&amp; immisso summae partis incisae per foramina plicatura 
+      <lb ed="#C" n="102"/>falsae literae, revertitur ad locum unde exivit, &amp; postea fo 
+      <lb ed="#C" n="103"/>ramen bullae cum malleunculo tunditur, sicut est superiu 
+      <lb ed="#C" n="104"/>praelibatum. Quinto, cum literis bullatis &amp; redditis, in ei 
+      <lb ed="#C" n="105"/>quid per rasuram tenuem immutatur: super hoc tamei 
+      <lb ed="#C" n="106"/>distinguitur, ut no. sup. defide instr. S quibus instrumentis, ver 
+      <lb ed="#C" n="107"/>quod si instrumento, distinguitur enim utrum rasura fit in lo 
+      <lb ed="#C" n="108"/>co, ubi jus constituitur: &amp; tunc obest, an in facti narratio 
+      <lb ed="#C" n="109"/>ne, &amp; tunc non obest, ut supra defid. mstr ex Iiteris. Alii dicumi 
+      <lb ed="#C" n="110"/>ut Lau. in quocunque loco fuerit rasa charta, non obest, dum 
+      <lb ed="#C" n="111"/>modo ab eadem manu fuerit rescripta, quod ex encausto 
+      <lb ed="#C" n="112"/>&amp; de specie literae, &amp; aliis multis modis deprehenditur, u 
+      <lb ed="#C" n="113"/>C. de fid instru, comparationes, &amp; de testa si unus. Vincen dixit 
+      <lb ed="#C" n="114"/>quod si in facto est rasura, &amp; constat quod ab impetrant, 
+      <lb ed="#C" n="115"/>ut facta, obest, arg, supra de rescri significante, &amp; c. Rodulphus 
+      <lb ed="#C" n="116"/>si dubitatur, non obest, &amp; sic intellexit decret. ex literis, &amp; 
+      <lb ed="#C" n="117"/>hoc, quando literae apertae sunt, nam si clausae, tunc non ob 
+      <lb ed="#C" n="118"/>est rasura, ff de his, quae in test delen, cancellaverat. argumen, su 
+      <lb ed="#C" n="119"/>pra de fid instrum. inter dilectos, &amp; de offic. delegat, cum olim ma 
+      <lb ed="#C" n="120"/>gister, &amp; dictis legibus comparationes, &amp; si unus. Ego distin 
+      <lb ed="#C" n="121"/>guo: ut notat. supra de fid instrament. S. quibus iustrumentis 
+      <lb ed="#C" n="122"/>versicul. quod si instrumento, &amp; sequen dic, ut ubi. Distingui 
+      <lb ed="#C" n="123"/>tur enim utrum sint literae de simplici justicia, ut infra eo 
+      <lb ed="#C" n="124"/>dem accedens: &amp; utrum sit rasura paucarum literarum, in 
+      <lb ed="#C" n="125"/>fra eodem capitul. fin. Sed hodie praeceptum est, quod in li 
+      <lb ed="#C" n="126"/>teris domini Papae, nec in magno, nec in modico audea 
+      <lb ed="#C" n="127"/>quis manum opponere, etiam literam unicam, vel puncti 
+      <lb ed="#C" n="128"/>unicum corrigendo, exceptis officialibus quibus hoc es 
+      <lb ed="#C" n="129"/>commissum, alioquin manum apponens ex canone lati 
+      <lb ed="#C" n="130"/>in curia ipso facto sententiam excommunicationis incui 
+      <lb ed="#C" n="131"/>rit, quae non potest per aliquem citra sedem Apostolican 
+      <lb ed="#C" n="132"/>relaxari. Sexto cum vera charta, vel abolita, &amp; cum calce 
+      <lb ed="#C" n="133"/>&amp; aliis, puta cauterio, furfure, cineribus, &amp; si de novo re 
+      <lb ed="#C" n="134"/>scribitur, juxta consuetum artificium dealbata. Septimi 
+      <lb ed="#C" n="135"/>cum chartae totaliter abolitae &amp; abrasae, alia subtilissim 
+      <lb ed="#C" n="136"/>charta ejusdem qualitatis, &amp; quantitatis inscripta cum 
+      <lb ed="#C" n="137"/>tenacissimo glutino counitur. Octavo, quando quis a 
+      <lb ed="#C" n="138"/>pud sedem Apostolicam constitutus, non de manibu do 
+      <lb ed="#C" n="139"/>mini Papae, vel bullatoris sui, vel alterius ad hoc officium 
+      <lb ed="#C" n="140"/>deputati, literas recipit, in quo casu laicus excommuni 
+      <lb ed="#C" n="141"/>cationi subjacet, clericus officii &amp; beneficii suspension 
+      <lb ed="#C" n="142"/>damnatur, subaudi, nisi intra viginti dies poeniteat, sed 
+      <lb ed="#C" n="143"/>persona magnae authoritatis fuerit, per nuncium idons 
+      <lb ed="#C" n="144"/>um literas ab ejsdem recipere potest, ut infra eodem dura 
+      <lb ed="#C" n="145"/>alius autem in curia Roma praesentialiter existens pe 
+      <lb ed="#C" n="146"/>nuncium specialem non impetrat, licet quilibet absen 
+      <lb ed="#C" n="147"/>impetrare valeat per nuncium specialem, ut not. supra de 
+      <lb ed="#C" n="148"/>script nonnulli, §ultim. &amp; sic diversificant dicta jura. Alii 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="149"/>ADDITIONES. 
+      <lb ed="#C" n="150"/>Multis &amp; aliis modis committitur falsum. JAdde gl. inc. na 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>moriam, 19. dist. &amp; per Doc. in c. vera institia 41. disi 
+      <lb ed="#C" n="152"/>d Bullae falsantur, 1 Adde poena, vide ins ad fallariorum, decri¬ 
+      <lb ed="#C" n="153"/>minefals. -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0746.xml-->
+      <pb ed="#C" n="729"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>dicunt decret. dura, fore correctam, quia in desuetudinen 
+      <lb ed="#C" n="2"/>abiit, nec servatur. Sed tales male consideraverunt men 
+      <lb ed="#C" n="3"/>tem verbi ibi appositi apud sedem Apostolicam subaud 
+      <lb ed="#C" n="4"/>endum enim est: constitutus. Nono, cum quis accedens a 
+      <lb ed="#C" n="5"/>bullam, falsas literas caute projicit, vt de vera bulla cum al 
+      <lb ed="#C" n="6"/>is sigillentur. Sed hae duae ultimae species non possunt fa 
+      <lb ed="#C" n="7"/>cile convinci, nisi in modo dictaminis, vel in forma scriptu 
+      <lb ed="#C" n="8"/>rae, vel qualitate chartae, in caeteris autem in adjunction 
+      <lb ed="#C" n="9"/>filiorum deprehenditur, ut in tertia specie, vel in collus 
+      <lb ed="#C" n="10"/>one bullae, ut in prima specie, vix enim erit, quod moduli 
+      <lb ed="#C" n="11"/>falsum non discrepat a vero saltem in puncto, vel motioni 
+      <lb ed="#C" n="12"/>bullae. vel obtusione, sive obtonsione, quia forte tonsum ess 
+      <lb ed="#C" n="13"/>ne appareant ictus, praesertim si bulla non sit aequalis, pro 
+      <lb ed="#C" n="14"/>pter percussionem mallei, sed alicubi magis tumida, &amp; ali 
+      <lb ed="#C" n="15"/>cubi magis depressa, quod in 2. &amp; 4. specie contingit, ha 
+      <lb ed="#C" n="16"/>species falsitatis habes, infra eodem licet
+    </p>
+            <p xml:id="nbht7y-d1e1903-d1e684">
+               <lb ed="#C" n="17"/>DEprehenditur a etiam falsitas, si Papa vocet episcopo 
+      <lb ed="#C" n="18"/>sive superiores dilectos filios, &amp; si vocaverit Reges 8 
+      <lb ed="#C" n="19"/>Principes, vel quoscunque clericos inferiores episcopis 
+      <lb ed="#C" n="20"/>venerabiles fratres, &amp; si se ponat in singulari numero, ve 
+      <lb ed="#C" n="21"/>uniscribens, cuicunque voluerit, eum in plurali numer 
+      <lb ed="#C" n="22"/>ponat, quia tales literae contra solitum stylum curi¬ 
+      <lb ed="#C" n="23"/>impetrantur, &amp; si tam in bulla, quam in filo, &amp; charta. &amp; sty 
+      <lb ed="#C" n="24"/>lo curiae sunt taliter intuendae, ne quis veras pro falsis, ve 
+      <lb ed="#C" n="25"/>falsas pro veris admittat, infra eodem quam gravi. Sic debe 
+      <lb ed="#C" n="26"/>de caetero observari, antiquitus enim Grego. ex humilita 
+      <lb ed="#C" n="27"/>te aliquando contrarium observavit, ut supra de praescri.ni 
+      <lb ed="#C" n="28"/>hil, &amp; de probat cap. 1. 23. dist. communis filius, &amp; 99. dist. ecce. epi 
+      <lb ed="#C" n="29"/>scopi autem subditos suos fratres, vel socios appellant, 
+      <lb ed="#C" n="30"/>quaestio.i.quid autem, S. quaest; cavendum, infra de exces praela 
+      <lb ed="#C" n="31"/>c.I. Sic &amp; considerandus est stylus curiae in clausulis, qu 
+      <lb ed="#C" n="32"/>apponi consueverunt in literis Apostolicis, ut supra de¬ 
+      <lb ed="#C" n="33"/>tat. &amp; qual. accepimus, &amp; de fid instru. quod superhis, &amp; de con 
+      <lb ed="#C" n="34"/>fir. utili porrecta. &amp; capit. penult. &amp; ult de praeb, cum secundum 
+      <lb ed="#C" n="35"/>&amp; infra de poenit. cum ex eo. Sed &amp; si quis sine speciali mar 
+      <lb ed="#C" n="36"/>dato literas Apostolicas nomine alterius impetrare pra 
+      <lb ed="#C" n="37"/>sumpserit, nisi sit conjuncta persona, est tanquam fallari 
+      <lb ed="#C" n="38"/>us puniendus, ui supra de rescri. nonnulli infine Haec igitu 
+      <lb ed="#C" n="39"/>contra rescripta Apostolica opponuntur. &amp; multa alia, d 
+      <lb ed="#C" n="40"/>quib. dixi supra de rescri §&amp; quae possunt objici, veri &amp; rer se¬ 
+      <lb ed="#C" n="41"/>Praecepto etiam committitur falsum, quando episcopu 
+      <lb ed="#C" n="42"/>in privilegiis nomina fratrum absentium scribi praecepii 
+      <lb ed="#C" n="43"/>ut supra de his quae fiunt a praelat. quando §ahsentium. Idem in 
+      <lb ed="#C" n="44"/>tabellione. testamentum irritum est, ut C eodem qui veluti 
+      <lb ed="#C" n="45"/>&amp; de testa hac consultissima. Idem est, si aliqui de capitul¬ 
+      <lb ed="#C" n="46"/>subscripserint nomine capituli, aliis ignorantibus, &amp; tale 
+      <lb ed="#C" n="47"/>ab officio, &amp; beneficio suspenduntur, seu suspensi nuncian 
+      <lb ed="#C" n="48"/>tur, ut supra de testi. tam literis, § ultimo &amp; de prob 3. Multa S 
+      <lb ed="#C" n="49"/>alia contra instrumenta objici possunt, quod dic, ut nota 
+      <lb ed="#C" n="50"/>supra de fid instru. Squibus instrumentis. &amp; sub § item objiciti 
+      <lb ed="#C" n="51"/>instrumento, &amp; versic. sequeni 
+    </p>
+            <p xml:id="nbht7y-d1e1903-d1e762" n="4">
+               <lb ed="#C" n="52"/>QUasi autem falsum committitur, quando tutor vi 
+      <lb ed="#C" n="53"/>(curator, ante depositum officium cum fisco contr¬ 
+      <lb ed="#C" n="54"/>hit, vivente eo, de cujus tutela vel cura agitur. Secus si e¬ 
+      <lb ed="#C" n="55"/>mortuo, quamvis haeredi non reddiderit rationem. Iten 
+      <lb ed="#C" n="56"/>secus, si haereditario jure in fiscalem contractum succeda 
+      <lb ed="#C" n="57"/>etiam pupillo, vel adult. vivente. Item secus, si prim¬ 
+      <lb ed="#C" n="58"/>contraxerat cum fisco, &amp; postea suscepit tutelam vel cu 
+      <lb ed="#C" n="59"/>ram, licet ab ea se potuerit excusare, utff. eodem leg. prima, 
+      <lb ed="#C" n="60"/>cutores. Item &amp; quasi falsum committitur, quando sibi in 
+      <lb ed="#C" n="61"/>testamento ascribit aliquis, vt inde sentiat commodum 
+      <lb ed="#C" n="62"/>vel etiam servo suo, nisi in fideicommissaria libertate, in 
+      <lb ed="#C" n="63"/>qua is qui ascribit, moram fecerat, utff. ad leg Cornel de fa 
+      <lb ed="#C" n="64"/>impuberem, § item si servo. Potest autem ascribi ei, qui bo 
+      <lb ed="#C" n="65"/>na fide servit, vel in quo ususfructus habetur, ff. eodem im 
+      <lb ed="#C" n="66"/>puberem, §&amp; fisci, &amp; §si dominus, &amp; sic in servo bona fide po 
+      <lb ed="#C" n="67"/>sesso magis consideratur veritas, quam opinio, simile, s 
+      <lb ed="#C" n="68"/>de fur. inter omnes, § penultim. E contra traditur in general 
+      <lb ed="#C" n="69"/>magis considerandam opinionem, quam veritatem, uts 
+      <lb ed="#C" n="70"/>de usufruct. si quis, &amp; de acquirend haered is qui putat, &amp; dele¬ 
+      <lb ed="#C" n="71"/>3.leg. 1. in princ. Hoc autem quod dixi, me posse ascriber 
+      <lb ed="#C" n="72"/>servo, quem bona fide possideo, intelligas verum esse, n 
+      <lb ed="#C" n="73"/>si forte contemplatione mei legetur servo bona fide po 
+      <lb ed="#C" n="74"/>fesso, vel fructuario, tunc enim ascribere non debeo, cum 
+      <lb ed="#C" n="75"/>mihi quaeratur, uiff. de usufruct. sed &amp; si quid. Sicut etian 
+      <lb ed="#C" n="76"/>mihi ascribere non debeo, si nec ei, cujus potestate sum 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0746.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="77"/>vel qui in eadem parte est mecum, utf. eodem de eo, quoc 
+      <lb ed="#C" n="78"/>est mirabile, quia mihi nihil acquiritur, sed patri vel do 
+      <lb ed="#C" n="79"/>mino tantum. Potest tamen in filio illa ratio assignari 
+      <lb ed="#C" n="80"/>quia etiam vivente patre quodammodo dominus reri 
+      <lb ed="#C" n="81"/>paternarum intelligitur, ut Institut de haered. qualit. &amp; diff¬ 
+      <lb ed="#C" n="82"/>sed sui, in servo autem illa est ratio; quia a domino susten 
+      <lb ed="#C" n="83"/>tatur, &amp; expectat praemium ab eodem non tamen iden 
+      <lb ed="#C" n="84"/>est, cum quis ascribit uxori suae, ut f.eodem uxori. Sed et 
+      <lb ed="#C" n="85"/>iam potest intelligi, quod pater teneatur, vel dominus 
+      <lb ed="#C" n="86"/>quando eorum voluntate ascribitur, ut &amp; dicitur, ff. eo 
+      <lb ed="#C" n="87"/>dem dirus. Sin autem servo meo libertatem ascribam, uti 
+      <lb ed="#C" n="88"/>me magno pretio redimatur, teneor idem, si mihi legetu 
+      <lb ed="#C" n="89"/>fundus cum Titio, &amp; Titio ascribam, utff. eodem impube 
+      <lb ed="#C" n="90"/>rem, §penultim. Filio etiam meo ascribere non debeo, dun 
+      <lb ed="#C" n="91"/>est in potestate, nisi a commilitone suo, hoc legatum de 
+      <lb ed="#C" n="92"/>feratur, utff eodem si pater filio, vel nisi sit filius apud hostes 
+      <lb ed="#C" n="93"/>tunc enim si in captivitate decedat, non teneor, secus, s 
+      <lb ed="#C" n="94"/>revertatur, ui ff. eodem impuberem, paragrapho i. Alias fili¬ 
+      <lb ed="#C" n="95"/>in potestate mea constituro etiam exadventicia causa nmi 
+      <lb ed="#C" n="96"/>debeo ascribere, cum commodum ususfruct. ad me per 
+      <lb ed="#C" n="97"/>tineat, ut Institutio per quas personas no. acquir §1. Sed si ascri 
+      <lb ed="#C" n="98"/>bam extraneo, patet ex praemissis, quod non teneor, etiam 
+      <lb ed="#C" n="99"/>si servus sit, qui postea mihi subjiciatur, ut ff. eodem de eo¬ 
+      <lb ed="#C" n="100"/>§ulti. Sic patet, quando quis dicatur sibi ascribere. Nun 
+      <lb ed="#C" n="101"/>dicamus qualiter in testamento ascribatur: &amp; certe ita de 
+      <lb ed="#C" n="102"/>mum, si signatum sit, &amp; omnia adimpleta, quae in conse 
+      <lb ed="#C" n="103"/>ctione testamenti necessaria sunt, nam nec interdictum 
+      <lb ed="#C" n="104"/>de tabulis exhiben. aliter competit, non autem exigitur 
+      <lb ed="#C" n="105"/>ut sit perfectum, quantum ad praeteritiones, vel exhaere 
+      <lb ed="#C" n="106"/>dationes, vel irritationes, ut ff. de tab. exhibit. leg. 1. Incide 
+      <lb ed="#C" n="107"/>autem in poenam, qualitercunque commodum inde con¬ 
+      <lb ed="#C" n="108"/>sequar, largo modo sumpto vocabulo, sive logatum, siv 
+      <lb ed="#C" n="109"/>haereditatem, sive fideicommissum, sive libertatem, sivi 
+      <lb ed="#C" n="110"/>exhaeredationem illius, qui non exhaeredatus irritaret te 
+      <lb ed="#C" n="111"/>stamentum, &amp; sic mihi haeredi, vel legatario noceret sin¬ 
+      <lb ed="#C" n="112"/>demptione legatorum a me relictorum, ut ff. eo si quis, §.) 
+      <lb ed="#C" n="113"/>institutus. Item commodum intelligo quoquo modo ac 
+      <lb ed="#C" n="114"/>me prima facie deferatur, licet alii restituere tenear, ut f 
+      <lb ed="#C" n="115"/>eodem filius Sultim. leg, cum quidam 
+    </p>
+            <p xml:id="nbht7y-d1e1903-d1e908">
+               <lb ed="#C" n="116"/>EXcusatur autem aliquando is, qui sibi ascribit, ut si¬ 
+      <lb ed="#C" n="117"/>duobus haeredibus institutis aliquis dixerit, quod s 
+      <lb ed="#C" n="118"/>alteruter haeres sine liberis decessisset, ei qui superesset, &amp; 
+      <lb ed="#C" n="119"/>liberos haberet, haereditas redderetur: vel si sine liberi 
+      <lb ed="#C" n="120"/>uterque decessissent, ut haereditas deinde alia manu scri 
+      <lb ed="#C" n="121"/>ptori testamenti restitueretur, hoc est, testamentario, ve 
+      <lb ed="#C" n="122"/>testatori, id est, illi qui testamenrum scripsit, remittitur poe 
+      <lb ed="#C" n="123"/>na, &amp; debenignitate consequitur fideicommissum uiff 
+      <lb ed="#C" n="124"/>eodem dirus. §uli im. filius etiam haereditatem patris sibi a¬ 
+      <lb ed="#C" n="125"/>scribere potest, de aequitare non de jure stricto, ut C. de his 
+      <lb ed="#C" n="126"/>qui sibi ascri in testa. leg.1 &amp; F eodem filius emancipatus, respon) 
+      <lb ed="#C" n="127"/>i. secus inpatrono, nam ipse caret legato, &amp; venia impe 
+      <lb ed="#C" n="128"/>trata excommunicari potest, &amp; amittit bonorum poss. con 
+      <lb ed="#C" n="129"/>tra tab. ut f eodem si quis legatum §ultimo, &amp; sic pinguius jus 
+      <lb ed="#C" n="130"/>habet filius in haec editate patris, quam patronus in haere 
+      <lb ed="#C" n="131"/>ditate liberti, vnde per bonorum poss. contra tab. irrita 
+      <lb ed="#C" n="132"/>filius testamentum in totum, patronus pro parte, idec 
+      <lb ed="#C" n="133"/>ipsum filium cuilibet creditori exaequamus, ut in Institu 
+      <lb ed="#C" n="134"/>tio. de succ. liber. paragrapho si vero, &amp; ff de leg praest. leg. 1. Excu 
+      <lb ed="#C" n="135"/>satur etiam quis propter ignorantiam juris, si profiteatur 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="136"/>ADDITIO 
+      <lb ed="#C" n="137"/>a Absurdum fortasse lurisperitis non videbitur, si rubricellam 
+    </p>
+    <p>
+      <lb ed="#C" n="138"/>hanc. Quae literae falsae dicantur interjiciamus, quam ex Mart 
+      <lb ed="#C" n="139"/>huc transtulimus, falsae (inquit) dicuntur literae Papae, quan 
+      <lb ed="#C" n="140"/>do impetratae sunt sungesta falsitate. Et haec non valent, si 
+      <lb ed="#C" n="141"/>per falsitatem, vel malitiam impetrentur, secus, si per simpli 
+      <lb ed="#C" n="142"/>citatem, secundum distinct, cap super literis, de resrcipt. Item si 
+      <lb ed="#C" n="143"/>appareat charta rasa, vel im mutata in loco suspecto, vel quam 
+      <lb ed="#C" n="144"/>do lavatur charta vino, vel aqua. Si sigilla appareant rasa, 
+      <lb ed="#C" n="145"/>inter dilectos, ue fid. insirument. Item si probetur rem aliter ge 
+      <lb ed="#C" n="146"/>stam, instrumentum contineat, f. de pact. liurisgentium squo 
+      <lb ed="#C" n="147"/>fere. Not. autem, quod si clericus falsificet sidillum regis, ve 
+      <lb ed="#C" n="148"/>aliorum praelatorum literas, vel publica instrumenta non a 
+      <lb ed="#C" n="149"/>mittetvitam, autmenibrum, sed depositus ab ordinibus si 
+      <lb ed="#C" n="150"/>gnatur in fronte candenti ferro, &amp; exul erit, extra, dicto c. Fa¬ 
+      <lb ed="#C" n="151"/>ad aud entiam. Curiae tamen seculari trandi non debet, 50. dist4 
+      <lb ed="#C" n="152"/>episcopus Martis -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0747.xml-->
+      <pb ed="#C" n="730"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>se a legato discedere, ut C. de his, qui sibi in testa ascribunt, s 
+      <lb ed="#C" n="2"/>natusconsulto, &amp; hoc de aequitate, secus de jure stricto, ut su 
+      <lb ed="#C" n="3"/>pra eodem divus, in princip. Praesumetur autum ignoranti 
+      <lb ed="#C" n="4"/>propter malitiam, ut C. de his, qui sibi ascri, in testa quo ad hab 
+      <lb ed="#C" n="5"/>tus, &amp; propter rusticitatem, ut ff. de prob. cum de indebito. §. si 
+      <lb ed="#C" n="6"/>autem is qui. Item excusatur, si servus vel filius jussu domi 
+      <lb ed="#C" n="7"/>ni, vel patris sibi ascribat, vel legatum a se relictum adima¬ 
+      <lb ed="#C" n="8"/>utff. eodem senatus, &amp; l. si quis cum, §i. alius autem extraneu 
+      <lb ed="#C" n="9"/>non excusatur, nec valet quod sibi ascribit, quinimo tar 
+      <lb ed="#C" n="10"/>tundem de suo fisco praestare tenetur, ut d. l senatus, &amp; si qui 
+      <lb ed="#C" n="11"/>cum. §i. &amp; leg. impuberem, §qui codicillos, &amp; C. de his, qui sil 
+      <lb ed="#C" n="12"/>ascr. in test senatus. Sed &amp; jussus matris filium excusat,e 
+      <lb ed="#C" n="13"/>voluntas filli matrem, quae sibi ascribit, idem &amp; si servu 
+      <lb ed="#C" n="14"/>matris eidem ascribat, hi autem excusantur a poena, se 
+      <lb ed="#C" n="15"/>legato carent, nisi testator speciali subscriptione sua dica 
+      <lb ed="#C" n="16"/>se agnoscere legatum, si autem generali, nominando per 
+      <lb ed="#C" n="17"/>sonam ascribentis, valet, quantum ad filios, vel servost 
+      <lb ed="#C" n="18"/>stantis tantum, sed quo ad extraneos, pro nihilo est, uts 
+      <lb ed="#C" n="19"/>eodem l. . § inter, &amp; leg. divus, § plane, &amp; Sitem senatus, &amp; Squa 
+      <lb ed="#C" n="20"/>ri. &amp; C. de his, qui sibi ascri. in testa. leg. ultim. &amp; leg. 2 ubi auten 
+      <lb ed="#C" n="21"/>unus tantum quis sibi ascribit, tenet in praejudicium su 
+      <lb ed="#C" n="22"/>um, ut ff. eodem uxori §1. Illud notatu dignum, quod lice 
+      <lb ed="#C" n="23"/>in testamento mihi ascribere non debeam, me tamen d 
+      <lb ed="#C" n="24"/>ctante, &amp; alio scribente, legatum seu fideicommissum rit 
+      <lb ed="#C" n="25"/>relinquitur, ut C. de test. dictantibus. alias autem ascribenst. 
+      <lb ed="#C" n="26"/>netur paena leg. Cor. de fal. nisi venia tribuatur, ut C. de his, qu 
+      <lb ed="#C" n="27"/>sibi ascri intestam. leg. senatus, &amp; sequent. Sin autem test. 
+      <lb ed="#C" n="28"/>tor codicillis significaverit Titium testamentum dicta 
+      <lb ed="#C" n="29"/>se, subaudi, in quo Titius sibi ascripserat legatum, &amp;s 
+      <lb ed="#C" n="30"/>non solum dictavit, sed scripsit, non excusatur Titius 
+      <lb ed="#C" n="31"/>debet ergo a legato abstinere, &amp; poena falsi speciali ben¬ 
+      <lb ed="#C" n="32"/>ficio Principis remitti potest, sic loquitur, C. de his, qui sil 
+      <lb ed="#C" n="33"/>ascriI. 
+    </p>
+            <p xml:id="nbht7y-d1e1903-d1e1035" n="6">
+               <lb ed="#C" n="34"/>Qualis probatio in ea requiratur Et 
+      qui<lb ed="#C" n="35" break="no"/>dem luce clarior, si qu¬ 
+      <lb ed="#C" n="36"/>stio criminaliter proponatur, nam accusanti, &amp; accusat 
+      <lb ed="#C" n="37"/>incumbit probatio, &amp; acerrima debet fieri indago, non di 
+      <lb ed="#C" n="38"/>clinando ad dexteram, vel sinistram, ut C. eod. vbi &amp; de at 
+      <lb ed="#C" n="39"/>thore scriptore de falso arguere quaestio habetur, non obs 
+      <lb ed="#C" n="40"/>praerogativa decurionatus, vel alia, ut C. eodem si quis deci 
+      <lb ed="#C" n="41"/>rio. Verum in quaestione falsi sunt quaedam specialia, si 
+      <lb ed="#C" n="42"/>cundum Goff. nam licet ab initio requiratur probatio luc 
+      <lb ed="#C" n="43"/>clarior, tamen ex quo de instrumento producto habetu 
+      <lb ed="#C" n="44"/>certa suspicio de falso, pro falso habetur, nisi a parte pro 
+      <lb ed="#C" n="45"/>ducente veritas comprobetur, &amp; ad paenam proceditur, u 
+      <lb ed="#C" n="46"/>C de prob jubemus, quod alias contingit regulariter, 2. qu. 
+      <lb ed="#C" n="47"/>primo, ff. de pae. absentem. Secundo condemnatur quis sin 
+      <lb ed="#C" n="48"/>accusatore, quod alias non contingit regulariter, 2.q. 1.n. 
+      <lb ed="#C" n="49"/>hil f de mune. &amp; hono munerum, § defensores, &amp; in Evangelio 
+      <lb ed="#C" n="50"/>Mulier, vbi sunt qui te accusant? Nemo Domine. Nec 
+      <lb ed="#C" n="51"/>go te condemnabo. Tertio, si crimen falsi incidat, proni 
+      <lb ed="#C" n="52"/>ciatur in eo. C. eodem legi.ver. quod alias non servatur secund 
+      <lb ed="#C" n="53"/>IC. deor. iud aditae. Quarto, quia de hoc crimine convictu 
+      <lb ed="#C" n="54"/>statim deponitur, &amp; traditur curiae seculari. b inf. eo. ad fa¬ 
+      <lb ed="#C" n="55"/>sariorum, quod generaliter non obtinet, supra de jud cumn 
+      <lb ed="#C" n="56"/>ab homine, secundum Gof. sed casualiter tantum, ut no. si 
+      <lb ed="#C" n="57"/>pra de haer. §qua poena, ver. &amp; no. Sin autem civiliter agatur 
+      <lb ed="#C" n="58"/>levius procedit examinatio, ut C. eo. I. ult. potest enim de fals 
+      <lb ed="#C" n="59"/>agi criminaliter, vel civiliter, quocunque judicio proponem 
+      <lb ed="#C" n="60"/>elegerit primitus instituto, ut C. eo damus.l.i. &amp; quidem d 
+      <lb ed="#C" n="61"/>xerunt criminaliter primitus agendum, arg. C. de fid. instr. 
+      <lb ed="#C" n="62"/>2. &amp; Lult. Cognoscitur autem de falso civiliter per excet 
+      <lb ed="#C" n="63"/>tionem, vel replicationam, &amp; quandoque per actionem in 
+      <lb ed="#C" n="64"/>factum, nam qui nomine praetoris literas falsas ediderij 
+      <lb ed="#C" n="65"/>edictumve falsum proposuerit, actione in factum paenal 
+      <lb ed="#C" n="66"/>tenetur, quae forte continet agentis interesse, vel loquitu 
+      <lb ed="#C" n="67"/>de poena 50. aureorum, qua tenetur is, qui album praet¬ 
+      <lb ed="#C" n="68"/>ris corrupit, ut ff. eo qui nomine praetoris, &amp; de jur. om ju. si qui 
+      <lb ed="#C" n="69"/>id quod &amp; de in jus vocan. leg. penulti. &amp; secundum hoc agitu 
+      <lb ed="#C" n="70"/>infra 30. ann. sic intelligas, quod contineat interesse, &amp; no 
+      <lb ed="#C" n="71"/>sit penalis, alioquin intra annum tantum, ff. de his, qui deij¬ 
+      <lb ed="#C" n="72"/>vel effil si pero, haec autem actio. Illud tamen secundum Go 
+      <lb ed="#C" n="73"/>fred. notandum est, quod quaedam literae dicuntur falsae 
+      <lb ed="#C" n="74"/>quaedam falsatae. Falsae dicuntur duobus modis. Primo 
+      <lb ed="#C" n="75"/>quia per falsi suggestionem, vel veri suppressionem, im 
+      <lb ed="#C" n="76"/>petrantur, quae largo modo dicuntur falsae, f. eod. tit siqui 
+      <lb ed="#C" n="77"/>obrepserit, haec jurisdictionem conferunt. secundum ipsum 
+      <lb ed="#C" n="78"/>&amp; si non excipiatur valet, &amp; tenet, quod fit earum autho 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0747.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>ritate, de quo tu dic, ut notat. supra de rescrips. § quae possun 
+      <lb ed="#C" n="80"/>objici, sub) sed nunquid processus. Secundo dicuntur falsae 
+      <lb ed="#C" n="81"/>quae similitudinem verarum aliquam praetendunt, nihi 
+      <lb ed="#C" n="82"/>tamen veritatis habent, quia nec veram bullam, nec veran 
+      <lb ed="#C" n="83"/>scripturam, &amp; istae literae, quaenullae sunt, dicuntur falsae. sic 
+      <lb ed="#C" n="84"/>ut &amp; is, qui non est tutor, dicitur falsus tutor, &amp; falsum ti 
+      <lb ed="#C" n="85"/>stamentum, quod non est testamentum: &amp; iniquus modi 
+      <lb ed="#C" n="86"/>us, qui non est modius ff. de verbo. signific. Paulus, hae non con 
+      <lb ed="#C" n="87"/>ferunt jurisdictionem, nec valet quod fit authoritate ill¬ 
+      <lb ed="#C" n="88"/>rum, unde sententia lata authoritate talium literarum, ne 
+      <lb ed="#C" n="89"/>est executioni mandanda, infra codem super eo, imo contr¬ 
+      <lb ed="#C" n="90"/>talem sententiam, &amp; exceptio competit, &amp; restitutio da 
+      <lb ed="#C" n="91"/>tur, ff. de judic. si praetor, &amp; idem, si per falsos testes sententi 
+      <lb ed="#C" n="92"/>lata sit, ff. de re judic. si divus, &amp; lex dicit, quod judicati ex¬ 
+      <lb ed="#C" n="93"/>cutlo solet suspendi, &amp; soluti dari repetitio, si falsis instru 
+      <lb ed="#C" n="94"/>mentis circunventam esse religionem judicantis, crim 
+      <lb ed="#C" n="95"/>ne postea falsi illato, manifestis probationibus fuerit osten 
+      <lb ed="#C" n="96"/>sum, quod verum est, si judex fuerit falsa instrumenta se 
+      <lb ed="#C" n="97"/>cutus C si ex fal instru. Isi. &amp; l. qui falsis, &amp; l.i &amp; supra de seni 
+      <lb ed="#C" n="98"/>&amp; resud. cum l. &amp; A. sed &amp; si executor invenerit sententian 
+      <lb ed="#C" n="99"/>latam contra jus litigatoris, eam nihilominus exequi de 
+      <lb ed="#C" n="100"/>bet, nisi apud delegatum efficere possit, ut ab hoc oner¬ 
+      <lb ed="#C" n="101"/>ipsum absolvat, supra de offic. deleg pastoralis, §quis vero. Fal 
+      <lb ed="#C" n="102"/>satae vero dicuntur literae, quae &amp; si aliquid veritatis habent 
+      <lb ed="#C" n="103"/>puta veram bullam, vel veram scripturam, vel verum 
+      <lb ed="#C" n="104"/>trunque, aliquid tamen immutandum est de primordio ve 
+      <lb ed="#C" n="105"/>ritatis, ut no. supra eo. § qualiter committatur, sub§ porro, ver 
+      <lb ed="#C" n="106"/>2. &amp; 5. &amp; rersic sequent istae similiter jurisdictionem non tri 
+      <lb ed="#C" n="107"/>buunt, &amp; breviter tene de his, quod no. de aliis, supra eoden 
+      <lb ed="#C" n="108"/>rer secundo dicuntur falsae. Hoc etiam teneas, quod ubi au 
+      <lb ed="#C" n="109"/>thoritate talium literarum sententia lata est, revocand 
+      <lb ed="#C" n="110"/>est sine temporis praefinitione, ubi autem a vero judicel 
+      <lb ed="#C" n="111"/>ta est, sed praetextu falsi si civiliter agatur, per actionem ii 
+      <lb ed="#C" n="112"/>factum revocatur vsque ad 30. annos, ff.dere jud. divus, si cri 
+      <lb ed="#C" n="113"/>minaliter, usque ad 20. C. eo. tit querelam, si per modum exce 
+      <lb ed="#C" n="114"/>ptionis impugnetur perpetuo, quoniam exceptiones per 
+      <lb ed="#C" n="115"/>petuae sunt, f de exce. doli pure § fin. &amp; Inst de exceptio § pery¬ 
+      <lb ed="#C" n="116"/>tuae. C. eod. titul. si pactum, secundum Geff. de hoc dic, utno 
+      <lb ed="#C" n="117"/>supra, de exceptionibus, sub S haec dedilatoriis, versicul. sed nur
+    </p>
+            <p xml:id="nbht7y-d1e1903-d1e1224" n="7">
+               <lb ed="#C" n="118"/>Qualis sit, accusatio. Et certe privata, 
+      ni<lb ed="#C" n="119" break="no"/>si ubi tangit cemr 
+      <lb ed="#C" n="120"/>niter omnes, ut in falsa moneta, mensura, &amp; celata in testa 
+      <lb ed="#C" n="121"/>mento deleto, utff. co. Paulus, potest tamen dici publica, si 
+      <lb ed="#C" n="122"/>cundum Azo. quia inter publica judicia numeratur, ut s 
+      <lb ed="#C" n="123"/>de pub. iud. l.. Instit. de pub judi Suem lex Corn defal. Accusa 
+      <lb ed="#C" n="124"/>tio autem de falsa moneta locum habet, cum quis fabri 
+      <lb ed="#C" n="125"/>caverit falsam monetam, vel fabricari fecit, vel super e¬ 
+      <lb ed="#C" n="126"/>dedit auxilium, vel consilium, vel non prohibuit eam sa 
+      <lb ed="#C" n="127"/>bricari, qui tamen in totum eam fabricare noluit, justa pr 
+      <lb ed="#C" n="128"/>nitentia excusatur, ut ff.eo. qui falsam. Sed &amp; si quis aureo 
+      <lb ed="#C" n="129"/>nummos tingat, vel fingat, vel radat, capite punitar, utf 
+      <lb ed="#C" n="130"/>eodem qui nummos. Qui non sint aurei? Forte non tar 
+      <lb ed="#C" n="131"/>tam patietur poenam, sed pro fabricatione comburitur,i 
+      <lb ed="#C" n="132"/>C. de fal. mon. leg penultim. Dicunt tamen quidam, quod 
+      <lb ed="#C" n="133"/>in aureis solidis quis reperiatur adulter, comburitur. 
+      <lb ed="#C" n="134"/>in alia moneta capite punitur, &amp; sic intelligunt, Iproxim 
+      <lb ed="#C" n="135"/>allegat &amp; C. de fal. ino. leg. 1. §i. versitc. actore, &amp; capitalem poe 
+      <lb ed="#C" n="136"/>nam interpretantur minorem, id est deportationem. Sec 
+      <lb ed="#C" n="137"/>&amp; si fur ex auro, vel argento monetam publicam falso fa 
+      <lb ed="#C" n="138"/>ciat, illo punito pecunia in thesauro publico conservatur 
+      <lb ed="#C" n="139"/>ut i.qu.i.quod quidam in medio. Specialia consueverunt nota 
+      <lb ed="#C" n="140"/>ri quaedam circa falsam monetam. Primo, quod quilibe 
+      <lb ed="#C" n="141"/>admittit r ad accusationem, sicut in crimine laesae maje 
+      <lb ed="#C" n="142"/>statis. m infamis, ut C. de fal. imo. I pen. Secundo, quia con 
+      <lb ed="#C" n="143"/>victu Aesociis, sive consociis interrogatur contra illud 
+      <lb ed="#C" n="144"/>supra de confesc. i. Tertio, quod quilibet potest hunc falsa 
+      <lb ed="#C" n="145"/>rium capere contra illud, C. de exhibit &amp; intro. reis, neminem 
+      <lb ed="#C" n="146"/>Quarto quia damnatus non appellat contra illud, ff.deap 
+      <lb ed="#C" n="147"/>pellatio. non tantum. Quinto, quia si dominus in proxim 
+      <lb ed="#C" n="148"/>constitutus erat, publicatur praedium, in quo commissun 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="149"/>ADDITIO. 
+      <lb ed="#C" n="150"/>b Et traditur euriae seculari. J Adde gl. ordinariam in verbe, 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>linquatur, in c. ad abolendam, de haere. &amp; gl in verbe mox inc, si qui 
+      <lb ed="#C" n="152"/>sacerdotem, 11. q1 -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0748.xml-->
+      <pb ed="#C" n="731"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>est scelus, etiam si dominus ignoraverit, nisi vbi primo so 
+      <lb ed="#C" n="2"/>rescelus prodiderit perpetratum, quod si dominus lor 
+      <lb ed="#C" n="3"/>ge affuerit, nullam patitur poenam, sed actores ejus, qu 
+      <lb ed="#C" n="4"/>ministerium praestiterunt, capite puniuntur, viduae autem 
+      <lb ed="#C" n="5"/>&amp; si proximae sint de sola scientia non tenentur. Sed impi 
+      <lb ed="#C" n="6"/>beres, quorum aetas quid videat, ignorat: nec propter scier 
+      <lb ed="#C" n="7"/>tiam puniuntur, licet tutores si in proximo sint, cum non de 
+      <lb ed="#C" n="8"/>beant ignorare, quid in re pupilli avatur: in tantum pun 
+      <lb ed="#C" n="9"/>antur, in quantum pupillo fuerat inferendum, vt omni 
+      <lb ed="#C" n="10"/>haec probantur, C. de fal. non l. Nec excusatur quis obten 
+      <lb ed="#C" n="11"/>tu rescripti principis, subaudi fraudulenter eliciti superer 
+      <lb ed="#C" n="12"/>cudendo, sed paenam meretur suscipiens, &amp; furtum propris 
+      <lb ed="#C" n="13"/>petitionis amittit, nec juramentum super hoc scienter prae 
+      <lb ed="#C" n="14"/>stitum tenendum est. Sed potius de perjurio poenitenti 
+      <lb ed="#C" n="15"/>peragenda ignoranter tamen jurans etiam a perjurio ex 
+      <lb ed="#C" n="16"/>cusatur, ut supra de jurejur. quanto, &amp; junge, quod nota suj 
+      <lb ed="#C" n="17"/>de cens. §ex quibus caus. versic. quid si moneta mutetur, &amp; seque 
+      <lb ed="#C" n="18"/>Mutandi proprium nomen vel coonomen datur facultas 
+      <lb ed="#C" n="19"/>cuilibet libero, sicut ab initio quodlibet imponitur, dun 
+      <lb ed="#C" n="20"/>modo in fraudem nihil fiat. Sed in servo &amp; libero defrau 
+      <lb ed="#C" n="21"/>dare volente poena fassi coercetur, ut C. de muta nom legi 
+      <lb ed="#C" n="22"/>nica, &amp; ff eodem falsi nominis, ad quod accedit, supra de spon 
+      <lb ed="#C" n="23"/>tua nos, &amp; infra de cleric. non ord. minist.c.i. &amp; 2. &amp; de sent excon 
+      <lb ed="#C" n="24"/>perpendimus
+    </p>
+            <p xml:id="nbht7y-d1e1903-d1e1354">
+               <lb ed="#C" n="25"/>Et qualiter, puniatur Et quidem 
+      secun<lb ed="#C" n="26" break="no"/>dum legem poena
+      <lb ed="#C" n="27"/>falsi, &amp; quasi falsi est deportatio, &amp; bonorum publicatio. 
+      <lb ed="#C" n="28"/>falsarius liber fuerit. Sed si servus ultimo supplicio aff 
+      <lb ed="#C" n="29"/>cietur, utff.co.l.I.§ultim &amp; Insti. de pub judi. § item lex Corne 
+      <lb ed="#C" n="30"/>de fal. aliquando autem minor poena imponitur, vt no. suj 
+      <lb ed="#C" n="31"/>qualiter committatur, ver facto, &amp; versic. praeterea, &amp; ver. mu¬ 
+      <lb ed="#C" n="32"/>ta aliis modis, aliquando acris, ut in fal. mo. not sup. Squal 
+      <lb ed="#C" n="33"/>siu accusatio. ver. accusatio autem, &amp; sequen punitur, &amp; aliquat 
+      <lb ed="#C" n="34"/>do poena relegationis, f. eodem hodi. ff. de extraor. cri. annon. 
+      <lb ed="#C" n="35"/>Sonerant, aliquando etiam paena extraor. punitur, ut ff. depoe¬ 
+      <lb ed="#C" n="36"/>in Dardanario. In judicio vero animae aliquando impon 
+      <lb ed="#C" n="37"/>tur poenitentia 30. dierum, ut supra de contrahen. emp. cu. 2. quo 
+      <lb ed="#C" n="38"/>dic, ut notat. in sum. eodem tit. S quibus. Porro secundum ca 
+      <lb ed="#C" n="39"/>no. paena multiplex est, nam falsarius domini Papae, qui pe 
+      <lb ed="#C" n="40"/>se, vel alium falsitatem exercet, ipso jure cum omnib fau 
+      <lb ed="#C" n="41"/>toribus &amp; defensorib. suis anathematis vinculo est inno 
+      <lb ed="#C" n="42"/>datus, infra de his, qui scienter utun. lit. fal. Apostolicis. Sed tale 
+      <lb ed="#C" n="43"/>intra 20. dies a tempore notionis poenam excommunici 
+      <lb ed="#C" n="44"/>tionis evitant, secundum ea, quae not. supra Squaliter con 
+      <lb ed="#C" n="45"/>mittatur, ver. item usu etiam committitur, hoc dico de utenti 
+      <lb ed="#C" n="46"/>non de falsantibus, ut infra eo ad falsariorum. Quid ergo, s 
+      <lb ed="#C" n="47"/>quis per 20. dies literas tenuit, ex quo falsas literas novit 
+      <lb ed="#C" n="48"/>postea produxit in judicio: &amp; cum redargueretur de falsiti 
+      <lb ed="#C" n="49"/>te, incontinenti detraxit, vel renunciavit? proculdubio e¬ 
+      <lb ed="#C" n="50"/>communicatus est, sed tamen si occultum sit, eum ecclesi 
+      <lb ed="#C" n="51"/>non vitabit, currunt igitur eidem 20. dies a tempore scien 
+      <lb ed="#C" n="52"/>tiae occultae quo ad Deum. Sed quo ad ecclesiam a tempe 
+      <lb ed="#C" n="53"/>re scientiae publicatae, ad quod accedit, sup. de fimo sicutne¬ 
+      <lb ed="#C" n="54"/>bis, &amp; c. tua nos, in si &amp; infra de sen. excom. a nobis 2. quod auten 
+      <lb ed="#C" n="55"/>dixi, quod intra 20. dies vitetur poena, ut infra eod. dura, it 
+      <lb ed="#C" n="56"/>tellexit Goffre. in literis, quas quis per aliuin impetrav 
+      <lb ed="#C" n="57"/>rit, nam si per seipsum, vel conscius fuit, vel esse debuit, st¬ 
+      <lb ed="#C" n="58"/>tim poena incurritur, ut infra eo ad falsariorum: vt &amp; no su 
+      <lb ed="#C" n="59"/>ro. S qualiter committatur, ver. sed &amp; in ea. In falsario etian 
+      <lb ed="#C" n="60"/>domini Papae distinguitur, vtrum de falsitate dubitetur 
+      <lb ed="#C" n="61"/>vel certum sit. Si dubitetur, tunc est falsarius capiendus 
+      <lb ed="#C" n="62"/>&amp; in carcerem mittendus, &amp; super poena est summus Pon 
+      <lb ed="#C" n="63"/>tifex consulendus: utio dist in memoriam, sic intellige. infr 
+      <lb ed="#C" n="64"/>todem super eo. supra de rescrip c. 2 Sin autem pro certo scire 
+      <lb ed="#C" n="65"/>tur, quod esset falsarius non per suspicionem, sed per re 
+      <lb ed="#C" n="66"/>evidentiam, si clericus sit, degradandus est, &amp; potestati si 
+      <lb ed="#C" n="67"/>culari tradendus, secundum constitutiones legitimas pr 
+      <lb ed="#C" n="68"/>niendus, per quam &amp; laici convicti legitime puniantur, ut in 
+      <lb ed="#C" n="69"/>adsalsariorum, §1 clerici etiam ipso jure in hoc casu offic 
+      <lb ed="#C" n="70"/>is, &amp; beneficiis perpetuo sunt privati: ut ibidem, &amp; intell 
+      <lb ed="#C" n="71"/>gitur de illo, qui se vel alium falsavit. Sed ubi quis sciente 
+      <lb ed="#C" n="72"/>utitur literis ab alio falsatis, non est ipso jure privatus, 
+      <lb ed="#C" n="73"/>clericus sit. Sed est officio, &amp; beneficio spoliandus, id es 
+      <lb ed="#C" n="74"/>suspendendus: subaudi nihilominus excommunicatus 
+      <lb ed="#C" n="75"/>quousque digne satisfecerit, laicus etiam per eandem ser 
+      <lb ed="#C" n="76"/>tentiam excommunicationis ipso jure illatam satisface 
+      <lb ed="#C" n="77"/>re cogitum competenter intelligas in utroque ad arbitrius 
+      <lb ed="#C" n="78"/>Papae, quia nec per alium restitui poterit, nec absolvi, si 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0748.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>intelligo, infra codem ad falsariorum, Squi rero in prin. &amp; cap 
+      <lb ed="#C" n="80"/>dura §ult. arg. supra de praeb grare. §pen. Vel potest dici, quoc 
+      <lb ed="#C" n="81"/>quamvis absolutionem Papa sibi retinuerit: non tamen sa 
+      <lb ed="#C" n="82"/>tisfactionem, cum dicat in istis &amp; in illis, scilicet clericis8 
+      <lb ed="#C" n="83"/>laicis, malitiam gravius quam negligentiam puniendam 
+      <lb ed="#C" n="84"/>quod scilicet quod dixi de poena imponenda in utentib. lite 
+      <lb ed="#C" n="85"/>ris ab alio falsatis, &amp; de malitia gravius, quam negligenti 
+      <lb ed="#C" n="86"/>punienda, etiam de his, qui falsas literas impetrant, statui 
+      <lb ed="#C" n="87"/>tur observandum: ut infra eodem ad falsariorum, §qui rero. rer 
+      <lb ed="#C" n="88"/>ita tamen. Est autem malitia, quando expressim convin 
+      <lb ed="#C" n="89"/>citur de scientia. Negligentia, quando fuerunt affectatio 
+      <lb ed="#C" n="90"/>nes ignoratae, quia antequam uterentur, non examinave 
+      <lb ed="#C" n="91"/>runt diligenter, per se examinaverunt, cum simplices es 
+      <lb ed="#C" n="92"/>sent, nec consilium cum peritioribus habuerunt: &amp; ide¬ 
+      <lb ed="#C" n="93"/>sunt in culpa, quamvis ignorantiam allegent, ut infra eo a 
+      <lb ed="#C" n="94"/>salsariorum, respon 1. &amp; supra de cland. despon. cum inhibitio 
+      <lb ed="#C" n="95"/>quis vero, &amp; 37. dist §ultim. &amp; ff. ad Mac. legpen. &amp; infra de cler 
+      <lb ed="#C" n="96"/>excom. Apostolicae, talis enim negligenia prope dolum est 
+      <lb ed="#C" n="97"/>ui ff mandati si fidejus. &amp; de redhibi act. l.i. §si intelligatur. Sin 
+      <lb ed="#C" n="98"/>autem ita latet falsitas, quod in aperto videri non potest 
+      <lb ed="#C" n="99"/>&amp; per se, &amp; per alium omnem diligentiam adhibuit, nor 
+      <lb ed="#C" n="100"/>imputarem ei, alias contra, uiff de redhibi act leg1§ eam, &amp; 
+      <lb ed="#C" n="101"/>obquae ritia &amp; supra de homi. so. &amp; capit. ultnn. &amp; 5o dis. si duo 
+      <lb ed="#C" n="102"/>Et si quis accusetur falsas literas Apostolicas impetrasse 
+      <lb ed="#C" n="103"/>&amp; ipsis usum fuisse, coguntur testes nominatim testimo 
+      <lb ed="#C" n="104"/>nium ferre: ut supra de test cum contra magistrum. Hodie ei 
+      <lb ed="#C" n="105"/>iam contra tales est sententia excommunicationis sub cer 
+      <lb ed="#C" n="106"/>ta forma lata in curia, vt not supra eodem ( qualiter comni 
+      <lb ed="#C" n="107"/>tatur, sub § porro, versicu5 &amp; versicul., sed hodie. Si quis auten 
+      <lb ed="#C" n="108"/>clericus literas regis falsaverit, charactatur in facie. Pri 
+      <lb ed="#C" n="109"/>mo a suis ordinibus degradandus, provinciam abjurans, 8 
+      <lb ed="#C" n="110"/>sic abire permittitur, ut infra eodem ad audientiam, &amp; iden 
+      <lb ed="#C" n="111"/>intelligo de falsario cujuslibet Principis secularis, quia de 
+      <lb ed="#C" n="112"/>similib.idem judicium: ut supra de transa. inter corporalia, § 
+      <lb ed="#C" n="113"/>&amp; de rescript. inter caeteras, &amp; de statu monach. super quosdam 
+      <lb ed="#C" n="114"/>Falsarius vero episcopi deponitur, &amp; in monasterio detru 
+      <lb ed="#C" n="115"/>ditur, ut 5o. distin si quis clericus, secundum Da vel dic, quoc 
+      <lb ed="#C" n="116"/>est ab officio &amp; beneficio suspendendus, sive suspensu¬ 
+      <lb ed="#C" n="117"/>nunciandus, sicut &amp; falsarius capituli, donec indulgenti 
+      <lb ed="#C" n="118"/>am Sedis Apostolicae mereatur, ut supra de testi. nam literis 
+      <lb ed="#C" n="119"/>§ultm. Vel melius dictum Da. intelligitur, quando in 
+      <lb ed="#C" n="120"/>modum accusationis convincitur criminaliter accusatus 
+      <lb ed="#C" n="121"/>in modum autem inquisitionis convictus, habet locun 
+      <lb ed="#C" n="122"/>quod dixi, ut innuit illa decret. iam literis, vel quando sal 
+      <lb ed="#C" n="123"/>sarius civiliter convincitur ad hoc, ut benefirio ecclesia 
+      <lb ed="#C" n="124"/>stico privetur, quod habet locum etiam in salsario deles 
+      <lb ed="#C" n="125"/>vel quocunque vis alio, ut supra de rescri olim ex lueris, in fi¬e 
+      <lb ed="#C" n="126"/>de offic. deleg cum olim magiffer, cum ergo ab obtentu remo 
+      <lb ed="#C" n="127"/>veatur, multo fortius ab obtinendo repellitur, ut inf. de ex 
+      <lb ed="#C" n="128"/>ces. praelat. inter dilectos, § praeterea. Sed &amp; quae sit poena fal 
+      <lb ed="#C" n="129"/>sae chartae, ex dicto, vel tacito legitur: ut supra derescript. li 
+      <lb ed="#C" n="130"/>teris. Et notat. quod secundum quosdam non sufficit pro 
+      <lb ed="#C" n="131"/>bare testes esse falsos, nisi probentur corrupti, ut ff dere ju 
+      <lb ed="#C" n="132"/>dic divus supra de probat licet, Sidem quoque testes, &amp; hoc dice 
+      <lb ed="#C" n="133"/>bat Pla¬ Alii probabilius dicunt, ut Job. quod sicut suffi 
+      <lb ed="#C" n="134"/>cit probare instrumentum falsum esse, ut C si ex fal. instru 
+      <lb ed="#C" n="135"/>leg penultim, &amp; ultim. sic &amp; testes, cum pares habeant hinc 
+      <lb ed="#C" n="136"/>inde vires instrumenta, &amp; testes, C. de fid. instrum inexercen 
+      <lb ed="#C" n="137"/>dis, &amp; facit pro eis, f.de extept. qui agnit C. de transact si exsal 
+      <lb ed="#C" n="138"/>sis, non obst illa decret ficet, quia ibi se astrinxit ad proban 
+      <lb ed="#C" n="139"/>dum utrunque. Sed nunquid sufficit probare testes ess 
+      <lb ed="#C" n="140"/>corruptos, argum. quod sic 2. qu 6 §dissinitira, persi venales 
+      <lb ed="#C" n="141"/>suprae de vit &amp; hone cieric cum abomni econtra videtur, quoc 
+      <lb ed="#C" n="142"/>non, quia non sufficit probare corruptionem; nisi probe 
+      <lb ed="#C" n="143"/>tur, quod judex secutus fuerit dicta corruptorum, supr¬ 
+      <lb ed="#C" n="144"/>de rejudic. cum l. &amp; A. C si ex falsis instrum falsa, supra, de testi 
+      <lb ed="#C" n="145"/>bus, sicut nobis. Similiter non sufficit probare falsitatem, ni 
+      <lb ed="#C" n="146"/>si probetur judicem secutum esse illam, ut patet per pr¬ 
+      <lb ed="#C" n="147"/>dictajura. * In fin. notandum, quod qui falsum libel¬ 
+      <lb ed="#C" n="148"/>lum, vel famosum de aliquo composuit, convictus deca 
+      <lb ed="#C" n="149"/>pitatur. 5. quaestio.i.siquis, vel forte deportatur, &amp; effici 
+      <lb ed="#C" n="150"/>tur intestabilis, 4. quaestio 3 ob carmen, secundum canone 
+      <lb ed="#C" n="151"/>subjicitur verberibus, 5. q. 1.c. 1. Si vero sponte confiretur 
+      <lb ed="#C" n="152"/>mitius cum eo agitur, ea quie cap. 2 in fi. &amp; hoc, cum innocen 
+      <lb ed="#C" n="153"/>infamatur. Secus, si nocens, secundum Joan peccatae 
+      <lb ed="#C" n="154"/>nim nocentium nota esse &amp; oportet, &amp; expedit. ut ff de in 
+      <lb ed="#C" n="155"/>ju. eum qui &amp; Cdenjur. leg3. Quod intelligit Az0. in ju 
+      <lb ed="#C" n="156"/>dicio, nam nemo debet extra judicium aliquem, etiam 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0749.xml-->
+      <pb ed="#C" n="732"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>innocentem. infamare. Summa enim iniquitas est detra 
+      <lb ed="#C" n="2"/>here, &amp; qui fratri suo detrahit, homicida est, 6. quaesta sun 
+      <lb ed="#C" n="3"/>ma, tria enim genera homicidiorum dicebat esse beatus 
+      <lb ed="#C" n="4"/>Petrus &amp; poenam eorum parilem, quantum ad Deum, scil 
+      <lb ed="#C" n="5"/>cet de poen distm.i. homicidiorum, sicut enim homicidas dici 
+      <lb ed="#C" n="6"/>mus interfectores, sic detractores, &amp; odientes, ut no sup 
+      <lb ed="#C" n="7"/>de homi § quot species, &amp; infra de mjur. Squot modis. In summi 
+      <lb ed="#C" n="8"/>notandum est, quod sententia lata occasione falsarum ! 
+      <lb ed="#C" n="9"/>terarum, nullius est momenti, &amp; opponi potest excepti¬ 
+      <lb ed="#C" n="10"/>falsa, etiam post sententiam apud executorem, sup. de sen 
+      <lb ed="#C" n="11"/>&amp; rejud super eo f. de re judie, si praetor, nisi esset falsitas talis 
+      <lb ed="#C" n="12"/>quae ipso jure non redderet literas inutiles, sed per exce¬ 
+      <lb ed="#C" n="13"/>ptionem, tunc enim exceptio talis omissa post sententian 
+      <lb ed="#C" n="14"/>non opponetur, ut supra de sentent, &amp; re judi. mier monaster 
+      <lb ed="#C" n="15"/>an, nam sub praetextu novorum instrumentorum, &amp;c. u 
+      <lb ed="#C" n="16"/>supra de sentent &amp; rejudic. suborta, secundum Joan. de ho 
+      <lb ed="#C" n="17"/>notat supra eodem qualis, versicul. illud tamen, &amp; sequent, 
+      <lb ed="#C" n="18"/>supra, de rescripi. § quae possunt objici, sub § sed nunquid proce 
+      <lb ed="#C" n="19"/>sus, dic, ut ibi 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

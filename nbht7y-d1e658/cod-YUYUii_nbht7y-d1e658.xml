@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 11</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 11</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="230"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e658"><!-- nbht7y-l2t11 -->
+            <head xml:id="nbht7y-d1e658-Hd1e101">Titulus 11</head>
+            <head xml:id="nbht7y-d1e658-Hd1e103" type="question-title">De plus petitionibus</head>
+            <p xml:id="nbht7y-d1e658-d1e106">
+               <lb ed="#C" n="140"/>De plus petitionibus XI. Ru¬ 
+      <lb ed="#C" n="141"/>brica. 
+    </p>
+            <p xml:id="nbht7y-d1e658-d1e113">
+               <lb ed="#C" n="142"/>SUMMARIA. 
+      <lb ed="#C" n="143"/>1 Plus petatur quot modi 
+      <lb ed="#C" n="144"/>2 Poena plus petentis quae si 
+      <lb ed="#C" n="145"/>3 Paenam plus petitionis qualiter quis evitas 
+    </p>
+            <p xml:id="nbht7y-d1e658-d1e124">
+               <lb ed="#C" n="146"/>COntingit aliquando quod determini 
+      <lb ed="#C" n="147"/>tis incidentibus exceptio 
+      <lb ed="#C" n="148"/>nibus de quibus dictum est, in causis proce 
+      <lb ed="#C" n="149"/>ditur: &amp; quia plerunque actor plus petit 
+      <lb ed="#C" n="150"/>a quam deberet, ideo puniendus est apponii 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0248.xml-->
+      <pb ed="#C" n="231"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>ergo anthor de plus petitionibus. Hic videndum occu¬ 
+      <lb ed="#C" n="2"/>rit, Quot modis plus petatur. Quae poena plus petentium 
+      <lb ed="#C" n="3"/>Qualiter quis excusetur a poen¬ 
+    </p>
+            <p xml:id="nbht7y-d1e658-d1e151">
+               <lb ed="#C" n="4"/>Quot modis, plus petatur, patet in hocver 
+      <lb ed="#C" n="5"/>su. 
+      <lb ed="#C" n="6"/>
+               <quote xml:id="nbht7y-d1e658-Qd1e159">Plus petitur causa, tempore reque, re, loca</quote>
+               <lb ed="#C" n="7"/>Causa: si debes mihi equum ingenere, &amp; ego peto aliquen 
+      <lb ed="#C" n="8"/>specialiter &amp; praecise. vel debes mihi equum, vel capram 
+      <lb ed="#C" n="9"/>&amp; ego peto capram praecise, hic enim plus petere videor 
+      <lb ed="#C" n="10"/>quia quamvis capra vilior sit equo, tamen forte levius es 
+      <lb ed="#C" n="11"/>tibi dare equum, ideo non debeo electionem tibi auferre 
+      <lb ed="#C" n="12"/>imo eo modo quo promisisti, peti debet. ut inst. de act § hui 
+      <lb ed="#C" n="13"/>autem. &amp; § praeterea. Tempore; ut si debes mihi decem sol 
+      <lb ed="#C" n="14"/>vere in Pentecoste, &amp; ego peto in Pascha, vel si debes mih 
+      <lb ed="#C" n="15"/>sub conditione, puta, si Petrus factus fuerit episcopus, &amp; 
+      <lb ed="#C" n="16"/>ego peto, antequam conditio existat. ut inst. aeactio. §. ten 
+      <lb ed="#C" n="17"/>pore. Re, ut si debes mihi 10. &amp; ego peto 20. vel habeo pa¬ 
+      <lb ed="#C" n="18"/>tem mediam in fundo, &amp; peto totum, vel duas partes, u 
+      <lb ed="#C" n="19"/>inst. de act. §. plus autem quatuor modis petitur. Loco, ut si pro 
+      <lb ed="#C" n="20"/>misisti mihi dare 10. sextarios annonae, apud Dignam, 8 
+      <lb ed="#C" n="21"/>ego peto Sistarici, ubi forte carior est annona, non facien 
+      <lb ed="#C" n="22"/>mentionem de loco certo in quo promiseras. &amp; haec lo¬ 
+      <lb ed="#C" n="23"/>cum habent in oleo, frumento, vino, &amp; aliis quae per sin 
+      <lb ed="#C" n="24"/>gulas regiones diversa pretia habent, hic enim arbitrari: 
+      <lb ed="#C" n="25"/>actione proposita, habenda est ratio utilitatis promissi 
+      <lb ed="#C" n="26"/>ris, quam haberet, si in loco, in quo promiserat, solvisse 
+      <lb ed="#C" n="27"/>institut. de actia §. loco. super hoc vide quod not. supra de¬ 
+      <lb ed="#C" n="28"/>ro compet. §. quot modis. versic. ratione solutionis. De hi 
+      <lb ed="#C" n="29"/>quatuor modis plus petit. habes infra cap. unico § te quoqu 
+      <lb ed="#C" n="30"/>a dubitare. 
+    </p>
+            <p xml:id="nbht7y-d1e658-d1e214">
+               <lb ed="#C" n="31"/>Quae poena plus petentis. Olim fuit hae 
+      <lb ed="#C" n="32"/>poena, quia cade 
+      <lb ed="#C" n="33"/>bat a tota causa nisi juste errasset, puta si petebat ex testa 
+      <lb ed="#C" n="34"/>mento totum legatum, cujus pars in codicillis ademptae 
+      <lb ed="#C" n="35"/>rat. Sed si petens ignorabat, vel minori aetati parceretur 
+      <lb ed="#C" n="36"/>alias nunquam restituebatur. inst. de act. §. si quis agens. inde 
+      <lb ed="#C" n="37"/>fuit decret. antiqua. Solvitur laethiferae pactionis mal¬ 
+      <lb ed="#C" n="38"/>suasio, conscriptio, &amp; per injustitiam plus petentis sum 
+      <lb ed="#C" n="39"/>ma totius debiti vacuatur; quia dum diabolus ignoran 
+      <lb ed="#C" n="40"/>Dominum Jesum Christum Dominum fore propter hu 
+      <lb ed="#C" n="41"/>manitatem carnis, animam ejus, quae ei minime debeba 
+      <lb ed="#C" n="42"/>tur, credidit, arripere, plus petiit, quam deberet, &amp; ideo? 
+      <lb ed="#C" n="43"/>nimas alias amisit. &amp; sic primum peccatum solutum fuit 
+      <lb ed="#C" n="44"/>nam per passionem Christi redempti sumus, &amp; ejus livo 
+      <lb ed="#C" n="45"/>re sanati. Hodie vero si quis plus petierit causa, iudiciun 
+      <lb ed="#C" n="46"/>non procedet, sed condemnabitur actor ad omnes expe 
+      <lb ed="#C" n="47"/>sas in triplum, &amp; omne damnum quod perfulit reus occa 
+      <lb ed="#C" n="48"/>sione hujus contentionis. ut instit. de act. §. sed hoc quidem. S 
+      <lb ed="#C" n="49"/>quis autem plus petat re, non procedet petitio, &amp; conde 
+      <lb ed="#C" n="50"/>mnabitur actor in triplum, ejus quod reus expendit. u 
+      <lb ed="#C" n="51"/>inst. de act. §. triplici. Quid si loco plus petat, in hac causa pro 
+      <lb ed="#C" n="52"/>cedet judex, dum tamen in for. comp. agatur, &amp; veniet in 
+      <lb ed="#C" n="53"/>actione arbitraria, quanti interest rei plus solvere ubi con 
+      <lb ed="#C" n="54"/>venit, quam ubi convenitur. ff. de eo quod cer. loco. l.i. varia.1 
+      <lb ed="#C" n="55"/>sunt pretia rerum per diversas regiones &amp; civitates, ffde¬ 
+      <lb ed="#C" n="56"/>quod cer. loco. ideo &amp; nihilominus condemnandus est acto 
+      <lb ed="#C" n="57"/>in triplum ejus quod reus impedit nomine sportularum 
+      <lb ed="#C" n="58"/>ut inst. de act §. sed hoc quidem. secundum Goff. sed secund 
+      <lb ed="#C" n="59"/>AZO. si plus petatur causa, re vel loco, &amp; aliquid damni a¬ 
+      <lb ed="#C" n="60"/>ciderit reo nomine sportularum, in triplum condemn¬ 
+      <lb ed="#C" n="61"/>bitur actor, &amp; nihilominus ad alias expensas tenetur. S 
+      <lb ed="#C" n="62"/>vero tempore plus petitum sit, duplicantur induciae, qu 
+      <lb ed="#C" n="63"/>bus finitis reus non suscepit litem; nisi omnes expensa 
+      <lb ed="#C" n="64"/>antea recipiat ab actore, sicut de illo dicitur qui in poss mi 
+      <lb ed="#C" n="65"/>est. supra ut li. non cont. quoniam. §. in aliis &amp; inst de acti. §. intri 
+      <lb ed="#C" n="66"/>plum. &amp; S sed hoc quidem &amp; de excep. §. temporalis in fin &amp; §ho 
+      <lb ed="#C" n="67"/>die. infra eod, cap. unico. respon I. Quid si quis per faudem in 
+      <lb ed="#C" n="68"/>duxit me, ut cum deberem sibi 1o. tantum. 20. caverim. in 
+      <lb ed="#C" n="69"/>instrumento me ei deberi, &amp; postea illud plus etiam a me 
+      <lb ed="#C" n="70"/>petierit, &amp; lit. conte. fuerit, a toto debito cadit, salvis trans 
+      <lb ed="#C" n="71"/>actionibus super hoc factis, &amp; secundis cautionibus ser 
+      <lb ed="#C" n="72"/>confessionibus sic loquitur C. eod. I. unica. &amp; accedit C. ad 
+      <lb ed="#C" n="73"/>Velle. si mulici 
+    </p>
+            <p xml:id="nbht7y-d1e658-d1e310">
+               <lb ed="#C" n="74"/>Qualiter quis excusetur a pena Si litem nor 
+      <lb ed="#C" n="75"/>conte. &amp; poenam vitabit, ut C. eod. 
+      <lb ed="#C" n="76"/>unica. inf. eo.c.i.&amp; estratio, quia non petiit, sed petere voluit 
+      <lb ed="#C" n="77"/>Ide in jus vo: quamvis. f.remra. hab amplius in expensis auten 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0248.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>victus per suam confescionem, damnabitur in triplum 
+      <lb ed="#C" n="79"/>secundum Azo. Instit. de actio. §. tripli. &amp; in constit. Graeci 
+      <lb ed="#C" n="80"/>Leonis. secundum Pl. in simplum. quod ergo dixi in ho¬ 
+      <lb ed="#C" n="81"/>casu, quod cadat a toto debito, locum habet post lit. conte 
+      <lb ed="#C" n="82"/>&amp; quando per testes convincitur, secus, si per confessionem 
+      <lb ed="#C" n="83"/>sponte factam, vel delato, vel relato jurejur. nam tunc ni¬ 
+      <lb ed="#C" n="84"/>in vero debito, sed expensis tantum damnabitur secun 
+      <lb ed="#C" n="85"/>dum Azo. ff. de jurejur. eum qui. &amp; quod dixi de transact 
+      <lb ed="#C" n="86"/>intellisas. si bona fide facta sit; secus si per dolum. C. a 
+      <lb ed="#C" n="87"/>transactactione. I sub praetextu. secundum Azo. Alii dicun 
+      <lb ed="#C" n="88"/>quod in hoc casu tenet transactio super hoc dolo; &amp; pe¬ 
+      <lb ed="#C" n="89"/>dolum facta. Secus si fiat super re per dolum, quiâ tun 
+      <lb ed="#C" n="90"/>non valeret. ff. de condit. inde in summa. Cessat etiam poen¬ 
+      <lb ed="#C" n="91"/>constitutionis. C. si reus comperto dolo scienter iterum to 
+      <lb ed="#C" n="92"/>tum debitum confitetur, ideo dixi, salvis secundis confes 
+      <lb ed="#C" n="93"/>sionibu. videtur. in. tantum de suo donare velle. C. ad IFal. 
+      <lb ed="#C" n="94"/>ul. dereg jur. cujus per errorem. &amp; de cond. indeb. fideicom. C.quo¬ 
+      <lb ed="#C" n="95"/>ine. cau. I. 2. nec exigitur cursus biennii, sicut in Vell. C. a. 
+      <lb ed="#C" n="96"/>Vell. si mulier. quia hic est persona, quae statim sibi potui 
+      <lb ed="#C" n="97"/>praejudicare. Quid si actor non probat intentionem suan 
+      <lb ed="#C" n="98"/>nec convincitur, quod plus petierit. Sed eo non probant 
+      <lb ed="#C" n="99"/>reus absolvitur, nunquid condemnatur in aliquo? Sic, qui 
+      <lb ed="#C" n="100"/>si vellet iterum petere, obstaret exceptio reijud ubi ex a 
+      <lb ed="#C" n="101"/>lia causa petat, ff. de exce rei jud, cum quaeritur. Sed in expen 
+      <lb ed="#C" n="102"/>sis condemnabitur, arg, sup. de rescr c. sin. secundum ea, qua 
+      <lb ed="#C" n="103"/>no. inf. de cont § poena. sub §. hoc de expensis, &amp; ver praece. Tuto 
+      <lb ed="#C" n="104"/>res autem &amp; curatores talia perpetrantes, ipsi damnabun 
+      <lb ed="#C" n="105"/>tur, excusantur qui res haereditarias petunt, aut ratione 
+      <lb ed="#C" n="106"/>tutelae, vel curae, vel nego. gest. vel depositum repetunt 
+      <lb ed="#C" n="107"/>quasi ex successione, f. de reg. jur. qui in alterius, sive contr¬ 
+      <lb ed="#C" n="108"/>majores, sive contra minores agant hoc. &amp; superiores ple 
+      <lb ed="#C" n="109"/>ne leguntur in constitutione Graeca, quae incipit, Leonis 
+      <lb ed="#C" n="110"/>divae memoriae 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="111"/>ADDITIO 
+      <lb ed="#C" n="112"/>a In tribus primis plus petitionibus modis scilicet causa, re, o 
+      <lb ed="#C" n="113"/>tempore non proceditiudicium, hoc est, non tenebitur reu 
+      <lb ed="#C" n="114"/>litem contestari, nec progrediultra, &amp; actor tenebitur, &amp; 
+      <lb ed="#C" n="115"/>punietur, ut not. in §. tripli. §. tempore. §. sed haered. instit. de acti¬ 
+      <lb ed="#C" n="116"/>In quarto vero, scilicet quando plus loco petit. procedit qui 
+      <lb ed="#C" n="117"/>dem judicium si agatur in foro competenti, sed punietur a 
+      <lb ed="#C" n="118"/>ctor in interesse, noc est, quanti interest quod agatur alibi¬ 
+      <lb ed="#C" n="119"/>solvi, quam in loco solutionem destinato Martin. in Sum.ai 
+      <lb ed="#C" n="120"/>de plus pereni -->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

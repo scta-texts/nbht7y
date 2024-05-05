@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 30</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 30</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="372"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e870"><!-- nbht7y-l2t30 -->
+            <head xml:id="nbht7y-d1e870-Hd1e101">Titulus 30</head>
+            <head xml:id="nbht7y-d1e870-Hd1e103" type="question-title">De confirmatione utili vel inutili</head>
+            <p xml:id="nbht7y-d1e870-d1e106">
+               <lb ed="#C" n="134"/>De Confirmatione utili, vel inutili 
+      <lb ed="#C" n="135"/>XXX. Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e870-d1e113">
+               <lb ed="#C" n="136"/>SUMMARIA. 
+      <lb ed="#C" n="137"/>1 Confirmatio quid sit 
+      <lb ed="#C" n="138"/>2 Confirmationum species quot sunt 
+      <lb ed="#C" n="139"/>3 Confirmatio quot modis fiai 
+      <lb ed="#C" n="140"/>4 Confirmatio qualiter facienda su 
+      <lb ed="#C" n="141"/>Confirmatio a quo fieri debei 
+      <lb ed="#C" n="142"/>6 Confirmatio de qua re facienda siu 
+      <lb ed="#C" n="143"/>Confirmationis quis sit effectus 
+    </p>
+            <p xml:id="nbht7y-d1e870-d1e133">
+               <lb ed="#C" n="144"/>SVperioribus proximis titulis 
+      expe<lb ed="#C" n="145" break="no"/>divimus de his quae ap 
+      <lb ed="#C" n="146"/>pellationis beneficio suspenduntur, nun¬ 
+      <lb ed="#C" n="147"/>habendus est contractus de his quae confir 
+      <lb ed="#C" n="148"/>mationis praesidio muniuntur. &amp; sic dica 
+      <lb ed="#C" n="149"/>mus de confirma. &amp;c. secundum Goff. vel sic: quia ad judi 
+      <lb ed="#C" n="150"/>cem ad quem appellatur, pertinet confirmaro, vel infirmar 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0390.xml-->
+      <pb ed="#C" n="373"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>sententiam, ut no sup. de sen &amp; re jud sub rub. de sent §. quali 
+      <lb ed="#C" n="2"/>per inius. etiam app. &amp; quandoque accidit, quod eadem con 
+      <lb ed="#C" n="3"/>firinatio per appellationem secundo factam, quo ad effe 
+      <lb ed="#C" n="4"/>ctum, redditur inutilis. supra de offic. deleg. coram. videamu 
+      <lb ed="#C" n="5"/>de confirmatione &amp;c. Vel aliter: quoniam tectum judicio 
+      <lb ed="#C" n="6"/>rum aliquando per appellationem concutitur, ut notatu 
+      <lb ed="#C" n="7"/>supra de ipp. in princip. demum per confirmationem sanc 
+      <lb ed="#C" n="8"/>tur, id est, confirmatur, sive solidatur, vel restauratur, di 
+      <lb ed="#C" n="9"/>cendum est de confirma. &amp;c. Videamus igitur, Quid si 
+      <lb ed="#C" n="10"/>confirmatio, Quot sunt species confirmationum; Quo 
+      <lb ed="#C" n="11"/>modis fiat. Qualiter facienda sit, A quo fieri debet, De qu¬ 
+      <lb ed="#C" n="12"/>re facienda sit, Quis sit effectus confirmationis
+    </p>
+            <p xml:id="nbht7y-d1e870-d1e184">
+               <lb ed="#C" n="13"/>Quid sit? confirmatio. a Juris prius habiti 
+      corro<lb ed="#C" n="14" break="no"/>boratio: qui enim confirmat, nihil de no 
+      <lb ed="#C" n="15"/>vo dat, sed datum, vel aliter acquisitum corroborat. ff.d 
+      <lb ed="#C" n="16"/>jurisd omn. judi. &amp; quia ideo eadem res non potest dari 8 
+      <lb ed="#C" n="17"/>confirmari, quia datio &amp; confirmatio contraria sunt, u 
+      <lb ed="#C" n="18"/>apparet supra de praescript veniens §. nec obstare. quare in iden 
+      <lb ed="#C" n="19"/>subjectum cadere non possunt. infra de bap. majores. §. se¬ 
+      <lb ed="#C" n="20"/>adhuc. id est, quod si in privilegio contineatur donatio 
+      <lb ed="#C" n="21"/>necesse est, quod diversa respiciat, ut supra defid. inst. int¬ 
+      <lb ed="#C" n="22"/>dilectos. §. caeterum. Hoc fallit in confirmatione Papae ex cer 
+      <lb ed="#C" n="23"/>ta scientia facta, ubi quidem confirmatio est praecedenti 
+      <lb ed="#C" n="24"/>facti firma collatio, sive collata firmatio. nam jus firmun 
+      <lb ed="#C" n="25"/>tribuit confirmando supplens defectum de plenitudin 
+      <lb ed="#C" n="26"/>potestatis, infra de conces praebend. proposuit. &amp; cap. ex part e A 
+      <lb ed="#C" n="27"/>sten. eccles. &amp; c. sequ. supra ae elect. illa. sed &amp; aliquando dicitu 
+      <lb ed="#C" n="28"/>confirmare is, qui hoc quod dictum est, vel factum est 
+      <lb ed="#C" n="29"/>prosequendo jus suum potest infirmare, &amp; tunc confir 
+      <lb ed="#C" n="30"/>matio est juris pendentis, vel semipleni ratificatio, ub 
+      <lb ed="#C" n="31"/>quidem magis proprie ratificatio quam confirmatio po 
+      <lb ed="#C" n="32"/>test dici. ut supra de elect quod sicut &amp; c. auditis. &amp; infra de his 
+      <lb ed="#C" n="33"/>quae fiunt a praela, sine consen cap. § 2.&amp; 
+    </p>
+            <p xml:id="nbht7y-d1e870-d1e232">
+               <lb ed="#C" n="34"/>Quot sunt species conirmationum? Et 
+      qui<lb ed="#C" n="35" break="no"/>dem magistraliter potest tra 
+      <lb ed="#C" n="36"/>di, quod in genere duae sunt scilicet corroborativa, &amp; rati 
+      <lb ed="#C" n="37"/>ficativa. Sed corroborativarum, alia judicialis, alia pote 
+      <lb ed="#C" n="38"/>stativa. Judicialium, Alia voluntaria, Alia necessaria. Er 
+      <lb ed="#C" n="39"/>go in summa confirmationum quatuor sunt species. Pri 
+      <lb ed="#C" n="40"/>ma corroborativa judicialis voluntaria. Puta, quia in for 
+      <lb ed="#C" n="41"/>ma communi impetratur. ut not. infra eod §. qualiter versi¬ 
+      <lb ed="#C" n="42"/>hoc si quaeratur. &amp; §. quis sit effectus. versi. tu dic. Secunda cor 
+      <lb ed="#C" n="43"/>roborativa judicialis &amp; necessaria, ut illa quae fit causa co 
+      <lb ed="#C" n="44"/>gnita in praesentia partium, de qua not. infra eod § qualiter 
+      <lb ed="#C" n="45"/>persic. aliquando, sicut debet, &amp; versi. &amp; hoc teneas &amp; §. quis sit e 
+      <lb ed="#C" n="46"/>fectas. rers. 2. &amp; ver seq. Tertia corroborativa potestativa, 8 
+      <lb ed="#C" n="47"/>haec a solo Papa fieri potest. de hac supra eod. §. proxi. versi¬ 
+      <lb ed="#C" n="48"/>hoc fallit. &amp; infra eod S. quis sit effectus. ver efectus aut em, &amp; se¬ 
+      <lb ed="#C" n="49"/>Quarta ratificativa: de hac supra eod § proxi versi. sed &amp; ali 
+      <lb ed="#C" n="50"/>quando &amp; infra eod § qualiter. respon.i. &amp; S quis sit effectus. rer 
+      <lb ed="#C" n="51"/>effectas vero 
+    </p>
+            <p xml:id="nbht7y-d1e870-d1e274">
+               <lb ed="#C" n="52"/>Quot modis fiat Et quidem multis Fit enimti 
+      <lb ed="#C" n="53"/>cite per lapsum temporis, ut si a sen 
+      <lb ed="#C" n="54"/>tentia intra 10. dies non fuerit appellatum, ut no. supra d 
+      <lb ed="#C" n="55"/>app. §. intra quod tempus. sic &amp; in sententia arbitri taciturni 
+      <lb ed="#C" n="56"/>tatem 10. dierum emologatur, id est, confirmatur. suprad 
+      <lb ed="#C" n="57"/>arbi per tuas. C. de arb cum antea. quod dicut not. supra de art 
+      <lb ed="#C" n="58"/>§. qualiter. sed &amp; incasu per appellationem dicitur confi¬ 
+      <lb ed="#C" n="59"/>mari. ff.rem rat. ha. l. 3. §. falsus Item venditio facta a minor 
+      <lb ed="#C" n="60"/>25 ann. pubere tamen, per sacramentum confirmatur. C. 
+      <lb ed="#C" n="61"/>adver. vend. auth. sacramenta. &amp; venditio rei dotalis per sa 
+      <lb ed="#C" n="62"/>cramentum uxoris confirmatur, supra dejuretur. cum con 
+      <lb ed="#C" n="63"/>tingat. Et promisso usurarum. supra de jurjur. debitores. E 
+      <lb ed="#C" n="64"/>transactio. C. de transact. si quis major. Et statutum certi nu 
+      <lb ed="#C" n="65"/>meri canonicorum. supra de rest. constitutus: nec mirum 
+      <lb ed="#C" n="66"/>quia ipsum sacramentum aequiparatur confirmationi A 
+      <lb ed="#C" n="67"/>po. Sed. infra de praebend dilecto. §. t. versi. quanquam interdum 
+      <lb ed="#C" n="68"/>Et per secundam confessionem, &amp; transactionem. C. d 
+      <lb ed="#C" n="69"/>plus pe.l. unica. in fi &amp; per secundam cautionem cum lapsu 
+      <lb ed="#C" n="70"/>temporis. Cad Velle. senatus con si multer. §. sin autem. Et pe 
+      <lb ed="#C" n="71"/>lapsum temporis confirmatur matrimonium. infr. de spor 
+      <lb ed="#C" n="72"/>aa id quod. Et per carnis copulam, infra qui ma acc. non po 
+      <lb ed="#C" n="73"/>insuper. Et per expressum consensum, supra de elect quo¬ 
+      <lb ed="#C" n="74"/>sicut. respon.i. versic. quod si eos non vocatos ff. de ser. rust. praed. pi 
+      <lb ed="#C" n="75"/>fundum. Et per tactum. infra de his, quae si. a ma. parte cae¬ 
+      <lb ed="#C" n="76"/>ore. §. quia rero. &amp; de utroque potest intelligi, quod legitur 
+      <lb ed="#C" n="77"/>supra de renunc. quod in dubiis. Et per secundam sententian 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0390.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>confirmatur prima, &amp; per tertiam, prima &amp; secunda: pe¬ 
+      <lb ed="#C" n="79"/>quartam, prima, &amp; secunda, &amp; tertia. supra de offic. dele to 
+      <lb ed="#C" n="80"/>ram §i &amp; § si. aliquando in totum aliquando in partem infr¬ 
+      <lb ed="#C" n="81"/>de testa c. Raynaldus. §. pen &amp; fi. Et per literas, seu privilegi¬ 
+      <lb ed="#C" n="82"/>superioris, &amp; maxime Domini Papae, inf. eo. honae. &amp; cpen e 
+      <lb ed="#C" n="83"/>fin. inf. de decim. dudum. supra de praescrauditis, &amp; supra de restit 
+      <lb ed="#C" n="84"/>in integ. auditis. 
+    </p>
+            <p xml:id="nbht7y-d1e870-d1e352">
+               <lb ed="#C" n="85"/>Qualiter facienda sit. Etcerte aliquando sicut pla¬ 
+      <lb ed="#C" n="86"/>cet, sine causae cognitione, ut patet supra in 
+      <lb ed="#C" n="87"/>exemplis. supra eod. &amp; proxim, a princ. usque ad versi. &amp; 
+      <lb ed="#C" n="88"/>per secundam. Aliquando sicut debet, &amp; cum causae co¬ 
+      <lb ed="#C" n="89"/>gnitione: ut quando in judicio contradicitur confirma 
+      <lb ed="#C" n="90"/>tionem petenti. infra eod bonae. &amp; de hoc. supra eod §. proxim 
+      <lb ed="#C" n="91"/>ver. &amp; per secundam. ubi quidem, &amp; si periculum immineat 
+      <lb ed="#C" n="92"/>innovatur privilegium antiquum. quod forte scriptum 
+      <lb ed="#C" n="93"/>est in papyro, ut tamen per hoc nullum novum jus tribua 
+      <lb ed="#C" n="94"/>tur. infra eod cum dilecta. § nos igitur. &amp; § fi. inf. de priv. ex pari 
+      <lb ed="#C" n="95"/>abbaissae. in fi. Et hoc teneas, quod ubicunque per confir¬ 
+      <lb ed="#C" n="96"/>mationem paratur alii praejudicium, quo ad transactioni 
+      <lb ed="#C" n="97"/>vel sententiam latam, vel aliter qualitercunque nunquam 
+      <lb ed="#C" n="98"/>facienda esset confirmatio; nisi partibus communiter ha 
+      <lb ed="#C" n="99"/>confirmationem petentibus, supra de transact. c.I. infra eo. ve 
+      <lb ed="#C" n="100"/>nerabilis. vel nisi constet. quod ita convenerit inter partes 
+      <lb ed="#C" n="101"/>supra de pac. quoties. vel nisi generalis ordinatio facta ex con 
+      <lb ed="#C" n="102"/>scientia Papae confirmetur. &amp; sic potest intelligi. infra eod 
+      <lb ed="#C" n="103"/>c. fin. vel specialis de mandato suo expressa facta. inf. de con 
+      <lb ed="#C" n="104"/>ces praeb. cum nostris. §. auditor igitur. seq. &amp; sic potest intelligi 
+      <lb ed="#C" n="105"/>sup. de offi. deleg coram. ad fi. vel nisi examinato negotio, &amp; 
+      <lb ed="#C" n="106"/>plene discusso, in praesentia partium non concordantium 
+      <lb ed="#C" n="107"/>infra de priv. cum olim. infra &amp; 2. Hoc si quaeratur de confir¬ 
+      <lb ed="#C" n="108"/>matione jus tribuente: secus, de illa, quae in forma com 
+      <lb ed="#C" n="109"/>muni quotidie impetratur, ut patet. infr. de conces praeb qui 
+      <lb ed="#C" n="110"/>diversitatem. §.i. &amp; ne se vac. c. I. §. attendentes. &amp;c. alla. quamvi 
+      <lb ed="#C" n="111"/>Papa aliter plerunque faciat. maxime circa beneficia. u 
+      <lb ed="#C" n="112"/>apparet in eisdem juribus &amp; in eo quod no. supra eo. §. qui¬ 
+      <lb ed="#C" n="113"/>sit confirmatio. vers hoc fallit. hoc tamen de jure servari debe¬ 
+      <lb ed="#C" n="114"/>ut patet supra de major. &amp; obed interquatuor. &amp; de off. archi. ac 
+      <lb ed="#C" n="115"/>haec ad si supra de rescript. cap. 2. &amp; cap. ad aures, supra de offic. de 
+      <lb ed="#C" n="116"/>leg. super eodem infra de statu mo. in singulis §. porro. C. de einan 
+      <lb ed="#C" n="117"/>ci. nec avus ff. ne quid in lo publ. l. 2. §. merito. &amp; §. siquis a prin
+    </p>
+            <p xml:id="nbht7y-d1e870-d1e426">
+               <lb ed="#C" n="118"/>A quo fieri debet Et quidem cum sint qua 
+      <lb ed="#C" n="119"/>tuor species, ut no. supr eo. § 
+      <lb ed="#C" n="120"/>quot species. scire debes, quod corroborativa quaecunque 
+      <lb ed="#C" n="121"/>sit illa a superiore petenda est, licet potestativa a solo pe 
+      <lb ed="#C" n="122"/>tatur Papa, ut patet in his, quae no supra eod § quid sit confir¬ 
+      <lb ed="#C" n="123"/>imatio ver. hoc fallit. alia autem sc. corroborativa, judicia 
+      <lb ed="#C" n="124"/>lis, voluntaria &amp; necessaria, nedum a Papa, sed etiam pro 
+      <lb ed="#C" n="125"/>ximo superiore peti potest, nec ab inferiore, vel pari. &amp; es 
+      <lb ed="#C" n="126"/>ratio, quia par in parem non habet imperium. ff. dear nan 
+      <lb ed="#C" n="127"/>magistratus. supra de elect. innotuit. §. quamvis. multo minu: 
+      <lb ed="#C" n="128"/>inferior in superiorem, ff. de mino. minor magistratus supra d¬ 
+      <lb ed="#C" n="129"/>ma. &amp; obe, cum inferior. 21. dist. inferior. Hoc tamen videtur 
+      <lb ed="#C" n="130"/>fallere, quia delegatus secundus confirmat sententiam 
+      <lb ed="#C" n="131"/>primi delegati, supra de rescriptt. 2. sed ibi primus delegatus 
+      <lb ed="#C" n="132"/>desiit esse judex &amp; secundus fit superior per secundam 
+      <lb ed="#C" n="133"/>commissionem. arg. supra de offic. dele sane quia item vioc 
+      <lb ed="#C" n="134"/>tur fallere, quia legatus confirmat sententiam delegat, 
+      <lb ed="#C" n="135"/>Apo. Sed supra de offi. leg studuisti. &amp; episcopus sententiam 
+      <lb ed="#C" n="136"/>episcopi supr. de treu. &amp; pa.c.i.§. sed dic. quod ibi ponitur im 
+      <lb ed="#C" n="137"/>proprie, confirmetur &amp; confirmare quasi dicat legatus po 
+      <lb ed="#C" n="138"/>test sententiam delegati confirmare, id est, approbare S 
+      <lb ed="#C" n="139"/>ratificare, potius quo ad factum executionis, &amp; observ¬ 
+      <lb ed="#C" n="140"/>tionis, quam quo adjus confirmationis, ut ibi innuit: ve 
+      <lb ed="#C" n="141"/>ad preces delegati hoc faciat sicut juste lata est, secundum 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="142"/>ADDITIO 
+      <lb ed="#C" n="143"/>a Quid sit confirmatio.) Adde Doct. in rub eo tit 
+      <lb ed="#C" n="144"/>b Adde etiam ex Mart. eodem tiru. in sum. alium confirmand 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>modum, nempe juramentum veluti si minor rem alienet, &amp; 
+      <lb ed="#C" n="146"/>juret non contra venire de quo. C. si adver. vendi. authen. sacra 
+      <lb ed="#C" n="147"/>menta puberum. Similiter cum mulieres consentiunt aliena 
+      <lb ed="#C" n="148"/>tioni rerum dotalium, vel donationis propter nuptias, &amp; ne 
+      <lb ed="#C" n="149"/>contra veniant, firmant proprio juramento, ut extra de iureiu 
+      <lb ed="#C" n="150"/>cum contingat. Similiter, cum debitor promitrit dare usuras 
+      <lb ed="#C" n="151"/>&amp; hoc confirmat juramento, quia tunc etiam excipere nos 
+      <lb ed="#C" n="152"/>potest. C. de iureinr. debitores. -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0391.xml-->
+      <pb ed="#C" n="374"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>Bert &amp; sic potest aliquis confirmare, qui non potest infir 
+      <lb ed="#C" n="2"/>mare, sicut &amp; potest aliquando quis absolvere, qui no 
+      <lb ed="#C" n="3"/>posset condemnare. C. ubi sena. vel cla. Isi. in auth. ut clerici a 
+      <lb ed="#C" n="4"/>pud proprios episcopos §. si tamen, col. 6. contra, ff. de re judic. qu 
+      <lb ed="#C" n="5"/>condemnare ff. de reg ju. ejus, de poen.disti. verbum. secundun 
+      <lb ed="#C" n="6"/>Goffr. Ergo a superiore petenda est haec confirmatio. si¬ 
+      <lb ed="#C" n="7"/>intellige supra de elect nihil est, &amp; not. de hoc supra de elect. 
+      <lb ed="#C" n="8"/>a quo confirmanda sit sed consuetudo hanc majoritatem tri 
+      <lb ed="#C" n="9"/>buit supra de consue. dilectus. § pen. &amp; ultim. Petenda est et 
+      <lb ed="#C" n="10"/>iam ab alio, quam ab illo qui fecit id quod petitur confir 
+      <lb ed="#C" n="11"/>mari. arg inf. de inst.c. si. infra de jur. pa. per vestras. infra debapi 
+      <lb ed="#C" n="12"/>debitum nisi forte idem gerat vices duorum supra de eles 
+      <lb ed="#C" n="13"/>cum inter universas metropoles. ad fi. &amp;c. cum inter canonicos Sa 
+      <lb ed="#C" n="14"/>von. reperitur tamen aliquando, quod idem dat, &amp; confir 
+      <lb ed="#C" n="15"/>mat, sed tunc, nisi ad diversa referatur, potius obest, quan 
+      <lb ed="#C" n="16"/>prosit: nisi forte sic intelligatur, damus &amp; confirmamus 
+      <lb ed="#C" n="17"/>hoc est, damus, &amp; sic datum confirmamus. sed in tali cas 
+      <lb ed="#C" n="18"/>non plus operatur confirmatio quam datio, sicut nec si 
+      <lb ed="#C" n="19"/>successore fiat. ad hoc. supr. defianst. inter dilectos, §. caeterum 
+      <lb ed="#C" n="20"/>infra de loc. &amp; cond. ci. ubi legatus successor confirmat con 
+      <lb ed="#C" n="21"/>stitutionem legati praedecessoris, &amp; tamen sufficeret, quoc 
+      <lb ed="#C" n="22"/>non revocaret supra de offic. leg. c. fi. Ratificativa vero con 
+      <lb ed="#C" n="23"/>firmatio sieri debet ab illo quem res tangit: ut habes pe 
+      <lb ed="#C" n="24"/>plura exempla. sup. eo. §. quot modis a principio usque ad versic. E 
+      <lb ed="#C" n="25"/>per secundam 
+    </p>
+            <p xml:id="nbht7y-d1e870-d1e543">
+               <lb ed="#C" n="26"/>De qua re facienda sit.* Et quidem de qualibet 
+      ju<lb ed="#C" n="27" break="no"/>ste &amp; pacifice possessa, sive corporalis sit 
+      <lb ed="#C" n="28"/>sive incorporalis: nam aliae res sunt corporales, aliae incor 
+      <lb ed="#C" n="29"/>porales, ut Insti de reb, corp &amp; incorpo pertotum. confirmatu 
+      <lb ed="#C" n="30"/>enim sententia supr de sen. &amp; re. jud ea, quae &amp; c.causam. in 
+      <lb ed="#C" n="31"/>anfra de testa. Raynutius. &amp; no supra eo. quot modis. rer. &amp; per s. 
+      <lb ed="#C" n="32"/>cunda. Statuta. sup. derest cum accessissent, Beneficia. inf. eo. ad no 
+      <lb ed="#C" n="33"/>stran infne se. vac. c. 2. hoc tamen aliquoties non petitur nisi 
+      <lb ed="#C" n="34"/>Papa: alias effectu caret. sup. de fil. presb. c. pe. &amp; si. supr. de elect 
+      <lb ed="#C" n="35"/>dudum. 2§. nos igitur. Coniractis sup. de pac. quoties Arbitraria 
+      <lb ed="#C" n="36"/>infra eod. examinata. Compositiones sive transactiones. infi 
+      <lb ed="#C" n="37"/>to c si supra de transact.c. fi. Electiones. supr. de elect. postquan 
+      <lb ed="#C" n="38"/>Possessiones inf. de reli do, constitu. inf de deci. dudum. Privile 
+      <lb ed="#C" n="39"/>gia 96. dist. Constantinus supra defi. instr. inter dilectos. Postul¬ 
+      <lb ed="#C" n="40"/>tio autem non confirinatur, quamvis hoc petatur, sed di 
+      <lb ed="#C" n="41"/>judicatur. sup. de postu praelbonae 25. nec nocibat. &amp; si invenia 
+      <lb ed="#C" n="42"/>tur, canonica admittitur sup. de elect, scriptum. vel si sit mi 
+      <lb ed="#C" n="43"/>nus canonica, non admittitur. sup. de postu praela bonae. i.ve 
+      <lb ed="#C" n="44"/>etiam irritatur. sup. de postu praela c si secundum Goff de hoc, su 
+      <lb ed="#C" n="45"/>pra de postu praela § quis sit effectus. Item quod non est, conf¬ 
+      <lb ed="#C" n="46"/>mari non potest sic nec collegio, quod non est, privilegii 
+      <lb ed="#C" n="47"/>dari potest. inf. de eccl. aedisic. ad audientiam 2. in si. forte a Pap 
+      <lb ed="#C" n="48"/>fiet, qui sicut potest infectum irritare de plenitudine po 
+      <lb ed="#C" n="49"/>testatis, ut inf. de praeb. inter caeteras. &amp; sup. de elec. innotuit ins 
+      <lb ed="#C" n="50"/>sic &amp; potest quod nondum est confirmare. ar. sup. de consu 
+      <lb ed="#C" n="51"/>cum olim. &amp; inf. de sepul. in nostra S talem. &amp; de test. offi. in quit 
+      <lb ed="#C" n="52"/>patet, quod privilegium suum extenditur ad futura, und 
+      <lb ed="#C" n="53"/>tota die apponitur in privilegiis, confirmamus tibi bona 
+      <lb ed="#C" n="54"/>quae nunc habes, vel quae dante domino in posterum po 
+      <lb ed="#C" n="55"/>teris adipisci: nolo disputare de plenitudine potestati: 
+      <lb ed="#C" n="56"/>Praeterea res, quae non possidetur pacifice, vel litigios 
+      <lb ed="#C" n="57"/>non confirmatur. inf eo c. 1. &amp; no. supr. ut lite pend. §. &amp; quali 
+      <lb ed="#C" n="58"/>E ter haec regula intelligatur. 
+    </p>
+            <p xml:id="nbht7y-d1e870-d1e618">
+               <lb ed="#C" n="59"/>Quis sit effectus confirmationis Haec est dissensio 
+      <lb ed="#C" n="60"/>dixit enim Vincen. quod si Papa confirme 
+      <lb ed="#C" n="61"/>alicui ecclesiam, vel aliam quam pacifice possidet, &amp; pos 
+      <lb ed="#C" n="62"/>talem confirmationem objiciatur possidenti, quod ipsan 
+      <lb ed="#C" n="63"/>rem minus canonice possidet, non est licitum judici ho 
+      <lb ed="#C" n="64"/>determinare sine mandato Papae speciali. sin autem o 
+      <lb ed="#C" n="65"/>ponatur eicrimem de novo exortum, de hoc potest cogno 
+      <lb ed="#C" n="66"/>scere, sic intellexit. inf eo .c. &amp; 2. &amp; in hoc videtur Gof. con 
+      <lb ed="#C" n="67"/>cordare. Sed hoc videtur absurdum: nam si hoc verum sit 
+      <lb ed="#C" n="68"/>quilibet potest jurisdictionem ordinariam, quo ad rei 
+      <lb ed="#C" n="69"/>quam possidet, evitare: cum hujus confirmationis incuri¬ 
+      <lb ed="#C" n="70"/>Pro modico, sine lectione, &amp; de facili habeantur: &amp; si 
+      <lb ed="#C" n="71"/>contradicit, supratit. 2. ut debitus. supra de rescrip. ad hoc sumu 
+      <lb ed="#C" n="72"/>l1 quaesti pervenit. Ideo dixit Laur. quod si quaeritur, utrun 
+      <lb ed="#C" n="73"/>confirmatio valeat, vel rite facta sit, de hoc non cogno 
+      <lb ed="#C" n="74"/>scet aliquis, nisi mandatum habeat speciale supra de ju¬ 
+      <lb ed="#C" n="75"/>kn penissent. quod verum est, nisi forte objiciatur surre 
+      <lb ed="#C" n="76"/>Ptio rescripti. de re tamen nihilominus ordinarius judi 
+      <lb ed="#C" n="77"/>cabit. sic intellexit. infra eodem. cap. 1. &amp; 2. huic tamen opi 
+      <lb ed="#C" n="78"/>nioni ipsa litera contradicit: tu ergo dic cum Tan. distin 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0391.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>guendum esse inter confirmationem, quae impetratur in 
+      <lb ed="#C" n="80"/>forma communi, sicut pacifice possidens, &amp; illam, quae fit 
+      <lb ed="#C" n="81"/>ex certa scientia cum causae cognitione. Illa enim confir¬ 
+      <lb ed="#C" n="82"/>matio, quae in forma communi conceditur, nullum aui 
+      <lb ed="#C" n="83"/>modicum jus tribuit, sed vetus tantum conservat. 12. distin 
+      <lb ed="#C" n="84"/>praeceptis. argum. 30. q. 3.c. si. inf. de privi quia intentionis &amp; idec 
+      <lb ed="#C" n="85"/>per talem confirmationem non impeditur petitio alte¬ 
+      <lb ed="#C" n="86"/>rius, vel cognitio judicis. infra de conces praeb. quia diversita 
+      <lb ed="#C" n="87"/>tem. infra ne se. vacan.c. 2. supra de const. ex parte 9 ui 3. conquestus 
+      <lb ed="#C" n="88"/>&amp;c nunc vero. supr. de offic. ordin. licet ffne quid in lo pub l. 2. §. l 
+      <lb ed="#C" n="89"/>quis a principe. &amp; merito. C. de emanc. nec avus. maxime, qui¬ 
+      <lb ed="#C" n="90"/>per tales confirmationes, vel per privilegia nunquam in 
+      <lb ed="#C" n="91"/>tendit juri dioecesani praejudicium generare supra de offic 
+      <lb ed="#C" n="92"/>deleg. super eo infra eo. c. si. infra de deci. dudum. §. si. Quid ergi 
+      <lb ed="#C" n="93"/>operatur talis confirmatio? Ut majoris authoritatis sit, &amp; 
+      <lb ed="#C" n="94"/>magis timeatur. iidist. quis nesciat 23. dist quanquam. sic est 
+      <lb ed="#C" n="95"/>&amp; ubi Papa aliquem sub protectione sua recipit. Nam nec 
+      <lb ed="#C" n="96"/>talis eximitur ab ordinaria potestate. infra de privil. ex par 
+      <lb ed="#C" n="97"/>te 2. &amp;c. recipimus. sed inagis timenda est offensio talis, &amp; 
+      <lb ed="#C" n="98"/>etiam magis est honorandus arg. infr. de majo. &amp; ob per tuas 
+      <lb ed="#C" n="99"/>puto etiam, quod talis confirmatio titulum praebeat prae 
+      <lb ed="#C" n="100"/>scribendi. quamvis Goffred. contrarium notaverit, sec 
+      <lb ed="#C" n="101"/>expressum est satis infra de deci. dudum § caeterum. ibi, ne¬ 
+      <lb ed="#C" n="102"/>a confirmatione praefata tantum effiuxit temporis, &amp;c &amp; 
+      <lb ed="#C" n="103"/>infra de rel domi constituius §. 1. ibi, in quibus etiam robis. &amp;c 
+      <lb ed="#C" n="104"/>usque ad fi §. &amp; §. i. &amp; infra de ju pa cura. Sic patet quis sit 
+      <lb ed="#C" n="105"/>effectus confirmationis corroborativae judicialis volun 
+      <lb ed="#C" n="106"/>tariae. Secundae vero confirationis scilicet quae fit cum 
+      <lb ed="#C" n="107"/>causae cognitione, ex certa scientia magnus est effectus 
+      <lb ed="#C" n="108"/>hoc enim si per Papam fiat, jus tribuit: tale videlicet, quo 
+      <lb ed="#C" n="109"/>de re, vel beneficio sic confirmato non potest aliquis co 
+      <lb ed="#C" n="110"/>gnoscere, nisi Papa, vel cui specialiter hoc commisit. &amp; si¬ 
+      <lb ed="#C" n="111"/>debet intelligi. infra eod cap.i. &amp; 2 de tali confirmatione ha 
+      <lb ed="#C" n="112"/>bes, supra de offic. deleg quontam abbas sup. de testi. veniens mi 
+      <lb ed="#C" n="113"/>eo. ienerabiles, infr. de inst. ex frequentibus infra de testa. Raynu 
+      <lb ed="#C" n="114"/>tius &amp; Raynaldus, supra de offi. deleg. coram. Sic patet quis si 
+      <lb ed="#C" n="115"/>effectus confirmationis corroborativae iudicialis neces 
+      <lb ed="#C" n="116"/>sariae ius enim quod praecessit, declarat. arg f.derei vendes 
+      <lb ed="#C" n="117"/>diverso §. 1ff. si servena sicuti. §. distant. aufert etiam inferio 
+      <lb ed="#C" n="118"/>ri causae cognitionem, &amp; parti adversae petitionem, ei 
+      <lb ed="#C" n="119"/>quo per Papam fit, nisi in modum supplicationis au dia 
+      <lb ed="#C" n="120"/>tur. supra de rest. in integ. tum ex literis. §I. Effectus au tem 
+      <lb ed="#C" n="121"/>corroborativae, &amp; potestativae conermationis idem ope 
+      <lb ed="#C" n="122"/>ratur, &amp; plus Talis enim confirmatio operatur, ut id quoc 
+      <lb ed="#C" n="123"/>confirmatur, vires habeat, &amp; si aliquid incuria, vel impe 
+      <lb ed="#C" n="124"/>ritia omissum fuerit, suppleatur. supra de transact.c. 1. Et u 
+      <lb ed="#C" n="125"/>personale reale faciat. supra de traniact. veniens. nisi aliuc 
+      <lb ed="#C" n="126"/>dicatur. infra de praeben nisi essent. § pen. &amp; fi. Et non solemni 
+      <lb ed="#C" n="127"/>raddat solenno. C. detest. omnium. Et ut mutet naturan 
+      <lb ed="#C" n="128"/>rei. C. derei uxor. actio.I.unica. respon.i. Et ut nudum pactum 
+      <lb ed="#C" n="129"/>juvet argum ff de pact legitima. Et utile vel infirmum red 
+      <lb ed="#C" n="130"/>dat firmum, &amp; utile. 16. quaest i. cap. fi. 2. quaest. I. in primis. 3. qu 
+      <lb ed="#C" n="131"/>6. hoc quippe. infra de conces. praebend. ex parte. Asten. &amp; ca. const. 
+      <lb ed="#C" n="132"/>tutus. Et ut nullus de ipsa dubitet, alias sacrilegii instare 
+      <lb ed="#C" n="133"/>rit. argu. C. de cri. sacr. disputare 17 quaest. 4. qui autem. Et ut ic 
+      <lb ed="#C" n="134"/>quod confirmatur suum faciat. argu. C. de reter. jur.enuc.I 
+      <lb ed="#C" n="135"/>circa me. I§. oinnibus auiborib. ibi, omnia enim merito nostr¬ 
+      <lb ed="#C" n="136"/>facimus, quibus a nobis omnis impariiatur authoritas 
+      <lb ed="#C" n="137"/>ergo sequitur, quod sicut sententiam latam a Papa, nullu 
+      <lb ed="#C" n="138"/>inferior tractare potest sine speciali mandato suo, sic ne¬ 
+      <lb ed="#C" n="139"/>ab eo ex certa scientia confirmata. infra de insti. ex frequen 
+      <lb ed="#C" n="140"/>tibas. nisi de speciali mandato suo. ut ibidem in fir. &amp; sup.d 
+      <lb ed="#C" n="141"/>jud. cum pinissent in prima constitutione istius lib §. si. nisi li 
+      <lb ed="#C" n="142"/>quido constet, ipsam per surreptionem obtentam. inf eo¬ 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="143"/>ADDITIO 
+      <lb ed="#C" n="144"/>6 Adjici ex Martino, ubi supra non in concinne poterit haec ru¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>bricella, Quod confirmatio nullius est momenti, ubi origina 
+      <lb ed="#C" n="146"/>le cassatur: quia in re ita a Marti. scriptum scio Confirmatio, &amp; 
+      <lb ed="#C" n="147"/>innovatio irritantur, si originale, seu principale cassetur. exi 
+      <lb ed="#C" n="148"/>de fi inst. inter dilectos &amp; desen &amp; reind. cum inter, §. quamvis n 
+      <lb ed="#C" n="149"/>de hoc in gl quia donatio. Sed nec res litigiosa confirmari potest 
+      <lb ed="#C" n="150"/>ut extra de confir uii velinuti. Confirmatio quoque nihil juri 
+      <lb ed="#C" n="151"/>dat, ubi canonica electio non processit. extra de causa poss. cun 
+      <lb ed="#C" n="152"/>super. &amp; de elect. cum inter &amp; c.cum dilecti. Hoc autem intere. 
+      <lb ed="#C" n="153"/>notabis, quod confirmatio, &amp; examinatio electi in Impera, 
+      <lb ed="#C" n="154"/>torem, pertinet ad Papam, ut extra de electio venerabilum--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0392.xml-->
+      <pb ed="#C" n="375"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>2. quod praesumitur, quando aperte est contra jus, &amp; soli 
+      <lb ed="#C" n="2"/>tum cursum curiae, ut si religioso beneficium perpetu¬ 
+      <lb ed="#C" n="3"/>confirmetur. infra eodem ad nostram, &amp; cap. porrecta. vel mi 
+      <lb ed="#C" n="4"/>nori 21. ann. beneficium habens curam. sup. de aeta. &amp; qual 
+      <lb ed="#C" n="5"/>eam te. vel quia in confirmatione appareat vitium noto 
+      <lb ed="#C" n="6"/>rium, vel ex parte bullae, vel ex parte dictaminis. infrad 
+      <lb ed="#C" n="7"/>eri fallicet. &amp; cap. se. effectus vero confirmationis ratifica 
+      <lb ed="#C" n="8"/>tive is est, ut is qui ratificavit, non possit de caetero contra 
+      <lb ed="#C" n="9"/>venire, &amp; ut quod in pendenti erat, vel semiplenum fir 
+      <lb ed="#C" n="10"/>mum remaneat, &amp; plenius suppleatur, ut patet in his, qua 
+      <lb ed="#C" n="11"/>notatur supra eodem. §. quot modis usque ad versic. fin. &amp; effe 
+      <lb ed="#C" n="12"/>ctus iste scilicet ratificationis, plenissime expeditur. inj 
+      <lb ed="#C" n="13"/>de his quae fi. a praela. sine cons. ca. §. in quibus consilium, sub o. E 
+      <lb ed="#C" n="14"/>quoniam ratihabitio in fi. notatur quod haec clausula, sicu 
+      <lb ed="#C" n="15"/>provide est lata sententia, vel sicut injuste &amp; pacifice pos 
+      <lb ed="#C" n="16"/>sides in sententiis, intelligitur conditionaliter. infra eoden 
+      <lb ed="#C" n="17"/>examinata. In privilegiis vero causative. infra eodem venera 
+      <lb ed="#C" n="18"/>biles. secundum T. &amp; est ratio, quare aliud in privilegiis 
+      <lb ed="#C" n="19"/>quia privilegium lex privata est unde debet aliquid op 
+      <lb ed="#C" n="20"/>rari. infra de verbo. sign. si abbate. §, contra hoc fuerat. infra de pri 
+      <lb ed="#C" n="21"/>VI. in his. Tu dic, &amp; aliter, quod in confirmatione, vel in pri 
+      <lb ed="#C" n="22"/>vilegio in forma communi impetrato intelligitur condi 
+      <lb ed="#C" n="23"/>tionaliter: ubi vero certa scientia impetratur, maxim 
+      <lb ed="#C" n="24"/>quando totus tenor inseritur causativae, ut bene probani 
+      <lb ed="#C" n="25"/>dictae concordantiae infra eodem exammata. &amp; cap. venerabi 
+      <lb ed="#C" n="26"/>lis. &amp; ad idem. supra de elect. cum monasterium. de pelli. in fin 
+      <lb ed="#C" n="27"/>patet in his, quae notatur. supra eodem versicu. secundae vero 
+      <lb ed="#C" n="28"/>confirmationis &amp; praeced. &amp; versic sic patet quod sit effectus confir 
+      <lb ed="#C" n="29"/>d mationis corroborativae judicialis.
+    <!--</p>
+    <p>
+      <!-\-Henricus_a_Segusio_cardinalis_Hostiensis-0392.xml-\->
+      <cb ed="#C" n="b"/>
+      <lb ed="#C" n="30"/>ADDITIO. 
+      <lb ed="#C" n="31"/>d Articulo huic adnectimerito possunt, quae in eundem adno 
+    </p>
+    <p>
+      <lb ed="#C" n="32"/>tabat Mart. noster in summa. eod.tit. Confirmationis, inquiti 
+      <lb ed="#C" n="33"/>effectus, maxime si fiat per dominum Papam ex certa scientia 
+      <lb ed="#C" n="34"/>est quod facit firmum id, quod alias erat infirmum, Autho 
+      <lb ed="#C" n="35"/>ritas enim principis, facit solemne, quia supplet defectum 
+      <lb ed="#C" n="36"/>solennitatis omissae, ut 2. 9. 1. in primis extra de transuct. e. 1. &amp; de 
+      <lb ed="#C" n="37"/>pactc. quoniam. Et non debet postea cognosci si licite, vel illi 
+      <lb ed="#C" n="38"/>cite factum sit, seu confirmatur per Papam, extra de confir. ui 
+      <lb ed="#C" n="39"/>cap. 2. Authoritas quoque principis non solum non solemni 
+      <lb ed="#C" n="40"/>facit solemne. C. de testam. I. omnium. sed etiam ex nudo pacto 
+      <lb ed="#C" n="41"/>dari actionem, ff. de pact. I. legitima. Item dat vires plenissimas 
+      <lb ed="#C" n="42"/>rei confirmatae, etiam si aliquid forte incuria, vel imperitia 
+      <lb ed="#C" n="43"/>minus incertum sit. extrade transact, cap. 1. Item post confir 
+      <lb ed="#C" n="44"/>mationem domini Papae nullius judex cognoscere debet de 
+      <lb ed="#C" n="45"/>causa illa sine speciali mandato Papae, dummodo tempore 
+      <lb ed="#C" n="46"/>confirmationis res illa pacifice possidetur. extra de confir.ut 
+      <lb ed="#C" n="47"/>relinuti cap. 2. ubi de hoc, in gloss. Sed quo ad titulum possidet 
+      <lb ed="#C" n="48"/>di confirmatio nihil addit: quia nihil confirmatio, nisi quo 
+      <lb ed="#C" n="49"/>a principio firmum fuit, ut extra de fid. instrument, cap. inter di 
+      <lb ed="#C" n="50"/>lectos. unde in confirmationibus consueta est ponitalis de 
+      <lb ed="#C" n="51"/>claratio secundum formam communem. Sicut juste, &amp; paci 
+      <lb ed="#C" n="52"/>fice possidebas. Et in sententiis confirmandis ponitur, sicu 
+      <lb ed="#C" n="53"/>provide lata extra eodem titul. examinata. Et talis confirmatio 
+      <lb ed="#C" n="54"/>sub forma communi facta, nihil novi juris tribuit, sed solum 
+      <lb ed="#C" n="55"/>vetus conservat. extra de confir.util. vel inutil. cap. cum dilecta &amp; 
+      <lb ed="#C" n="56"/>fere per totum. &amp; de conces. praebend. quia diversitatem, ubi de hoc 
+      <lb ed="#C" n="57"/>in gloss per confirmationem, &amp; de privi. quia inientio. Con 
+      <lb ed="#C" n="58"/>firmatio tamen sub forma communi facta, juri communi 
+      <lb ed="#C" n="59"/>non derogat, ut de off. or.c. licet, &amp; de fi. instr. inter dilectos. Quod 
+      <lb ed="#C" n="60"/>ait, illud quod est a Papa confirmatum non debere postea co 
+      <lb ed="#C" n="61"/>gnosci. limitatur, ut non procedat, si confirmationi I 
+      <lb ed="#C" n="62"/>objiciatur suggestio falsi, quia poterit de ea cogno 
+      <lb ed="#C" n="63"/>&amp; judicari, confirmatione penitus non obstante 
+      <lb ed="#C" n="64"/>ut de confirmatione, uti. c. de con¬ 
+      <lb ed="#C" n="65"/>firmationibus.
+    -->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

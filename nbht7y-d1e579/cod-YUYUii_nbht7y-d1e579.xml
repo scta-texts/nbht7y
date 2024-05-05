@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 4</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 4</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="211"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e579"><!-- nbht7y-l2t4 -->
+            <head xml:id="nbht7y-d1e579-Hd1e101">Titulus 4</head>
+            <head xml:id="nbht7y-d1e579-Hd1e103" type="question-title">De mutuis petitionibus</head>
+            <p xml:id="nbht7y-d1e579-d1e106">
+               <lb ed="#C" n="70"/>De Mutuis petitionibus. IV 
+      <lb ed="#C" n="71"/>Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e579-d1e113">
+               <lb ed="#C" n="72"/>SVMMARIA. 
+      <lb ed="#C" n="73"/>I. Petitiones mutuae quae dicantur. 
+      <lb ed="#C" n="74"/>2. Petitiones mutuae apud quem fieri debeani 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0228.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="75"/>3. Petitiones mutuae quando sunt fienda 
+      <lb ed="#C" n="76"/>4. Reconventioni ad sit locus in causa appellationis 
+      <lb ed="#C" n="77"/>5. Procedi qualiter debeat in mutuis petitiombus 
+      <lb ed="#C" n="78"/>Mutuae petitiones quibus casibus cessare debean 
+    </p>
+            <p xml:id="nbht7y-d1e579-d1e135">
+               <lb ed="#C" n="79"/>QUoties contingit quod libello reo 
+      <lb ed="#C" n="80"/>oblato, re 
+      offer<lb ed="#C" n="81" break="no"/>tur libellus a reo actori: ut ergo sciamu 
+      <lb ed="#C" n="82"/>quid juris de re oblatione ista, videamus d 
+      <lb ed="#C" n="83"/>mutuis petitionibu. dicentes, Quae dicantu 
+      <lb ed="#C" n="84"/>mutuae petitiones, Apud quem fieri debeant, Et quand 
+      <lb ed="#C" n="85"/>faciendae sunt, Quae poena actoris nolentis respondere 
+      <lb ed="#C" n="86"/>Qualiter procedendum sit in mutuis petitionib. Et in qui 
+      <lb ed="#C" n="87"/>bus casibus cessare debeani 
+    </p>
+            <p xml:id="nbht7y-d1e579-d1e158">
+               <lb ed="#C" n="88"/>Quae dicantur mutuae Petitionesa Respo¬ 
+      <lb ed="#C" n="89"/>deo, ad invicem pro¬ 
+      <lb ed="#C" n="90"/>positae quaestiones, quod patet ex significatione verbi, &amp; di¬ 
+      <lb ed="#C" n="91"/>nis, C. de compensa. neque scriptura, ff. de var. &amp; extraordi. cog. leg 
+      <lb ed="#C" n="92"/>iSultimo 
+    </p>
+            <p xml:id="nbht7y-d1e579-d1e171">
+               <lb ed="#C" n="93"/>Apud quem fieri debeant. Apud eundem ju¬ 
+      <lb ed="#C" n="94"/>dicem, nec enim continentia ju 
+      <lb ed="#C" n="95"/>dicii dividenda est, ut infra de sequest. pos. c. .C. de jud nulli su 
+      <lb ed="#C" n="96"/>pra de rescr. c fin. ver. seu quenquam
+    </p>
+            <p xml:id="nbht7y-d1e579-d1e182">
+               <lb ed="#C" n="97"/>Et quando faciendae sunt.* Ante li, cont. alias lite 
+      <lb ed="#C" n="98"/>contestata semel non audietur reus vo 
+      <lb ed="#C" n="99"/>lens reconvenire actorem coram delegato, sed demum fi 
+      <lb ed="#C" n="100"/>nita lite poterit eum convenire coram ordinario: ut C. a 
+      <lb ed="#C" n="101"/>sent. &amp; interlo. oimn jud auth. &amp; consequenter, &amp; est arg. quoc 
+      <lb ed="#C" n="102"/>uno &amp; eodem tempore non est quis trahendus ad divers¬ 
+      <lb ed="#C" n="103"/>judicia, ut est expressum, sup. de rescrc. ult. &amp; in auth. d. n. ex 
+      <lb ed="#C" n="104"/>tra de resc. dispendia, quia praesumitur hoc facere fraudulen 
+      <lb ed="#C" n="105"/>ter ergo imputet sibi qui tacuit ut in auth de execu. &amp; his qu 
+      <lb ed="#C" n="106"/>conveniuntur, Sillud, per si itaque tacuerit, &amp; hoc intelligo de ii 
+      <lb ed="#C" n="107"/>tibus ortis ante li, cont. quas sciebat reus sibi competere, por 
+      <lb ed="#C" n="108"/>ro in ortis postea, aut antea, sed ipse nesciebat, quod exem 
+      <lb ed="#C" n="109"/>plificat per I. de verb. obli.l.ult. &amp; de reg ju. qui in alterius, nec e 
+      <lb ed="#C" n="110"/>nim imputari potest taciturnitas, ar ffde ven anspi.l.i.infr. d 
+      <lb ed="#C" n="111"/>jur. cal. caeterum, &amp; de exce. pastoralis, ergo in hoc casu coran 
+      <lb ed="#C" n="112"/>ordinario lis suo marte discurrat, hoc etiam innuit orde 
+      <lb ed="#C" n="113"/>juris rubricellae hic positus: quia primo posuit compilator 
+      <lb ed="#C" n="114"/>de libelli obl. secundo de mutuis petitionib. ante rub. de li 
+      <lb ed="#C" n="115"/>cont. quasi velit dicere, quod post libellum oblatum ant¬ 
+      <lb ed="#C" n="116"/>li, cont. fieri debet, non post Dixit tamen Azo. quod eti 
+      <lb ed="#C" n="117"/>post li, cont incontinenti, nullo contrario actu intervenien 
+      <lb ed="#C" n="118"/>te, potest fieri reconventio, ar. C.de lib causa, l. ult super ho¬ 
+      <lb ed="#C" n="119"/>vide concor. positas, sup. de ele in prima forma, super illo ver¬ 
+      <lb ed="#C" n="120"/>bo, mox &amp; idem dicit Gof. ar. C. deproc nihil inter est: quia prin¬ 
+      <lb ed="#C" n="121"/>cipium causae dicitur contestatio, C. de jur tal.l. 2. verum ubi 
+      <lb ed="#C" n="122"/>cuque libellus reconventionis porrigitur usque ad li. cont. ve 
+      <lb ed="#C" n="123"/>parum post, necesse habet seus respondere ad libellum recon 
+      <lb ed="#C" n="124"/>ventionis li. iam cont. in cam conventionis, ut infec.i.verius vi 
+      <lb ed="#C" n="125"/>detur, quod ante li cont. ar. C.ubi in rem act. ex deb. l. 2. infr. ut li 
+      <lb ed="#C" n="126"/>non cont. quoniam, §ult &amp; est ratio, ne processus alterius impe 
+      <lb ed="#C" n="127"/>diatur: quia qui prior appellat. prior agx, ut ff. de judic. qu 
+      <lb ed="#C" n="128"/>prior, inf. de ora. cog, cum dile. Snos autem, ut appar eat in his, qua 
+      <lb ed="#C" n="129"/>no inf. eo S qualiter procedendum sit, &amp; haec locum habent in de 
+      <lb ed="#C" n="130"/>legato. Sed nunquid coram ordinario locus est reconven 
+      <lb ed="#C" n="131"/>tioni quandocunque, ita quod sint mutuae petitiones? Qui 
+      <lb ed="#C" n="132"/>dam debent, quod sic quibus non assentio, ne paretur praeju 
+      <lb ed="#C" n="133"/>dicium ei, qui primo appellavit, ut sup prox dixi, pararetu 
+      <lb ed="#C" n="134"/>autem praejudicium, quia differretur cognitio prima 
+      <lb ed="#C" n="135"/>causae, cum mutuae petitiones simul retractandae sunt, u 
+      <lb ed="#C" n="136"/>dicam infra §. qualiter. Sed tamen in modum conventio 
+      <lb ed="#C" n="137"/>nis admittat, quandocunque intra tempus legitimum 
+      <lb ed="#C" n="138"/>cum ipsius jurisdictio perpetua sit, &amp; hoc est quod volu 
+      <lb ed="#C" n="139"/>it notare litera, dicens quod procurator datus ad agen 
+      <lb ed="#C" n="140"/>dum liti. contestat. cum eo vice mutua convenitur, nor 
+      <lb ed="#C" n="141"/>dixit reconvenitur, quasi diceret, ex quo fit post lit cont 
+      <lb ed="#C" n="142"/>mutuae sunt conventiones, ut ff. de compens. nrem. Et hoc 
+      <lb ed="#C" n="143"/>verum intelligas quando tam actor quam reus erat de? o 
+      <lb ed="#C" n="144"/>dem foro: quia tunc dicitur idem consul, ff. de off. procon. me 
+      <lb ed="#C" n="145"/>minisse, &amp; ad municipales magistratus, secundum domi 
+      <lb ed="#C" n="146"/>num meum: nam si ex diversis, ut quia clericus convenit lai 
+      <lb ed="#C" n="147"/>cum coram judice seculari, lite semel contest. non poterit laicu 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="148"/>ADDITIO 
+      <lb ed="#C" n="149"/>a Quae dicantur mutuae petitiones. Adde Doct in rub. eotit.--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0229.xml-->
+      <pb ed="#C" n="212"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>eoram seculari reconvenire clericum, nec etiam conve 
+      <lb ed="#C" n="2"/>nire, sed se qui forum suum, ut supra de judc. fa. Restat ig 
+      <lb ed="#C" n="3"/>tur, quod ante lit. contest. coram seculari judice ipsum cle 
+      <lb ed="#C" n="4"/>ricum potest reconvenire, nisi sit causa, quae coram eccle 
+      <lb ed="#C" n="5"/>siastico judice sit tractanda, super quo vide exempla, supr 
+      <lb ed="#C" n="6"/>de foro comp. § ex praemisssis patet, &amp; in hoc casu potest laicu 
+      <lb ed="#C" n="7"/>elericum convenire coram judice non suo, ratione recon 
+      <lb ed="#C" n="8"/>ventionis. ut dixi, supra de fo comp. sub s liquet etiam, &amp; sic re 
+      <lb ed="#C" n="9"/>conventionis causa prorogatur jurisdictio ad alias res, qua 
+      <lb ed="#C" n="10"/>continentur in rescripto, quod est contra, sup. de offic. dele 
+      <lb ed="#C" n="11"/>P. &amp; G. &amp;c.cum olim abbas, &amp; ad personas, in quibus ordi 
+      <lb ed="#C" n="12"/>narius jurisdictionem non habet, ut in clerico, prout dixi 
+      <lb ed="#C" n="13"/>&amp; probatur3. qu. &amp;c.i. sed certe ratione reconventionis fa 
+      <lb ed="#C" n="14"/>ctus est judex suus, &amp; sic taceant qui dicunt, quod in ho 
+      <lb ed="#C" n="15"/>casu speclale est, quod sententia a non sud judice lata tene 
+      <lb ed="#C" n="16"/>at, imo judex est, quia actor sequitur forum rei, supra de fo 
+      <lb ed="#C" n="17"/>ro comp. § qui. ex cau. Sed quid si coram pedaneo judice, qu 
+      <lb ed="#C" n="18"/>de libertate nequit cognoscere, ut C. de peda jud. l. 2. fiat re 
+      <lb ed="#C" n="19"/>conventio super libertate? Videtur quod fieri possit, ar¬ 
+      <lb ed="#C" n="20"/>C. de jud quotics, &amp; de ord jud li supra de rest. in integ, causa. Sa 
+      <lb ed="#C" n="21"/>I Dic contra, quia nunquam potest fieri reconventio cor¬ 
+      <lb ed="#C" n="22"/>judice, nisi super causa, quam ex vi jurisdictionis habet 
+      <lb ed="#C" n="23"/>quod non posset pronunciare, sed hoc in reconvention 
+      <lb ed="#C" n="24"/>necessarium est, ergo aliud in incidenti, quia ibi non pronum 
+      <lb ed="#C" n="25"/>ciat.: Sed nunquid in causa appellationis b locus est re 
+      <lb ed="#C" n="26"/>conventioni, secundum illos qui dicunt, quod una &amp; ead 
+      <lb ed="#C" n="27"/>causa est cur; principali? non. Sed secundum alios qui di 
+      <lb ed="#C" n="28"/>cunt, quod alia causa sit, pro quib. facit inf. de test. Ranaldus 
+      <lb ed="#C" n="29"/>Sdemum, ver. dilectus, nam ibi fuit lis cont. super causa ap 
+      <lb ed="#C" n="30"/>quare patet, quod alia causa, de hoc dicetur, inf de ap Squi 
+      <lb ed="#C" n="31"/>su ffectus, ver. ubi autem a sententia, &amp; sequentibus
+    </p>
+            <p xml:id="nbht7y-d1e579-d1e371">
+               <lb ed="#C" n="32"/>Quae poena nolentis ectoritrespondere Reipo 
+      <lb ed="#C" n="33"/>deo, ut ei non 
+      respondea<lb ed="#C" n="34" break="no"/>tur, argumen. infra de jura calum. Imperatorem, &amp;c sin. §pa 
+      <lb ed="#C" n="35"/>na, nam &amp; si judex reconventionem negligeret, &amp; velle 
+      <lb ed="#C" n="36"/>procedere in petitione actoris repulsa reconventione, ne¬ 
+      <lb ed="#C" n="37"/>teneret factum suum, vel potius appellandum esset, ut s 
+      <lb ed="#C" n="38"/>quae sentent. sine appell. re.I.ulum &amp; ad hoc ffi de procu. mutus, 
+      <lb ed="#C" n="39"/>pena Nunquid ergo procedetur ultra, ut judex ad instan 
+      <lb ed="#C" n="40"/>tiam rei procedat super reconventione, ex quo semel tra 
+      <lb ed="#C" n="41"/>ctus est in judicium? &amp; quidem non videtur, quia hoc be 
+      <lb ed="#C" n="42"/>neficium habet reus ex conventione, sed illa cessat, ergi¬ 
+      <lb ed="#C" n="43"/>reconventio cessare debet, ut argumen. infra de appell. cu 
+      <lb ed="#C" n="44"/>cessante, 6i. dist § his onnnibus, &amp; actor ante lit. contest desiste 
+      <lb ed="#C" n="45"/>re potest. ff. dem jus vo quamvis, &amp; rem ratam ha ampllus 
+      <lb ed="#C" n="46"/>dic contra, argumen ff. de bo. pos. contra. ta post mortem, §ultim 
+      <lb ed="#C" n="47"/>&amp; expressim probatur, infra eodem cap.1. &amp; quod dixi, quo 
+      <lb ed="#C" n="48"/>ante lit. conte potest desistere actor, verum est quo ad po 
+      <lb ed="#C" n="49"/>namvitandam, porro facere justitiam, potius praemiun 
+      <lb ed="#C" n="50"/>est, quam poena, &amp; judex inter partes per citationem per 
+      <lb ed="#C" n="51"/>petuatus est, supr. de offi deleg, licet, &amp;c. ult. Item non ob quoc 
+      <lb ed="#C" n="52"/>cessante causa; cessat, &amp;c. nec enim cesset causa, cum seme 
+      <lb ed="#C" n="53"/>convenerit: nam factae causae infectae fieri non possunt,s 
+      <lb ed="#C" n="54"/>dec. &amp; postl. re. in bello § facte, ergo instante reo semel convi 
+      <lb ed="#C" n="55"/>to, id est pulsato, in reconventione proceditur, in authe. d 
+      <lb ed="#C" n="56"/>exec. &amp; his qui compeniunt&amp; reconveniuntur, Sillud collati, 7. &amp; ei 
+      <lb ed="#C" n="57"/>ratio, quia judicem, pro te approbasti, contra se habere judici 
+      <lb ed="#C" n="58"/>dedignari non debes, ut C. de sents inter om. judi, cum Papim. 
+      <lb ed="#C" n="59"/>anus, in fin quaest. S. cujus in agendo, unde nec ipsum judi¬ 
+      <lb ed="#C" n="60"/>etiam poterit recusare conveniens, argum ff. deneg ge Pom 
+      <lb ed="#C" n="61"/>&amp; deadult. si uxor. §ult. nisi ex nova causa. f. de interro. ac. d 
+      <lb ed="#C" n="62"/>aetate § ex causa, infra de excep pasteralis, &amp; quod quisque su 
+      <lb ed="#C" n="63"/>ris. &amp;c. supra de constit, cum omnes ff quod quisque jur. legi &amp; fr 
+      <lb ed="#C" n="64"/>stra petit debitum, qui quod debet non impendit, 22. quaes 
+      <lb ed="#C" n="65"/>6. nihil iniquius, infra de elect significasti, in sfi 90. distin. esto sut 
+      <lb ed="#C" n="66"/>jectus. infra de jurejur. pervenit, &amp; de usuris, quia frustra, se¬ 
+      <lb ed="#C" n="67"/>contra. C. de compen.I. ult. solutio, id speciale est in deposito 
+      <lb ed="#C" n="68"/>infra de deposi. bona fides § sane
+    </p>
+            <p xml:id="nbht7y-d1e579-d1e454">
+               <lb ed="#C" n="69"/>Qualiter procedendum sitin mutuis per 
+      <lb ed="#C" n="70"/>tionibus. Hoc modo 
+      <lb ed="#C" n="71"/>libello oblato ab actore reo, reus si eum re convenire vuli 
+      <lb ed="#C" n="72"/>porrigat ei reconventionem suam, ante lit contest. &amp; it¬ 
+      <lb ed="#C" n="73"/>deliberatione hinc inde habita, fiet primo lit. contest supe 
+      <lb ed="#C" n="74"/>peti primitus offerentis, secundo super petit. reconveni 
+      <lb ed="#C" n="75"/>entis, postea judex vicissim audiat causam utramque, si 
+      <lb ed="#C" n="76"/>conveniens primo faciat positiones, secundo reconveni 
+      <lb ed="#C" n="77"/>ens, conveniens primo producat testes, secundo reconvi 
+      <lb ed="#C" n="78"/>niens, ita quod una &amp; eadem die utranque quaestionem quas 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0229.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>una sententia terminet, concordia, vel judicio mediante 
+      <lb ed="#C" n="80"/>ut infra codemc.i&amp; de ordcog cum dilectui, § nos autem, ideo 
+      <lb ed="#C" n="81"/>adveniente die, in quo debeat respondere libello ante lii 
+      <lb ed="#C" n="82"/>con. vult porrigere lib. actori defertur responsio primae pe 
+      <lb ed="#C" n="83"/>titionis, quousque elapsi sint 30. dies, qui dantur actori, 3 
+      <lb ed="#C" n="84"/>quae st. 36 spacium, C. de dila si quando, ideo hoc admittitur an 
+      <lb ed="#C" n="85"/>te lit, contest. quia postea nimis differretur causa, cum j¬ 
+      <lb ed="#C" n="86"/>caeptum sit judicium, ergo ubi non concurrunt, sicut dixi 
+      <lb ed="#C" n="87"/>habet locum regula. qui prior appellat, prior agat f. de ju 
+      <lb ed="#C" n="88"/>dic. qui prior. Sed &amp; ubi concurrunt. quantum ad hoc, ut in 
+      <lb ed="#C" n="89"/>qui primo ad judicium proclamavit. primo in omnibs ad 
+      <lb ed="#C" n="90"/>mittatur, secundum Goffr sicut supra plene exposui, non 
+      <lb ed="#C" n="91"/>dicuntur ergo concurrere, quando post lit conte. supe 
+      <lb ed="#C" n="92"/>primo libello offertur secundus, sed si ante, sic &amp; differtu¬ 
+      <lb ed="#C" n="93"/>li, contest primi, quousque labatur dies data ad deliberandi 
+      <lb ed="#C" n="94"/>super secundo, quia in mora modiei temporis non est ma 
+      <lb ed="#C" n="95"/>ximum damnum, ff. de jud si debitori. Ubi ergo concurrun 
+      <lb ed="#C" n="96"/>conventio &amp; reconventio, vicissim sunt tractandae, &amp; ea 
+      <lb ed="#C" n="97"/>dem die incipiendae, quo ad lit. conte. &amp; diffiniendae qual 
+      <lb ed="#C" n="98"/>una sententia, ut dixi, &amp; bene dico. Quasi una, nam in verita 
+      <lb ed="#C" n="99"/>te duae sunt sententiae, quae deferuntur circa duas quaestio 
+      <lb ed="#C" n="100"/>nes sese minime contingentes, &amp; etiam si se contingant, pu 
+      <lb ed="#C" n="101"/>ta quia agitur petitorio &amp; possessorio circa eandem rem 
+      <lb ed="#C" n="102"/>adhuc sunt sententiae ferendae, inf de causa pos. cum eccle a, sec 
+      <lb ed="#C" n="103"/>quasi una &amp; eadem sententia dicuntur, quo ad contextum 
+      <lb ed="#C" n="104"/>probationis, quia scil. uno contextu feruntur, sicut plure 
+      <lb ed="#C" n="105"/>stipulationes, respectu plurium rerum, dicuntur una &amp; ea 
+      <lb ed="#C" n="106"/>dem stipulatio, quo ad conceptionem verborum f de rern 
+      <lb ed="#C" n="107"/>obl, scire debemus, &amp; Isi Scichum S stipulatio. f.dedo, cam. mor. sena 
+      <lb ed="#C" n="108"/>tus censuit § ult. ideo si judex pronunciet in causa conventi 
+      <lb ed="#C" n="109"/>onis &amp; differat pronunciare in causa reconventionis, a ta 
+      <lb ed="#C" n="110"/>li gravamine appellari potest, f quae sen sine app. resc. li. §ul 
+      <lb ed="#C" n="111"/>secundum Gof. Quid ergo, si impetro rescriptum contri 
+      <lb ed="#C" n="112"/>te super io. tu vis me reconvenire super 20. vel super diver 
+      <lb ed="#C" n="113"/>sis rebus, nunquid potes, quia indistincte dicitur, quod mi 
+      <lb ed="#C" n="114"/>poteris recenvenire, ar ff. de procu om. &amp; de interro ac sime § si 
+      <lb ed="#C" n="115"/>defensor, alias est lex, &amp; f de juri am jud si idem. Et nunquid 
+      <lb ed="#C" n="116"/>poteris me reconvenire criminaliter? Forte sic, ut mf. eo Se 
+      <lb ed="#C" n="117"/>in quibus casibus. Sed contra supra de resc sedes. Quid sivis mi 
+      <lb ed="#C" n="118"/>reconvenire super lite, quae orta est inter me &amp; te post da 
+      <lb ed="#C" n="119"/>tam rescr. quod contra te impetravi? videntur quod non pos 
+      <lb ed="#C" n="120"/>sis, quia rescriptum non extenditur ad futura, sup. de resci 
+      <lb ed="#C" n="121"/>ad hoc sumus, &amp; c. ul. ver aut literas, non enim rescriptum quod 
+      <lb ed="#C" n="122"/>impetravi, plus privilegii tibi afferre botest, quam mihi 
+      <lb ed="#C" n="123"/>quia actoris &amp; rei una, &amp; eadem conditio est, infra codc. 
+      <lb ed="#C" n="124"/>unde si remota est app. in conventione, videtur remota 8 
+      <lb ed="#C" n="125"/>in reconventione quasi repetita, 324. 6. Apostolus, C. ad Tre 
+      <lb ed="#C" n="126"/>bel. non justam, f. de l. 2. debitor. §i. &amp; non debet licere actori 
+      <lb ed="#C" n="127"/>quod reo non licet, alias contra, f. dereg ju. non debet, nec ju 
+      <lb ed="#C" n="128"/>dicium claudicare, sic nec arbitrium, ut notat supra de ad 
+      <lb ed="#C" n="129"/>§ qualiter constituatur, videtur tamen contra quia non di u 
+      <lb ed="#C" n="130"/>dixi. &amp; reconventioni locus est quandocunque ante li 
+      <lb ed="#C" n="131"/>conte. ut non supra eodem §. &amp; quando, nec enim vires rescri 
+      <lb ed="#C" n="132"/>pti inspiciuntur, quantum ad reconventionem, sed aequ 
+      <lb ed="#C" n="133"/>tas, ut not. sup. eodem quae pona, ibi, &amp; est ratio, &amp;c. unde esta 
+      <lb ed="#C" n="134"/>iam in reconventione de leg. ordinarius videtur, cum ho¬ 
+      <lb ed="#C" n="135"/>habeat a jure, f. de jur. om jud &amp; quia supra de offi. ord. irrefra 
+      <lb ed="#C" n="136"/>gabili, contra ar. Sed expositio quam ibi facio, concordat 
+      <lb ed="#C" n="137"/>nec. n. ex viribus rescripti potest cognoscere, nisi de rebu 
+      <lb ed="#C" n="138"/>quae ibi continentur, ut no supS &amp; quando frope sin. &amp; sic re 
+      <lb ed="#C" n="139"/>scriptum plus prodest reo in hoc casu, quam si ipsemet im¬ 
+      <lb ed="#C" n="140"/>petrasset, &amp; nunquid si reus impetrat contra me, possun 
+      <lb ed="#C" n="141"/>ipsum convenire super quibuscunque? non puto. Et nun 
+      <lb ed="#C" n="142"/>quid ipse potest me reconvenire? non credo, quia non ha 
+      <lb ed="#C" n="143"/>bet locum ratio superior, cum ipsemet impetraverit. E 
+      <lb ed="#C" n="144"/>nunquid ubi impetravi judicem contra ipsum reum, &amp; ips 
+      <lb ed="#C" n="145"/>reconvenit me, potero ipsum recovenire (ut ita loquar? vi 
+      <lb ed="#C" n="146"/>detur quod sic, sicut possum triplicare, ar sup. defo, cop. ex par 
+      <lb ed="#C" n="147"/>te Sid quoque infra. de cond appo pertuas, f. de excep. leg 2. infrad 
+      <lb ed="#C" n="148"/>testibus licet, ju. Item quia haec reconventio potest dic 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="149"/>ADDITIO. 
+      <lb ed="#C" n="150"/>b In causa appellationis. Adde Spe.tii. de reconventione, in §. 2. vv 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>legatus, gl. in cle.i.de causa poss. Inno &amp; Doct. in c. I. de mu. peni. (yn 
+      <lb ed="#C" n="152"/>in I. per hancj. 4.C. de tomp apre--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0230.xml-->
+      <pb ed="#C" n="213"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>reconventio. respectu tuae reconventionis, quae potest di 
+      <lb ed="#C" n="2"/>ci reconventio respectu subsequentis, sicut &amp; relator di 
+      <lb ed="#C" n="3"/>citur delator, C. de rebus cred generaliter, contra credo, &amp; es 
+      <lb ed="#C" n="4"/>ratio, quia actor habet in potestate utrum impetret supe 
+      <lb ed="#C" n="5"/>uno vel pluribus, fide quibus rebus adeun. jud eatur. leg.1. &amp; 
+      <lb ed="#C" n="6"/>supra de rescrip.c. si &amp; in auth. d. n.extra, de rescrip. dispendia, ve 
+      <lb ed="#C" n="7"/>addi faciat clausulam generalem, &amp; super quibusdam al 
+      <lb ed="#C" n="8"/>is, &amp; quando impetret. Sed hoc non est in potestate rei, con 
+      <lb ed="#C" n="9"/>tra quem impetratur: imputet ergo sibi actor, si non vig 
+      <lb ed="#C" n="10"/>lavit: nec imputetur reoqui ad judicium invitus trahitui 
+      <lb ed="#C" n="11"/>ad hoc sup. de rescr. sedes Apostolica, f. de cal. annus, C. de temp, i 
+      <lb ed="#C" n="12"/>intrg. rest. petendae, fi de reg ju. farorabiliores f de act. &amp; obligat. 
+      <lb ed="#C" n="13"/>Armanus, infra de probat. ex Ineris, alias in in infinitum proce 
+      <lb ed="#C" n="14"/>derent hae mutuae petitiones, quod esset iniquum, argu. 
+      <lb ed="#C" n="15"/>authen. dicit enim extra,. de rescrip. c in multis 
+    </p>
+            <p xml:id="nbht7y-d1e579-d1e675">
+               <lb ed="#C" n="16"/>Et in quibus;:asibus cessare debeant. In praeju 
+      <lb ed="#C" n="17"/>dicialibus actionibus, de quibus no 
+      <lb ed="#C" n="18"/>afrn de ord. cog. §i. versicul. sialtera, &amp; versicul. fallit regula. 
+      <lb ed="#C" n="19"/>tem in actioni, injurrarum, vel furti, vel damni dati eo ani¬ 
+      <lb ed="#C" n="20"/>mo, quod is qui passus est, possit reconvenire, infra dejur 
+      <lb ed="#C" n="21"/>pur. relatum, ff. de jud. leg. 2. 5 sed siagant. Item in crimina 
+      <lb ed="#C" n="22"/>quaestione e concurrente cum liberali causa, vel si de ha 
+      <lb ed="#C" n="23"/>reditate &amp; libertate agatur, &amp; ita civilis praejudicat aliqui 
+      <lb ed="#C" n="24"/>do criminali3. quaest. ulti §aliquando. Item excommunica 
+      <lb ed="#C" n="25"/>tus d non potest reconvenire, licet possit uti defensione 
+      <lb ed="#C" n="26"/>recusatione, &amp; appellatione, infra de excep. cum in priorem 
+      <lb ed="#C" n="27"/>&amp; in summa dicitur, &amp; tamen potest conveniri supr. de ju¬ 
+      <lb ed="#C" n="28"/>&amp; inselleximus. Item coram arbitroe non est locus recor 
+      <lb ed="#C" n="29"/>ventioni, supr. de arbit. cum dilectus, quod intelligas, nisi ple 
+      <lb ed="#C" n="30"/>num compromissum factum sit, de omnib controversiis 
+      <lb ed="#C" n="31"/>quae inter actorem &amp; reum vertuntur, vel verti possunt, 
+      <lb ed="#C" n="32"/>de arb si cam dies, § plenum, tunc enim non aliter auditur: 
+      <lb ed="#C" n="33"/>ctor, nisi defendat, &amp; reconventioni rei respondeat, ff. de ar 
+      <lb ed="#C" n="34"/>non distinguemus,S sed &amp; compromissum illud. Item si ac 
+      <lb ed="#C" n="35"/>culo te criminaliter, non poteris me convenire,; 4. 6. cap. 
+      <lb ed="#C" n="36"/>quia non relatione criminis, sed purgatione desinit ess 
+      <lb ed="#C" n="37"/>innocens accusatus, ff. depubl. jud. is qui item in causa sp¬ 
+      <lb ed="#C" n="38"/>liationis, quae dedignantis naturae est, nec compatitur dis 
+      <lb ed="#C" n="39"/>similem quaestionem secundum Goffred. nam si peto at 
+      <lb ed="#C" n="40"/>possessiomem fundi, de quo me deiecisti, hon potes me re 
+      <lb ed="#C" n="41"/>convenire super aliquo nisi super spoliationes consimili 
+      <lb ed="#C" n="42"/>quia in hoc causa spoliationis noscitur privilegiata, infi¬ 
+      <lb ed="#C" n="43"/>de ordi cog. super spoliatione. Item fallit in momentanea po 
+      <lb ed="#C" n="44"/>lessione, nam si pupillus agat contra me, uti possid. vel in 
+      <lb ed="#C" n="45"/>terdicto, unde vi, vel quod vi aut clam, ipsum reconvenir 
+      <lb ed="#C" n="46"/>non potero, C qui legitimam perso. hab. stan. in judi. Luli 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="47"/>ADDITIONES 
+      <lb ed="#C" n="48"/>. In eriminali quaestione. Adde gl. incat si derici, de in gl.inc. cuiu 
+    </p>
+    <p>
+      <lb ed="#C" n="49"/>in agendo, 3. 7. 8. Cy. in l.I. &amp; in Lneganda. C. qui accus. non pos. Bal. i 
+      <lb ed="#C" n="50"/>Lis qui reus, ff. de publius 
+      <lb ed="#C" n="51"/>d Item excommunicatus. Adde not. per doct. 4. 9. 1. in summ 
+    </p>
+    <p>
+      <lb ed="#C" n="52"/>doct inc, cum inter de excep. diffuro per Pet. de monte in sua repet. 
+      <lb ed="#C" n="53"/>intelleximus, de indie 
+      <lb ed="#C" n="54"/>e Coram arbitrio. Adde Barb. cons. z. inci in medium afferam in 1 
+    </p>
+    <p>
+      <lb ed="#C" n="55"/>col. versi facis etiam quod volnit do Abb. in 4. v0-->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

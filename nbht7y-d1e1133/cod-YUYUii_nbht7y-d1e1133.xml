@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 23</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 23</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="447"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1133"><!-- nbht7y-l3t23 -->
+            <head xml:id="nbht7y-d1e1133-Hd1e101">Titulus 23</head>
+            <head xml:id="nbht7y-d1e1133-Hd1e103" type="question-title">De solutionibus</head>
+            <p xml:id="nbht7y-d1e1133-d1e106">
+               <lb ed="#C" n="134"/>De Solutionibus XXIII. Rubrica. 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e111">
+               <lb ed="#C" n="135"/>SUMMARIA. 
+      <lb ed="#C" n="136"/>I. Solutio quid si 
+      <lb ed="#C" n="137"/>Solutionum quot sunt species 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e120">
+               <lb ed="#C" n="138"/>QVia obligationes, de quibus 
+      praemisi<lb ed="#C" n="139" break="no"/>mus per solutionem
+      <lb ed="#C" n="140"/>tolluntur: ut Institut quibus mod. toll obl. in princ 
+      <lb ed="#C" n="141"/>n ideo post tractatus obligationum videamu 
+      <lb ed="#C" n="142"/>de solutionibus, dicentes, Quid sit solutio, Quot sunt spe 
+      <lb ed="#C" n="143"/>cies solutionum, Quis possit solvere, Cui facienda sit so 
+      <lb ed="#C" n="144"/>lutio, Cui solvatur, Quis ejus effectus 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e139">
+               <lb ed="#C" n="145"/>Quid sit solutio. Ejus quod debetur redditio, ut 
+      <lb ed="#C" n="146"/>in superioribus concor. large tamen poni¬ 
+      <lb ed="#C" n="147"/>tur pro qualibet liberatione: liberatio autem quocunque 
+      <lb ed="#C" n="148"/>modo facta, magis refertur ad obligationem, quam ad num 
+      <lb ed="#C" n="149"/>morum solutionem, ff. eod, solutionis, nam &amp; qualitercunque 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="150"/>ADDITIO 
+      <lb ed="#C" n="151"/>a Quid sit solutio.J Adde Doct. in rub eo. tit. &amp; quae dicatur so¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>lutio spontanea. Vide per Pau. de Eleaz. in cle. fin. decensibus.--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0465.xml-->
+      <pb ed="#C" n="448"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>satisfactum sit creditori ad voluntatem suam, pro soluto 
+      <lb ed="#C" n="2"/>habetur: licet solutum non sit f. de pig. act si rem alienam, §o 
+      <lb ed="#C" n="3"/>mnis, &amp; leg. solutum, § solutam, &amp; notat. infra eodem  quid sol 
+      <lb ed="#C" n="4"/>vatur, vers.
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e169">
+               <lb ed="#C" n="5"/>Quot species solutionum. Tres civilis 
+      si<lb ed="#C" n="6" break="no"/>ve imaginaria,
+      <lb ed="#C" n="7"/>interpretativa, naturalis sive vera. Civilis sive imaginaria 
+      <lb ed="#C" n="8"/>ut acceptilatio. Est autem acceptilatio liberatio per mu 
+      <lb ed="#C" n="9"/>tuam interrogationem, qua utriusque contingit ab eoden 
+      <lb ed="#C" n="10"/>nexu liberatio sive absolutio, ut f.de accepi. leg. 1. ideo dici 
+      <lb ed="#C" n="11"/>Mutuam, quia necesse est quod perstipulationem debeatu 
+      <lb ed="#C" n="12"/>id, quod per acceptilationem tollitur: ideoque si alio contra 
+      <lb ed="#C" n="13"/>ctu debeatur, necesse est quod novetur per stipulationem 
+      <lb ed="#C" n="14"/>&amp; qualiter fiat hoc, vide inf eo sub S interpretativa, ubi habe 
+      <lb ed="#C" n="15"/>rubricam de nova. &amp; statim sequitur: nam creditor inter 
+      <lb ed="#C" n="16"/>rogat hoc modo, Quod debes mihi ex causa empti. pro 
+      <lb ed="#C" n="17"/>mittis mihi dare per stipulationem animo novandi? Re 
+      <lb ed="#C" n="18"/>spon debitoris, Promitto. postea interrogat debitor, Quo 
+      <lb ed="#C" n="19"/>tibi promisi per stipulationem animo novandi, habesne a¬ 
+      <lb ed="#C" n="20"/>ceptum? Responsio creditoris, Habeo, acceptumque tuli 
+      <lb ed="#C" n="21"/>sic ipso jure tollitur obligatio, ff de accept an inutilis, § acc 
+      <lb ed="#C" n="22"/>ptio fieri non potest, &amp; dicitur debitor liberari proprie: se¬ 
+      <lb ed="#C" n="23"/>creditor improprie, liberatur enim .i. desinit sibi actio ci 
+      <lb ed="#C" n="24"/>petere. f. de exe actl1§ ideb autem, de admin. tu quoties sicul 
+      <lb ed="#C" n="25"/>Sed per Aquilianam stipulationem omnium rerum obl 
+      <lb ed="#C" n="26"/>gatio in stipulatione deducitur, &amp; ipsa per acceptilation 
+      <lb ed="#C" n="27"/>perimitur: &amp; a Gallo Aquilio ita composita est, quicqui 
+      <lb ed="#C" n="28"/>vel quodcunque te mihi, vel quodcunque ex quacunque caus 
+      <lb ed="#C" n="29"/>dare aut facere oportet, oportebitve praesens in diemve 
+      <lb ed="#C" n="30"/>aut sub conditione quarumcumque rerum mihi tecum acti 
+      <lb ed="#C" n="31"/>est quaeque abs te id est contra te petitio quodve adversu 
+      <lb ed="#C" n="32"/>te persecutio erit, quodque tu me non habes, tenes posside 
+      <lb ed="#C" n="33"/>ve, dolove malo fecisti, quo minus possideas, sponde 
+      <lb ed="#C" n="34"/>quantumcunque eorum res erit, tantam pecuniam stipu 
+      <lb ed="#C" n="35"/>latus est Aulus Augerius, spopondit Numerius Egidiu? 
+      <lb ed="#C" n="36"/>item ex diverso Numerius Egidius interrogavit Aulun 
+      <lb ed="#C" n="37"/>Augerium, Quicquid tibi hodierna die per Aquil. stipul¬ 
+      <lb ed="#C" n="38"/>tionem spopondi, id omne habesne acceptum? Respor 
+      <lb ed="#C" n="39"/>dit Aulus Augerius, Habeo acceptum, acceptumque tul 
+      <lb ed="#C" n="40"/>Inst. quib. mod toll. oblig. § est &amp; prodita, &amp; ff. de accept &amp; uno 5 
+      <lb ed="#C" n="41"/>Hoc autem per hanc acceptilationem &amp; Aquil. stipulat 
+      <lb ed="#C" n="42"/>bnem lites, de quibus cogitatum non est in suo statu ret 
+      <lb ed="#C" n="43"/>netur, ut ff.de transa, cum Aquiliana, quia iniquum est pact¬ 
+      <lb ed="#C" n="44"/>perimi, de quo cogitatum non docetur. ff. detransa qui cur 
+      <lb ed="#C" n="45"/>tutoribus § ultim. nisi secuta sit generalis transact. supra d 
+      <lb ed="#C" n="46"/>transact capit.i. quod dic ut notat. in summa detransact. §e 
+      <lb ed="#C" n="47"/>quis sit effectu 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e265">
+               <lb ed="#C" n="48"/>QUaliter fiat acceptilatio. Et quidem non in diem 
+      <lb ed="#C" n="49"/>vel conditionem expressam, sed in tacitam bene fit, ir 
+      <lb ed="#C" n="50"/>est. n. tacitae illa conditio, quae erat in prima obligatione, 
+      <lb ed="#C" n="51"/>ff. de accep. l. 4. &amp; 5. &amp; I.quod in diem, &amp; de reg jur. quod in dien 
+      <lb ed="#C" n="52"/>sed aliud in solutione naturali, utff. eo sub condi. &amp; de acque pe 
+      <lb ed="#C" n="53"/>qui absenti §1. Et fit acceptilatio super illa obligatione tan 
+      <lb ed="#C" n="54"/>tum, quae verbis contracta erat, alias dedit in Aquil. stipr 
+      <lb ed="#C" n="55"/>lationem, &amp; postea sequitur acceptilatio, ut dixi supra su 
+      <lb ed="#C" n="56"/>proxim. versicul. sed &amp; per Aquil. Fit autem aliquando in 
+      <lb ed="#C" n="57"/>obligationem, quae contracta erat jurejurando pro operi 
+      <lb ed="#C" n="58"/>liberti, ffide acce &amp; per Jusjurandum. Item in ea quae soloc 
+      <lb ed="#C" n="59"/>sensu erat contracta, &amp; valet potius jure consensus quan 
+      <lb ed="#C" n="60"/>acceptilationis ff. de accept. I.ultim. &amp; de rescind vend cum em 
+      <lb ed="#C" n="61"/>ptor. Si vero inutiliter fiat acceptilatio, ut super obligat 
+      <lb ed="#C" n="62"/>one, quae re contracta erat, habet pacti exceptionem, ff. 
+      <lb ed="#C" n="63"/>except. si acceptillatum, si vero ideo inutilis est, quia solenn 
+      <lb ed="#C" n="64"/>tas non fuit servata, contra est, ut ff. de accep an inutilis, &amp; 
+      <lb ed="#C" n="65"/>in diem. &amp; l. acceptilatio, &amp; secundum hoc intellige, f. de pact 
+      <lb ed="#C" n="66"/>si unus, § penultim 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e309">
+               <lb ed="#C" n="67"/>A Quo fit acceptilatio. Et quidem speciale est per procu 
+      <lb ed="#C" n="68"/>creditoris, forte &amp; generalem, si tamen habeat liberan 
+      <lb ed="#C" n="69"/>administrationem. sed servus creditoris, nec jussu dom 
+      <lb ed="#C" n="70"/>ni acceptuferet, ut ff de acce l. pen. vel per specialem procu 
+      <lb ed="#C" n="71"/>ratorem debitoris, si promittat dominus novandi animo 
+      <lb ed="#C" n="72"/>ut in curatore dicitur. ffi de acce, &amp; per jusjur. § tutor, alias in 
+      <lb ed="#C" n="73"/>cipit lex aut, &amp; ita videtur debitor liberari, si vero non erat 
+      <lb ed="#C" n="74"/>procurator, &amp; promittat novandi animo, 
+      nihilomi<lb ed="#C" n="75" break="no"/>nus me liberat, &amp; ipse per acceptilationem 
+      <lb ed="#C" n="76"/>liberatur 
+    <!--</p>
+      <!-\-Henricus_a_Segusio_cardinalis_Hostiensis-0465.xml-\->
+      <cb ed="#C" n="b"/>
+      <lb ed="#C" n="77"/>ADDITIO 
+      <lb ed="#C" n="78"/>b Qualiter fiat acceptilatio. J Adde de forma acceptilationis, 
+    </p>
+    <p>
+      <lb ed="#C" n="79"/>&amp; ejus effectu. Vide Inst. quibus mod. toll. ablig 5-->
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e335">
+               <lb ed="#C" n="80"/>De Novationibus. Rubricella. 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e340">
+               <lb ed="#C" n="81"/>SUMMARIA. 
+      <lb ed="#C" n="82"/>I. Obligatio quae potest novari 
+      <lb ed="#C" n="83"/>Novare quis potes 
+      <lb ed="#C" n="84"/>Novatio quando fi¬ 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e352">
+               <lb ed="#C" n="85"/>INterpretativa dicitur solutio, 
+      <lb ed="#C" n="86"/>ut est novatio &amp;c.
+      <lb ed="#C" n="87"/>delegatio. Est autem novatio a prioris de 
+      <lb ed="#C" n="88"/>biti in aliam obligationem civilem vel natu 
+      <lb ed="#C" n="89"/>ralem transfusio, sive translatio, nec refer 
+      <lb ed="#C" n="90"/>utrum prius fuerit civilis vel naturalis, nec refert an contra 
+      <lb ed="#C" n="91"/>cta fuerit re, vel verbis, vel qualitercumque, utf. de norat.I.i. Ii 
+      <lb ed="#C" n="92"/>secunda autem obligatione necessarium est, quod teneat sal 
+      <lb ed="#C" n="93"/>tem naturaliter, ut ecce, quod debes mihi stipulor a pupil 
+      <lb ed="#C" n="94"/>lo, animo novandi, sine tutoris authoritate, fiet rovatio 
+      <lb ed="#C" n="95"/>quia pupillus naturaliter obligatur, secus, si stipulor a ser 
+      <lb ed="#C" n="96"/>vo, quia ex fidejussione nec obligatur naturaliter, nec do 
+      <lb ed="#C" n="97"/>minus de peculio, aliud in pupillo quia naturaliter ebli 
+      <lb ed="#C" n="98"/>gatur, &amp; ideo quamvis inutilis sit agendum, utilis tamer 
+      <lb ed="#C" n="99"/>est ad accipiendum, ut Inst. qui. mod. ioll ob. §adeo f defideju, 
+      <lb ed="#C" n="100"/>sed &amp; si serri dominus 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e389">
+               <lb ed="#C" n="101"/>QUae obligatio? potest novari? Quaelibet, dummodo 
+      <lb ed="#C" n="102"/>&amp; contracta sit, forte etiam si literis tantum sive sit pura 
+      <lb ed="#C" n="103"/>sive in diem, sive sub condi, fide norat omnes, &amp; l.indiem, &amp; 
+      <lb ed="#C" n="104"/>si Siichum, §i &amp; l.quotie 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e400">
+               <lb ed="#C" n="105"/>QUis potest novare? Is cui actio competit, si major fit 
+      <lb ed="#C" n="106"/>25. anno. &amp; compos suae meniis. Item tuior &amp; cura 
+      <lb ed="#C" n="107"/>tor, si his, quorum curam gerunt, expediat, idem in pra 
+      <lb ed="#C" n="108"/>lato, sed novare potest is qui habet liberam &amp; generalen 
+      <lb ed="#C" n="109"/>administrationem filiusfamilias, vel servus, sec si non ha 
+      <lb ed="#C" n="110"/>bet liberam, solvi potest ei, sicut adjecto in stipulationem 
+      <lb ed="#C" n="111"/>sed ipse novare non potest: quinimo &amp; nisi habet liberam 
+      <lb ed="#C" n="112"/>novare non potest animo novandi, ff denorat. cui recte, &amp; 
+      <lb ed="#C" n="113"/>servus, &amp; leg noare, &amp; leg si debitorem, &amp; leg. si quis absentes 
+      <lb ed="#C" n="114"/>&amp; lig filiu, &amp; leg. ultim. rest on. 1. &amp; S1 &amp; deproc. procurator ci 
+      <lb ed="#C" n="115"/>libera. &amp; procurator tutorum, &amp; de pact. contra juris civilis re 
+      <lb ed="#C" n="116"/>pulas, infra de do, capit. 2. quod dicut nont. infra de do. Sq uis d 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e429">
+               <lb ed="#C" n="117"/>QUando fit novatio.  Secundum antiquissimum tem¬ 
+      <lb ed="#C" n="118"/>pus fit novatio, eo ipso quod aliquid additur, vel detra¬ 
+      <lb ed="#C" n="119"/>hitur obligationi: uiff. de act. &amp; oblig obligationum fere, Sul 
+      <lb ed="#C" n="120"/>tun. Inst quibus mod toll. cbl. § praeterea. Sed medio tem por 
+      <lb ed="#C" n="121"/>ita denu fiebat sihoc saltem ageretur tacite, f.denoram 
+      <lb ed="#C" n="122"/>nibus, leg. 2. &amp;I si ita fuero, §i leg. cum enim. Sed hodie ita d¬ 
+      <lb ed="#C" n="123"/>inum sit, si hoc expressim agatur, alias prior obligatiomi 
+      <lb ed="#C" n="124"/>net &amp; posterior incrementum affert: ut C. de dona Iulii ffa 
+      <lb ed="#C" n="125"/>praetor, stipul. I penuli. Instit. quibus modaollitur obligatio, §prae 
+      <lb ed="#C" n="126"/>terea, novationum autem alia voluntaria, de qua diximus 
+      <lb ed="#C" n="127"/>alia necessaria, ut ea quae fit per lit. contest. in voluntari 
+      <lb ed="#C" n="128"/>perit privilegium dotis, &amp; tutelae si post divortium dos i 
+      <lb ed="#C" n="129"/>stipulationem deducatur: vel post pubertatem tutelae 
+      <lb ed="#C" n="130"/>ctio: secus est in necessaria, nemo enim dicet conditioner 
+      <lb ed="#C" n="131"/>nostram per lit. contest denteriorem debere fieri, ut ff.denm¬ 
+      <lb ed="#C" n="132"/>ra. aliam Fit enim novatio necessaria per sententiam: ut d 
+      <lb ed="#C" n="133"/>cond. indeb. Jul. &amp; C. de rebus cred actor 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="134"/>ADDITIONES. 
+      <lb ed="#C" n="135"/>a Est autem novatio] Adde Ias. in addit ad Porcum Insti, quil 
+    </p>
+    <p>
+      <lb ed="#C" n="136"/>mod. toll. oblig in addit. incip. quia hoc casu, in I. co¬ 
+      <lb ed="#C" n="137"/>b Quando fit novatio.) Adde an sit differentia inter novatio 
+    </p>
+    <p>
+      <lb ed="#C" n="138"/>nem &amp; acceptilationem. Vide per Bar. in laex duob. ff. de duob. rei-->
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e470">
+               <lb ed="#C" n="139"/>De Delegationibus. Rubricella 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e475">
+               <lb ed="#C" n="140"/>SUMMARIA. 
+      <lb ed="#C" n="141"/>1. Delegare quid si¬ 
+      <lb ed="#C" n="142"/>2. Delegans liberatus est, si novatio intervenia
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e485">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0466.xml-->
+               <pb ed="#C" n="449"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>VIdimus de novatione nunc de 
+      <lb ed="#C" n="2"/>
+      delega<lb ed="#C" n="3" break="no"/>tione. Quid est delegare: vice suâ alium rei 
+      <lb ed="#C" n="4"/>creditori dare: vel cui cesserit creditor: utf 
+      <lb ed="#C" n="5"/>de novat. I.2. &amp; I. delegare, delegare autem possum 
+      <lb ed="#C" n="6"/>vel voce, vel scripto, vel nutu. Sed si delega 
+      <lb ed="#C" n="7"/>verim non debitorem, ipso ignorante, nulla potest se tueri ex 
+      <lb ed="#C" n="8"/>ceptione, contra creditorem. Quid ergo faciet nunquide 
+      <lb ed="#C" n="9"/>rit in damnum? non: imo si non solvit cond. incerti, aget co 
+      <lb ed="#C" n="10"/>tra me, ut liberem eum, si solvit cond. certi, ut ei pecunian 
+      <lb ed="#C" n="11"/>reddam, f. de nova si quis. Sed si delegem eum ei, quem cre 
+      <lb ed="#C" n="12"/>debam debitorem meum cum non esset: vel illi cui donar¬ 
+      <lb ed="#C" n="13"/>volebam excep. patet, fi de doli excep Jul. Inter delegatun 
+      <lb ed="#C" n="14"/>autem &amp; creditorem, cui sit delegatus, oportet stipulatio 
+      <lb ed="#C" n="15"/>nem intervenire: vel litis conte his enim modis fit deleg¬ 
+      <lb ed="#C" n="16"/>tio. f. de nova delegare § sit, secus si tibi mando actiones, ve 
+      <lb ed="#C" n="17"/>cedo: nam ibi nulla requiritur necessitas: nec consensus de 
+      <lb ed="#C" n="18"/>bitoris, contra quem ceduntur, exigitur: quinimo ipsas 
+      <lb ed="#C" n="19"/>ctiones intentare possum, nisi ei denunciaveris, vel part 
+      <lb ed="#C" n="20"/>debiti acceperis, vel litem contestatus sis. C.eo.l.i. &amp; 3. &amp; pe 
+      <lb ed="#C" n="21"/>hoc patet incorporalia difficilius separari, quam corpor 
+      <lb ed="#C" n="22"/>lia, ff de peculio. quis ergo, fi pro socio l.i.2.&amp; 3. Et not. quod qu 
+      <lb ed="#C" n="23"/>a daelegat,* liberatus est, si novatio interveniat, ut C. de nov¬ 
+      <lb ed="#C" n="24"/>L2. &amp;3. in fin &amp; l.ultim. Idem est, si creditor approbavit nc 
+      <lb ed="#C" n="25"/>men, quamvis minus idoneum, &amp; imputet sibi qui appro 
+      <lb ed="#C" n="26"/>bavit, arg. ff mand inter causas, Sabesse: &amp; ad Velleja, quamvis, 
+      <lb ed="#C" n="27"/>interdum. Est tamen verum, quod non fit novatio, nisi 2 
+      <lb ed="#C" n="28"/>gatur expressim, ut dixi supra eodem quando fit novatio, su 
+      <lb ed="#C" n="29"/>rubrica, de novat. sed haec non removet, quin delegatio fiei 
+      <lb ed="#C" n="30"/>possit. Sed nunquid, ubi delego debitorem, &amp; creditor no 
+      <lb ed="#C" n="31"/>men approbavit, sum liberatus ipso jure, an per exceptio 
+      <lb ed="#C" n="32"/>nem, dico ipso jure, secundum Ot. Papa, solvit enim &amp; qui de 
+      <lb ed="#C" n="33"/>legat, ut C. de solut. inviio, ff. de sol. solutam, &amp; solutione eju 
+      <lb ed="#C" n="34"/>quod debetur, omnis tollitur obligatio, ut dixi in prin hu 
+      <lb ed="#C" n="35"/>jus summae, &amp; actio semel extincta in perpetuum non re 
+      <lb ed="#C" n="36"/>viviscit, f. de sol. qui res, §aream, &amp; de consec. dist. 3. quaeris 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e572">
+               <lb ed="#C" n="37"/>De Confusione. Rubricella. 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e577">
+               <lb ed="#C" n="38"/>SVMMARIA 
+      <lb ed="#C" n="39"/>Solutio interpretativa potest dici confusio
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e584">
+               <lb ed="#C" n="40"/>ITem potest dici solutio 
+      interpre<lb ed="#C" n="41" break="no"/>tativa? confusi¬ 
+      <lb ed="#C" n="42"/>nam si succedis creditori tuo, vel credito 
+      <lb ed="#C" n="43"/>tibi aditione haereditatis, confusa est obli 
+      <lb ed="#C" n="44"/>gatio, &amp; extincta per compensationem, d 
+      <lb ed="#C" n="45"/>qua dic ut non. sup. depositi, ad hoc C. eo. tit. scil. de solutio. liber¬ 
+      <lb ed="#C" n="46"/>ri, &amp; l. ejus quantitas, &amp; I si obligatum. C. ad legem Falcidiam, l. ac 
+      <lb ed="#C" n="47"/>jectis, l. imponenda, &amp; ISuccessores. Si tamen fidejussor succe 
+      <lb ed="#C" n="48"/>dit fidejussori, nulla tollitur, sed duab. tenetur, f. de fidejus 
+      <lb ed="#C" n="49"/>sorib. haeres § non est, sed si fidejussor succedit creditori, vel 
+      <lb ed="#C" n="50"/>contra, accessoria tantum tollitur, ut dicta I. haeres S quid sist. 
+      <lb ed="#C" n="51"/>pulator, &amp; l. Lucius, &amp; l. Vranius § quid si creditori. Sed si fide 
+      <lb ed="#C" n="52"/>jussor succedit reo naturaliter tantu obligato, neutra tol 
+      <lb ed="#C" n="53"/>litur, si vero reo civiliter, &amp; naturaliter obligato succedi 
+      <lb ed="#C" n="54"/>accessoria tantum tollitur, ui f. de fidejuss. haeres § servo tuod 
+      <lb ed="#C" n="55"/>sequ. § quod hic servus. Sin autem reus creditori, vel econtra 
+      <lb ed="#C" n="56"/>succedit, omnis tollitur obligatio, ut f. de fidejuss. si Seichun 
+      <lb ed="#C" n="57"/>Sa Titio. &amp; I si debitori 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e626">
+               <lb ed="#C" n="58"/>De Oblatione. Rubricella. 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e631">
+               <lb ed="#C" n="59"/>SUMMARIA, 
+      <lb ed="#C" n="60"/>1. Solvere quis possi¬ 
+      <lb ed="#C" n="61"/>Solutio cui sit facienda 
+      <lb ed="#C" n="62"/>j. Quid solvatur 
+      <lb ed="#C" n="63"/>Effectus solutionis quis siu 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e645">
+               <lb ed="#C" n="64"/>ESt &amp; oblatio. interpretativa 
+      solu<lb ed="#C" n="65" break="no"/>tio. Sed hic multa sunt 
+      <lb ed="#C" n="66"/>necessaria. In primis, quod fiat congruo lo 
+      <lb ed="#C" n="67"/>co &amp; tempore id est ubi debetur, &amp; quod 
+      <lb ed="#C" n="68"/>; lius cui offertur, non habeat impedimentum 
+      <lb ed="#C" n="69"/>quo minus recipere possit, ut C. eo. obsignatione, &amp; ff. eo si solu 
+      <lb ed="#C" n="70"/>turus, &amp; de pig creditor. Et quod consignetur, &amp; sub sigillo in 
+      <lb ed="#C" n="71"/>sacco recludatur, &amp; deponatur in aedem sacram, si is cui os 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0466.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="72"/>fertur recipere nolit, nec.n.prodest oblatio sine consigna 
+      <lb ed="#C" n="73"/>tione, vel cotra, ut C. de usu. I. 2. &amp; l. acceptam. Item necesse est 
+      <lb ed="#C" n="74"/>quod totum offeratur, non pars, ut C. eo. obsignatione, nisi al 
+      <lb ed="#C" n="75"/>initio ita convenerit utf manda qui mutuam, §1. vel ubi nor 
+      <lb ed="#C" n="76"/>confiteor, nisi partem debiti, f.eodem si certum petatur, quid 
+      <lb ed="#C" n="77"/>aestimaverunt, vel nisi favor libertatis aliud inducat, ut s 
+      <lb ed="#C" n="78"/>relicta sit libertas servo, si Titio dederit 20. nam si 10. tanti 
+      <lb ed="#C" n="79"/>habeat, ea solvere potest. f. de statu lib. cum haeres § ult. Et ne 
+      <lb ed="#C" n="80"/>cesse est, quod ipsemet qui debet offerat, non alius pro eo 
+      <lb ed="#C" n="81"/>f. de his quae n frau. cre. ait praetor, § illud, aliud in solutione 
+      <lb ed="#C" n="82"/>quam quilibet facere potest, ut notat. infra eodem quis posssi 
+      <lb ed="#C" n="83"/>solvere, potest tamen dici contrarium, nec obst. I. supra in 
+      <lb ed="#C" n="84"/>ducta ff. de his quae in frau. cre. ait praetor § illud, quia intellig 
+      <lb ed="#C" n="85"/>potest, quando verbo tantum offerebat, sed tradere nole 
+      <lb ed="#C" n="86"/>bat, &amp; sic faciebat hoc in fraudem &amp; ideo non valet ut di 
+      <lb ed="#C" n="87"/>cit litera, alias autem si bona fide &amp; cum effectu fieret ob 
+      <lb ed="#C" n="88"/>latio per alium, quare non valeret, quae enim esset ratic 
+      <lb ed="#C" n="89"/>diversitatis quod posset quis per alium solvere, &amp; non of 
+      <lb ed="#C" n="90"/>ferre? Dicas quod in promptu est, scilicet quia solutum 
+      <lb ed="#C" n="91"/>de facili, non recuperat: secus in offerente, ut patet infr¬ 
+      <lb ed="#C" n="92"/>eodem ver. sequent. vel distin. utrum fiat in judicio: &amp; tum¬ 
+      <lb ed="#C" n="93"/>valet, vel extra: &amp; tunc non valet: ut patet in his quae nota 
+      <lb ed="#C" n="94"/>infra eodem versic. si tamen quaeras. Item necesse est, quoc 
+      <lb ed="#C" n="95"/>deposita duret, alis si offerens in usus proprios convertat 
+      <lb ed="#C" n="96"/>non est tutus, f. de usuris debitor, &amp; C.de usur. acceptam. in fin 
+      <lb ed="#C" n="97"/>Item requiritur; quod fiat oblatio ei cui debetur, vel ec 
+      <lb ed="#C" n="98"/>absente, judici: &amp; si Judex deficiat, aliis honestis personis 
+      <lb ed="#C" n="99"/>ut C. de usur. si creditrici supra de offic. ordin. pastoralis, in fin. ne¬ 
+      <lb ed="#C" n="100"/>enim imputatur mihi, si non habeo cui solvam, ut ff.de le¬ 
+      <lb ed="#C" n="101"/>commis leg. ultim. Si tamen quaeras, utrum talis obligatio¬ 
+      <lb ed="#C" n="102"/>pariat pignoratitiam: dico quod sic, si fiat in judicio: alia 
+      <lb ed="#C" n="103"/>non, ut f. de pigno. actio si rem alienam. ff. quibus mod. pigno ve 
+      <lb ed="#C" n="104"/>hypo. item liberatur pignus, §. qui paratus, &amp; de hac oblatio 
+      <lb ed="#C" n="105"/>ne multa notant. C. de jure emphyteut. leg. 2. &amp; de usur acce 
+      <lb ed="#C" n="106"/>ptam. Operatur autem haec oblatio, ut debitor liberetur 
+      <lb ed="#C" n="107"/>&amp; quidem ipso jure, quamvis pecunia deposita amissa sit 
+      <lb ed="#C" n="108"/>ff de arbitr si arbiter &amp; depositi, leg 1§ si pecunia, in sin. Et haec 
+      <lb ed="#C" n="109"/>locum habent, quando debitum consistit in quantitate 
+      <lb ed="#C" n="110"/>nam si species debetur, sola oblatio sufficit, utff. de solutis 
+      <lb ed="#C" n="111"/>qui decem, §.i. &amp; leg. si debitor. hoc dixi ad notitiam aliquam 
+      <lb ed="#C" n="112"/>hujus oblationis habendam. Azo tamen quantum ad usu 
+      <lb ed="#C" n="113"/>ras, &amp; alia quaedam plenius dixit de hoc in summa sua de 
+      <lb ed="#C" n="114"/>usuris, super lacceptam, sed nobis sufficiunt ista 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e762">
+               <lb ed="#C" n="115"/>ITem per interitum rei, quae debebatur mora praece 
+      <lb ed="#C" n="116"/>dente, contingit liberatio, ut ff. de eodem verborum: &amp; d 
+      <lb ed="#C" n="117"/>verborum obligatio, si ex legati, &amp; leg. nemo rem suam, §1. Tol 
+      <lb ed="#C" n="118"/>litur autem in hoc casu ipsa naturalis ebligatio, quia 8 
+      <lb ed="#C" n="119"/>tollitur per pactum simplex, &amp; per jusjurandum, &amp; pe¬ 
+      <lb ed="#C" n="120"/>chirographi redditionem, civilis autem tollitur per ex 
+      <lb ed="#C" n="121"/>ceptionem, &amp; ff. eodem Sitichum, §. naturali, &amp; Institut. de ex 
+      <lb ed="#C" n="122"/>teptio. §. praeterea, sed in casibus ipso sure tollitur civilis. f 
+      <lb ed="#C" n="123"/>de pac si tibi, §. 1. Item amirtit creditor jus suum propre 
+      <lb ed="#C" n="124"/>maleficium suum per constitutior divi Claudii, cum ces 
+      <lb ed="#C" n="125"/>sit actio. suam potentiori, ut notat. supra de alienand. juda 
+      <lb ed="#C" n="126"/>mutandi causa facta, &amp; per alias constitutiones, quas notat 
+      <lb ed="#C" n="127"/>supra quod metus causa, §. qualiterretractetur, sub §. puniun 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e793">
+               <lb ed="#C" n="128"/>Ttem fit solutio per fructuum perceptionem, supra d 
+      <lb ed="#C" n="129"/>pigno, cum contra G. quod dic, ut not. supra de pigno Sqvan¬ 
+      <lb ed="#C" n="130"/>do efficaciter, versic. si tamen quis fecerit juramentum, &amp; sequen-
+      <!-- missing line break -->tibus. 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e804">
+               <lb ed="#C" n="131"/>NAturalis, sive vera solutio est, quando pecunia 
+      nume<lb ed="#C" n="132" break="no"/>ratur, &amp; haec omnem obligationem perimit, si solven: 
+      <lb ed="#C" n="133"/>major sit vigintiquinque ann. sanae mentis, quamvis accusa 
+      <lb ed="#C" n="134"/>tus esset. ff. eo. sed nec illud &amp; I praeced. reo, secus in pupillo, ve 
+      <lb ed="#C" n="135"/>adulto, habente curatorem, nam si non haberet aduitus, i 
+      <lb ed="#C" n="136"/>dem esset, ut ff. eod quod si forte, § ult. C. de in integ. resti. mino 
+      <lb ed="#C" n="137"/>curatorem 
+  </p>
+            <p xml:id="nbht7y-d1e1133-d1e822">
+               <lb ed="#C" n="138"/>Quis possit solvere. Is qui obligatus est, ut 
+      <lb ed="#C" n="139"/>dixi supra proxime §. Item 
+      <lb ed="#C" n="140"/>fidejussor, &amp; ejus haeres, f. de fidejussoribus potest. §. 1. Et ho 
+      <lb ed="#C" n="141"/>intelligas dummodo compos &amp; major annor. nam s 
+      <lb ed="#C" n="142"/>pupillus sine authoritate tutoris solvat, non contingit li 
+      <lb ed="#C" n="143"/>beratio, nisi pecunia sit consumpta, ff. eodem, quod siforte 
+      <lb ed="#C" n="144"/>§. sinal. idem est etiam in adulto, si curatorem habet, ut 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0467.xml-->
+      <pb ed="#C" n="450"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>patet in his, quae notat infra eodem,§ sequent versicul. idem 
+      <lb ed="#C" n="2"/>solvatur, &amp; praecedent. sed &amp; is qui obligatus non est no 
+      <lb ed="#C" n="3"/>mine suo, ut tutor, curator, &amp; praelatus ecclesiae, etiam di 
+      <lb ed="#C" n="4"/>bita praedecessoris sui solvere potest, &amp; debet, ff. de admin 
+      <lb ed="#C" n="5"/>strat tutor quoties, § sicut autem &amp; de condit. indeb, si procurator 
+      <lb ed="#C" n="6"/>infra eodem capitul: &amp; vide quantum ad debitum ecclesiae 
+      <lb ed="#C" n="7"/>quod no supra ut 1§ &amp; quis. Et quilibet nomine debitori 
+      <lb ed="#C" n="8"/>solvens ipso mandante liberat debitorem, f. eo. 441 mandat 
+      <lb ed="#C" n="9"/>&amp; I. Cassius, vel etiam ignorante, &amp; tunc tenetur habere ri 
+      <lb ed="#C" n="10"/>tum, quis per hoc melior fit conditio sua. ff. depign. actio. s 
+      <lb ed="#C" n="11"/>lutum, § solutam, &amp; etiam eo invito. f. eo solvere, &amp; de neg ge 
+      <lb ed="#C" n="12"/>solvendo. Inde est, quod possum solvere creditori credito 
+      <lb ed="#C" n="13"/>ris mei, &amp; liberor, nisi forte interesset creditoris mei no 
+      <lb ed="#C" n="14"/>fuisse solutum ff. de nego. gest si liber homo. &amp;I cum pecuniam 
+      <lb ed="#C" n="15"/>hoc si quantitas debetur, secus, si factum est, f. eodem, mi 
+      <lb ed="#C" n="16"/>artifice.
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e881">
+               <lb ed="#C" n="17"/>Cui facienda sit solutio: Creditori majoris 
+      <lb ed="#C" n="18"/>anno. etiam accusato. ff. eoden 
+      <lb ed="#C" n="19"/>reo, non pupillo, nisi fieret authoritate Judicis, in quoc 
+      <lb ed="#C" n="20"/>su si debitor ei solvat sine jussu judicis, in aedem sacram di¬ 
+      <lb ed="#C" n="21"/>ponat, plenam consequitur securitatem, ff.deminoribus, a 
+      <lb ed="#C" n="22"/>praetor, §. primo. Sed si solvitur ei authoritate tutoris, ve 
+      <lb ed="#C" n="23"/>tutoribus, vel curatoribus nomine eorum consequitu 
+      <lb ed="#C" n="24"/>solvens liberationem. Idem si solvatur adulto, non haber 
+      <lb ed="#C" n="25"/>ti curatorem, si tamen perdat pecuniam restituitur, ut ( 
+      <lb ed="#C" n="26"/>si adver. solo. leg 1. nisi falso probaverit se majorem ad deci 
+      <lb ed="#C" n="27"/>piendum, in quo casu curator perseverans in officio, sc 
+      <lb ed="#C" n="28"/>ens ipsum minorem, &amp; patiens, quod pecuniam recipi 
+      <lb ed="#C" n="29"/>at, hoc nomine, potest conveniri, ff. deminoribus legmino 
+      <lb ed="#C" n="30"/>25. anno. adito praeside. Sunt etiam casus, in quibus dene 
+      <lb ed="#C" n="31"/>gatur restitutio minori; quamvis fraudem non adhibu¬ 
+      <lb ed="#C" n="32"/>rit, scilicet cum restituitur ei ex Trebellia. haereditas, e 
+      <lb ed="#C" n="33"/>quando solvuntur ei pensiones, vel usurae, non excedente 
+      <lb ed="#C" n="34"/>metas biennales &amp; summam centum solidorum. C. de ad 
+      <lb ed="#C" n="35"/>ministratione tutorum, sancimus, &amp; leg. ad constitutio, &amp; ad Tri 
+      <lb ed="#C" n="36"/>bell leg penultim. Sed si solvitur soli pupillo, vel adulto cu 
+      <lb ed="#C" n="37"/>ratorem habenti, sine authoritate curatoris, non contin¬ 
+      <lb ed="#C" n="38"/>git liberatio ipso jure, verum si sit minor, locupletior pe 
+      <lb ed="#C" n="39"/>exceptionem repellitur; F. eod. in papillo, quia potius cer 
+      <lb ed="#C" n="40"/>tat de praeda, quam de damno, neque debet occasione ju 
+      <lb ed="#C" n="41"/>ris trahere ad iniquum compendium, ut Institut quibus. 
+      <lb ed="#C" n="42"/>lienan. licet, §penultim. &amp; C. pro cuyptore, leg. eum, ff. de adhnin 
+      <lb ed="#C" n="43"/>stratione tutorum, minoris. Sed si minor solvat majori, &amp; 
+      <lb ed="#C" n="44"/>rat obligatus ex causa, in qua decretum erat necessarium 
+      <lb ed="#C" n="45"/>&amp; tutor &amp; decretum intervenire debet, nisi pupillus obl 
+      <lb ed="#C" n="46"/>gatus sit ex persona patris, ff. derebus eorum, qui sub tuto 
+      <lb ed="#C" n="47"/>sunt magis, §. si pupillus, alias solutum repetet, sed si credi 
+      <lb ed="#C" n="48"/>tor consumpsit, liberatur minor facto creditoris, ut I 
+      <lb ed="#C" n="49"/>stitut quibus alien licet§. sinal ff sicertum pera. non omnis e fina 
+      <lb ed="#C" n="50"/>f. eodem, quod si forte S. ultimo. Et potest hoc trahi in argu 
+      <lb ed="#C" n="51"/>mentum quando solutio fit ecclesiae, quae fungitur vic 
+      <lb ed="#C" n="52"/>minoris, ut supra de restitut. in integr capit i. Potest etiam sol 
+      <lb ed="#C" n="53"/>vi alii, violente creditore, vel ratum habente, nisi in casu 
+      <lb ed="#C" n="54"/>scilicet cum servus fugitivus gerit se pro libero: &amp; ibi for 
+      <lb ed="#C" n="55"/>te locum habet doli except. utff si certum pet. cum fundus,s 
+      <lb ed="#C" n="56"/>eodem solutam. &amp; leg fugitivus. Sed si sciam tacite vel expre¬ 
+      <lb ed="#C" n="57"/>sim revocatum mandatum, non liberor, alias contra, s 
+      <lb ed="#C" n="58"/>eodem vero, &amp; lec ratum, &amp; leg cum quis, §sinal. Item solv 
+      <lb ed="#C" n="59"/>tur adjecto in stipulatione, quicunque sit ille nisi fort¬ 
+      <lb ed="#C" n="60"/>status adjecti mutetur: puta quia factus est alieni juris 
+      <lb ed="#C" n="61"/>cum esset sui, vel nisi creditor litem contestatus sit, alia 
+      <lb ed="#C" n="62"/>contra, ut f. eodem sistipulatus fuero, &amp; leg. cum quis, respon¬ 
+      <lb ed="#C" n="63"/>I &amp; leg. Stichum, § usufructus, &amp; leg. aliquid, &amp; leg si quis stipu 
+      <lb ed="#C" n="64"/>latus, § primo. Item solvitur servis ex contractu dominico 
+      <lb ed="#C" n="65"/>etiam post manumissionem, si tamen ignoretur manu 
+      <lb ed="#C" n="66"/>missio, vel in peculiari etiam scienter, dummodo peculi 
+      <lb ed="#C" n="67"/>credatur concessum, ut leg si quis servo, &amp; leg secus, peculi 
+      <lb ed="#C" n="68"/>ari nomine, &amp; leg. quod servus litis, tamen procuratori, nisi ac 
+      <lb ed="#C" n="69"/>hoc specialiter datus sit, non recte solvitur, ff. eodem hoc ju 
+      <lb ed="#C" n="70"/>re, &amp; in summa cuicunque solvantur voluntate creditori 
+      <lb ed="#C" n="71"/>majoris, sanae mentis, liberatio contingit: quamvis ante 
+      <lb ed="#C" n="72"/>quam instrumenta obligationis reddita fuerint, creditor 
+      <lb ed="#C" n="73"/>moriatur. C. eo nihil interest
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e1008">
+               <lb ed="#C" n="74"/>Quid solvatur. Et quidem quod est in 
+      obli<lb ed="#C" n="75" break="no"/>gatione, si erat corporale: nam 
+      <lb ed="#C" n="76"/>incorporalia non recipiunt solutionem nec traditionem 
+      <lb ed="#C" n="77"/>ff. de acquirend. rerum dormi servus, §. incorporales. Et si quiden¬ 
+      <lb ed="#C" n="78"/>quantitas sit &amp; adj iciam in quam causam solvam, cum e¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0467.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>pluribus obligatus sim, in eam cedet, si vero non expr 
+      <lb ed="#C" n="80"/>mo, &amp; omnes causae principales erant, eliget creditor 
+      <lb ed="#C" n="81"/>quam acceptum feret, &amp; hoc si eligat in continenti, tun 
+      <lb ed="#C" n="82"/>enim potest in eam causam computare, in quam solverei 
+      <lb ed="#C" n="83"/>si deberet, &amp; verisimile, quod potius solveret id quod no 
+      <lb ed="#C" n="84"/>est in controversia, quam iliud quod est, &amp; pro se potiu 
+      <lb ed="#C" n="85"/>quam pro alio, si tamen constat per confessionem par 
+      <lb ed="#C" n="86"/>um, contrarium semper in eam causam accepto feretu 
+      <lb ed="#C" n="87"/>in quam solveret, &amp; in hoc prodest electio facta in cort 
+      <lb ed="#C" n="88"/>nenti, &amp; in alio, qui si plures essent pares causae, unam 
+      <lb ed="#C" n="89"/>git, quod potest ei prodesse, si forte in electa causa non 
+      <lb ed="#C" n="90"/>bet probationes in evidenti, si autem nunquam eligit, ve 
+      <lb ed="#C" n="91"/>intervallo, &amp; plures sunt causae pares, decidit de omnib 
+      <lb ed="#C" n="92"/>pro rata, sin autem una appareat durior, vel gravior cau 
+      <lb ed="#C" n="93"/>semper in eam accepto fertur, ut tamen gravior dicatur, 
+      <lb ed="#C" n="94"/>eo quod una pura, altera in diem, vel una est poena pect 
+      <lb ed="#C" n="95"/>niae, vel infamiae, altera non vel una cum fidejussore, a 
+      <lb ed="#C" n="96"/>ra non. Item quod de electione dixi, intellige cum credito 
+      <lb ed="#C" n="97"/>eligit, &amp; debitor tacet, alias si consentiat, expressim non es 
+      <lb ed="#C" n="98"/>opus discretione causae, vel si dissentiat, incontinentire 
+      <lb ed="#C" n="99"/>petit, Feodem l. 123. 4 &amp; 5 respon . Si una est principalis &amp; 
+      <lb ed="#C" n="100"/>lia accessoria, puta usuraria, &amp;t si usuras accepto feret, ut( 
+      <lb ed="#C" n="101"/>eodem l. I. haec si sint usurae debitae per stipulationem vel p 
+      <lb ed="#C" n="102"/>gnoris retentionem, secus, si nudo pacte, sed aliud, cun 
+      <lb ed="#C" n="103"/>creditor distrahit pignus, quin etiam in usurem pacto di 
+      <lb ed="#C" n="104"/>bitam accepto fert, f. eodem mhis, §. Imperator &amp; l. Paulu¬ 
+      <lb ed="#C" n="105"/>C. de usu per retentionem. Hodie non accepto feretur in usn 
+      <lb ed="#C" n="106"/>ras, cum indebitae sint, nisi, sicut notat insra de usur. Sanali 
+      <lb ed="#C" n="107"/>quo casu. Si vero corpus debeatur, si quidem in speci 
+      <lb ed="#C" n="108"/>certa, ita demum liberatur, si ita solvitur, ut non evinci 
+      <lb ed="#C" n="109"/>tur ex aliqua causa, ff.eodem, qui sibi, aut Titio &amp; Isirem, nisl 
+      <lb ed="#C" n="110"/>forte causa praecessit obligationem, ut in eo qui perveni 
+      <lb ed="#C" n="111"/>ad libertatem, f. de verborum obligat. si serrum, Sstasi snqu 
+      <lb ed="#C" n="112"/>dem. Sin autem in genere, necesse est corpus sic solvi, 
+      <lb ed="#C" n="113"/>aliquo modo auferri non possit, feodncumquis, §. h¬ 
+      <lb ed="#C" n="114"/>minem, &amp; leg qui decem, §. ultim. In omni autem debito i 
+      <lb ed="#C" n="115"/>totum &amp; plene debet fieri solutio, ff. eodim etiam cirta, 
+      <lb ed="#C" n="116"/>leg. qui sibi aut Titio. Item omnis satisfact. pro solution 
+      <lb ed="#C" n="117"/>cedit, ut ff. eodim satisfactio. hoc quando creditor eam ad 
+      <lb ed="#C" n="118"/>mittit, nec enim cogitur, ff. depigno actio si rem alienam, §. 
+      <lb ed="#C" n="119"/>mnis, sed in casibus cogitur. C. eodem auihentic. nisi, &amp; f. d 
+      <lb ed="#C" n="120"/>leg i si domus, §. in pecunia, &amp; de auro &amp; argento legato. lig. 
+      <lb ed="#C" n="121"/>in fin. 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e1119">
+               <lb ed="#C" n="122"/>Quis sit f effectus, ciu. Ut omnis tolam 
+      <lb ed="#C" n="123"/>obligatio, etiam naturali 
+      <lb ed="#C" n="124"/>ff. eod. si pupillus, ut fide jussores &amp; pignora liberentur. Instu¬ 
+      <lb ed="#C" n="125"/>quibus mod toll ob. in princ. &amp; qui dicit solvisse, hoc probare 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="126"/>ADDITIO 
+      <lb ed="#C" n="127"/>a Commodissime interjici poterit rubricella de altermativi de 
+    </p>
+    <p>
+      <lb ed="#C" n="128"/>biti solutione. Qua in re ita scribit Martin in Summa eodet 
+      <lb ed="#C" n="129"/>titul. Quando quis (inquit) enetur ad alterum duorum, quo 
+      <lb ed="#C" n="130"/>voluit praestando, liberatur, de inre dot leg. plerunque, § finale 
+      <lb ed="#C" n="131"/>C. de condit. indeb leg si quis servum. Nam in alternativi sus 
+      <lb ed="#C" n="132"/>ficit alterum impleri, ut probar text. apertissimus, inleg. cun 
+      <lb ed="#C" n="133"/>pupillus, §.diuiunclrvo modo, ff. de conditio &amp; demonstrat. Vsqu 
+      <lb ed="#C" n="134"/>adeo, ut debitor alterum ex alternative promissis solveret 
+      <lb ed="#C" n="135"/>creditor vero esset in mora recipiendi &amp; res oblata poste 
+      <lb ed="#C" n="136"/>perierit stipulat ori in creditorem actio non competit, leg sti 
+      <lb ed="#C" n="137"/>pulatus sum Damam. in princip ff. de verborum obliga Nam cum 
+      <lb ed="#C" n="138"/>solutione, &amp; realioblatione extincta sit obligatio, extinct, 
+      <lb ed="#C" n="139"/>quoque est actio. Nam cessante causa, cessant &amp; causarum 
+      <lb ed="#C" n="140"/>effectus. Et nemo sine actione experitur, vulgatis jurib. Su 
+      <lb ed="#C" n="141"/>periori rebricella subjici recte &amp; haec poterit de sol. indebit 
+      <lb ed="#C" n="142"/>repetitione: (sive si malis) condictione quam ex Martin u¬ 
+      <lb ed="#C" n="143"/>supra hunc transtulimus. Solvens inquit, quis indebitum jur 
+      <lb ed="#C" n="144"/>civili per errorem facti, &amp; non juris, repetere id potest: qual 
+      <lb ed="#C" n="145"/>est illud, quod per legem Falcidiam retineripot est, C. de t.i, 
+      <lb ed="#C" n="146"/>&amp; fac. ignor. Icum quis. Item repeti potest indebitum jure tan 
+      <lb ed="#C" n="147"/>tum naturali debitum, ut est illud, quo chirographo obliga 
+      <lb ed="#C" n="148"/>mur futurae numerationis spe, nam is, qui solvit, repetere po 
+      <lb ed="#C" n="149"/>test, extra, de sol. capit. final. Item solutum utroque jure in 
+      <lb ed="#C" n="150"/>debitum quandoque ignorantia repetitur. Cde condit. inde b. I. 1 
+      <lb ed="#C" n="151"/>Qui vero scit se non debere, &amp; solvit, non reperit, quia dona 
+      <lb ed="#C" n="152"/>re videtur, f de condit. indeb. l. 1. Est ergo indebitum triplex 
+      <lb ed="#C" n="153"/>scilicet jure naturali, civili, &amp; utroque. Est &amp; indebitum ad ju 
+      <lb ed="#C" n="154"/>ris rigorem servandum, qui id scienter solvit non repetit, fi 
+      <lb ed="#C" n="155"/>de condictio. indebiti. lege secund--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0468.xml-->
+      <pb ed="#C" n="451"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>tenetur, quo facto chirographum conducere potest, C.a 
+      <lb ed="#C" n="2"/>dem l. ult. cancellatio autem, vel redditio instrumenti sin 
+      <lb ed="#C" n="3"/>voluntate creditoris facta, non liberat debitorem, at C. Io¬ 
+      <lb ed="#C" n="4"/>debitori, f. de probacio si chirographum 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e1147">
+               <lb ed="#C" n="5"/>De cessione bonorum. Rubricella 
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e1152">
+               <lb ed="#C" n="6"/>HOC autem notandum wod si nor 
+      <lb ed="#C" n="7"/>habet qui 
+      <lb ed="#C" n="8"/>unde solvat, &amp; cedit bonis; non detruditur in car 
+      <lb ed="#C" n="9"/>cerem, ut C. qui bon cede. poss. leg. prima, nec excommun 
+      <lb ed="#C" n="10"/>candus est, &amp; si excommunicatus sit, absolvitur, recept 
+      <lb ed="#C" n="11"/>idonea cautione de solvendo debito, si ad pinguiorem fo¬ 
+      <lb ed="#C" n="12"/>tunam pervenerit, infra eodem Odoardus: sed nec tunc cor 
+      <lb ed="#C" n="13"/>demnatur, nisi inquantum facere potest, habita scilice 
+      <lb ed="#C" n="14"/>ratione, ne egeat, nec enim fraudandus est alimentis quo 
+      <lb ed="#C" n="15"/>tidianis, fdere judi sunt, qui in id quod facere possunt, ui f.qu 
+      <lb ed="#C" n="16"/>bonis cedere possunt, is qui, &amp; leg. qui bonis, &amp; leg si debitoris.e 
+      <lb ed="#C" n="17"/>quo ad haec tria, prodest cessio. Sed contra, videtur supr 
+      <lb ed="#C" n="18"/>utul.. pervenit, dic, quod ibi adhuc non cesserat bonis, e 
+      <lb ed="#C" n="19"/>ideo fructus praebendarum adversario assignantur. Qui¬ 
+      <lb ed="#C" n="20"/>ergo, si Judex ei praecipiat, quod solvat cum non habea 
+      <lb ed="#C" n="21"/>unde? Respondeo impossibile Judicis praeceptum noi 
+      <lb ed="#C" n="22"/>obligat, f quae sentent sine appellatio. rescind. Pau lus ff de regu 
+      <lb ed="#C" n="23"/>jur. impossibilium, supra de pact. capitul sinal. &amp; ejus pericu 
+      <lb ed="#C" n="24"/>lo, qui nihil habet, nihil esse potest. ff. defurt. itaque fullo. 
+      <lb ed="#C" n="25"/>de dolo. nam is nullam, supra de testitut. spolia. olim, supra de pi 
+      <lb ed="#C" n="26"/>gnor. lator, fit autem ludis cessio mirabilis non sine infa 
+      <lb ed="#C" n="27"/>mia, &amp; vituperio hoc modo, scilicet quod is, qui cedi 
+      <lb ed="#C" n="28"/>cum anonudo lapidem nullum percutit ter dicendo, Ce 
+      <lb ed="#C" n="29"/>dobonis. Sed sufficit, si verbo cedat, nec fit infamis. ( 
+      <lb ed="#C" n="30"/>qui bonis cedere possunt leg prima, &amp; ultima, &amp; ex quibus cau¬ 
+      <lb ed="#C" n="31"/>infamia irrog debitores. Bonis autem cedere potest paterfa 
+      <lb ed="#C" n="32"/>milias, &amp; filius familias si habeat aliquid inbonis, &amp; etian 
+      <lb ed="#C" n="33"/>si nihil habeat, nec scilicet, patiatur injuriam, quia poste 
+      <lb ed="#C" n="34"/>poterit habere bona. C. qui bonis cedere poss. cum &amp; filii, sic ti 
+      <lb ed="#C" n="35"/>net cessio: &amp; si nihil in bonis sit, sicut &amp; actio de pecu 
+      <lb ed="#C" n="36"/>competit, quamvis in peculio nihil sit, f. depecni quaesui 
+      <lb ed="#C" n="37"/>sic &amp; Petrus, qui non reliquit nisi rete, &amp; naviculam, di 
+      <lb ed="#C" n="38"/>citur omnia reliquisse. Cedere autem potest ita demum 
+      <lb ed="#C" n="39"/>si confiteatur debitum, vel condemnatus sit, secus sin¬ 
+      <lb ed="#C" n="40"/>get, quia tunc non auditur invito creditore, volente pro 
+      <lb ed="#C" n="41"/>pare contrarium in continenti, sed si dicat creditor, Ci 
+      <lb ed="#C" n="42"/>de, sed ego probabo debitum, quandocunque voluero 
+      <lb ed="#C" n="43"/>tunc cessio admittetur, ff. qui bonis cedere possunt, leg. penu 
+      <lb ed="#C" n="44"/>um. Fit autem cessio injure, &amp; extra jus, per nuncium 
+      <lb ed="#C" n="45"/>vel epistolam, nedum per cedentem praesentem, ff quibs 
+      <lb ed="#C" n="46"/>nis cedere possunt leg sinal. quia sufficit sola voluntatis pro 
+      <lb ed="#C" n="47"/>fessio. C. qui bonis cedere possunt in omni. Est autem facier 
+      <lb ed="#C" n="48"/>da cessio creditori, sed si quis inhabilis ad munus, vel ho 
+      <lb ed="#C" n="49"/>norem vocetur, &amp; ideo cedat bonis, non admittitur. C 
+      <lb ed="#C" n="50"/>qui bonis cedere possunt leg. propter honorem. Sed neccredito 
+      <lb ed="#C" n="51"/>res, quibus cessio facta est, possunt inter se bona dividere 
+      <lb ed="#C" n="52"/>sedjure dominii authoritate propria retinere: imo nis 
+      <lb ed="#C" n="53"/>bona data sint insolutum, vel distracta, potest debitor pos 
+      <lb ed="#C" n="54"/>ea solvens, non obstante praescriptio longi temporis ri 
+      <lb ed="#C" n="55"/>cuperare. Cqui bonis cedere possunt leg. legis suliae, nam &amp; i 
+      <lb ed="#C" n="56"/>qui cessit ante distractionem veniens potest voluntaen 
+      <lb ed="#C" n="57"/>iuam mutare, &amp; se defendere, f. de cessione bonor. leg; Quic 
+      <lb ed="#C" n="58"/>si plures sunt creditores, &amp; debitor petit dilatione nquin 
+      <lb ed="#C" n="59"/>quennii, si omnes concordant, bene est: sin autem discre 
+      <lb ed="#C" n="60"/>pant, statur majoris partis judicio, &amp; intelligitur majo 
+      <lb ed="#C" n="61"/>pars: primo respectu cumuli debitorum non personarum 
+      <lb ed="#C" n="62"/>secundo respectu personarum: quod si omnia aequali¬ 
+      <lb ed="#C" n="63"/>sunt, erit humanior sententia. 1. eorum qui in dilation 
+      <lb ed="#C" n="64"/>danda consentiunt praeferendae in quo quidem non distir 
+      <lb ed="#C" n="65"/>guitur inter hypothecarios, &amp; chirographarios credite 
+      <lb ed="#C" n="66"/>res, sed nec ex dilatione quinquennii, quo ad prae cripti 
+      <lb ed="#C" n="67"/>onem temporalem aliquod praejudicium creditorib. cr¬ 
+      <lb ed="#C" n="68"/>ditoribus generatur. C. qui bon. ced pos.leg fin. Quid si debi 
+      <lb ed="#C" n="69"/>tor petit sibi dimitti partem debiti, tunc non praejudicatu 
+      <lb ed="#C" n="70"/>hypothecariis creditorib. quamvis paucioribus numer 
+      <lb ed="#C" n="71"/>per consensum chirographariorum, &amp; sic loquitur f. de pact 
+      <lb ed="#C" n="72"/>rescriptum, &amp; I praecedenti
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e1300">
+               <lb ed="#C" n="73"/>SI quis autem dicat persolvisse pecuniam indebitam, &amp; 
+      <lb ed="#C" n="74"/>recipiens neget se recepisse, eo ipso quod de receptis cam 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0468.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="75"/>vincitur, necesse habet pecuniam reddere, nisi probet 
+      <lb ed="#C" n="76"/>quod debitum receperit, infra eodem capit sin ff. de prob. cun 
+      <lb ed="#C" n="77"/>de indebito, unde fuit sumpta decret. Et sic mendaces pu 
+      <lb ed="#C" n="78"/>niuntur: Ut C. de non num pecu authentic contra, ideo dicitur 
+      <lb ed="#C" n="79"/>quod nemini expedit negare vel mentiri, f de tribu. act il 
+      <lb ed="#C" n="80"/>Iud. §pe. sup. ut bene. ecc. sine di. com. t unico, §pen. &amp; supra dere 
+      <lb ed="#C" n="81"/>scrip. super literis. Si vero confiretur, praesumitur debitum 
+      <lb ed="#C" n="82"/>si tamen diligens pater famil. solvit: quia non est verisimi 
+      <lb ed="#C" n="83"/>le, quod quis jactet pecuniam suam, secus, si sit rusticu¬ 
+      <lb ed="#C" n="84"/>bestialis, vel pupillus, vel minor. 25. ann. vel miles, vel mu 
+      <lb ed="#C" n="85"/>lier, simplicitate gaudentes, &amp; forensium negociorum 
+      <lb ed="#C" n="86"/>inexpertos, nam si tales solvant, semper praesumitur in 
+      <lb ed="#C" n="87"/>debitum, ff. deprobat. cum indebito. Pater autem famil. di 
+      <lb ed="#C" n="88"/>ligens non repetit, nisi probet indebitum, ut dictum est in 
+      <lb ed="#C" n="89"/>fra eodem capit. ultimo. Sed &amp; in eo distin. quia aut repeti 
+      <lb ed="#C" n="90"/>indebitum utroque jure: ut quia is cui successit, satisfe 
+      <lb ed="#C" n="91"/>cerat de debito: ideo juste potuit ignorare, f.dereg jur qu 
+      <lb ed="#C" n="92"/>in alterius, vel quia solvit id in quo condemnatus erat au 
+      <lb ed="#C" n="93"/>thoritate falsorum instrumentorum: utff. de except qui a 
+      <lb ed="#C" n="94"/>gnatis, in fin. vel quia erravit in nomine, ut infra, ideoque 
+      <lb ed="#C" n="95"/>repetit, secus si scienter solvit, quia tunc donare videtur, 
+      <lb ed="#C" n="96"/>f. de condict. indebi leg. I. ff. de re qur. cujus per errorem, excipi 
+      <lb ed="#C" n="97"/>usuram, licet scienter solutam, ut notat. infra de usur. S 
+      <lb ed="#C" n="98"/>quae paena, §. alia a judice, versicul. sed quomodo, vel qui 
+      <lb ed="#C" n="99"/>erravit in nomine, cum alius in suo nomine, ipso absen 
+      <lb ed="#C" n="100"/>te, pecuniam mutuo recepisset, ff de verborum obligat l¬ 
+      <lb ed="#C" n="101"/>ultim. supra de rescript. significante, alias in proprio facto ro 
+      <lb ed="#C" n="102"/>esset tolerabilis error, supra de rescript excommunicato F pr 
+      <lb ed="#C" n="103"/>suo, leg ultim f de jur &amp; fac. igno. plurimum Cderescind. ven 
+      <lb ed="#C" n="104"/>dit. quisquis. Item si solvit indebitum jure naturali, sed de 
+      <lb ed="#C" n="105"/>bitum jure civili, ut quia obligatus erat literis, ut Institui 
+      <lb ed="#C" n="106"/>de lib. obl. §. is quoque, hic enim repetit, nec disting. utrum 
+      <lb ed="#C" n="107"/>erraverit in jure, vel in facto, quia iuris ignorantia jus su 
+      <lb ed="#C" n="108"/>um prosequentibus non obest. f. dejur. &amp; fac igno. leg jui¬ 
+      <lb ed="#C" n="109"/>f. de condict indeb. in debitis, &amp; de constitut pecu. quod si maritus 
+      <lb ed="#C" n="110"/>§. 1. Fallit in leg. Aquil. quae inficiatione crescit. C. ad leg 
+      <lb ed="#C" n="111"/>Aquil. negarem, nam si satisfactio de damno dato ab aliquo 
+      <lb ed="#C" n="112"/>quasi ego dederim, non repeto. Item si solvo legatum al 
+      <lb ed="#C" n="113"/>alio debitum. Institut. de ob quae ex quasi con na §. ultimo. Iten 
+      <lb ed="#C" n="114"/>si scienter solvo, ut supra dixi, versicul. sed &amp; in eo. Iten 
+      <lb ed="#C" n="115"/>per sententiam vel transactionem solutum, quamvis in 
+      <lb ed="#C" n="116"/>debitum esset, non repetitur, ff. de condictione indebiti, in 
+      <lb ed="#C" n="117"/>summa, §. &amp; quidem, ff mand si fidejussor, §. in omnibus. C. eo 
+      <lb ed="#C" n="118"/>dem leg. 1. &amp; de transast. leg. 2. Item si jurante adversario me 
+      <lb ed="#C" n="119"/>deserente solvere, f. de jurejuran nam postea S fin. Item si pu 
+      <lb ed="#C" n="120"/>to me debere ex causa dotis, non repeto, f. de condict. inde 
+      <lb ed="#C" n="121"/>bi, cum is. § si mulier. Item si ab alio debitum, licet indebiti 
+      <lb ed="#C" n="122"/>ab eo, cui dedii f de condict. indeb si poenae, §quamvis vel quan 
+      <lb ed="#C" n="123"/>quam. Si vero solvit indebitum jure civili. sed debitum ju 
+      <lb ed="#C" n="124"/>re naturali, ut in obligatione per nudum pactum contra 
+      <lb ed="#C" n="125"/>cta, quod dic, ut nota. supra de pactis, Squae sunt divisiones, su 
+      <lb ed="#C" n="126"/>§ superest, ut de pactis utilibus, &amp; se. si scienter non reperi 
+      <lb ed="#C" n="127"/>tur, si per errorem juris non repetitur, per errorem fact 
+      <lb ed="#C" n="128"/>repetitur C. de jur. &amp; fact ign error. &amp; l. cumquis, ad l. Fal. error 
+      <lb ed="#C" n="129"/>&amp; de condict. indeb. I fideicommissum. ff de condict. indeb. leg fidei 
+      <lb ed="#C" n="130"/>commissum. Fallit hoc in minore f. demin interdum, &amp; ir 
+      <lb ed="#C" n="131"/>muliere, f. ad l Velleia quamvis, § interdum, &amp; in muliere, h 
+      <lb ed="#C" n="132"/>enim repetunt, qualitercunque erraverint. Cum aute: 
+      <lb ed="#C" n="133"/>secundum canones ex nudo pacto a detur actio, ut supra 
+      <lb ed="#C" n="134"/>de pac qualiter, &amp; de arbitr per tuas, 22 quaestio; juramenti, ap 
+      <lb ed="#C" n="135"/>paret, quod non est locus repetitioni, quia cui damus acti 
+      <lb ed="#C" n="136"/>onem, multo fortius exceptionem, argumen f de compen 
+      <lb ed="#C" n="137"/>sat. aetiam, &amp; de superficiebus, leg. 1. §quod au praetor. ff. dere 
+      <lb ed="#C" n="138"/>jur. invito, §. I. Sin autem sit debitum utroque jure, sec 
+      <lb ed="#C" n="139"/>indebitum ope exceptionis temporalis non reperitur 
+      <lb ed="#C" n="140"/>ff de condict. indeb in diem, &amp; legnam &amp; si maritus, &amp; leg nan 
+      <lb ed="#C" n="141"/>si cum moriatur, &amp; ff. mandati fidejussor. Sed si exceptio¬ 
+      <lb ed="#C" n="142"/>erat favorabilis &amp; perpetua, ut Velleian. quacunque 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="143"/>ADDITIO 
+      <lb ed="#C" n="144"/>a Ex nudo pacto. JAddec.I &amp; ibi Doc. de pact Innoc. inccum ve 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>nissent, de inst. Inn. inc. novit, de in Archi. in c. sunt nonnulli, 1. q.1 
+      <lb ed="#C" n="146"/>Bart. in I. fideiussor, in § qui certo, ff. de fideius. Bat. in extravag. ac 
+      <lb ed="#C" n="147"/>reprimendam. Bal. in auth. ad hac. C. de usur. Ang, in repet . I. si cor 
+      <lb ed="#C" n="148"/>tis annis, C. de pac Saly in legem. Caodem -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0469.xml-->
+      <pb ed="#C" n="452"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>ignorantis interveniente, reperitur, nisi fit introducta a¬ 
+      <lb ed="#C" n="2"/>rigorem juris conservandum, ut exceptio rei jud. ff.de co¬ 
+      <lb ed="#C" n="3"/>dict. indeb Jul. C. de condict. indeb. leg. 1. Sed si exceptio era 
+      <lb ed="#C" n="4"/>perpetua &amp; odiosa, ut Macedoniani ignorantia juris de 
+      <lb ed="#C" n="5"/>ctus, solvens, non repetit, ut dixi de perpetua favorabili, 
+      <lb ed="#C" n="6"/>de condict indebit. qui exceptione, sed si probet ignorantiar 
+      <lb ed="#C" n="7"/>facti probabilem, repetit, ff. ad Macedon. leg. ultima. Quo 
+      <lb ed="#C" n="8"/>si dubitetur, utrum sit dilatoria, vel perpetua, repeti po 
+      <lb ed="#C" n="9"/>test. sufficit enim dubitatio, f. de condict indeb. suffici
+    </p>
+            <p xml:id="nbht7y-d1e1133-d1e1487">
+               <lb ed="#C" n="10"/>ILLud in summa notan. quod si praelatus suam eccles 
+      <lb ed="#C" n="11"/>am obligaverit pro alienis debitis, vel sigillum tradid 
+      <lb ed="#C" n="12"/>rit, ut obligari possit, ecclesia non tenetur, subaudi, nis 
+      <lb ed="#C" n="13"/>versa sit in utilitatem ecclesiae, quod dic, ut notat. supr 
+      <lb ed="#C" n="14"/>titul i§ &amp; quis, &amp; qui hoc praesumpserit ab administratis 
+      <lb ed="#C" n="15"/>ne spiritualium rerum, &amp; temporalium, noverit se suspi 
+      <lb ed="#C" n="16"/>sum, scilicet ipso jure, infra eodem, si quorundam, quod at 
+      <lb ed="#C" n="17"/>tem dixi, Si sigillum tradiderit, ut obligari possit, subat 
+      <lb ed="#C" n="18"/>di &amp; obligatio secuta sit, argumentum sup. de clericis no 
+      <lb ed="#C" n="19"/>resident. relatum, &amp; de officio delegat. in literis, &amp; infra de spo¬ 
+      <lb ed="#C" n="20"/>sa capit. sin argumentum tamen contra, supra de confes. cun 
+      <lb ed="#C" n="21"/>super, sed dic, quod ibi secuta fuit electio, praemissa pi 
+      <lb ed="#C" n="22"/>ctione, &amp; ideo simoniaca judicatur, hanc ergo poenan 
+      <lb ed="#C" n="23"/>patitur, qui obligat cum effectu. Sed quid si reddat eccl¬ 
+      <lb ed="#C" n="24"/>siam indemnem? Dicunt quidam, quod poena remittitur 
+      <lb ed="#C" n="25"/>argumentum S1 distinct, si qui sunt. i6. quaest. 7. si quis demcep¬ 
+      <lb ed="#C" n="26"/>15. quaestio. 6. nos sanctorum, alii contra, quia satisdatio m¬ 
+      <lb ed="#C" n="27"/>levolum animum non immutat. Institut. de suspect. tutor. 
+      <lb ed="#C" n="28"/>libertis, ff. de suspect. tuto. leg. 3. §. quaeri, &amp; leg. suspectus, &amp; le 
+      <lb ed="#C" n="29"/>sequent. &amp; ideo removendus, ff. de suspect. tuto suspectus, n 
+      <lb ed="#C" n="30"/>si cum eo dispensetur, supra de electio, quod sicut, Sultim si 
+      <lb ed="#C" n="31"/>pra de offic. delegat. venerabili, solam enim excommunica 
+      <lb ed="#C" n="32"/>tionem evitat talis, supra de re. eccl. non alien. si quis presbyt. 
+      <lb ed="#C" n="33"/>rorum, quod dic, ut not. supra de rebus eccle. non alien. § quae si 
+      <lb ed="#C" n="34"/>paena 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

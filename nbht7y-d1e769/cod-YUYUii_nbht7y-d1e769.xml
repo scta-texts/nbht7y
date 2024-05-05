@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 21</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 21</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="281"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e769"><!-- nbht7y-l2t21 -->
+            <head xml:id="nbht7y-d1e769-Hd1e101">Titulus 21</head>
+            <head xml:id="nbht7y-d1e769-Hd1e103" type="question-title">De testibus cogendis vel non</head>
+            <p xml:id="nbht7y-d1e769-d1e106">
+               <lb ed="#C" n="95"/>De testibus cogendis. Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e769-d1e111">
+               <lb ed="#C" n="96"/>SUMMARIA 
+      <lb ed="#C" n="97"/>I. Testes qui sunt cogendi, &amp; qui non 
+      <lb ed="#C" n="98"/>2. Testes in quibus sunt cogendi 
+      <lb ed="#C" n="99"/>3. Testes quando cogantur 
+      <lb ed="#C" n="100"/>4. Testes quare cogantur ad testimonium 
+      <lb ed="#C" n="101"/>Testes qualiter cogantur ad testificandum 
+    </p>
+            <p xml:id="nbht7y-d1e769-d1e127">
+               <lb ed="#C" n="102"/>EGimus supra de testibus quorum or 
+      <lb ed="#C" n="103"/>ficium publicum est: &amp; quia non 
+      <lb ed="#C" n="104"/>nunquam inviti veniunt, &amp; testimonium di 
+      <lb ed="#C" n="105"/>cunt, videamus de testib cogendis, Qui te 
+      <lb ed="#C" n="106"/>3 stes cogendi sunt, &amp; qui non, In quib. causi 
+      <lb ed="#C" n="107"/>cogendi sunt, Et quando coguntur, Et quare, Et qualite 
+      <lb ed="#C" n="108"/>cogantur 
+    </p>
+            <p xml:id="nbht7y-d1e769-d1e146">
+               <lb ed="#C" n="109"/>Qui testes cogendi sunt, &amp; a quinom Et quidem 
+      <lb ed="#C" n="110"/>generaliter omnes venire coguntur &amp; te 
+      <lb ed="#C" n="111"/>stimonium dicere, ut C. de testi, si quando ff. de tessibus l.i. &amp; d 
+      <lb ed="#C" n="112"/>tabu. exhi. locum, §hoc interdictum, &amp; sequ. etiam si sit de alie 
+      <lb ed="#C" n="113"/>na provincia, remittendus est, si tamen sit de consuet re 
+      <lb ed="#C" n="114"/>gionis, f. de test. 13. in fi. sed si consuetudo hoc non admittat 
+      <lb ed="#C" n="115"/>non remittetur, sed mandabitur judici suo ut testimonii 
+      <lb ed="#C" n="116"/>recipiat, &amp; sub sigillo suo inclusum remittat, ut in auth. eo 
+      <lb ed="#C" n="117"/>§ &amp; quontam ut no. supra tit.i. §quando sunt producendi, sic in 
+      <lb ed="#C" n="118"/>tellige infr ff. quemadmodum testamenta aperiantur, sad si qui 
+      <lb ed="#C" n="119"/>Vel intelligitur, quando non admitteret propria negocia 
+      <lb ed="#C" n="120"/>si remitteretur, quib. subvenire non posset alias sine magno 
+      <lb ed="#C" n="121"/>incommodo suo, tunc.n. non remittitur, ne ei sit damnosun 
+      <lb ed="#C" n="122"/>officium suum, ut in ipsa litera dicit, &amp; f. ex quib, causis ma 
+      <lb ed="#C" n="123"/>jores, ut infra de fid. instr.c. 2. Excipiuntur quaedam personae 
+      <lb ed="#C" n="124"/>8 quae gaudent speciali privilegio ne cogantur, ut senes, 
+      <lb ed="#C" n="125"/>&amp; valetudinarii: milites, &amp; qui cum magistratu reip. caus¬ 
+      <lb ed="#C" n="126"/>absunt, &amp; quib. venire non licet, &amp; publicani, &amp; qui praebendi 
+      <lb ed="#C" n="127"/>exercitui conducunt. 4. q4 3. ver.tem inviti. fi.eo. inviti &amp; linviti. 8 
+      <lb ed="#C" n="128"/>intellige senes majores 70 annor ar ff.dejure immu. I. 3. &amp;c 
+      <lb ed="#C" n="129"/>qui aetate se excusant.l.. Venire autem non licet in urbem hi¬ 
+      <lb ed="#C" n="130"/>qui ignominiae causa missi sunt de militia, unde excusan 
+      <lb ed="#C" n="131"/>tur a tutelis urbicis, ff.de excus. tut. sed &amp; milites. § sed ignomi 
+      <lb ed="#C" n="132"/>nia. Et est hoc mirabile. quod eorum paena eis privileg, con 
+      <lb ed="#C" n="133"/>ferat, contra I ff de inter. &amp; rele. relegatorum § ult. &amp; de neg ges 
+      <lb ed="#C" n="134"/>sive haereditaria, infra de don. inter vir. &amp; uxo. &amp; si necesse. Iten 
+      <lb ed="#C" n="135"/>mediatore proxeneta non cogitur, nec utroque consenti¬ 
+      <lb ed="#C" n="136"/>ente, mauth, eo. § &amp; quoniam. Et dum praedicti in hoc pri 
+      <lb ed="#C" n="137"/>vilegiati sint multo fortius clerici debent esse privilegia 
+      <lb ed="#C" n="138"/>ti, ne a divinis officiis avocentur, non ergo coguntur, 
+      <lb ed="#C" n="139"/>quaest. 6. statuendum. I1. qu. 2. testimonium. 14.9. 2quanquam. qui 
+      <lb ed="#C" n="140"/>nec jdrare debent. 2.q. 5. si quis presbyter, nec compelluntu 
+      <lb ed="#C" n="141"/>ad alia publi. officia. 16. quae.i generaliter. Item frater contri 
+      <lb ed="#C" n="142"/>fratrem in magnis criminibus non cogitur. Secus videtu 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="143"/>ADDITIONES 
+      <lb ed="#C" n="144"/>a Qui testes cogendi sunt. Adde doc. inc dilectorum, de testib. cogi 
+      <lb ed="#C" n="145"/>b Excipiuntur quaedam personae. Adde Hostien. &amp; Ant. de But. in¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="146"/>I.eo.ii. Ant. de But. &amp; Io. de Imo. in c. si pro debilitate de offi. deleg 
+      <lb ed="#C" n="147"/>6 Mediator. Adde an talis posssit esse tesiis in crimine usurarum, vide pe 
+    </p>
+    <p>
+      <lb ed="#C" n="148"/>Do. de San. Gemi. in c I. de tesi. lib. 6. &amp; per Bart. in Ideferre, in 5 
+      <lb ed="#C" n="149"/>idem decreverunt. ff. de inre fis¬ -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0299.xml-->
+      <pb ed="#C" n="282"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>de minimis. arg. C. qui ma accus non pos si magnum, &amp;l. si soro 
+      <lb ed="#C" n="2"/>rem excipitur haeresis, infra de praesumpt. literas, vel ubi fui 
+      <lb ed="#C" n="3"/>admissus non compulsus: sed bene credo ipsum cogendi 
+      <lb ed="#C" n="4"/>23. quaest. 5. si audieris, &amp; quae S. legi. Sed nec cogitur quis fer 
+      <lb ed="#C" n="5"/>re testimonium contra socerum. vitricum, generum, priv 
+      <lb ed="#C" n="6"/>gnum, sobrinum eosve qui priore gradu sunt, vel contr¬ 
+      <lb ed="#C" n="7"/>parentem patroni, nec libertus viri contra uxorem cogitui 
+      <lb ed="#C" n="8"/>vel econtra, nec patroni contra libertos, liberti etiam volen 
+      <lb ed="#C" n="9"/>tes contra patronos non admittuntur, nec libertus patron 
+      <lb ed="#C" n="10"/>mei contra libertum meum cogetur. 493. versic. item. Ju 
+      <lb ed="#C" n="11"/>Aseqe f.eolAC. o adversum. Cum ergo contra praedicto 
+      <lb ed="#C" n="12"/>no cogar, nec producere cogendus sum, cum testis prov 
+      <lb ed="#C" n="13"/>traque juret dicere veritatem: quia totam veritatem dicer¬ 
+      <lb ed="#C" n="14"/>debet, ut not. sup. titu. 1. § quid debent jurari. Videtur tamen 
+      <lb ed="#C" n="15"/>quod omnes praedicti cogendi sunt, si veritas alias scir 
+      <lb ed="#C" n="16"/>non potest, vel inveniri, 149. 2 quanquam, infra eodem cum su 
+      <lb ed="#C" n="17"/>per, nam judex veritatem elicere debet modis omnibus qu 
+      <lb ed="#C" n="18"/>bus potest, ut non supra de prob. §. quis debet probare, ver. nur 
+      <lb ed="#C" n="19"/>quid igitur, ideo deficiente probatione, multi coguntur, S 
+      <lb ed="#C" n="20"/>admittuntur, qui alias non cogerentur, puta participes 8 
+      <lb ed="#C" n="21"/>conspiratores nec admitterentur, infra eo pervenit.i. &amp; c. u 
+      <lb ed="#C" n="22"/>supratit. Iquoties, &amp;c. tam literis, §1 C. de haered. &amp; ina quoni 
+      <lb ed="#C" n="23"/>multi, &amp; de divort. &amp; rep. consensu, §o super plagis. Et est ratio 
+      <lb ed="#C" n="24"/>d quia veritatem occultare, a mortale peccatum est, 11. qua 
+      <lb ed="#C" n="25"/>tio. 3. quisquis infra de crim. falsi, cap. 1. &amp; ad ecclesiam perti 
+      <lb ed="#C" n="26"/>net quemlibet corrigere de mortali peccato, supra de judi¬ 
+      <lb ed="#C" n="27"/>novit. &amp; quia in his casibus maxime in conspiratione no 
+      <lb ed="#C" n="28"/>potest probari, nisi per participes, quare tenentur proce 
+      <lb ed="#C" n="29"/>dere, 6. quaest. si quis cum militibus infin. &amp; y distin. si quis Pa 
+      <lb ed="#C" n="30"/>pa, alias si per alios de veritate liquere possit non cogun 
+      <lb ed="#C" n="31"/>tur, quia &amp; permissum est sanctis tacere in hoc casu, 22 
+      <lb ed="#C" n="32"/>quaestio. 2. ne quis arbitretur. sed alii omnes indist. coguntui 
+      <lb ed="#C" n="33"/>exceptis privilegiatis, secundum Goff. Naso, sed cotra in 
+      <lb ed="#C" n="34"/>eo. pervenit. 2. dic ibi subaudiendum maxime
+    </p>
+            <p xml:id="nbht7y-d1e769-d1e304">
+               <lb ed="#C" n="35"/>In quibus causis cogendi sunt: Et quidem i 
+      <lb ed="#C" n="36"/>civilibus, seu si civiliter agatur 
+      <lb ed="#C" n="37"/>de crimine, secundum Goffred. omnes cogendi sunt: se 
+      <lb ed="#C" n="38"/>cus in criminalib. secundum quosdam, arg. a contrario sen 
+      <lb ed="#C" n="39"/>su. C. eo. si quando, &amp; in auth. eod. § &amp; quoniam. Si quaeras ra 
+      <lb ed="#C" n="40"/>tionem, quare in civilibus compellantur testes &amp; non in 
+      <lb ed="#C" n="41"/>criminalibus, non moventur accusatores certam remdi 
+      <lb ed="#C" n="42"/>ferre in publicam rationem, quae munita sit testibus, ve 
+      <lb ed="#C" n="43"/>instructa apertissimis documentis vel indiciis ad proba 
+      <lb ed="#C" n="44"/>tionem indubitatis, &amp; luce clarioribus. C. deproba.I sin. &amp; li 
+      <lb ed="#C" n="45"/>cet etiam in civilibus puniatur temeritas; ff. dejud. eum qu 
+      <lb ed="#C" n="46"/>temere, tamen ubi contra salutem hominis oppressa puta 
+      <lb ed="#C" n="47"/>tur esse justitia, diligentius examinari debet. C. de appella 
+      <lb ed="#C" n="48"/>addictos, secundum Goffred. Hanc falsam opinio docte 
+      <lb ed="#C" n="49"/>rum antiquorum non intelligentium &amp; magistri sequut 
+      <lb ed="#C" n="50"/>sunt, &amp; inducunt, infra eodem pervenit. 2. quia dicunt, quo 
+      <lb ed="#C" n="51"/>non respondet Papa quaestioni facti, sed quod dicit rebu¬ 
+      <lb ed="#C" n="52"/>ecclesiasticis id est negotiis. Est autem negotium ecclesi¬ 
+      <lb ed="#C" n="53"/>sticum ratione, personae percussae, argu. 1i.qu. 1. S ex his, &amp; in 
+      <lb ed="#C" n="54"/>fra de verb. sign. super quibusdam, §ulti. &amp; sic respondet qua 
+      <lb ed="#C" n="55"/>stioni contra hoc quod intendunt. Item inducunt expres 
+      <lb ed="#C" n="56"/>sim infra eod dilectorum. Sed non sic intelligitur, ut statin 
+      <lb ed="#C" n="57"/>dicam. Sed contra istos est, infra eo pervenit. 2. prout supr 
+      <lb ed="#C" n="58"/>dixi, &amp; pervenit id est &amp;c. praeterea, ubi loquitur de testil 
+      <lb ed="#C" n="59"/>sinodalib. qui de delictis &amp; criminibus testificantur, 35. q. 
+      <lb ed="#C" n="60"/>Gepiscopus m synodo inf. de accus. sicut olim, &amp; contradicit hui¬ 
+      <lb ed="#C" n="61"/>opinioni, infra eodem superhis. Sed dicunt illud speciale 
+      <lb ed="#C" n="62"/>quando agitur in modum denunciationis vel inquisitio 
+      <lb ed="#C" n="63"/>nis, ubi quidem coguntur, vel quando civiliter agitur d 
+      <lb ed="#C" n="64"/>crimine, ubi quidem civilis est quaestio. Idem si mista sit 
+      <lb ed="#C" n="65"/>argu. supra tit.i.testimonium, &amp; de proc tuae, infr. de accus. supe 
+      <lb ed="#C" n="66"/>his. Item contra istos infra eo, cum contra dicunt illud spe 
+      <lb ed="#C" n="67"/>ciale in falsario domini Papae, sicut &amp; multa alia sunt spe 
+      <lb ed="#C" n="68"/>cialla, infr. de crim. falsi, ad falsariorum. Licet consuetudo in 
+      <lb ed="#C" n="69"/>foro ecclesiae hanc opi. amplexa fuerit. usque ad haec tempe 
+      <lb ed="#C" n="70"/>ra, &amp; communis sit opinio magistrorum, dico tamen ipsan 
+      <lb ed="#C" n="71"/>erroneam: nam secundum eam damnabitur innocens, qui primu 
+      <lb ed="#C" n="72"/>afficiendus esset, &amp; nocens absolvetur, qui condemnandus e 
+      <lb ed="#C" n="73"/>rat contra jura f. de pe absentem, inf. de simo. licet Heli Sult. Nisi s 
+      <lb ed="#C" n="74"/>accusans non probat quod intendit: licet verum sit quod as 
+      <lb ed="#C" n="75"/>serit, tamen patitur talionem mf. decalc..&amp;2. dixi in summi 
+      <lb ed="#C" n="76"/>illius tit. &amp; sic delicta remanebunt impunita: quia cum accu 
+      <lb ed="#C" n="77"/>sans sciat, quod non cogetur testis, non accusabit timens po 
+      <lb ed="#C" n="78"/>nam talionis &amp; hoc cotra jura f ad l. Aquil. ita vulneratus in 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0299.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>de sen. excommu. ut famae, f de fidejussor. si a reo, fi. de pact. dota ci 
+      <lb ed="#C" n="80"/>venire. Dico ergo, ab opinione antiquorum recedens, qui ple 
+      <lb ed="#C" n="81"/>runque mentiuntur sup. de sacra unct.c. unico. ad si quod in om 
+      <lb ed="#C" n="82"/>nib. coguntur testes, sive sint causae pecuniariae, ut dictum est 
+      <lb ed="#C" n="83"/>sive matrimoniales: ut infeo. lib. &amp; c. caeterum, sive criminales 
+      <lb ed="#C" n="84"/>ut infs. eo per totum, &amp; inf. de jurej. ad nostram. 2. Nec obst. c. delicti 
+      <lb ed="#C" n="85"/>rum, quia illud intelligendum est de criminalib. scil. objecti 
+      <lb ed="#C" n="86"/>testib. ut a testimonio repellantur, ad haec .n.crimina pro 
+      <lb ed="#C" n="87"/>banda non coguntur testes cum non quaeratur de crimme¬ 
+      <lb ed="#C" n="88"/>ad hoc ut puniatur, nam &amp; si conrra testem in mocum ex 
+      <lb ed="#C" n="89"/>ceptio. crimen probatur, non patitur poenam ordinariam 
+      <lb ed="#C" n="90"/>quia nec ad hoc agebatur sup. de ord cogni, cum dilectus, §ui 
+      <lb ed="#C" n="91"/>uf. de exce.c..Non ergo cogitur testis ad infamiam alterius de 
+      <lb ed="#C" n="92"/>nudandam, quia tales detractores vocitur, &amp; priores sun 
+      <lb ed="#C" n="93"/>quam hi qui praedia, vel alias res diripiunt 6qu.1. ex merio. E 
+      <lb ed="#C" n="94"/>Ctrib. seq. &amp; C. quemad. test. aper Iz. &amp; de famosis libel.I. unica Ni 
+      <lb ed="#C" n="95"/>nec decreta deictorum, potest intelligi, quod criminaliter a 
+      <lb ed="#C" n="96"/>geretur, sicut quidam eam intellexerunt, quia fult ibi con 
+      <lb ed="#C" n="97"/>ventio &amp; reconventio, ut patet in integ. sed reconventio in 
+      <lb ed="#C" n="98"/>criminalib. locum non habet, 3. 4.1. neganda. J. de publi judi 
+      <lb ed="#C" n="99"/>ciis, is qui. Item agebatur per procu, qui in criminalibus in 
+      <lb ed="#C" n="100"/>tervenire non potest, ut supra no de procu § &amp; mqua re. Erg 
+      <lb ed="#C" n="101"/>ad probationem criminis faciendam, quae solam infami 
+      <lb ed="#C" n="102"/>irrogaret. non cogitur quis, sed si aliquid admitteret crimi 
+      <lb ed="#C" n="103"/>nosus, ut ipsius impediretur promotio, tunc coguntur t¬ 
+      <lb ed="#C" n="104"/>stes inf. eo superhis, &amp; de accu superhis, sup.tixtam literis, quaed 
+      <lb ed="#C" n="105"/>eo facto loquuntur sup. de cons. cum, sup ac elec per inquisition 
+      <lb ed="#C" n="106"/>quamvis super his casib. quosdam dominos viderim dubita 
+      <lb ed="#C" n="107"/>re. Ergo in criminalib. quando criminaliter agitur, omne 
+      <lb ed="#C" n="108"/>coguntur; ut non sup. tit. 1 quando sunt producendi, vers. hoc ii 
+      <lb ed="#C" n="109"/>civilib. exceptis quibusdam privilegiatis, f. eo. l. 4. quos numi 
+      <lb ed="#C" n="110"/>rari sup. eo §1. ver. item frater, cum n. illi per speciale privile 
+      <lb ed="#C" n="111"/>gium excusentur, restat quod alii coguntur indis criminali 
+      <lb ed="#C" n="112"/>bus, &amp; illi iidem in civilib. alias privilegium frustratorium es 
+      <lb ed="#C" n="113"/>set, C. de the sau. I.unic. li 10. &amp; ad municipa.l..in si. nisi ad cau 
+      <lb ed="#C" n="114"/>telam hoc impetratum dicas sup. de proc. quia in causis, quo 
+      <lb ed="#C" n="115"/>verisimile non videtur. Nec obstratio, quam ne. secundun 
+      <lb ed="#C" n="116"/>Gof. sup. eo. §quasi, in prin quia licet jura ibi inducta innuam 
+      <lb ed="#C" n="117"/>quod aperta debet esse probatio, &amp; cum magna maturitas 
+      <lb ed="#C" n="118"/>&amp; diligentia causa criminalis examinada sit, non tame 
+      <lb ed="#C" n="119"/>prohibent, quo minus testes compellantur. Item posset ess 
+      <lb ed="#C" n="120"/>quod indubitata esset probatio, &amp; quod testes assecurar? 
+      <lb ed="#C" n="121"/>accusantem de testimonio ferendo, &amp; postea corrupti desiste 
+      <lb ed="#C" n="122"/>renttestificari: consuetudo tamen Romanae curiae communem 
+      <lb ed="#C" n="123"/>pi. comprobat, &amp; plus facit quod nunqua in literis Aposto 
+      <lb ed="#C" n="124"/>cis apponitur illa clausula, testes autem ubi de crimine qua 
+      <lb ed="#C" n="125"/>ritur, sive criminaliter, sive civiliter agatur, sit pro ration 
+      <lb ed="#C" n="126"/>voluntas, ut apparet ex his quae no. infra eodem § &amp; quare
+    </p>
+            <p xml:id="nbht7y-d1e769-d1e510">
+               <lb ed="#C" n="127"/>Et quando cogantur. Etcerte quando al¬ 
+      <lb ed="#C" n="128"/>ter res probari non 
+      po<lb ed="#C" n="129" break="no"/>test, ut in c. 2. &amp;c. praeterea, resp.1. &amp;c. pervenit, 2. &amp; c. ul vel qui 
+      <lb ed="#C" n="130"/>do se subtrahunt gratia, odio, vel timore, ut inf.c.ialter no 
+      <lb ed="#C" n="131"/>videtur quod sint cogendi, secundum canones, quamvis se 
+      <lb ed="#C" n="132"/>cundum I. passim cogi possunt, id est quamvis aliter probu 
+      <lb ed="#C" n="133"/>possit, &amp; quamvis non subtrahant se gratia, &amp;c. ut patet um 
+      <lb ed="#C" n="134"/>ca super eo. vel dic, quod privilegiati ita demum coguntur 
+      <lb ed="#C" n="135"/>etiam si aliter probari non possit, ut not. sup. eo. §1. ver. vide 
+      <lb ed="#C" n="136"/>tur alii autem coguntur. etiam si aliter possit liquere de facto 
+      <lb ed="#C" n="137"/>dummodo gratia, &amp;c. &amp; eo ipso quod moniti nolunt testisi 
+      <lb ed="#C" n="138"/>cari, praesumitur quod subtrahant se gratia, &amp;c. illud au 
+      <lb ed="#C" n="139"/>tem satis posset dici, quod in criminalibus non cogante 
+      <lb ed="#C" n="140"/>privilegiati, etiam si aliter constare non possit, ag3 quaes 
+      <lb ed="#C" n="141"/>4 qui peccant, &amp; ff. de bon. eorum qui mor. sibi consciLise 
+      <lb ed="#C" n="142"/>dic ut no. supra eodem §i. ver.videtur tamen. 
+    </p>
+            <p xml:id="nbht7y-d1e769-d1e547">
+               <lb ed="#C" n="143"/>Et quare. Neveritate occultata aliquis jus suum 
+      <lb ed="#C" n="144"/>amittat, ut sup tit..dilecto ff de test curent, &amp; 
+      <lb ed="#C" n="145"/>ne bonus malus existimetur, 14. 9. 2. quanquam, &amp; quia pec 
+      <lb ed="#C" n="146"/>catum mortale est, veritatem celare, ut no. sup. eo. §.ver. 8 
+      <lb ed="#C" n="147"/>est ratio. Et ideo secundum Gof. compellendi sunt ad satis 
+      <lb ed="#C" n="148"/>factionem faciendam, sicut fit in aliis mortalib. 5. q. 1. illi qui 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="149"/>ADDITIO. 
+      <lb ed="#C" n="150"/>a Veritatem occultare. Addec. ne quis in rer. localitatis. 22. 4. 2. 6 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>per Io. de Imo &amp; Ab. in c. I. de cri. fal Bal. in I. praeslyteri.la.Lanulu 
+      <lb ed="#C" n="152"/>cα. C. de Epi &amp; cla. S. Th. 2. 2. q. 70--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0300.xml-->
+      <pb ed="#C" n="283"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>12 q. 1 praedicandum, 32 q. 5. praeceptum, &amp; maxime peccant qu 
+      <lb ed="#C" n="2"/>metu alterius veritatem occultant, unde Aug. Quisqui 
+      <lb ed="#C" n="3"/>metu cujuscunque potestatis veritatem occultat, iram De 
+      <lb ed="#C" n="4"/>super se provocat, quia magis timet hominem quam De 
+      <lb ed="#C" n="5"/>tum, nqe. quisquis. Sed quid si per sacramentum se arcent 
+      <lb ed="#C" n="6"/>ad non prohibendum testimonium veritatis? Dicas, quo 
+      <lb ed="#C" n="7"/>temerarium est juramentum, maxime si per alios probar 
+      <lb ed="#C" n="8"/>non potest, undejurans propria authoritate, potest veni 
+      <lb ed="#C" n="9"/>re contra, 224. 4. in inalis, cum certum sit, ex hoc mortal 
+      <lb ed="#C" n="10"/>peccatumprovenire, secus si dubitaret, quia tunc prius es 
+      <lb ed="#C" n="11"/>set superioris authoritas requirenda, ut supr. de elec. vener¬ 
+      <lb ed="#C" n="12"/>bilem, § eo. igitun ver. idem etiam. Quid si sit unus testis, &amp; 
+      <lb ed="#C" n="13"/>e iurat non testificari? e Adhuc dico temerarium est, quia li 
+      <lb ed="#C" n="14"/>cet non valeat ad plenam probationem faciendam, valet ta 
+      <lb ed="#C" n="15"/>men ad semiplenam, &amp; juramenti delationem, ut no. infra 
+      <lb ed="#C" n="16"/>jurej. post sab) nunc redeundum, Squando sit deferendum, ver sedi 
+      <lb ed="#C" n="17"/>semiplene, ergo adhuc impedit veritatem. Quid si adversar 
+      <lb ed="#C" n="18"/>us meus subtrahit mihi testes nunquam ostendit se litem fe 
+      <lb ed="#C" n="19"/>vere, suptit.i.constitutis, &amp; experiri debet in se judicis autho 
+      <lb ed="#C" n="20"/>ritatem clausam, infr. eo. pervenit 2. qu. 7. Stria, C. de post. providen 
+      <lb ed="#C" n="21"/>dum. Sed nunquid testis potest vendere testimonium? Cert 
+      <lb ed="#C" n="22"/>non, sicut judex iudicium, 1495. non sane, expensas tamer 
+      <lb ed="#C" n="23"/>recipere potest. 4.q43. veritatis. Quid si testis corruptus te 
+      <lb ed="#C" n="24"/>stimonium falsum dicat? Nullum est testimonium: tum qui¬ 
+      <lb ed="#C" n="25"/>venale, tum quia falsum &amp; praeter poenam falsi in judici 
+      <lb ed="#C" n="26"/>animae debet satisfacere laeso de interesse sno, arg.tit.I. sicu 
+      <lb ed="#C" n="27"/>C. de pon judqut mali judicavit. l. 2. sed pecunia data non re 
+      <lb ed="#C" n="28"/>stituitur donanti, cum turpiter dederit, 14. 4 5. non sane. ff.d 
+      <lb ed="#C" n="29"/>cond. ob tur. causam, I3. uno illi, in cujus injuria data est, iqu. 
+      <lb ed="#C" n="30"/>jubemus, arg.18. qu 4 si quis in atrio ff. de cal. I. generaliter, Sillu 
+      <lb ed="#C" n="31"/>anf desun de hoc autem audivimus, 17. q.i. si quis rapuerit in auti 
+      <lb ed="#C" n="32"/>f de san. epi § sed neque Quid si data est pecunia simpliciter, fu 
+      <lb ed="#C" n="33"/>quis testimonium ferat? Dicunt quidam, quod non po 
+      <lb ed="#C" n="34"/>test repetere, videtur enim testem corrumpere voluisse 
+      <lb ed="#C" n="35"/>ar F decondi. ob turp. causam, l2. sed contra, 14. quae 5 non sani 
+      <lb ed="#C" n="36"/>dic quod in hoc casu potest repeti, si non eo animo dedit 
+      <lb ed="#C" n="37"/>ut testem corrumperet, sed ut sibi justitia conservaretur 
+      <lb ed="#C" n="38"/>arg. inf. de simo. dilectus, secundum Goff. Satis igitur proba 
+      <lb ed="#C" n="39"/>tum est per praemissa, quod mortale peccatum est celare ve 
+      <lb ed="#C" n="40"/>ritatem, ergo hac saltem ratione compellendus est testis 
+      <lb ed="#C" n="41"/>non ob aliqua constitutio contraria, cessat enim omnis con 
+      <lb ed="#C" n="42"/>stitutio, ex quo imminet periculum animarum, ut nota sui 
+      <lb ed="#C" n="43"/>de off. Archidia §quid sit ejus officium, ver. quare autem &amp; cer 
+      <lb ed="#C" n="44"/>te quanto in criminali majus imminet periculum, tant 
+      <lb ed="#C" n="45"/>magis haec ratio ibidem locum habet, ergo judex ubique ei 
+      <lb ed="#C" n="46"/>officio suo debet de quolibet peccato subditum coercer 
+      <lb ed="#C" n="47"/>sup: de ju. novit ergo in criminalibus cogentur, ut dixi si 
+      <lb ed="#C" n="48"/>pra &amp; ar. 3. 49. §1 &amp;c. hortamur. Nam in civilibus ostenditu 
+      <lb ed="#C" n="49"/>principaliter privata utilitas tantum. Sed in criminalibu 
+      <lb ed="#C" n="50"/>Deus offenditur. Resp. laeditur. Proximus corrumpitur 
+      <lb ed="#C" n="51"/>Obedientes opprimuntur, &amp; propter bonum obedientiae pu 
+      <lb ed="#C" n="52"/>niuntur. Inobedientes praemiis afficiuntur, &amp; de suis mali 
+      <lb ed="#C" n="53"/>tiis gloriantur. Nocens absolvitur, Et innocens condemni 
+      <lb ed="#C" n="54"/>tur. Nisi testes compellantur, &amp; crimina puniantur
+    </p>
+            <p xml:id="nbht7y-d1e769-d1e688">
+               <lb ed="#C" n="55"/>Et qualiter cogantur. Praemissa monitione 
+      <lb ed="#C" n="56"/>cum cogantur per 
+      cen<lb ed="#C" n="57" break="no"/>suram ecclesiasticam, ergo per excommunicationis, su 
+      <lb ed="#C" n="58"/>spensionis, &amp; interdicti sententias infra de verborum signifi¬ 
+      <lb ed="#C" n="59"/>quaerenti, &amp; si moniti nolunt testificari praesumitur quo 
+      <lb ed="#C" n="60"/>gratia vel timore vel odio se subtrahant infra eodem supi 
+      <lb ed="#C" n="61"/>eodem &amp; cap.i. &amp; 2&amp; pertotum. Alii dicunt, quod ita demi 
+      <lb ed="#C" n="62"/>cogendi sunt, si per alios veritas elici non potest: sed ho 
+      <lb ed="#C" n="63"/>intellige de privilegiatis, ut patet supr. eodem §i. ver.videtur 
+      <lb ed="#C" n="64"/>&amp; dicunt quidam, quod secundum canones monendi sunt 
+      <lb ed="#C" n="65"/>antequam cogantur propter excommunicationem, qua 
+      <lb ed="#C" n="66"/>sequi debet, de sentent excommunic. sacros. sed certe secur 
+      <lb ed="#C" n="67"/>dum leges idem videtur, scilicet quod primo sint monem 
+      <lb ed="#C" n="68"/>di, quam cogendi, ut f. de tab. exhi. locum, 9 hoc interdictum,( 
+      <lb ed="#C" n="69"/>sequent. Sed quod dicit infra cap. super eodem monendi sunt 
+      <lb ed="#C" n="70"/>non cogendi, expone, id est, prius sunt monendi, &amp; post 
+      <lb ed="#C" n="71"/>ea cogendi, similis expositio infra de spon. requisivit, vel di 
+      <lb ed="#C" n="72"/>non cogendi, scilicet nulla monitione praecedente; secun 
+      <lb ed="#C" n="73"/>dum hoc intellige clausulam, quae tota die ponitur in lite 
+      <lb ed="#C" n="74"/>ris Apostolicis, testes autem qui fuerint nominati, &amp;c. Se¬ 
+      <lb ed="#C" n="75"/>&amp; si illa clausula non apponatur, judex nihiloninus con 
+      <lb ed="#C" n="76"/>pellet testes, secundum quod juri congruit, arg. sup. de off 
+      <lb ed="#C" n="77"/>deleg. praeterea, possunt etiam testes coerceri secundum 
+      <lb ed="#C" n="78"/>per mulctae indictionem, ut arg ff. si quis jus dicen. non obi¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0300.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>unica, vel captis pignoribus ad exemplum tutorum satis 
+      <lb ed="#C" n="80"/>dare nolentium, quorum officium publicum est, sicut &amp; 
+      <lb ed="#C" n="81"/>testium, argum. Institut. de satisd tut. Sult. &amp; de excu. tu. respo. 
+      <lb ed="#C" n="82"/>tzvel ad exemplum parentum alere nolentium, ut f de lib¬ 
+      <lb ed="#C" n="83"/>agno, si quis alie s si quis ex his, vel ad exemplum mulieris 
+      <lb ed="#C" n="84"/>no patientis inspici ventrem suum, cum dicatur remasissi 
+      <lb ed="#C" n="85"/>praegnas, cujus pignora capiuntur &amp; distrahuntur &amp; mul 
+      <lb ed="#C" n="86"/>cta indicitur, uiff. de vent. inspiciendo l.. S cogend¬ 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="87"/>ADDITIONES 
+      <lb ed="#C" n="88"/>e Vnus testis &amp; jurat non testificari. Adde quid si talis produaei 
+    </p>
+    <p>
+      <lb ed="#C" n="89"/>tur in testem, an possit compelli per judicem ut juret. vide pe 
+      <lb ed="#C" n="90"/>Spe. in tit. de teste, ( postquam, ver quid sitenentem. Io. And. in cap 
+      <lb ed="#C" n="91"/>quia olerique de offi ord. li. 6 in novella Lud. Rom. in repe. rub. de arb 
+      <lb ed="#C" n="92"/>ubi dicit hanc que non esse tactam inter iuristas 
+      <lb ed="#C" n="93"/>Data est pecunia simpliciter. Adde quid de dante pecuniam ju 
+    </p>
+    <p>
+      <lb ed="#C" n="94"/>dici ad fi. ut causam expediat perdat causam, vide gl. in 2 91 
+      <lb ed="#C" n="95"/>recte. I1. qu. 3. gl. in l. I ff de com. ob tur. causam. Bal. in c. si. in ult, col de at-->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

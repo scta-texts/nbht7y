@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 22</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 22</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="115"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e294"><!-- nbht7y-l1t22 -->
+            <head xml:id="nbht7y-d1e294-Hd1e101">Titulus 22</head>
+            <head xml:id="nbht7y-d1e294-Hd1e103" type="question-title">De clericis peregrinis</head>
+            <p xml:id="nbht7y-d1e294-d1e106">
+               <lb ed="#C" n="9"/>De Clericis peregrinis XXII 
+      <lb ed="#C" n="10"/>Rubrica. 
+    </p>
+            <p xml:id="nbht7y-d1e294-d1e113">
+               <lb ed="#C" n="11"/>SUMMARIA 
+      <lb ed="#C" n="12"/>1 Peregrini hic, qui dicantur 
+      <lb ed="#C" n="13"/>3 Peregriniquare a promotione repellantur 
+      <lb ed="#C" n="14"/>3 Peregrini, quando &amp; qualiter repellantur a promotione 
+      <lb ed="#C" n="15"/>4 Ordines per juramentum probari non possum 
+    </p>
+            <p xml:id="nbht7y-d1e294-d1e126">
+               <lb ed="#C" n="16"/>DIctum est supra de bis. qui 
+      prohi<lb ed="#C" n="17" break="no"/>bentur ad sacro 
+      <lb ed="#C" n="18"/>ordines promoveri, vel etiam ad majores 
+      <lb ed="#C" n="19"/>nunc de his tractandum est, qui ab execu 
+      <lb ed="#C" n="20"/>tione publica ordinum susceptorum, &amp; n¬ 
+      <lb ed="#C" n="21"/>ad majores ascendant, aliquando ad tempus, aliquando in 
+      <lb ed="#C" n="22"/>perpetuum prohibentur: &amp; sic dicamus &amp; clericis pere 
+      <lb ed="#C" n="23"/>grinis, exponentes: Qui dicantur hic pereerini: Quare 
+      <lb ed="#C" n="24"/>promotione, vel executione repellantur: Quando &amp; qua 
+      <lb ed="#C" n="25"/>liter admittantur, vel repellantur 
+    </p>
+            <p xml:id="nbht7y-d1e294-d1e151">
+               <lb ed="#C" n="26"/>Qui dicantur. hic peregrini. Feregin 
+      <lb ed="#C" n="27"/>possut hic
+      <lb ed="#C" n="28"/>appellari omnes, qui non sunt de episcopatu ordinantis 
+      <lb ed="#C" n="29"/>sive sint clerici, sive laici, quia tales recipi non dicunt al 
+      <lb ed="#C" n="30"/>episcopo alio ad ordines, vel dignitates, vel ecclesiastici 
+      <lb ed="#C" n="31"/>sacramenta 71. distinct, per totum, &amp; specialiter in cap. prim¬ 
+      <lb ed="#C" n="32"/>tus, infra de paro. cap. 1. &amp; 2. &amp; quod omnes tales dicantu 
+      <lb ed="#C" n="33"/>extranei, est argumen. 3. quaest. 2. peregrina. 6. quaest. 3. cap. 
+      <lb ed="#C" n="34"/>&amp; 2. &amp; expressum. de omsecratione distinct. sin. non oportet in 
+      <lb ed="#C" n="35"/>nistros. 2 sed &amp; incolae, quorum vita, genus, origo, &amp; regu 
+      <lb ed="#C" n="36"/>laritas sunt ignota episcopo, similiter ab his, quae supe 
+      <lb ed="#C" n="37"/>rius dicta sunt, excluduntur. 24. distinct. quando episcopus 
+      <lb ed="#C" n="38"/>42. distinct quiescamus in verbo: Si enim in clero. argu. 2. 97 
+      <lb ed="#C" n="39"/>quaerendum in verbo Quorum vita &amp; libertas noscitur. re 
+      <lb ed="#C" n="40"/>pelluntur etiam tales a iacramento. &amp; de consec. dist. 2. t. 
+      <lb ed="#C" n="41"/>bus. si tamen aliquis sit incola notus, sed indignus, &amp; su¬ 
+      <lb ed="#C" n="42"/>indignitas soli episcopo sit cognita, ab ordinibus exclud 
+      <lb ed="#C" n="43"/>non potest supra de temp. ord. ex tenopemec a sacramentis 
+      <lb ed="#C" n="44"/>de con sec distz. non prohibeat. quod dicant not. supra de aeu 
+      <lb ed="#C" n="45"/>&amp; qual. §. ordo. vers. quid si clericus petit ordinari. &amp; versi. se 
+      <lb ed="#C" n="46"/>qualiter 
+    </p>
+            <p xml:id="nbht7y-d1e294-d1e199">
+               <lb ed="#C" n="47"/>Quare a promotione, vel executione 
+      re<lb ed="#C" n="48" break="no"/>pellantor quadmpe 
+      <lb ed="#C" n="49"/>est ratio. Prima, quia non licet episcopo falcem suae juris 
+      <lb ed="#C" n="50"/>dictionis ponere in messem alienam, ordinando, vel judi 
+      <lb ed="#C" n="51"/>cando subditos alienos. 71.distinct per totum. 6q3 per totum 
+      <lb ed="#C" n="52"/>Fl. 9. 3. per totum. Secunda, quia tales solent essent pr¬ 
+      <lb ed="#C" n="53"/>magna parte criminosi, infames, excommunicati, vel alia 
+      <lb ed="#C" n="54"/>irregulares, corpore vitiati, usurarii, publice poenitenter 
+      <lb ed="#C" n="55"/>lusores in scena, furiosi, arreptitii, accipientes nutricen 
+      <lb ed="#C" n="56"/>in uxorem3 distinct pertotum 50. distinct. ex paenitentibus. 51 
+      <lb ed="#C" n="57"/>distinct quimaliquo so distinct, confirmandum, de consec. distin 
+      <lb ed="#C" n="58"/>3qui bis. Tertia, quia saepe mentiuntur habere ordines 
+      <lb ed="#C" n="59"/>cum non habeant, vel majores quam habeant. 98. dist. Afro 
+      <lb ed="#C" n="60"/>mqduae. Quarta, quia cum non appareat delicentia, in 
+      <lb ed="#C" n="61"/>obediens praesumitur, nec enim licet clerico peregrinari 
+      <lb ed="#C" n="62"/>sine licentia proprii episcopi. de canses, dist.5. non opores nec 
+      <lb ed="#C" n="63"/>etiam causa studii potest se absentare sine licentia, infra 
+      <lb ed="#C" n="64"/>decler. non resi relatum. &amp;c. sey. quod dic. ut not. infr. de cler. 
+      <lb ed="#C" n="65"/>non resi relatum &amp;c. seq. quod dic, ut notinsumma roi 
+      <lb ed="#C" n="66"/>Sed quae est differentia inter hunc tit. &amp; noir. de pereg. respon 
+      <lb ed="#C" n="67"/>Hic tractatur, utrum clericus extraneus sit admittendui 
+      <lb ed="#C" n="68"/>sine literis sui episcopi: ibi vero qualiter is qui accedi 
+      <lb ed="#C" n="69"/>ad sedem Apostolicam, intelligatur esse sub protectioni 
+      <lb ed="#C" n="70"/>ejusdem. &amp; no. quod omnes peregrini sunt sub prote¬ 
+      <lb ed="#C" n="71"/>ctione ejusdem infr. detreuga &amp; pacemnovamus. quod dicut 
+      <lb ed="#C" n="72"/>ibi not.
+    </p>
+            <p xml:id="nbht7y-d1e294-d1e258">
+               <lb ed="#C" n="73"/>Quando, &amp; qualiter Amitantur vel 
+      repel<lb ed="#C" n="74" break="no"/>lantur. Breviter dicas 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0132.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="75"/>quod si quis habet literas domini Papae commendatitias seu 
+      <lb ed="#C" n="76"/>testimoniales, ubique recipiendus est in ordine suo inf.d¬ 
+      <lb ed="#C" n="77"/>cler. non resi fraternitati. Si vero literas sui episcopi, &amp; sigillium 
+      <lb ed="#C" n="78"/>notum sit, admitti potest. arg, sup. de renun.n nostea prae sentia 
+      <lb ed="#C" n="79"/>mf. de praeb. cum secundum Apostolum. in si inf. de censi. sopitae. ex 
+      <lb ed="#C" n="80"/>pressim. C. de epis. &amp; cle siqua 71. dist. extraneo. &amp; c pramantus. S. 
+      <lb ed="#C" n="81"/>vero tam clericus, quam sigillum ignoti sunt, non admit 
+      <lb ed="#C" n="82"/>titur publice, nisi habeat sigilla quinque episcoporum. i 
+      <lb ed="#C" n="83"/>eo. c. 1.98. dist. transmarinos &amp; c. Afros. consuevit enim propter 
+      <lb ed="#C" n="84"/>mutationem provinciae veritas inumbrati. 98 dist. §. 1. Nec 
+      <lb ed="#C" n="85"/>per juramentum ordines? probari possunt, &amp; quamvis 
+      <lb ed="#C" n="86"/>clerici quinque sigilla, vel etiam sigillum proprii episcop 
+      <lb ed="#C" n="87"/>habeant, &amp; promoveri velint ad ordines, vel beneficia ii 
+      <lb ed="#C" n="88"/>suspenso teneantur, quousque nota conversatio sit eorum 
+      <lb ed="#C" n="89"/>infra eo.c. &amp; 2. Sed quare magis creditur quinque sigillis 
+      <lb ed="#C" n="90"/>quam uni, quia mille ignota sufficere non videntur? re 
+      <lb ed="#C" n="91"/>spon. citius falsificatur sigillum unius episcopi, quam quin 
+      <lb ed="#C" n="92"/>que. secundum Hugo. nam &amp; duo, vel tres testes sufficium 
+      <lb ed="#C" n="93"/>tere in qualibet causa; &amp; tamen plures testes aliquotie 
+      <lb ed="#C" n="94"/>requiruntur, ne quid falsitatis excogitetur. C. de fideicom.di 
+      <lb ed="#C" n="95"/>bert. I.ult. &amp; licet hi, &amp; illi corrumpi possint, non tamen ita 
+      <lb ed="#C" n="96"/>de facili plures, sicut pauci, quasi dicat, sic dicendum est, &amp; 
+      <lb ed="#C" n="97"/>de sigillis. ad hoc. 28. aist. de Syracusanae 14 4. 5. denig. 16. 4. 2. ci 
+      <lb ed="#C" n="98"/>&amp; 3. &amp; qu s. accusatores. sed secundum Jo. non est credendun 
+      <lb ed="#C" n="99"/>5. nisi aliqua notitia habeatur, quia circa majora periculum 
+      <lb ed="#C" n="100"/>vertitur. 42.dist quiescamus, 7. q4. 2. ca si f. de carbo. edict.. in. §. 
+      <lb ed="#C" n="101"/>quis quia eadem ratio remanet, ergo idem jus est sed forte 
+      <lb ed="#C" n="102"/>unus testis cum sigillis sufficeret. &amp; hoc videtur verius 
+      <lb ed="#C" n="103"/>nec enim ratio Hug. sufficiens est, quia non ita de facil 
+      <lb ed="#C" n="104"/>corrumpuntur tres testes, sicut unus, sed qui falsificat uni 
+      <lb ed="#C" n="105"/>sigillum sculpendo, idem faceret de centum: &amp; qui ho¬ 
+      <lb ed="#C" n="106"/>procurat de uno, &amp; de centum hoc procuraret: ratio, quis 
+      <lb ed="#C" n="107"/>in falsitate plurium sigillorum dependet corruptio ex par 
+      <lb ed="#C" n="108"/>te unius tantum, scilicet falsarii: in falsitate vero testium 
+      <lb ed="#C" n="109"/>non dependet corruptio ex parte corrumpentis tantum, 
+      <lb ed="#C" n="110"/>sed ex parte testium producendorum: &amp; ideo aliud hic, 
+      <lb ed="#C" n="111"/>quam ibi. Sed non refert, utrum faciatfidem de ordinibus 
+      <lb ed="#C" n="112"/>pertestes vel instrumenta, quia &amp; quamvis nullam fiden 
+      <lb ed="#C" n="113"/>faciant, secreto ex devotione celebrare possunt. infr. eo tu¬ 
+      <lb ed="#C" n="114"/>fraternitati. sed de gratia, quia &amp; praelato extraneo intelli 
+      <lb ed="#C" n="115"/>gitur fieri gratia in hoc casu. supr. de usu pallii. ex tuaum. se 
+      <lb ed="#C" n="116"/>cundum Goff sed certe ibi loquitur de publice celebran 
+      <lb ed="#C" n="117"/>te, &amp; sic intelligitur. 9. 4. 2 per totum. Non licet etiam praela 
+      <lb ed="#C" n="118"/>tis diaec. subjectis instituere clericos extraneos in ecclesiis 
+      <lb ed="#C" n="119"/>suis, inconsulto episcopo. nam si hoc faciant, exinde pote 
+      <lb ed="#C" n="120"/>rit dioec. episcopus eos removere, nisi cum aliquibus du 
+      <lb ed="#C" n="121"/>xerit dispensandum, inf. eoc si. sup. de renun admonet. inf de in 
+      <lb ed="#C" n="122"/>stit. ex frequentib. Et no quod in literis debet esse haec clau¬ 
+      <lb ed="#C" n="123"/>sula, vel similis, Quem gradatim ad talem ordinem pro 
+      <lb ed="#C" n="124"/>movimus, ut probatur in Decreto, quod docet qualiter li 
+      <lb ed="#C" n="125"/>tera commendatitia, seu dimissoria formari debeat 72. dii 
+      <lb ed="#C" n="126"/>In nomine patris. &amp;c. seq. &amp; est ratio, quia debet inquiri de 
+      <lb ed="#C" n="127"/>majoribus &amp; de minoribus ne forte per saltum, vel omissi 
+      <lb ed="#C" n="128"/>manus impositione, promotus esset unde non haberet ex 
+      <lb ed="#C" n="129"/>ecutionem, inf. co c. I. in fi. 52. dist. solicitudo, supr. de sacr non ite 
+      <lb ed="#C" n="130"/>ran.c.i. Hae literae commendatitiae vocantur. seu testimo 
+      <lb ed="#C" n="131"/>niales. inf. eo. rubr. sed tamen haec non sufficiunt, quantum 
+      <lb ed="#C" n="132"/>ad hoc, ut ordines recipere possit, imo necesse est, ut ha 
+      <lb ed="#C" n="133"/>beat dimissorias, scilicet quod episcopus eum a potestate, 
+      <lb ed="#C" n="134"/>&amp; jurisdictione sua diviserit: &amp; licentiam dederit se, ubi 
+      <lb ed="#C" n="135"/>cunque voluerit, transferendi. 72. dist per totum, vel depre¬ 
+      <lb ed="#C" n="136"/>catorias, sup. de temp. ord quod tramlationem. nec in hoc casu 
+      <lb ed="#C" n="137"/>literae archidiaconi sufficiunt. iufet.i. significasti. alias licet 
+      <lb ed="#C" n="138"/>reciperet characterem, executionem tamen forsan non 
+      <lb ed="#C" n="139"/>haberet, ut in d.a quod translationmm. &amp; no, sup. de ord. ab epi¬ 
+      <lb ed="#C" n="140"/>scopo.c.. &amp; 2. &amp; facit ad hoc iunf. de pero. nullus 71. distin. perto 
+      <lb ed="#C" n="141"/>tum, 72.dist. pertotum Sed tamen in dictis dist. promiscue vi 
+      <lb ed="#C" n="142"/>detur uti verbis, &amp; loquitur etiam de litera formata. 924 
+      <lb ed="#C" n="143"/>2nongomr 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

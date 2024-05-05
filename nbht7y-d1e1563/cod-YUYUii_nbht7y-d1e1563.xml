@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 11</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 11</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="591"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1563"><!-- nbht7y-l4t11 -->
+            <head xml:id="nbht7y-d1e1563-Hd1e101">Titulus 11</head>
+            <head xml:id="nbht7y-d1e1563-Hd1e103" type="question-title">De cognatione spirituali</head>
+            <p xml:id="nbht7y-d1e1563-d1e106">
+               <lb ed="#C" n="12"/>De Cognatione spirituali. Rubr. XI 
+    </p>
+            <p xml:id="nbht7y-d1e1563-d1e111">
+               <lb ed="#C" n="13"/>SUMMARIA. 
+      <lb ed="#C" n="14"/>I Cognatio spiritualis quid si 
+      <lb ed="#C" n="15"/>2 Etquot sint ejus species 
+      <lb ed="#C" n="16"/>3 Et qualiter contrahatur 
+      <lb ed="#C" n="17"/>4 Effectus cognationis spiritualis quis fu 
+      <lb ed="#C" n="18"/>5. Cognatio spiritualis non egredietur personas illas, cum quibu 
+      <lb ed="#C" n="19"/>contrahitur, vel contrahi intelligitur 
+      <lb ed="#C" n="20"/>6 Consuetudo approbata per Papam, potest inducere impedimer 
+      <lb ed="#C" n="21"/>tum, &amp; remorere in his in quibus Papa possii 
+      <lb ed="#C" n="22"/>7 Commatres duas an aliquis possit habere 
+      <lb ed="#C" n="23"/>8 Laicus sibaptizavit puellam tempore necessitatis, an possit ean 
+      <lb ed="#C" n="24"/>habere in uxorem 
+      <lb ed="#C" n="25"/>9 Filius sacerdotis qui baptizavit puellam, an possit contraher 
+      <lb ed="#C" n="26"/>cum ea 
+    </p>
+            <p xml:id="nbht7y-d1e1563-d1e144">
+               <lb ed="#C" n="27"/>TRactaturus Magister de quodam 
+      <lb ed="#C" n="28"/>impedimento matri 
+      <lb ed="#C" n="29"/>monii, scilic. consanguinitatis, quae triples 
+      <lb ed="#C" n="30"/>est, scilicet spiritualis, de qua tractatur hîc 
+      <lb ed="#C" n="31"/>&amp; 30. quaest. 3. per totum. legalis, de qua tra 
+      <lb ed="#C" n="32"/>ctatur infratit. i. 33. q. 3. Item carnalis, de qua tractatur infr¬ 
+      <lb ed="#C" n="33"/>de consanguin. &amp; affinitat. &amp; 35. qu. 6. per totum. praemittit hi¬ 
+      <lb ed="#C" n="34"/>de spirituali tanquam de digniori: quia spiritualia digni 
+      <lb ed="#C" n="35"/>ora sunt. ut notatur supra de majorit. &amp; obed §. quis cui ean 
+      <lb ed="#C" n="36"/>praestaret. in qua videndum; Quid sit cognatio spiritualis 
+      <lb ed="#C" n="37"/>Quot ejus species. Qualiter contrahatur, Quis sit effectu 
+      <lb ed="#C" n="38"/>cujuslibet speciei, Et an aliquis possit habere duas com 
+      <lb ed="#C" n="39"/>matres 
+    </p>
+            <p xml:id="nbht7y-d1e1563-d1e176">
+               <lb ed="#C" n="40"/>Quid sit cognatio spiritualis a Et quidem 
+      propin<lb ed="#C" n="41" break="no"/>quitas proveniens ex sacramenti datione 
+      <lb ed="#C" n="42"/>ut in baptizante, vel ad id, scilicet sacramentorum deten 
+      <lb ed="#C" n="43"/>tione, ut patrino &amp; filio ejus carnali, qui ex hac detentio 
+      <lb ed="#C" n="44"/>ne fit frater spiritualis filioli patris carnalis. ut apparet in 
+      <lb ed="#C" n="45"/>sequent. &amp; tanguntur hic tres species sequentes, quae im 
+      <lb ed="#C" n="46"/>pediunt &amp; dirimunt. unde versus. Dirimunt frater. infr 
+      <lb ed="#C" n="47"/>eod. c.i. &amp; 3. &amp;c. veniens. compater. infra eod. Martinus, atqu 
+      <lb ed="#C" n="48"/>pater. 30. q. 3.c.1. &amp;
+    </p>
+            <p xml:id="nbht7y-d1e1563-d1e198">
+               <lb ed="#C" n="49"/>Quot, ejus species Tres, quae omnes tactae sunt in
+      <lb ed="#C" n="50"/>descriptione. Prima dicitur compater 
+      <lb ed="#C" n="51"/>nitas. b &amp; attenditur inter spiritualem patrem pueri 8 
+      <lb ed="#C" n="52"/>carnalem. nam unus compatrum semper est pater spiri 
+      <lb ed="#C" n="53"/>tualis pueri, &amp; alter carnalis, unde versus 
+      <lb ed="#C" n="54"/>
+               <quote xml:id="nbht7y-d1e1563-Qd1e213">Unus sempererit compatrum spiritualis 
+      <lb ed="#C" n="55"/>Alter carnalis, nec fallit regula tali.</quote>
+               <lb ed="#C" n="56"/>&amp; ex hoc apparet, quod singuli filioli singulos patrino 
+      <lb ed="#C" n="57"/>habere debent, non plures, ut 36. q. 4. quod autem &amp; de con 
+      <lb ed="#C" n="58"/>distinct. 4. in catechisino. &amp; cap. non plures. quare etiam vir 8 
+      <lb ed="#C" n="59"/>uxor non debent simul tenere: ut ibi. &amp; not. infr. §. fin. ver 
+      <lb ed="#C" n="60"/>quid ergo. &amp; est ratio, quia licet unus debeat tenere; si plu 
+      <lb ed="#C" n="61"/>res accedunt, videtur inter ipsos contrahi quasi quaedan 
+      <lb ed="#C" n="62"/>affinitas spiritualis. quare videtur, quod sine peccato con 
+      <lb ed="#C" n="63"/>misceri non possunt Item quia quot patrinos habet filio 
+      <lb ed="#C" n="64"/>la, tot maritos amittit. si. no. de spons. impub. &amp; S. quae spon 
+      <lb ed="#C" n="65"/>salia. quod tamen in aliquibus regionibus male observa 
+      <lb ed="#C" n="66"/>tur, &amp; quod dixi, quod singuli singulos patrinos haber 
+      <lb ed="#C" n="67"/>debent, intelligas respectu baptizantis, vel suscipientis 
+      <lb ed="#C" n="68"/>quia unicus debet esse baptizans, &amp; unicus suscipiens, se¬ 
+      <lb ed="#C" n="69"/>tamen uterque est patrinus, nam omnes suscipientes, pa 
+      <lb ed="#C" n="70"/>trini sunt, sicut &amp; baptizantes, ut probant jura inducta. in 
+      <lb ed="#C" n="71"/>fra eod S. quis sit effectus. versicul effectus autem secundae, &amp; ut 3o 
+      <lb ed="#C" n="72"/>quaestion. 1. omnes. Si ergo baptizans repraesentat patrem al 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0608.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="73"/>actu suscipiens matrem a passione, vel quasi, quia sustine 
+      <lb ed="#C" n="74"/>puerum: sacramentum autem loco carnalis compulae suc 
+      <lb ed="#C" n="75"/>cedit: sicut ergo monstrosum &amp; impossibile esset, si quis 
+      <lb ed="#C" n="76"/>diceretur habere plures patres, vel matres carnales, ita de 
+      <lb ed="#C" n="77"/>spiritualibus intelligendum est. &amp; vide quod not. suprad 
+      <lb ed="#C" n="78"/>captis. §. quot ejus species. Secunda dicitur paternitas, &amp; hae¬ 
+      <lb ed="#C" n="79"/>attenditur inter eum qui baptizat, &amp; quibaptizatur, siv 
+      <lb ed="#C" n="80"/>inter eum qui suscipit, &amp; suscipitur, quae potius materni 
+      <lb ed="#C" n="81"/>tas dici debeat, arg. in his quae not. supra proxim. vers. de ha¬ 
+      <lb ed="#C" n="82"/>habes. infra eod. §. quis sit effectus vers. effectus autem secundae 
+      <lb ed="#C" n="83"/>Tertia dicitur fraternitas, quae attenditur inter filium tu¬ 
+      <lb ed="#C" n="84"/>um spiritualem, &amp; filios tuos carnales. de hac infra eod. qui 
+      <lb ed="#C" n="85"/>sit effectus. versic. effectus vero tertiae. Licet autem haetres spe 
+      <lb ed="#C" n="86"/>cies sint, &amp; non plures, tamen secundum Gof. in baptismo 
+      <lb ed="#C" n="87"/>novem propinquitates sive attinentiae aliquando oriun 
+      <lb ed="#C" n="88"/>tur, &amp; sunt hae. Prima propinquitas oritur inter presby 
+      <lb ed="#C" n="89"/>terum baptizantem, &amp; baptizatum, quae est filiatio. Se 
+      <lb ed="#C" n="90"/>cunda inter sacerdotem, &amp; patrem baptizati, &amp; haec es 
+      <lb ed="#C" n="91"/>compaternitas. Tertia inter sacerdotem, &amp; matrem pue 
+      <lb ed="#C" n="92"/>ri quae dicitur commaternitas. Quarta quae est inter filio 
+      <lb ed="#C" n="93"/>sacerdotis, si quos habet, &amp; baptizatum, &amp; haec est frater 
+      <lb ed="#C" n="94"/>nitas. 30. qu.iomnes. &amp; d. 3. ita. Quinta inter baptizatum 8 
+      <lb ed="#C" n="95"/>suscipientem de baptismo, &amp; haec est filiatio. Sexta inte 
+      <lb ed="#C" n="96"/>baptizatum, &amp; uxorem suscipientis, &amp; haec similiter est filiatio 
+      <lb ed="#C" n="97"/>Septima inter baptizatum, &amp; filios suscipientis: &amp; haec ess 
+      <lb ed="#C" n="98"/>fraternitas. Octava inter suscipientem, &amp; patrem susce 
+      <lb ed="#C" n="99"/>pti, &amp; haec est compaternitas. Nona inter suscipientem, 8 
+      <lb ed="#C" n="100"/>matrem suscepti: &amp; haec est commaternitas, comproban 
+      <lb ed="#C" n="101"/>tur haec 30. qu. 3. per totum. &amp; q. 4. si quis unus, &amp;c. spiritualen 
+      <lb ed="#C" n="102"/>&amp;c. post uxoris. infra eod.c.i. &amp;c. Martinus, &amp;c. veniens, &amp;c 
+      <lb ed="#C" n="103"/>tua. Sed quicquid dicatur, aut est paternitas, sive materni 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="104"/>ADDITIONES. 
+      <lb ed="#C" n="105"/>a Quid sit cognatio spiritualis) Adde Doct. in rubr aod ti 
+      <lb ed="#C" n="106"/>b Compaternitas] Quod ad hanc cognationis spiritualis spe 
+    </p>
+    <p>
+      <lb ed="#C" n="107"/>ciem attinet. Martinus eod.tit. in Summa, ita scriptum reliquit 
+      <lb ed="#C" n="108"/>Matrimonium (inquit) esse non potest inter patrem spiritua 
+      <lb ed="#C" n="109"/>lem, qui levavit de sacro fonte, &amp; filiam spiritualem susce 
+      <lb ed="#C" n="110"/>ptam, vel inter matrem spiritualem, &amp; filium spiritualem 
+      <lb ed="#C" n="111"/>Quod si conjuncti fuerint, separandi sunt, ut 30. 5. 1. de eo quo 
+      <lb ed="#C" n="112"/>interrogasti. &amp; ead. cau. qu. 2. si quis cum matre. Matrimoniunm 
+      <lb ed="#C" n="113"/>quoque contrahi non potest cum filia compatris, postquan 
+      <lb ed="#C" n="114"/>per eam fuimus compatres effecti, sed cum alia sic. Honestum 
+      <lb ed="#C" n="115"/>tamen esset, a tali conjuglo abstinere. contractum tamen te 
+      <lb ed="#C" n="116"/>net. 30. quaestion. 3. tap. illud etiam. In summa, matrimoniun 
+      <lb ed="#C" n="117"/>contrahere possunt, omnes filii, &amp; filiae duorum compatru 
+      <lb ed="#C" n="118"/>excepta illa persona, ob quam contracta est compateruitas 
+      <lb ed="#C" n="119"/>Nam illa persona nunquam potest compulari alicui filiorun 
+      <lb ed="#C" n="120"/>patris sui spiritualis. ead. cau. &amp; quaestio. super quibus. &amp; extra di 
+      <lb ed="#C" n="121"/>cognat. sp rit. capis. 1. &amp; cap. tuanos. Quid si aliquis non tangi 
+      <lb ed="#C" n="122"/>ipsum baptizatum, sed tangere se simulet. &amp; respondeat cun 
+      <lb ed="#C" n="123"/>aliis ad alias interrogationes, Abrenuncias satanae, vis bapti 
+      <lb ed="#C" n="124"/>zari, &amp; nominet puerum, cum aliis. Respondeo, non efficitu 
+      <lb ed="#C" n="125"/>compater, nisi tangat puerum vel tenendo, dum baptizatur 
+      <lb ed="#C" n="126"/>vel tenendo vel levando de sacro fonte, vel tenendo ad con¬ 
+      <lb ed="#C" n="127"/>firmationem. Quid si teneat, sed non respondeat cum aliis 
+      <lb ed="#C" n="128"/>patrinis intendens per hoc facere, ut non efficiatur compa 
+      <lb ed="#C" n="129"/>ter, &amp; hic posset absque majore peccato cognoscere matrem 
+      <lb ed="#C" n="130"/>pueri, aut eam ducere. Dicendum est sine praejudicio; quoc 
+      <lb ed="#C" n="131"/>efficitur compater ex quo tenet, vel tangit ipsum &amp; intendi 
+      <lb ed="#C" n="132"/>eum tenere, vel tangere, hoc est agere, quod agunt veri pa¬ 
+      <lb ed="#C" n="133"/>frini, unde compaternitas sic contrahitur. Nec credendum est 
+      <lb ed="#C" n="134"/>quod responsio patrinorum sit de substantia rei, quoad con 
+      <lb ed="#C" n="135"/>trahendam compaternitatem. Quid de illis qui per simplici 
+      <lb ed="#C" n="136"/>tatem, ignorantiam, aut fraudem levant filios uxorum sua 
+      <lb ed="#C" n="137"/>rum de iacro fonte. Dicendum est, quod si ex ignorantia vt 
+      <lb ed="#C" n="138"/>ex necessitate ob periculum mortis factum est excusatur. 8 
+      <lb ed="#C" n="139"/>vero ex malitia, fraus, &amp; dolus non debet eis patrocinari, ne¬ 
+      <lb ed="#C" n="140"/>ob id alter ab alio subtrahere se debet, nisi possint ad conti 
+      <lb ed="#C" n="141"/>nentiam induci. Sed nunquid is, qui in fraude fuit, amiseri 
+      <lb ed="#C" n="142"/>jus agendi. Dicendum est, quod cum non inveniatur prohibitus 
+      <lb ed="#C" n="143"/>non est prohibendus exigere ab uxore debitum, prohibitun 
+      <lb ed="#C" n="144"/>autem est religiosis, de baptismo compatres habere. 27. qu.¬ 
+      <lb ed="#C" n="145"/>placuit. Nota ergo quod spiritualis cognatio impedit &amp; diri 
+      <lb ed="#C" n="146"/>mit jam contractum in riplici specie cognationis, veluti in 
+      <lb ed="#C" n="147"/>compaternitate, ut in compatre, &amp; commatre. Similiter ir 
+      <lb ed="#C" n="148"/>compaternitate, ut in patre, &amp; filia spirituali, quia non potess 
+      <lb ed="#C" n="149"/>quis eam habere uxorem, quam levavit in fonte. Similiter in 
+      <lb ed="#C" n="150"/>fraternitate, vel in fratre carnali, &amp; spirituali sorore, quia non 
+      <lb ed="#C" n="151"/>potest frater carnalis habere sororem spiritualem. Paterta 
+      <lb ed="#C" n="152"/>men poterit habere in uxorem filiam spiritualem filii su¬ 
+      <lb ed="#C" n="153"/>carnalis, quia humor a radice ascendit ad ramos. Martinus -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0609.xml-->
+      <pb ed="#C" n="592"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>tas, vel filiatio, quae cum correlativa sint, eadem specie 
+      <lb ed="#C" n="2"/>est. nam si pater vel mater vel filius est, &amp; si filius est, pate 
+      <lb ed="#C" n="3"/>vel mater est, aut est compaternitas. &amp; sic sunt tres specie 
+      <lb ed="#C" n="4"/>tantum: ad quarum alteram omnes dictae propinquita 
+      <lb ed="#C" n="5"/>tes sive attinentiae reducuntur 
+    </p>
+            <p xml:id="nbht7y-d1e1563-d1e347">
+               <lb ed="#C" n="6"/>Qualiter, contrahatur Pateter praemisis 
+      <lb ed="#C" n="7"/>quod baptizand 
+      <lb ed="#C" n="8"/>&amp; tenendo, ut dixi supra §. 1. vers. 1. Sed nunquid in alii 
+      <lb ed="#C" n="9"/>sacramentis contrahitur spiritualis cognatio? Host. dixit 
+      <lb ed="#C" n="10"/>quod sic. nam sicut sunt 7. dona spiritus sancti, sic 7. sun 
+      <lb ed="#C" n="11"/>sacramenta: sive baptismi dona. &amp; in quolibet contrahi 
+      <lb ed="#C" n="12"/>tur compaternitas seu cognatio spiritualis, ut 30. q. 1. perv 
+      <lb ed="#C" n="13"/>nit. ita quod quodlibet impedit matrimonium cotraher 
+      <lb ed="#C" n="14"/>dum, &amp; dirimit. sunt autem haec. Primum sacrati salis col 
+      <lb ed="#C" n="15"/>latio. de conse. dist. 4. ex hinc. Secundum aurium &amp; nariun 
+      <lb ed="#C" n="16"/>cum sputo linitio. eo. postea tanguntur. Tertium, in front 
+      <lb ed="#C" n="17"/>&amp; pectore erucis signatio. eo. postea signantur. Quartum, 
+      <lb ed="#C" n="18"/>lei sacri unctio. eo. demum. Quintum. baptismi ablutio. e 
+      <lb ed="#C" n="19"/>venit. Sextum, in vertice chrismatis unctio. postquam ascen 
+      <lb ed="#C" n="20"/>dit. Septimum, in fronte fixa per episcopum confirmatio 
+      <lb ed="#C" n="21"/>cap. presbyteri. &amp; respondebat Decr. quae ei contradicit. in 
+      <lb ed="#C" n="22"/>eo. contracto. quod ille filius fuit concubinae tantum: qui 
+      <lb ed="#C" n="23"/>de alio viro eum susceperat, non de Petro amasio suo. ali 
+      <lb ed="#C" n="24"/>as non esset decr. Alii autem, ut Dama. Lau. &amp; T. dicuni 
+      <lb ed="#C" n="25"/>cognationem spiritualem contrahi in tribus sacramenti 
+      <lb ed="#C" n="26"/>tantam, scilicet in catechismo, baptismo, &amp; confirmatio 
+      <lb ed="#C" n="27"/>ne sed cognatio contracta in catechismo praestat imped 
+      <lb ed="#C" n="28"/>mentum natrimonio contrahendo: non tamen est adec 
+      <lb ed="#C" n="29"/>vaiida, ut dirimat iam contractum, ut infra eodem, contracti 
+      <lb ed="#C" n="30"/>restat erg), quod per duo tantum, scilicet baptismum S 
+      <lb ed="#C" n="31"/>confirinationem, valide contrahatur: ut argum. 30. quaes 
+      <lb ed="#C" n="32"/>I. si quis filiastram. &amp; cap. de his qui. &amp; quaest. 4. non oportet. C 
+      <lb ed="#C" n="33"/>cap. super quibus. &amp; infra eod. pertotum. &amp; secundum han 
+      <lb ed="#C" n="34"/>opinionem intelligenda sunt dicta. cap. pervenit. &amp; in cat¬ 
+      <lb ed="#C" n="35"/>chismo. &amp; in hoc concordant Goffred. &amp; Rayn. Si quaeras 
+      <lb ed="#C" n="36"/>quare in catechismo e non contrahatur? valida ratio ii 
+      <lb ed="#C" n="37"/>promptu est. baptismus enim janua est, &amp; fundamentun 
+      <lb ed="#C" n="38"/>omnium sacramentorum: ut 32. distinct. §. verum. in fin. 8 
+      <lb ed="#C" n="39"/>supra de preshyt. non bapti c. 2. unde cum catechismus praec¬ 
+      <lb ed="#C" n="40"/>dat baptismum, sequitur quod non est sacramentum, ei 
+      <lb ed="#C" n="41"/>go non contrahitur compaternitas valida per catechi 
+      <lb ed="#C" n="42"/>mum. Item ante baptismum non est filius ecclesiae, nec il 
+      <lb ed="#C" n="43"/>trare potest gloriam aeternam, ut de conse. dist. 4. firmissime 
+      <lb ed="#C" n="44"/>&amp;c. nulla. ergo non est filius spiritualis. quomodo ergi 
+      <lb ed="#C" n="45"/>per eum, qui filius non est spiritualis, contrahatur spiritu 
+      <lb ed="#C" n="46"/>alis cognatio? Nullo modo, quia antea quaerenda est pei 
+      <lb ed="#C" n="47"/>sona, quam ratio, ut ff. de jure codicillo. quidam referunt supr 
+      <lb ed="#C" n="48"/>de despons. impuber ad dissolvendum. Tertii, ut Ala. Bazi. 8 
+      <lb ed="#C" n="49"/>Gul. Naso, dicunt, quod in his tribus sacramentis catechis 
+      <lb ed="#C" n="50"/>mo, baptismo, &amp; confirmatione contrahatur spirituali 
+      <lb ed="#C" n="51"/>cognatio, impediens matrimonium in utroque casu, e 
+      <lb ed="#C" n="52"/>dirimens. nam hîc tria aequiparantur. de consec distinct. 4. 1 
+      <lb ed="#C" n="53"/>catechismo. &amp; 30. quaest. 4. si quis unus. nec obst. infra eod. cor 
+      <lb ed="#C" n="54"/>tracto. quia mulier non tenuit eum in toto catechismo, se¬ 
+      <lb ed="#C" n="55"/>in sola missione sacrati salis, quo catechismi initiantur, u 
+      <lb ed="#C" n="56"/>de consec. distin. 3 sal coelestis sapientiae. unde quod dicit liter. 
+      <lb ed="#C" n="57"/>in primo sacrati salis pabulo. subaudi, tantum, &amp; in tot¬ 
+      <lb ed="#C" n="58"/>catechismo. Sententia Da. videtur mihi rationabilior. 8 
+      <lb ed="#C" n="59"/>secundum eam expones verba. infra eo. contracto. quae res vis 
+      <lb ed="#C" n="60"/>contra. ma. impe affi subaudi, si tamen afferret. &amp; ita quo¬ 
+      <lb ed="#C" n="61"/>vix fit. tamen fit. sic ff. de ju. vix certis ex causis. non tamen id 
+      <lb ed="#C" n="62"/>eo matrimonium contractum solveret, ut praecedit, qui 
+      <lb ed="#C" n="63"/>vis etiam in toto catechismo tenuisset. cum enim impedi 
+      <lb ed="#C" n="64"/>mentum hoc surgat ex constitutione ecclesiae, non est d 
+      <lb ed="#C" n="65"/>latandum, sed potius restringendum, quia quos Deus con 
+      <lb ed="#C" n="66"/>junxit, homo non separet. arg. op. 33. 4. 2. si quis cum matre.? 
+      <lb ed="#C" n="67"/>seq. Tamen quia dissensio magna est, &amp; jura hinc inde con 
+      <lb ed="#C" n="68"/>traria &amp; fortissima, secundum diversas consuetudine 
+      <lb ed="#C" n="69"/>terrae, quae scandalum generaret, videretur hoc judican 
+      <lb ed="#C" n="70"/>dum. arg. sup. de sepul. testificari. &amp; in his quae no. inf. eo. §. qui 
+      <lb ed="#C" n="71"/>sit effectus. ver effectus vero tertiae. &amp; ver alii dicunm vel consuli 
+      <lb ed="#C" n="72"/>dus esset princeps super hoc, quia novi casus &amp; dubitabi 
+      <lb ed="#C" n="73"/>les pereum sunt terminandi. ut sup. detranskepisc. c. 1. &amp; 2
+    </p>
+            <p xml:id="nbht7y-d1e1563-d1e497">
+               <lb ed="#C" n="74"/>Quis sit effectus cvjuslibet speciei? Effectu 
+      <lb ed="#C" n="75"/>primae, scilic. compaternitati 
+      <lb ed="#C" n="76"/>est, ut impediat matrimonium contrahendum, &amp; dirima 
+      <lb ed="#C" n="77"/>jam contractum. sed notandum est, quod compaternita 
+      <lb ed="#C" n="78"/>jam subdividitur: quia alia est directa, alia obliqua directi 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0609.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>est, cum ego suscipio filium Bertae mulieris, vel ipsa meum 
+      <lb ed="#C" n="80"/>nam in hoc casu ipsa commater mea est directa, &amp; ego com 
+      <lb ed="#C" n="81"/>pater suus &amp; ideo inter nos matrimonium consistere noi 
+      <lb ed="#C" n="82"/>potest ut inf. eo. veniens. &amp; 30. q. 1.c. 1. Obliqua autem, vel indi 
+      <lb ed="#C" n="83"/>recta, seu emergens est, quando unus conjugum, postqui 
+      <lb ed="#C" n="84"/>sunt una caro effecti, filium aliorum conjugum suscepit 
+      <lb ed="#C" n="85"/>nam in hoc casu ambo parentes suscepti compatres eff 
+      <lb ed="#C" n="86"/>ciuntur, etiam alteri conjugum, qui non fuscepit. &amp; hoc pe 
+      <lb ed="#C" n="87"/>obliquum, mediante scil illo conjuge, qui suscepit. qui u 
+      <lb ed="#C" n="88"/>na caro factus est illi conjugi, qui non suscepit, quonian 
+      <lb ed="#C" n="89"/>communicant sibi conjuges actiones, ut 30. 4. 4. cap. 1. &amp;c. 
+      <lb ed="#C" n="90"/>quis unus verbi gratia: Martinus duxit in uxorem Berta 
+      <lb ed="#C" n="91"/>&amp; Lotharius Thebergam, &amp; eam cognovit, postmodun 
+      <lb ed="#C" n="92"/>vero Lotharius levavit de sacro fonte filium Martini, &amp; 
+      <lb ed="#C" n="93"/>Bertae, &amp; in casu isto Lothario &amp; Berta mortuis, Marti 
+      <lb ed="#C" n="94"/>nus, &amp; Theberga non poterunt contrahere simul: qui¬ 
+      <lb ed="#C" n="95"/>quondam vivente Lothario, cum quo Theberga una car¬ 
+      <lb ed="#C" n="96"/>racta erat, fuit contracta indirecta compaternitas inte 
+      <lb ed="#C" n="97"/>hanc Thebergam, &amp; Martinum, ejus filium Lotharius te 
+      <lb ed="#C" n="98"/>nuit, ipso Lothario mediante, ut infra eod Marunus. Ber. se 
+      <lb ed="#C" n="99"/>cus si Loth. tenuisset filium Martini, antequam una carc 
+      <lb ed="#C" n="100"/>factus fuisset cum Theberga ut not. infra eod. §. &amp; aliqui 
+      <lb ed="#C" n="101"/>&amp; sic directa indistin. impedit matrimonium contrahen 
+      <lb ed="#C" n="102"/>dum, &amp; dirimit jam contractum, &amp; idem facit obliqua, sci 
+      <lb ed="#C" n="103"/>licet post carnis copulam: mediante altero conjugun 
+      <lb ed="#C" n="104"/>acquisita, unde versus 
+      <lb ed="#C" n="105"/>
+               <quote xml:id="nbht7y-d1e1563-Qd1e572">Respuo quae nostrum, cujusve levat mea natum 
+      <lb ed="#C" n="106"/>Ut mea dicatur, quae mihi carne sociatur</quote>
+               <lb ed="#C" n="107"/>Effectus autem secundae speciei, scilicet paternitatis spiri 
+      <lb ed="#C" n="108"/>tualis impedit contrahendum, &amp; dirimit jam contractum 
+      <lb ed="#C" n="109"/>&amp; sic patrinus nunquam potest ducere filiolam in uxore 
+      <lb ed="#C" n="110"/>nec filiolus matrinam, ut 30. q1. de eo quod interrogasti, &amp;3 
+      <lb ed="#C" n="111"/>q. 2. si quis cum matre. &amp; 30 q. 3. ita diligere. Effectus vero ter 
+      <lb ed="#C" n="112"/>tiae similiter impedit, &amp; dirimit, scilicet fraternitas, siv 
+      <lb ed="#C" n="113"/>proximitas spiritualis. ut 30. qu. 3. ita diligere. sed super ho¬ 
+      <lb ed="#C" n="114"/>articulo variae opiniones, &amp; varia jura emanaverunt. ali¬ 
+      <lb ed="#C" n="115"/>enim dicebat filios duorum compatrum posse simul jun 
+      <lb ed="#C" n="116"/>gi, sive ante compaternitatem nati forent, sive post. ut 3 
+      <lb ed="#C" n="117"/>q. 3. super quibus alia dicebat, hoc verum esse de natis an 
+      <lb ed="#C" n="118"/>te compaternitatem: sed de natis post, hoc prohibeant, u 
+      <lb ed="#C" n="119"/>30. qu. 3 susceptum. Sed posterius secundum canonican 
+      <lb ed="#C" n="120"/>primus tamen in ordine hodie primus corrigit, quia siv 
+      <lb ed="#C" n="121"/>ante compaternitatem nascantur, sive post, simul possun 
+      <lb ed="#C" n="122"/>conjungi, excepta illa persona, qua mediante ventum es 
+      <lb ed="#C" n="123"/>ad compaternitatem, infra eod. capit.1. &amp; sic cap super quibus 
+      <lb ed="#C" n="124"/>quod debet esse Paschalis primi, licet quidam libri habe 
+      <lb ed="#C" n="125"/>ant Paschalis secundi, in subscriptione, sive inscriptione 
+      <lb ed="#C" n="126"/>cori igit cap. post susceptum. quod fecit Urbanus Secundus 
+      <lb ed="#C" n="127"/>ut patet 30. quaestion 3. super quibus. &amp; cap. Pitatium. &amp; capi 
+      <lb ed="#C" n="128"/>non oportet. &amp; infra eodem, super eodem, &amp; capit. tua nos. Ve 
+      <lb ed="#C" n="129"/>dic. quod prior corrigit posteriorem, quia majori nititu 
+      <lb ed="#C" n="130"/>ratione. sic 50. distinct. memor. post cap. domino sancto. in fine 
+      <lb ed="#C" n="131"/>unde posterior, id est, primus postpositus corrigit poste 
+      <lb ed="#C" n="132"/>riorem, id est, ultimum, qui primo praeferebatur, &amp; sic pri 
+      <lb ed="#C" n="133"/>orerat in usu. sic intelligi potest, &amp; exponi infra eodem, c.1 
+      <lb ed="#C" n="134"/>&amp; sicc superquibus. potest esse Paschalis. 2. unde &amp; com 
+      <lb ed="#C" n="135"/>pater licite potest accipere in uxorem filiam compatris 
+      <lb ed="#C" n="136"/>vel commatris suae, dummodo non sit filiola sua, licet ho 
+      <lb ed="#C" n="137"/>nestum esset, quod a tali conjugio abstineret, ut 30. quaest, 
+      <lb ed="#C" n="138"/>illad. Et ideo not. ? quod cognatio spiritualis, sicut &amp; co¬ 
+      <lb ed="#C" n="139"/>gnatio legalis, &amp; publicae honestatis justitia, non egredium 
+      <lb ed="#C" n="140"/>tur personas illas, cum quibus contrahuntur, vel contrah 
+      <lb ed="#C" n="141"/>intelliguntur. quare, &amp; filiam filiolae meae potero ducer 
+      <lb ed="#C" n="142"/>in uxorem, cum nusquam inveniatur prohibitum. &amp; ho¬ 
+      <lb ed="#C" n="143"/>edictum prohibitorium sit. ff. de sponsal. cum apud secund. Da 
+      <lb ed="#C" n="144"/>ma. T. sed contra ff deritu nup per adoptionem in fine. &amp; Instis 
+      <lb ed="#C" n="145"/>de nupt §. amittam. tamen concordat, ff. de ritu nupt si qua 
+      <lb ed="#C" n="146"/>§. adoptive. Solut. inter omnes illos, qui in potestate sunt 
+      <lb ed="#C" n="147"/>prohibentur nuptiae celebrari, usque ad gradum per l. prohi 
+      <lb ed="#C" n="148"/>bitum. is enim qui adoptatur, agnascitur his, qui in potesta- 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="149"/>ADDITIO 
+      <lb ed="#C" n="150"/>Qua re in catechismo] Adde cap. per anechism. &amp; ibi Deb. eei 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>tit. lib. .--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0610.xml-->
+          <pb ed="#C" n="593"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>te sunt. ff. de adopt. qui in adoptione. si ergo pater meus adc 
+          <lb ed="#C" n="2"/>ptet filiam aliquam, haec soror mea est, sed filia sua non es 
+          <lb ed="#C" n="3"/>neptis mea, quia remanet in potestate patris proprii. &amp; si 
+          <lb ed="#C" n="4"/>loquitur §. adoptive &amp; Instit. eo. §. ejus. sed si aliquis adopta 
+          <lb ed="#C" n="5"/>aliq uam neptem nuptam carnalem in neptem adoptivam 
+          <lb ed="#C" n="6"/>transit in potestatem suam, unde si postea adoptat aliqu 
+          <lb ed="#C" n="7"/>extraneum in filium, qui potest dici avunculus, sive pa 
+          <lb ed="#C" n="8"/>truus neptis adoptivae, inter tales non potest matrimoni 
+          <lb ed="#C" n="9"/>um stare, idem potest poni in amita, &amp; matertera, &amp; nepe 
+          <lb ed="#C" n="10"/>te, converso modo posito casu. &amp; sic loquitur lex, per adc 
+          <lb ed="#C" n="11"/>ptionem. §. amitam. Sed quae est ratio, quod non possun 
+          <lb ed="#C" n="12"/>habere amitam, vel materteram adoptivam, sicut &amp; spiri 
+          <lb ed="#C" n="13"/>tualem cum spiritualia fortiora sint, quam carnalia. ut su 
+          <lb ed="#C" n="14"/>pra de translat. episc. inter corporalia quia si ita est in adoptio 
+          <lb ed="#C" n="15"/>ne, fortius, vel saltem pari ratione debet esse in filiation 
+          <lb ed="#C" n="16"/>spirituali, ut 30 q. 3. ita diligere. unde in casu isto dicit In 
+          <lb ed="#C" n="17"/>perator, quod nihil est, quod magis possit inducere patei 
+          <lb ed="#C" n="18"/>nam affectionem, &amp; justam nuptiarum prohibitionem 
+          <lb ed="#C" n="19"/>quam hujus nexus, per quem, Deo mediante animae pa 
+          <lb ed="#C" n="20"/>trini &amp; filiolae copulatae sunt, ut C. denupt. si quis alumnam 
+          <lb ed="#C" n="21"/>in sine. Respondeo, pater acquirit filio temporalia, &amp; ecor 
+          <lb ed="#C" n="22"/>tra ff de libe &amp; posthum. in suis. &amp; Instit. per quas person. acquis 
+          <lb ed="#C" n="23"/>circa princip. quamvis is, cui acquiritur, non laboret, &amp; ta 
+          <lb ed="#C" n="24"/>men laborare posset, secus in spiritualibus. nam &amp; ipsun 
+          <lb ed="#C" n="25"/>regnum Dei proprio labore acquiri oportet. unde etian 
+          <lb ed="#C" n="26"/>filius non baptizatus negligens, &amp; contemnens nunqu 
+          <lb ed="#C" n="27"/>salvabitur perbaptismum patris. opera enim illorum se 
+          <lb ed="#C" n="28"/>quuntur illos, ergo qui non laborant, non manducabun 
+          <lb ed="#C" n="29"/>sed qui egestatem habet, de se conqueritur, deconse. distinc 
+          <lb ed="#C" n="30"/>4. cum parvulis. &amp; sic patet, quare per unionem carnis a¬ 
+          <lb ed="#C" n="31"/>unionem spiritus praecedentem, id est, ad cognationem 
+          <lb ed="#C" n="32"/>spiritualem, hoc est, ad compaternitatem, vel materni¬ 
+          <lb ed="#C" n="33"/>tatem non pertransitur. quamvis pertranseatur ad unio 
+          <lb ed="#C" n="34"/>nem carnalis cognationis, ut 30. quaestion. 3. post uxoris. si¬ 
+          <lb ed="#C" n="35"/>ut ergo per proprium baptisinum, non per extraneum 
+          <lb ed="#C" n="36"/>quilibet salvatur, sic per propriam susceptionem, non ei 
+          <lb ed="#C" n="37"/>traneam, acquiritur cognatio spiritualis. Itein sive ant 
+          <lb ed="#C" n="38"/>compaternitatem, sive post nascantur filii, conjungi pos 
+          <lb ed="#C" n="39"/>sunt, nisi de illa persona agatur, per quam ventum est a¬ 
+          <lb ed="#C" n="40"/>compaternitatem, ut patet ex praemissis. &amp; sic hodie te 
+          <lb ed="#C" n="41"/>nendum est, quicquid quondam inter se jura discrepar 
+          <lb ed="#C" n="42"/>viderentur. secundum Da. T. &amp; licet consuetudo contra 
+          <lb ed="#C" n="43"/>ria posset impedire matrimonium contrahendum; no 
+          <lb ed="#C" n="44"/>tamen dirimet jam contractum. supra de sponsal. duorun 
+          <lb ed="#C" n="45"/>licet &amp; capit. per tuas. secundum Goffred. Alii dicun 
+          <lb ed="#C" n="46"/>quod etiam hodie servanda est consuetudo. quae scanda 
+          <lb ed="#C" n="47"/>lum induceret, nisi servaretur. unde si in aliqua terra ma 
+          <lb ed="#C" n="48"/>trimonium contractum inter filios duorum compatrun 
+          <lb ed="#C" n="49"/>post compaternitatem genitos, induceret errorem, in po 
+          <lb ed="#C" n="50"/>pulo Dei, maximum scandalum generaret. sic contracti 
+          <lb ed="#C" n="51"/>remaneret, separandum est: ut infra cap. 1. in fine, &amp; capi¬ 
+          <lb ed="#C" n="52"/>super eodem, versicul caeterum. &amp; versicul. itaque nec obsta 
+          <lb ed="#C" n="53"/>quod posset opponi, quod matrimonium fuit institutun 
+          <lb ed="#C" n="54"/>in Paradiso, &amp; a Domino. ut not. supra de matrimoniis. §. u 
+          <lb ed="#C" n="55"/>bi legitur, 26. distinctio. deinde opponitur, Quos Deus con 
+          <lb ed="#C" n="56"/>juuxit, homo non separet. ut 33. q. 2. quos Deus. quia ex qu 
+          <lb ed="#C" n="57"/>Papa hoc approbat. ut in dictis decret. ita debemus ten¬ 
+          <lb ed="#C" n="58"/>re. ut i9. distinction. in memoriam. &amp; 100. distinct. contra morem 
+          <lb ed="#C" n="59"/>&amp; i. distinct. quis nesciat. nam &amp; multa alia impediment. 
+          <lb ed="#C" n="60"/>per constitutionem ecclesiae sunt inducta, quibus inter 
+          <lb ed="#C" n="61"/>venientibus, separantur conjuncti a Deo per hominem 
+          <lb ed="#C" n="62"/>sed non debemus dicere, quod homo separet. ex quo ho 
+          <lb ed="#C" n="63"/>fit authoritate Papae. imo Deus hoc facit. quia Romanu 
+          <lb ed="#C" n="64"/>Pontifex non puri hominis, sed veri Dei vicem gerit in 
+          <lb ed="#C" n="65"/>terris. ut supra de translat. episc. inter corporalia &amp; cap. quan 
+          <lb ed="#C" n="66"/>to. &amp; ideo potest de jure supra jus dispensare: inducend 
+          <lb ed="#C" n="67"/>impendimentum de novo, ut in exemplo posito, &amp; sung 
+          <lb ed="#C" n="68"/>quod not. supra qui cler. vel voven. §. quis vopens rersicul e 
+          <lb ed="#C" n="69"/>haec locum habent. Adeo enim haec consuetudo spectand 
+          <lb ed="#C" n="70"/>est, quod licet hodie restricta sit inhibitio carnalis copul¬ 
+          <lb ed="#C" n="71"/>id quartum gradum, &amp; sic in quinto recte contrahatur, u 
+          <lb ed="#C" n="72"/>supra de clandestin. despons. cum inhibitio. &amp; infra de consangu 
+          <lb ed="#C" n="73"/>&amp; affin. non debet &amp; capit. sinal. si tamen in aliqua terra abo 
+          <lb ed="#C" n="74"/>minabile haberetur, quod in quinto gradu remaneren 
+          <lb ed="#C" n="75"/>conjuncti, secundum ipsos essent separandi: quia Pap 
+          <lb ed="#C" n="76"/>hoc adprobat. infra de consanguin. &amp; affinit. quod dilectio. nan 
+          <lb ed="#C" n="77"/>potest de jure, supra jus dispensare removendo antiquun 
+          <lb ed="#C" n="78"/>Impedimentum quare restrinxit in bibitionem carnali
+          <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>copulae, usquem ad quartum gradum, ut dixi. unde si con 
+          <lb ed="#C" n="80"/>suetudo approbaret, quod ego possem conjrahere cum 
+          <lb ed="#C" n="81"/>sorore mea spirituali, id est, cum filia patrini mei, vel cun 
+          <lb ed="#C" n="82"/>filiola patris mei, sub dissimulatione praeteriri debet, u 
+          <lb ed="#C" n="83"/>infra eod. super eod §. verum. &amp; sic ille, §. respicit principiun 
+          <lb ed="#C" n="84"/>decretalis. Sed alii dicunt, quod respicit versicu caeterum 
+          <lb ed="#C" n="85"/>&amp; vers. itaque respicit pri dec. Da. dixit. vers. itaque, &amp;c. scil 
+          <lb ed="#C" n="86"/>quod separantur. intelligi debet ad tempus, non perpe 
+          <lb ed="#C" n="87"/>tuo, ut sup. de sponsa. cum Apostolica. in fin. &amp; infr. de matri, con 
+          <lb ed="#C" n="88"/>tracto contra interdic. eccl. literae. Alii intelligunt, ut praemis 
+          <lb ed="#C" n="89"/>supra eod. vers. sed alii dicunt. videtur tamen intelliger 
+          <lb ed="#C" n="90"/>minus subtiliter, quia secundum hunc intellectum nimis 
+          <lb ed="#C" n="91"/>magnam violentiam facimus literae, nec unquam fuit in 
+          <lb ed="#C" n="92"/>tellectus condentis: quia versic. ita ponitur continuativ¬ 
+          <lb ed="#C" n="93"/>&amp; expositive, ut natura significationis docet. verum auti 
+          <lb ed="#C" n="94"/>adversative. nam haec dictio ita semper consuevit continu 
+          <lb ed="#C" n="95"/>are, &amp; haec dictio videtur adversari. quare patet, quod ill 
+          <lb ed="#C" n="96"/>duo vers. caeterum, &amp; itaque. de eod. Mart. loquuntur. ver 
+          <lb ed="#C" n="97"/>autem verum. de alio quare innuit, quod vult redire ad pri 
+          <lb ed="#C" n="98"/>mum casum. huic autem intellectui manifeste contradi 
+          <lb ed="#C" n="99"/>cit. supra de consue, cap. ultim. respons.i.&amp; cap quanto. de trans 
+          <lb ed="#C" n="100"/>act. capit. ultim. de sponsa duorum.c. fin. &amp; quod not. supra d 
+          <lb ed="#C" n="101"/>sponsal duorum, §. quae quib. versic. aut utraque de praesenti. sec 
+          <lb ed="#C" n="102"/>potest dici, quod ibi loquitur de consuetudine, quae scan 
+          <lb ed="#C" n="103"/>dalum non inducit. haec responsio non prodest, ut pate 
+          <lb ed="#C" n="104"/>supra de renunc. nisi cum pridem, § pro gravi quoque scandalo ( 
+          <lb ed="#C" n="105"/>de voto, &amp; vo. redem. magnae. §. cum ergo. &amp; seq. &amp; inf. deno. oper 
+          <lb ed="#C" n="106"/>nunciat. capit. 1. §. super eodem. &amp; de re. jur. qui scandalizat erit
+        </p>
+            <p xml:id="nbht7y-d1e1563-d1e910" n="6">
+               <lb ed="#C" n="107"/>Ideo dic, quod consuetudo approbata per Papam, po¬ 
+          <lb ed="#C" n="108"/>test inducere impedimentum, &amp; removere in his, in qui 
+          <lb ed="#C" n="109"/>bus Papa posset, sicut est in gradibus canonica institutio 
+          <lb ed="#C" n="110"/>ne prohibitis, &amp; aliis similibus. ut argument. infra de con 
+          <lb ed="#C" n="111"/>sanguinit. &amp; affin. quia circa. secus in prohibitis. I. divina. in 
+          <lb ed="#C" n="112"/>quibus loquuntur contraria. ad quod accedit, quod nota 
+          <lb ed="#C" n="113"/>supra de testi. §. utrum post publicationem. versicul. haec si sit ali¬ 
+          <lb ed="#C" n="114"/>causa. sed &amp; consuetudo, quae scandalum generaret, vide 
+          <lb ed="#C" n="115"/>tur posse approbari per Papam, quo ad praeterita, etiam 
+          <lb ed="#C" n="116"/>ubi ab initio ipse dispensare non posset argu. infra de spon 
+          <lb ed="#C" n="117"/>sa. duor, cap. fin. ibi, in matrimoniis de caetero contrahendis 
+          <lb ed="#C" n="118"/>q. d. secus in jam contractis, quae forte sine scandalo sepa 
+          <lb ed="#C" n="119"/>rari possent, ad hoc, supra de con. eccles. vel altar. aqua. &amp; su 
+          <lb ed="#C" n="120"/>pra de sponsa. duorum. licet. in fine. per quam videtur, quo 
+          <lb ed="#C" n="121"/>Papa ibi dispensare possit, alioquin ex sententiis Aposto 
+          <lb ed="#C" n="122"/>licorum animae deceptae fuissent. alii dicunt, quod &amp; prae 
+          <lb ed="#C" n="123"/>ferita si accusarentur, separentur. argument supra de prae 
+          <lb ed="#C" n="124"/>bend. cum jam dudum in fine. Item consuetudo, ex quo pe 
+          <lb ed="#C" n="125"/>Papam reprobatur, scilicet quia nullum scandalum in 
+          <lb ed="#C" n="126"/>ducit: non excusat. infra de consangum. &amp; affin. quod supe 
+          <lb ed="#C" n="127"/>nis § unico. vel potest intelligi in gradibus divina lege pro 
+          <lb ed="#C" n="128"/>hibitis, vel in dissensionibus quas not. supra eod. §. qualite 
+          <lb ed="#C" n="129"/>contrahatur. &amp; dixi in vers. sententia T. Alii vero sic intel¬ 
+          <lb ed="#C" n="130"/>ligunt, quod consuetudo, quae scandalum generat, perso 
+          <lb ed="#C" n="131"/>has ad contrahendum legitimas, illegitimas reddit, ut inir 
+          <lb ed="#C" n="132"/>eod, cap. super eod. de consanguin. &amp; affin. quod dilectio &amp; 32. qu 
+          <lb ed="#C" n="133"/>4. objiciuntur. hoc tamen non posset facere consuetudo 
+          <lb ed="#C" n="134"/>quantumcunque generaret scandalum, quod personae il 
+          <lb ed="#C" n="135"/>legitimae legitimae redderentur &amp; sic manifeste videtu 
+          <lb ed="#C" n="136"/>loqui infr de consang &amp; affi. quod super his ad fin. &amp;c. non debet 
+          <lb ed="#C" n="137"/>§. sm. sed hoc nihil aliud est dictum, nisi quod consuetud¬ 
+          <lb ed="#C" n="138"/>efficacior sit contra I. divinam, quam humanam. &amp; idec 
+          <lb ed="#C" n="139"/>non placet: quia contradicunt jura. supra de testi. licet e¬ 
+          <lb ed="#C" n="140"/>quadam. in fin. &amp; de restit. spol. literas. item quia in dictoc. ob 
+          <lb ed="#C" n="141"/>jiciuntur. mos reddit personas legitimas illegitimas ad con 
+          <lb ed="#C" n="142"/>trahendum contra id quod intendunt. ideoque tene u 
+          <lb ed="#C" n="143"/>not. supra vers. ideo dic, quod consuetudo. &amp; seq
+        </p>
+            <p xml:id="nbht7y-d1e1563-d1e993" n="7">
+               <lb ed="#C" n="144"/>Et an aliquis possit habere duas commatres. 
+          <lb ed="#C" n="145"/>Haec quaestio incipit tractari. 30 qu 
+          <lb ed="#C" n="146"/>4. qui spiritualem. &amp; in illo &amp; duob. seque &amp;c. ulti. probatur 
+          <lb ed="#C" n="147"/>quod licitum est duas commatres habere, vel duos com 
+          <lb ed="#C" n="148"/>patres, &amp; quod illicitum est: nam ad invicem sibi contra¬ 
+          <lb ed="#C" n="149"/>dicunt Rayn. solvit hoc modo, quia si uxor mea suscipi 
+          <lb ed="#C" n="150"/>filium Bertae de sacro fonte, &amp; postea uxorem mean 
+          <lb ed="#C" n="151"/>carnaliter cognosco, tunc Berta efficitur mihi commater 
+          <lb ed="#C" n="152"/>nec unquam eam ducere potero, ut 30. q. 4.c.1 &amp; ult. si auti 
+          <lb ed="#C" n="153"/>postea uxorem meam non cognovero, &amp; non efficitur Ber 
+          <lb ed="#C" n="154"/>ta mihi commater, &amp; ideo mea mortua, ipsam Bertam in 
+          <lb ed="#C" n="155"/>uxorem habere non prohibeor, ut eod c. post uxores, &amp; ho 
+          <lb ed="#C" n="156"/>dist. Gra. eod. §. notandum. &amp; ideo Jo. &amp; T. asserunt ipsum 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0611.xml-->
+      <pb ed="#C" n="594"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>Gra. in hoc casu errasse, unde dicunt quod super hac qua 
+      <lb ed="#C" n="2"/>stione ita tenendum est, refert enim utrum compatern 
+      <lb ed="#C" n="3"/>d tas, d vel commaternitas praecedat matrimonium, vel 
+      se<lb ed="#C" n="4" break="no"/>quatur. si praecedit, licite potest quis habere duas commi 
+      <lb ed="#C" n="5"/>tres verbi gratia: Maria &amp; Berta factae sunt, postea Mart 
+      <lb ed="#C" n="6"/>nus contraxit cum Maria &amp; cognovit eam. Maria ista mo¬ 
+      <lb ed="#C" n="7"/>tua, poterit contrahere cum Berta. &amp; haec ex causa, qui 
+      <lb ed="#C" n="8"/>per unionem carnis sequentem non transitur ad union 
+      <lb ed="#C" n="9"/>spiritus praecedentem, ut 30. q. 3. post uxoris obitum. Sin at 
+      <lb ed="#C" n="10"/>tem sequatur compaternitas; sive commaternitas, &amp; ma 
+      <lb ed="#C" n="11"/>trimonium praecedat, subdistinguitur, quia uxor tua su 
+      <lb ed="#C" n="12"/>scipit filium alterius mulieris, illa, cujus filius suscipitur 
+      <lb ed="#C" n="13"/>efficitur tibi commater, uxore tua media, quam cognov 
+      <lb ed="#C" n="14"/>ras, &amp; ideo mortua uxore tua, non poteris eam habere in 
+      <lb ed="#C" n="15"/>uxorem, ut dixi in converso casu sup. prox. vers. ob aliquan 
+      <lb ed="#C" n="16"/>Quod si alia mulier filium uxoris tuae, quem de alio vir¬ 
+      <lb ed="#C" n="17"/>susceperat, tenuerit in baptismo. etiam postquam cum uxc 
+      <lb ed="#C" n="18"/>e re tua factus fueras una caro, e illa mulier est, vel commi 
+      <lb ed="#C" n="19"/>ter uxoris tuae, &amp; non tua, non enim fuit ibi commatern 
+      <lb ed="#C" n="20"/>tas acquisita, quoniam uxor tua nihil agit acquirendo con 
+      <lb ed="#C" n="21"/>maternitatem illam, sed potius passa est: &amp; ideo mortu 
+      <lb ed="#C" n="22"/>uxore tua, talem commatrem uxoris tuaepoteris uxoren 
+      <lb ed="#C" n="23"/>habere. Idem est, si filius tuus ab aliquo suscipiatur, quen 
+      <lb ed="#C" n="24"/>genuisti ex alia muliere, quia non est acquisita compate 
+      <lb ed="#C" n="25"/>nitas tuae uxoris. &amp; ideo te mortuo poterit habere talen 
+      <lb ed="#C" n="26"/>compatrem tuum in maritum, unde in his casibus potes 
+      <lb ed="#C" n="27"/>aliquis habere duas commatres &amp; aliqua duos comps 
+      <lb ed="#C" n="28"/>tres, ut 30. g. 4. qui spiritualem. &amp;c. seq. Et idem videtur sen 
+      <lb ed="#C" n="29"/>tire Gra. eod. §. fin. quia in casu isto non communicatu 
+      <lb ed="#C" n="30"/>passio spiritualis, ficut in praecedenti superiori actio sp 
+      <lb ed="#C" n="31"/>ritualis. unde versus 
+      <lb ed="#C" n="32"/>
+               <quote xml:id="nbht7y-d1e1563-Qd1e1099">Quae mihi, vel cujus mea natum fonte levavii 
+      <lb ed="#C" n="33"/>Haec mea commater, fieri mea non valet uxor 
+      <lb ed="#C" n="34"/>Si qua meae natum non ex me fonte levavit 
+      <lb ed="#C" n="35"/>Hanc post fatameae, non inde vetabor habere 
+      <lb ed="#C" n="36"/>Ambos compatres facit actio, passio nunquam</quote>
+               <lb ed="#C" n="37"/>Item quae est ratio. Respondeo, vir &amp; uxor per actionen 
+      <lb ed="#C" n="38"/>carnalem sive corporalem, efficiuntur unum corpus, no¬ 
+      <lb ed="#C" n="39"/>unus spiritus. Cum ergo actio corporalis sit, passio ver 
+      <lb ed="#C" n="40"/>mentalis, non est mirum, si actio actionem trahit, &amp; no 
+      <lb ed="#C" n="41"/>passionem, secundum Hen. Senen. in actione enim cor 
+      <lb ed="#C" n="42"/>pus acquirit quod est idem cum alio conjuge. In passion 
+      <lb ed="#C" n="43"/>anima patitur, quae non dicitur eadem cum anima conjt 
+      <lb ed="#C" n="44"/>gis. Item in actionibus acquirit uxor compaternitaten 
+      <lb ed="#C" n="45"/>per tactum proprii corporis, quod est idem cum marite 
+      <lb ed="#C" n="46"/>in passionibus autem acquirit uxor per tactum nati su 
+      <lb ed="#C" n="47"/>quem ab alio suscepit, sive per tactum patrini sui, &amp; qu 
+      <lb ed="#C" n="48"/>cum marito nullam habet communicationem. non est ei 
+      <lb ed="#C" n="49"/>go mirum, si conjuges, actiones tanquam proprias sibi con 
+      <lb ed="#C" n="50"/>municant, &amp; non passiones tanquam extraneas. Quid ei 
+      <lb ed="#C" n="51"/>go, si alter conjugum proprium filium suscipiat de sacr¬ 
+      <lb ed="#C" n="52"/>fonte, ( vel filium mariti illegitimum, quem de alia mulier 
+      <lb ed="#C" n="53"/>suscepit uxor, an inter se &amp; maritum suum divortium ce 
+      <lb ed="#C" n="54"/>lebretur? Certe, quicquid dicant cano. antiqui, hodie no 
+      <lb ed="#C" n="55"/>separabitur propter matrimonium, quia si ignoranter fiai 
+      <lb ed="#C" n="56"/>ignorantia debet esse excusata: si in fraudem, fraus &amp; do 
+      <lb ed="#C" n="57"/>lus non debent patrocinari, ut infra eod. si vir vel mulier. sec 
+      <lb ed="#C" n="58"/>tamen ei qui in fraudem hoc facit, quamvis propositum 
+      <lb ed="#C" n="59"/>suum sit sine effectu, est poenitentia injungenda, ut inf. eoc 
+      <lb ed="#C" n="60"/>contracto. in fine. sed tali interdicitur matrimonium pos 
+      <lb ed="#C" n="61"/>mortem legitimae uxoris. ut not. supra de matrim. § qualiii 
+      <lb ed="#C" n="62"/>impediatur. vers. susceptus. sed necessitate instante exculat 
+      <lb ed="#C" n="63"/>est arg. infra de homic. cap. 2. &amp; adde quod not. supra dae bapi 
+      <lb ed="#C" n="64"/>quis possit. vers. sed nunquid patet.* Quid si aliquis laicus 
+      ba<lb ed="#C" n="65" break="no"/>ptizavit puellam tempore necessitatis, nunquid eam po 
+      <lb ed="#C" n="66"/>testhabere in uxorem? Item quid si quis in minoribus ol 
+      <lb ed="#C" n="67"/>dinibus constitutus, contrahat cum illa, quam proprii 
+      <lb ed="#C" n="68"/>manibus baptizavit, nunquid dirimetur matrimonium 
+      <lb ed="#C" n="69"/>Videtur, quod sic: quia filia sua spiritualis est. 31.4.1. omne 
+      <lb ed="#C" n="70"/>&amp;c. de eo quod interrogasti per quae dixit Rayn. persequen¬ 
+      <lb ed="#C" n="71"/>cap. quod impeditur matrimonium contrahendum. sed 
+      <lb ed="#C" n="72"/>quaeras, utrum contractum dirimatur, consulas principem 
+      <lb ed="#C" n="73"/>cum non vus casus sit sup de translat. episc. cap. I. Dico, quod s 
+      <lb ed="#C" n="74"/>ipsum consulas, merito tibi objurgando poterit respon 
+      <lb ed="#C" n="75"/>aere, aut non intelligo quicquid quaeris: aut fatua est con 
+      <lb ed="#C" n="76"/>sultatio tua, nam si luscipiens separaretur, de quo null 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0611.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="77"/>dubium est, multo fortius baptizans, qui principalis est 
+      <lb ed="#C" n="78"/>&amp; cujus manibus baptizatur. argum. ff. de test. Domitius. 8 
+      <lb ed="#C" n="79"/>hoc satis probat dictum cap. omnes. unde puto, quod hîc er 
+      <lb ed="#C" n="80"/>ravit T. sicut sequenti quaestione, cujus solutio compro 
+      <lb ed="#C" n="81"/>bat istudidem. * Quid si filius sacerdotis, qui baptizavi 
+      <lb ed="#C" n="82"/>puellam, &amp; contrahat cum puella, nunquid valet. &amp; dixi 
+      <lb ed="#C" n="83"/>quod sic. quia hoc edictum prohibitorium est, &amp; forte of 
+      <lb ed="#C" n="84"/>ncialis Cantuarien. erravit in sententia sua, occasione isti 
+      <lb ed="#C" n="85"/>us opinionis, quam potuit invenire scriptam in summi 
+      <lb ed="#C" n="86"/>I. de mat. &amp; spon. sub rubrica, de cognatione spirituali. &amp; diver 
+      <lb ed="#C" n="87"/>sis speciebus ejusdem. &amp; sic patet, quod antiqui non sem 
+      <lb ed="#C" n="88"/>per asserunt veritatem, unde in hac quaestione &amp; prox su 
+      <lb ed="#C" n="89"/>periori credo T. male dixisse, ut inf. cod.c.ult. Greg. Quid s 
+      <lb ed="#C" n="90"/>filius sacerdotis contrahat cum muliere, quam pater suu 
+      <lb ed="#C" n="91"/>recipit ad poenitentiam? Videtur quod matrimonium 
+      <lb ed="#C" n="92"/>debeat tolerari. nam presbyter qui cum tali commiscetur 
+      <lb ed="#C" n="93"/>punitur, si publicum fuerit, ac si propriam filiolam cogno 
+      <lb ed="#C" n="94"/>visset, quia si episcopus est 15. annor poeniteat. si sacerdo 
+      <lb ed="#C" n="95"/>simplex, 12. ann. poeniteat. sed tamen non deponitur. ut 30 
+      <lb ed="#C" n="96"/>quaest. 1. omnes. &amp; cap. non oportet. veruntamen quamvis ill 
+      <lb ed="#C" n="97"/>canones ita dicant, non contrahitur tanta affinitas inte 
+      <lb ed="#C" n="98"/>filios, sicut per baptismum, quare dico tenere conjugium 
+      <lb ed="#C" n="99"/>quia nusquam invenitur prohibitum, nec ratio subest 
+      <lb ed="#C" n="100"/>quare prohibeatur argum. supra de sponsal, cum apud 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="101"/>ADDITIONES 
+      <lb ed="#C" n="102"/>d Vtrum compaternitas] Adde tex. &amp; Doct. incapit. Idecogna 
+    </p>
+    <p>
+      <lb ed="#C" n="103"/>spiritua 
+      <lb ed="#C" n="104"/>e Vna caro] Adde tex, in c. sunt quidicunt. 27. 9. 2. tex. in c. quomo 
+    </p>
+    <p>
+      <lb ed="#C" n="105"/>do. virginib. 31 9. l. originasuer. Gen. 2 
+      <lb ed="#C" n="106"/>Proprium filium suscipiat de sacro fonte] Adde tex. inc. adi 
+      <lb ed="#C" n="107"/>mina. 30. 9. 1. &amp; per Abb. in c. si vir. in I. no. de cog. spir-->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

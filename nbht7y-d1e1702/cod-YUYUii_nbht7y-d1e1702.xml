@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 2</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 2</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="658"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1702"><!-- nbht7y-l5t2 -->
+            <head xml:id="nbht7y-d1e1702-Hd1e101">Titulus 2</head>
+            <head xml:id="nbht7y-d1e1702-Hd1e103" type="question-title">De calumniatoribus</head>
+            <p xml:id="nbht7y-d1e1702-d1e106">
+               <lb ed="#C" n="90"/>De Calumniatoribus II. Ru¬ 
+      <lb ed="#C" n="91"/>brica 
+    </p>
+            <p xml:id="nbht7y-d1e1702-d1e113">
+               <lb ed="#C" n="92"/>SUMMARIA, 
+      <lb ed="#C" n="93"/>I. Calumniator quis dicatur. Etqualiter paena afficiatur. n 
+      <lb ed="#C" n="94"/>2. Tergiversator quis dicatur. Quis praevaricator. 3. Tergiver 
+      <lb ed="#C" n="95"/>sator qualiter puniaturo 
+      <lb ed="#C" n="96"/>4. Desistere ab accu satione qualiter quis possit sine metu calum 
+      <lb ed="#C" n="97"/>5. Abolitio generalis quae dicatur. Quae spiritualis 6. Etquid 
+      <lb ed="#C" n="98"/>accu sator peuitabolitionem 
+      <lb ed="#C" n="99"/>8. Puniri quando quis debet de calumnia 
+      <lb ed="#C" n="100"/>10 Accusare quis dicatur 
+    </p>
+            <p xml:id="nbht7y-d1e1702-d1e135">
+               <lb ed="#C" n="101"/>QVia calumniantes depostit sim 
+      <lb ed="#C" n="102"/>litudo suplici 
+      <lb ed="#C" n="103"/>Fad vindictam: ut C. de acc. Iul &amp; plerique calum 
+      <lb ed="#C" n="104"/>niose accusant, vt de poena istorum scias qui 
+      <lb ed="#C" n="105"/>g numerus sit, post nt. de accu sationib. apponi 
+      <lb ed="#C" n="106"/>rubricam, de calumniatorib. in qua videndum est. Quis dica 
+      <lb ed="#C" n="107"/>tur calumniator, a Quis tergiversator, Quis praevarica¬ 
+      <lb ed="#C" n="108"/>tor. his .n.tribus modis accusatorum temeritas detegitur: u 
+      <lb ed="#C" n="109"/>ff. ad Turp. senatusc. l. 1. in princ. subsequenter est videndum 
+      <lb ed="#C" n="110"/>Qualiter sine metu calumniae, possit quis desistere ab ac 
+      <lb ed="#C" n="111"/>cusatione, Quando debet quis puniri de calumnsa, Qual 
+      <lb ed="#C" n="112"/>poena calumniator afficiatur 
+    </p>
+            <p xml:id="nbht7y-d1e1702-d1e165" n="1">
+               <lb ed="#C" n="113"/>Quis dicatur calumniator. Qui falsa crimina 
+      in<lb ed="#C" n="114" break="no"/>tendit, 2 qu 3. § notandum, &amp; talis leg 
+      <lb ed="#C" n="115"/>Rennia Punitur: ut f. ad Turp. l. 1. §Scalumniari, &amp; Scalumnis 
+      <lb ed="#C" n="116"/>torib. intelligas quando scienter hoc facit, secundum Go¬ 
+      <lb ed="#C" n="117"/>infra eo c2. dicut infra eo. S quando.
+    </p>
+            <p xml:id="nbht7y-d1e1702-d1e178" n="2">
+               <lb ed="#C" n="118"/>Quis tergiversator Is qui tergi verit 
+      ac<lb ed="#C" n="119" break="no"/>cusato: &amp; citra abolitio 
+      <lb ed="#C" n="120"/>nem in vniversum desistit ab accusatione: &amp; tunc punitu 
+      <lb ed="#C" n="121"/>per Turpill ff. ad Turpill. leg. 1. § tergiversari, &amp; C. ad Turpil
+    </p>
+            <p xml:id="nbht7y-d1e1702-d1e189" n="3">
+               <lb ed="#C" n="122"/>Quis praevaricator. Is qui vera crimina 
+      <lb ed="#C" n="123"/>abscondit, prodita cau¬ 
+      <lb ed="#C" n="124"/>sa sua: nam praevaricator dicitur quasi varificator, qui ad 
+      <lb ed="#C" n="125"/>versam partem adjuvat, prodita causa sua, quod nomer 
+      <lb ed="#C" n="126"/>Labeo ab avaritia, &amp; certatione tractatum ait, nam qu 
+      <lb ed="#C" n="127"/>praevaricatur, ex vtraque parte consistit: quinimo ex adver 
+      <lb ed="#C" n="128"/>sa, utff. de his qui not. infa aihletas, §pen. &amp; fi. de praera leg. 1. 8 
+      <lb ed="#C" n="129"/>tales extraordinarie puniuntur, ut ff. de praerar. lg 2 &amp; les 
+      <lb ed="#C" n="130"/>accusator, &amp; leg. ab Imperatore: advocatus autem non pro 
+      <lb ed="#C" n="131"/>prie praevaricator dicitur, &amp; ideo sive in publico judicio 
+      <lb ed="#C" n="132"/>sive in privato praevaricatus fuerit extraordinarie pun 
+      <lb ed="#C" n="133"/>tur: utff. de praeva. I praevaricationis, omnes leges istae canon 
+      <lb ed="#C" n="134"/>zatae inveniuntur, 2. quaestio. 3. § notandum, &amp; §. praevarica
+    </p>
+            <p xml:id="nbht7y-d1e1702-d1e220" n="4">
+               <lb ed="#C" n="135"/>Qualiter sine metu calumniae quis posait des¬ 
+      <lb ed="#C" n="136"/>stere ab accusatione. Et quidem pe 
+      <lb ed="#C" n="137"/>abolitionem, est enim abolitio accusationis peremptis 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="138"/>ADDITIONES. 
+      <lb ed="#C" n="139"/>a Quis dicatur calumniator. JAdde in j. notandum. 1. 9. 3. ch. L4 
+    </p>
+    <p>
+      <lb ed="#C" n="140"/>re ind tex. in l.I. in prin ff ad Turj 
+      <lb ed="#C" n="141"/>b Quis tergiversator.] Adde Phil. in rub. eo. tii 
+      <lb ed="#C" n="142"/>c Quis praevaricator. JAddec. praevaricator 2. 9. 1. C 1. de pon. gli 
+    </p>
+    <p>
+      <lb ed="#C" n="143"/>c. I. de resti. in integ lib. 6 l.i. &amp; 2. ff. de praevaris--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0676.xml-->
+      <pb ed="#C" n="659"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>abolitionum autem alia generalis, alia specialis.
+    </p>
+            <p xml:id="nbht7y-d1e1702-d1e240" n="5">
+      Gene¬ 
+      <lb ed="#C" n="2"/>ralis abositio est illa: qua omnes accusationes perimuntu 
+      <lb ed="#C" n="3"/>&amp; haec a solo principe indulgetur abolentia aliqua, vel ol 
+      <lb ed="#C" n="4"/>honorem domus divinae, vel ex aliqua alia causa, ex qua si a 
+      <lb ed="#C" n="5"/>cusator intra pr raestitutos 30. dies non repetierit reum, n 
+      <lb ed="#C" n="6"/>incidit in Turp. nec enim videtur desistere, qui exempti 
+      <lb ed="#C" n="7"/>reum non defert: eximitur autem reus, abolitione publ 
+      <lb ed="#C" n="8"/>ca intervenientem: ut ff. eod. si interveniente. Sed &amp; aliquand 
+      <lb ed="#C" n="9"/>Princeps remittit paenam, non tamen remittit corporal 
+      <lb ed="#C" n="10"/>infamiam, &amp; ideo damnatum notat id est notandum relir 
+      <lb ed="#C" n="11"/>quit, ut C de generali abolitio. I. ulb. I. qu 3. § praevaricator. ad fi
+    </p>
+            <p xml:id="nbht7y-d1e1702-d1e264" n="6">
+               <lb ed="#C" n="12"/>Specialis autem abolitio est illa: qua una tantum accus¬ 
+      <lb ed="#C" n="13"/>tio extinguitur: &amp; trib. mod. Primo per principem spont 
+      <lb ed="#C" n="14"/>sua hoc facientem propter diem insignem, aut publican 
+      <lb ed="#C" n="15"/>gratulationem, aut ob rem prospere gestam. Secundo pe 
+      <lb ed="#C" n="16"/>accusatorem hoc postulantem. Tertio, per mortem accu 
+      <lb ed="#C" n="17"/>santis, vel accusati: vel biennium transactum sine culp 
+      <lb ed="#C" n="18"/>accusatoris. vt f. de abol. abolitio. &amp;.I vel ob ren. &amp; l aut privati 
+      <lb ed="#C" n="19"/>&amp; C. sireus vel accusator mor. sue. l.2. &amp; leg defunctus &amp; l. siu 
+      <lb ed="#C" n="20"/>proponis. Illa autem, quae a principe, nullo postulante indulgi 
+      <lb ed="#C" n="21"/>tur, inducit ferias repentinas. Sed illa quae fit accusatore po 
+      <lb ed="#C" n="22"/>stulante a quolibet ordinario, qui de crimine cognoscii 
+      <lb ed="#C" n="23"/>tribui potest a delegato: sed &amp; ordinarius pro tribunalis 
+      <lb ed="#C" n="24"/>dens cognoscit, &amp; non de plano, sed nec delegare hoc pon 
+      <lb ed="#C" n="25"/>ut ff. eo. &amp; l. I §abolitio. 2 qui. 3. praevaricator, ver abolitio privatin 
+      <lb ed="#C" n="26"/>Hoc igitur indulgetur causa cognita, utraque parte praeser 
+      <lb ed="#C" n="27"/>te, versatur autem in causae cognitione, an per calumni 
+      <lb ed="#C" n="28"/>accusationem proposuerit: &amp; tunc abolitio denegatur: a 
+      <lb ed="#C" n="29"/>per errorem, &amp; tunc si reus carceris verberum sustinuer 
+      <lb ed="#C" n="30"/>injuriam, non nisi ejusdem consensu conceditur, sed sin¬ 
+      <lb ed="#C" n="31"/>sustinuit, etiam eo contradicente, indulgetur intra 30. d 
+      <lb ed="#C" n="32"/>es, nisi corpora liberorum hominum fuerint lacessita tor 
+      <lb ed="#C" n="33"/>mentis: tunc enim etiam utroque volente conceditur, po 
+      <lb ed="#C" n="34"/>30. autem dies non datur. Item sunt casus in quib. nullo no 
+      <lb ed="#C" n="35"/>do &amp; nullo tempore conceditur abolitio, in quibus tan 
+      <lb ed="#C" n="36"/>accusatori, quam accusato incumbit probatio, puta in mi 
+      <lb ed="#C" n="37"/>jestate violata, aut patria oppugnata, vel tradita, aut peci 
+      <lb ed="#C" n="38"/>latu admisso, aut sacris desertis, aut crimine falsi, ut C. eoc 
+      <lb ed="#C" n="39"/>fallaciter, &amp; leg penultim. &amp; ad l. Cor. de falsis, ubi.  
+    </p>
+            <p xml:id="nbht7y-d1e1702-d1e328" n="7">
+      
+      Scien<lb ed="#C" n="40" break="no"/>dum est autem, quod si accusator abolitionem petiit, pro 
+      <lb ed="#C" n="41"/>pterea, quia ab accusato pecuniam accepit, ut desisteret 
+      <lb ed="#C" n="42"/>denegatur, nisi cognatos accusasset, vel prosequeretur si 
+      <lb ed="#C" n="43"/>am injuriam, vel suorum: ut C. eodem l. ultim. Sed hoc quo 
+      <lb ed="#C" n="44"/>dixit de cognatis, intelligas, quando per fallaciam non a 
+      <lb ed="#C" n="45"/>cusavit: alii hoc intelligunt, etiamsi per fallaciam, nec d 
+      <lb ed="#C" n="46"/>stingues, utrum sit crimen, super quo transigi liceat, nar 
+      <lb ed="#C" n="47"/>posse, vel non posse transigi, respectu accusati dicitur, a¬ 
+      <lb ed="#C" n="48"/>cusatori autem semper illicitum est, pecunia interven 
+      <lb ed="#C" n="49"/>ente, desistere, utff. ad Turpill ab accusatione C. ad Turpill 
+      <lb ed="#C" n="50"/>femina, nisi in duobus praedictis casibus. Abolitione a 
+      <lb ed="#C" n="51"/>tem a principe indulta licet accusatori repetere reum in 
+      <lb ed="#C" n="52"/>tra 30. dies utiles, computandos ex eo die, quo feriae finit 
+      <lb ed="#C" n="53"/>sunt, ut C. de gener. abolitio. leg. 1. &amp; ff. eodem aut privatim §. iv. 
+      <lb ed="#C" n="54"/>ginta. Sed ubi aliquis impetrat abolitionem, non admi¬ 
+      <lb ed="#C" n="55"/>titur postea, nisi Princeps ei indulgeat, &amp; sic impetrat abc 
+      <lb ed="#C" n="56"/>litionem abolitionis, ut C. eodem leg. 1. &amp; F. eodem l. mulier, 
+      <lb ed="#C" n="57"/>ult abolitio autem Principis locum non habet in illis cr 
+      <lb ed="#C" n="58"/>minibus in quibus accusatori &amp; accusato incumbit pro 
+      <lb ed="#C" n="59"/>batio, utffeodem leg penultim. Sed &amp; citra inscriptionen 
+      <lb ed="#C" n="60"/>licet desistere ab accusatione ut notat. supra de accu. §. qua 
+      <lb ed="#C" n="61"/>liter procedatur, persic. hoc sive crimen &amp; not inf. eod. §se. sub §s¬ 
+      <lb ed="#C" n="62"/>patet, ubi not. per alios casus, in quibus sine paena licet que 
+      <lb ed="#C" n="63"/>sistere.
+    </p>
+            <p xml:id="nbht7y-d1e1702-d1e383" n="8">
+               <lb ed="#C" n="64"/>Quando debet, quis de calumnia puniti. Et 
+      <lb ed="#C" n="65"/>quidem, si in probatione defic 
+      <lb ed="#C" n="66"/>at: ut infra eodem ci. &amp; C. de adro diver judic. Ia ff. de testi leg. 3. 
+      <lb ed="#C" n="67"/>divus C de famo. lib leg. unica, in fin &amp; ad leg. Jul. de vi publica. 
+      <lb ed="#C" n="68"/>quis fundum, &amp; de fructibus &amp; lit expen non ignorat, &amp; de pa 
+      <lb ed="#C" n="69"/>na jud. qui male jud auth novo jure. 2. q 3. qui non probaverii 
+      <lb ed="#C" n="70"/>&amp; que 8 quisquis, &amp; cap. quicrimen. Nisi aliud suadeat judi¬ 
+      <lb ed="#C" n="71"/>praesumere officii necessitas, ut C. Qui accu. non poss. l. 2ff. a 
+      <lb ed="#C" n="72"/>bis quibus, ut in digtuto. vel personarum nimia proximita 
+      <lb ed="#C" n="73"/>ut C. eodem mater. &amp; leg calumnia, vel ejus, cui successit au 
+      <lb ed="#C" n="74"/>thoritas: ut C. eodem l.mater § sed extraneus, &amp; ff. de bon. lib. qu 
+      <lb ed="#C" n="75"/>cum major S ult. Vel damnum rei fatalis, ut ff. de bonis, lib qu 
+      <lb ed="#C" n="76"/>rum major( si parris. Vel intimus dolor admissi criminis, i 
+      <lb ed="#C" n="77"/>f. ad lJul. de adul quamvis adulterium. Vel delicti enormita 
+      <lb ed="#C" n="78"/>ut C. aefal. mo.l.1. Vel promissionis testium deceptio. 24. 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0676.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>paulum. Vel temeritas, seu calor iracundiae, quo pervent 
+      <lb ed="#C" n="80"/>est ad accusationem, nam inconsultus calor vitlo calum 
+      <lb ed="#C" n="81"/>niae caret, 2. q3. §notandum in fin. &amp; c si quis iratus, hoc secun 
+      <lb ed="#C" n="82"/>dum cano. nam secundum Il. teneretur quis, licet tali mo 
+      <lb ed="#C" n="83"/>tu deliquerit, ex quo perseveravit in motu, licet mitiu 
+      <lb ed="#C" n="84"/>puniatur Cde adul Gracchus, nisi obest praescriptio ff de in 
+      <lb ed="#C" n="85"/>ju. si non convitii. Sed si non perseveravit, sine paena est. ff.d 
+      <lb ed="#C" n="86"/>divor. I 3. f. de re qud quitquid, &amp; perseverare intelligitur, e 
+      <lb ed="#C" n="87"/>quo fidejussores dat, f de public. &amp; vect. I. licitatio, non ergi 
+      <lb ed="#C" n="88"/>is, qui in probatione delicti deficit, protinus calumniar 
+      <lb ed="#C" n="89"/>praesumitur, vnde ejus inquisitio spectat ad judicem, qu 
+      <lb ed="#C" n="90"/>reo absoluto animi destinatione, f. de verbor, significat fugiti 
+      <lb ed="#C" n="91"/>pus, cum post sententiam absolutionis hoc non liceat, C. eo 
+      <lb ed="#C" n="92"/>tit II. de accusatoris intenta, incipiet quaerere, qua mente 
+      <lb ed="#C" n="93"/>videlicet ductus ad accusationem processit, &amp; condemna 
+      <lb ed="#C" n="94"/>bit eum sic, vel absolvet, quorum alterum ex forma sentem 
+      <lb ed="#C" n="95"/>tiae arparebit, 2q. 3. § notandum. In supradictis autem casi 
+      <lb ed="#C" n="96"/>bus similibus potest exaudiri, non enim utique qui non pro 
+      <lb ed="#C" n="97"/>bat protinus calumniari videtur, f. ad Turpil l.i. S calumniato 
+      <lb ed="#C" n="98"/>rib. &amp; C. eo. qui non probasse, vel sic intellige, non enim utique 
+      <lb ed="#C" n="99"/>&amp;c. quasi diceret, non est necessarium, ar. ut probat, erge 
+      <lb ed="#C" n="100"/>est calumniator, potest namque contrarium esse, est tamen 
+      <lb ed="#C" n="101"/>probabile arg. Judex igitur, si per probabiles conjectura 
+      <lb ed="#C" n="102"/>accusatorem errasse repererit, absolvet eum, puta quia si 
+      <lb ed="#C" n="103"/>miplene probat. Sin autem nullo modo probet, neque fa 
+      <lb ed="#C" n="104"/>mam, neque aliquid in evidenti calumnia reperitur, &amp; ideo 
+      <lb ed="#C" n="105"/>legitima paena feriendus, ut 2qu 3. § notandum, &amp; fr. xd Turp. 
+      <lb ed="#C" n="106"/>19calumniatorib. &amp; infra eo, cap. 1. &amp; 2. Sed quidam dicunt 
+      <lb ed="#C" n="107"/>quod nullus praesumitur calumniari, nisi convincatur A 
+      <lb ed="#C" n="108"/>lii dicunt, quod sacramento suo purgat calumniam accu 
+      <lb ed="#C" n="109"/>sator, arg, supra de test. praesentium, &amp; cap. ult. &amp; qui matri. accu 
+      <lb ed="#C" n="110"/>poss.c. ult. Alii asserunt, quod in illis causis, in quibus noi 
+      <lb ed="#C" n="111"/>juratur de calumnia, praesumitur caluniari eo ipso, quoc 
+      <lb ed="#C" n="112"/>non probat, in aliis minime Alii distinguunt inter alia cri 
+      <lb ed="#C" n="113"/>minalia &amp; civilia. Ego puto generale, quod qui non pro 
+      <lb ed="#C" n="114"/>bat, calumniari praesumitur, sive juretur, sive non juretur 
+      <lb ed="#C" n="115"/>sive sit civilis causa, sive criminalis Sed non semper puni 
+      <lb ed="#C" n="116"/>tur tanquam calumniator, imo ad arbitrium judicis ho¬ 
+      <lb ed="#C" n="117"/>redigo, qui consideratis probabilib, conjecturis inter qua 
+      <lb ed="#C" n="118"/>litates personarum, &amp; criminum discernet, &amp; sic pronuc 
+      <lb ed="#C" n="119"/>et, arg. in his, quae not supra eod. § respon.i.versi nisi, &amp; sequ.t 
+      <lb ed="#C" n="120"/>sub eo §respon.1. &amp; de hoc non supra de do &amp; contum § qua pae 
+      <lb ed="#C" n="121"/>na, sub § illud auten. Quod si judex pronunciat accusato 
+      <lb ed="#C" n="122"/>rem calumniatum fuisse, condemnat eum, quamvis enin 
+      <lb ed="#C" n="123"/>de paena nihil dixerit, famen legis potestas adversus eun 
+      <lb ed="#C" n="124"/>nihiloninus exercebitur: quia licet facti quaestio sit in po 
+      <lb ed="#C" n="125"/>state judicis, scilicet vtrum videatur calumniari, vel non 
+      <lb ed="#C" n="126"/>paena tamen prosecutionis non ejus voluntati mandatui 
+      <lb ed="#C" n="127"/>sed l. authoritati servatur. Sed li judex pronunciet, no 
+      <lb ed="#C" n="128"/>probasti qui pepercit accusatori, ut ff. ad Turpill. leg 1. 6c. 
+      <lb ed="#C" n="129"/>lumniatoribus 2.q. 3. Snotandum quod ex causa facere debet 
+      <lb ed="#C" n="130"/>nam &amp; justam causam potuit habere veniendi ad judici 
+      <lb ed="#C" n="131"/>um, ut factum est &amp; probetur, C. eodem, qui non probasse. Se¬ 
+      <lb ed="#C" n="132"/>si judex non quaesivit de calumnia, sive non pronunciavit 
+      <lb ed="#C" n="133"/>durante primo judicio, adhuc pronunciare potest, poste¬ 
+      <lb ed="#C" n="134"/>non potest. C. eo l. I. nisi de novo calumniator accusetur, ( 
+      <lb ed="#C" n="135"/>de advocatis diver jud.l.i.incontinenti potest lata sententia 
+      <lb ed="#C" n="136"/>a quia talia interesse videntur, ut not. infra eodem, Squali pa 
+      <lb ed="#C" n="137"/>na, per punitur ergo, &amp; seq.
+    </p>
+            <p xml:id="nbht7y-d1e1702-d1e550" n="9">
+               <lb ed="#C" n="138"/>SIc patet, quando &amp; quare punitur calumniator, t sed &amp; 
+      <lb ed="#C" n="139"/>tergiversator per Turpillianum senatus consultum puni 
+      <lb ed="#C" n="140"/>tur, ut no. supra § quis tergiversator. Habet autem locum Tur 
+      <lb ed="#C" n="141"/>pill. quando quis ab accusatione publici criminis causa jan 
+      <lb ed="#C" n="142"/>ordinanta, desistit, ut C. ad Turpil. I. I. secus in privato crimi 
+      <lb ed="#C" n="143"/>ne, puta stellionatus, expilatae hereditatis, furti, injuriarum 
+      <lb ed="#C" n="144"/>accusatores coercebuntur, utff eodem, si quis, §si stelliona 
+      <lb ed="#C" n="145"/>tus. Item causa ordinata, ideo dixi: quia si lis non erat con 
+      <lb ed="#C" n="146"/>testata, licet libellum obtulerim, vel crimen minatus fue 
+      <lb ed="#C" n="147"/>rim, non tenor hoc senatuscons. ut ff. ad Turpill. quaesitum 
+      <lb ed="#C" n="148"/>nec enim accuso, sed accusare volui, ut ff. rem rat. ha leg am 
+      <lb ed="#C" n="149"/>plius, secundum A. Sed Jo. visum est locum habere Tur 
+      <lb ed="#C" n="150"/>pil. si post libellum oblatum quis desistat, utff. ad Turpil. 
+      <lb ed="#C" n="151"/>senatus, §qui post, &amp; leg de calumnia, &amp; leg penultim. Sed Do 
+      <lb ed="#C" n="152"/>Innoc. III. hoc diffinisse videtur dicens, quod citra inscri 
+      <lb ed="#C" n="153"/>ptionem licet desistere sine poena l. ergo a contrario sen 
+      <lb ed="#C" n="154"/>su postea non licet, quamvis etiam lis non fuerit contesta 
+      <lb ed="#C" n="155"/>ta, ui supra de accus. licet, §ultim. versicul. quia vero. Is tame 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0677.xml-->
+          <pb ed="#C" n="660"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>destitisse videtur, qui in totum renunciavit, non qui diste 
+          <lb ed="#C" n="2"/>lit, nam si necessitates supervenerunt, quibus impeditu 
+          <lb ed="#C" n="3"/>prosequi non potuit, eis cessantibus potest praeferre accu 
+          <lb ed="#C" n="4"/>sationem, &amp; vindictam postulare. Sed qui intra tempu 
+          <lb ed="#C" n="5"/>a judice est statutum reum non pertulit, destitisse videtur 
+          <lb ed="#C" n="6"/>ut C ad Turpil leg ultim &amp; F eo abaccusatione, S destitisse, &amp; le¬ 
+          <lb ed="#C" n="7"/>senatus, §qui post. &amp; C. qui accus. non poss. si ea. Sed &amp; qui trani 
+          <lb ed="#C" n="8"/>igit cum adversario, desistit, ut ff. eodem ab accusat. nec di 
+          <lb ed="#C" n="9"/>stingue. an liceat transigere, quia licet reo redimere san 
+          <lb ed="#C" n="10"/>guinem suum, quocunque modo potest: ut f. debon. eo qu 
+          <lb ed="#C" n="11"/>ante sentent mor, sibi consci. leg.i&amp; de praevarica. leg. in omnibu 
+          <lb ed="#C" n="12"/>sed accusator incidit in Turp. ut C. eodem si saemina, &amp; le 
+          <lb ed="#C" n="13"/>quamvis, &amp; ad leg. Jul. de adulte. servi. §i. tutor autem mortu 
+          <lb ed="#C" n="14"/>pupillo cujus nomine accusationem incaeperit, ipsam pro 
+          <lb ed="#C" n="15"/>sequi non tenetur, ut ff ad Turpil. divus.
+        </p>
+            <p xml:id="nbht7y-d1e1702-d1e631" n="20">
+          Accusare ver¬ 
+          <lb ed="#C" n="16"/>videtur, qui accusatorem subjecit, vel submisit, vel instig¬ 
+          <lb ed="#C" n="17"/>vit, vel mandat alicui &amp; instruit eum ad accusationem ca 
+          <lb ed="#C" n="18"/>pitalem sanciendam, dando probationes, allegando rati¬ 
+          <lb ed="#C" n="19"/>nes, scribendo accusationes, &amp; merito est hoc, nam difl 
+          <lb ed="#C" n="20"/>dendo crimini quod movet, &amp; exuendo se periculo calu 
+          <lb ed="#C" n="21"/>mmmiae, vel desertoris merito calumniantis, &amp; desistenti 
+          <lb ed="#C" n="22"/>paenae subjici debet, nisi subornatus accusator probaveri 
+          <lb ed="#C" n="23"/>crimen, quod intendere suscepit, nec interest per se, an pe 
+          <lb ed="#C" n="24"/>alium quis mandet accusationem, hic tamen, qui ministi 
+          <lb ed="#C" n="25"/>rio utitur alieno, non ex verbis, sed ex sententia senatus¬ 
+          <lb ed="#C" n="26"/>punitur, submissus autem accusator punitur verbis, S 
+          <lb ed="#C" n="27"/>sententia, propter hoc solum, quod ministerium alienit 
+          <lb ed="#C" n="28"/>moris suscepit, ut fi. codem I1. S antepenultim, &amp; l. in senatus 
+          <lb ed="#C" n="29"/>responsio.1. Sed nec is accusat, qui dicit aliquem in hoc se 
+          <lb ed="#C" n="30"/>natuicon. incidisse, ut ff. eodem l. 1.§ antepen. Minor auten 
+          <lb ed="#C" n="31"/>25 ann impune desistit, &amp; mulier, ua f. codem l. i. § accusatio 
+          <lb ed="#C" n="32"/>nem, sed contra, C. ad Tupell si faemina, potest distingui, u 
+          <lb ed="#C" n="33"/>si de jure admittatur, puta, quia prosequitur suam injuri 
+          <lb ed="#C" n="34"/>am, vel suorum, tunc incidit, hoc licet distincte in allo ac 
+          <lb ed="#C" n="35"/>cusatore reprobetur in dicto Saccusatore, vel dic, si desisti 
+          <lb ed="#C" n="36"/>pacto interveniente tunc incipit, alias contra, sed &amp; impu 
+          <lb ed="#C" n="37"/>ne desistunt omnes hi, de quorum calumnia vere permi 
+          <lb ed="#C" n="38"/>titur agi. ut ff. ad Turpill in senatus, § eos. Est autem poena hu 
+          <lb ed="#C" n="39"/>jus infamia, &amp; quinque librae auri extraordinaria poena, 
+          <lb ed="#C" n="40"/>quantitatis promissa pro inhibitione exigitur, ut ff. de pra 
+          <lb ed="#C" n="41"/>varica. I. 3.C. de exhibend re. I3 &amp; C. ad Turpil. 2. alios autem ca 
+          <lb ed="#C" n="42"/>sus, in quib. sine paena desistere licet, not supra codem, § 
+      qua<lb ed="#C" n="43" break="no"/>liter
+        </p>
+            <p xml:id="nbht7y-d1e1702-d1e694" n="21">
+               <lb ed="#C" n="44"/>Quali poena; calumniator ficiatur Et quidem 
+          <lb ed="#C" n="45"/>poena calumniae est eadem vel simi 
+          <lb ed="#C" n="46"/>lis, quae imponeret accusato, si convictus fuisset, &amp; est ho 
+          <lb ed="#C" n="47"/>apertum, si crimen erat ordinarium: sed si erat extraord 
+          <lb ed="#C" n="48"/>narium imponitur eadem, quae tali imponi consuevit, u 
+          <lb ed="#C" n="49"/>C de cal Lultim 2. quaestio 8 quisquis, &amp; capitul. qui crimen, 
+          <lb ed="#C" n="50"/>f. de praeva, ab Imperatore, f. ad Turpill &amp; in privatis, &amp; si fort 
+          <lb ed="#C" n="51"/>eadem poena imponi non potest, puta, quia subdiaconu 
+          <lb ed="#C" n="52"/>accusavit diaconum, vnde non potest amittere gradum 
+          <lb ed="#C" n="53"/>quem non habet degradaturus subdiaconatu, &amp; in supple 
+          <lb ed="#C" n="54"/>mentum poenae verberibus publice castigatus in exiliun 
+          <lb ed="#C" n="55"/>deportatur, ut infra eodem, capit. 1. &amp; 5. quaestio sexta quia, un 
+          <lb ed="#C" n="56"/>de decre sumpta fuit. Nedum autem calumnians accu 
+          <lb ed="#C" n="57"/>sator punitur, sed &amp; denuncians &amp; inquisitionem impe 
+          <lb ed="#C" n="58"/>trans, &amp; prosequens pro arbitrio judicis, unde si quis pr¬ 
+          <lb ed="#C" n="59"/>latum suum denunciaverit, &amp; non probaverit sufficien 
+          <lb ed="#C" n="60"/>ter quod intendit, ab officio &amp; beneficio suspenditur, n 
+          <lb ed="#C" n="61"/>quis facile ad suorum infamiam prosiliat praelatorum, quo 
+          <lb ed="#C" n="62"/>haec suspensio durat, quousque innocentiam suam purg¬ 
+          <lb ed="#C" n="63"/>verit, intelligi potest de juramento solo in casu hoc, ex eo 
+          <lb ed="#C" n="64"/>quod aliquid probaverit, licet non sufficienter, unde eti 
+          <lb ed="#C" n="65"/>non debuit suspendi. Sed hoc factum est ad terrorem, u 
+          <lb ed="#C" n="66"/>patet infra eodem capitul. 2. Item quandocunque paena o 
+          <lb ed="#C" n="67"/>dinaria locum non habet ad extraordinariam, astringer 
+          <lb ed="#C" n="68"/>se debet quilibet, etiamsi in modum exceptionis oppon¬ 
+          <lb ed="#C" n="69"/>tur crimen, habita distinctione quam notat. supra in rubi 
+          <lb ed="#C" n="70"/>de excep sub summa, de accusat. &amp; sic quaelibet caiumnia pu 
+          <lb ed="#C" n="71"/>niri debet extraordinarie saltem promotu judicis, ut sup 
+          <lb ed="#C" n="72"/>de accus super his, &amp; patet supra eodem §respon. i. C de accu. e. 
+          <lb ed="#C" n="73"/>quidem ff ad Turp alb accu sati me. § nunciatores. C. de decurion 
+          <lb ed="#C" n="74"/>dus l 1.lib. 12. Punitur ergo calumnia solo officio judicis 
+          <lb ed="#C" n="75"/>cum crimen intentatum non esset commissum. senteiti¬ 
+          <lb ed="#C" n="76"/>declaratur, sed postea ex intervallo non potest, ut C de ca 
+          <lb ed="#C" n="77"/>Iu nisi forte eadem die, argum ff dere judic. Paulus. respon. 
+          <lb ed="#C" n="78"/>vel incontinenti, ut ff. ad Turpill. l. 15 calumniatoribus, ibi, re
+          <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>absoluto, &amp;c. sed intelligi debet animi destinatione, ut no 
+          <lb ed="#C" n="80"/>supra eodem quando, versicul, non ergo, ea enim, quae incont 
+          <lb ed="#C" n="81"/>nenti fiunt, inesse videntur: utff. sicer pet lecta. C. de pact. p. 
+          <lb ed="#C" n="82"/>tens, supra de electoff. Sed videtur, quod etiam ex interva 
+          <lb ed="#C" n="83"/>lo potest calumnia puniri, ut infra eodem capit I. Sed die 
+          <lb ed="#C" n="84"/>quod illud fit authoritate Papae, &amp; fuit factum causa ex 
+          <lb ed="#C" n="85"/>empli, ut caeteri terreantur, sicut &amp; dixi de capit. 2. infra co¬ 
+          <lb ed="#C" n="86"/>tit. supra eod. vers. ne dum, vnde non est trahendum ad cor 
+          <lb ed="#C" n="87"/>sequentias, ut Institut. de ju. natura § plane. Vel dic, quo 
+          <lb ed="#C" n="88"/>decret. haec, scil. infra eodem capit.i.intelligitur, quando ren 
+          <lb ed="#C" n="89"/>petiit ante sententiam, quod puniretur calumnia adver 
+          <lb ed="#C" n="90"/>sarii, sed judices noluerunt exaudire, ut innuit litera, un 
+          <lb ed="#C" n="91"/>de negligentia, vel dolus judicis non debet prodesse cali 
+          <lb ed="#C" n="92"/>mnianti, &amp; ideo punitur postea, sed lloquitur, quar 
+          <lb ed="#C" n="93"/>non fuit netitum, &amp; ideo reus debet sibi imputare, ad ho 
+          <lb ed="#C" n="94"/>supra de donat. inter virum &amp; uxorem de prudentia, &amp; de test. p¬ 
+          <lb ed="#C" n="95"/>tuas. Sed quomodo potest condemnari, nullo libello c 
+          <lb ed="#C" n="96"/>lato contra eum? respo. quia factum notorium est judic 
+          <lb ed="#C" n="97"/>&amp; ideo in hoc casu nec accusator, nec testis exigitur, vt ro 
+          <lb ed="#C" n="98"/>sup de accu. sub rub de crimi, sive or pu. nec enim iudicio meo 
+          <lb ed="#C" n="99"/>lites ex litibus orientur, C. de si. anstr. l. ult. in fin. &amp; supra dere 
+          <lb ed="#C" n="100"/>scrip nounuli 
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

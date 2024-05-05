@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 25</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 25</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="120"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e328"><!-- nbht7y-l1t25 -->
+            <head xml:id="nbht7y-d1e328-Hd1e101">Titulus 25</head>
+            <head xml:id="nbht7y-d1e328-Hd1e103" type="question-title">De officio primicerii</head>
+            <p xml:id="nbht7y-d1e328-d1e106">
+               <lb ed="#C" n="71"/>De officio Primicerii XXV. Ru¬ 
+      <lb ed="#C" n="72"/>brica 
+    </p>
+            <p xml:id="nbht7y-d1e328-d1e113">
+               <lb ed="#C" n="73"/>SUMMARIA 
+      <lb ed="#C" n="74"/>I Primicerius quis dicatur. 
+      <lb ed="#C" n="75"/>2 Officium primicerii quod sit
+    </p>
+            <p xml:id="nbht7y-d1e328-d1e122">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0137.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="76"/>PRimicerius, est primus incho 
+      <lb ed="#C" n="77"/>ro, vel 
+      <lb ed="#C" n="78"/>primus in cantu. Et est certa dignitas in ali 
+      <lb ed="#C" n="79"/>quibus ecclesiis, de qua legitur supra. de cor¬ 
+      <lb ed="#C" n="80"/>stitu, cum accessissent. In aliquibus ecclesiis vo 
+      <lb ed="#C" n="81"/>catur praecentor, sive cantor, sub quo &amp; sub 
+      <lb ed="#C" n="82"/>centor est, de quo habes, infra de excess. praelat. inter dilectos 
+      <lb ed="#C" n="83"/>qui etiam in aliquibus ecclesiis chabiscolus vocatur, sive 
+      <lb ed="#C" n="84"/>magister scholarium, infra de calum cap. 2. Officium? hu¬ 
+      <lb ed="#C" n="85"/>jus est, ut praesit in docendo diaconis, &amp; reliquis gradibus 
+      <lb ed="#C" n="86"/>disciplinae. custodiaeque insistat, quia pro animabus eori 
+      <lb ed="#C" n="87"/>Deo redditurus est rationem. Sic supra de osfi. Archid. cap. 
+      <lb ed="#C" n="88"/>&amp; cap. ad haec, infra de offi. ord irrefragibili, infra de regula, cap. s 
+      <lb ed="#C" n="89"/>Lectiones debet dare ad nocturna officia, &amp; studium ha 
+      <lb ed="#C" n="90"/>bere debet de singulis. Non debet esse negligens, sed in 
+      <lb ed="#C" n="91"/>quacunque recapacem sensum habeat, &amp; per ipsum, ve 
+      <lb ed="#C" n="92"/>illum cui mandaverit, alii instruantur, nmis. eo .c. unico. Ec 
+      <lb ed="#C" n="93"/>autem absente, ea quae ipsius incumbunt officio, per illum 
+      <lb ed="#C" n="94"/>qui ei aut ordine, aut jurisdictione proximus est, exequa 
+      <lb ed="#C" n="95"/>tur. 25. dist. perlectis versic ad primicertum. signatur contra, su 
+      <lb ed="#C" n="96"/>pra de ofsic. Archid. officium ubi videntur haec ad offic. Arch 
+      <lb ed="#C" n="97"/>pertinere. Solve, sicut not. supra de offic. Archid. §. &amp; quibu 
+      <lb ed="#C" n="98"/>praeesse intelligatur, &amp; supra ut. 1. §. quae pertinent, versic. de hi 
+      <lb ed="#C" n="99"/>Cardi. in fi.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

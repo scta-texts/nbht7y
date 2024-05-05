@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 11</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 11</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="402"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e999"><!-- nbht7y-l3t11 -->
+            <head xml:id="nbht7y-d1e999-Hd1e101">Titulus 11</head>
+            <head xml:id="nbht7y-d1e999-Hd1e103" type="question-title">De his, quae fiunt a maiori parte capituli</head>
+            <p xml:id="nbht7y-d1e999-d1e106">
+               <lb ed="#C" n="55"/>De his quae fiunt a majori parte Ca¬ 
+      <lb ed="#C" n="56"/>pituli. Rubrica XI. 
+    </p>
+            <p xml:id="nbht7y-d1e999-d1e113">
+               <lb ed="#C" n="57"/>IN superior: summa diximus, quo 
+      <lb ed="#C" n="58"/>episcopus parum, au 
+      <lb ed="#C" n="59"/>nihil facere debet sine consilio capituli: ca 
+      <lb ed="#C" n="60"/>pitulum autem aliquoties confert benefi 
+      <lb ed="#C" n="61"/>cia sine consilio episcopi, ut not. supra tit. 
+      <lb ed="#C" n="62"/>§. mquibus consilium. vers. &amp; breriter. &amp; seq. sed quia  ecess 
+      <lb ed="#C" n="63"/>est, quod major &amp; sanior pars consentiat, videamus de his 
+      <lb ed="#C" n="64"/>quae fiunt a majori parte cap. dicentes, Quae dicatur majo 
+      <lb ed="#C" n="65"/>pars, Quid juris sit de his, quae fiunt a majori vel minor 
+      <lb ed="#C" n="66"/>parte capituli 
+    </p>
+            <p xml:id="nbht7y-d1e999-d1e137">
+               <lb ed="#C" n="67"/>Quae dicatur major pars. 2 Ea quae numerosior 
+      <lb ed="#C" n="68"/>est, &amp; sanior. infra eod. c. 1. sicut in 
+      ele<lb ed="#C" n="69" break="no"/>ctionibus dicitur supra de elect quia propter. majoritas enin 
+      <lb ed="#C" n="70"/>requiritur, quo ad numerum: sanitas, quo ad zelum, sup. d 
+      <lb ed="#C" n="71"/>ele. in Genesi. &amp; c. ecclesia. 2. Minor etiam dici potest, quae ma 
+      <lb ed="#C" n="72"/>b jori nititur ratione. b9. dist. sana. I1. dis multi unde nec 
+      sem<lb ed="#C" n="73" break="no"/>per ad multitudinem respici oportet. 4 q. 35. Item in cri 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0419.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="74"/>minali. quamvis pro ipsa prima facie praesumatur, ut no 
+      <lb ed="#C" n="75"/>inf. eo. §. seq. ver veruntamen. in aliquibus tamen requiritur 
+      <lb ed="#C" n="76"/>quod duae partes adsint. ff. quod cujusque unii er nulli ff. dedi 
+      <lb ed="#C" n="77"/>ab or fa.l 3. C. de decu. nominationes, &amp; junge quod no supa 
+      <lb ed="#C" n="78"/>rescr. §. quod continet jus commune. vers. sed quae dicuntur maj¬ 
+      <lb ed="#C" n="79"/>res. &amp; supr. de elect. §. qualiter. sub prima forma, super verbo, vi 
+      <lb ed="#C" n="80"/>major &amp; sanior, &amp; seq.
+    </p>
+            <p xml:id="nbht7y-d1e999-d1e175">
+               <lb ed="#C" n="81"/>Quid juris sit dehis, quae funta majo vel minor 
+      <lb ed="#C" n="82"/>parte capituli? Et quidem sciendi 
+      <lb ed="#C" n="83"/>est, quod semper debet praevalere, quod videtur major 
+      <lb ed="#C" n="84"/>parti. 65. dist. cap. 1.2. &amp; 3. sup. de elect. licet in fin. 23. dist in nomin 
+      <lb ed="#C" n="85"/>domim 20 dist. de quib. ff. de re jud. duo ex trib. sup de sent. &amp; reju 
+      <lb ed="#C" n="86"/>cap. ult. 79. dist. si duo ff de tut. &amp; cura. dat. ab his. ubi sup. de elec 
+      <lb ed="#C" n="87"/>coram. &amp; cum in jure. &amp; cum in ecclesia. quia propter. cap. Cuma 
+      <lb ed="#C" n="88"/>na in Genesi. ita quod sit major, respectu totius capituli, ni 
+      <lb ed="#C" n="89"/>respectu partium, ut in prox alleg cap..ex ore.i. de jure pa 
+      <lb ed="#C" n="90"/>cap. 3. ff. ad muni. quod major 63. dist. plebs. Sed &amp; si unus habe 
+      <lb ed="#C" n="91"/>at justam rationem contradicendi, auditur, si hoc proba 
+      <lb ed="#C" n="92"/>verit coram superiore, ut inf. eo, cap. 1. &amp; sup. de appel. ut debi 
+      <lb ed="#C" n="93"/>tus, &amp; cap. interposita, &amp;c. constitutus infr. de purg. cano. nos inte 
+      <lb ed="#C" n="94"/>alia. vel coram arbitris, secun quosdam. sup. de app. secundo, &amp; d 
+      <lb ed="#C" n="95"/>officio deleg suspicionis. quod G. Na. non admittit. Verunta 
+      <lb ed="#C" n="96"/>men si major pars in aliquo consentiat, praesumitur pro 
+      <lb ed="#C" n="97"/>majore numero, quousque contrarium probatum sit. 614 
+      <lb ed="#C" n="98"/>stin. nullus. 23.dist. illud sup. de elect. dudum. Innoc. sed ex quo 
+      <lb ed="#C" n="99"/>probatum est aliquid rationabile, sci. quia minor rationa 
+      <lb ed="#C" n="100"/>biliter movetur, major vero irrationabilirer, praevalet mi 
+      <lb ed="#C" n="101"/>nor, &amp; intelligitur major respectu consilii sanioris. ut od¬ 
+      <lb ed="#C" n="102"/>stin, sana quippe. 40 dist multi. in fin 4. q. 35. Itemjus jur. supr. a 
+      <lb ed="#C" n="103"/>testi praeterea. &amp; cap. in nostra. ideoque interdum praev alet mi 
+      <lb ed="#C" n="104"/>nor pars. infr. cod cap. 31. distin. Nicena ff de servi rust praed. pe 
+      <lb ed="#C" n="105"/>fundum. 12q4.2. non licei ff. de pact. majorim supr. de elect congre 
+      <lb ed="#C" n="106"/>gato. &amp;c. dudum. I. Sed &amp; licet non obsit contradictio pau 
+      <lb ed="#C" n="107"/>corum in praesenti, semper tamen obstat contemptus i 
+      <lb ed="#C" n="108"/>absentia. ut supr. de elect. quod sicut &amp; cap. venerabilem §. oby 
+      <lb ed="#C" n="109"/>ctioni vers &amp; ex eo. &amp; cap. bonae memoriae cre ante fin. Et unun 
+      <lb ed="#C" n="110"/>not. quod quamvis capitulum posset facere constitutio 
+      <lb ed="#C" n="111"/>nes, e non tamen hoc facere potest contra antiquas, &amp; ra¬ 
+      <lb ed="#C" n="112"/>tionabiles consuetudines ecclesiae, sine consensu episcop 
+      <lb ed="#C" n="113"/>ut not supr de consuet, cum consuetudinis. supra de conces. pra! 
+      <lb ed="#C" n="114"/>ex parte Asten. in sin. nec in praejudicium absentium, ut supr 
+      <lb ed="#C" n="115"/>de const. cum omnes.i.dist. catholica ergo quantum ad haec, ni 
+      <lb ed="#C" n="116"/>cesse est, quod omnes sint praesentes: quantum autema 
+      <lb ed="#C" n="117"/>alia negotia, sufficit quod major pars residentium conre 
+      <lb ed="#C" n="118"/>niat. 10. 9.2 hoc jus dummodo duae partes praesentes sint. 
+      <lb ed="#C" n="119"/>quod cujusque unirersitatis plane &amp; de aecret ab ord fac. l 4. Con 
+      <lb ed="#C" n="120"/>iuevit &amp; illud dici, quod si aliqua res communiter perti 
+      <lb ed="#C" n="121"/>net ad al quos, tanquam ad singulares, quod in ea fit a mi 
+      <lb ed="#C" n="122"/>jori parte illorum. in hoc valet, etiam si unicus dissentia 
+      <lb ed="#C" n="123"/>ut ff. de serrit. rust praed. perfundum. &amp; sic intelligitur, quo 
+      <lb ed="#C" n="124"/>jure communi potior est conditio prohibentis. ut f.d 
+      <lb ed="#C" n="125"/>commui divid. Sabinus. quod qualiter intelligitur, dicu 
+      <lb ed="#C" n="126"/>plene notat. supra de constitut §. quando constiturio mcipit ai 
+      <lb ed="#C" n="127"/>ctare. in illa discinctione, quae incipit, cum quaeritur. 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="128"/>ADDITIONES. 
+      <lb ed="#C" n="129"/>a Quae dicatur major pars] Adde Doct. in capit. tum omnei, d 
+    </p>
+    <p>
+      <lb ed="#C" n="130"/>constitui 
+      <lb ed="#C" n="131"/>b Quod de ratione ait Hostiens. ampliat Matt. in summa titul 
+    </p>
+    <p>
+      <lb ed="#C" n="132"/>Quid potest facere capitulum procedere ad pietatem, ade 
+      <lb ed="#C" n="133"/>ut major parscenseatur illa, quae majori pietati nititur, capi 
+      <lb ed="#C" n="134"/>sane 9 distin. Quod autem ait Hostiens. majori, &amp; saniori par 
+      <lb ed="#C" n="135"/>tistandum, &amp; praesumendum, fallit, si contrarium probetul 
+      <lb ed="#C" n="136"/>61. dist nullus, extra de iis, quae fiunt a ma cap. 1. &amp; de elect. dudum 
+      <lb ed="#C" n="137"/>Quandoque tamen minor pars praevalet, extra de iis, quae fiunt 
+      <lb ed="#C" n="138"/>ma. par cap. 1. &amp; 31. dist. Nicena &amp; 12 q. 2 non liceat. Quandoqu 
+      <lb ed="#C" n="139"/>vero non sufficit, quod major pars adsit, sed oportet dua 
+      <lb ed="#C" n="140"/>partes adesse, &amp; praesentes esse, ff. de decre ab or fac. In iis ver 
+      <lb ed="#C" n="141"/>quae communia sunt, non ut collegiatis, sed ut singulis, nol 
+      <lb ed="#C" n="142"/>valet quod a majore parte fit, sed oportet, quod omnes con 
+      <lb ed="#C" n="143"/>sentiant, ff. com praed. I. per fundum, &amp; de constu. cum N. in glo 
+      <lb ed="#C" n="144"/>sed nonn. 
+      <lb ed="#C" n="145"/>e Capitulum possit facere constitutiones] Adde gl. &amp; Doct i 
+    </p>
+    <p>
+      <lb ed="#C" n="146"/>cap. 1 eod. tit. gl. in cap placuii. 27 disi Doct. in cap. cum consuetudi 
+      <lb ed="#C" n="147"/>nis. de consuein. an hoc pessint sine episcopo, dic regularite 
+      <lb ed="#C" n="148"/>quod non, secundum Doct. in cap cum omnes. de consiit. falliu 
+      <lb ed="#C" n="149"/>quando sedes episcopalis vacat, secundum Feder. de Seni¬ 
+      <lb ed="#C" n="150"/>cons. 16. incip. capitulum ecclesi¬--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0420.xml-->
+      <pb ed="#C" n="403"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>utrum standum sit votis majoris partis. Et nunquid ci 
+      <lb ed="#C" n="2"/>Ponici per se possunt minuere praebendas, vel destruer 
+      <lb ed="#C" n="3"/>dignitates in ecclesia. de hoc dic, ut plene not, supr. de consti 
+      <lb ed="#C" n="4"/>§. quando constitutio incipit sub §. arctat autem. ita demum i 
+      <lb ed="#C" n="5"/>illa distinctione, quae incipit, cum quaeritur, an capitulum 
+      <lb ed="#C" n="6"/>novam dignitatem. Unum tamen not, quod ubi aliquo 
+      <lb ed="#C" n="7"/>statutum est in ecclesia jurej roboratum, hac clausula ac 
+      <lb ed="#C" n="8"/>jecta quod si quicquam contra fieret, non valeret, quod 8 
+      <lb ed="#C" n="9"/>rationabile sit perinde est, ac si dominus Papa confirma 
+      <lb ed="#C" n="10"/>set, ut no. inf. ut benesic. ecclesiastica. §. 2. Canonicus autem pe 
+      <lb ed="#C" n="11"/>se non potest ecclesiam subjicere interdicto, maxime pro 
+      <lb ed="#C" n="12"/>pter delictum unius hominis, ut infra eod. quaesivit: qui¬ 
+      <lb ed="#C" n="13"/>peccata suos debent tenere authores, ut ibi, &amp; C. de poeni 
+      <lb ed="#C" n="14"/>sancimus. 16. qu. 6. cognovimus. &amp; c. illud. unde nec uxor pr¬ 
+      <lb ed="#C" n="15"/>marito puniri debet. C. ne uxor pro marito. ob maritorum. 11. 
+      <lb ed="#C" n="16"/>3. illud certe. nec res puniendae sunt pro personis. auth. 
+      <lb ed="#C" n="17"/>man. princ. § oportet. col.3 hoc in spirituali poena, nisi filiu 
+      <lb ed="#C" n="18"/>sequatur patrem in delicto, ut I. qu. 4. a principio, uique adc. eccl. 
+      <lb ed="#C" n="19"/>sia. sed in temporalibus saepe perit pius pro impio. de cond 
+      <lb ed="#C" n="20"/>Lin sancta. in fl. 15. q. uli cum muliae. Aiu. 3. § item pro peccato. Iten 
+      <lb ed="#C" n="21"/>major pars non potestiuvari occasione statuti ecclesiae d¬ 
+      <lb ed="#C" n="22"/>mnosi, licet jurati: quia non debet dici juramentum, quo 
+      <lb ed="#C" n="23"/>contra utilitatem eccl est juratum, sed potius perjurium 
+      <lb ed="#C" n="24"/>ut infra cap. 1§ pen. &amp; ult. supra de jurejur. sic ut nostris, &amp; cap 
+      <lb ed="#C" n="25"/>intellecto. &amp; si quis de caetero talia statuta juraverit, quou 
+      <lb ed="#C" n="26"/>que digne poenituerit, a corpore Christi praecipitur fiei 
+      <lb ed="#C" n="27"/>alienus. ut iufra eod, cap. 1. Quid ergo si generaliter juravi 
+      <lb ed="#C" n="28"/>rit aliquis canonicus statuta ecclesiae observare? Certe n¬ 
+      <lb ed="#C" n="29"/>videtur de his sensisse. argu. ff. de transact, cum Aquiliana. &amp; 
+      <lb ed="#C" n="30"/>qut cum tutoribus, §. pen ff. de condi indeb. si procu quasi in fi &amp; d 
+      <lb ed="#C" n="31"/>condi. insti. conditiones. &amp; l. seque super de jurejur. quanto. venien 
+      <lb ed="#C" n="32"/>Quintavall. 5. &amp; c. clericus. tamen ad evitandam infamian 
+      <lb ed="#C" n="33"/>facti, consulo, quod ita dicat, bene juro me observaturui 
+      <lb ed="#C" n="34"/>omnes consuetudines, &amp; statuta hujus eccle. nisi esset ta 
+      <lb ed="#C" n="35"/>lis, per quam utilitas, vel honor hujus eccles. quocunque 
+      <lb ed="#C" n="36"/>tempore impediretur. &amp; dummodo non sint irrationabi 
+      <lb ed="#C" n="37"/>lia, vel iniqua. Item licet is qui partem decimae fabricae de 
+      <lb ed="#C" n="38"/>putatam recipit, solus teneatur ad reparationem. 10 4 1.de 
+      <lb ed="#C" n="39"/>cernimus &amp; quie 3. unio canonici tamen conferre tenentur, &amp; 
+      <lb ed="#C" n="40"/>si praelatus cum majori parte consentiat. ut infra eodem c. 
+      <lb ed="#C" n="41"/>pitu. ult. 16. q. I.si monachus, inf de eccl. aed si ca1 &amp; cap. de his. E 
+      <lb ed="#C" n="42"/>quod dixit de majori numero, fallit in electione Papae, ub 
+      <lb ed="#C" n="43"/>non statur majori numero, imo necesse est, quod duae par 
+      <lb ed="#C" n="44"/>tes consentiant. ut sup. de elect licet. quod dic, ut no. supra a 
+      <lb ed="#C" n="45"/>elect § qualiter sub § fina sic &amp; in postulatione, supra ut li¬ 
+      <lb ed="#C" n="46"/>non contesta. in rubro &amp; in nigro traduntur, supra de elec, scr 
+      <lb ed="#C" n="47"/>ptum. quod dic, ut non sup. de postula praelant §. &amp; utrum in ill. 
+      <lb ed="#C" n="48"/>distinct quae incipit, Ego vero.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 33</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 33</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="498"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1244"><!-- nbht7y-l3t33 -->
+            <head xml:id="nbht7y-d1e1244-Hd1e101">Titulus 33</head>
+            <head xml:id="nbht7y-d1e1244-Hd1e103" type="question-title">De conversione infidelium</head>
+            <p xml:id="nbht7y-d1e1244-d1e106">
+               <lb ed="#C" n="11"/>De Conversione Infidelium. 
+      Rubri<lb ed="#C" n="12" break="no"/>ca XXXIII 
+    </p>
+            <p xml:id="nbht7y-d1e1244-d1e113">
+               <lb ed="#C" n="13"/>SVMMARIA 
+      <lb ed="#C" n="14"/>Infidelis quis dicatur 
+      <lb ed="#C" n="15"/>Infideles qualiter possint converi 
+      <lb ed="#C" n="16"/>3 Filii infidelium quomodo converti debeam 
+    </p>
+            <p xml:id="nbht7y-d1e1244-d1e124">
+               <lb ed="#C" n="17"/>TRactavimus supra qvaliter 
+      fi<lb ed="#C" n="18" break="no"/>deles ad 
+      re<lb ed="#C" n="19" break="no"/>ligionem convertantur, nunc dicendum, 
+      <lb ed="#C" n="20"/>qualiter infideles ad fidem convertantur; 
+      <lb ed="#C" n="21"/>sic videamus de conversione infidelium 
+      <lb ed="#C" n="22"/>Quis dicatur infidelis, Qualiter converti possit, Quid 
+      ju<lb ed="#C" n="23" break="no"/>ris de prole ipsorum 
+    </p>
+            <p xml:id="nbht7y-d1e1244-d1e143">
+               <lb ed="#C" n="24"/>Quis dicatur? infidelis Discrepans a fide 
+      catho<lb ed="#C" n="25" break="no"/>lica, infidelis generaliter potest dic 
+      <lb ed="#C" n="26"/>ut arg. 19 dist. 11. 19. 30. pertotum. quia quicquid a fide Chr 
+      <lb ed="#C" n="27"/>stianam discrepat, fidei Christianae est contrarium. C. des¬ 
+      <lb ed="#C" n="28"/>daeis. &amp; coel coelicolarum. in fin. &amp; qui non est mecum, contr 
+      <lb ed="#C" n="29"/>me est ergo qui est in mortali, largo modo infidelis pote 
+      <lb ed="#C" n="30"/>dici. n.q. 3 existimant. Quid enim de his qui extra ecclesian 
+      <lb ed="#C" n="31"/>sunt. infra de divort gaudemus. dicitur ergo infidelis ab inm 
+      <lb ed="#C" n="32"/>delitate, ergo haereticus. sed talis dicitur reverti, non cor 
+      <lb ed="#C" n="33"/>verti. quod dic, ut not. infra de haer §. quis dicatur haereticus 
+      <lb ed="#C" n="34"/>§. quando &amp; qualiter eccles. reconcilietur. hîc autem specialite 
+      <lb ed="#C" n="35"/>tractatur de his qui nunquam fuerunt fideles. ut de P¬ 
+      <lb ed="#C" n="36"/>ganis &amp; Judaei 
+    </p>
+            <p xml:id="nbht7y-d1e1244-d1e174">
+               <lb ed="#C" n="37"/>Qualiter onverti possint. Propriat voluntate, no 
+      <lb ed="#C" n="38"/>inviti. infra deJudae: sicut Judaei per regi 
+      <lb ed="#C" n="39"/>nerationem sacri baptismi. ut not. infra de Judae. sub rubr a 
+      <lb ed="#C" n="40"/>Judaeis. § &amp; in quibus graventur. versicul. hanc autem. &amp; seq 
+      <lb ed="#C" n="41"/>infra tractabitur debaptis. § quis sit effectas. Quod si infideli 
+      <lb ed="#C" n="42"/>seipsum baptizet &amp; in continenti moritur, salvus fit pri 
+      <lb ed="#C" n="43"/>pter fidem sacramenti. licet deficiat fidei sacramentun 
+      <lb ed="#C" n="44"/>infra de bap debitum. Notandum est autem circa hanc mi 
+      <lb ed="#C" n="45"/>teriam, quod matrimonium fidelium non aboletur, quo 
+      <lb ed="#C" n="46"/>ad vinculum, ex quo semel tenuit, &amp; si sententia divort 
+      <lb ed="#C" n="47"/>feratur. 32 quaestio. 6. licite. &amp;c. interveniente. &amp; ideo si alte 
+      <lb ed="#C" n="48"/>duorum fidelium labatur, necesse est quod ad divortiun 
+      <lb ed="#C" n="49"/>provocetur. quo ad thorum &amp; mutuam servitutem, ne 
+      <lb ed="#C" n="50"/>in hoc casu distinguen. velit alter cohabitare cum alter 
+      <lb ed="#C" n="51"/>absque contumelia Creatoris, licet Vinc. contrarium scr 
+      <lb ed="#C" n="52"/>pserit in hoc per Goff. reprobatur, &amp; bene. Ubi vero alte 
+      <lb ed="#C" n="53"/>duorum infidelium ad fidem nostram convertitur, mon¬ 
+      <lb ed="#C" n="54"/>Apostolus fidelem, ut cohabitet infideli, quia posset ess 
+      <lb ed="#C" n="55"/>multorum occasio lucrandorum. 27. q. 1. iam nunc excip 
+      <lb ed="#C" n="56"/>Judaeum, cui cohabitandum non est, &amp; si habitare velit s 
+      <lb ed="#C" n="57"/>ne contumelia Creatoris. 28 qu. iJudaei &amp; est ratio, quia h¬ 
+      <lb ed="#C" n="58"/>bent leges &amp; prophetas nostros, &amp; ideo timetur, ne Juda 
+      <lb ed="#C" n="59"/>us omnino subverteret Christianum: sed si infidelis noli 
+      <lb ed="#C" n="60"/>cohabitare fideli, vel velit, sed cum blasphemia Salvate 
+      <lb ed="#C" n="61"/>ris, vel ut trahat fidelem ad mortale peccatum. in his cas 
+      <lb ed="#C" n="62"/>bus sine judicio, &amp; praeter sententiam matrimoniale vir 
+      <lb ed="#C" n="63"/>culum solvitur ipso jure. &amp; est ratio diversitatis, quia inte 
+      <lb ed="#C" n="64"/>infideles non est ratum matrimonium. ideo sine sententi 
+      <lb ed="#C" n="65"/>solvitur. sed inter fideles ratum est, ideo sententia requir 
+      <lb ed="#C" n="66"/>tur infra de divort. quanto super quo vide quod nota. infrac 
+      <lb ed="#C" n="67"/>spons super rubrica, de matrimonio, §. fin. sub §. ut autem. Iten 
+      <lb ed="#C" n="68"/>in primo casu fidelis non contrahit, in secundo contrahi 
+      <lb ed="#C" n="69"/>&amp; ut licenter hoc faciat, testes adhibeat, per quos probe 
+      <lb ed="#C" n="70"/>quod infidelis non vult ei cohabitare, &amp; cut supra Est eti 
+      <lb ed="#C" n="71"/>tertia differentia, quia propter unicam fornicationern 
+      <lb ed="#C" n="72"/>carnalem potest vir divertere ab uxore. 32. qu. I.dixit &amp; 
+      <lb ed="#C" n="73"/>cum in conjugio. infra de divort. gaudemus in sin. sed propte 
+      <lb ed="#C" n="74"/>unicam spiritualem non potest, nisi lapsus in ea persev¬ 
+      <lb ed="#C" n="75"/>ret. 28. qu. I. non solum. est autem haec convenientia, quo 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0515.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="76"/>sicut maritus propter fornicationem carnalem uxoren 
+      <lb ed="#C" n="77"/>suam a sua cohabitatione excludere tenetur, si incorrig 
+      <lb ed="#C" n="78"/>bilis sit. 32q4. 1 si quis uxorem. &amp;c. sequ. sic &amp; spiritualem fo¬ 
+      <lb ed="#C" n="79"/>nicationem &amp; incorrigibilem. 28. qu.i. non solum. Sed &amp; ub 
+      <lb ed="#C" n="80"/>alter fidelium, qui elapsus erat, ad fidem revertitur, cog 
+      <lb ed="#C" n="81"/>tur relictus habitare cum eo, nisi antea fuissent per senti 
+      <lb ed="#C" n="82"/>tiam separati. infra de divort. de illa. sed secundum Goffrec 
+      <lb ed="#C" n="83"/>hodie videtur correcta illa dist. quia indistincte videtu 
+      <lb ed="#C" n="84"/>dicendum, quod cohabitare debet, ut innuitur infra ded 
+      <lb ed="#C" n="85"/>vott quanto. in fin. quod verum est, imo potest relictus inv 
+      <lb ed="#C" n="86"/>to reverso intrare religionem, &amp; sic non cohabitabit. u 
+      <lb ed="#C" n="87"/>supra de conr conjug. c. mulierquae determinat. qualiter deb 
+      <lb ed="#C" n="88"/>ant intelligi illae duae aliae decre. cogitur enim cohabitar 
+      <lb ed="#C" n="89"/>si non vult intiare religionem, &amp; sic intellige de illa &amp;c 
+      <lb ed="#C" n="90"/>hac materia plenius nont. infra de divort. §. quot modis. versuo 
+      <lb ed="#C" n="91"/>solum. &amp; seq. Praedicta omnia locum habent, quando alte 
+      <lb ed="#C" n="92"/>duorum fidelium labitur post matrimonium consun 
+      <lb ed="#C" n="93"/>matum, quid ergo, si ante consummationem. &amp; certe po 
+      <lb ed="#C" n="94"/>set dici, quod ibi solvatur vinculum lata sententia divort 
+      <lb ed="#C" n="95"/>inodium divertentis, &amp; favorem fidei, &amp; relicti sicuti 
+      <lb ed="#C" n="96"/>favorem relig. &amp; religionem intrantis solvitur, ad quo 
+      <lb ed="#C" n="97"/>facit quod non supra tit. I §. sin. vers. sed quare magis &amp; seque 
+      <lb ed="#C" n="98"/>hoc autem diffinitioni Papae relinquo, ad quem specti 
+      <lb ed="#C" n="99"/>jura condere, quantumcunque rationabile videatur. nar 
+      <lb ed="#C" n="100"/>duo faciunt pro secundo, pro primo tria satis fortiora8 
+      <lb ed="#C" n="101"/>probabiliora, sicut apparet ex praecedentibus. ergo obt 
+      <lb ed="#C" n="102"/>nere debent. arg. C. de edicto divi Adr. toll. I. uli. supra de probat. 
+      <lb ed="#C" n="103"/>licet § sin. nam triplex funiculus difficilius rumpitur su 
+      <lb ed="#C" n="104"/>de treug &amp; pace. c. I. si dicas quod in secundo timetur de l¬ 
+      <lb ed="#C" n="105"/>psu carnis, idem &amp; in primo. si dicas, quod in primo cor 
+      <lb ed="#C" n="106"/>sideretur, favor matrimonii, certe &amp; in secundo considi¬ 
+      <lb ed="#C" n="107"/>rari deberet fortius, quam in primo, quia primus in sacri 
+      <lb ed="#C" n="108"/>mentum matrimonii, &amp; authorem ejusdem, scili Deun 
+      <lb ed="#C" n="109"/>radicem ipsius, scilicet fidem &amp; fundamentum omniur 
+      <lb ed="#C" n="110"/>sacramentorum, scil. baptismum. ut supra de bapti. venien 
+      <lb ed="#C" n="111"/>ad apo. ergo non debet expectari, nec debet in aliquo sul 
+      <lb ed="#C" n="112"/>venire arg. infra ne cler vel monac. c2. infr. de usur quia frusti. 
+      <lb ed="#C" n="113"/>Convertitur autem aliquando infidelis propter amorern 
+      <lb ed="#C" n="114"/>Christianorum, in quo casu si Christianae in necem Chi 
+      <lb ed="#C" n="115"/>stianorum virorum machinatae sunt, non poterunt cor 
+      <lb ed="#C" n="116"/>trahere cum conversis, quia tale lucrum tali damno eccle 
+      <lb ed="#C" n="117"/>sia non compensat, potest autem conversus mulieren 
+      <lb ed="#C" n="118"/>cujus virum interfecit in bello, vel conversa Christianun 
+      <lb ed="#C" n="119"/>qui maritum suum inbello interemit, matrimonialite 
+      <lb ed="#C" n="120"/>ducere, cum non fuerit procuratus maritorum interitu 
+      <lb ed="#C" n="121"/>defunctorum infra eod c.i. &amp; hoc plenius not infra de eo qu 
+      <lb ed="#C" n="122"/>dux. in mat quam pol per adul. vers. &amp; idem intellexit Goff. &amp; 
+      <lb ed="#C" n="123"/>quent. Ergo patet quod non est committendum peccatun 
+      <lb ed="#C" n="124"/>spe eleemosynae 14. dist. quod ait. infra de usur super eo. quo 
+      <lb ed="#C" n="125"/>intentio attenditur. supra de bigam. nuper. ff. de conditi one 
+      <lb ed="#C" n="126"/>demonstr. l. 2. in fin.
+    </p>
+            <p xml:id="nbht7y-d1e1244-d1e376">
+               <lb ed="#C" n="127"/>Quid juris e poleReteri,&amp; Pimae. 
+      <lb ed="#C" n="128"/>neatur per interdictum de liberis exhib. ff de libe. exhib. I. 
+      <lb ed="#C" n="129"/>sed volens rei vend. adjecta causa de jure Quiritum. f. d 
+      <lb ed="#C" n="130"/>rei vend. l.i. si nullo detineatur, per officium judicis. ut suj 
+      <lb ed="#C" n="131"/>not. de offic judic. &amp; cum favor Christianae libertatis magi 
+      <lb ed="#C" n="132"/>attendatur, quam aliud, ex quo excessit triennium, ab il 
+      <lb ed="#C" n="133"/>vita matre abducetur. infr. eo. ex literis. &amp; ut dicit finis pro¬ 
+      <lb ed="#C" n="134"/>c. bonus, Judex arbitrabitur, apud quem sine periculo¬ 
+      <lb ed="#C" n="135"/>nimae debeat commorari: quia si ubi timetur de mort 
+      <lb ed="#C" n="136"/>corporis, hoc arbitrabitur. C. ubi pupillus educ. deli. &amp; 
+      <lb ed="#C" n="137"/>multo fortius, quando timetur de morte animae arg sup 
+      <lb ed="#C" n="138"/>de majo. &amp; obed solitae C. de sacros. eccl. sancimus. inf. de sim. Ma 
+      <lb ed="#C" n="139"/>thaeus. in fine. &amp; de hoc plenius no. infra de infan. expo. §. 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 14</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 14</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="89"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e205"><!-- nbht7y-l1t14 -->
+            <head xml:id="nbht7y-d1e205-Hd1e101">Titulus 14</head>
+            <head xml:id="nbht7y-d1e205-Hd1e103" type="question-title">De aetate et qualitate et ordine praeficiendorum</head>
+            <p xml:id="nbht7y-d1e205-d1e106">
+               <lb ed="#C" n="23"/>De aetate &amp; qualitate, &amp; ordine prae¬ 
+      <lb ed="#C" n="24"/>ficiendorum. Rubrica XIIII 
+    </p>
+            <p xml:id="nbht7y-d1e205-d1e113">
+               <lb ed="#C" n="25"/>SVMMARIA. 
+      <lb ed="#C" n="26"/>L Minor 30. aunis in episcopum non est praeficiendius 
+      <lb ed="#C" n="27"/>2. Mores clericos nobilitam 
+      <lb ed="#C" n="28"/>3. Rector parochialis cclesiae quis admitti non debet, nisi sit in s¬ 
+      <lb ed="#C" n="29"/>4 Praelatus an possit compellere clericos invitos ad ordines susci 
+      <lb ed="#C" n="30"/>piendo 
+      <lb ed="#C" n="31"/>Clericus coactus ad ordines suscipiendos, an recipiat charact. 
+      <lb ed="#C" n="32"/>6 Defectus scientiae nimius in episcopo, quis dicatur 
+    </p>
+            <p xml:id="nbht7y-d1e205-d1e133">
+               <lb ed="#C" n="33"/>DIctum est supra de ordinandis Sed 
+      <lb ed="#C" n="34"/>quia ordinandi prae¬ 
+      <lb ed="#C" n="35"/>ficiendi sunt, cum nullus ordinandus fits 
+      <lb ed="#C" n="36"/>ne titulo, ut not. infr. de praeb. §. illud. in summa 
+      <lb ed="#C" n="37"/>videamus de praeficiendis. Vel sic dictum est 
+      <lb ed="#C" n="38"/>&amp;c. ut supra, &amp; quia si episcopus aliquem ordinaverit sin¬ 
+      <lb ed="#C" n="39"/>titulo, cogendus est, ut ordinatum praeficiat, etiamsi a pr¬ 
+      <lb ed="#C" n="40"/>decessore ordinatus fuerit, nisi per exceptionem repell 
+      <lb ed="#C" n="41"/>possit: videmus de his, quae requiruntur in praeficiendi 
+      <lb ed="#C" n="42"/>&amp; sic de aetate &amp; qualitate, &amp; caetera. Sed contra. Episco 
+      <lb ed="#C" n="43"/>pus enim illos debet idoneos reputare, quos ad ordine 
+      <lb ed="#C" n="44"/>jam recepit, infra eod. accepimus. §. pen. ibi eo praesertim, qui 
+      <lb ed="#C" n="45"/>ad obtinendum beneficium ecclesiae, &amp;c. Ex quibus ve 
+      <lb ed="#C" n="46"/>bis praecedentibus &amp; sequentibus satis convincitur, quo¬ 
+      <lb ed="#C" n="47"/>episcopus de rigore juris non potest se tueri contra cler¬ 
+      <lb ed="#C" n="48"/>cum, quem ordinavit, excepta aliqua tamen aequitate pe 
+      <lb ed="#C" n="49"/>fata potest. quia delictum personae non debet redundare 
+      <lb ed="#C" n="50"/>in damnum ecclesiae. 16. qu. 6. siepiscopum. sed nihil est quo 
+      <lb ed="#C" n="51"/>magis officiat ecclesiis. ut supr. de elect. c nihil est quod magi 
+      <lb ed="#C" n="52"/>&amp; eanfr. de praeb. c. grave. Sed contra, quia non potest venir 
+      <lb ed="#C" n="53"/>contra factum suum. inf. de fil. presby. veniens, &amp; de cler conju 
+      <lb ed="#C" n="54"/>diversis. vel verum est, ubi propter defectum vult eum re 
+      <lb ed="#C" n="55"/>movere vel repellere: secus, si propter vitium personae in 
+      <lb ed="#C" n="56"/>eod. c. accepimus. in isto enim casu laederetur publica hon¬ 
+      <lb ed="#C" n="57"/>stas, &amp; utilitas, ergo judex occurrere debet. ff. de postula 
+      <lb ed="#C" n="58"/>quos praetor. inf. de excep. I. exceptionem. 36. q. 19. c. quod quis inf¬ 
+      <lb ed="#C" n="59"/>de reb. eccl. non alie. c. siquis presbyterorum. &amp; sic non facit Pa 
+      <lb ed="#C" n="60"/>pa injuriam ordinato. nam &amp; si ponamus, quod uterque ir 
+      <lb ed="#C" n="61"/>culpa sit, &amp; quod episcopus nihil possit objicere superi¬ 
+      <lb ed="#C" n="62"/>ri, tamen non praejudicatur, quo minus examinet eum qu 
+      <lb ed="#C" n="63"/>ab eo petit beneficium, quia ad hoc tenetur ex officio. suj 
+      <lb ed="#C" n="64"/>de ele, cum nobis olim. §. pen. Nec obstat, quia de delicto uniu 
+      <lb ed="#C" n="65"/>saepius quaerendum non est f naut. cau. sta. licet. §. pen. infr.d 
+      <lb ed="#C" n="66"/>offic. leg. licet. quia verum est, quo ad hoc, ut puniatur seu in 
+      <lb ed="#C" n="67"/>modum accusationis. porro in modum exceptionis saepe 
+      <lb ed="#C" n="68"/>&amp; saepius quaeri potest. inf. de testi ctestimonium. Item ad mi 
+      <lb ed="#C" n="69"/>nus locus est gratificationi, sed aequius est, quod gratifice 
+      <lb ed="#C" n="70"/>episcopo, qui in alterius factum aliquam potest allegar¬ 
+      <lb ed="#C" n="71"/>ignorantiam, quam promoto, qui de facto suo certus erat 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0106.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="72"/>sup de rescr ab excommunicato &amp; sup. tit. I.c. I. &amp; 2&amp; f. pro suo 
+      <lb ed="#C" n="73"/>Cult. &amp; sic imputatur ei, quod non procul prodiderit cri 
+      <lb ed="#C" n="74"/>men suum. inf. de cor. vitia exposuisti. 50. dist. ex poenitentib 55. dist 
+      <lb ed="#C" n="75"/>quia simpliciter. 54. dist. si servus. Item hoc notandum est, quo 
+      <lb ed="#C" n="76"/>quamvis esset indignus, vel insufficiens tempore ordina 
+      <lb ed="#C" n="77"/>tionis, non ideo minus cogetur praelatus providere, dum 
+      <lb ed="#C" n="78"/>modo vitium vel defectus purgatus sit, ut patet inf. eo. c. ac 
+      <lb ed="#C" n="79"/>cepimus ibi, ut si ordinatus, pro quo scribimus, idoneus habe 
+      <lb ed="#C" n="80"/>atur no. non dicit, Habebatur. arg. sup. de ele cum inter cano 
+      <lb ed="#C" n="81"/>nicos, &amp; si contradicit. sup de ele. dudum 1u.1. principatus. Sec 
+      <lb ed="#C" n="82"/>amittit exceptionem propter culpam suam, exquo res 
+      <lb ed="#C" n="83"/>ca non offenditur. Item quamvis episcopus ob deli 
+      <lb ed="#C" n="84"/>ctum praesens possit ordinatum repellere, etiamsi non ap 
+      <lb ed="#C" n="85"/>ponatur in literis. non puto tamen, quod propter defecti 
+      <lb ed="#C" n="86"/>ipsum repellere posset, nisi hoc apponeretur. &amp; secundi 
+      <lb ed="#C" n="87"/>hoc intellige quod dicit. inCeo accepimus §. ul. Vel dic, quoc 
+      <lb ed="#C" n="88"/>ex quo quis ordinatus est, &amp; vocatus ad militiam clerica 
+      <lb ed="#C" n="89"/>lem, stipendia quibus sustentetur percipere debet, &amp; sic ir 
+      <lb ed="#C" n="90"/>ecclesia praeficiendus est. 23q9. militare infr. de praeh. extirpan 
+      <lb ed="#C" n="91"/>dae. §. 1. &amp; in praeficiendis quasi eadem requiruntur quae in 
+      <lb ed="#C" n="92"/>ordinandis, ideo post tractatum Ordinandorum, videa 
+      <lb ed="#C" n="93"/>mus de aetate, &amp;c. subaudi, &amp; scientia. haec enim quatuo 
+      <lb ed="#C" n="94"/>principaliter requiruntur, scilicet Aetas, Qualitas, Ordo 
+      <lb ed="#C" n="95"/>Scientia: de singulis igitur videamu:
+    </p>
+            <p xml:id="nbht7y-d1e205-d1e277">
+               <lb ed="#C" n="96"/>Aetas. Quia minor  30. annis non est praeficiendus 
+      <lb ed="#C" n="97"/>in episcopum. quod dic ut non supe. de elect. §. qui 
+      <lb ed="#C" n="98"/>eligi. vers. anni 30. minor tamen aliquando praeficitur, sed 
+      <lb ed="#C" n="99"/>solo Papa dispensatur. hoc sup. de ele, cum nobis olim. §. sin. e 
+      <lb ed="#C" n="100"/>inc innotuit. §. ult. &amp; de transl episc. c1 2. 3. &amp; 4. infr. de offic. leg 
+      <lb ed="#C" n="101"/>quad ranslationem. In dignitatibus autem inferioribus &amp; i 
+      <lb ed="#C" n="102"/>ecclesiis parochialibus aetas 25. annorum determinata est 
+      <lb ed="#C" n="103"/>in qua sufficit, si ultimus annus coeptus sit. a sup. de ele, cum i 
+      <lb ed="#C" n="104"/>in cunctis. §. inferiora. Sed objicitur, quia tales debentessi 
+      <lb ed="#C" n="105"/>presbyteri. inf. eo. c. l. 60. dist.c. 12. &amp;3. sed non debet fieri pres 
+      <lb ed="#C" n="106"/>byter ante 30. ann. Sol. Tempus sacerdotii arctatur in his 
+      <lb ed="#C" n="107"/>de quibus proxime dictum est, secundum Goff. dic ut no 
+      <lb ed="#C" n="108"/>supra de temp. ord. §. &amp; cui post regulas. sub §. sed &amp; praeter. vers 
+      <lb ed="#C" n="109"/>requiritur. Verum in hoc casu secundum Tan. &amp; sequace 
+      <lb ed="#C" n="110"/>suos, nullus similiter dispensat nisi Papa: quia si praelatu 
+      <lb ed="#C" n="111"/>contraveniat, punitur sup. de elect nihil est. ergo ex quo me 
+      <lb ed="#C" n="112"/>retur poenam, non habebit praemium dispensandi. arg infr 
+      <lb ed="#C" n="113"/>de do. inter virum &amp; uxor.c. &amp; si necesse est. cum suis concord 
+      <lb ed="#C" n="114"/>Praeterea, lex dicit, quod nullus potest dispensare in aeta 
+      <lb ed="#C" n="115"/>te, nisi princeps, quamvis possit inquiri veritas per alium 
+      <lb ed="#C" n="116"/>C dehis qui ve aeta. unpe.l..&amp; 2. ergo standum est legi, nisi ca 
+      <lb ed="#C" n="117"/>non contradicat, quia &amp; ipsis utimur in foro nostro, defi¬ 
+      <lb ed="#C" n="118"/>ciente jure canonico. 10. dist. c. 1. &amp;c. siin adjutorium. infra di 
+      <lb ed="#C" n="119"/>nov. oper. nunc. c. I. Joannes contra &amp; dixit, quod praelati ir 
+      <lb ed="#C" n="120"/>hoc dispensare possunt B quantumcunque hoc necessitas e 
+      <lb ed="#C" n="121"/>vel utilitas ecclesiae requirit arg. infra eo. inde eorum tuam.6 
+      <lb ed="#C" n="122"/>c. quaeris. inf de conces praebenccum nostris, cum suis similibus &amp; 
+      <lb ed="#C" n="123"/>intelligebat, quod praelatus puniri debeat, si indiscret. 
+      <lb ed="#C" n="124"/>dispensatur, secundum Goff. in illa cum in cunctis, loqui 
+      <lb ed="#C" n="125"/>tur de jure communi, in illa indecorum, ostendit a quo 
+      <lb ed="#C" n="126"/>anno possint episcopi dispensare. nam &amp; morum probi 
+      <lb ed="#C" n="127"/>tas supplet defectum aetatis. 77. dist. r. 1. C. de praeposi sacr, scri 
+      <lb ed="#C" n="128"/>scire &amp; Lunicuique. lib. 12. &amp; idem eodem modo dissentiunt 
+      <lb ed="#C" n="129"/>infra de praeben. de mulcta. Consentio tamen cum Joan. quo 
+      <lb ed="#C" n="130"/>usque videam jus expressum, dicas quod praelatus in his ne¬ 
+      <lb ed="#C" n="131"/>discrete nec indiscrete dispensare potest, contra, sup. de ele 
+      <lb ed="#C" n="132"/>dudum. c. 2. §. nos igitur. Sol. illam intelligo, si indiscrete dis 
+      <lb ed="#C" n="133"/>pensat, &amp; idem intellige in omnibus defectibus qui infa 
+      <lb ed="#C" n="134"/>miam non inducunt: nam tales soli Papae relinquo, qui so 
+      <lb ed="#C" n="135"/>lus infamiam remittere potest. f.de postu. l.i. §. de qua tractatur 
+      <lb ed="#C" n="136"/>infr. de sent. &amp; re jud. ca. cum te. Si enim vera esset ratio Tan 
+      <lb ed="#C" n="137"/>credi, sequeretur quod nec in simplicibus dispensare pos 
+      <lb ed="#C" n="138"/>set, quia &amp; si illa indigne conferat, punitur. inf. de praeb gra 
+      <lb ed="#C" n="139"/>ve. &amp; hoc etiam contra ti. qui scripsit, quod in minoribu 
+      <lb ed="#C" n="140"/>posset dispensare, nec ob quod qui habet duos personatus 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="141"/>ADDITIONES 
+      <lb ed="#C" n="142"/>a Annus coeptus sit) Addeglincle.ti. de atat. &amp; quael. Bal. &amp; Doc 
+    </p>
+    <p>
+      <lb ed="#C" n="143"/>inc. cum vigesimum. de offic. deleg. Card. Adex. in c. iuvenis. in 2. col. d 
+      <lb ed="#C" n="144"/>spon. 
+      <lb ed="#C" n="145"/>Praelati in hoc dispensarepossunt) Adde Innoc. &amp; An. de Bu 
+      <lb ed="#C" n="146"/>in c. dilectus. de temp. ord. Spec. in tit. de dispensa. §. nunc de episcopo 
+      <lb ed="#C" n="147"/>rum. Doct. inc. at si clerici. in §. de adulterus. de iud--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0107.xml-->
+      <pb ed="#C" n="90"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>infamis videtur, quia illud intelligo cum sine dispensatio 
+      <lb ed="#C" n="2"/>ne tenet, vel cum dispensatione, vel indiscreta. Scio tamen 
+      <lb ed="#C" n="3"/>quod non intelligentibus apparebo mihi ipsi contrarius 
+      <lb ed="#C" n="4"/>tamen, sicut Papa intromittit se de episcopatibus, &amp; nul 
+      <lb ed="#C" n="5"/>lus alius, ita episcopus de personatibus &amp; ecclesiis sibi con 
+      <lb ed="#C" n="6"/>missis. inf. de exces. praelat. sicut unire. &amp; quamvis concilium 
+      <lb ed="#C" n="7"/>Turonense prohibeat divisionem praebendarum, vel per 
+      <lb ed="#C" n="8"/>mutationem personatuum, tamen contra dispensatur. ins 
+      <lb ed="#C" n="9"/>de rerum permut. quaesitum. Et si tu dicas standum legi in a 
+      <lb ed="#C" n="10"/>tate, tibi gratias refero dicit enim lex, quod impuberes ad 
+      <lb ed="#C" n="11"/>mittendi non sunt ad honores, etiam ex causa ff. dejure im 
+      <lb ed="#C" n="12"/>muni. l. 2. §. puberes. ergo a contrario puberes admittendi 
+      <lb ed="#C" n="13"/>sunt ex causa, sicut dicit casus legis. f. ac decurio. non tantum. 
+      <lb ed="#C" n="14"/>§. non alias. sic ergo concordant omnino cum decretali; 
+      <lb ed="#C" n="15"/>qua elicio arg. a contrario. inf. eo. indecorum. necobst. I.G. de hi 
+      <lb ed="#C" n="16"/>qui veniam aetat. impe. quia ibi loquitur quo ad admiistra 
+      <lb ed="#C" n="17"/>tionem rei privatae, non est tantus favor rei privatae sicu 
+      <lb ed="#C" n="18"/>publicae. Item quia illud non fit tantum ex necessitate 
+      <lb ed="#C" n="19"/>quantum ex benignitate. Dico ergo, quod instante neces 
+      <lb ed="#C" n="20"/>sitate ecclesiae, potest episcopus dispensare in defectum 
+      <lb ed="#C" n="21"/>nam video quod cum peccatore dispensat, necessitate exi 
+      <lb ed="#C" n="22"/>gente inf. eod quaeris quanto magis ergo cum illo qui pati 
+      <lb ed="#C" n="23"/>tur defectum, contra concilium dispensare poterit in ho¬ 
+      <lb ed="#C" n="24"/>casu nec intelligitur facere contra concilium, quia sen 
+      <lb ed="#C" n="25"/>per intelligitur ab illa prohibitione seu praecepto, exce 
+      <lb ed="#C" n="26"/>pta necessitas tacite quae non habet legem. infra de reg. 111 
+      <lb ed="#C" n="27"/>quod non est &amp; de observ jejunii concilium. nam &amp; a sacramen 
+      <lb ed="#C" n="28"/>to videtur excepta. fi qui satisd. cogan.l.ult. inf. de jurejur. bre 
+      <lb ed="#C" n="29"/>vi. Sicut enim juramentum contra utilitatem ecclesiae prae 
+      <lb ed="#C" n="30"/>stitum perjurium est. inf. de his quae fi a maj parc. cumin cun 
+      <lb ed="#C" n="31"/>ctis. sic concilium contra utilitatem ecclesiae promulgati 
+      <lb ed="#C" n="32"/>vel intellectum irrationabile judico, &amp; si ratione caret con 
+      <lb ed="#C" n="33"/>cilium seu intellectus, caret &amp; jure. inf. dist. consuetudo supr 
+      <lb ed="#C" n="34"/>de consuet, capit.i. &amp; de constit. quae in ecclesiarum. &amp; cap. ecclesia 
+      <lb ed="#C" n="35"/>&amp; infra de sentent. excommun. noverit. ex quo etiam rationt 
+      <lb ed="#C" n="36"/>caret, extirpandum est 68. distin corepiscopi. 36. dist. §. ecce ub 
+      <lb ed="#C" n="37"/>dicitur, quod talis debet esse episcopus, qui omni poscen 
+      <lb ed="#C" n="38"/>ti sciat reddere rationem. Qui ergo voluerit contradicere 
+      <lb ed="#C" n="39"/>dicat rationem, &amp; ero cum eo. Sed male intelligit ecclesi 
+      <lb ed="#C" n="40"/>asticas regulas, qui hoc negat. 7 qu..scias. nsin. nec obst. c prae 
+      <lb ed="#C" n="41"/>cedens, in fin. quia iliud de episcopis. mfr. de exces prael sicut unire 
+      <lb ed="#C" n="42"/>7. q4.I. episcopus infin nam ex necessitate instante, diaconiss. 
+      <lb ed="#C" n="43"/>minor. Iannis allumitur. in authent. quomodo oport. episcop.? 
+      <lb ed="#C" n="44"/>quanta igitur. coli. ad hoc iq. 7. tali. &amp; c. stilla. Item in praeben 
+      <lb ed="#C" n="45"/>aetas desideratur, quia pueri ad praebendum idonei no 
+      <lb ed="#C" n="46"/>reputantur. infra de praebend super inordinata. quod dic, ut ib 
+      <lb ed="#C" n="47"/>not. hoc de rigore juris. nam consuetudo curiae ad prae 
+      <lb ed="#C" n="48"/>sens stat opinioni 
+    </p>
+            <p xml:id="nbht7y-d1e205-d1e490">
+               <lb ed="#C" n="49"/>Qualitas. Quantum ad mores? hi enimclericurm 
+      <lb ed="#C" n="50"/>nobilitant, non genus. infra de praeb. venera 
+      <lb ed="#C" n="51"/>bilis. §. nos igitur. quod dic ut nont. infra de inst. §. quis institu 
+      <lb ed="#C" n="52"/>vers. instituendus. Item quod non sit excommunicatus, ve 
+      <lb ed="#C" n="53"/>suspensus, vel interdictus. infra eod, cum bonae. &amp; adde quo¬ 
+      <lb ed="#C" n="54"/>not. supra de temp. ordi §. &amp; qualiter. §. &amp; cui. &amp; supra de elec 
+      <lb ed="#C" n="55"/>§. quis eligi 
+    </p>
+            <p xml:id="nbht7y-d1e205-d1e508">
+               <lb ed="#C" n="56"/>Ordo. Quia etiam ad ecclesiam parochialem 
+      admit<lb ed="#C" n="57" break="no"/>ti non debet, nisi sit in sacris, sed tamen in hoc c 
+      <lb ed="#C" n="58"/>in dignitatibus minoribus possunt episcopi dispensare se 
+      <lb ed="#C" n="59"/>cundum omnes, ut infra eodem. praeterea. Respondeat erg¬ 
+      <lb ed="#C" n="60"/>Tancre. &amp; sequaces. quare non in aetate, cum illud videa 
+      <lb ed="#C" n="61"/>tur minus periculum, quam in ordine. aetas enim multo 
+      <lb ed="#C" n="62"/>ties anticipatur. infr. de despons. impub. puberes &amp; solo lapsi 
+      <lb ed="#C" n="63"/>temporis suppletur. ordo vero non datur nisi per manu 
+      <lb ed="#C" n="64"/>impositionem. mf. de sacra non iteran.c.ult. ne onus ejusden 
+      <lb ed="#C" n="65"/>sive ministerium aliquis scire potest, nisi expertus, ide¬ 
+      <lb ed="#C" n="66"/>subdiaconus eligi potest, etiam in episcopum: quia cun 
+      <lb ed="#C" n="67"/>ministret altari, particeps est secretorum, &amp; sacerordo es 
+      <lb ed="#C" n="68"/>inf. eo. a multis. in princ. &amp; infin. &amp; necesse est, quod is qui el 
+      <lb ed="#C" n="69"/>gitur in sacris sit. 60. dist. c.ult. &amp; per totum. sup. de elect, cum n 
+      <lb ed="#C" n="70"/>cunctis. &amp; c. dudum. Inno. Idem videtur in acolyto, si talis 
+      <lb ed="#C" n="71"/>sit, quod in brevi possit ordinari. quod concedo in episco 
+      <lb ed="#C" n="72"/>patu ex dispensatione Papae tantum, &amp; idem visum fuit a 
+      <lb ed="#C" n="73"/>liquibus ex dispensatione Metropolitani. 60. dist. in episco 
+      <lb ed="#C" n="74"/>pum. inf. eo. a multis. respon. I. ad sin. cum illud per nullum ju 
+      <lb ed="#C" n="75"/>expresse revocetur. ego tamen credo hoc tacite revoc. 
+      <lb ed="#C" n="76"/>tum. argum. in his quae not. supr. eod. §. aetas. 18. distin. multis. i. 
+      <lb ed="#C" n="77"/>fin. 56. Apostolica. &amp;c. Cenomanensem. &amp;c. quia simpliciter. in 
+      <lb ed="#C" n="78"/>de cor. vitia. c. 2. &amp; vide quod not. infra de fil. presoyter. §. in 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0107.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>vers. circa hoc notandum. ergo in episcopatibus solus Pap¬ 
+      <lb ed="#C" n="80"/>dispensat, in minoribus autem dispensabit episcopus ne 
+      <lb ed="#C" n="81"/>cessitate, vel utilitate urgente, unde cum abbate in tali ar¬ 
+      <lb ed="#C" n="82"/>ticulo dispensat. mfra eodem, tuam est &amp; alia ratio quare 
+      <lb ed="#C" n="83"/>subdiaconus eligi potest, quia ita conjunctus est ecclesiae 
+      <lb ed="#C" n="84"/>quod de caetero non potest pedem retrahere. inf.ro. a mul¬ 
+      <lb ed="#C" n="85"/>tis. §. verum. &amp; cum diaconus eodem privilegio gaudet. 
+      <lb ed="#C" n="86"/>inf. de serris non ordma nuranur. Sed cum plures invenian 
+      <lb ed="#C" n="87"/>tur, qui aetatem anticipant, quam qui sine experientia ex 
+      <lb ed="#C" n="88"/>ercitium ordinis habent, hi qui concedunt, quod in ordi¬ 
+      <lb ed="#C" n="89"/>ne valeant episcopi dispensare multo fortius hoc debeni 
+      <lb ed="#C" n="90"/>concedere inaetate. Circa hoc quaeritur, utrum praelatu 
+      <lb ed="#C" n="91"/>possit? compellere clericos imoitos e ad ordines recipi¬ 
+      <lb ed="#C" n="92"/>endos? &amp; videtur quod non 6.dist.c&amp; 2&amp;c. ubi ista. Sed 
+      <lb ed="#C" n="93"/>quidam canones innuunt contrarium. 74. dist. si qui cleri 
+      <lb ed="#C" n="94"/>&amp;c. placuit. Sol. Non compelluntur absoluta coactione, ut 
+      <lb ed="#C" n="95"/>in primis concord. sed conditionaliter compelluntur, ui 
+      <lb ed="#C" n="96"/>in contrariis. Sed qualiter compullentur per subtractio 
+      <lb ed="#C" n="97"/>nem beneficii, vel dignitoeis. 74. dist episcoporum. Sed con 
+      <lb ed="#C" n="98"/>tra, qui aliter compellendi sunt, scili. ut minores, &amp; poste¬ 
+      <lb ed="#C" n="99"/>riores majoribus &amp; prioribus tempore in sede, &amp; in per 
+      <lb ed="#C" n="100"/>ceptione beneficii praeferantur, ut si majores videntes mi 
+      <lb ed="#C" n="101"/>nores promotos honorem quem refugerant appetere co 
+      <lb ed="#C" n="102"/>gantur, &amp; quaestum. 74. dist.c. consuluit. hanc consideratio 
+      <lb ed="#C" n="103"/>nem videtur habuisse Greg. inf. de majo &amp; obe statuimus. So 
+      <lb ed="#C" n="104"/>lu. Primum jus loquitur, quando necessitas ecclesiae, se¬ 
+      <lb ed="#C" n="105"/>cundum, quando utilitas ejusdem ecclesiae exigit, ut cleri¬ 
+      <lb ed="#C" n="106"/>cus ordinetur. secundum Hug haec solut. videtur impro 
+      <lb ed="#C" n="107"/>bari. inf. eod. quaerns. ibi loquitur de necessitate vel utilitat. 
+      <lb ed="#C" n="108"/>alternative, &amp; in utroque casu dicit eodem modo clerici 
+      <lb ed="#C" n="109"/>compellendum. Ideo dicunt alii, quod cum diversae poe 
+      <lb ed="#C" n="110"/>nae statuantur, potest incipere judex, a qua maluerit: ad a 
+      <lb ed="#C" n="111"/>liam, si protervitas contumacis exegerit, nihilominus pro 
+      <lb ed="#C" n="112"/>cessus. inf. ut lit. non conte c. quontam frequenter. §. ult. Frate 
+      <lb ed="#C" n="113"/>Raymundus distinguit, utrum si clericus habens dignita 
+      <lb ed="#C" n="114"/>tem vel beneficium, cui certus ordo annexus est: puta ab 
+      <lb ed="#C" n="115"/>bas est, vel decanus, vel praepositus, vel archipres byter, qui 
+      <lb ed="#C" n="116"/>debet esse presbyter, vel archidiaconus, qui debet esse di 
+      <lb ed="#C" n="117"/>aconus: &amp; tunc per subtractionem beneficii compellitur 
+      <lb ed="#C" n="118"/>inf. eo. c. 1. 61. dist.c. nullus. nisi forte justa causa excuset cleri 
+      <lb ed="#C" n="119"/>cum, in quam sine culpa sua inciderit. supra de elect, cum in 
+      <lb ed="#C" n="120"/>cunctis inferiora. &amp; §. haec sane. nec obstat appellatio. ut ib 
+      <lb ed="#C" n="121"/>dicit. 60. dist. iniovamus. quidam tamen non admittunt hum 
+      <lb ed="#C" n="122"/>casum: quia si aliqua justa causa interveniente, promove 
+      <lb ed="#C" n="123"/>ri non possunt, praelationes amittunt. inf. eod c.i. Sed quod 
+      <lb ed="#C" n="124"/>ibi dicit, quod si aliqua justa causa prohibente subaudien¬ 
+      <lb ed="#C" n="125"/>dus, in quam inciderit culpa sua. puta quia maritus ipsum 
+      <lb ed="#C" n="126"/>inveniens cum uxore, cepit vindictam de fratrib. vel ipse 
+      <lb ed="#C" n="127"/>met credens placere Deo, fecit sibi virilia amputari. inf. d 
+      <lb ed="#C" n="128"/>cor. vitia. ex parte Bartholomaei, &amp;c. significarit. alioqui con 
+      <lb ed="#C" n="129"/>tra, quia non est addenda afflictio afflicto. infr. de cler. aegro 
+      <lb ed="#C" n="130"/>c.i. 55. dist. praecepta ff. de sta hom qui furem. ff. de post. l.1.§. casum 
+      <lb ed="#C" n="131"/>hoc breviter intelligo, quod si culpa non praecessit casum 
+      <lb ed="#C" n="132"/>ei imputabitur, sicut nec medico imputatur, si potionen 
+      <lb ed="#C" n="133"/>dat, &amp; infirmus aliquo fortuito casu moriatur, ita quoc 
+      <lb ed="#C" n="134"/>medicus non deprehendatur in culpa antefactum, vel in 
+      <lb ed="#C" n="135"/>facto, vel post factum. inf eod. ad aures. Ante factum depre 
+      <lb ed="#C" n="136"/>henditur in culpa, quando non est peritus in arte, vel quam 
+      <lb ed="#C" n="137"/>do intromisit se de ministerio alieno: puta religiosus es 
+      <lb ed="#C" n="138"/>qui intromittit se de chirurgia, quod officium ad ipsum nor 
+      <lb ed="#C" n="139"/>pertinet. infr. dehomi c. tua nos. In facto autem deprehenditu 
+      <lb ed="#C" n="140"/>etiam culpa, quando non dedit potionem juxta traditiones 
+      <lb ed="#C" n="141"/>artis, imo innitebatur prudentiae suae contra jura. suprad 
+      <lb ed="#C" n="142"/>conft.c. &amp;c. ne innitaris. Ex post facto in culpa deprehendi 
+      <lb ed="#C" n="143"/>tur, quando circa custodiam infirmi non apponit diligen 
+      <lb ed="#C" n="144"/>tiam, quam deberet, nec excusatur, si custodiam minui 
+      <lb ed="#C" n="145"/>diligentem dimiserit, ubi videbatur periculum immine 
+      <lb ed="#C" n="146"/>re arg. infr. de offic. arch c. ea quae. caveat ergo ne plures cura 
+      <lb ed="#C" n="147"/>simul, &amp; semel recipiat, quia si infirmitas continuam diligen 
+      <lb ed="#C" n="148"/>tiam exigit plurib. intentus. &amp;c. &amp; dum ad utrunque festinat, &amp; 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="149"/>ADDITIO 
+      <lb ed="#C" n="150"/>c Clericos invitos) Adde Io. And. in c. licet canon. de elect. lib. 6 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>in nevella. Ray. in summa tit. de aetate ordi. in §. num episcopus possi 
+      <lb ed="#C" n="152"/>compellere. &amp; in summa confessorum cod tit. in §. 48. intis. de obedi 
+      <lb ed="#C" n="153"/>entid. arg. 4. vers. nunquid pralatus.--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0108.xml-->
+      <pb ed="#C" n="91"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>inf de eler. conju.c. diversus haec triplex culpa colligitur. inf 
+      <lb ed="#C" n="2"/>eod adaures, &amp; fad laquil. I qua actione §. fi. &amp; l. seq. Ergo se 
+      <lb ed="#C" n="3"/>cundum fra Raym. quando certus ordo annexus est be 
+      <lb ed="#C" n="4"/>neficio, per subtractionem beneficii compellitur. quo 
+      <lb ed="#C" n="5"/>intelligo ut praemisi. Sivero beneficium non habeat ar 
+      <lb ed="#C" n="6"/>nexum certum ordinem, &amp; necessitas ecclesiae requirit 
+      <lb ed="#C" n="7"/>quodclericus promoveatur, si clericus excusat se occasio 
+      <lb ed="#C" n="8"/>ne criminis quod se commisisse proponit, aut aliud impe 
+      <lb ed="#C" n="9"/>dimentum praetendit, intelligas in quo inciditculpa su 
+      <lb ed="#C" n="10"/>tunc episcopus debet promoveri inferiores idoneos, &amp; i 
+      <lb ed="#C" n="11"/>psum etiam clericum, nisi alias sit valde utilis, &amp; necessa 
+      <lb ed="#C" n="12"/>rius illi ecclesiae a dicto beneficio penitus amovere. infv. e 
+      <lb ed="#C" n="13"/>Equeris. §.. &amp; sic potest intelligi 74. dist. consulni. Ubi vero prae 
+      <lb ed="#C" n="14"/>tendit impedimentum temporale, puta infirmitatem, ve 
+      <lb ed="#C" n="15"/>perpetuum ex delicte suo non proveniens, non solum ni 
+      <lb ed="#C" n="16"/>cogitur, sed si ejus non admittatur excusatio, a tali grava 
+      <lb ed="#C" n="17"/>mine poterit appellare, sicut &amp; tutor appellat ob excusa 
+      <lb ed="#C" n="18"/>tionem rationabilem non admissam. ff. quando appell. sit.I. 
+      <lb ed="#C" n="19"/>§. si quis tutor. Sed &amp; videtur sufficere, si se probaturum of 
+      <lb ed="#C" n="20"/>ferens admissus non fuit. inf. de app interposita. Quod si sol¬ 
+      <lb ed="#C" n="21"/>voluntate renuit ordinari, nihil praetendens, nisi quia non 
+      <lb ed="#C" n="22"/>vult, debet compelli appel. re per subtractionem officii, &amp; 
+      <lb ed="#C" n="23"/>beneficii. 74. dist. 3. &amp; 4. Sed si necessitas vel utilitas eccle 
+      <lb ed="#C" n="24"/>siae non exigit. invitum cogere non debet: &amp; si hoc facit 
+      <lb ed="#C" n="25"/>puniendus est 74. dist.c..&amp;2. &amp;c. ubi ista. Dicitur autem uti 
+      <lb ed="#C" n="26"/>litas ecclesiae exigere, quando indiget aliquibus ministri 
+      <lb ed="#C" n="27"/>in certis officiis. nam certa ministeria certos requirunt or 
+      <lb ed="#C" n="28"/>dines, unde serviendum est ecclesiae in eo ordine, quem i 
+      <lb ed="#C" n="29"/>psius cura requirit. inf. de praeb. extrrpandae §. qui vero parochi 
+      <lb ed="#C" n="30"/>alem, ergo in ecclesia cathedrali, vel conventuali quae plu 
+      <lb ed="#C" n="31"/>res diaconos, plures subdiaconos, &amp; sic de reliquis, requi 
+      <lb ed="#C" n="32"/>rit in diversis ordinibus constitutos, bonus episcopus ar 
+      <lb ed="#C" n="33"/>bitrabitur cum nec unus semper de facili servire posset 
+      <lb ed="#C" n="34"/>urg. inf. de off. archid c2. de off. archipresb C2. quod dic. ut no. in 
+      <lb ed="#C" n="35"/>inf. de praeb. §. cui conferenda sit. vers. sed nunquid pueris. In ho 
+      <lb ed="#C" n="36"/>ergo casu, quando ecclesia est servitoribus destituta. mfr¬ 
+      <lb ed="#C" n="37"/>de cle. non resid. cum ad haec. &amp; requirit utilitas ecclesiae, quo 
+      <lb ed="#C" n="38"/>ille ordinetur, cui episcopus praecipit, quamvis in ecclesi 
+      <lb ed="#C" n="39"/>praeter hunc quem episcopus cogit, alii idonei valeant re 
+      <lb ed="#C" n="40"/>periri, necessitas vere exigit, quado nullus alius idoneu 
+      <lb ed="#C" n="41"/>in ecclesia reperitur. Sed quid si episcopus dicat, Proba ex 
+      <lb ed="#C" n="42"/>cusationem, quia non sufficit de re nisi probetur. ff. de pr¬ 
+      <lb ed="#C" n="43"/>cur. quae omnia inf. de conc. praeb. cum super quaestione. &amp;c. ex par 
+      <lb ed="#C" n="44"/>ce, Asten. ad fi. inf. de his quae fi. a ma par, cap. c. I. §. 1. dico, quo 
+      <lb ed="#C" n="45"/>nihil habet necesse probare. inf. eo quaeris. resp. 1. ibi secret. 
+      <lb ed="#C" n="46"/>commisisse dicentes, id est, injudicio animae nam si in ju 
+      <lb ed="#C" n="47"/>diciali removeretur. 24. dist.c. ult. &amp; esset notorium juri 
+      <lb ed="#C" n="48"/>anf. de cohab. cler. &amp; mul. c. ult. secundum Goff. hoc non ad 
+      <lb ed="#C" n="49"/>mitto, quia propter talem confessionem, sc in poenitenti, 
+      <lb ed="#C" n="50"/>factam, nulla poena infligeretur. inf. de off. ord. si sacerdos. di¬ 
+      <lb ed="#C" n="51"/>ergo secreto non tanquam sacerdoti, nec tanquam judici 
+      <lb ed="#C" n="52"/>sed tanquam socio, vel se excusando ab eo quod praecipitu 
+      <lb ed="#C" n="53"/>judice tamen non sedente pro tribunali, vel sedente, se¬ 
+      <lb ed="#C" n="54"/>solo. vel dic bonam gl. Goff. ad excludendas fraudes &amp; ma 
+      <lb ed="#C" n="55"/>litias. intelligas tamen, quod non prodat peccatorem, se¬ 
+      <lb ed="#C" n="56"/>procedat, ac si nihil audisset. &amp; adde quod not. inf. eo. verj 
+      <lb ed="#C" n="57"/>quid si utilitas. Potest etiam dici, quod hic confertur no 
+      <lb ed="#C" n="58"/>tanquam sacerdoti, nec tanquam judici, sed tanquam epi 
+      <lb ed="#C" n="59"/>scopo ordinatori, quasi hoc sit mistum forum inter poen 
+      <lb ed="#C" n="60"/>tentiale, &amp; judiciale: quod dic, ut non. sup. de scruti §. ult. ver 
+      <lb ed="#C" n="61"/>quid si confiteatur. &amp; adde huic materiae, quod non sup. de ele? 
+      <lb ed="#C" n="62"/>quis possit eligere sub §. &amp; qui nullo jure. Quaeritur etiam 
+      <lb ed="#C" n="63"/>utrum coactusF recipiat characterem, cum invitus ordina 
+      <lb ed="#C" n="64"/>tus sit? ad hoc dicas, quod sic, si coactio fuit conditionali 
+      <lb ed="#C" n="65"/>arg74. dist. ubi ista 65 ist. de Iudaeis. 1. q.1 quod quidam qui salt 
+      <lb ed="#C" n="66"/>indirecte noluit. 154. 1. merito. Si vero coactio fuerit abso 
+      <lb ed="#C" n="67"/>luta, tunc non recipit characterem ordinis, sicut nec bapt 
+      <lb ed="#C" n="68"/>smi. inf. de bap majores. § pen &amp; ult. Sed nunquid conditiona 
+      <lb ed="#C" n="69"/>liter coacti teneantur continere dicunt quidam, quod si¬ 
+      <lb ed="#C" n="70"/>nam licet non debuerint sic compelli, tamen ex quo susce 
+      <lb ed="#C" n="71"/>perunt, continere debent, &amp; ad hoc compellendi sunt, n 
+      <lb ed="#C" n="72"/>ordo videatur contemni. arg in dictisc. de Iudaeis. &amp; c.omerito 
+      <lb ed="#C" n="73"/>maxime cum ordo sacer votum continentiae habeat an 
+      <lb ed="#C" n="74"/>nexum arg 33. dist. diaconi. 34. dist. cum in praeterito. Joannes i 
+      <lb ed="#C" n="75"/>dem si non fuit coactio, quae poterat cadere in constanté 
+      <lb ed="#C" n="76"/>ins. quod met. causa . c. pen. alioquin contra. ins. quod met. causa. 
+      <lb ed="#C" n="77"/>1. inf. de spons. veniens. 2. &amp;c. consulti. integritas enim corpori 
+      <lb ed="#C" n="78"/>suaderi potest, non imperari. 334.. integritas. nec debetu 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0108.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>continentia, nisi voluntaria. 31. distin antetriemium. 20. 43 
+      <lb ed="#C" n="80"/>praesens clericus. Sed pone, quod non tenetur continere, qui¬ 
+      <lb ed="#C" n="81"/>ordinatus est tali metu interveniente, qui potuit cadere 
+      <lb ed="#C" n="82"/>in constantem, nunquid utetur privilegio ciericali? vide 
+      <lb ed="#C" n="83"/>tur quod sic: dum tamen clericaliter vivat. arg32. dist. siqu 
+      <lb ed="#C" n="84"/>vero sunt clerici nisi transeat ad actum penitus contrarium 
+      <lb ed="#C" n="85"/>88. dist. quisquis vel dic, quod si prius habebat uxorem legi 
+      <lb ed="#C" n="86"/>timam, sine peccato poterit illa uti. &amp; secundum hoc potes 
+      <lb ed="#C" n="87"/>solvi praecedens quaestio, si tamen ipsa se continere vellet 
+      <lb ed="#C" n="88"/>&amp; ipse nollet non haberet privilegium: sed si ipsa nollet, &amp; 
+      <lb ed="#C" n="89"/>ipse vellet, quantum in se esset, &amp; viveret clericaliter, pri¬ 
+      <lb ed="#C" n="90"/>vilegium retineret, ut dictum est. argu. 28. 9 2 multorum. S 
+      <lb ed="#C" n="91"/>vero ante uxorem legitimam non habebat, praecise cogi 
+      <lb ed="#C" n="92"/>tur continere arg. in a.c. de Iudaeis. secundum Goff. Quid si 
+      <lb ed="#C" n="93"/>clericus petit ordinari, sed praelatus contradicit, qui forte 
+      <lb ed="#C" n="94"/>novit secretum impedimentum? respon. Si est clericus se 
+      <lb ed="#C" n="95"/>cularis, &amp; secretum crimen non est enorme, moneri de 
+      <lb ed="#C" n="96"/>bet ut desistat: sed si monitus adhuc instat, prohiberi non 
+      <lb ed="#C" n="97"/>potest. supra de temp. ord. ex literarum. si vero sit enorme 
+      <lb ed="#C" n="98"/>prohiberi potest, quia aequiparatur mediocri manifesto 
+      <lb ed="#C" n="99"/>ut sup. de temp. ordS &amp; cui: sub prima regula. §. hodie standum 
+      <lb ed="#C" n="100"/>&amp; seq. Idem intelligas si praelatus scit clericum impedi 
+      <lb ed="#C" n="101"/>tum ob defectum natalium. arz. sup. de elect. innotuit. vel ol 
+      <lb ed="#C" n="102"/>irregularitatem, puta bigamiam, vel aliam. In his enim ca 
+      <lb ed="#C" n="103"/>sibus non ordinabit, nec facient ordinari. Sed opponitur 
+      <lb ed="#C" n="104"/>de corpore Christi, quod est majus omnibus sacramen 
+      <lb ed="#C" n="105"/>tis. de consec. dist. 2. nihil &amp; tamen de ipso dicitur, quod di 
+      <lb ed="#C" n="106"/>spensator non prohibeat pingues terrae, id est, peccatore 
+      <lb ed="#C" n="107"/>mensam Domini manducare. Sed exactorem timere mo¬ 
+      <lb ed="#C" n="108"/>neat. de consec. dist. 2. non prohibeat. &amp; Dominus Judae buccel 
+      <lb ed="#C" n="109"/>lam tradidit: de consec. dist. 2. sancta,. &amp; c sicut Iudas, scilicet di¬ 
+      <lb ed="#C" n="110"/>Jovis sancti, cum praecedenti die proditionem fecisset. d 
+      <lb ed="#C" n="111"/>consec dist. 2.liquido. Ad primum respon. quod illud locum 
+      <lb ed="#C" n="112"/>habet in corpore Christi, ad quod suscipiendum sola con 
+      <lb ed="#C" n="113"/>tritio facit habilem. de consec. distinct. 2. quotidie. Secus in 
+      <lb ed="#C" n="114"/>ordine ad quem nec peracta poenitentia facit dignum,s 
+      <lb ed="#C" n="115"/>de crimine eorum agatur, ut not. in d. §. &amp; cui. sup. de temp 
+      <lb ed="#C" n="116"/>ord. vers. hodie. Ad secundum sic respon. hoc fecit Domi 
+      <lb ed="#C" n="117"/>nus, qui superior est omni jure, cui dici non potest, cu 
+      <lb ed="#C" n="118"/>ita facis. quod tamen ideo fecit, ut nos instrueret occul¬ 
+      <lb ed="#C" n="119"/>ros peccatores per tolerantiam sustinere. 2qu. 1. unus in fi 
+      <lb ed="#C" n="120"/>vel responde ad utrunque simul, &amp; dic aliud in sacra 
+      <lb ed="#C" n="121"/>mentis necessitatis, &amp; aliud in sacramentis dignitatis. 
+      <lb ed="#C" n="122"/>g. 1§. sed notandum. Si ergo decr. illa, ex literarum. Io 
+      <lb ed="#C" n="123"/>quitur in seculari, cujus peccatum occultum, nec enor 
+      <lb ed="#C" n="124"/>me, tamen est notum praelato, vel quando habet benefi 
+      <lb ed="#C" n="125"/>cium, cui certus ordo annexus est, unde habet jus peten¬ 
+      <lb ed="#C" n="126"/>di: secus si non habeat jus. supra de temp. ord. ad aures: ve 
+      <lb ed="#C" n="127"/>dic, quod prima decr. loquitur in seculari, secunda in re¬ 
+      <lb ed="#C" n="128"/>gulari, qui voluntatem non habet, &amp; ideo magis adstri 
+      <lb ed="#C" n="129"/>ctus est obedire quam secularis. 12. q. 1. nolo. non dicati: 
+      <lb ed="#C" n="130"/>secundum Goffred. Sed qualiter impedietur clericus se 
+      <lb ed="#C" n="131"/>cularis, etiam ob enorme peccatum occultum: nam s 
+      <lb ed="#C" n="132"/>praelatus hoc scit tanquam sacerdos d celare debet. inf. 
+      <lb ed="#C" n="133"/>de offi. ord. si sacerdotes. 33. quaest. 5. Christiana. 32. distinct erube 
+      <lb ed="#C" n="134"/>scant. &amp; sic justam causam non reddit, potest haberi re 
+      <lb ed="#C" n="135"/>cursus ad superiorem. infra de jure patron nullus. forte spe 
+      <lb ed="#C" n="136"/>ciale est hoc, quod non devolvetur potestas ad superio 
+      <lb ed="#C" n="137"/>rem per negligentiam. arg. 99. 2. c.1 &amp; 2. Alii dicunt con 
+      <lb ed="#C" n="138"/>trarium, &amp; quod etiam episcopus cum sciat peccatum, tan 
+      <lb ed="#C" n="139"/>quam Deus, non dicitur facere contra conscientiam, si 
+      <lb ed="#C" n="140"/>eum tanquam episcopus promoveat, quia tanquam aliu 
+      <lb ed="#C" n="141"/>scit, &amp; tanquam alius ordinat. arg supra de elect. cum interu¬ 
+      <lb ed="#C" n="142"/>niversas, ad fi. Quid si utilitas ecclesiae exigit, quod aliquis 
+      <lb ed="#C" n="143"/>ordinetur, tamen episcopus non ex causa, sed exodii fomi 
+      <lb ed="#C" n="144"/>te movetur ad ipsum compellendum non videtur quoc 
+      <lb ed="#C" n="145"/>inferior debeat obedire: quia licet ordinatio sit utilis, ta¬ 
+      <lb ed="#C" n="146"/>men episcopus sic praecipiens deponi debet. arg. 45. dist. c. 1. 
+      <lb ed="#C" n="147"/>&amp; c. episcopum. inf. eo tuam. dic contra, quia ex quo malun 
+      <lb ed="#C" n="148"/>non est quod praecipitur, semper obediendum est. 173 
+      <lb ed="#C" n="149"/>quid ergo. 23. quaest. 1. quid culpatur. ad fi. 24. q. 5. manifestum 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="150"/>ADDITIONES 
+      <lb ed="#C" n="151"/>d Tanquam sacerdos.) Adde Abb. in fi de test. cogen. Abb. in 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>qualiter, &amp; quando el. I de accus. Abb. in c. si sacerdos de off. ord. Abb 
+      <lb ed="#C" n="153"/>inc dilectus. de exces prael. Abb. inc. omnis utrinsque sexus de panis 
+      <lb ed="#C" n="154"/>&amp; remiss. Dem. inc. ipsi Apostoli 2. q.7--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0109.xml-->
+      <pb ed="#C" n="92"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>&amp; vide quod not. supr. eod. ver. quid si episcopus Circa hoc no 
+      <lb ed="#C" n="2"/>tandum, quod qui reputat dignus ad unum ordinem, ve 
+      <lb ed="#C" n="3"/>honorem, non debet indignus ad alium reputari. infr. ec 
+      <lb ed="#C" n="4"/>accepimus. 74. dist. gesta. i.qu.. sicut Christus argum. inf. de accus¬ 
+      <lb ed="#C" n="5"/>tio. nonnulli. inf. de sent. excom. in praesentia ff. de lib. causa. qui 
+      <lb ed="#C" n="6"/>sciens. ff. ad l. Iul. de adult. si uxor. in fi. ff. sol. matr. viro atqu 
+      <lb ed="#C" n="7"/>uxori 
+    </p>
+            <p xml:id="nbht7y-d1e205-d1e1076">
+               <lb ed="#C" n="8"/>Scientia exigitur? minens, sed competens tole 
+      <lb ed="#C" n="9"/>ratur. supr. de renunc. nisi cum 
+      <lb ed="#C" n="10"/>pridem. §. pro defectu. quae autem dicatur competens, dete¬ 
+      <lb ed="#C" n="11"/>minare non possum, quia secundum varia loca variae re 
+      <lb ed="#C" n="12"/>gulae tradendae essent, ideo arbitrio judicis relinquendun 
+      <lb ed="#C" n="13"/>de eo quod cler lo. da opor. ideo in arbitrium. inf. ae off. deleg 
+      <lb ed="#C" n="14"/>de causis. §. 1. hoc est boni viri. ff. de verb. oblig. continuus. arbi 
+      <lb ed="#C" n="15"/>trabitur ergo judex in omnibus, sed in canonico eminen 
+      <lb ed="#C" n="16"/>tem scientiam non requiret. infr. de praeben. venerab. in fi. in 
+      <lb ed="#C" n="17"/>sacerdote requiret, quod sciat librum sacramentorum, le 
+      <lb ed="#C" n="18"/>ctionarium, antiphonarium, baptisterium, computum 
+      <lb ed="#C" n="19"/>canones poenitentiales, est illud nf de contrah. emp. c. 2. &amp;s 
+      <lb ed="#C" n="20"/>miles. de quib not. sup. de paenit. §. quae poenitentia sub §. ut auten 
+      <lb ed="#C" n="21"/>sacerdos psaltertum, homilias per anni circulum diebus Do 
+      <lb ed="#C" n="22"/>minicis: &amp; aliis diebus apertis, quorum si unum deficit 
+      <lb ed="#C" n="23"/>vix in eo nomen sacerdotis constabit. 38. dist. quae ipsis. 8 
+      <lb ed="#C" n="24"/>secundum quod majorem parochiam habet, majus requi 
+      <lb ed="#C" n="25"/>ret. infra eod. cum sit ars. Nimius autem defectus in ep¬ 
+      <lb ed="#C" n="26"/>scopum, si Donatum non audierit. infr. eo .c. si. de cujus de 
+      <lb ed="#C" n="27"/>ctrina &amp; scientia dicut not. supr. de temp. ord. §. cui sub octa 
+      <lb ed="#C" n="28"/>ctava regula doctorum. Item scientia attendenda est respe 
+      <lb ed="#C" n="29"/>ctu loci, quia licet habeat competentem scientiam in A 
+      <lb ed="#C" n="30"/>gensi ecclesia, non tamen in Tolosana supr. de ele. mcau 
+      <lb ed="#C" n="31"/>sis. in fi ad idem. supra de ele scriptum § fi. caveat tamen judex 
+      <lb ed="#C" n="32"/>ne dicat sufficientem eum qui insufficiens est vel ecor 
+      <lb ed="#C" n="33"/>verso. argum supr de rescript, cum contingat prope fi. vers. caete 
+      <lb ed="#C" n="34"/>rum. ergo in majori loco propter majorem utilitatem 
+      <lb ed="#C" n="35"/>major scientia requiritur supra de translat. episcopi. cap 
+      <lb ed="#C" n="36"/>si. prope fi. quia circa majora, majus periculum vertitur 
+      <lb ed="#C" n="37"/>42 dist quiescamus 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

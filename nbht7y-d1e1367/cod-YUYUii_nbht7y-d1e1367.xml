@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 44</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 44</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="531"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1367"><!-- nbht7y-l3t44 -->
+            <head xml:id="nbht7y-d1e1367-Hd1e101">Titulus 44</head>
+            <head xml:id="nbht7y-d1e1367-Hd1e103" type="question-title">De custodia eucharistiae, chrismatis et aliorum sacramentorum</head>
+            <p xml:id="nbht7y-d1e1367-d1e106">
+               <lb ed="#C" n="44"/>De Custodia Eucharistiae. Rubri 
+      <lb ed="#C" n="45"/>ca XLIIII 
+    </p>
+            <p xml:id="nbht7y-d1e1367-d1e113">
+               <lb ed="#C" n="46"/>SVMMARIA 
+      <lb ed="#C" n="47"/>I Eucharistia qualiter debeat custodir 
+      <lb ed="#C" n="48"/>2 Clerici possunt uti bonis vestibus; dum tamen cessent a prohibi 
+      <lb ed="#C" n="49"/>t15. 
+      <lb ed="#C" n="50"/>3 Eucharistia nulli peccatori ecclesiastico est deneganda 
+      <lb ed="#C" n="51"/>4 Eucharistiam non bene custodiens, qua poena puniatur 
+      <lb ed="#C" n="52"/>5 Evomens Eucharistiam per ebrietatem, vel voracitatem, quo¬ 
+      <lb ed="#C" n="53"/>odo puniatur 
+    </p>
+            <p xml:id="nbht7y-d1e1367-d1e133">
+               <lb ed="#C" n="54"/>AVdistis de presbytero non baptizato, &amp;c 
+      <lb ed="#C" n="55"/>celebratione missarum, in 
+      <lb ed="#C" n="56"/>quibus tractatum est de confectione 
+      Euchari<lb ed="#C" n="57" break="no"/>stiae, &amp; chrismatis, videamus de custodi 
+      <lb ed="#C" n="58"/>ipsorum. Qualiter debent custodiri, Qua 
+      <lb ed="#C" n="59"/>poena non custodientis 
+    </p>
+            <p xml:id="nbht7y-d1e1367-d1e150">
+               <lb ed="#C" n="60"/>Qualiter debent vstodiri. In loco singular 
+      <lb ed="#C" n="61"/>mundo, &amp; signato, honorifi 
+      <lb ed="#C" n="62"/>te custodiri debent, &amp; sub clavib. ne manus temeraria ac 
+      <lb ed="#C" n="63"/>ea extendi possit, ad aliqua horribilia, vel nefaria exer 
+      <lb ed="#C" n="64"/>cenda. supra de celeb. missa sane. respon. i. infra eod. c.I. Hoc au 
+      <lb ed="#C" n="65"/>tem statutum est propter illos, qui inde sortilegia com 
+      <lb ed="#C" n="66"/>mittunt. &amp; quia per laicos non est deportanda Euchari 
+      <lb ed="#C" n="67"/>stia ad infirmos. de consec. dist. 2. pervenit. Potest tamen pe 
+      <lb ed="#C" n="68"/>diaconum deportari in necessitate. 93. distinct. praesente.6 
+      <lb ed="#C" n="69"/>c. diaconus. Debet autem sacerdos monere &amp; docere pa 
+      <lb ed="#C" n="70"/>rochianos, ut quando eucharistia elevatur in ecclesia, ve 
+      <lb ed="#C" n="71"/>quando defertur ad infirmum, devote se inclinent: &amp; de 
+      <lb ed="#C" n="72"/>bet semper lumen praecedere, quia candor est lucis aeter 
+      <lb ed="#C" n="73"/>nae: &amp; eundo &amp; redeundo ad infirmum debet ipsam pol 
+      <lb ed="#C" n="74"/>tare honorifice ante pectus, &amp; cum magna devotione 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0548.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="75"/>transgressores autem ad arbitrium superioris puniuntur 
+      <lb ed="#C" n="76"/>supr. de celeb. miss. sane §. 1. &amp; 2. Ne dum eucharistia vel chris 
+      <lb ed="#C" n="77"/>ina, sed etiam ecclesia custodiri debet. ideo non debent ir 
+      <lb ed="#C" n="78"/>ea poni supellectilia, nisi instanti necessitate, aut propte 
+      <lb ed="#C" n="79"/>hostiles concursus, vel propter incendia repentina, quib 
+      <lb ed="#C" n="80"/>cessantibus in loca pristina reduci debent: oratoria aut 
+      <lb ed="#C" n="81"/>vasa corporalia, &amp; vestimenta omnia servitio ecclesiae de 
+      <lb ed="#C" n="82"/>putata munda &amp; nitida conserventur, quia nimis absur 
+      <lb ed="#C" n="83"/>dum videtur, in sacris sordes negligere, quae dedeceret ei 
+      <lb ed="#C" n="84"/>iam in profanis. infra eod. relinqui. Et est argumentum. 
+      <lb ed="#C" n="85"/>quod cierici possunt uti bonis vestibus, dum tamen ces 
+      <lb ed="#C" n="86"/>ient a prohibitis. supra de vita &amp; hon. cler. clerici. dummode 
+      <lb ed="#C" n="87"/>non faciant hoc ad jactantiam. 21. q. 4. omnis jactantia. disso 
+      <lb ed="#C" n="88"/>lutos enim &amp; fractos vestibus non recipiemus. 41. dist. pe 
+      <lb ed="#C" n="89"/>simoniam. &amp; §. ulti. Statuitur etiam in regula fratrum mi 
+      <lb ed="#C" n="90"/>norum, quod tales non reprehendantur, sed potius unus 
+      <lb ed="#C" n="91"/>quisque seipsum dispiciat, quia &amp; mulieres possunt de 
+      <lb ed="#C" n="92"/>ferre preciosas vestes, si placet viris. 33. qu. 5. quod Deo patri 
+      <lb ed="#C" n="93"/>Sed nec pelvis, nec vestimenta, seu ornamenta, vel vas¬ 
+      <lb ed="#C" n="94"/>altaris, seu ecclesiae servitio deputata aliquid aliud tange 
+      <lb ed="#C" n="95"/>re debent, nec aliis usibus deputari, nec ad nuptiarum or 
+      <lb ed="#C" n="96"/>namenta praestari. de consec. distin i nemo per ignorantiam. &amp;c. 
+      <lb ed="#C" n="97"/>vestimenti. &amp;c. nuptiarum. quod videtur intelligendum, ex 
+      <lb ed="#C" n="98"/>quo sunt per Pontifices benedicta, ut supra de redot. capit. 3 
+      <lb ed="#C" n="99"/>Cum vero talia sordida fuerint, diaconi humilib ministris 
+      <lb ed="#C" n="100"/>intra sacrarium ipsa lavent. de consec. dist. 1. nemo. Et si fuerin 
+      <lb ed="#C" n="101"/>vetustate consumpta, incendio comburantur, &amp; cinere: 
+      <lb ed="#C" n="102"/>in baptisterio, vel sub fossa, ita quod non possint pedibus 
+      <lb ed="#C" n="103"/>hominum conteri, recondantur. de consecr distin.altaris. ni 
+      <lb ed="#C" n="104"/>semel Deo dicata ad humanos usus convertantur. 29 q. 3 
+      <lb ed="#C" n="105"/>§. semel. 14. quaest sin, comperimus 12. qu. 2.nulli. 54. distin ex anti 
+      <lb ed="#C" n="106"/>quis. 17. qufia. quaest de consecrat distini lingua.* Eucharistia 
+      <lb ed="#C" n="107"/>autem nulli peccatori ecclesiastico deneganda est, quam 
+      <lb ed="#C" n="108"/>vis ipsum peccatorem sciat. de consecr. dist. 2. non prohibeat t 
+      <lb ed="#C" n="109"/>c. sicut Judas. Sed notorio prohibetur, nisi poeniteat de con 
+      <lb ed="#C" n="110"/>secrat. dist. 2. pro dilectione. supra de elect. Osius in fin &amp;c. licetd. 
+      <lb ed="#C" n="111"/>vitanda §. antepenulti ibi, cum Dathan, &amp; Abiron infra depoer 
+      <lb ed="#C" n="112"/>omnis. Datur autem aliquando non baptizato, scil. quan 
+      <lb ed="#C" n="113"/>do creditur baptizatus. supra tit. i.c. 2. sic intellige supr. tit.. 
+      <lb ed="#C" n="114"/>veniens. §.1 
+    </p>
+            <p xml:id="nbht7y-d1e1367-d1e276">
+               <lb ed="#C" n="115"/>Quae poena non custodientis Haecest quod si Eu¬ 
+      <lb ed="#C" n="116"/>charistiam, vel chrisma sacerdos minu 
+      <lb ed="#C" n="117"/>caute dimiserit, quamvis nihil nefarium inde contingat 
+      <lb ed="#C" n="118"/>tribus mensibus suspendi debet. C. eod. si quid nefandun 
+      <lb ed="#C" n="119"/>inde contigerit, graviori ad arbitrium judicis subjacebit 
+      <lb ed="#C" n="120"/>ultioni ifra eod. c.i. Si quis autem per ebrietatem, vel vo¬ 
+      <lb ed="#C" n="121"/>racitatem Eucharistiam evomit. 40. diebus poeniteat, s 
+      <lb ed="#C" n="122"/>laicus sit. nam clerici, vel monachi, diaconi, vel presbyte 
+      <lb ed="#C" n="123"/>ri 70. diebus poeniteant. de consecr. dist. 2. si quis per ebrietaten 
+      <lb ed="#C" n="124"/>episcopi. Si pro infirmitate hoc contigerit. 7. diebus 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 30</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 30</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="746"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e2015"><!-- nbht7y-l5t30 -->
+            <head xml:id="nbht7y-d1e2015-Hd1e101">Titulus 30</head>
+            <head xml:id="nbht7y-d1e2015-Hd1e103" type="question-title">De eo, qui furtive ordinem suscepit</head>
+            <p xml:id="nbht7y-d1e2015-d1e106">
+               <lb ed="#C" n="53"/>De eo qui furtive ordines suscepit. 
+      <lb ed="#C" n="54"/>XXX. Rubr. 
+    </p>
+            <p xml:id="nbht7y-d1e2015-d1e113">
+               <lb ed="#C" n="55"/>SUMMARIA. 
+      <lb ed="#C" n="56"/>t Furtire ordinari qualiter quis dicatur 
+      <lb ed="#C" n="57"/>2 Et qua paena puniatur 
+      <lb ed="#C" n="58"/>3 Dispensari a quo possii 
+    </p>
+            <p xml:id="nbht7y-d1e2015-d1e124">
+               <lb ed="#C" n="59"/>TRactatum est sup de clerico per 
+      sal<lb ed="#C" n="60" break="no"/>tum promoto, &amp; qui¬ 
+      <lb ed="#C" n="61"/>plerunque furtive saltum faciunt, apponi 
+      <lb ed="#C" n="62"/>rubricam, de eo qui furtive ordines susce 
+      <lb ed="#C" n="63"/>pit, in qua dicendum. Qualiter dicatur qui 
+      <lb ed="#C" n="64"/>furuve ordinari, Quae poena furtive ordines suscipientis 
+      <lb ed="#C" n="65"/>A quo cum eodem dispensetui 
+    </p>
+            <p xml:id="nbht7y-d1e2015-d1e143">
+               <lb ed="#C" n="66"/>Qualiter dicatur quis furtive ordinari. Et cert 
+      <lb ed="#C" n="67"/>cum quis citra conscientiam episcopi pro 
+      <lb ed="#C" n="68"/>prii, sine examinatione promovetur, ut 44. dist extra con 
+      <lb ed="#C" n="69"/>scientiam. &amp; 24. dist. quando episcopus in quo casu non pre 
+      <lb ed="#C" n="70"/>sunt literae arch,. ut sup. de off arch significasti. Item ordinatu 
+      <lb ed="#C" n="71"/>furtive, quando quatuor minoribus ordinibus non cor 
+      <lb ed="#C" n="72"/>tentus. una &amp; eadem die subdiaconatus ordinem recipit 
+      <lb ed="#C" n="73"/>ut inf eod. cum H Vel cum duos sacros simul recipit infra e 
+      <lb ed="#C" n="74"/>mmotui. Vel cum gradu omisso saltum facit, ut supra ut. 1. 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0763.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="75"/>unico In quibus casibus nec superiori suo obediens excu 
+      <lb ed="#C" n="76"/>latur sup. de temp ord dilectus tamen superior tanquam ma 
+      <lb ed="#C" n="77"/>jor plus delinquit, &amp; ideo magis est puniendus, ut supra d 
+      <lb ed="#C" n="78"/>translat. inter corporalia. §. uli 
+    </p>
+            <p xml:id="nbht7y-d1e2015-d1e178">
+               <lb ed="#C" n="79"/>Quae, poen a urtire ordines suscipientis. Et cere. 
+      <lb ed="#C" n="80"/>ut ei de rigore juris interdicatur exe 
+      <lb ed="#C" n="81"/>cutio ordinum susceptorum, ut infra eodc.nnotuit, multi 
+      <lb ed="#C" n="82"/>ascendere poterit ad majores, &amp; hoc intelligas etiam, quam 
+      <lb ed="#C" n="83"/>do una die recipit omnes ordines minores, &amp; unum sa 
+      <lb ed="#C" n="84"/>crum, sive duos sacros simul, ut not. sup eod. §1. Sed oppo 
+      <lb ed="#C" n="85"/>nitur primum: Ordinem bene recipit: ergo non debet pr 
+      <lb ed="#C" n="86"/>niri in executione ipsius. respon. Imo male, quia gerit ina 
+      <lb ed="#C" n="87"/>nimo quod alium recipit: &amp; ita animi destinatione pecca 
+      <lb ed="#C" n="88"/>in receptione primi. ff. de verb sig fugitivus: in secundo ver¬ 
+      <lb ed="#C" n="89"/>peccat reipsa, &amp; sic quia in utroque peccat, in utroque 
+      <lb ed="#C" n="90"/>punitur, secundum Goffr. vel dic, ut no, sup. de temp. ordis 
+      <lb ed="#C" n="91"/>qualiter. ver sed nunquid. inc. literas 
+    </p>
+            <p xml:id="nbht7y-d1e2015-d1e209" n="3">
+               <lb ed="#C" n="92"/>A quo cum eodem dispensetur. Et quidem aut fuit 
+      <lb ed="#C" n="93"/>prohibitio facta ne quis ordines furti 
+      <lb ed="#C" n="94"/>ve susciperet sub interminatione anathematis, id est, qui 
+      <lb ed="#C" n="95"/>fuit anathema, &amp; tunc cum excommunicatus promove¬ 
+      <lb ed="#C" n="96"/>tur, non potest aliquis secum dispensare, nisi Papa, secun 
+      <lb ed="#C" n="97"/>dum ea quae no. supra decler excommu. mini §. sin. Aut nor 
+      <lb ed="#C" n="98"/>sunt facta excommunicatio, &amp; tunc potest cum eodem epi 
+      <lb ed="#C" n="99"/>scopo pro suo arbitrio dispensare adjuncta poenitentis 
+      <lb ed="#C" n="100"/>competenti. Sed &amp; si excommunicatus promoveatur, per 
+      <lb ed="#C" n="101"/>mittit Papa, quod cum eo dispensetur ad religionem mi 
+      <lb ed="#C" n="102"/>grante: &amp; sic solus Papa dispensat, ut inf. c. 1. alias in mino 
+      <lb ed="#C" n="103"/>ribus ordinibus tantum dispensat episcopus, ut ibidem in 
+      <lb ed="#C" n="104"/>nuit a contrario. &amp; 25. dist. qualis. Sed &amp; si religionem intra 
+      <lb ed="#C" n="105"/>verit, potest cum eo abbas suus dispensare, si viderit expe 
+      <lb ed="#C" n="106"/>dire, ut inf. eo, cum H. &amp; de sent. excom. cum illorum, &amp; hoc it 
+      <lb ed="#C" n="107"/>casu illo, in quo recipit quatuor minores, &amp; unum sacrum 
+      <lb ed="#C" n="108"/>simul. Alii intelligunt, quod in illo c, cum H inf. eo intelligen 
+      <lb ed="#C" n="109"/>dum est de abbate episcopo, aliquoties enim episcopus 
+      <lb ed="#C" n="110"/>in una ecclesia est abbas, in alia episcopus, vel forte eccle 
+      <lb ed="#C" n="111"/>sia eadem est episcopalis &amp; regularis. sic sup de judi, causan 
+      <lb ed="#C" n="112"/>quae, sed tu intelligas sicut praemisi. Si vero duos sacros in 
+      <lb ed="#C" n="113"/>seculo quis receperit. non dispensat episcopus cum eodi 
+      <lb ed="#C" n="114"/>Sed si transit ad religionem, dummodo laudabiliter con 
+      <lb ed="#C" n="115"/>versetur, poterit cum eo dioecesanus de licentia sedis 
+      A<lb ed="#C" n="116" break="no"/>postolicae dispensare, ut inf. co. innotum 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

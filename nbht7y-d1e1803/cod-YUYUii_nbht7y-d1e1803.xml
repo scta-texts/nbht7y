@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 11</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 11</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="690"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1803"><!-- nbht7y-l5t11 -->
+            <head xml:id="nbht7y-d1e1803-Hd1e101">Titulus 11</head>
+            <head xml:id="nbht7y-d1e1803-Hd1e103" type="question-title">De infantibus et languidis expositis</head>
+            <p xml:id="nbht7y-d1e1803-d1e106">
+               <lb ed="#C" n="52"/>De Infantibus &amp; languidis expositi
+      <lb ed="#C" n="53"/>XI. Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1803-d1e113">
+               <lb ed="#C" n="54"/>SUMMARIA 
+      <lb ed="#C" n="55"/>I. Filius infans apud quem morari, aut nutriri debeat 
+      <lb ed="#C" n="56"/>Parentes qui alere teneantur 
+      <lb ed="#C" n="57"/>Filii quibus exceptionibus ab alimentis possunt repell 
+      <lb ed="#C" n="58"/>Expositores infanmium qua poena puniantur 
+    </p>
+            <p xml:id="nbht7y-d1e1803-d1e126">
+               <lb ed="#C" n="59"/>QValiter filii a parentibus, instigant 
+      <lb ed="#C" n="60"/>diabolo, propriis man¬ 
+      <lb ed="#C" n="61"/>bus occidantur, praemisimus supra: nunc poni 
+      <lb ed="#C" n="62"/>qualiter interfecisse videantur, ipsis expositis 
+      <lb ed="#C" n="63"/>&amp; alimentis denegatis, &amp; sic videamus in infantibu: 
+      <lb ed="#C" n="64"/>&amp; languidis, subaudi, etiam majoribus 25. anno. tam fili 
+      <lb ed="#C" n="65"/>is, quam servis, seu libertis, vel cujusvis conditionis expe 
+      <lb ed="#C" n="66"/>sitis, hic videamus. Apud quem filius morari debeat, au 
+      <lb ed="#C" n="67"/>nutriri, divortio facto. Qui parentes alere teneantur Qu 
+      <lb ed="#C" n="68"/>bus exceptionibus filii ab alimentis repelli possunt. Qui¬ 
+      <lb ed="#C" n="69"/>tu ris de infantibus, &amp; languidis expositis
+    </p>
+            <p xml:id="nbht7y-d1e1803-d1e153" n="1">
+               <lb ed="#C" n="70"/>Apud quem filius morari debeat, aut nu 
+      <lb ed="#C" n="71"/>triri, divortio facta. Et cert. 
+      <lb ed="#C" n="72"/>si filius sit minor triennio, regulariter verum est, quo 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0707.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="73"/>penes matrem debet remanere, major autem triennio¬ 
+      <lb ed="#C" n="74"/>penes patrem, sed Judex aestimare debet, apud quem com¬ 
+      <lb ed="#C" n="75"/>modius moretur: vt tamen post triennium apud matrem 
+      <lb ed="#C" n="76"/>expensis patris alatur, ut C. ac solut inatrim. leg i de pa po ne 
+      <lb ed="#C" n="77"/>filium. Unde quia hoc ad arbitrium judicis pertinet, mi 
+      <lb ed="#C" n="78"/>nor triennio apud patrem conversum educatur in favo 
+      <lb ed="#C" n="79"/>rem fidei, ne mater. quae in Judaismo remanet, ad infide 
+      <lb ed="#C" n="80"/>litatis errorem ipsum trahat. ut supra de conrer. mfidel. capi 
+      <lb ed="#C" n="81"/>tul. ultim &amp; notatur in summ eodem titul. § quid juris de pro 
+      <lb ed="#C" n="82"/>le. Hodie tamen distin. divortio facto, utrum pater prae 
+      <lb ed="#C" n="83"/>stiterit divortii causam, an mater: si pater praestat expen 
+      <lb ed="#C" n="84"/>sas matrifiliorum, quae non pervenit ad secundas nupti 
+      <lb ed="#C" n="85"/>as, apud quem filius nutrietur: &amp; si pater non sit idoneus 
+      <lb ed="#C" n="86"/>pauperes filii a matre locuplete sunt alendi, quemadmo 
+      <lb ed="#C" n="87"/>dum egens pater a filiis locupletibus est alenda &amp; quod ci 
+      <lb ed="#C" n="88"/>xi de patribus &amp; filiis, in ascendentibus &amp; descencentibus 
+      <lb ed="#C" n="89"/>in infinitum extende, quod si mater causam praestiterit, 
+      <lb ed="#C" n="90"/>tunc apud patrem alendi sunt, subaudi, expensis matris 
+      <lb ed="#C" n="91"/>etiamsi majores sint triennio: ut haec omnia probantur 
+      <lb ed="#C" n="92"/>mauthentic. ut liceat matri &amp; aviae paragrapho illad qucque col 
+      <lb ed="#C" n="93"/>lat 8. 
+    </p>
+            <p xml:id="nbht7y-d1e1803-d1e212" n="2">
+               <lb ed="#C" n="94"/>Qui parentes f al v, eneantur. Patet ex su¬ 
+      <lb ed="#C" n="95"/>perioribus, quod ascen 
+      <lb ed="#C" n="96"/>dentes adinvicem debent sibi alimenta praestare, certe, &amp; 
+      <lb ed="#C" n="97"/>omnia onera invicem sufferre excepto aere alieno, ui F. di 
+      <lb ed="#C" n="98"/>lib. agno siquis ali a liberis§ non tantum, &amp; § parens. hoc erim 
+      <lb ed="#C" n="99"/>provenit a natura, &amp; officio judicis expeditur, ut no sup. di 
+      <lb ed="#C" n="100"/>off jud 61. Est tamen dis inter patrem, &amp; lineam paterrian 
+      <lb ed="#C" n="101"/>ascendentem, &amp; matrem, &amp; lineam maternam ascenden 
+      <lb ed="#C" n="102"/>tem, nam pater &amp; linea sua ita demum tenetur, si legitimu 
+      <lb ed="#C" n="103"/>sit, mater autem &amp; linea sua cogitur etiam si vulgo conce 
+      <lb ed="#C" n="104"/>perit. Item mater non cogitur alere filium legitimum, nis 
+      <lb ed="#C" n="105"/>patre suo, scil filii, &amp; superioribus deficientib. certum es 
+      <lb ed="#C" n="106"/>enim id, quod filia parit, non avo materno, sed paterno ei 
+      <lb ed="#C" n="107"/>demoneri esse, ut fe eo si quis ali. a lib § utrum, &amp; leg quimad 
+      <lb ed="#C" n="108"/>modum. Sed &amp; mater potest expensas a patre repetere ex 
+      <lb ed="#C" n="109"/>ceptis his quae materno affectu erogasset, etiam si apud pa 
+      <lb ed="#C" n="110"/>trem educaretur, ut d. lsi quis (simater. Sunt &amp; aliae differen 
+      <lb ed="#C" n="111"/>tiae in tempore, ut notat potest ex his quae dixi supra proxi 
+      <lb ed="#C" n="112"/>§ quod autem dixi, patrem ita demum teneri ad aliment, 
+      <lb ed="#C" n="113"/>filiorum, si legitimus sit, secundum legem intelligas, nan 
+      <lb ed="#C" n="114"/>secundum canones omnes tenentur, sive legitimi, sive il 
+      <lb ed="#C" n="115"/>legitimi, ut notat. supra qui fil sint lig San utramque genus a 
+      <lb ed="#C" n="116"/>latur 
+    </p>
+            <p xml:id="nbht7y-d1e1803-d1e264">
+               <lb ed="#C" n="117"/>Quibus exceptionibus, fili ab almentis re 
+      <lb ed="#C" n="118"/>pelli possunt. Et qui 
+      <lb ed="#C" n="119"/>dem his. Non teneor tibi praestare alimenta, quia accusaf 
+      <lb ed="#C" n="120"/>me. Vel quia tibi potes sufficere in alimentis, vel ex bor 
+      <lb ed="#C" n="121"/>tuis, vel ex officio suo, &amp; hoc intelligas sive parentes agani 
+      <lb ed="#C" n="122"/>contra filios, vel econtra, uiff eod si quis ali a liberis§ sed &amp; 
+      <lb ed="#C" n="123"/>filius, &amp; S idem judex aestimare. Item si pater agat contra hae 
+      <lb ed="#C" n="124"/>redem extraneum filii sui, repellitur, nisi in summa egestat. 
+      <lb ed="#C" n="125"/>deductus fuerit, ut d leg si quis, §item scriptum. Sed nec di 
+      <lb ed="#C" n="126"/>stinguitur in liberis, utrum sint in potestate vel non, ut d 
+      <lb ed="#C" n="127"/>leg siquis, respon.i. Vel dicit pater, Non teneor tibi: quia nor 
+      <lb ed="#C" n="128"/>es filius meus, in quo casu summatim debet judex cogno 
+      <lb ed="#C" n="129"/>scere de filiatione: &amp; si probetur, decernet alimenta prae 
+      <lb ed="#C" n="130"/>stari, alias non, sed &amp; si judex pronunciaverit ali oportere 
+      <lb ed="#C" n="131"/>non praejudicas veritati, nec enim pronunciat ipsum fili 
+      <lb ed="#C" n="132"/>um, sed ali debere, utd leg si quis §si velparens. Et est for 
+      <lb ed="#C" n="133"/>te illa ratio, quia super incidenti quaestione non fit plena 
+      <lb ed="#C" n="134"/>sed semiplena examinatio, alias si plena fieret, praejudica 
+      <lb ed="#C" n="135"/>retur, ut C de ordin. cog. leg. secunda. Vel forte est illa ra 
+      <lb ed="#C" n="136"/>tio, quia quandoque pater cogitur alere etiam non filium 
+      <lb ed="#C" n="137"/>suum, nam si uxore denunciate se praegnantem maritu 
+      <lb ed="#C" n="138"/>denegaverit, non utique suus efficietur ille partus, caete 
+      <lb ed="#C" n="139"/>rum si esset, satis injuriosum foret, si quis longo tempor¬ 
+      <lb ed="#C" n="140"/>abesset, &amp; reversus uxorem praegnantem inveniret, &amp; id 
+      <lb ed="#C" n="141"/>circo rejiceret, cogitur tamen alimenta praestare, done 
+      <lb ed="#C" n="142"/>constet de filiatione, sicut dictum est, utf. de lib agn l§ id 
+      <lb ed="#C" n="143"/>Julianus scribit. Judex etiam qui huic rei praeest, debet jube 
+      <lb ed="#C" n="144"/>re alimenta praestari pro modo facultatum, ut C. de alen lib 
+      <lb ed="#C" n="145"/>2. &amp; ff. eodem. si quis, §alimenta, sicut nota. de procurationt 
+      <lb ed="#C" n="146"/>quae debetur praelatis, supra de censibus § ex quib,. causis, &amp; SS 
+      <lb ed="#C" n="147"/>qualiter. Et si alimenta non praestantur, ex quo decretum 
+      <lb ed="#C" n="148"/>est, captis pignoribus &amp; distractis, is cui injunctum est ali 
+      <lb ed="#C" n="149"/>menta praestare satisfacere cogitur, ut f. cod. si quis§ si qui 
+      <lb ed="#C" n="150"/>ex his.
+    </p>
+            <p xml:id="nbht7y-d1e1803-d1e340">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0708.xml-->
+               <pb ed="#C" n="691"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>Quid: juris de infantibus &amp; languidis 
+      exposi<lb ed="#C" n="2" break="no"/>tis. De hoc merito videndum est 
+      <lb ed="#C" n="3"/>exponunt enim id est, extra se ponunt aliqui infantes lar 
+      <lb ed="#C" n="4"/>guidos ante ecclesias, pietatis officio relegato, ut alii eo 
+      <lb ed="#C" n="5"/>videntes. pietate moti recolligant, &amp; educent, 87. dist si e¬ 
+      <lb ed="#C" n="6"/>positus, &amp; exponuntur filii servi &amp; liberti infra eoc.unico, es 
+      <lb ed="#C" n="7"/>tamen dist inter infantes, &amp; languidos. Si enim infans si 
+      <lb ed="#C" n="8"/>septennis, sive parvus puer, ut C. de jure deli. si infanti. C. eoo 
+      <lb ed="#C" n="9"/>l2. &amp; ustima, exponatur a patresciente domino, vel patro 
+      <lb ed="#C" n="10"/>no, vel ignorante, sed postea ratum habente, filii sui juri 
+      <lb ed="#C" n="11"/>efficiuntur, servi, coloni, liberti, ascripticii libertatem ci 
+      <lb ed="#C" n="12"/>sequuntur, &amp; de suo ad voluntatem testari possunt &amp; con 
+      <lb ed="#C" n="13"/>trahere &amp; sibi acquirere, &amp; omnia, sicut liberi, agere: u 
+      <lb ed="#C" n="14"/>plene habetur, C. eodem l. ult. Videretur tamen, quod pate 
+      <lb ed="#C" n="15"/>capitalem poenam pati deberet, unde dicuntur filii san 
+      <lb ed="#C" n="16"/>guinolenti in rub. C. eodem de patribus qui filios distraxe. leg. 
+      <lb ed="#C" n="17"/>quia hoc crimen sanguine expiandum est, ad hoc ff. de lib 
+      <lb ed="#C" n="18"/>agno necare S6 distinct pasce ideo dicitur pater hoc facere. 
+      <lb ed="#C" n="19"/>exploso, id est, relegato officio pietatis paternae, quam null 
+      <lb ed="#C" n="20"/>vincere potest, quamdiu habitat infra limites regni sui, u 
+      <lb ed="#C" n="21"/>notat. supra de praesum. §i. versalias personae, secundum ho¬ 
+      <lb ed="#C" n="22"/>intellige infra eodem cap unico in princip. &amp; versic. nam &amp; ho 
+      <lb ed="#C" n="23"/>casu. Si vero expositus sit ab extraneo, eo ignorante, ne 
+      <lb ed="#C" n="24"/>ratum habente, dicit Hug. quod contestatione publice fa¬ 
+      <lb ed="#C" n="25"/>cta in ecclesia, auditur infra decem dies, quibus elapsis, 
+      <lb ed="#C" n="26"/>nuis eum repetere vellet, tanquam homicida tenetur, e 
+      <lb ed="#C" n="27"/>distringitur ecclesiastica severitate, sic intellexerit 87. d 
+      <lb ed="#C" n="28"/>stinct capitul. ultim. Fiet autem haec contestatio in episto! 
+      <lb ed="#C" n="29"/>continenti, ut quicunque jus habet in tali puero exeat 
+      <lb ed="#C" n="30"/>probet, &amp; sic filium recuperet, &amp; in loco pub ponetur, ar 
+      <lb ed="#C" n="31"/>1q1 quidam. in sin. secundum Goffred. &amp; de consimili con 
+      <lb ed="#C" n="32"/>testatione legitur, f. insti act. &amp; si pullus § de quo palam, &amp; s¬ 
+      <lb ed="#C" n="33"/>quent. Post talem contestationem habitam, elapsis decen 
+      <lb ed="#C" n="34"/>diebus, nemo auditur, ut dictum est quod potest exaudir 
+      <lb ed="#C" n="35"/>nisi justa causa absentiae vel ignorantiae petentem excuse 
+      <lb ed="#C" n="36"/>secundum tenorem decret. scil. qui mat. accu. poss. c.ult. &amp; id 
+      <lb ed="#C" n="37"/>eo dicit dictum cap. 87. distin. c sin. calumniator extiterit, &amp; 
+      <lb ed="#C" n="38"/>sic si audivit contestationem, &amp; sciebat uxorem enixam, de 
+      <lb ed="#C" n="39"/>bet puerum petere intra decem dies, alias videtur expos 
+      <lb ed="#C" n="40"/>tionem ratam habere, &amp; sic non auditur secundum ea, qu 
+      <lb ed="#C" n="41"/>not. supra prox ver. Hi enim dies a tempore scientiae cede 
+      <lb ed="#C" n="42"/>re debent. arg supra de conces praeb quia diversuaten, &amp; de suj 
+      <lb ed="#C" n="43"/>ne prael licet magister, &amp; si sit justo impedimento detentu 
+      <lb ed="#C" n="44"/>Is. qui petere debuit, restituedus videtur ex generali clat 
+      <lb ed="#C" n="45"/>sula ff. ex quibus cau. ma. in integ restitut. I1. Alii dicunt, quo 
+      <lb ed="#C" n="46"/>utiles sunt, nec currunt, niti petens copiam experiund 
+      <lb ed="#C" n="47"/>habeat ff. de aedi. edict. cum sex ff de diver. &amp; tempor praescrip le¬ 
+      <lb ed="#C" n="48"/>1. Sed &amp; si nulla contestatio facta fuit, vel etiam fuit facta 
+      <lb ed="#C" n="49"/>sed pater, vel dominus ignoravit, in nullo praedicatur ei 
+      <lb ed="#C" n="50"/>muilto minus si invito exponatur, &amp; ideo repetit infantem 
+      <lb ed="#C" n="51"/>sed restituet expensas factas: nisi a fure repetat, sic interli 
+      <lb ed="#C" n="52"/>ge C. eodemleg. 12. &amp; 3. Sed quo ad expensas dici potest 
+      <lb ed="#C" n="53"/>utrum factae sint circa eruditionem pueri, &amp; tales indi 
+      <lb ed="#C" n="54"/>stincte repetuntur. C endem leg I, vel circa alimenta, &amp; tun 
+      <lb ed="#C" n="55"/>subdi. quo animo factae sunt: utrum valuerit de suo expe 
+      <lb ed="#C" n="56"/>dere, vel hoc fecerit animohu manitatis, &amp; pietatis, ne pe 
+      <lb ed="#C" n="57"/>riret, &amp; sic non potest. vel potest repetere, argum ff de reli 
+      <lb ed="#C" n="58"/>&amp; sun fu. &amp; siquis, § interdum. Legistae, tamen distinctic 
+      <lb ed="#C" n="59"/>nem quam feci de decem diebus, non habent, sed nec Ileo 
+      <lb ed="#C" n="60"/>rum contradicunt, &amp; ideo quod ipsis legibus omissum est, n 
+      <lb ed="#C" n="61"/>debet omittere religio instruentis, ut ff de testi. quaesuum scie 
+      <lb ed="#C" n="62"/>De languidis autem indistincte dic, quod si pater vel do 
+      <lb ed="#C" n="63"/>minus filium vel servum languidum exposuerit, cujuscu 
+      <lb ed="#C" n="64"/>que aetatis sit, solvitur patria potestas &amp; dominica, &amp; e 
+      <lb ed="#C" n="65"/>ficitur sui juris, &amp; liber. Si enim eum in totum adjuvar 
+      <lb ed="#C" n="66"/>non poterat, saltem debult eum in xenonem nutrire, ve 
+      <lb ed="#C" n="67"/>eo modo, quo alias melius poterat adjuvare, &amp; non ex 
+      <lb ed="#C" n="68"/>ponere. ut C. de Lati. liber. toll leg unica § ed scimus, &amp; infra eo 
+      <lb ed="#C" n="69"/>dem capit. unico, versicul quod &amp; de praedictis. Quid si xenodo 
+      <lb ed="#C" n="70"/>chium non invenitur, nec ipsum juvare potest, &amp; sic es 
+      <lb ed="#C" n="71"/>ponit eum ex necessitate compulsus, dicas, quod ipsun 
+      <lb ed="#C" n="72"/>repetere potest quandocunque C. eodem leg1. &amp; hoc innu 
+      <lb ed="#C" n="73"/>tur infra eodemc. unico, ubi dicit relegato pietatis officio, 8 
+      <lb ed="#C" n="74"/>in fin. ubi dicit alimenta imple denegari, &amp; in his casib. ij 
+      <lb ed="#C" n="75"/>quibus invitus quis exponit, habet locum quod notat. d 
+      <lb ed="#C" n="76"/>contestatione supra eo ver. si vero expositis, secundum Goffred 
+      <lb ed="#C" n="77"/>Sed quid si dominus vel pater filium suum, vel servun 
+      <lb ed="#C" n="78"/>majorem infante non exponat, sed alimenta deneget? Hi¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0708.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>videntur leges &amp; doctores adinvicem contradicerem. Scri 
+      <lb ed="#C" n="80"/>psit enim Azo. in Summa sua, quod non fit liber, sed habe 
+      <lb ed="#C" n="81"/>tur pro derelicto, &amp; ideo occupanti conceditur, ut ex 
+      <lb ed="#C" n="82"/>pressim legitur ff pro derelicto legultim. Sed &amp; fecit vim in 
+      <lb ed="#C" n="83"/>eo, quod dominus dixit in proximale ancillam fore patr¬ 
+      <lb ed="#C" n="84"/>restituendam, &amp; frustra, quia ex quo servus habetur pro 
+      <lb ed="#C" n="85"/>derelicto, non efficitur liber, nec sibi acquirit. Sed si quis e 
+      <lb ed="#C" n="86"/>um occupaverit, suus fit, &amp; acquirit ei stipulationem, uif 
+      <lb ed="#C" n="87"/>de stipul servorum. quod servus, ff de noxa si serrus, patet igitur 
+      <lb ed="#C" n="88"/>quod talis non efficitur liber, ideo dixerunt quicinima 
+      <lb ed="#C" n="89"/>gistrilegum, &amp; Summa Azo adhaerentes quod Greger 
+      <lb ed="#C" n="90"/>contra textum l. scripserat, infra eodem capi unito, versi. &amp; d 
+      <lb ed="#C" n="91"/>praedictis abi. relsi alicui. Sed secundum Rogeriumi cui a 
+      <lb ed="#C" n="92"/>limenta denegantur, liber efficitur, ided dixiu de ctas lece 
+      <lb ed="#C" n="93"/>correctas per auth de nu. § si rero ab mitio putabat, rersit ul. e 
+      <lb ed="#C" n="94"/>mulio fortius. Vel dic. secundum Ala utrum denegentu 
+      <lb ed="#C" n="95"/>alimenta sano, &amp; tunc occupanti conceditur ut in legib 
+      <lb ed="#C" n="96"/>antiquis, vel denegentur alimenta larguido, &amp; ti no eri 
+      <lb ed="#C" n="97"/>pitur in libertatem, sicut &amp; quando exponitur, &amp; sic ma 
+      <lb ed="#C" n="98"/>nifeste loquitur authent &amp; hoc est quod dixit Grego. inf¬ 
+      <lb ed="#C" n="99"/>eodem cap. unico. rersic quod &amp; de praedictis ibi, vel si alicui eo 
+      <lb ed="#C" n="100"/>rum, subaudi languidorum, sed si exponas eorum, scili 
+      <lb ed="#C" n="101"/>cet, filiorum, libertorum, vel servorum, tunc confirimatu 
+      <lb ed="#C" n="102"/>sententia Rogerii, &amp; leges antiquae corriguntur, &amp; hoc in 
+      <lb ed="#C" n="103"/>nuit authen dictum ubi dicit, quod servi pro derelicto et 
+      <lb ed="#C" n="104"/>ficiuntur sui, &amp; non aliorum existentes, quasi dicat leg ult 
+      <lb ed="#C" n="105"/>f pro derelicto, volebat quod occupanti concederentur, 8 
+      <lb ed="#C" n="106"/>quo ad hoc habebantur pro derelicto, sed nos volumus ir 
+      <lb ed="#C" n="107"/>ravorem libertatis, quod hodie pro defelicto habeantur 
+      <lb ed="#C" n="108"/>quo ad hoc, ut sui fiant, &amp; non aliorum existant. Sin au 
+      <lb ed="#C" n="109"/>tem sententiam Alani tenere volueris, sic expones authen 
+      <lb ed="#C" n="110"/>ticum, illi namque, scilicet, languentes derel cti, sive expo 
+      <lb ed="#C" n="111"/>siti, vel quibus alimenta denegata sunt intelliguntur ane¬ 
+      <lb ed="#C" n="112"/>xu dominicae potestatis soluti, vtpote iam constitui libe 
+      <lb ed="#C" n="113"/>ri, subaudi, eo ipso quod languidi expositi sunt, vel eis ali 
+      <lb ed="#C" n="114"/>menta denegata, &amp; subaudi non est mirum in hoc casu 
+      <lb ed="#C" n="115"/>si liberi fiant, nam &amp; si servis non languidis, sed sanis ali 
+      <lb ed="#C" n="116"/>menta denegentur, ser. pro derelicto titulo primo, secun 
+      <lb ed="#C" n="117"/>dum quod legitur in titu pro derelicto, tales servi, scilicet not 
+      <lb ed="#C" n="118"/>languidi sui existentes, scilicet, occupantium, &amp; non alio 
+      <lb ed="#C" n="119"/>rum, scilicet, antiquorum dominorum, qui alimenta de 
+      <lb ed="#C" n="120"/>negarunt, non in imposterum inquietabutur, scilicet oc¬ 
+      <lb ed="#C" n="121"/>cupantes ab his, &amp;c. id est, ab antiquis dominis; qui eo 
+      <lb ed="#C" n="122"/>neglexerunt, &amp; sic promptus erit leg. legibus concorda 
+      <lb ed="#C" n="123"/>re: ut C. de moffic. dotibus leg. unica, &amp; is videtur esse intelle 
+      <lb ed="#C" n="124"/>ctus Geffredi. secundum hoc magis subvenitur langui 
+      <lb ed="#C" n="125"/>do. cui alimenta denegantur, quam sano, moventur enm 
+      <lb ed="#C" n="126"/>juris viscera pietate, tum propter languores, seu infirmi 
+      <lb ed="#C" n="127"/>tatis miseriam, tum favorem libertatis, cui praetores fa 
+      <lb ed="#C" n="128"/>vent: ut de ali judic. mu, caus sac leg 3. supra de jentent. &amp; 
+      <lb ed="#C" n="129"/>judic capitul. ultim. &amp; ideo haec opinio magis placet; qui¬ 
+      <lb ed="#C" n="130"/>aequior est, &amp; jura concordant; quae secundum alios cor 
+      <lb ed="#C" n="131"/>riguntur. Suscipientes autem talem infantes expositum 
+      <lb ed="#C" n="132"/>vel languidum cui alimenta denegabantur, nullum ju¬ 
+      <lb ed="#C" n="133"/>acquirunt in persona ipsius, quamvis ab initio eos hoc a 
+      <lb ed="#C" n="134"/>nimo nutrierint, &amp; educaverint, ne videantur quasi mer¬ 
+      <lb ed="#C" n="135"/>cimonio contracto pietatis ofic. gessisse, ui Ceoden leg. ul 
+      <lb ed="#C" n="136"/>tim &amp; infra eodem capital. unico. versicul. sane. Favet tamer 
+      <lb ed="#C" n="137"/>jus in quodam alenti, nam &amp; si quis volens donare expen¬ 
+      <lb ed="#C" n="138"/>sas expositam filiam a patre aluerit, &amp; ipsam filio suo co 
+      <lb ed="#C" n="139"/>pulare desideraverit, pater vero contradicat de facto; qui¬ 
+      <lb ed="#C" n="140"/>de jure non potest, tenetur pater expensa. reddere, ut C 
+      <lb ed="#C" n="141"/>de nupt patrem, &amp; nihilominus matrimonium perfici po 
+      <lb ed="#C" n="142"/>test. In summa notandum, grande peccatum fore ex 
+      <lb ed="#C" n="143"/>positionem infantium: quia cum multoties ignoretu 
+      <lb ed="#C" n="144"/>ejus consanguinitas, poterit contrahere cum sorore ve 
+      <lb ed="#C" n="145"/>consanguinea. &amp; ipsam uxorem habere, quia non defici 
+      <lb ed="#C" n="146"/>jus, sed probatio, sicut de hoc notat supra de consang. §.1e 
+      <lb ed="#C" n="147"/>versicul sequenti, ideo exponens de hoc peccato tenetur, &amp; 
+      <lb ed="#C" n="148"/>puniendus est, sicut expositus, si scienter cum tall contra 
+      <lb ed="#C" n="149"/>heret, puniretur, ad hoc 34. quaestio secunda infectum, &amp; in 
+      <lb ed="#C" n="150"/>fra de paenitentus, officii. Quid si abbas non vult reciper¬ 
+      <lb ed="#C" n="151"/>monachum fugitivum, quod tenetur salva disciplis 
+      <lb ed="#C" n="152"/>regulari, ut supra de reg capitul. ultimo, &amp; notat. supra de a 
+      <lb ed="#C" n="153"/>postatis, paragrapho qualiter, rersicul. licet dicunt Doclores 
+      <lb ed="#C" n="154"/>quod si sic decesserit, &amp; aliquod lucrum reliquerit dene 
+      <lb ed="#C" n="155"/>gatur monasterio reperitio, ex quo malitiose deneg.vi 
+      <lb ed="#C" n="156"/>alimenta, argument. infra codem, capitul. unico C. de Latine 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0709.xml-->
+          <pb ed="#C" n="692"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>lib. I. unica §. sed scivimus ff. pro derelicto leg ultim. 87. distin cat 
+          <lb ed="#C" n="2"/>ultiuno, quod admitti potest, si in hoc totus conventus del¬ 
+          <lb ed="#C" n="3"/>quit, alias delictum personae non debet redundare in dam 
+          <lb ed="#C" n="4"/>num ecclesiae. 15. quaestio 6 si episcopum, aliter tamen solvitu 
+          <lb ed="#C" n="5"/>secundum alios, supra de apostatis § qualiter, ver. sed cui acqui 
+          <lb ed="#C" n="6"/>rit monachus, &amp; ver. quid si sine licentia
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

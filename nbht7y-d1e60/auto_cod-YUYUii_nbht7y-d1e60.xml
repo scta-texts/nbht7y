@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 1</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 1</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="6"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e60"><!-- nbht7y-l1t1 -->
+            <head xml:id="nbht7y-d1e60-Hd1e101">Titulus 1</head>
+            <head xml:id="nbht7y-d1e60-Hd1e103" type="question-title">De summa trinitate et fide catholica</head>
+            <p xml:id="nbht7y-d1e60-d1e106">
+               <lb ed="#C" n="40"/>De summa trinitate &amp; lae Ca¬ 
+        <lb ed="#C" n="41"/>tholica. Rub. I 
+    </p>
+            <p xml:id="nbht7y-d1e60-d1e113">
+               <lb ed="#C" n="42"/>SVMMARIA. 
+        <lb ed="#C" n="43"/>Trinitas cur dicatur summa. 
+        <lb ed="#C" n="44"/>Memoria an attribuatur Patri, intelligentia Filio, &amp; volan¬ 
+        <lb ed="#C" n="45"/>tas Spiritui sancte 
+        <lb ed="#C" n="46"/>Trinitas cur dicatur.
+    </p>
+            <p xml:id="nbht7y-d1e60-d1e126">
+               <lb ed="#C" n="47"/>QUIA secundum beatum Gregori 
+        <lb ed="#C" n="48"/>am, tunc rabrici 
+        <lb ed="#C" n="49"/>robusta conitituitur, cum prius locus ioli 
+        <lb ed="#C" n="50"/>ius, in quo poni fundamentum a debeat 
+        <lb ed="#C" n="51"/>providetur: ideo tractamus de jure, prae 
+        <lb ed="#C" n="52"/>miiio prooemio, cujus intentionem utranque iupra decla 
+        <lb ed="#C" n="53"/>ravimus, locum solidum providet, icil. iummam I rinita 
+        <lb ed="#C" n="54"/>tem, quae sola est universorum principium, praeter quan 
+        <lb ed="#C" n="55"/>aliud inveniri non potest, infr. eod. damnamus§. nos autem. 11 
+        <lb ed="#C" n="56"/>quo jaciat fundamentum,. i.idem cathosicam, ut not. mfr¬ 
+        <lb ed="#C" n="57"/>eod. §. quot modis, ver. recte. &amp; supr. in prooemio. 9. quae sit ejus ma 
+        <lb ed="#C" n="58"/>teria. Patet ergo, quare rub. de sum. trin. &amp;c. in opere iito 
+        <lb ed="#C" n="59"/>praeponitur, quia haec I rinitas unum univeriorum ei 
+        <lb ed="#C" n="60"/>principium, &amp; per Moysem &amp; ianctos Prophetas aliosque 
+        <lb ed="#C" n="61"/>ramulos suos, juxta ordinatissimam diipositionem tem 
+        <lb ed="#C" n="62"/>porum, doctrinam humano generi tribuit ialutarem, injr 
+        <lb ed="#C" n="63"/>eod. firmiter credimus. i. respon. &amp; haec sancta Trinitas. &amp; idec 
+        <lb ed="#C" n="64"/>bmnem ipem nostram referre debemus ad solam summa 
+        <lb ed="#C" n="65"/>providentiam T rinitatis, &amp; a qua mundi elementa &amp; eo 
+        <lb ed="#C" n="66"/>rum dispositio processerunt, sine qua non eit armis ve 
+        <lb ed="#C" n="67"/>ingenio confidendum. C. devet. jure enu. l. 1. respon. 1. &amp; lice 
+        <lb ed="#C" n="68"/>de hac materia non humano ore loquendum sit, sed divi¬ 
+        <lb ed="#C" n="69"/>no. de consec. dist. 2. in Christo patri. compendiose tamen vi¬ 
+        <lb ed="#C" n="70"/>dendum occurrit 
+        <lb ed="#C" n="71"/>Cur dicatur summa: Et cur dicatur Trinitas
+    </p>
+            <p xml:id="nbht7y-d1e60-d1e184">
+               <lb ed="#C" n="72"/>Cur dicatur summa. &amp; auidem. quia omni 
+        <lb ed="#C" n="73"/>bus rebus major &amp; prior 
+        <lb ed="#C" n="74"/>eit, ut praemisi, &amp; eit iubitatia indivisibilis, utpote simples
+        <cb ed="#C" n="b"/>
+               <lb ed="#C" n="75"/>omnino, ijv. eod. c.i.respon.i.&amp;c. dannamus, §. Iicet igitur. non 
+        <lb ed="#C" n="76"/>implicitate ignorantiae, quae reprobatur, S9. dist. Petrus, ne 
+        <lb ed="#C" n="77"/>implicitate rui ticitatis, licet dolo contraria sit appro¬ 
+        <lb ed="#C" n="78"/>panda, 2. q. 7. sancta quipperusticitas. 16u.1. sicupis, sed dicitus 
+        <lb ed="#C" n="79"/>simplex, quia cum multiplex sit compositio, icilicet partis 
+        <lb ed="#C" n="80"/>ad partes, ut in rebus corporalibus. item proprietatis, ac 
+        <lb ed="#C" n="81"/>substantiam, ut rationabilitas in anima item accidetis, ac 
+        <lb ed="#C" n="82"/>ubjectum, ut albedinis ad parietem item forinae ad mate¬ 
+        <lb ed="#C" n="83"/>riam, &amp; materiae ad forma in quolibet corpore, nulla iita¬ 
+        <lb ed="#C" n="84"/>rum compositionum cadit in Deum, &amp; ideo dicitur iim¬ 
+        <lb ed="#C" n="85"/>plex omnino, id eit in quolibet genere ieu ieniu composi¬ 
+        <lb ed="#C" n="86"/>ionis. Et ponitur quaiisimile in anima, cujus iubitantia 
+        <lb ed="#C" n="87"/>implex eit, &amp; tamen tria reperiuntur in ea, ic. inteliectus 
+        <lb ed="#C" n="88"/>ui praeconcipit, &amp; hoc comparatur patri, primo operan 
+        <lb ed="#C" n="89"/>ti: ratio quae diicernit, &amp; hoc comparatur niio diicernenti 
+        <lb ed="#C" n="90"/>qui eit sapientia patris in coelo, &amp; in terra, omnia diipones 
+        <lb ed="#C" n="91"/>ua virtute. &amp; memoria, quae conservat, &amp; hoc comparatur 
+        <lb ed="#C" n="92"/>Spiritui iancto, qui omnia bona corroborat, secunduI. 
+        <lb ed="#C" n="93"/>&amp; jo. secundu istos intellectus videtur respicere vim ap¬ 
+        <lb ed="#C" n="94"/>prehensivam, rationem investigativa, sive discretiva, quae 
+        <lb ed="#C" n="95"/>nvestigando eligit, judicat, &amp; discernit, memoriam reten¬ 
+        <lb ed="#C" n="96"/>tivam sive reservativa. T Vel dic, quod memoria attribui 
+        <lb ed="#C" n="97"/>ur ratri, intelligentia Fisio, volutas SpirituiSancto. Sicui 
+        <lb ed="#C" n="98"/>enim tria praedicta iunt in anima, &amp; idem iunt cum ipi a in 
+        <lb ed="#C" n="99"/>ubitantia, sic in deitate, iive divina majeitate tres periorm 
+        <lb ed="#C" n="100"/>sunt, &amp; eadem substantia. &amp; sicut pater generat niium, &amp; 
+        <lb ed="#C" n="101"/>spiritus sancy ab utroque procedit, sic memoria est mater 
+        <lb ed="#C" n="102"/>nteiligentiae, &amp; voluntas ab utraque procedit, iecundu do¬ 
+        <lb ed="#C" n="103"/>minu Hug. Car. qui sequitur Ang. inveni tamen notatum 
+        <lb ed="#C" n="104"/>uper Genesi, quod intellectus attribuitur patri, voluntas 
+        <lb ed="#C" n="105"/>niio, memoria S. S. intellectus nempe generat voiuntare. 
+        <lb ed="#C" n="106"/>&amp; Pater Filiu, memoria ab utroque ic. intellectu &amp; volutat 
+        <lb ed="#C" n="107"/>pcedit, &amp; S. S. ab utroque ic. Patre &amp; Fsio procedit, sicut ilia 
+        <lb ed="#C" n="108"/>gi pienius manifestat. Et licet supradicti videatur sibi con 
+        <lb ed="#C" n="109"/>tradicere, tame consideratis diversis respectib quos naber, 
+        <lb ed="#C" n="110"/>nullatenus contradicut, &amp; sive ae nis, vel de iiis tribus ex¬ 
+        <lb ed="#C" n="111"/>ponere volueris, du sane intelligas, non errabis. Et haec est 
+        <lb ed="#C" n="112"/>imago Dei in homine b. 33 q. 5. hec tmago. non ergo divina B 
+        <lb ed="#C" n="113"/>substantia coposita est verbi Dei, et carnis, sicut dixit Eu¬ 
+        <lb ed="#C" n="114"/>tyches Abbas Costatinopolitanus, cus errore poatur 15. aist 
+        <lb ed="#C" n="115"/>canones. §. quarta &amp; tame est verus Deus, &amp; verus nomo, in 
+        <lb ed="#C" n="116"/>fra de haere. cum Christus. Sic patet quare dicatur simplex o 
+        <lb ed="#C" n="117"/>mnino, quia licet in perionis it proprietatu piuralitas, ju 
+        <lb ed="#C" n="118"/>xta illud &amp; in perionis proprietas, tamen in ea, sc. esientia 
+        <lb ed="#C" n="119"/>nec diversitas partium, nec proprietatu realis pluralitas in¬ 
+        <lb ed="#C" n="120"/>venitur, unde Philoiophus, ipsum principium. quod eit De¬ 
+        <lb ed="#C" n="121"/>us, non eit contentu sub genere, neque sub dirfnnitione, ne 
+        <lb ed="#C" n="122"/>lubest demonitrationi, expers eit qualitatis, quantitatis, 
+        <lb ed="#C" n="123"/>quotitatis, ubi, &amp; quado, &amp; motus sibi, nec est aliquid simi 
+        <lb ed="#C" n="124"/>se, nec comunicans, nec contrariu: ergo ipsa divina eisen 
+        <lb ed="#C" n="125"/>tia, sive trinitas, nec describenda eit, nec coparanda alicu 
+        <lb ed="#C" n="126"/>creaturae, &amp; si hoc fiat aliquando ob initructione simplici¬ 
+        <lb ed="#C" n="127"/>im, attingere tame no possumus, quia inter creatorem &amp; 
+        <lb ed="#C" n="128"/>creatura, non potest tata similitudo notari, quin inter eo¬ 
+        <lb ed="#C" n="129"/>it major dissimilitudo notanda, jr eod. damnamus, Q. cum 
+        <lb ed="#C" n="130"/>rgo veritas. Et secund. Arist. prima cauia superior est nar¬ 
+        <lb ed="#C" n="131"/>ratione, &amp; no deficiut linguae a narratione ejus, niii ppte 
+        <lb ed="#C" n="132"/>narratione causae ipsius, quonia ipsa eit super omne cau 
+        <lb ed="#C" n="133"/>am, &amp; non narratur nisi per causas secundas, quae illumi¬ 
+        <lb ed="#C" n="134"/>natur a lumine primae causae, quod eit, quonia prima cau¬ 
+        <lb ed="#C" n="135"/>la non cessat illuminare suu cauiiatu, &amp; ipsa illuminatur a 
+        <lb ed="#C" n="136"/>lumine suo, quonia ipsa eit iumen, iupra quod non eit iu 
+        <lb ed="#C" n="137"/>nen. &amp; insoan. cap. i. Erat lux vera, quae illuminat omnem 
+        <lb ed="#C" n="138"/>nominem venientem in hunc mundum. Est ergo incom 
+        <lb ed="#C" n="139"/>rehensibilis &amp; inerrabilis, infr, eod.c.i.in prin. unde dicitur 
+        <lb ed="#C" n="140"/>ntra omnia non inciuius, extra omnia no exciuius, iupr 
+        <lb ed="#C" n="141"/>imnia no elatus. Dicit etiam Aug. non tres dicimus Deos 
+        <lb ed="#C" n="142"/>sed unum Deu Omnipotentem, aeternu, &amp; invisibilem, in¬ 
+        <lb ed="#C" n="143"/>commutabilem, qui totus ubique est, totus ubique praesens 
+        <lb ed="#C" n="144"/>non per partes divisus, sed totus in omnib. no localiter, sed 
+        <lb ed="#C" n="145"/>potentialiter, iubaudi, &amp; essentialiter &amp; praesentialiter, qui
+      <!--  <lb ed="#C" n="146"/>ADDITIONES. 
+        <lb ed="#C" n="147"/>1 Poni fundamentum) Addetex. in c. cum Panlus, I. 9. 1. &amp; in 
+        <lb ed="#C" n="148"/>c. ult. de praesbyte. non bapti 
+        <lb ed="#C" n="149"/>Imago Dei in homine) Adde, verba ista sunt originalia 
+        <lb ed="#C" n="150"/>Genesis 1 
+        <lb ed="#C" n="151"/>Non tres dicimus Deos) Adde Symbolum Athanalii.--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0024.xml-->
+      <pb ed="#C" n="7"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>sine commutatione sui, mutabilia creavit, &amp; creaturan 
+      <lb ed="#C" n="2"/>gubernans, semper manens quod est, cui nihil acciden 
+      <lb ed="#C" n="3"/>esse poterit, quia simplicis divinitatis naturae, nihil add 
+      <lb ed="#C" n="4"/>vel minui potest, quia semper est quod est, cui est proprium 
+      <lb ed="#C" n="5"/>est, cui semper aeternum est, cui idem est esse, vivere, &amp; in 
+      <lb ed="#C" n="6"/>telligere: ergo timeas tangere, quia scriptum est, Noli me 
+      <lb ed="#C" n="7"/>tangere. &amp; alibi, bestia qui tetigerit montem, lapidabitur 
+      <lb ed="#C" n="8"/>noli ipsam in hac vita comprehendere, sicut est, nec omni 
+      <lb ed="#C" n="9"/>judicia ejus, si non vis errare. Paulus. ô altitudo divitiari 
+      <lb ed="#C" n="10"/>quam incomprehensibilia suntjudicia ejus. Idem vide 
+      <lb ed="#C" n="11"/>mus nunc per speculum in aenigmate, tunc autem facie a¬ 
+      <lb ed="#C" n="12"/>faciem. Psal. Judicia Domini abyssus multa. &amp; Esa. Generation. 
+      <lb ed="#C" n="13"/>ejus quis enarrabit? crede solum, &amp; est satis, non est tuae f. 
+      <lb ed="#C" n="14"/>cultatis solvere corrigiam, ut patet infra. eod, cap. 1.
+    </p>
+            <p xml:id="nbht7y-d1e60-d1e388">
+               <lb ed="#C" n="15"/>Et cur dicatur Trinitas. Et certe qui 
+      <lb ed="#C" n="16"/>licet una sit 
+      sub<lb ed="#C" n="17" break="no"/>stantia, essentia, seu natura divina, est tamen pater qui gi 
+      <lb ed="#C" n="18"/>nerat. Filius qui gignitur, Spiritus sanctus qui procedit 
+      <lb ed="#C" n="19"/>Substantia vero non est generans, neque genita, neque pro 
+      <lb ed="#C" n="20"/>cedens, ut sic distinctiones sint in personis, &amp; unitas in na 
+      <lb ed="#C" n="21"/>tura, inf. eo firmiter, post prin. ibi tres quidem personae, &amp;c. &amp;? 
+      <lb ed="#C" n="22"/>haec sancta Trinitas, in prin. &amp; cdamnamus. § nos autem. verun 
+      <lb ed="#C" n="23"/>circa hoc notandum est, quod nominum quaedam sunte 
+      <lb ed="#C" n="24"/>sentialia, quaedam personalia, quaedam notionalia. Essen 
+      <lb ed="#C" n="25"/>tialia sunt, quae in numero singulari, de tribus personiss 
+      <lb ed="#C" n="26"/>mul &amp; singulatim debentur, ut Deus, bonus, justus, aeter 
+      <lb ed="#C" n="27"/>nus, omnipotens, &amp; similia: Dicimus enim singulatim 
+      <lb ed="#C" n="28"/>Pater est Deus, Filius est Deus, Spiritus sanctus est Deus 
+      <lb ed="#C" n="29"/>in simul vero Pater, Filius, &amp; Spiritus sanctus sunt Deus 
+      <lb ed="#C" n="30"/>non Dii; bonus, non boni, &amp; sic de aliis; unde in Evang 
+      <lb ed="#C" n="31"/>lio, unus est Deusbonus. Sic ergo incongrue diceremu 
+      <lb ed="#C" n="32"/>quod essent tres Dii, tres omnipotentes, tres aeterni, und 
+      <lb ed="#C" n="33"/>Athanasius, &amp; tamen non tres dii, sed unus est Deus. Per 
+      <lb ed="#C" n="34"/>sonalia sunt, quae supponunt personam tantum unam, 8 
+      <lb ed="#C" n="35"/>aliam in singulari numero, ut Pater, Filius, &amp; Spiritus san 
+      <lb ed="#C" n="36"/>ctus. Notionalia sunt quae notant distinctionem in per 
+      <lb ed="#C" n="37"/>sonis, ut generans, generata, &amp; procedens, haec diversis me 
+      <lb ed="#C" n="38"/>dis teneri non possunt, adjective dicuntur tantum de pe¬ 
+      <lb ed="#C" n="39"/>sonis, &amp; non de essentia, substantive intelliguntur, tamd 
+      <lb ed="#C" n="40"/>essentia, quam de personis, unde haec propositio, pater ess 
+      <lb ed="#C" n="41"/>generans, simpliciu er vera est, sive haec dictio generans,t 
+      <lb ed="#C" n="42"/>neatur adjective, sive substantive. Sin autem dicatur, sub 
+      <lb ed="#C" n="43"/>stantia divina est generans, si haec dictio Generans, tene 
+      <lb ed="#C" n="44"/>tur adjective, falsa est, quia notat distinctionem in essen 
+      <lb ed="#C" n="45"/>tia. Si vero teneatur substantive, vera est, &amp; est sensus, sul 
+      <lb ed="#C" n="46"/>stantia divina est generans, id est persona quae generat: ur 
+      <lb ed="#C" n="47"/>de haec omnia generans genita, procedens, juncta nom 
+      <lb ed="#C" n="48"/>nibus personarum, distinctionem notant personarum 
+      <lb ed="#C" n="49"/>juncta vero cum his substantia, natura, seu essentia divina 
+      <lb ed="#C" n="50"/>tenentur substantive, &amp; notant essentiam in persona. E 
+      <lb ed="#C" n="51"/>licet alius sit pater, alius filius, alius Spiritus sanctus, no 
+      <lb ed="#C" n="52"/>tamen alius, sed id, quod est pater, est &amp; filius, idem om 
+      <lb ed="#C" n="53"/>nino est &amp; Spiritus lanctus, inf. eo. damnamus. &amp; §. licet ig 
+      <lb ed="#C" n="54"/>tur) Disjunctiva enim nomina sive partitiva, ut unus, duo 
+      <lb ed="#C" n="55"/>aliquis, alius, &amp; similia, aliquando significant essentiam, 
+      <lb ed="#C" n="56"/>liquando non nam juncta cum nominibus personalibus 
+      <lb ed="#C" n="57"/>&amp; non essentialibus in masculino genere, &amp; non foemini 
+      <lb ed="#C" n="58"/>no, notant distinctionem in personis, puta pater est unu 
+      <lb ed="#C" n="59"/>filius est alius. pater &amp; filius sunt duo, vel personae patr¬ 
+      <lb ed="#C" n="60"/>&amp; filii sunt duae. juncta vero cum essentialibus, ita quo¬ 
+      <lb ed="#C" n="61"/>eis innitantur, essentiam notant, ut pater est unus Deui 
+      <lb ed="#C" n="62"/>pater &amp; filius sunt una essentia. In neutro vero genere es 
+      <lb ed="#C" n="63"/>rentiam tantum notant, ut pater, &amp; filius sunt unum, in 
+      <lb ed="#C" n="64"/>est una res, &amp; ideo optime dicitur, alius pater, alius filius 
+      <lb ed="#C" n="65"/>id est alia est persona patris, &amp; alia est persona filii, no 
+      <lb ed="#C" n="66"/>tamen aliud, imo idem sunt in substantia, ut jam pate 
+    </p>
+            <!-- l1t1 part 2 -->
+            <p xml:id="nbht7y-d1e60-d1e505">
+               <lb ed="#C" n="67"/>De fide Catholica. Rubrici¬ 
+      <lb ed="#C" n="68"/>cae, II. Pars. 
+    </p>
+            <p xml:id="nbht7y-d1e60-d1e512">
+               <lb ed="#C" n="69"/>SUMMARIA, 
+      <lb ed="#C" n="70"/>Fides XI. modis sumitur 
+      <lb ed="#C" n="71"/>2. Fides quid est 
+      <lb ed="#C" n="72"/>Fidei species quot sunt. 
+      <lb ed="#C" n="73"/>4. Fidei articuli quot sum 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0024.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="74"/>Poena non credentium, dicitur gehenna 
+      <lb ed="#C" n="75"/>Salvari nullus potest extra Ecclesiam 
+    </p>
+            <p xml:id="nbht7y-d1e60-d1e534">
+               <lb ed="#C" n="76"/>SEquitur de secunda parte 
+      Ru<lb ed="#C" n="77" break="no"/>bricae, 
+      sci<lb ed="#C" n="78" break="no"/>licet de fide Catholica, in qua videndum est, 
+      <lb ed="#C" n="79"/>quot modis accipiatur fides, quid sit fides 
+      <lb ed="#C" n="80"/>prout hic accipitur. Quot sunt species fi 
+      <lb ed="#C" n="81"/>dei. Quot, &amp; qui articuli. Quae paena non credentium. Et 
+      <lb ed="#C" n="82"/>quod praemium catholicorum
+    </p>
+            <p xml:id="nbht7y-d1e60-d1e553">
+               <lb ed="#C" n="83"/>Quot modis accipiatur ide. Etquiden 
+      <lb ed="#C" n="84"/>XI. nam primo 
+      po<lb ed="#C" n="85" break="no"/>nitur pro sacramento Baptismi. 15. dist. de Iudaeis. inf. de Bapt 
+      <lb ed="#C" n="86"/>debitum. Secundo, pro castitate thori, 27. 4. 2. conjuges. Tei 
+      <lb ed="#C" n="87"/>tio, pro conventionali securitate, quae etiam hosti servan 
+      <lb ed="#C" n="88"/>da est, 23. q. prima noli. quoniam grave est fidem fallere ff. d 
+      <lb ed="#C" n="89"/>const. pe leg. 1. respon. 1. Quarto, pro conscientia, inf dere. spo 
+      <lb ed="#C" n="90"/>litteras, §. porro, &amp; depraesc. quontam omne. 28. q. 1.§. 1. de poe. dis 
+      <lb ed="#C" n="91"/>3. §. illud ultra medium, ad fi dist. Quinto pro credulitate, 
+      <lb ed="#C" n="92"/>secundum quam credimus id, quod non videmus. Gre¬ 
+      <lb ed="#C" n="93"/>Fides non habet meritum; cui humana ratio praebet ex 
+      <lb ed="#C" n="94"/>perimentum. Sexto, pro legalitate, seu confidentia, Insti 
+      <lb ed="#C" n="95"/>tutio, de rebus di §. venditae. Septimo, pro aequalitate, &amp; ex 
+      <lb ed="#C" n="96"/>uberantia actionum. Instit. de actio §. actionum, &amp; inf. de ex 
+      <lb ed="#C" n="97"/>ce, cum venerabilis. §. I. Octavo, pro legalitate, seu fidelita¬ 
+      <lb ed="#C" n="98"/>te dolo contraria, infra de posi. bo. si. Nono, pro probabil 
+      <lb ed="#C" n="99"/>ignorantiâ, ff. de acquir. rerum dominio, qui bona fide. &amp; l. bo¬ 
+      <lb ed="#C" n="100"/>nae fidei, vel probabili credulitate, de ver. sign. bonae fidei em 
+      <lb ed="#C" n="101"/>ptor. Decimo, pro simplicitate bona, seu innocentia. und¬ 
+      <lb ed="#C" n="102"/>dicitur communiter, bonae fidei homo est, qui d. non est du¬ 
+      <lb ed="#C" n="103"/>plex, non est malitiosus, sed innocens, qui omni verbo cre 
+      <lb ed="#C" n="104"/>dit. 22.q. 4. Innocens. Undecimo, pro collectione articulo 
+      <lb ed="#C" n="105"/>rum, ut hic. &amp; 24. qui. haec est fides, &amp; in Symbolo Athanasu. Qui 
+      <lb ed="#C" n="106"/>cunque vult. Recte autem a fide incipit, tanquam a funda¬ 
+      <lb ed="#C" n="107"/>mento, quod in locum solidum, scil. summam Trinitatem, 
+      <lb ed="#C" n="108"/>quam tractaturus de jure providit, ut supra in prin. huju 
+      <lb ed="#C" n="109"/>summae diximus, jaciat, quia omne quod non est ex fide 
+      <lb ed="#C" n="110"/>peccatum est, ideo juri operam daturo, &amp; proficere desi 
+      <lb ed="#C" n="111"/>deraturo, primo de fide agendum est, quia in malevolan 
+      <lb ed="#C" n="112"/>animam non introibit sapientia, nec in corpore peccatis sub 
+      <lb ed="#C" n="113"/>dito habitabit. Primo etiam jubemur in fide instrui, ut sic 
+      <lb ed="#C" n="114"/>ad Baptismum sapientiae creduli veniamus, de conse dist. 4 
+      <lb ed="#C" n="115"/>ante Baptismum. &amp; dicit Aug. Fides per dilectionem opera 
+      <lb ed="#C" n="116"/>tur, est fundamentum omnium virtutum. Greg. Ubi Chri 
+      <lb ed="#C" n="117"/>stus non est, subaudi, perfidem fundamentum nullius 
+      <lb ed="#C" n="118"/>boni operis est supra aedificium, 1q.1. cum Paulu
+    </p>
+            <p xml:id="nbht7y-d1e60-d1e634">
+               <lb ed="#C" n="119"/>Quid est fides?TProutuc acipitur, deseribit 
+      <lb ed="#C" n="120"/>Paulus in epistola ad Hebraeos 
+      <lb ed="#C" n="121"/>II. c. dicens, fides est substantia sperandarum rerum argu 
+      <lb ed="#C" n="122"/>mentum non apparentium. Sperandarum dicit, quia spe 
+      <lb ed="#C" n="123"/>rare debemus, quia dictum est a Prophetis esse futurum 
+      <lb ed="#C" n="124"/>Argumentum cum dicit, quia per prophetias jam com 
+      <lb ed="#C" n="125"/>pletas, debemus habere probationem de futuris non ap 
+      <lb ed="#C" n="126"/>parentibus, sicut de fine mundi, de diejudicii, &amp; simili 
+      <lb ed="#C" n="127"/>bus, sed haec descriptio non videtur convertibilis cum suc 
+      <lb ed="#C" n="128"/>descripto, quia spes similiter est substantia, &amp;c. ut supra 
+      <lb ed="#C" n="129"/>unde videtur inferendum, quod fides est spes, quod fal 
+      <lb ed="#C" n="130"/>sum est: propterea haec diffinitio videtur loqui de futuris 
+      <lb ed="#C" n="131"/>tantum, &amp; tamen fides habet se ad praesentia, quia creden 
+      <lb ed="#C" n="132"/>dum est, quod Christus sit, qui quotidie in altari confici 
+      <lb ed="#C" n="133"/>tur. Item ad praeterita, sicut ipsum natum, &amp; passum fu 
+      <lb ed="#C" n="134"/>isse, &amp; ad futura, puta eundem venturum judicare, &amp;c 
+      <lb ed="#C" n="135"/>unde potest dici, quod non est diffinitio, sed quaedam no¬ 
+      <lb ed="#C" n="136"/>tificatio. Magistraliter vero sic diffinitur, Fides est vo 
+      <lb ed="#C" n="137"/>luntaria certitudo absentium, infra scientiam, &amp; supra¬ 
+      <lb ed="#C" n="138"/>opinionem constituta: scientia enim habet cognitionem 
+      <lb ed="#C" n="139"/>opinio dubitationem, inter haec duo fides media est. nec 
+      <lb ed="#C" n="140"/>enim habet cognitionem. unde Augu fides est credere, 
+      <lb ed="#C" n="141"/>quod non vides, sed nec dubitationem, quia dubius in fi¬ 
+      <lb ed="#C" n="142"/>de infidelis est, infra de haer.c.i. secundum Io. ut quid Aposto 
+      <lb ed="#C" n="143"/>lus lapidatur. Quod enim dixit, argumentum non appa 
+      <lb ed="#C" n="144"/>rentium, totum solvit, apparet ne illud secretum mysteri¬ 
+      <lb ed="#C" n="145"/>um, quod sub specie panis latet, quod non potest confice 
+      <lb ed="#C" n="146"/>re, nisi sacerdos rite secundum claves ecclesiae concessa 
+      <lb ed="#C" n="147"/>Apostolis, &amp; suis successorib. ordinatus. inf. in eo firmiter, 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="148"/>ADDITIO. 
+      <lb ed="#C" n="149"/>a Quot modis accipiatur) Adde gl. in c. movet, 22. 9. 1--> 
+      <pb ed="#C" n="8"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>hna. ubi cedit natura miraculo: &amp; virtus supra consuetu 
+      <lb ed="#C" n="2"/>dinem operatur, inf. de cel. mis. cum Marthae, §. quaesirist. 
+      <lb ed="#C" n="3"/>Item nunquid apparet ibi Christum passum fuisse, nisi fi 
+      <lb ed="#C" n="4"/>dem adhibeas dictis veridicis &amp; Scripturis, ergo non ap 
+      <lb ed="#C" n="5"/>parentium, nedum futura, sed praeterita &amp; praesentia con 
+      <lb ed="#C" n="6"/>prehendit. Haec etiam descriptio sic intellecta, spei non co 
+      <lb ed="#C" n="7"/>venit, quia spes non respicit praeterita, sed futura. Verun 
+      <lb ed="#C" n="8"/>haec est fides catholica, quam Romana tenet ecclesia, 8&amp; 
+      <lb ed="#C" n="9"/>quae in Symbolo continetur, 24. q. 1. haec est fides, quae fi¬ 
+      <lb ed="#C" n="10"/>miter est credenda, &amp; simpliciter confitenda, nf. eo. c. 1. 1. 
+      <lb ed="#C" n="11"/>princ. 23. dist. episcopus. de qua non est turbis coadunatis pr 
+      <lb ed="#C" n="12"/>blice disputandum. C. eo nemo. in prm. quia debemus ess¬ 
+      <lb ed="#C" n="13"/>soliciti, ne margaritas nostras ante porcos mittamus, n. 
+      <lb ed="#C" n="14"/>3. nolite. &amp; ne de secretioribus divinae scientiae omnibu 
+      <lb ed="#C" n="15"/>proloquamur. 43. dist. in mandatis, nec magistris &amp; custe 
+      <lb ed="#C" n="16"/>dibus canonum fas est inire certamen cum hominibus alic 
+      <lb ed="#C" n="17"/>nae communionis, 23. q 3. cum quib. in fin. Quod intellige, cun 
+      <lb ed="#C" n="18"/>quis fidelis publice contendit de fide, ex hoc tumultus, 8 
+      <lb ed="#C" n="19"/>per fidei occasionem quaerens, ut in I. praeallegata nemo. alia 
+      <lb ed="#C" n="20"/>in fide sunt simplices instruendi 10. q... placuit, de haere. con 
+      <lb ed="#C" n="21"/>fundendi, 19. dist. secundum de consec. dist. 2. in Christo pater,( 
+      <lb ed="#C" n="22"/>in plerisque ca. eiusdem &amp; C. de episc. &amp; cler. quoniam
+    </p>
+            <p xml:id="nbht7y-d1e60-d1e753" n="3">
+               <lb ed="#C" n="23"/>Quot sunt species fidei? Duz, una estfor 
+      <lb ed="#C" n="24"/>mata, quam habent 
+      <lb ed="#C" n="25"/>boni &amp; sancti: alia informis, quam mali, sc. infideles &amp; exi 
+      <lb ed="#C" n="26"/>stentes in mortali, quinetiam &amp; daemones, fides peccate 
+      <lb ed="#C" n="27"/>rum caret forma, quia non habent sinceram fidem inf 
+      <lb ed="#C" n="28"/>de elect. Osius. Prima est virtus, a qua dicuntur fidele 
+      <lb ed="#C" n="29"/>quicunque baptizantur, quousque incidant in mortali 
+      <lb ed="#C" n="30"/>ae cons. d. 4. quod autem apud. talis fides dicitur informa 
+      <lb ed="#C" n="31"/>ta charitate, id est, valde formata &amp; infixa. unde &amp; sic pe 
+      <lb ed="#C" n="32"/>test diffiniri: Fides est charitas, qua quis credit quo¬ 
+      <lb ed="#C" n="33"/>diligit, charitas dignior est: penes quam consistit omni 
+      <lb ed="#C" n="34"/>meritum, &amp; est fons vivus, cui non communicat ali¬ 
+      <lb ed="#C" n="35"/>nus, sc. a fide. inf. de regulis, licet, n sin. &amp; de poeni. dist. 1. 
+      <lb ed="#C" n="36"/>tem ut Christus ait. dist. 2. §. charitas. unde dicitur, fides ve 
+      <lb ed="#C" n="37"/>ra est virtus quam charitas comitatur. Apostolus, Hae¬ 
+      <lb ed="#C" n="38"/>est fides, quae per dilectionem operatur, de poen. dist. 
+      <lb ed="#C" n="39"/>§. item sine charitate, &amp; non ea quae daemonum est, qui¬ 
+      <lb ed="#C" n="40"/>iecundum lacobum, c. 2. si credis, quoniam unus est De 
+      <lb ed="#C" n="41"/>us, bene facis. &amp; daemones credunt, &amp; contremiscunt 
+      <lb ed="#C" n="42"/>sed fides sine operibus mortua est. De fide informata cha 
+      <lb ed="#C" n="43"/>ritate, dicit Abacuc. Iustus meus ex fide vivit. Fides autem no 
+      <lb ed="#C" n="44"/>stra eadem est in substantia cum fide antiquorum, vt tactum 
+      <lb ed="#C" n="45"/>est. unde &amp; Matth. 21. Turbae autem quae praecedebant, 8 
+      <lb ed="#C" n="46"/>quae sequebantur clamabant, dicentesb Osanna fili¬ 
+      <lb ed="#C" n="47"/>David, sed distat in qualitate; quia quod ipsi credebantd 
+      <lb ed="#C" n="48"/>futuro, sc. filium Dei nasciturum, nos credimus de praete 
+      <lb ed="#C" n="49"/>rito, sc. Christum natum 
+    </p>
+            <p xml:id="nbht7y-d1e60-d1e814" n="4">
+               <lb ed="#C" n="50"/>Quot &amp; qui Articuli. Secundum quo 
+      <lb ed="#C" n="51"/>dam 12. c juxta nu 
+      <lb ed="#C" n="52"/>merum Apostolorum, quia Apostoli per inspirationem 
+      <lb ed="#C" n="53"/>Spiritus sancti congregati Symbolum minorem compe 
+      <lb ed="#C" n="54"/>suerunt, &amp; singuli singulos articulos apposuerunt, un 
+      <lb ed="#C" n="55"/>de dicitur symbolus, quasi singulorum bolus, &amp; inven 
+      <lb ed="#C" n="56"/>in Scripturis (licet non Authenticis) quis Apostolorun 
+      <lb ed="#C" n="57"/>articulum apposuerit in hunc modum. Primus est de pa 
+      <lb ed="#C" n="58"/>tre, &amp; probat eum omnipotentem &amp; creatorem, &amp; ipsun 
+      <lb ed="#C" n="59"/>apposuit princeps Apostolorum, scilicet Petrus, dicens 
+      <lb ed="#C" n="60"/>Credo in d Deum patrem omnipotentem, creatorer 
+      <lb ed="#C" n="61"/>coeli, &amp; terrae. hoc probatur infra eod, cap. 1. in prin. &amp; ibi i 
+      <lb ed="#C" n="62"/>num universorum principium, &amp;c. Secundus est de filio, &amp; 
+      <lb ed="#C" n="63"/>probat eum verum Deum, &amp; hunc apposuit Andrea 
+      <lb ed="#C" n="64"/>frater Petri, dicens, Et in Jesum Christum Filium ejusv 
+      <lb ed="#C" n="65"/>nicum Dominum nostrum. Tertius est de eodem, &amp; 
+      <lb ed="#C" n="66"/>probat ipsum conceptum de Spiritu sancto, &amp; natum ex 
+      <lb ed="#C" n="67"/>Maria Virgine, &amp; hunc apposuit Jacobus frater Joan 
+      <lb ed="#C" n="68"/>nis, dicens. Qui conceptus est de opiritu sancto natus 
+      <lb ed="#C" n="69"/>ex Maria Virgine. Quartus de eodem, &amp; probat ejus pas¬ 
+      <lb ed="#C" n="70"/>sionem gloriosam, &amp; pretiosam mortem, &amp; sepulturam 
+      <lb ed="#C" n="71"/>&amp; hunc apposuit Joan. dicens. Passus sub Pontio Pilate 
+      <lb ed="#C" n="72"/>crucifixus, mortuus, &amp; sepultus. Sic ergo debemus fi 
+      <lb ed="#C" n="73"/>lium credere verum Deum, &amp; verum hominem, infr. d 
+      <lb ed="#C" n="74"/>cel. mis. in quadam, de her cum Christus, unde qui immortalis, &amp; 
+      <lb ed="#C" n="75"/>impassibilis erat respectu deitatis, factus est passibilis, e 
+      <lb ed="#C" n="76"/>mortalis respectu humanitatis, inf. eod firmiter. C. eo. I.ult 
+      <lb ed="#C" n="77"/>Quintus de eodem, &amp; probat descensum ejus ad inferos, &amp; 
+      <lb ed="#C" n="78"/>jus resurrectionem, &amp; hunc apposuit Thomas, dicens
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>Descendit ad inferos, tertia die resurrexit a mortuis. Sex 
+      <lb ed="#C" n="80"/>tus de eodem, &amp; probat ejus ascensionem, &amp; hunc appo¬ 
+      <lb ed="#C" n="81"/>suit Jaco. Alphaei, dicens. Ascendit ad coelos, sedet ac 
+      <lb ed="#C" n="82"/>dexteram Dei patris omnipotentis, descendit tamen irn 
+      <lb ed="#C" n="83"/>anima, resurrexit in carne, ascendit pariter in utroque, ut 
+      <lb ed="#C" n="84"/>infra co. firmiter, §. haec sancta. Septimus de eodem, &amp; pro 
+      <lb ed="#C" n="85"/>bat ejus judicium, &amp; hunc apposuit Philippus, dicens 
+      <lb ed="#C" n="86"/>Inde venturus est judicare vivos, &amp; mortuos. Hi sex ar¬ 
+      <lb ed="#C" n="87"/>ticuli, qui attribuuntur filio comprobantur per ordinem 
+      <lb ed="#C" n="88"/>infr eod cap i. §. haec sancta Trinitas, ibi, &amp; tandem unigenitus 
+      <lb ed="#C" n="89"/>&amp;c. Octavus, de Spiritusancto, &amp; hunc apposuit Bar¬ 
+      <lb ed="#C" n="90"/>tholomaeus, dicens, Credo in Spiritumsanctum, infr. eo¬ 
+      <lb ed="#C" n="91"/>dem capitulo primo circa princip. ibi Spiritus sanctus, Nonu 
+      <lb ed="#C" n="92"/>de eodem probat &amp; claritatem, &amp; quod instinctu ejus¬ 
+      <lb ed="#C" n="93"/>dem Ecclesiae constituta est, &amp; regenda omni schismate 
+      <lb ed="#C" n="94"/>procul pulso, &amp; hunc apposuit Matthaeus, dicens: San 
+      <lb ed="#C" n="95"/>ctam ecclesiam catholicam, Sanctorum communionem 
+      <lb ed="#C" n="96"/>hoc tangitur, infra eodem capi tulo primo, §. una, hunc articu¬ 
+      <lb ed="#C" n="97"/>lum offendunt schismatici, de quibus infra de sun. Deci¬ 
+      <lb ed="#C" n="98"/>mus, de eodem, &amp; probat ejus benignitatem, &amp; hunc ap¬ 
+      <lb ed="#C" n="99"/>posuit Simon, dicens, Remissionem peccatorum, hoc ha¬ 
+      <lb ed="#C" n="100"/>betur inf. eo cap. 1§. ult &amp; penul. Undecimus, de eodem, &amp; 
+      <lb ed="#C" n="101"/>probat ejus potestatem, &amp; hunc apposuit Thadaeus, di¬ 
+      <lb ed="#C" n="102"/>cens, Carnis resurrectionem, &amp; hic comprobatur infr. e¬ 
+      <lb ed="#C" n="103"/>od capitulo primo, §. haec sancta, ibi, qui omnes, cum suis propriis 
+      <lb ed="#C" n="104"/>&amp;c. Duodecimus, de eodem, &amp; probat ejus remunera¬ 
+      <lb ed="#C" n="105"/>tionem, &amp; aeternitatem, &amp; hunc apposuit Matthias, di¬ 
+      <lb ed="#C" n="106"/>cens: Vitam aeternam, &amp; hoc tangitur infra eodem, capitu 
+      <lb ed="#C" n="107"/>lo primo § haec sancta. Sibene inteiligas, unicus &amp; primu: 
+      <lb ed="#C" n="108"/>articulus attribuitur patri. Nam sicut unitas est princi 
+      <lb ed="#C" n="109"/>pium omnis numeri, nec est numerus, nec numerum ha¬ 
+      <lb ed="#C" n="110"/>bet, sic pater est principium sine principio, &amp; ideo unitas 
+      <lb ed="#C" n="111"/>ei appropriatur. Sequens vero sive secudus, tertius, quar¬ 
+      <lb ed="#C" n="112"/>tus, quintus, sextus, &amp; septimus, appropriantur filio: qui 
+      <lb ed="#C" n="113"/>senarius numerus perfectus est, quare per ipsum perfe¬ 
+      <lb ed="#C" n="114"/>ctio designatur, quae convenienter filio assignatur; quia 
+      <lb ed="#C" n="115"/>sicut dicitur ad Eph I. Deus pater proposuit in dispensa¬ 
+      <lb ed="#C" n="116"/>tione plenitudinis temporum instaurare in Christo om¬ 
+      <lb ed="#C" n="117"/>nia, quae in coelis, &amp; quae in terra sunt. Sed octavus, no¬ 
+      <lb ed="#C" n="118"/>nus, decimus, undecimus, &amp; duodecimus, &amp; sic quinque 
+      <lb ed="#C" n="119"/>Spirituisancto appropriantur: quia per quinarium signi¬ 
+      <lb ed="#C" n="120"/>ficatur universorum remissio peccatorum, quae fit pei 
+      <lb ed="#C" n="121"/>gratiam, quae est sancto Spiritui assignanda. Sic ergo naec 
+      <lb ed="#C" n="122"/>distinctio aequalitati personarum nihil detrahit, quia tres 
+      <lb ed="#C" n="123"/>personae consubstantiales sunt, &amp; coaequales, &amp;c, infra eo 
+      <lb ed="#C" n="124"/>lem, capitulo. 1. resp. secundum, quod ipsarum appropri¬ 
+      <lb ed="#C" n="125"/>tio demonstratur, sicut dicit August. in lib. de Spiritu. &amp; a¬ 
+      <lb ed="#C" n="126"/>nima. Sed secundum dominum Hug Card. 12. sunt art 
+      <lb ed="#C" n="127"/>culi. 6. de divinitate, &amp; 6 de humanitate. Primus artic. di 
+      <lb ed="#C" n="128"/>divinitate est, quod Deus est unus. Secundus, quod De 
+      <lb ed="#C" n="129"/>us est aeternus; Tertius, quod Deus est author omnium 
+      <lb ed="#C" n="130"/>Quartus, quod est justificator impiorum, ibi, remissioni 
+      <lb ed="#C" n="131"/>peccatorum. Quintus, quod est suscitator mortuorum 
+      <lb ed="#C" n="132"/>Sextus, quod est remunerator bonorum &amp; malorum. I. 
+      <lb ed="#C" n="133"/>tem primus art. de humanitate est, quod natus est filiu: 
+      <lb ed="#C" n="134"/>Dei de virgine. Secundus, quod mortuus, secundun 
+      <lb ed="#C" n="135"/>quod homo. Tertius, quod descendit in anima ad infero 
+      <lb ed="#C" n="136"/>Quartus, quod resurrexit in corpore Quintus, quodascen 
+      <lb ed="#C" n="137"/>dit in corpore &amp; anima. Sextus, quod vivos &amp; mortuo 
+      <lb ed="#C" n="138"/>judicabit. Secundum alios vero, sunt 14. artic. quorum 
+      <lb ed="#C" n="139"/>7 pertinent ad deitatem, &amp; 7. ad humanitatem. Primus es 
+      <lb ed="#C" n="140"/>de unitate essentiae ibi, Credo in Deum, quid. non Deos, qui 
+      <lb ed="#C" n="141"/>non sunt plures, sed unns tantum, unde in majori Symbo¬ 
+      <lb ed="#C" n="142"/>lo, Credo in unum Deum, &amp; hic retorquetur ad tres se¬ 
+      <lb ed="#C" n="143"/>quentes, qui denotant discretionem personarum. Primus 
+      <lb ed="#C" n="144"/>est de persona patris. unde dicit. Patrem omnipotentem 
+      <!--<lb ed="#C" n="145"/>ADDITIONES. 
+      <lb ed="#C" n="146"/>b Osanna) Adde de isto verbo, vide per Archi. inc. mulii decon 
+      <lb ed="#C" n="147"/>secrat. dist. 
+      <lb ed="#C" n="148"/>Duodecim. Adde Archidia. in capit canones, 15. dist. Et an Pa¬ 
+      <lb ed="#C" n="149"/>pa possit facere novum articulum fidei, vide per Zenze in ex 
+      <lb ed="#C" n="150"/>travag. Ioan. 22. incip. Cum inter nonnullos, sed Theologi tenent 
+      <lb ed="#C" n="151"/>quod sunt 14. secundum Io. And. in ista rub. in lectura. tu vidi 
+      <lb ed="#C" n="152"/>Sanctum Thom. secunda secundae, q. I. art. 7 
+      <lb ed="#C" n="153"/>d Credo. Addegl. in verbo, apostolos. in c. 1. 15. dist. &amp; S. Tho. 2. 2 
+      <lb ed="#C" n="154"/>73. ar. 9. &amp; hoc fuit figuratum per Iosue 4.c. ubi dixit Deus, E 
+      <lb ed="#C" n="155"/>lige tibi viros singulos per singulas tribus. Et sunt tria Sym 
+      <lb ed="#C" n="156"/>bola. primum ab Apostolis, alterum in concilio Niceno, quod 
+      <lb ed="#C" n="157"/>cantatur in missa. alterum editum fuit ab Athanasio-->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0026.xml-->
+      <pb ed="#C" n="9"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>&amp;c. Secundus, de persona filii, unde dicit, &amp; in Jesum Chri 
+      <lb ed="#C" n="2"/>stum, &amp;c. Tertius. de persona Spiritus sancti. unde dicit 
+      <lb ed="#C" n="3"/>Credo in Spiritum sanctum, &amp;c. &amp; est sensus, unam esse 
+      <lb ed="#C" n="4"/>tiam, &amp; unum Deum credo; &amp; tres personas, scil. Deui 
+      <lb ed="#C" n="5"/>Parem,. Deum Filium, &amp; Deum Spiritum sanctum. Et h 
+      <lb ed="#C" n="6"/>quatuor articuli pertinent ad Deitatem in se, &amp; ponuntu 
+      <lb ed="#C" n="7"/>mfao.c.i. resp. 1. Tres vero sequentes pertinent ad deitatem 
+      <lb ed="#C" n="8"/>quo ad effectus ipsius. Primus indicat effectum creatio 
+      <lb ed="#C" n="9"/>nis, ibi, Creatorem, &amp;c. probatur, infr. eo.c.i.resp. 1. Secundus, es 
+      <lb ed="#C" n="10"/>fectum recreationis, ibi, Sanctam Ecclesiam catholicam, &amp;c 
+      <lb ed="#C" n="11"/>&amp; est sensus. Credo, quod Deus reconciliet peccatoren 
+      <lb ed="#C" n="12"/>in Sancta ccclesia, quae est communio Sanctorum, &amp; no 
+      <lb ed="#C" n="13"/>alibi probatur, nfr. e0 c. 1. §. una. &amp; per hunc potestas clav 
+      <lb ed="#C" n="14"/>um comprobatur, inf. de exces praela. tanta. Tertius, officium 
+      <lb ed="#C" n="15"/>glorificationis, ibi, Carnis resurrectionem, quo ad corpus 
+      <lb ed="#C" n="16"/>vitam aeternam, quo ad animam. Habes ergo 7. articulo 
+      <lb ed="#C" n="17"/>tres ult. pertinent ad effectus Deitatis, quatuor primi ac 
+      <lb ed="#C" n="18"/>ipsam Deitatem in se determinatam, &amp; sic omnes 7. per 
+      <lb ed="#C" n="19"/>tinent ad Deitatem. Septem vero pertinentes ad hum 
+      <lb ed="#C" n="20"/>nitatem, sunt hi. Primus, Qui conceptus est de Spirit 
+      <lb ed="#C" n="21"/>sancto. Secundus, Natus ex Maria Virgine. Tertius, Pa 
+      <lb ed="#C" n="22"/>sus sub Pontio Pilato, crucifixus, mortuus, &amp; sepultu 
+      <lb ed="#C" n="23"/>Quartus, Descendit ad inferos. Quintus, Refurrexit a mo¬ 
+      <lb ed="#C" n="24"/>tuis. Sextus, Ascendit ad coelos, sedet ad dexteram Dei pi 
+      <lb ed="#C" n="25"/>tris omnipotentis. Septimus, Inde venturus est judican 
+      <lb ed="#C" n="26"/>vivos &amp; mortuos. Nunc autem misericordiam peto, u 
+      <lb ed="#C" n="27"/>ipsam tunc consequar, cum secundum opera sua redditu 
+      <lb ed="#C" n="28"/>rus sit singulis, tam reprobis, quam electis, &amp; hi 7. ponun 
+      <lb ed="#C" n="29"/>tur ordinatim, inf. eo.c.i. haec sancta Trinitas, C. eo. I. sina. Han 
+      <lb ed="#C" n="30"/>divisionem, scil. de 14. articulis videtur comprobare, &amp; s 
+      <lb ed="#C" n="31"/>qui Concilium generale, inf. eo firmiter. Prima divisio vid 
+      <lb ed="#C" n="32"/>tur significata fuine. Ios. 3. ubi dicit Dominus, idest pate 
+      <lb ed="#C" n="33"/>ad Josue, id est filium. Elige tibi 12. viros, idest Apostolo¬ 
+      <lb ed="#C" n="34"/>Luc. 6. singulos per singulas tribus, &amp; praecipe eis, ut tollan 
+      <lb ed="#C" n="35"/>de medio Jordanis alveo, id est de media profunditat 
+      <lb ed="#C" n="36"/>Scripturarum, ubi steterunt pedes sacerdotum, idest affi¬ 
+      <lb ed="#C" n="37"/>ctus sanctorum patrum, duodecim durissimos lapides, i¬ 
+      <lb ed="#C" n="38"/>est articulos, qui non credentibus durissimi apparent, er 
+      <lb ed="#C" n="39"/>dentibus vero durissimi sunt, id est firmissimi, quia sun 
+      <lb ed="#C" n="40"/>fidei fundamentum, quos ponetis in loco castrorum, ut 
+      <lb ed="#C" n="41"/>fixeritis hac nocte tentoria, id est in Ecclesia, quae est, ut c¬ 
+      <lb ed="#C" n="42"/>strorum acies ordinata, in qua in nocte praesentis vitae pe 
+      <lb ed="#C" n="43"/>speculum in aenigmate figunt tentoria sua ad idem Apoci 
+      <lb ed="#C" n="44"/>lyp. 21. ubi 12. lapides ponuntur, qui per proprietates sua 
+      <lb ed="#C" n="45"/>praedictos articulos 12, designant. Secunda vero divis 
+      <lb ed="#C" n="46"/>comprobatur Apocalyp. 1. ubi dicitur, Conversus vidi 7 
+      <lb ed="#C" n="47"/>candelabra aurea, &amp; in medio 7. candelabrorum aureori 
+      <lb ed="#C" n="48"/>similem filio hominis, nam per haec intelliguntur 7. ult. ar 
+      <lb ed="#C" n="49"/>pertmentes ad humanitatem, unde in medio horum simil 
+      <lb ed="#C" n="50"/>tudo filii hominis designatur, &amp; sequitur, quod habebat ir 
+      <lb ed="#C" n="51"/>dextera sua stellas 7. per has intellige 7. primos artic. a¬ 
+      <lb ed="#C" n="52"/>deitatem pertinentes. 1. Tnnoth. 6. &amp; lucem habitat inacces 
+      <lb ed="#C" n="53"/>sibilem. Haec ad praesens in summa sufficiant, nam caeter 
+      <lb ed="#C" n="54"/>possunt in scriptis Theologicis plenius reperiri. Compro 
+      <lb ed="#C" n="55"/>bantur autem hi articuli, inf. eo.c.i. &amp; 2. C. eo. inter clara 
+    </p>
+            <p xml:id="nbht7y-d1e60-d1e1152">
+               <lb ed="#C" n="56"/>Quae poena non credentium. 
+      Gehen<lb ed="#C" n="57" break="no"/>na perpetua
+      <lb ed="#C" n="58"/>unde in Evangelio, Ibunthi in supplicium aeternum, &amp; 
+      il<lb ed="#C" n="59" break="no"/>lud, Haec est fides Catholica, &amp; 
+    </p>
+            <p xml:id="nbht7y-d1e60-d1e1163">
+               <lb ed="#C" n="60"/>Et quod praemium Catholicorum 
+      <lb ed="#C" n="61"/>Salus aeterna, nam qui crediderit, &amp; baptizatus fuerit, sa 
+      <lb ed="#C" n="62"/>vus erit, inf. de bap. majores, §. caeterum. ubi similiter &amp; tam pr¬ 
+      <lb ed="#C" n="63"/>na reproborum, quam praemium electorum probatur, i 
+      <lb ed="#C" n="64"/>fra eo. c. 1§ haec sanact. in fi. Non solum autem virgines &amp; co 
+      <lb ed="#C" n="65"/>tinentes, verum etiam conjugati per fidem rectam, &amp; 
+      <lb ed="#C" n="66"/>perationem bonam, placentes Deo, ad aeternam merentu 
+      <lb ed="#C" n="67"/>peatitudinem pervenire, infr. eo firmiter, in fi.* Extra Eccli 
+      <lb ed="#C" n="68"/>siam vero nullus salvatur, inf. eo. c. i.§. una rero est, 24. quaest. 
+      <lb ed="#C" n="69"/>quoniam vetus oriens, sed si quis post susceptionem bap 
+      <lb ed="#C" n="70"/>tusmi in peccatum prolapsus fuerit, potest semper per ve 
+      <lb ed="#C" n="71"/>ram poenitentiam reparari, ut in eo. c. §. sacramentum
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

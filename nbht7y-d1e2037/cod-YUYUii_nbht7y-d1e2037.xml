@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 32</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 32</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="750"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e2037"><!-- nbht7y-l5t32 -->
+            <head xml:id="nbht7y-d1e2037-Hd1e101">Titulus 32</head>
+            <head xml:id="nbht7y-d1e2037-Hd1e103" type="question-title">De novi operis nunciatione</head>
+            <p xml:id="nbht7y-d1e2037-d1e106">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0767.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="76"/>De Novi operis nunciatione 
+      <lb ed="#C" n="77"/>XXXII. Rubr. 
+    </p>
+            <p xml:id="nbht7y-d1e2037-d1e117">
+               <lb ed="#C" n="78"/>SUMMARIA 
+      <lb ed="#C" n="79"/>Nunciatio novi operis quid siu. Et ad quem pertinea 
+      <lb ed="#C" n="80"/>2 Quare fiat. 3. Quis possit sacere. 4. Cui fiat. 6. Qualiter ull¬ 
+      <lb ed="#C" n="81"/>tur. 10. Qualiter fiat? 
+      <lb ed="#C" n="82"/>Nunciatio quare non habet locum in rusticis praediis 
+      <lb ed="#C" n="83"/>7 Nunciatio facta in absenua, an valeat 
+      <lb ed="#C" n="84"/>9 Nuncians an habeat necesse jurare de calumnis 
+      <lb ed="#C" n="85"/>u Remissio tacita, qualiter fiai 
+      <lb ed="#C" n="86"/>12 Efectus nunciauonis quis si 
+    </p>
+            <p xml:id="nbht7y-d1e2037-d1e139">
+               <lb ed="#C" n="87"/>PRaemissum est supra de excelibus in 
+      <lb ed="#C" n="88"/>genere. Sed quia subdit 
+      <lb ed="#C" n="89"/>vel alii aedificando aliquoties excedunt, 
+      <lb ed="#C" n="90"/>talis excessus per novi operis nunciatio 
+      <lb ed="#C" n="91"/>nem restringitur, videamus de novi operi 
+      <lb ed="#C" n="92"/>nunciatione dicentes, Quid sit nunciati 
+      <lb ed="#C" n="93"/>novi operis, Ad quae opera pertineat, Quare fiat, Quis pos 
+      <lb ed="#C" n="94"/>sit facere, Cui fiat, Qualiter fiat, Qualiter tollatur, Quis si 
+      <lb ed="#C" n="95"/>effectus. 
+    </p>
+            <p xml:id="nbht7y-d1e2037-d1e162" n="1">
+               <lb ed="#C" n="96"/>Quid sit nonciatio nori operis Illi quide novo in 
+      <lb ed="#C" n="97"/>alterius praejudicium aedificat. legaliter facti 
+      <lb ed="#C" n="98"/>prohibitio, ut colligitur ex inferioribus. Nunciare enin 
+      <lb ed="#C" n="99"/>nihil aliud est. quo ad hanc materiam pertinet, quam pro 
+      <lb ed="#C" n="100"/>hibere. unde non refert, utrum quis dicat, Nuncio novun 
+      <lb ed="#C" n="101"/>opus, vel Prohibeo novum opus. ut F eod. l. 1. §. nuncianus 
+      <lb ed="#C" n="102"/>inf. eo significanti. aliter accipitur supra de ac. ut ibi notatur 
+      <lb ed="#C" n="103"/>sub §. rub de denunciat. §. i. 
+    </p>
+            <p xml:id="nbht7y-d1e2037-d1e182" n="2">
+               <lb ed="#C" n="104"/>Ad quae opera pertineat. Et certe ad ea quae insolo 
+      <lb ed="#C" n="105"/>fiunt, unde si quis messem colligat, vel ar 
+      <lb ed="#C" n="106"/>borem succidat, ad hoc edictum non pertinet, ut ff. eo.l1.. 
+      <lb ed="#C" n="107"/>hoc autem edictum 3. &amp; adversus futura, non praeterita. si¬ 
+      <lb ed="#C" n="108"/>nim praeterita demoliri intendas: recurrendum est ad in 
+      <lb ed="#C" n="109"/>terdictum, quod vi aut clam. &amp; alia quae publica jura tuen 
+      <lb ed="#C" n="110"/>tur, ut ff eodem. l. 1. §. hoc autem edictum. 1. Illud autem no¬ 
+      <lb ed="#C" n="111"/>refert, utrum fiat edictum sive opus intra oppidum, ve 
+      <lb ed="#C" n="112"/>extra. in villa, vel agro, loco privato, vel publico, ex qui 
+      <lb ed="#C" n="113"/>solo adhaeret. ut feodem. l I. § sire autem. Non ergo perti 
+      <lb ed="#C" n="114"/>net nunciatio novi operis, nisi sicut vox sonat. ad nova o 
+      <lb ed="#C" n="115"/>pera. Opus autem novum videtur facere, qui vel aedis 
+      <lb ed="#C" n="116"/>cando de novo, vel detrahendo pristinam faciem operi 
+      <lb ed="#C" n="117"/>immutat, f. eodem l. I§opus novum: secus, si reficiat, vel 
+      <lb ed="#C" n="118"/>num caementum addat; vel subtrahat: tunc enim hoc re 
+      <lb ed="#C" n="119"/>medium locum non habet. f. eod. l. 1.§. si quis aedificium, &amp; 
+      <lb ed="#C" n="120"/>stipulo. §. opus autem &amp; sic aliud est facere, aliud reficere 
+      <lb ed="#C" n="121"/>ff. de iimere actuque priva. I.unde etiam. §. reficere. supra de lud¬ 
+      <lb ed="#C" n="122"/>consuluit &amp; ca ludaei. est tamen argum. contra, fi demortu 
+      <lb ed="#C" n="123"/>inferendo. I1. §. aedificare. Haec autem nunciatio ad aedifica 
+      <lb ed="#C" n="124"/>tionem etiam ecclesiae porrigitur, cum non sit construen 
+      <lb ed="#C" n="125"/>da in praejudicium alterius ut infra eod, capi nisi in casibu 
+      <lb ed="#C" n="126"/>quos not. supra de ecclesiis aedificandis S si versic. &amp; haec est un 
+      <lb ed="#C" n="127"/>causa &amp; sequen. Excipiuntur rivi, &amp; cloacae, &amp; omnia gene 
+      <lb ed="#C" n="128"/>raliter, in quorum mora periculum vertitur: illa enin 
+      <lb ed="#C" n="129"/>purgari &amp; fieri possunt, spreta denunciatione, quia publi 
+      <lb ed="#C" n="130"/>cae salutis interest. rivos, &amp; cloacas curare. f eo. aepupillo. § 
+      <lb ed="#C" n="131"/>si quis rivos, &amp; §§. seq.
+    </p>
+            <p xml:id="nbht7y-d1e2037-d1e245" n="3">
+               <lb ed="#C" n="132"/>Quare fiat Et cerre tribus de causis aut gratia je 
+      <lb ed="#C" n="133"/>ris nostri conservandi, aut damni de¬ 
+      <lb ed="#C" n="134"/>pellendi, aut publici juris tuendi gratia, ut f.cod. l.a. §. nun 
+      <lb ed="#C" n="135"/>videamus. &amp; §. nunctatio. ibi seq
+    </p>
+            <p xml:id="nbht7y-d1e2037-d1e256" n="4">
+               <lb ed="#C" n="136"/>Quis possit facere Et quidem quicona pri¬¬ 
+      <lb ed="#C" n="137"/>vatus, qui commodo afficia¬ 
+      <lb ed="#C" n="138"/>tur, etiam si servus sit. ff. quod vi aut elam prohibere. §. si qui 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="139"/>ADDITIO 
+      <lb ed="#C" n="140"/>a Facere.] Necessarium est scire quis dicatur novum opus faca 
+      <lb ed="#C" n="141"/>re, ex quo Martinus. eo. tit. in Summa rubricellam efferma 
+      <lb ed="#C" n="142"/>vit, quam transcribere visum fuit. Novum (inquit) opus fa 
+      <lb ed="#C" n="143"/>cit quis aut detrahendo, aut mutando pristinam rei faciem 
+      <lb ed="#C" n="144"/>ff. eod tit 19. opus novum si quis autem fulcit vetus aedificium 
+      <lb ed="#C" n="145"/>vel cementum imponit novum opus facere non videtur LL 
+      <lb ed="#C" n="146"/>§. adi ficium. Nam longe aliud est facere, &amp; aliud reficere. d 
+      <lb ed="#C" n="147"/>Inuan. c. consuluis--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0768.xml-->
+      <pb ed="#C" n="751"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>per servum. Sed pro opere facto in loco publico, non tene 
+      <lb ed="#C" n="2"/>nunciatio a servo facta, sic intellige. f eodem. depupillo §. 
+      <lb ed="#C" n="3"/>homo tamen liber etiam hoc opus nunciare potest: qui¬ 
+      <lb ed="#C" n="4"/>in tali casu omnes cives admittuntur: nam &amp; hoc reipubl 
+      <lb ed="#C" n="5"/>cae interest ff. eod. in propinciali. §. fin. &amp; l. seq. nam reipub 
+      <lb ed="#C" n="6"/>dum tamenbonae famae sit, &amp; masculus is, qui denunciat 
+      <lb ed="#C" n="7"/>alias contra. ffi de popu.act. I. popularis &amp; l. mulieri. Major 20 
+      <lb ed="#C" n="8"/>annor. nunciare potest: sed &amp; pupillus, si privato comme 
+      <lb ed="#C" n="9"/>do afficiatur: non aliter, unde non potest nunciare, quo 
+      <lb ed="#C" n="10"/>ad jus publicum pertinet. f. eod. de pupillo. respons. i. Scien 
+      <lb ed="#C" n="11"/>denunciare potest, sed &amp; ignorans quod opus fiat. f. eod 
+      <lb ed="#C" n="12"/>L. §. potest &amp; expone, quod, id est, quase, puta nescit utrur 
+      <lb ed="#C" n="13"/>debeat esse camera, vel cellarium, necesse tamen quo 
+      <lb ed="#C" n="14"/>sciat habere aedificium quoddam instar operis. ff. eod stipi 
+      <lb ed="#C" n="15"/>lo. §. opus. Potest autem nunciare dominus, potest &amp; hi 
+      <lb ed="#C" n="16"/>bens jus in re, puta emphyteuta superficiarius. ff. eod. 1 
+      <lb ed="#C" n="17"/>provinciali. §. si ergo. &amp; I. de pupillo. § sextus. &amp; §. naturalen 
+      <lb ed="#C" n="18"/>Unde &amp;t clericus nunciare potest &amp; religiosus. infra eo 
+      <lb ed="#C" n="19"/>cap. 1. &amp; 2. quamvis dominus non sit. supra de don. capit. 
+      <lb ed="#C" n="20"/>nam &amp; creditor admittitur. ff. eod. creditori. Videtur igitur 
+      <lb ed="#C" n="21"/>quod habens servitutem possit nunciare distinguendum 
+      <lb ed="#C" n="22"/>est tamen, utrum habeat personalem, aut realem. Si cae 
+      <lb ed="#C" n="23"/>personalem servitutem habeat, tunc ei, a quo servituten 
+      <lb ed="#C" n="24"/>habet, nunciare non potest, alii vero potest ff. de remission 
+      <lb ed="#C" n="25"/>bus. l.i. §. item Juliano. Si realem &amp; rusticam, nunciare no 
+      <lb ed="#C" n="26"/>potest, licet servitutem valeat vendicare. ff. eod. qui vian 
+      <lb ed="#C" n="27"/>Si vero urbanam habeat, tunc potest. ff de servit. urban prae¬ 
+      <lb ed="#C" n="28"/>inter servitutes. §. fin. Hoc tamen videtur reprobari f fam 
+      <lb ed="#C" n="29"/>liae erciscundae lin fam erciscundae judicio ubi innuitur, quo 
+      <lb ed="#C" n="30"/>sive realem, sive praedialem habeat, nunciare potest, ide 
+      <lb ed="#C" n="31"/>dicunt alii, quod neuter potest nunciare domino rei, 
+      <lb ed="#C" n="32"/>quo causam habet: Sed alii vicino aedificanti potest, ff eo 
+      <lb ed="#C" n="33"/>lI. §. sin. &amp; l. 2. Sed &amp; haec solutio tolli videtur. ff. eod. de pi 
+      <lb ed="#C" n="34"/>pill. § sextus. vers. inposicivam. ideo intelligunt alii, Listan 
+      <lb ed="#C" n="35"/>dictam familiae erciscundae judicio: in urbanis servitut 
+      <lb ed="#C" n="36"/>bus tantum. Si quaeras rationem, quare aliud in rustici 
+      <lb ed="#C" n="37"/>B nis, aliud in urbanis servitutibus?  Respondeo, quia nu¬ 
+      <lb ed="#C" n="38"/>ciatio non habet locum, quo ad praedia rustica, vel oper 
+      <lb ed="#C" n="39"/>rusticana: sed quo ad urbana, &amp; opera ipsorum, ut pate 
+      <lb ed="#C" n="40"/>in his quae not. supra eod §. ad quae opera. * Si quaeras, quar 
+      <lb ed="#C" n="41"/>nunciatio non habet locum in rusticis praediis? Respor 
+      <lb ed="#C" n="42"/>deo, favor agriculturae hoc non tolerat, ne modico mo 
+      <lb ed="#C" n="43"/>mento pereat, &amp;c. C. deferiis. l. 3. in fin. comprobantur hae 
+      <lb ed="#C" n="44"/>f de aqua plu arcend. la. § de eo opere. F eod. I 1. §. hoc autem ed 
+      <lb ed="#C" n="45"/>ctum. supra de treuga &amp; pa, cap innovamus. Quicquid tame 
+      <lb ed="#C" n="46"/>domini dicant, vel intelligant, indistin. dici potest, quod i 
+      <lb ed="#C" n="47"/>qui servitutem habet, nunciare potest novum opus, siv 
+      <lb ed="#C" n="48"/>domino, sive vicino. Sed quando domino nunciat, non te 
+      <lb ed="#C" n="49"/>net nunciatio. f eod. qui viam. subaudi. quo ad hoc, ut opu 
+      <lb ed="#C" n="50"/>demoliatur. Sed tantum aestimabitur ususfructus, vel ali 
+      <lb ed="#C" n="51"/>servitus quaecunque sit illa, ut f eod. l. 3. &amp; quo ad hoc te 
+      <lb ed="#C" n="52"/>net. ff. eod. de pupillo. § 6. vers. impositivam. ff. de servitut. urb. 
+      <lb ed="#C" n="53"/>norum praediorum, inter servitutes. Sin autem fiatvicino, tun 
+      <lb ed="#C" n="54"/>tenet adeo, quod opus demoliendum est, nisi facta sit re 
+      <lb ed="#C" n="55"/>missio, quae ideo in hoc casu utilis, &amp; in superiori inutili 
+      <lb ed="#C" n="56"/>judicatur, &amp; hoc in servitute qualibet locum habet, sicu 
+      <lb ed="#C" n="57"/>manifeste dicitur. fi de remissionibus. l. 1. § item sul §. sequenm 
+      <lb ed="#C" n="58"/>qui incipit. idem Julia. &amp; secundum hoc intellige f. si ser¬ 
+      <lb ed="#C" n="59"/>tus vendic. &amp; si forte. §i. ff. famil. erciscund I in famil. erciscun 
+      <lb ed="#C" n="60"/>judicio: ergo §. fin. 11 ff. eodem intelligi debet, quando usi 
+      <lb ed="#C" n="61"/>fructuarius domino nunciat. nec obstat, sed concordat 
+      <lb ed="#C" n="62"/>sequens. quia non est continuanda adversative, sicut do 
+      <lb ed="#C" n="63"/>mini legum legunt ipsam: sed expositive. Hoc modo dix 
+      <lb ed="#C" n="64"/>supra I. proxi. §. fin. quod usufructuarius opus novum su¬ 
+      <lb ed="#C" n="65"/>nomine nunciari non potest, &amp;c. ut ibi patet, sed hoc in 
+      <lb ed="#C" n="66"/>telligi debet quando nunciatio fit domino: nam si vicine 
+      <lb ed="#C" n="67"/>fieret bene valeret, &amp; hoc est quod dicit: secunda si auten 
+      <lb ed="#C" n="68"/>domino praedii, &amp;c. dic ergo autem pro sed. sed hoc quoc 
+      <lb ed="#C" n="69"/>dictum est supra eod. l. proxi. in fin. verum est, quando opu 
+      <lb ed="#C" n="70"/>novum domino nunciatur: nam si domino praedii nun 
+      <lb ed="#C" n="71"/>ciaverit, inutilis erit nunciatio, scilicet quoad hoc, ut opu 
+      <lb ed="#C" n="72"/>novum demoliatur: &amp; ideo inutilis esset remissio, ut no 
+      <lb ed="#C" n="73"/>supra. Secus, si vicino nunciaret, nam tunc opus demoli 
+      <lb ed="#C" n="74"/>endum esset, nisi remissio facta esset unde sequitur: ne 
+      <lb ed="#C" n="75"/>que enim sicut adversus vicinum, ita adversus dominun 
+      <lb ed="#C" n="76"/>agere potest, jus ei non esset invito se, altius aedificare 
+      <lb ed="#C" n="77"/>Sed si ex hoc facto, &amp;c. sic exponit ibi Jul. cujus est l. illa d 
+      <lb ed="#C" n="78"/>ctum magistri Ulpiani, qui facit primam l. secundun 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0768.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>mentem illius. §. Item Julia. I. i. ff. de remissionib quem §. fa 
+      <lb ed="#C" n="80"/>citidem Julian. &amp; ibidem exponitur, qualiter intelligatur 
+      <lb ed="#C" n="81"/>quod Ulpianus ibidem indist. dixerat in praecedenti §. u 
+      <lb ed="#C" n="82"/>bi dicitur, jus habet novum opus nunciandi, qui aut do 
+      <lb ed="#C" n="83"/>minium, aut servitutem habet, qui § directe contradicit. ff co.l. 
+      <lb ed="#C" n="84"/>§. fin. cum unus dicat quod potest alius quod non potest: idec 
+      <lb ed="#C" n="85"/>Upianus videtur sibiipsi contrarius, nisi per distinctionen 
+      <lb ed="#C" n="86"/>Juliani continuative, &amp; expositive, hic &amp; ibi positam inten 
+      <lb ed="#C" n="87"/>tionem ejusdem Ulpiani exponeres &amp; salvares &amp; accedi 
+      <lb ed="#C" n="88"/>ad hoc ff.dedam. infect. Proculus. ideoque leges. ff. eod  25 
+      <lb ed="#C" n="89"/>de remissionib. I. 2. §. item Julia. ejusdem Juliani sunt, &amp; idem 
+      <lb ed="#C" n="90"/>dicunt seu innuunt: &amp; quasi eadem verba ponunt. Is ve 
+      <lb ed="#C" n="91"/>ro qui nullum jus habet, nec se habere contendit, nuncia 
+      <lb ed="#C" n="92"/>re non potest, quia nec usufructuarius semper nunciar 
+      <lb ed="#C" n="93"/>potest: nec enim admittitur contra illum, a quo causan 
+      <lb ed="#C" n="94"/>habet. f eod l. 1. § sin. &amp; l. 2. nec habens praedialem servitu 
+      <lb ed="#C" n="95"/>tem, ut not: supra eod versic si realem multo minus ergo ad 
+      <lb ed="#C" n="96"/>mittitur is, qui nullum jus se habere contendit: nisi fort¬ 
+      <lb ed="#C" n="97"/>fiat nunciatio pro opere, quod fit in loco publico hic enin 
+      <lb ed="#C" n="98"/>admittitur, etsi nullum jus privatum habeat, ut not. supri 
+      <lb ed="#C" n="99"/>eod. §. respons. 1. nam &amp; solent loca publica singulorum usi 
+      <lb ed="#C" n="100"/>bus deservire. ff. ne quid fiat in loco publico l. 2. §. 1. &amp; ideo ad 
+      <lb ed="#C" n="101"/>mittitur nunciatio. ff. eod. de pupill. §. 6. vers publicam. Ne 
+      <lb ed="#C" n="102"/>dum etiam nomine proprio potest quis denunciare, sec 
+      <lb ed="#C" n="103"/>&amp; alieno, c ut not. ff eod. l. 1§. item nunciationim. Sempe 
+      <lb ed="#C" n="104"/>tamen requiritur causa, si petatur nunciatio: nec enim a¬ 
+      <lb ed="#C" n="105"/>liter potest quis nunciare, nisi se vel illum, cujus nomin 
+      <lb ed="#C" n="106"/>nunciat, quia forte tutor, vel curator, vel procurator siju 
+      <lb ed="#C" n="107"/>est, dicat jus habere prohibendi: ut f. eod stipulor. respon.1 
+      <lb ed="#C" n="108"/>Unde &amp; sextus diffinit triplicem esse causam, scilicet na 
+      <lb ed="#C" n="109"/>turalem, ubi quis dicit se esse dominum rei, in qua aedif 
+      <lb ed="#C" n="110"/>catur. Item publicam, scilicet quando prohibet aliquen 
+      <lb ed="#C" n="111"/>in publico aedificare. Item impositivam, quando scilic. di 
+      <lb ed="#C" n="112"/>cit se jus habere in re, non dico dominium, puta usufruct 
+      <lb ed="#C" n="113"/>vel aliam servitutem. ff. eodem. de pupillo. §. sextus. &amp; jungi 
+      <lb ed="#C" n="114"/>quod not. infra cod. §. qualiter. versic. requiritur. Sufficit au 
+      <lb ed="#C" n="115"/>tem quod nuncianti dicas, quod opus fiat in praejudicium 
+      <lb ed="#C" n="116"/>vel detrimentum ecclesiae suae, vel suum. infra cod c.i. resp. 
+      <lb ed="#C" n="117"/>&amp; c. 25. super eo. &amp; c. 3. resp. 1. Sed sive causa sit vera, sive fal 
+      <lb ed="#C" n="118"/>sa semper tenet nunciatio in odium spernentis nuncia 
+      <lb ed="#C" n="119"/>tionem edicto praetoris inductam: ideoque demolien 
+      <lb ed="#C" n="120"/>dum est opus, sive jure, sive injuria aedificatum fuerit poss 
+      <lb ed="#C" n="121"/>nunciationem ff eod. I.u respons.i. &amp; I praetor. §. interdictum e 
+      <lb ed="#C" n="122"/>§. qui igitur. &amp; §. ait praetor. &amp; §. quicquid autem. de quibus le 
+      <lb ed="#C" n="123"/>gibus fit mentio. infra eod.c.i. §. fraternitati tua 
+    </p>
+            <p xml:id="nbht7y-d1e2037-d1e545">
+               <lb ed="#C" n="124"/>Cui fiat. Et quidem omnibus existentibus in re¬ 
+      <lb ed="#C" n="125"/>ipsa: servo, vel libero: domino, vel fabro, ve 
+      <lb ed="#C" n="126"/>opifici: masculo, vel mulieri: majori, vel minori, sufficit e 
+      <lb ed="#C" n="127"/>nim in re praesenti sic fieri nunciationem, ut domino 
+      pos<lb ed="#C" n="128" break="no"/>sit renunciari. ff. eod depupillo. §. nunciare autem &amp; praec &amp; 
+      <lb ed="#C" n="129"/>operis. &amp; Icuilibet. &amp; I. si satisdationem. §. tutori. &amp; l. non so 
+      <lb ed="#C" n="130"/>lum. respons.i. nec obstat absentia domini, ex quo ad ipsun 
+      <lb ed="#C" n="131"/>pervenire potest, ut dictum est. &amp; ad idem argum. ff. quo¬ 
+      <lb ed="#C" n="132"/>vi, aut clam. aut qui aliter. § 1. ad sin ff. de damn. infect. I. 3. ( 
+      <lb ed="#C" n="133"/>toties. sic infra eodem, cum ex injuncto. respons. 1. Sed intellige 
+      <lb ed="#C" n="134"/>quod &amp; ibi fuit facta nunciatio successori, alias non coge 
+      <lb ed="#C" n="135"/>retur successor propriis expensis opus tollere, ut ibi dicit 
+      <lb ed="#C" n="136"/>quia nec successor, sicut nec haeres in hanc poenam succe 
+      <lb ed="#C" n="137"/>deret, ut ff eod.I.penult. arg. supr. de sol. c. i. licet quo ad inter 
+      <lb ed="#C" n="138"/>dictum succedat, ut not. infra eod § qualiter tollatur. vers. ta 
+      <lb ed="#C" n="139"/>cite. Quid si fiat nunciatio domino operis, non tamen ir 
+      <lb ed="#C" n="140"/>ipso opere, puta quia absens est? &amp; quidem lex dicit. han¬ 
+      <lb ed="#C" n="141"/>nunciationem nullius esse momenti. ff. eodem, de 
+      pupil<lb ed="#C" n="142" break="no"/>lo. §. si quis autem forte. quod domini legum intelligunt 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="143"/>ADDITIONES. 
+      <lb ed="#C" n="144"/>b Servitutibus] Adde Bart. Coepollam in tractam de servit. urba 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>praedio 
+      <lb ed="#C" n="146"/>e Quid autem alieno nomine opus novum nunciat, debet sa 
+    </p>
+    <p>
+      <lb ed="#C" n="147"/>tisdare eam rem dominum ratum habiturum. ff. eod. tit. I. qu¬ 
+      <lb ed="#C" n="148"/>in re. §s. qui procuratorio. Sed &amp; is qui nomine proprio nunciat 
+      <lb ed="#C" n="149"/>jurare prius debet se non calumniandi causa novum opu 
+      <lb ed="#C" n="150"/>nunciare. ff. cod. iitul. I de pupillo § qui opus. Sed &amp; usufructua 
+      <lb ed="#C" n="151"/>rius nunciare novum opus potest, sed non adversus domi 
+      <lb ed="#C" n="152"/>num. ff. de remiss. 1 §. 2 
+    </p>
+    <p>
+      <lb ed="#C" n="153"/>RYY--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0769.xml-->
+      <pb ed="#C" n="752"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>quo ad opus, quod factum est post nunciationem, ant¬ 
+      <lb ed="#C" n="2"/>quam dominus veniret ad locum. Caeterum, quo ad opu¬ 
+      <lb ed="#C" n="3"/>illud, quod postquam pervenit ad opus, intellige, vel per 
+      <lb ed="#C" n="4"/>venire potuit. arg. ff. de verb. obligat. I. continuus. factum ess 
+      <lb ed="#C" n="5"/>cum prohibere, scilicet potuerit operari, &amp; non prohibu 
+      <lb ed="#C" n="6"/>erit, bene tenet nunciatio: sicut apparet a contrario sensi 
+      <lb ed="#C" n="7"/>rationis, quam reddit in dicto §. si quis forte. ibi, caeterum si¬ 
+      <lb ed="#C" n="8"/>libi. &amp;c. &amp; ibi, ut confestim, &amp;c. nam &amp; ubi fit in re ipsa, de 
+      <lb ed="#C" n="9"/>mino absente, non confestim discedunt operarii ab ope 
+      <lb ed="#C" n="10"/>re: sed tunc demum cum dominus prohibet operari. S 
+      <lb ed="#C" n="11"/>dicas, secundum hoc non videtur differentia esse utrun 
+      <lb ed="#C" n="12"/>fiat operariis in re ipsa, domino absente, vel domino al 
+      <lb ed="#C" n="13"/>senti, non in re ipsa: quia utrobique non demolitur, nisi i¬ 
+      <lb ed="#C" n="14"/>quod factum est, postquam dominus rediit, dictus auten 
+      <lb ed="#C" n="15"/>9. voluit notare differentiam, &amp; quod in uno casu valere 
+      <lb ed="#C" n="16"/>nunciatio, in alio non valeret. sicut aperte dicit I. respons. 
+      <lb ed="#C" n="17"/>retulit se ad ea quae plerunque accidunt. Saepe enim cor 
+      <lb ed="#C" n="18"/>tingit, quod quandoque fit nunciatio operariis inr 
+      <lb ed="#C" n="19"/>ipsa, operarii recedunt, quia credunt hoc domino exped 
+      <lb ed="#C" n="20"/>re, &amp; sic accidit; quod ipso facto tenet nunciatio: und 
+      <lb ed="#C" n="21"/>quod ibi dicit, ut confestim ab opere discedatur, subaud 
+      <lb ed="#C" n="22"/>sicut accidere solet at ubi non fit nunciatio in re ipsa, no 
+      <lb ed="#C" n="23"/>potest accidere, ut statim facta nunciatione, sed demun 
+      <lb ed="#C" n="24"/>postquam dominus venerit ab opere discedatur: &amp; ide¬ 
+      <lb ed="#C" n="25"/>absurdum esset, si diceremus vaiere nunciationem, quo 
+      <lb ed="#C" n="26"/>ad opus, quod interim bona fide fit sumptib. domini, qu 
+      <lb ed="#C" n="27"/>in nulla culpa deprehenditur demoliendum, argum. supi 
+      <lb ed="#C" n="28"/>de constit. cognoscentes: ergo quo ad illud opus, nunciati¬ 
+      <lb ed="#C" n="29"/>nullius est momenti: &amp; hoc est quod ibi dicit. Caeterum 
+      <lb ed="#C" n="30"/>alibi nunciatio fiat, subaudi, quam dicamus statim valere 
+      <lb ed="#C" n="31"/>Illud incommodi, scilicet iniqui &amp; absurdi, sequitur quo¬ 
+      <lb ed="#C" n="32"/>subaudi, qui non deliquit damnetur contra ff. de act. &amp; o 
+      <lb ed="#C" n="33"/>ligation. ex maleficiis. §. 1. quia dum venitur ad opus, si qui¬ 
+      <lb ed="#C" n="34"/>fuerit operis per ignorantiam. sc. operariorum, qui igno 
+      <lb ed="#C" n="35"/>rabant nunciationem factam fuisse, factum quod non po 
+      <lb ed="#C" n="36"/>test imputari operariis ignorantibus, nec domino, cun 
+      <lb ed="#C" n="37"/>non sit in mora, demoliendum erit, nam eveniret, scilic. e 
+      <lb ed="#C" n="38"/>praedictis, si dicamus nunciationem statim valere: sequ 
+      <lb ed="#C" n="39"/>tur, ut contra edictum praetoris sit factum, subaudi quo 
+      <lb ed="#C" n="40"/>non est dicendum, ne in dictam absurditatem incidamu: 
+      <lb ed="#C" n="41"/>Porro quare quo ad opus illud quod factum est, postqu 
+      <lb ed="#C" n="42"/>dominus potuit prohibere operarios, &amp; non prohibuit 
+      <lb ed="#C" n="43"/>dicamus nunciationem non valere: cum &amp; illa quae fit in 
+      <lb ed="#C" n="44"/>re, domino absente, tunc demum valeat, ut apparet in his 
+      <lb ed="#C" n="45"/>quae no. supr. eod. respon.i. ratio reddi non potest, ergo iden 
+      <lb ed="#C" n="46"/>jus est arg. C. de liber. praeteritis, vel exhaered. l.i. secund. Azc 
+      <lb ed="#C" n="47"/>posset &amp; illud dici, quod nunciatio, quae fit per lapilli j¬ 
+      <lb ed="#C" n="48"/>ctum, domino absenti facta, nullius sit momenti: quia ne 
+      <lb ed="#C" n="49"/>cesse est, quod in re ipsa fiat, &amp; sic potest intelligi quod le 
+      <lb ed="#C" n="50"/>giturff eod. de pupillo. §. I. usque ad §. si plurium. 2. aliae auter 
+      <lb ed="#C" n="51"/>neri possunt etiam domino absenti, ut in ea. l. §. si quis ips 
+      <lb ed="#C" n="52"/>§. meminisse. &amp; ff quod vi, aui clam. aut qui aliter. §. si quis d 
+      <lb ed="#C" n="53"/>nunciaverit. sed videtur, quod nunciatio facta in absenti¬ 
+      <lb ed="#C" n="54"/>non valeat alia ratione, namqui nunciat, referre debet in 
+      <lb ed="#C" n="55"/>testationem, quid &amp; quantum operis sit factum. ut not. in 
+      <lb ed="#C" n="56"/>fra cod. §. seqe vers. est &amp; consilium. I. sed hoc in absentia scii 
+      <lb ed="#C" n="57"/>non potest: ergo nec exprimi, ergo nec nunciari. Respor 
+      <lb ed="#C" n="58"/>deo, non sequitur, potest enim esse, quod nunciator sci 
+      <lb ed="#C" n="59"/>quantum erat aedificium die sabbati in sero, &amp; hoc osten 
+      <lb ed="#C" n="60"/>dit testibus, per quos hoc probare potest, demum Dom 
+      <lb ed="#C" n="61"/>nico nunciat: nam omnibus diebus fieri potest nunciatio 
+      <lb ed="#C" n="62"/>ff. eod. I. §. item nunciatio. certe quicquid postea aedificab 
+      <lb ed="#C" n="63"/>tur, dummodo ita prope sit dominus, quod prohibere pos 
+      <lb ed="#C" n="64"/>sit operarios eodem die Dominico, puta, quia in eaden 
+      <lb ed="#C" n="65"/>civitate, vel in hortis est, demoliendum erit. Nunciatio 
+      <lb ed="#C" n="66"/>gitur potest fieri domino praesenti in opere, &amp; absenti, e 
+      <lb ed="#C" n="67"/>si plures domini sunt sufficit uni nunciare: nam omne 
+      <lb ed="#C" n="68"/>astringuntur: aedificanti tamen tantum nocebit. ff. eo. depi 
+      <lb ed="#C" n="69"/>pillo§ si plurium res &amp; Iaedib. communib. Intelligo autem omne 
+      <lb ed="#C" n="70"/>astringi, ex quo ad eos pervenit vel pervenire potuit nun 
+      <lb ed="#C" n="71"/>ciatio: nam nec domino absenti nocet: quantumcunque in 
+      <lb ed="#C" n="72"/>re flat, quousque certificatus sit, vel certificari potuerit., 
+      <lb ed="#C" n="73"/>eod de pupillo. §. nunciare autent in fin. ibi, sic ut domino pol 
+      <lb ed="#C" n="74"/>sit renunciari secundum Joan. &amp; Azon. * Veruntame 
+      <lb ed="#C" n="75"/>quicquid glossent, &amp; verba &amp; mens jurium manifeste ir 
+      <lb ed="#C" n="76"/>nuunt, quod non valeat nunciatio in absentia facta? sicu 
+      <lb ed="#C" n="77"/>Probantur jura supra inducta specialiter. ff. eodem, de pu 
+      <lb ed="#C" n="78"/>pillo. § si quis autem forte. &amp; patet in his quae notantur infr 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0769.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>eod. §. sequent. versicu is vero, qui nunciat. nec quod valeat in 
+      <lb ed="#C" n="80"/>absentia, quo ad hoc edictum pertinet, expressum jus ali 
+      <lb ed="#C" n="81"/>quod memini mevidisse: nam denunciatio, quae fit per la 
+      <lb ed="#C" n="82"/>pilli jactum, hoc patet, quod in re facienda est, ubi enin 
+      <lb ed="#C" n="83"/>jaceretur lapillus alibi, quam in opere. Si enim opus fiere 
+      <lb ed="#C" n="84"/>Romae, qualiter esset signum illius novi operis nunciand 
+      <lb ed="#C" n="85"/>lapillus, qui Parisiis jaceretur: nec obst. ff. eod. de pupillo § 
+      <lb ed="#C" n="86"/>nunciare autem. in fin. nec enim dicit, quod nunciatio facti 
+      <lb ed="#C" n="87"/>in re praesenti, domino absente non valeat: sed quod vale 
+      <lb ed="#C" n="88"/>sic, ut domino possit nunciari: quasi dicat, dummodo fia 
+      <lb ed="#C" n="89"/>tali, qui hoc possit domino nunciare: subaudi tu, quam 
+      <lb ed="#C" n="90"/>vis non nunciaverit: nam statim tenet nunciatio unde S 
+      <lb ed="#C" n="91"/>statim ab ipso opere discedere debet, ut dicit § ibi sequem 
+      <lb ed="#C" n="92"/>qui incipit, si quis autem forte. nam &amp; adversus absentem in 
+      <lb ed="#C" n="93"/>vitum ignorantem procedit nunciatio. ff. eodem, l. 1. §. ad 
+      <lb ed="#C" n="94"/>versus. Item mirabiles sunt glossae dominorum: nam Ul 
+      <lb ed="#C" n="95"/>pianus ponit summam suam, ffeodem. l. i. §. nunc videamu 
+      <lb ed="#C" n="96"/>ubi inter caetera permittit exponere in quibus locis nun 
+      <lb ed="#C" n="97"/>ciatio fiat, &amp; illud incipit exponere. ff.eodem, de pupillo. 
+      <lb ed="#C" n="98"/>nunciationem. ubi dicit nunciationem in re praesenti fac 
+      <lb ed="#C" n="99"/>endam, meminisse oportebit, id est, eo loco ubi opus fia 
+      <lb ed="#C" n="100"/>sive quis aedificet; sive inchoetaedificare, &amp; domini glos 
+      <lb ed="#C" n="101"/>sant, quod non oportebit. Item in §. sequent. nunciare, di 
+      <lb ed="#C" n="102"/>cit, quod domino non oportet nunciare, &amp; domini di 
+      <lb ed="#C" n="103"/>cunt, quod oportet. Item in sequent. §. si quis forte dici 
+      <lb ed="#C" n="104"/>quod si fiat alibi, puta, in foro, nunciatio nullius est mo 
+      <lb ed="#C" n="105"/>menti, &amp; domini dicunt, quod valet prô Deo, quo jur 
+      <lb ed="#C" n="106"/>glossulant contra textum, nam &amp; mens contradicit. ff. eo¬ 
+      <lb ed="#C" n="107"/>operis. &amp; I sin. nec obst. ff quod vi, autclam. aut qui aliter. §. 
+      <lb ed="#C" n="108"/>quis denunciaverit. quia illud verum est, quo ad interdi 
+      <lb ed="#C" n="109"/>ctum, quod vi, aut clam. de quo ibi loquitur: ideoque di 
+      <lb ed="#C" n="110"/>ci potest. quod in hoc edicto non est necesse, quod nunci 
+      <lb ed="#C" n="111"/>atio fiat domino. Sed sufficit, quod in re fiat cuicunque qu 
+      <lb ed="#C" n="112"/>ibi fuerit domini operisve nomine, ut expressim legitur 
+      <lb ed="#C" n="113"/>ff. eodem. de pupillo, §. nunciare. Secus in interdicto, in qui 
+      <lb ed="#C" n="114"/>oportet domino nunciari, si praesens est, vel absens, si po 
+      <lb ed="#C" n="115"/>test haberi copia: alias sufficit, quod fiat procuratori, ve 
+      <lb ed="#C" n="116"/>amicis, ut ff quod vi, aut clam, aut qui aliter. §. si quis denun 
+      <lb ed="#C" n="117"/>ciaveris Quamvis enim in multis sint similia, hoc edictum 
+      <lb ed="#C" n="118"/>&amp; illud interdictum, tamen in multis differunt, nam ad a 
+      <lb ed="#C" n="119"/>liud, &amp; ad aliud aliter, &amp; aliter competit hoc, quam illud 
+      <lb ed="#C" n="120"/>ut patet f. eod. l. 1. respons. 1. §. 1. &amp; I praetor. §. hoc interdictum 
+      <lb ed="#C" n="121"/>perpetuo. &amp; ff quod vi, aut clam. semper §. hoc interdictum un 
+      <lb ed="#C" n="122"/>de &amp; potest dici, quod illud interdictu, quod vi, aut clam 
+      <lb ed="#C" n="123"/>non competit ex vi denunciationis, nisi aedificans denun 
+      <lb ed="#C" n="124"/>ciatione certificatus sit, hoc autem competit, &amp; si ignoret 
+      <lb ed="#C" n="125"/>Sed quo ad hoc tantum; ut opus patiatur tolli, ad hoc s 
+      <lb ed="#C" n="126"/>quod vi, aut clam si aliui. respons. 1. &amp; §. aitJulianus. Si dicas 
+      <lb ed="#C" n="127"/>durum est teneri, vel astringi dominum ignorantem. Re 
+      <lb ed="#C" n="128"/>spondeo, tamen lex sic scripta est. ff. qui &amp; a quibus manu 
+      <lb ed="#C" n="129"/>liberi non si prospexit. dicendum est tamen, quod licet igno 
+      <lb ed="#C" n="130"/>rans &amp; absens ligetur, parcitur ei, si ubi primum scivit, in 
+      <lb ed="#C" n="131"/>terdixit opus fieri, &amp; nunciationi acquievit. argum. C.d 
+      <lb ed="#C" n="132"/>fal. monet. Ii. §. 1. &amp; opus factum patiatur tolli. argum.i 
+      <lb ed="#C" n="133"/>eodem, I penulti. &amp; fin. sed si non acquiescit, tunc proprii 
+      <lb ed="#C" n="134"/>expensis cogitur demoliri. infra eod cum ex injuncto. secun 
+      <lb ed="#C" n="135"/>dum hoc potest intelligi. ff. de alien jud. mutand. causa fact. 
+      <lb ed="#C" n="136"/>3. §. opus. omnia etiam alia jura a dominis inducta, in ali¬ 
+      <lb ed="#C" n="137"/>casu loquuntur, &amp; ideo non insisto, quia hoc jus special¬ 
+      <lb ed="#C" n="138"/>est contra regulam aliorum, &amp; tangitur ratio specialita 
+      <lb ed="#C" n="139"/>tis, ff. eod. operis. &amp; l.ultim. quia res ubi aedificatur conside 
+      <lb ed="#C" n="140"/>randa est, non persona: ut ibi dicit, ideoque rei faciendi 
+      <lb ed="#C" n="141"/>est nunciatio, non personae inde est, quod si in pluribus lo 
+      <lb ed="#C" n="142"/>cis fiat opus, non sufficit una nunciatio, imo tot requirun 
+      <lb ed="#C" n="143"/>tur nunciationes, quot sunt opera, ut patet ff cod de pupillo 
+      <lb ed="#C" n="144"/>§. si in pluribus. nec requiritur scriptura de necessitate, sec 
+      <lb ed="#C" n="145"/>quo ad interdictum, quod vi, aut clam. scriptura requiri 
+      <lb ed="#C" n="146"/>tur, &amp; in absentia potest fieri nunciatio: quare videtur 
+      <lb ed="#C" n="147"/>quod quantum ad interdictum illud, sufficeretuna nun 
+      <lb ed="#C" n="148"/>ciatio: dum tamen exprimerentur omnia opera in scri 
+      <lb ed="#C" n="149"/>ptura, ut innuitur in l. saepe inducta. fi. quod vi, aut clam, au 
+      <lb ed="#C" n="150"/>qui aliter. §. si quis denunciaverit. vel potest dici, quod tun 
+      <lb ed="#C" n="151"/>tot sunt denunciationes simul factae, quot opera, f. de veri 
+      <lb ed="#C" n="152"/>oblig scire debemus. sed sive una, sive plures intelligantur 
+      <lb ed="#C" n="153"/>hoc semper verum est, quod simul &amp; eodem momente 
+      <lb ed="#C" n="154"/>factae sunt, quod non potest esse, quo ad hoc edictum, ime 
+      <lb ed="#C" n="155"/>necesse est, quod plures sint separatae in diversis locis, &amp; 
+      <lb ed="#C" n="156"/>diversis temporibus factae. Sed dicunt domini hoc intel- 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0770.xml-->
+          <pb ed="#C" n="753"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>ligi, scilicet quod valeat denunciatio facta in re, absente 
+          <lb ed="#C" n="2"/>domino, ex quo dominus certioratus est, ut not. unde se¬ 
+          <lb ed="#C" n="3"/>cundum ipsos dices, quod domino nunciandum est, sed 
+          <lb ed="#C" n="4"/>plures domini sint, sufficit quod uni fiat denunciatio¬ 
+          <lb ed="#C" n="5"/>Hoc etiam intellige, ubi in re ipsa fit uni de dominis nur 
+          <lb ed="#C" n="6"/>ciatio, secus putarem, si absenti fieret, quia res inter alio 
+          <lb ed="#C" n="7"/>acta, &amp;c. C. res inter alios acta l. 1. 2. &amp; 3. supra de sent. &amp; re juc 
+          <lb ed="#C" n="8"/>quamvis regulariter. &amp; est ratio, quia quando fit in re ipsa 
+          <lb ed="#C" n="9"/>res quodammodo videtur affici, &amp; ideo omnes tenentur 
+          <lb ed="#C" n="10"/>cum omnes pro indiviso possideant. ff. eod. I. sinal. at ubi in 
+          <lb ed="#C" n="11"/>absentia fit non res afficitur, sed persona, &amp; ideo illa sol 
+          <lb ed="#C" n="12"/>astringitur &amp; ligatur: inde est, quod si plures domini sini 
+          <lb ed="#C" n="13"/>quibus opus praejudicet, &amp; unus tantum nunciet, non re 
+          <lb ed="#C" n="14"/>levat: quia potest esse, quod alter habeat, alter non habea 
+          <lb ed="#C" n="15"/>jus prohibendi. ff. eod de pupillo § si plarium dominorum. &amp; 
+          <lb ed="#C" n="16"/>sic videtur nunctatio personalis: nec res afficitur commi 
+          <lb ed="#C" n="17"/>niter, sicut in superiori casu: nec affici potest, secundun 
+          <lb ed="#C" n="18"/>Azo quod intelligo, quando nomine suo tantum nuncia 
+          <lb ed="#C" n="19"/>tur, &amp; diverso jure, &amp; a diversis causam habenti: nam si no 
+          <lb ed="#C" n="20"/>mine suo, &amp; sociorum unus bene sufficeret, ut patet in his 
+          <lb ed="#C" n="21"/>quae not. supra eo I§ quis possit. versicu nedum. Item si pro in 
+          <lb ed="#C" n="22"/>diviso, &amp; ex eadem causa possiderent, omnibus prodesse 
+          <lb ed="#C" n="23"/>arg. C. de dirers rescri I I. C. si unus ex pluribus appellat. I.i. &amp; 
+          <lb ed="#C" n="24"/>supra de appellatio. una sententia. &amp; sic intellexit Job. ad hoc 
+          <lb ed="#C" n="25"/>infra eod cap. 2. Item uni ex sociis aedificanti non potest fi¬ 
+          <lb ed="#C" n="26"/>ri nunciatio. ff. eod in provinciali. §.. &amp; 2. Sed nec servituten 
+          <lb ed="#C" n="27"/>habens potest domino nunciare sicut not. supra eod. §. qui 
+          <lb ed="#C" n="28"/>possit. vers. quicq uid tamen dicunt, verum: quia in commun 
+          <lb ed="#C" n="29"/>aed ficand, seu demoliendi socius invito socio sus non ha 
+          <lb ed="#C" n="30"/>bet, quia non solus dominus est, ut ff de servit. uthanor praed 
+          <lb ed="#C" n="31"/>parietem. &amp; l. sed si inter me, &amp; te §. sinal prohibendus est.n. 
+          <lb ed="#C" n="32"/>aedificet. f coninum divid Sabinus prohibitione autem facta 
+          <lb ed="#C" n="33"/>etiam per lapilli jactum, opus novum aedificant postea pe 
+          <lb ed="#C" n="34"/>communi dividundo judicium, ut lilla. Sabinus, si tame 
+          <lb ed="#C" n="35"/>toti societati expediat, ff de servit. urbanor. praedio in rem com 
+          <lb ed="#C" n="36"/>munem, vel etiamsi non expediat per interdictum, quod vi 
+          <lb ed="#C" n="37"/>aut clam. cogitur demoliri. ff. quod vi, aut clam. li. &amp; 3. &amp; 
+          <lb ed="#C" n="38"/>vim facit. idem est. si non prohibuit, quia nescivit. ut ff quo¬ 
+          <lb ed="#C" n="39"/>vi, aut elam. l. 3. in fin. &amp; d ISabinus. in fin. Sin autem scivit, 8 
+          <lb ed="#C" n="40"/>non prohibuit, de damno tantum agit per communi div 
+          <lb ed="#C" n="41"/>dundo judicium, quod si consenserit, nec de damno habe 
+          <lb ed="#C" n="42"/>actionem, ut in d l. Sabin is. Sed &amp; si taceat socius callid 
+          <lb ed="#C" n="43"/>sciens opus solum, &amp; sic per consequens sibi pro medi 
+          <lb ed="#C" n="44"/>parte cedere: hoc facere poterit, nec expensas cogitu 
+          <lb ed="#C" n="45"/>resarcire. C de aedificiis privat siis contra quem. secundum ho 
+          <lb ed="#C" n="46"/>intellige. f eod in provinciali Illud etia not quod si aliquo 
+          <lb ed="#C" n="47"/>opus fiat ad aemulationem alterius, vel quo materiam se 
+          <lb ed="#C" n="48"/>ditionis praebeat, vel in publico, nullatenus est toleran 
+          <lb ed="#C" n="49"/>dum ff. de oper publ. 3.
+        </p>
+            <p xml:id="nbht7y-d1e2037-d1e1052" n="8">
+               <lb ed="#C" n="50"/>Qualiter, fiat Et quidem perrerba Iem pe 
+          <lb ed="#C" n="51"/>praetoris inhibitionem. Item pe 
+          <lb ed="#C" n="52"/>lapilli jactum. f de pupillo. § meminisse. Illud autem quo 
+          <lb ed="#C" n="53"/>dico de jactu lapilli, intelligunt quidam, ubi nulla verb 
+          <lb ed="#C" n="54"/>interveniunt. Sed Job intelligit, quod haec verba &amp; sim 
+          <lb ed="#C" n="55"/>lia intervenire possunt. Nuncio tibi novum opus per i¬ 
+          <lb ed="#C" n="56"/>ctum lapilli, &amp; statim projiciat lapidem in ipso opere, S 
+          <lb ed="#C" n="57"/>aliqui hoc dicunt ter faciendum, argum. ff. de re jud contu 
+          <lb ed="#C" n="58"/>ma. 12. q. 2. indignae. supra de constitut. ex literis. infra de senten 
+          <lb ed="#C" n="59"/>excommun inaudientia. Dicunt etiam aliqui, ut Azo. quoc 
+          <lb ed="#C" n="60"/>licet verba non debeant intervenire, tamen nutu debe 
+          <lb ed="#C" n="61"/>ostendere in jactu lapilli, ne quid novi fiat. Sivis, pote 
+          <lb ed="#C" n="62"/>dicere, quod quantum ad invicem requiruntur verba in 
+          <lb ed="#C" n="63"/>loquente: nec enim omnis qui lapidem projicit, intendi 
+          <lb ed="#C" n="64"/>novum opus nunciare, sin autem mutus esset, tunc suffi 
+          <lb ed="#C" n="65"/>ceret lapilli jactus cum nutu conveniente, &amp; aliis circum 
+          <lb ed="#C" n="66"/>stantiis, probatur hoc supra de spons. cum apud. in fin. &amp; c tu¬ 
+          <lb ed="#C" n="67"/>&amp; idem dicunt quidam in matrimoniis, sci. quod non sus 
+          <lb ed="#C" n="68"/>ficit consensus sine verbis, ut aperte innuunt proxime in 
+          <lb ed="#C" n="69"/>ductae decr. sed de hoc dic, ut plene not. supra de spons. su 
+          <lb ed="#C" n="70"/>rubr. de matrim §. qualiter vers. mihi videtur. &amp; seq. In hoc ta 
+          <lb ed="#C" n="71"/>men nullam vim constituc, per quae verba fiat nunciatio 
+          <lb ed="#C" n="72"/>utrum, scilicet aliquis dic. vuncio, vel prohibeo, vel in 
+          <lb ed="#C" n="73"/>terdico, ne hoc opus facias, volnovum opus, vel aliquid si 
+          <lb ed="#C" n="74"/>mile, quia nec refert quid ex aequipollentibus fiat. ff. der 
+          <lb ed="#C" n="75"/>jud in sumna. alias incipit in sententiis supra de testibus licet e¬ 
+          <lb ed="#C" n="76"/>quadam supra de procurat. petitio, nec qua lingua fiat. utrun 
+          <lb ed="#C" n="77"/>Graeca, vel Latina: argum. C. detestam. quoniam indignun 
+          <lb ed="#C" n="78"/>secundum Azo dum tamen intelligatur, f. de Instit act. se
+          <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>si pupillus. § proscribere. versicul. literis. Requiritur etiam ac 
+          <lb ed="#C" n="80"/>hoc, ut nunciatio teneat quod causam quam nunciat di¬ 
+          <lb ed="#C" n="81"/>cat. argument. C. de edi. di. Adri. toll I si ff.de transact. cum hi § 
+          <lb ed="#C" n="82"/>vult igitur oratio, &amp; sequenti supra de accusat cum dilecti § pen 
+          <lb ed="#C" n="83"/>ameser. &amp; hoc verum est, si requiratur, ut notatur supra § 
+          <lb ed="#C" n="84"/>quis possit, versicul. semper tamen. alias sufficit, &amp; sinude fia 
+          <lb ed="#C" n="85"/>nunciatio sine causa, f. eod depupillo §. toties. &amp; S praecedent, 
+          <lb ed="#C" n="86"/>qui nunciatur, sicut dicitur &amp; in teste, in auihen de restibus. § 
+          <lb ed="#C" n="87"/>sancimus. &amp; notatur. supin de test. §. super quibus 1ersicul d 
+          <lb ed="#C" n="88"/>causis sub §. &amp; cuncta versicul quamris enim. Is vero qui nun 
+          <lb ed="#C" n="89"/>ciat, necesse habet, quo loco opus novum nunciet, de 
+          <lb ed="#C" n="90"/>monstrare, ad hoc ut is, cui nunciatur, sciat a quo loco ab 
+          <lb ed="#C" n="91"/>stineat, &amp; in quo loco aedificare possit: hoc, si in partem si 
+          <lb ed="#C" n="92"/>nunciatio: caeterum si in totum, sufficit simpliciter dicere 
+          <lb ed="#C" n="93"/>Nuncio novum opus. ff. eodem. de pupillo. §. qui nunciat. E 
+          <lb ed="#C" n="94"/>sequ. Est &amp; consilium legis, quod si quid aedificatum sit, in 
+          <lb ed="#C" n="95"/>testatione poni debet, ut sic facilis sit probatio, quantum 
+          <lb ed="#C" n="96"/>debeatde ipso opere demoliri. dicet ergo tabellio tali an¬ 
+          <lb ed="#C" n="97"/>no &amp;c. cum essem vocatus a tali, &amp; ad talem locum, &amp; non 
+          <lb ed="#C" n="98"/>esset adhuc elevatus murus per unum cubitum, sicut mem 
+          <lb ed="#C" n="99"/>suravi, videntibus &amp; praesentibus testibus infrascriptis: ta 
+          <lb ed="#C" n="100"/>lis qui vocaverat me, munciavit novum opus tali in re ips: 
+          <lb ed="#C" n="101"/>praesenti &amp; existenti. &amp; hot per lapilli jactum, vel per num 
+          <lb ed="#C" n="102"/>cium a judice missum, vel per verba, secundum quod e¬ 
+          <lb ed="#C" n="103"/>rit, debet etiam apponi longitudo &amp; latitudo, &amp; qualita 
+          <lb ed="#C" n="104"/>operis. hi sunt moduli quos docet sumere lex, &amp; haec es 
+          <lb ed="#C" n="105"/>testatio de quibus habes. Feodem non solum. §1. &amp; §. penulti 
+          <lb ed="#C" n="106"/>Sed &amp; instrumentum dies &amp; hora, &amp; quod opus futurum 
+          <lb ed="#C" n="107"/>sit, apponi debet, &amp; caveri debet, ne obscure aut perfun 
+          <lb ed="#C" n="108"/>ctorie quid agatur, neque arctari debet adversarius ab 
+          <lb ed="#C" n="109"/>sens, cui denunciatio fit, ut intra diem ad prohibendum o 
+          <lb ed="#C" n="110"/>pus non valeat occurrere, fi. quod ri, aut clam qui aliter. resp 
+          <lb ed="#C" n="111"/>. &amp; §. siquis denunciarerit. Sed illud loquitur de alio Mar 
+          <lb ed="#C" n="112"/>tino quod dic, ut notatur. supra eodem. §. cui siat. versicul. ve 
+          <lb ed="#C" n="113"/>runtaenen. &amp; sequent.
+        </p>
+            <p xml:id="nbht7y-d1e2037-d1e1196" n="9">
+          Sed &amp; is qui denunciat, necesse 
+          <lb ed="#C" n="114"/>habet jurare de calumnia, si exigatur, quod est intelligen 
+          <lb ed="#C" n="115"/>dum, quando denunciatione facta aditurpraetor, sive ju 
+          <lb ed="#C" n="116"/>dex, postulans sibi re nitti renunciationem, nisi ille qu 
+          <lb ed="#C" n="117"/>nunciavit. juraverit; ab initio enim non exigitur praetori 
+          <lb ed="#C" n="118"/>authoritas. ff. eodem. I. prima §. nunctatio. ex hoc edicto er¬ 
+          <lb ed="#C" n="119"/>go si facta nunciatione adeatur judex, jurabitur si exiga 
+          <lb ed="#C" n="120"/>tur, alioquin nunciatio remittitur. sic intellige. ff. eodem 
+          <lb ed="#C" n="121"/>de pupillo. § qui opus novum. ne dicas hoc corrigi per auth 
+          <lb ed="#C" n="122"/>de his qui ingredi. ad appell § finali colla 5. quia illud intelligi 
+          <lb ed="#C" n="123"/>tur de juramento, quod praestatur post litis contest. quod 
+          <lb ed="#C" n="124"/>non est praestandum nisi semel, ut ibi dicit. porto I. de pu 
+          <lb ed="#C" n="125"/>pillo § qui opus. loquitur de furamento, quod praestatur an 
+          <lb ed="#C" n="126"/>te lit. contesta, sicut &amp; alia jura, ff. de damno infecto. qui bona 
+          <lb ed="#C" n="127"/>§qui damn &amp; § si quis stipulaturus. ff. qui satisdat eo dedie s 
+          <lb ed="#C" n="128"/>subetur. ff. de jurejuran. I. juijurandum. §. quis jusjurandum 
+          <lb ed="#C" n="129"/>Qui vero alio nomine nunciat, necesse habet satisdare 
+          <lb ed="#C" n="130"/>rem ratam dominum habiturum, ff. eodem. depupillo §. qu. 
+          <lb ed="#C" n="131"/>procuratorio. quod locum habet secundum Bul. cum di¬ 
+          <lb ed="#C" n="132"/>mandato dubitatur. alii hoc dicunt speciale, &amp; cautionem 
+          <lb ed="#C" n="133"/>praestari debere, etiam si de mandato constet, sicut &amp; ali 
+          <lb ed="#C" n="134"/>bi, ff ad Treb qui dam &amp; ff.de mi illud ad fi. legis. 
+          <!--<lb ed="#C" n="135"/>ADDITIO 
+          <lb ed="#C" n="136"/>d Novum quo que opus nuncians demonstuare debet, in que 
+          <lb ed="#C" n="137"/>loco nunciavit, ut sciatur, ubi aedificaripossit, &amp; abs quo loce 
+          <lb ed="#C" n="138"/>abstinendum sit dicta I. de pupillo. §. qui nunciat; Qui nuncia 
+          <lb ed="#C" n="139"/>debet explicare, &amp; referre quid operis iam factum erat, cun 
+          <lb ed="#C" n="140"/>denuncavit, &amp; superducat attestationes, ut sciatur quid post 
+          <lb ed="#C" n="141"/>ea factum fuerit. F. eodem tit l. non solum. Modulos quoque 
+          <lb ed="#C" n="142"/>fumere debet, qui nunciat, ut postea, probari possit, quid fue¬ 
+          <lb ed="#C" n="143"/>rit aedificatum. Isciendum ffed. Quod ad jactum lapidis atti 
+          <lb ed="#C" n="144"/>net, sciendum est, quod qui jactu lapidis nunciat, efficitu 
+          <lb ed="#C" n="145"/>possessor, &amp; retinet possessionem i. de pupillo §. meminisse extr 
+          <lb ed="#C" n="146"/>tod. c. I. &amp; 2. de verb. sign ex parte. Idem quoque juris est in nun¬ 
+          <lb ed="#C" n="147"/>ciatione, quae fit per praetorem 4§. memini sse. Item qui lapil 
+          <lb ed="#C" n="148"/>lum projicit, &amp; sic nunciat, non ostendit signum timidi ho¬ 
+          <lb ed="#C" n="149"/>minis, &amp; effugientis, sed audacis, &amp; possessionem defendere 
+          <lb ed="#C" n="150"/>volentis. Et ideo non amittet possessionem. Et idem est cum 
+          <lb ed="#C" n="151"/>quis praetorem addit, cum audacia loquens. Domine praeto 
+          <lb ed="#C" n="152"/>talis aedificat in meo solo fac eum incontinenti exire, alio¬ 
+          <lb ed="#C" n="153"/>quin videbis, quid fiet. Vbi vero cum timore &amp; humilitate 
+          <lb ed="#C" n="154"/>verborum proponit aedificatori, suadens in ornatu sermonis 
+          <lb ed="#C" n="155"/>per hoc ipsum intendens monere, ut de possessione exea 
+          <lb ed="#C" n="156"/>perdit possessionem. Non tamen negari potest qui verbis, 
+          <lb ed="#C" n="157"/>nuncians opus novum, possessionem ficri, ffaeo dt. LI. §. in opo 
+          <lb ed="#C" n="158"/>ru. Mari -->
+        </p>
+            <p xml:id="nbht7y-d1e2037-d1e1246" n="10">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0771.xml-->
+               <pb ed="#C" n="754"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>Qualiter tollatur Et quidem perinterdictum 
+          <lb ed="#C" n="2"/>de remissionibus, &amp; pe 
+          <lb ed="#C" n="3"/>subsequens interdictum, quod appellatur prohibitorii 
+          <lb ed="#C" n="4"/>de quo habes ff. eod. praetor ait. § deinde, sive expressim sit f. 
+          <lb ed="#C" n="5"/>cta remissio, ut f. de remiss. Ii. in princip. ff. eod. si opus novun 
+          <lb ed="#C" n="6"/>sive tacite, quod multis modis accidit, puta, quia transa 
+          <lb ed="#C" n="7"/>ctio secuta est authoritate praetoris, vel sine, quia nec aliu¬ 
+          <lb ed="#C" n="8"/>quaerit praetor quam ut controversias dirimat: ergo si con 
+          <lb ed="#C" n="9"/>veniant inter se, vel sponte recedant, debet hoc ratum hi 
+          <lb ed="#C" n="10"/>bere, f. eodem. LI. §. &amp; post operis. &amp; §. sequent. idem quaeritur.
+        </p>
+            <p xml:id="nbht7y-d1e2037-d1e1277" n="11">
+               <lb ed="#C" n="11"/>Tacite enim fit remissio per mortem nunciatoris, ant¬ 
+          <lb ed="#C" n="12"/>quam aliquid aedificatum esset, nam si post aedificationen 
+          <lb ed="#C" n="13"/>moreretur, haeredi competeret interdictum, porro mort 
+          <lb ed="#C" n="14"/>illius, cui nunciatum est non extinguitur, quod &amp; ex ho 
+          <lb ed="#C" n="15"/>apparet, quia in stipulatione, quae ex hac causa interpon 
+          <lb ed="#C" n="16"/>tur, haeredis fit mentio. ff. eodem. non solum. §. morte. &amp; se¬ 
+          <lb ed="#C" n="17"/>§. quod si is. Sed nec succedit haeres, quo ad poenam, ut no¬ 
+          <lb ed="#C" n="18"/>tatur supra eodem. §. cui fiat respons. 1. ad sin. &amp; sic intellige. 
+          <lb ed="#C" n="19"/>eodem, praetor. §. hoc interdictum. Fit &amp; tacite remissio, sisi 
+          <lb ed="#C" n="20"/>tisdetur intra annum de opere demoliendo, si apparuer 
+          <lb ed="#C" n="21"/>injuria aedificatum, vel per nunciatorem factum sit, qu 
+          <lb ed="#C" n="22"/>minus satisdetur. ff. eodem, praetor. §. demde ait praetor. &amp; 
+          <lb ed="#C" n="23"/>hoc interdictum. &amp; §. hoc autem. &amp; § si alteri. caeterum pol 
+          <lb ed="#C" n="24"/>annum hoc interdictum locum non habet. f. eodem. pra 
+          <lb ed="#C" n="25"/>tor. §. sinal. Quid ergo, si intra annum paratus sit satisdar 
+          <lb ed="#C" n="26"/>de opere demoliendo is, cui nunciatio facta est, nuncian 
+          <lb ed="#C" n="27"/>vero dicat non esse recipiendam cautionem, quia vult par 
+          <lb ed="#C" n="28"/>bare statim, quod ipse habetjus in re? Et quidem in ha 
+          <lb ed="#C" n="29"/>quaestione multi multa dixerunt, quae scribere non expe 
+          <lb ed="#C" n="30"/>dit: quia expressum est, quod isqui offert satisdationem 
+          <lb ed="#C" n="31"/>expectare tenetur volentem probare, usque ad tres men 
+          <lb ed="#C" n="32"/>ses, intra quos nisi de praejudicio suo probaverit, poste 
+          <lb ed="#C" n="33"/>praestita satisdatione, vel oblata, &amp; recusata aedificare po 
+          <lb ed="#C" n="34"/>test: ergo usque adtres menses est electio nunciantis, v 
+          <lb ed="#C" n="35"/>trum velit cautionem oblatam recipere, vel praejudiciur 
+          <lb ed="#C" n="36"/>suum probare: elapsis vero tribus mensibus est electio os 
+          <lb ed="#C" n="37"/>ferentis intra annum, utrum scilic. satisdare velit, vel pr¬ 
+          <lb ed="#C" n="38"/>bationum longiores inducias expectare: quod tempu 
+          <lb ed="#C" n="39"/>scilicet trium mensium, non videtur restringi posse: qua 
+          <lb ed="#C" n="40"/>vis Azo hoc dixerit, sicut audivi a domino Homine bono 
+          <lb ed="#C" n="41"/>qui de hoc dicebat se dubitare: sicut not. post ipsum, fe 
+          <lb ed="#C" n="42"/>dem. praetor ait, § si quis paratus. probantur haec C. eod. titul. 
+          <lb ed="#C" n="43"/>unica. aliqui tamen libri non habent hanc rubricam, se 
+          <lb ed="#C" n="44"/>ponitur sub tit. de aedisic. privat &amp; hoc hodie satis aperte ex 
+          <lb ed="#C" n="45"/>ponitur, infra eodem. c fin. &amp; secundum hoc intelligi debe 
+          <lb ed="#C" n="46"/>c. mfra eod sgnificantib. ff. eod si prius &amp; jura superius alleg. 
+          <lb ed="#C" n="47"/>tas Remittitur &amp; nunciatio, sive tollitur, siis qui nunci 
+          <lb ed="#C" n="48"/>vit, nolit jurare de calumnia: quod dic, ut notatur supr 
+          <lb ed="#C" n="49"/>eodem, §. proxim, versicul. sed &amp; is qui nunciat. ex quo auter 
+          <lb ed="#C" n="50"/>praetor remisit suam nunciationem, impune aedificatu 
+          <lb ed="#C" n="51"/>Feodem, si opus novum. quantumcunque vero tollatur, se 
+          <lb ed="#C" n="52"/>remittaturnunciatio, potius tamen per nunciationem 
+          <lb ed="#C" n="53"/>verborum amissanon recuperatur, nisi aliud intervenia 
+          <lb ed="#C" n="54"/>quod dic, ut notatur infra eodem, §. seque versicul. alius ffectus 
+          <lb ed="#C" n="55"/>&amp; seq.
+        </p>
+            <p xml:id="nbht7y-d1e2037-d1e1377" n="12">
+               <lb ed="#C" n="56"/>Quis sit effectus. Et quidem a&amp;e quicquidaedi 
+          <lb ed="#C" n="57"/>catum est post nunciationem 
+          <lb ed="#C" n="58"/>&amp; ipsa scripta, sive jure, sive injuria aedificatum fuerit, te 
+          <lb ed="#C" n="59"/>tum demoliatur expensis ipsius aedificantis. ff. eod l.i. resp. 
+          <lb ed="#C" n="60"/>&amp; I. praetor. §.. &amp; §. seq inf. eod. cum ex injuncto sic est &amp; in e 
+          <lb ed="#C" n="61"/>communicatione, quae tenet, &amp; si injusta sit, 1i4 3. c. 1. faci 
+          <lb ed="#C" n="62"/>haec authoritas clavium. primum vero spretus praetori 
+          <lb ed="#C" n="63"/>secundum Goffr. ut not supr. eod. §. quis possit. verssin. Est e 
+          <lb ed="#C" n="64"/>effectus, ut rem afficiat, unde &amp; is tenetur, ad quemcunc 
+          <lb ed="#C" n="65"/>potius pervenerit. ff. eod. I sual non tamen, quo ad poenarn 
+          <lb ed="#C" n="66"/>succedit: ut not supra eod §. cui fiat. respo 1. Item effectus es 
+          <lb ed="#C" n="67"/>ut si is cui nunciatum est, nolit rem defendere, transfer¬ 
+          <lb ed="#C" n="68"/>tur in eum onus probationis. ff. eod si prius quod intellis 
+          <lb ed="#C" n="69"/>sicut not. supra eod §. prox. vers. quid ergo. &amp; tolluntur hi effe 
+          <lb ed="#C" n="70"/>ctus per remissionem tacitam, vel expressam, ut not. supr 
+          <lb ed="#C" n="71"/>eod §. prox. Alius effectus est, videlicet quando fit per vel 
+          <lb ed="#C" n="72"/>ba, Constituat possessorem illum, cui fit, &amp; si antea non pol 
+          <lb ed="#C" n="73"/>sideret. ff. eod. I1 § in operis. secus, quando fit per lapilli jactum 
+          <lb ed="#C" n="74"/>vel authoritate praetoris, f eod. de pupillo §. meminisse. Rati¬ 
+          <lb ed="#C" n="75"/>diversitatis haec est: quia ubi per lapilli jactum fit nuncia 
+          <lb ed="#C" n="76"/>tio, non est signum hominis formidolosi, timidi, vel fugit 
+          <lb ed="#C" n="77"/>Vi. vel vecordis: sed est signum audacis &amp; pugnaturi, &amp; pa 
+          <lb ed="#C" n="78"/>rati perinde possessionem suam retinere, si alius non ac
+          <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>quiescat. Idem est, quando per praetorem adit proponen 
+          <lb ed="#C" n="80"/>Domine talis edificat in meo: mandetis ei, quod exeat sta 
+          <lb ed="#C" n="81"/>tim de terra mea, alioquin timeo, necum ego, &amp; gens me 
+          <lb ed="#C" n="82"/>armati sumus, &amp; parati advim, quae mihi infertur propul 
+          <lb ed="#C" n="83"/>sandam, non exeat aliter, quam vellet. in his ergo duobu 
+          <lb ed="#C" n="84"/>casibus non apparet, quod habeat animum amittendi pos 
+          <lb ed="#C" n="85"/>sessionem. ubi vero sine praetore venit ad aedificantem, 
+          <lb ed="#C" n="86"/>sine lapilli jactu, dicit ei verba placida, sicut homo miserri 
+          <lb ed="#C" n="87"/>mus: Domine, vos facitis mihi injuriam, quia aedificatis i 
+          <lb ed="#C" n="88"/>meo: rogo vos, quod exeatis, vel nuncio vobis novumo 
+          <lb ed="#C" n="89"/>pus. hic enim cum viribus carens verborum quaerat fasti 
+          <lb ed="#C" n="90"/>gium quaerens, &amp; supplicans quod exeat, voce humili, 8 
+          <lb ed="#C" n="91"/>depressa, merito praesumitur, quod suspicetur se posse re 
+          <lb ed="#C" n="92"/>pelli, &amp; sic amittit possessionem, quae solo animo, &amp; de fa 
+          <lb ed="#C" n="93"/>eili amittitur ff. de acqui. poss. I. 2.§. in amittenda. &amp; I. si id quod 
+          <lb ed="#C" n="94"/>§. sin. secundum Azo. ad idem, ff.devi &amp; vi armat. I. 3. §. siqui 
+          <lb ed="#C" n="95"/>visis armatis, &amp; seq. &amp; praece. &amp; effectus iste per remissionen 
+          <lb ed="#C" n="96"/>non tollitur, quia licet solo animo amittatur possessio, n. 
+          <lb ed="#C" n="97"/>tamen solo animo, nisi aliud interveniat, sicut nec acqui 
+          <lb ed="#C" n="98"/>ritur, vel recuperatur. C.de acquir poss. licet. Haec ita demun 
+          <lb ed="#C" n="99"/>vera sunt, si nunciatio tenuit. aliquoties enim nulla est ve 
+          <lb ed="#C" n="100"/>ratione denunciantis, qui non potest nunciare. quia no 
+          <lb ed="#C" n="101"/>habet personam idoneam, ut not supra eod. §. quis possit. ve 
+          <lb ed="#C" n="102"/>quia non est interposita eo modo, quo debet, ut patet ir 
+          <lb ed="#C" n="103"/>his, quae not. supra eod §. cui fiat &amp; §. qualiter fat. Vel quia a 
+          <lb ed="#C" n="104"/>lia actio competit, puta communi divi, vel famil. ercisc. ve 
+          <lb ed="#C" n="105"/>confescoria, ut ff. cod. in provinciali. §. 1. 2&amp; 3. argfdedam. in. 
+          <lb ed="#C" n="106"/>fect. sihaeredib &amp; l. qui bona. §. de illo. fF. sin. reg. l. 4. §. si commu 
+          <lb ed="#C" n="107"/>nem. an sin. §. de mi. in causae, in princ ffi. de edend quaedam. sed vi 
+          <lb ed="#C" n="108"/>detur, quod bene concurrat cum confessoria. ff. eod. depi 
+          <lb ed="#C" n="109"/>pill. §. sextus. versic. inpositam. Sed ad aliud competit hoc e 
+          <lb ed="#C" n="110"/>dictum demoliendum, ad aliud confessoria ad serviturem 
+          <lb ed="#C" n="111"/>scil. vendicandam. ff.eodem. l. I. §. fin. &amp; l. 2. sicut not. Azo. ffd 
+          <lb ed="#C" n="112"/>damn. infect. Trebatius, &amp; l. Proculus. de hoc tamen dic, ut no 
+          <lb ed="#C" n="113"/>supra eod. § quis possit. vers quicquid tamendicant, &amp; se¬
+        </p>
+         </div>
+      </body>
+   </text>
+</TEI>

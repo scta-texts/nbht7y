@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 19</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 19</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="621"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1652"><!-- nbht7y-l4t19 -->
+            <head xml:id="nbht7y-d1e1652-Hd1e101">Titulus 19</head>
+            <head xml:id="nbht7y-d1e1652-Hd1e103" type="question-title">De divortiis</head>
+            <p xml:id="nbht7y-d1e1652-d1e106">
+               <lb ed="#C" n="141"/>De Divortiis XIX. Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1652-d1e111">
+               <lb ed="#C" n="142"/>SUMMARIA 
+      <lb ed="#C" n="143"/>I. Divortium quid siu 
+      <lb ed="#C" n="144"/>2. Et unde dicatur 
+      <lb ed="#C" n="145"/>3. Et quot modis, &amp; quibus ex causis fiat 
+      <lb ed="#C" n="146"/>Libellus in actione dirortii quomodo formetur 
+      <lb ed="#C" n="147"/>Separatio thori si sit facta, an adhuc remaneat matrimonium 
+      <lb ed="#C" n="148"/>sus mariti in quatuor consistis 
+      <lb ed="#C" n="149"/>Maritus volens accusare uxorem suam de adulterio, an audiatur 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0639.xml-->
+      <pb ed="#C" n="622"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>8. Paria delicta mutua compensatione abolentur 
+      <lb ed="#C" n="2"/>9. Sententia divortii si lata sit ex causa fornicationis ab uxor 
+      <lb ed="#C" n="3"/>commissa, &amp; maritus inciderit in idem crimen, nunqui 
+      <lb ed="#C" n="4"/>cogetur uxorem recuperare 
+      <lb ed="#C" n="5"/>10. Conjuges si fornicantur, unus spiritualiter, alter temporaliter 
+      <lb ed="#C" n="6"/>nunquid fiet compensatio hincinde 
+      <lb ed="#C" n="7"/>1. Virsi adulteretur occulte, uxor autem manifeste, nunqui 
+      <lb ed="#C" n="8"/>poterit vir accusare uxorem, &amp; dimittere sine peccate 
+      <lb ed="#C" n="9"/>2. Judex cavere debet, ne reputet testem idoneum lenonem se¬ 
+      <lb ed="#C" n="10"/>socium, vel participem ejusdem crimmis 
+      <lb ed="#C" n="11"/>13. Divortium qualiter fieri debea 
+      <lb ed="#C" n="12"/>14. Judex debet sententiam divertii partibus tradere in 
+      scriptu<lb ed="#C" n="13" break="no"/>ram publicam redactam 
+    </p>
+            <p xml:id="nbht7y-d1e1652-d1e166">
+               <lb ed="#C" n="14"/>QUoniam ccusatione premissa, &amp; 
+      fa<lb ed="#C" n="15" break="no"/>cta responsione, &amp; habit. 
+      <lb ed="#C" n="16"/>probatione, sententia divortii ferenda est 
+      <lb ed="#C" n="17"/>dicamus de divortiis. Quis possit sententi 
+      <lb ed="#C" n="18"/>b divortii ferre, dic ut no. supra de matrimoni 
+      <lb ed="#C" n="19"/>contracto contra interdictum ecclesiae. § a quo fieri possit, hic aut 
+      <lb ed="#C" n="20"/>videndum, Quid sit divortium, Et unde dicatur, Quo 
+      <lb ed="#C" n="21"/>modis, &amp; ex quibus causis fiat, Qualiter fieri debeat
+    </p>
+            <p xml:id="nbht7y-d1e1652-d1e187">
+               <lb ed="#C" n="22"/>Quid sit divortium. Et quidem in 
+      <lb ed="#C" n="23"/>ter virum &amp; uxc 
+      <lb ed="#C" n="24"/>rem legitime separatio facta. Legitime ideo dicitur, qui 
+      <lb ed="#C" n="25"/>scriptu est: Quos Deus conjunxit, homo non separet sci 
+      <lb ed="#C" n="26"/>violenter, sine lege, absque ratione, non enim homo separa 
+      <lb ed="#C" n="27"/>quos paena damnat, quos reatus accusat, quos malefic 
+      <lb ed="#C" n="28"/>um contra 344. 2. quos Deui
+    </p>
+            <p xml:id="nbht7y-d1e1652-d1e205">
+               <lb ed="#C" n="29"/>Et vnde dicatur. Et quidem dicitur a 
+      <lb ed="#C" n="30"/>vortium a diversitate 
+      <lb ed="#C" n="31"/>mentium, vel quia hi, qui matrimonium distrahunt in di 
+      <lb ed="#C" n="32"/>versas partes eunt, ut f. eo.l. 2. &amp; ff. de verb. signi. inter stuprum 
+      <lb ed="#C" n="33"/>§ divortium, &amp; l. inter divortium
+    </p>
+            <p xml:id="nbht7y-d1e1652-d1e218">
+               <lb ed="#C" n="34"/>Quot modis, &amp; quib excausis siat. Etqui 
+      <lb ed="#C" n="35"/>dem aliquando fit quantun 
+      <lb ed="#C" n="36"/>ad thori separationem tantum, quandoque quantum ad fa 
+      <lb ed="#C" n="37"/>dus matrimoniale dissolvendum, Quantum ad thori sep¬ 
+      <lb ed="#C" n="38"/>rationem fit, quando scil. vir vel mulier fornicatur, ut 32 
+      <lb ed="#C" n="39"/>I. dicit Dominus, &amp; qui. 7. interveniente omnes accusationes. Veri 
+      <lb ed="#C" n="40"/>talis adultera accusari potest, quo ad paenam legalem ve 
+      <lb ed="#C" n="41"/>canonicam infligendam, &amp; tunc quilibet admittitur, ut tr¬ 
+      <lb ed="#C" n="42"/>ctatur infra de adul. in summa, sed quo ad divortium sepa 
+      <lb ed="#C" n="43"/>randum, non admittitur aliquis, nisi maritus, ut no. supti 
+      <lb ed="#C" n="44"/>I. sub rubricella, quis admittatur, sed is audiendus est, &amp; debe 
+      <lb ed="#C" n="45"/>libellum porrigere continentem nomen mariti accusar 
+      <lb ed="#C" n="46"/>tis, &amp; uxoris accusatae, &amp; illius cum quo adulterium dic 
+      <lb ed="#C" n="47"/>tur perpetratum, &amp; locum, &amp; annum, &amp; mensem, in que 
+      <lb ed="#C" n="48"/>perpetratum est, &amp; sub quo consule, sed non cogitur qui 
+      <lb ed="#C" n="49"/>diem apponere, vel horam, sed &amp; nomen judicis, cora qu¬ 
+      <lb ed="#C" n="50"/>accusatur, apponendum est: licet non proprium, salten 
+      <lb ed="#C" n="51"/>appellativum inde versus 
+      <lb ed="#C" n="52"/>
+               <quote xml:id="nbht7y-d1e1652-Qd1e261">Consule, mense, die, coram praetore professui 
+      <lb ed="#C" n="53"/>Tu deferrereum, crimen, loca pone sodalem 
+      <lb ed="#C" n="54"/>Et licet hora, dies, non mensis, praetereatur</quote>
+               <lb ed="#C" n="55"/>Ut ff. de accusatione libellorum. &amp; 2qu. 8. libellorum, non ta 
+      <lb ed="#C" n="56"/>men debet maritus se inscribere id est ad poenam talioni 
+      <lb ed="#C" n="57"/>se obligare, ne ipso succumbente affectum voluntatis su¬ 
+      <lb ed="#C" n="58"/>consequeretur, sed tamen per procuratorem potest cau 
+      <lb ed="#C" n="59"/>sam agere, &amp; uxor, se defendere, quia haec quaestio no¬ 
+      <lb ed="#C" n="60"/>est mere criminalis, sed mixta, tutius tamen &amp; melius tra 
+      <lb ed="#C" n="61"/>ctatur in praesentia principalium personarum, ut omni¬ 
+      <lb ed="#C" n="62"/>haec probantur sup. de proc. tuae, 2. qu ult. 33. q. 2. admonere.* Li 
+      <lb ed="#C" n="63"/>bellus igitur potest commode concipi in hunc modum, An 
+      <lb ed="#C" n="64"/>no Dominicae incarnationis millesimo, trigesimo nono 
+      <lb ed="#C" n="65"/>Domino Gregorio nono summo Pontificatui praesiden 
+      <lb ed="#C" n="66"/>te &amp; domino Hugone episcopo Dignen. regnante, 10. C. 
+      <lb ed="#C" n="67"/>len. Decembris, indictione 12. Ego Martinus accuso Bei 
+      <lb ed="#C" n="68"/>tam uxorem meam de adulterio, apud te domine Falco 
+      <lb ed="#C" n="69"/>Judex Domini Dignen. Episcopi, quia dico illam commisi 
+      <lb ed="#C" n="70"/>se adulterium in Burgo Dignen. in domo Guliel. mens 
+      <lb ed="#C" n="71"/>Novembri praesentis anni, cum Petro Andreae, quod of 
+      <lb ed="#C" n="72"/>fero me legitime probaturum, ideo peto ab ejus cohabi 
+      <lb ed="#C" n="73"/>tatione, &amp; ea servitute, qua ei sum ligatus absolvi, &amp; dot¬ 
+      <lb ed="#C" n="74"/>300. libra quam ab ea consecutus fui, cum centum libris 
+      <lb ed="#C" n="75"/>quae faciunt tertiam partem quantitatis dotis, cum ipsa 
+      <lb ed="#C" n="76"/>Berta liberos non habeat, mihi adiudicari, &amp; in his ean 
+      <lb ed="#C" n="77"/>mihi condernnari. Sed si Berta liberos habeat, tunc non 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0639.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>petet nisi dotem quam percepit, sibi adjudicari. Quod si 
+      <lb ed="#C" n="79"/>formandus sit libellus, probatur in superioribus juribu: 
+      <lb ed="#C" n="80"/>&amp; infra de dona. inter vir. &amp; uxo. plerunque, &amp; C. ad IJul. de adult 
+      <lb ed="#C" n="81"/>si adulterio. Sed hoc notandum est, quod si dotem perat, in 
+      <lb ed="#C" n="82"/>scribere debet, quo ad ipsam, ut in auth. ut liceat matri. &amp; ariae 
+      <lb ed="#C" n="83"/>quia vero plurimas, coll8 alia autem substantia suaapplica 
+      <lb ed="#C" n="84"/>tur fisco, vel in monasterio, in quo retruditur, ut in auib ii 
+      <lb ed="#C" n="85"/>nulli judi §adulteram, col. 19. Sed pone uxorem filiamfam 
+      <lb ed="#C" n="86"/>nunquid maritus adhuc lucrabitur dotem profectitiam 
+      <lb ed="#C" n="87"/>quae ad patrem redire debet: ut notatur infra de dote post di 
+      <lb ed="#C" n="88"/>vortium resti §cui datur, versic. sed &amp; ista actio, &amp; seq. &amp; videtu 
+      <lb ed="#C" n="89"/>quod sic, quia intelligitur proprium patrimonium mul 
+      <lb ed="#C" n="90"/>eris ff. de mino. denique, ad si. nec dos in bonis patris est. ff. de col 
+      <lb ed="#C" n="91"/>do.l.i.in fin. &amp; I pen. nam &amp; dos sequitur filiam sive emanci 
+      <lb ed="#C" n="92"/>patam sive exhaeredatam, &amp; C. derei uxor. actio. leg. unica,( 
+      <lb ed="#C" n="93"/>videamus, &amp; alias facit filia conditionem patris deteriorem 
+      <lb ed="#C" n="94"/>ffrerum amo. leg 3 in fin. in versicu. sed &amp; si pater, &amp; videtur ca 
+      <lb ed="#C" n="95"/>sus IC. ad leg. Juliam, de adulte leg. fi ad sin. Sed contra, qui¬ 
+      <lb ed="#C" n="96"/>non potest pater defraudari dote per filiam. ff. dedivortus 
+      <lb ed="#C" n="97"/>si filia, &amp; in authen. de nupt §est quoque colum. 4 arg. C. de pactis 
+      <lb ed="#C" n="98"/>filius, &amp; derebus credi. nec filius, sive per stipulationem, siv 
+      <lb ed="#C" n="99"/>per I. redeat ad patrem. C. dejure dotium, si genero. &amp; leg. si do 
+      <lb ed="#C" n="100"/>tem, &amp; de rei uxo act. leg unica §accedit, de pactis conrentis e¬ 
+      <lb ed="#C" n="101"/>morte, &amp; argumen, pro hac via, ff solu mat filiae, quia soli pa 
+      <lb ed="#C" n="102"/>tri competit exercitium actionis, licet consensus filiae exi 
+      <lb ed="#C" n="103"/>gatur. ff. solu. matrimo non solum. Solutio si dos recasura si 
+      <lb ed="#C" n="104"/>ad patrem, non lucratur ipsam maritus, sed si non sit reca 
+      <lb ed="#C" n="105"/>sura, bene lucrabitur. ff. solu matrimo leg 2 &amp; sic intellige. C 
+      <lb ed="#C" n="106"/>eodem tit consensu. §si vero causam, &amp; sequent. secundum Ju 
+      <lb ed="#C" n="107"/>lianum. * Sed nunquid &amp; si separatio thori facta sit, ad¬ 
+      <lb ed="#C" n="108"/>huc remanet matrimo nium, &amp; sic non est locus pertitio 
+      <lb ed="#C" n="109"/>ni dotis, argument. in his quae notat. supra de matrimoniis? 
+      <lb ed="#C" n="110"/>quis sit effectus, &amp; ideo videtur, quod vivente filia nequea 
+      <lb ed="#C" n="111"/>pater recuperare dotem, &amp; habes optimum simile in prae 
+      <lb ed="#C" n="112"/>lato vasallo alicujus principis, nam si praelatus committa 
+      <lb ed="#C" n="113"/>feloniam contra dominum, amittit ecclesia feudum quan 
+      <lb ed="#C" n="114"/>diu praelatus vivit, sed postea recuperat, ut in lfeudorum, d 
+      <lb ed="#C" n="115"/>capitulis Corradi regis, § si clericus, veluti Episcopo. Sicut au 
+      <lb ed="#C" n="116"/>tem maritus potest accusare uxorem, sic &amp; uxor maritum 
+      <lb ed="#C" n="117"/>quia quantum ad hoc, non ad imparia judicantur, ut infr¬ 
+      <lb ed="#C" n="118"/>tc. gaudemus § sane &amp; 32.q. I si quis uxorem, &amp;ques praecipit Domi 
+      <lb ed="#C" n="119"/>nus Christianae, &amp; q 7. Apostolus, contra argum. 32 quae st. 7. qui 
+      <lb ed="#C" n="120"/>in omnibus &amp; c. uxor, sed ibi falsa litera, veruntamen facili 
+      <lb ed="#C" n="121"/>us auditur vir quam mulier, ut in proxima, cap. vir enin 
+      <lb ed="#C" n="122"/>habet privilegium, quod jure mariti scil. sine inscription 
+      <lb ed="#C" n="123"/>metuque calumniae intra 60. dies utiles potest accusare u 
+      <lb ed="#C" n="124"/>xorem, quod uxori denegatur, a132. q. 1. § hoc in mulieribu 
+      <lb ed="#C" n="125"/>&amp; legsequent. 4. quaest. 4. §aliquando. Quod autem mulier ac 
+      <lb ed="#C" n="126"/>cuset in hac causa, quo ad poenam canonicam, habes supr 
+      <lb ed="#C" n="127"/>ut lit. non conttest, cap. 1. secus in poena legali, ut not. infra de a 
+      <lb ed="#C" n="128"/>dult §quid sit adulterium, in fin. sic intellige. 329. 1. § hoc in mu 
+      <lb ed="#C" n="129"/>lieribus.* Jus autem mariti in quatuor consistit. Primo 
+      <lb ed="#C" n="130"/>quia ex sola suspicione adulterii ream facit. 4. qu4. § ali 
+      <lb ed="#C" n="131"/>quando. C. de adulte quamvis, infra de adulteriis, maritis, quod 
+      <lb ed="#C" n="132"/>intelligas de praesumptione violenta, secundum Goffrec 
+      <lb ed="#C" n="133"/>32 quaestio i. dixit. supra de praesumpi literis Secundo, quia prae 
+      <lb ed="#C" n="134"/>fertur aliis volentibus accusare, ut dicta Iquamvis, &amp; ff. d 
+      <lb ed="#C" n="135"/>adul. si maritus. Tertio, quia non inscribit salvo eo quod di 
+      <lb ed="#C" n="136"/>citur supra de procu. tuae, novo tamen jure cum maritus a 
+      <lb ed="#C" n="137"/>git ad poenam legalem in foro seculari contra uxorem in 
+      <lb ed="#C" n="138"/>scribere tenetur, ut in authen. ut liceat inatri, &amp; ariae Scausas 
+      <lb ed="#C" n="139"/>Quarto, quia de calumnia non punitur nisi evidens sit, C 
+      <lb ed="#C" n="140"/>de adulter. jure mariti, ff. de adulter. is ejus §ultim. sed secun 
+      <lb ed="#C" n="141"/>dumjura canonica non videtur, quod poena talionis lo 
+      <lb ed="#C" n="142"/>cum habeat, sive criminaliter agatur, supra de procuratio 
+      <lb ed="#C" n="143"/>tuae, secundum Goffred. * Generaliter ergo auditur ma¬ 
+      <lb ed="#C" n="144"/>ritus volens accusare uxorem suam de adulterio, dicent 
+      <lb ed="#C" n="145"/>Domino in Evangelio, quod nullus debet dimittere u 
+      <lb ed="#C" n="146"/>xorem, nisi causa fornicationis, ergo hac causa potes 
+      <lb ed="#C" n="147"/>eam dimittere etiam propria authoritate, &amp; si petat resti 
+      <lb ed="#C" n="148"/>tutionem, obstat, exceptio adulterii, ut infra eo gaudemus 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="149"/>ADDITIO 
+      <lb ed="#C" n="150"/>a Quid fit divortium.] Addegl. in c. l. 32. 97. Isi concubina ffred 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>amo doct. in rub. de divor--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0640.xml-->
+      <pb ed="#C" n="623"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>sane &amp; §sina. quod dicit T. verum esse, si sit crimen noti 
+      <lb ed="#C" n="2"/>rium, vel ibi mulier hoc confitetur, ut infr. eo. significasti, &amp; 
+      <lb ed="#C" n="3"/>ex literis, alias si occultum sit, non obstaret talis excepti¬ 
+      <lb ed="#C" n="4"/>petenti restitutionem, ut sup. de rest. spol. Item cum quis, si 
+      <lb ed="#C" n="5"/>cundum T. &amp; c. in literis, &amp;c. ex conquestione, infra eo. porro, res 
+      <lb ed="#C" n="6"/>1. licet obstare in petitorio 37. q. 2. Agathosa, secundum A 
+      <lb ed="#C" n="7"/>Alii dicunt, quod in vtroque obstat exceptio adulterii, qui 
+      <lb ed="#C" n="8"/>vis occulti, dum tamen in brevi possit probari, arg. sup. d 
+      <lb ed="#C" n="9"/>positi bona fides § fina. &amp; C. de compensatio. I. si. Dicas, quod ex 
+      <lb ed="#C" n="10"/>ceptio occulti adulterii, cujus probationes offeruntur p¬ 
+      <lb ed="#C" n="11"/>ratae, obstat petenti restitutionem, quo ad torum, ar. supra d 
+      <lb ed="#C" n="12"/>rest. spol. literas § propterea. nam &amp; si intra 6. dies probari po 
+      <lb ed="#C" n="13"/>sit, notorium dicitur, ut in auth.d.n.de sent. excom. extra, c. se 
+      <lb ed="#C" n="14"/>let. S in prima, quibus elapsis, plana fiet restitutio, nisi fueri 
+      <lb ed="#C" n="15"/>facta fides, &amp; sic potest intelligi. 32. q. 2. ecclesiastica historia. E 
+      <lb ed="#C" n="16"/>hoc intellexit Gof. de adulterio commisso post electioni 
+      <lb ed="#C" n="17"/>nam commisum ante non obest petenti restitutionem, 
+      <lb ed="#C" n="18"/>bi quis propria authoritate dimisisset uxorem, ut convir 
+      <lb ed="#C" n="19"/>citur infra eod significasti, infra de adule intelleximus, &amp; ar¬ 
+      <lb ed="#C" n="20"/>359. 6. multorum 33. qu. 2. seculares, &amp; sic secundum ipsum, no 
+      <lb ed="#C" n="21"/>licet viro vxorem dimittere authoritate propria, etiam ol 
+      <lb ed="#C" n="22"/>causam fornicationis, ad quod facit quod no supra de spor 
+      <lb ed="#C" n="23"/>§ult. ad fi. sed contradicit ei 32q4..dixit dominus, &amp; per totum 
+      <lb ed="#C" n="24"/>ideo intellige secundum quod no. supra ab illo. ver. dicas, u 
+      <lb ed="#C" n="25"/>que ad ver. &amp; hoc, secundum quem intellige omnia jura su 
+      <lb ed="#C" n="26"/>perius alllegata, secundum hoc obstat mulieri restituti¬ 
+      <lb ed="#C" n="27"/>nem petenti adulterium, haec quaestio. no. inf ex literis, &amp; d 
+      <lb ed="#C" n="28"/>adul .c. fi. sed quandoque juvatur mulier exceptione vel ri 
+      <lb ed="#C" n="29"/>plicatione, ut supra de eo qui cog, consan. uxo suae, discretionem 
+      <lb ed="#C" n="30"/>nam &amp; si. Primus casus est, si &amp; ipse eodem vitio laborat, n 
+      <lb ed="#C" n="31"/>si in casu praecedenti vir excipiat de adulterio, ipsa replic. 
+      <lb ed="#C" n="32"/>bit de eodem vitio, &amp; si maritus accuset, ipsa excipiet. u 
+      <lb ed="#C" n="33"/>324.7. nihil iniquius, &amp; que 2 per totum, &amp; infra eo. significasti, &amp; 
+      <lb ed="#C" n="34"/>ex literis, &amp; ita cum maritus non debeat esse uxori autho 
+      <lb ed="#C" n="35"/>tollendi bonos mores, non debet ab eam exigere castitat 
+      <lb ed="#C" n="36"/>8 quam ipse non servat, utff. de adul siuxorem S ijudex. Imo p¬ 
+      <lb ed="#C" n="37"/>b ria b delicta mutua compensatione abolentur, utff. solum¬ 
+      <lb ed="#C" n="38"/>trimo. viro atque uxore, infra de adultec. penult. &amp; ult f.de inoffi¬ 
+      <lb ed="#C" n="39"/>testam in arenam. Secundus est, si ipsemet eam prostituit,n. 
+      <lb ed="#C" n="40"/>obstat sibi exceptio, vel replicatio lenocinii, ut supra de¬ 
+      <lb ed="#C" n="41"/>qui cogno consan. uxo. suae, discretionem, &amp; ff de adul. l. 2. §si pi 
+      <lb ed="#C" n="42"/>blico. Tertius est, quando caret dolo. puta quia credeba 
+      <lb ed="#C" n="43"/>virum defunctum, &amp; ita duxit alium, nam legitimo ven 
+      <lb ed="#C" n="44"/>ente, eam recuperare cogitur dummodo ex quo habuit no 
+      <lb ed="#C" n="45"/>titiam vitae viri, non permiserit a secundo cognosci, ut3¬ 
+      <lb ed="#C" n="46"/>qu. 2.cum per bellicam infra de secundis nupt. dominus eaden 
+      <lb ed="#C" n="47"/>ratione excusatur, si latenter ab alio cognoscatur, quen 
+      <lb ed="#C" n="48"/>credebat maritum suum, quia marito nimis dormiente 
+      <lb ed="#C" n="49"/>qui in summitate camerae jacebat, venit aliquis &amp; intravit ci 
+      <lb ed="#C" n="50"/>ea in lectum, &amp; concubuit cum ea tanquam maritus, su 
+      <lb ed="#C" n="51"/>per quo credetur sacramento suo, habito respectu ad h¬ 
+      <lb ed="#C" n="52"/>nestatem, &amp; alias probabiles conjecturas, ut 34. q. 2. in lecti 
+      <lb ed="#C" n="53"/>arg. 35. qu. 3. extraordinaria: eadem, ratione excusatur ea, que 
+      <lb ed="#C" n="54"/>secundum ritum suum libello repudii recepto alii nubit 
+      <lb ed="#C" n="55"/>nam talem fornicationem non poterit ei maritus objici 
+      <lb ed="#C" n="56"/>re, vtroque postea adfidem converso, secus, si cum alio for 
+      <lb ed="#C" n="57"/>nicata foret, ut infra eodem gaudemus §pen. &amp; ultim. &amp; ita 
+      <lb ed="#C" n="58"/>dulterium sine dolo nunquam committitur, ut ff. de adulte. 
+      <lb ed="#C" n="59"/>penultim. Quartus est, si vi fuit oppressa, ut 329. 5. proposit. 
+      <lb ed="#C" n="60"/>f. de adalt. vim passa. &amp; l. pe. quod intelligas de vi absolutan 
+      <lb ed="#C" n="61"/>conditionali, omnes enim causationes Apostolus ampi 
+      <lb ed="#C" n="62"/>tavit 32.q. 2. omnes causationes. Quintus, si reconciliavit ean 
+      <lb ed="#C" n="63"/>sibi post adulterium commissum, vel eam adulterantern 
+      <lb ed="#C" n="64"/>scienter retinet. ut 32. 4. 1c. 12. &amp; 3. sero enim reprobavit m¬ 
+      <lb ed="#C" n="65"/>res, quos semel approbavit, ut ff. de aduli. si uxor, in fi. in qu¬ 
+      <lb ed="#C" n="66"/>casu reus est lenocinii, scilicet quando sine reconciliatio 
+      <lb ed="#C" n="67"/>ne scienter talem retinet, &amp; quando eam sibi reconcilia 
+      <lb ed="#C" n="68"/>debet ipsa mulier duob. annis, vel tribus poenitere, &amp; qui 
+      <lb ed="#C" n="69"/>diu illa poenitet, abstineat se ab ea, ut 329. 1. si quis, &amp; si qui 
+      <lb ed="#C" n="70"/>&amp; c apud, &amp; si non perseverat in adulterio, sed poenitet pos 
+      <lb ed="#C" n="71"/>poenitentiam potest eam retinere maritus, ut eadem caus¬ 
+      <lb ed="#C" n="72"/>&amp; q. eo non erit, nec eo invito potest mulier religionem ir 
+      <lb ed="#C" n="73"/>trare, quia eam invitam potest reconciliare, etiamsi senti 
+      <lb ed="#C" n="74"/>tia lata sit, &amp; intra duos annos ipsam a religione, quam in 
+      <lb ed="#C" n="75"/>travit, revocare, ut C. de adult. auth hodie, &amp; supra de conver ei 
+      <lb ed="#C" n="76"/>jug gaudemus, nec proderit mulieri exceptio rei judic. uts 
+      <lb ed="#C" n="77"/>de except. rei judic. evidenter, nec tamen debet ipsam saep 
+      <lb ed="#C" n="78"/>reconciliare, ut infra de adulte. sivir sciens, utroque auten 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0640.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>casu bigamus efficitur, quod dicvt notatur suprade biga 
+      <lb ed="#C" n="80"/>paragrapho quot sunt species, versicul quint. &amp; versicul. nono, &amp; 
+      <lb ed="#C" n="81"/>legitur 34. distinctio si cujus, &amp; capit sequent. antiqui vero fa 
+      <lb ed="#C" n="82"/>ciunt de tertio casu tres &amp; si hoc facere volueris notare 
+      <lb ed="#C" n="83"/>poteris septem casus. * Quid si sententia divortii lata es 
+      <lb ed="#C" n="84"/>causa fornicationis ab vxore commissa, maritus incida 
+      <lb ed="#C" n="85"/>in idem crimen nunquid cogetur uxorem recuperare 
+      <lb ed="#C" n="86"/>Quicquid allegatur, dico quod sic, quia res de facili ad na 
+      <lb ed="#C" n="87"/>turam suam redit, argumentum supra de offic. delegat supe 
+      <lb ed="#C" n="88"/>quaestionum, Sporro, &amp; f. de pactis, si unus S pactus, &amp; sequent. 
+      <lb ed="#C" n="89"/>argumentum ff de condict. indebit. naturaliter, nam pro marite 
+      <lb ed="#C" n="90"/>faciunt duo, adulterium ab uxore commissum, &amp; senten 
+      <lb ed="#C" n="91"/>rei judicatae, quae de jure civili est: pro uxore faciunt plu 
+      <lb ed="#C" n="92"/>ra, adulterium scilicet a viro commissum, per quod exce 
+      <lb ed="#C" n="93"/>ptio adulterii uxoris tollitur, periculum incontinentiae 
+      <lb ed="#C" n="94"/>vinculum matrimoniale, quod nec fractum erat praece 
+      <lb ed="#C" n="95"/>ptum Apostoli, contra quod nulla exceptio, scilicet civi 
+      <lb ed="#C" n="96"/>lis tantum prodesse debet, ut supra de conjug. lepro, capitul¬ 
+      <lb ed="#C" n="97"/>secundo in sin &amp; aequitas a jure naturali descendens, non 
+      <lb ed="#C" n="98"/>est ergo mirum, si omnia haec exceptionem rei judicata 
+      <lb ed="#C" n="99"/>tollunt cum fortiora sint, ut argumen, supra de frigidis, fra 
+      <lb ed="#C" n="100"/>ternitatis &amp; de sentent. &amp; rejudica. lator. tenor consanguinei, &amp; 
+      <lb ed="#C" n="101"/>argumentum ff. de pact. si unus, § pact. ne peteret, debet et 
+      <lb ed="#C" n="102"/>go pronunciare pro muliere cujus jura potiora sunt, ar 
+      <lb ed="#C" n="103"/>gument. supra qui cleric. vel vove. veniens de treuga &amp; pac capi 
+      <lb ed="#C" n="104"/>prim. &amp; C. de juris &amp; facti igno. leg L&amp; de edicto divi Adria. toll 
+      <lb ed="#C" n="105"/>leg. ultim, supra de postul praelat. bonae, 2. §sinal. * Quid si u 
+      <lb ed="#C" n="106"/>nus conjugum fornicatur carnaliter, alter spiritualiter 
+      <lb ed="#C" n="107"/>nunquid fiet compensatio carnalis &amp; spiritualis fornica 
+      <lb ed="#C" n="108"/>tionis hinc &amp; inde? Non videtur, nam hae fornicationes 
+      <lb ed="#C" n="109"/>diversarum sunt specierum, unde non compensantur, sic 
+      <lb ed="#C" n="110"/>ut nec de specie ad quantitatem fit compensatio ff. de compen 
+      <lb ed="#C" n="111"/>satiombus, si convenerit, sed contra quia fornicationes istae si 
+      <lb ed="#C" n="112"/>miles sunt, &amp; idem quo ad divortium operantur. 28. quae 
+      <lb ed="#C" n="113"/>stio. prima idolatria, &amp; capit. iam nunc, &amp; multo fortius idem 
+      <lb ed="#C" n="114"/>operari debent, quo ad reconciliationem, quia proniores 
+      <lb ed="#C" n="115"/>debemus esse ad conjungendum, quam ad separandum 
+      <lb ed="#C" n="116"/>argument, supra ut lue non contestat. capit. I. in fin &amp; hoc no 
+      <lb ed="#C" n="117"/>tatur Goffred. ad idem supra de test. licet ex quadam, in fin. tu 
+      <lb ed="#C" n="118"/>dicas, quod si accusetur quis de spirituali, &amp; excipiatur de 
+      <lb ed="#C" n="119"/>carnali, in accusatione nihilominus procedetur: &amp; si con 
+      <lb ed="#C" n="120"/>vincatur accusatus, nec reverti voluerit, nec compensati¬ 
+      <lb ed="#C" n="121"/>admittetur, sed post conversationem compensatio locum 
+      <lb ed="#C" n="122"/>habet, sin autem super carnali proponatur accusatio, &amp; 
+      <lb ed="#C" n="123"/>de spirituali excipiatur, exceptio admittetur, &amp; superes 
+      <lb ed="#C" n="124"/>primitus procedetur, &amp; si de ipsa appareat. &amp; lapsus nor 
+      <lb ed="#C" n="125"/>poeniteat, ulterius minime audietur, ad quod accedi 
+      <lb ed="#C" n="126"/>quod notatur supra de ord. cog. &amp; infra de haeret. § qua paena, se 
+      <lb ed="#C" n="127"/>cundum hoc intellige jura inducta superius pro &amp; contra 
+      <lb ed="#C" n="128"/>&amp; ad hoc favor fidei &amp; animarum pericula nos inducunt 
+      <lb ed="#C" n="129"/>quae &amp; probantur supra de conper. im sin ex literis. supra de ex 
+      <lb ed="#C" n="130"/>cept. exceptionem infra eodem de illa, &amp; capitulo quanto, &amp; ca 
+      <lb ed="#C" n="131"/>pitulo gaudemus. Quid si vir adulteretur occulte, uxo 
+      <lb ed="#C" n="132"/>autem manifeste, nunquid vir potest accusare uxorem 
+      <lb ed="#C" n="133"/>&amp; dimittere sine peccato? Non, quia uxori non defici 
+      <lb ed="#C" n="134"/>jus excipiendi, sed probatio ff. de administratio. tuto. duo sun 
+      <lb ed="#C" n="135"/>Titii. forte, nisi vir egisset poenitentiam, &amp; non uxor. 32. qu 
+      <lb ed="#C" n="136"/>I. &amp; 2 secundum Goffred. Sed nunquid digne poenitens po 
+      <lb ed="#C" n="137"/>test repellere accusantem? Videtur quod sic, arg. 50. dist. 
+      <lb ed="#C" n="138"/>ferrum, imo post Christi consortium adulter non voca 
+      <lb ed="#C" n="139"/>tur. 22 quaestio.i. non erit, dicas contra, quia poenitentia nor 
+      <lb ed="#C" n="140"/>tollit actionem, nec accusationem. 23. quaestio. 2.admonere 
+      <lb ed="#C" n="141"/>multominus exceptionem. ff. de superficiebus, leg. 1. § quo 
+      <lb ed="#C" n="142"/>autem, ff. de reg juris. in viro paragrapho cui damus. Item quo 
+      <lb ed="#C" n="143"/>vir dimittat vxorem in casu isto, lex est 32. q1. dicit, sed quo 
+      <lb ed="#C" n="144"/>legis est in paenitentia non deletur, sic nec in baptismo 
+      <lb ed="#C" n="145"/>26. distinctio. una tantum, quod etiam peccatum non est sol 
+      <lb ed="#C" n="146"/>vi, inter peccata credi non debet. 26. dist. deinde, secundun 
+      <lb ed="#C" n="147"/>Goff. &amp; junge ea quae not. infra de donat. inter virum &amp; uxo 
+      <lb ed="#C" n="148"/>rem, sub rubrica, de dote post divortium restitutio. §sin. Sed s 
+      <lb ed="#C" n="149"/>nulla istarum supradictarum exceptionum maritus repell 
+      <lb ed="#C" n="150"/>potest, contestabitur lis: &amp; fient positiones, &amp; si mulic 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="151"/>ADDITIO 
+      <lb ed="#C" n="152"/>b Paria delicta.J Adde l. si ambo ff. de compensatio gl. inc cunso 
+    </p>
+    <p>
+      <lb ed="#C" n="153"/>per. de conces. praeben--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0641.xml-->
+      <pb ed="#C" n="624"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>confiteatur, habebitur ei fides contra se, ut infr. eodem ex l 
+      <lb ed="#C" n="2"/>teris, &amp; infra de adult, capit penultim. quia nec vinculo matri 
+      <lb ed="#C" n="3"/>moniali paratur praejudicium, &amp; sic non obst. supra de¬ 
+      <lb ed="#C" n="4"/>qui cogno consang uxo suae, super eo. si negaverit, recipientu 
+      <lb ed="#C" n="5"/>testes, quos judex diligenter examinabit, quaerendo a quo 
+      <lb ed="#C" n="6"/>libet teste, ubi vidit, &amp; quo tempore, si vidit nudum cum 
+      <lb ed="#C" n="7"/>da in eodem lecto jacentes, si se agitantes, si opus illud ex 
+      <lb ed="#C" n="8"/>ercentes, si uterque erant aptae aetatis ad illud opus exercer 
+      <lb ed="#C" n="9"/>dum: si vidit commiscentes, &amp; si qua secretiora putaveri 
+      <lb ed="#C" n="10"/>inquirenda, si de nocte vidit eos cameram intrare, &amp; man 
+      <lb ed="#C" n="11"/>egredi, si pluries hoc contingit, si fama loci hoc habet, s 
+      <lb ed="#C" n="12"/>strepitum audivit tenui pariete distans, cum ipsos vidisse 
+      <lb ed="#C" n="13"/>intrare, si solus erat, &amp; tunc non probatur, si aliquis erat ci 
+      <lb ed="#C" n="14"/>eo, &amp; tunc probatur, dummodo &amp; ille alius in hoc ipso ju 
+      <lb ed="#C" n="15"/>ratus concordet. Inquiret etiam si per tenebrosa &amp; ol 
+      <lb ed="#C" n="16"/>scura loca &amp; suspecta viderit personas, de quibus agitur 
+      <lb ed="#C" n="17"/>saepius simul conversari, &amp; vagari solum cum sola, &amp; de f¬ 
+      <lb ed="#C" n="18"/>ma loci, haec enim adminicula sunt quamvis non facian 
+      <lb ed="#C" n="19"/>probationem plenam, haec omnia comprobantur supra d 
+      <lb ed="#C" n="20"/>praesumpt. illud. &amp; capit. literis, &amp; capit 3. &amp; de testibus praeteres 
+      <lb ed="#C" n="21"/>Caveat autem Judex,. ne lenonem, seu socium, vel partici 
+      <lb ed="#C" n="22"/>pem ejusdem criminis testem idoneum reputet; quo 
+      <lb ed="#C" n="23"/>quandoque ex confessione ejusdem testis deprehenditur, se 
+      <lb ed="#C" n="24"/>participes repelluntur, ut supra de testibus vestibus, veniens,( 
+      <lb ed="#C" n="25"/>C. de testibus quoniam, &amp; notat. supra de testibus qnis possit, ver 
+      <lb ed="#C" n="26"/>Item incausa communis criminis, &amp; sequent. vnde quod dici 
+      <lb ed="#C" n="27"/>decretalls, supra de testibus praeterea conscios, expone, id es 
+      <lb ed="#C" n="28"/>certos: quia distabant tenui pariete, ut dixi, &amp; notat. quo 
+      <lb ed="#C" n="29"/>si maritus deprehenderit uxorem in adulterio, etiam cun 
+      <lb ed="#C" n="30"/>sacerdote, potest tenere utrumque invitum, &amp; sine excom 
+      <lb ed="#C" n="31"/>municatione, per 20. horas, ut vocet testes, per quos po 
+      <lb ed="#C" n="32"/>sit probare adulterium, utf. de adult, capite, &amp; in hoc casi 
+      <lb ed="#C" n="33"/>licet manus injicere sine metu excommunicationis, ut in 
+      <lb ed="#C" n="34"/>fra de sentent. excommunicat si vero alicujus potestatis, § ultum 
+      <lb ed="#C" n="35"/>Si ergo accusans deficit in probatione, absolvetur accus¬ 
+      <lb ed="#C" n="36"/>tus, &amp; debet esse cautius judex, scilicet quod si testis dica 
+      <lb ed="#C" n="37"/>de adulterio commisso alio mense, vel alio loco, vel cu 
+      <lb ed="#C" n="38"/>alio, quam cum illo, de quo in libello continetur: non facia 
+      <lb ed="#C" n="39"/>scribi: quia nec de illo agitur: sed potius dicat talis testi 
+      <lb ed="#C" n="40"/>juratus super tali facto nihil scit de eo super quo prode 
+      <lb ed="#C" n="41"/>citur: sin autem dilucide probetur, quia tales requiruntu 
+      <lb ed="#C" n="42"/>probationes. ut C. de probat. leg ultima, &amp; depaen qui sentent 
+      <lb ed="#C" n="43"/>am, tunc feret sententiam divortii. Effectus ejus sententi 
+      <lb ed="#C" n="44"/>hic est, quod maritus absolvitur ab ejus cohabitatione, &amp; 
+      <lb ed="#C" n="45"/>servitute mutua: &amp; adjudicatur sibi dos: quia secundun 
+      <lb ed="#C" n="46"/>petitionem, quam no supra formanda est sententia: utin 
+      <lb ed="#C" n="47"/>fra de simo. licet Heli. supra de ord.cog cum dilectus § ultimo, C.a 
+      <lb ed="#C" n="48"/>fideicomm. lib. leg ultim ff. communi divi. ut fundus, potest in 
+      <lb ed="#C" n="49"/>trare religionem ea invita. 27. quaestio. 1. Agathosa, &amp; in secu 
+      <lb ed="#C" n="50"/>lo vivere continenter, alias enim recuperare cogitur, ei 
+      <lb ed="#C" n="51"/>iamsi jurasset eam non recipere, ut supra de jurejurand. tu 
+      <lb ed="#C" n="52"/>nos. &amp; infra eod ex literis, secundum quod T. intellexit, quo 
+      <lb ed="#C" n="53"/>ibi lata fuit sententia: quia dicit quod cum consilio capitu 
+      <lb ed="#C" n="54"/>continentiam induxit utrique Episcopus, subaudi secund 
+      <lb ed="#C" n="55"/>T. sententiam divortii ferendo, quo ad thorum, sic sentern 
+      <lb ed="#C" n="56"/>tiae tales ferendae sunt de consilio capit 15. quaestio. 7. Episc. 
+      <lb ed="#C" n="57"/>pus, &amp; capit. nullus. 86. dis. si quid de quocunque, veruntame 
+      <lb ed="#C" n="58"/>vinculum matrimoniale non dissolvitur; ut notatur supr 
+      <lb ed="#C" n="59"/>de matrimon § quis sit effectus, exceptiones autem suprad 
+      <lb ed="#C" n="60"/>ctae cum peremptoriae sint, objici possunt, quandocunqu 
+      <lb ed="#C" n="61"/>ante sententiam, ut C. sentent. rescindi. non pos peremptorias 
+      <lb ed="#C" n="62"/>&amp; si de novo emergant, etiam post sententiam, secundun 
+      <lb ed="#C" n="63"/>quosdam, argum. supra de offic. deleg. insinuante, quod non pu 
+      <lb ed="#C" n="64"/>to verum, salvo eo quod notatur supra eodem versic. quod 
+      <lb ed="#C" n="65"/>sententia divortii. Item effectus iste est, ut maritus doten 
+      <lb ed="#C" n="66"/>lucretur, ut infra eodem tit. i. plerumque. cum tertia parte quan 
+      <lb ed="#C" n="67"/>titatis ejusdem dotis, si mulier liberos non habet. C. de adu¬ 
+      <lb ed="#C" n="68"/>authentica si adulterio. Non solum propter fornicationen 
+      <lb ed="#C" n="69"/>carnalem separatur matrimonium, sed etiam propter sp 
+      <lb ed="#C" n="70"/>ritualem, sed dist. utrum alter duorum infidesium conve¬ 
+      <lb ed="#C" n="71"/>tatur ad fidem nostram, ut quidem si alter eum relinquat 
+      <lb ed="#C" n="72"/>quia non vult sequi eum qui recto tramite incedit, vel ic 
+      <lb ed="#C" n="73"/>eo vult sequi eum ut cum trahat ad mortale peccatum 
+      <lb ed="#C" n="74"/>vel cum eo cohabitet in contumeliam Creatoris, solvitu 
+      <lb ed="#C" n="75"/>jus matrimonii circa eum, qui relinquitur in fide, &amp; ex 
+      <lb ed="#C" n="76"/>ponejus matrimonii, jus quod provenit ex matrimonio 
+      <lb ed="#C" n="77"/>id est, quo alter alteri tenetur reddere carnale debitum 
+      <lb ed="#C" n="78"/>ideo potest dari licentia contrahendi: ut infra codeim quant 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0641.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>ad sin responsio. 1. &amp; hoc casu intelligitur authoritas Aposto 
+      <lb ed="#C" n="80"/>li, dicentis: Si infidelis discedit, discedat: quia non est frate 
+      <lb ed="#C" n="81"/>vel soror subjectus servituti, &amp; in hujus 284. 1. infidelis, &amp; s 
+      <lb ed="#C" n="82"/>contraxerit antequam alter convertatur, tunc in ipso con 
+      <lb ed="#C" n="83"/>tractu secundo solvitur jus matrimonii, id est, vinculun 
+      <lb ed="#C" n="84"/>matrimoniale quia non erat ratum: sed si convertatur in 
+      <lb ed="#C" n="85"/>fidelis, antequam contraxerit conversus fidei matrimoni 
+      <lb ed="#C" n="86"/>um, cogitur conversus antiquus novum conversum recu 
+      <lb ed="#C" n="87"/>perare, quamvis dum erat in infidelitate, libellus repudi 
+      <lb ed="#C" n="88"/>missus fuerit; quia tale repudium veritate Evangelii re 
+      <lb ed="#C" n="89"/>probatur, nec obstat, quod de novo conversus cum alio in 
+      <lb ed="#C" n="90"/>infidelitate contraxisset a quo carnaliter cognitus fuisset 
+      <lb ed="#C" n="91"/>licet obesset adulterium cum alio non marito saltem pu 
+      <lb ed="#C" n="92"/>tativo commissum, ut infra eodem, gaudemus, § qui autem us 
+      <lb ed="#C" n="93"/>que ad finem, nec obst. quod in secundo gradu. vel tertio cc 
+      <lb ed="#C" n="94"/>ianguinitatis; vel affinitatis sibi attineant, ut infra toden 
+      <lb ed="#C" n="95"/>gaudemus, respon.i. &amp; capit. ultimo &amp; supta de consangui &amp; 
+      <lb ed="#C" n="96"/>de infidelibus, nam &amp; filii ex tali matrimonio geniti sive n 
+      <lb ed="#C" n="97"/>te conversationem, sive post, ex quo omnes conversi suit 
+      <lb ed="#C" n="98"/>legitimi reputantur, ut supra qui filii sint legi, cap. gaudenni 
+      <lb ed="#C" n="99"/>puto tamen in hoc casu, quod antiquus conversus poss: 
+      <lb ed="#C" n="100"/>intrare religionem, invito novo converso, ex quo antiquu 
+      <lb ed="#C" n="101"/>fuit licentiatus per ecclesiam, argumen supra de conrer cen 
+      <lb ed="#C" n="102"/>jug capit. ultim. Sin autem alter dictorum fidelium laba 
+      <lb ed="#C" n="103"/>tur in haeresim, licet major appareat contumelia Creato 
+      <lb ed="#C" n="104"/>ris, nunquam tamen relicto dabitur licentia contrahendi 
+      <lb ed="#C" n="105"/>&amp; per hoc obviatur malitiis quorundam, qui pleruncu 
+      <lb ed="#C" n="106"/>fingerent haeresim, &amp; ab ipsa postquam relictus nupsisset 
+      <lb ed="#C" n="107"/>resilirent, &amp; nuberent cui vellent, quare cogetur relictu 
+      <lb ed="#C" n="108"/>adhaerere revertenti, si sententia divortii lata non fuerii 
+      <lb ed="#C" n="109"/>quo ad thorum, ut infra eodem quanto §i &amp; sequent &amp; est r. 
+      <lb ed="#C" n="110"/>tio diversitatis, quia inter fideles matrimonium ratum es 
+      <lb ed="#C" n="111"/>&amp; verum, sed inter infideles non est ratum, quamvis ve 
+      <lb ed="#C" n="112"/>rum sit, quod dicut no supra de matrimoniis, § qualiter, rer 
+      <lb ed="#C" n="113"/>quid sit effectus rati, ergo potest sententia divortii ferri, qui 
+      <lb ed="#C" n="114"/>ad thorum, propter carnalem, vel spiritualem fornicatiu 
+      <lb ed="#C" n="115"/>nem, semper tamen conjuges permanent, ut infra eode¬ 
+      <lb ed="#C" n="116"/>capit. 2 nam ex quo matrimonium semel tenuit, &amp; consi 
+      <lb ed="#C" n="117"/>matum fuit inter fideles, nunquam potest vinculum dir 
+      <lb ed="#C" n="118"/>mi, nisi morte. 32. qu. 7. cap1 &amp; 2. &amp; in auih. de nupt S deincep¬ 
+      <lb ed="#C" n="119"/>sed propter fornicationem potest accusari, quo ad mutu 
+      <lb ed="#C" n="120"/>am servitutem, &amp; si sententia lata sit, non cogitur relictu 
+      <lb ed="#C" n="121"/>cohabitare revertenti, sive ipsum recipere, ut mfr. eodem d¬ 
+      <lb ed="#C" n="122"/>illa, quod verum est, si relictus vult religionem intrare 
+      <lb ed="#C" n="123"/>as cogetur, ut supra de conver. conjug capit. ultin fit etiam 
+      <lb ed="#C" n="124"/>paratio, quo ad mutuam servitutem, per introitum re 
+      <lb ed="#C" n="125"/>gionis, quod dic, ut no. supra de conrersatione corjuga. 5q. 
+      <lb ed="#C" n="126"/>liter, &amp; junge quod no. supra de conrers. infideliumae qualus 
+      <lb ed="#C" n="127"/>converti, ver. notandum est autem, &amp; seq.
+    </p>
+            <p xml:id="nbht7y-d1e1652-d1e1103">
+               <lb ed="#C" n="128"/>Et qualiter, ieri debeat Patet ex premissis, quod 
+      <lb ed="#C" n="129"/>quando agitur de crimine adulteri 
+      <lb ed="#C" n="130"/>quo ad thori separationem in omnibus ordo judiciariu 
+      <lb ed="#C" n="131"/>strictissime servandus est, sed quando quaeritur de foedi 
+      <lb ed="#C" n="132"/>re matrimonii, non usquequaque servatur, id est non pero 
+      <lb ed="#C" n="133"/>mnia, ut supra ut lite non contest, capit.i. quia altera parte, ab 
+      <lb ed="#C" n="134"/>sente per contumaciam, recipiuntur testes, ut supra ut lu 
+      <lb ed="#C" n="135"/>non contest. quoniam frequenter §1. &amp; seq. Sed utraque part 
+      <lb ed="#C" n="136"/>praesente servandus est ordo judiciarius, ut patet supra u 
+      <lb ed="#C" n="137"/>lite non contesta. accedens 2. § sinal. &amp; in his quae nota supra tii 
+      <lb ed="#C" n="138"/>I. sub illa rubrica, libellus, ex quibus autem causis fiat divor 
+      <lb ed="#C" n="139"/>tium, quaerendo de foedere matrimonii, scilicet utrum te 
+      <lb ed="#C" n="140"/>nuerit, nec ne, patet ex his quae non supra de matrimo § qua 
+      <lb ed="#C" n="141"/>liter impediatur, &amp; in suo tractatu de quolibet specialite 
+      <lb ed="#C" n="142"/>no &amp; sicut dixi, quod in causa matrimoniali servatur ordi 
+      <lb ed="#C" n="143"/>judiciarius, utraque parte praesente: sic est in causa appella 
+      <lb ed="#C" n="144"/>tionis, ut patet supra de testameni. Raynaldus, &amp; C. de temp. a 
+      <lb ed="#C" n="145"/>pell l ultim. §illud. * Debet autem judex sententiam di¬ 
+      <lb ed="#C" n="146"/>vortii partibus tradere in scripturam publicam redactam 
+      <lb ed="#C" n="147"/>ne filiis susceptis ex secundo matrimonio, probatione de 
+      <lb ed="#C" n="148"/>ficiente, valeat praejudicium generari, &amp; si hoc non feceri 
+      <lb ed="#C" n="149"/>poterunt testes, qui sententiae interfuerunt, publicari, &amp; 
+      <lb ed="#C" n="150"/>qualiter debet fieri publicatio, non supra de fid instrument! 
+      <lb ed="#C" n="151"/>de publicatione, &amp; ne aliqua dubitatio vel intricatio oriatur 
+      <lb ed="#C" n="152"/>debet judex ponere totum processum scilicet qualiterli 
+      <lb ed="#C" n="153"/>bellus oblatus fuerit: et illos, ad quos pertinebat citave 
+      <lb ed="#C" n="154"/>rit, &amp; ipsis praesentibus litem contestari fecerit, &amp; quod v 
+      <lb ed="#C" n="155"/>derunt jurare testes, ei denunciaverit, &amp; propositis hinc 
+      <lb ed="#C" n="156"/>inde diligenter auditis, &amp; allegationibus deliberatione 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0642.xml-->
+      <pb ed="#C" n="625"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>habita, atque consilio, cum peritis, &amp; studio circa libro¬ 
+      <lb ed="#C" n="2"/>sententiam tulerit, vel qualiter libello oblato accusatio 
+      <lb ed="#C" n="3"/>nem in ecclesia publicaverit. &amp; his ad quos pertineba 
+      <lb ed="#C" n="4"/>contumacibus &amp; nullo defensore apparente, ex offici¬ 
+      <lb ed="#C" n="5"/>processerit, &amp; testes receperit, &amp; diligenter examinaverit 
+      <lb ed="#C" n="6"/>&amp; sic consilio habito sententiam tulerit. de quibus omni 
+      <lb ed="#C" n="7"/>bus erit a testibus qui interfuerunt sententiae, inquiren 
+      <lb ed="#C" n="8"/>dum. &amp; si non probant processum, sententia non valebil 
+      <lb ed="#C" n="9"/>comprobatur hoc supra de test. significavit. &amp;c. Albericus. 
+      <lb ed="#C" n="10"/>de restitut. spol. cum ad sedem. in fin. &amp; de probat. quoniam contr¬ 
+      <lb ed="#C" n="11"/>falsam. &amp; qui filii sint legitimi. per venerabilem. §. I. C. de re juc 
+      <lb ed="#C" n="12"/>gesta. Sed si processus in nullo impugnetur, nec aliqui¬ 
+      <lb ed="#C" n="13"/>fuerit quaesitum, omnia praesumuntur solenniter acta u 
+      <lb ed="#C" n="14"/>supra de test. situt Institut. de fidejussoribus. in sin. &amp; de hoc pl 
+      <lb ed="#C" n="15"/>nius dixi in titulo generali de testibus, &amp; de sent. &amp; re judica 
+      <lb ed="#C" n="16"/>Quid si sententia lata non sit in scriptis nunquid valet 
+      <lb ed="#C" n="17"/>Dicunt quidam, quod sic. sic supra de test. Albericus. sed cer 
+      <lb ed="#C" n="18"/>te non dicit, quin in scriptis recitata fuisset, sed quod no 
+      <lb ed="#C" n="19"/>fuit redacta in publicam scripturam, quare videretur dist 
+      <lb ed="#C" n="20"/>utrum altera pars fuerit contumax. &amp; tunc valeret. ve 
+      <lb ed="#C" n="21"/>praesens, &amp; tunc non valeret. ut C de sentent. ex peri. re. l. 1. 6 
+      <lb ed="#C" n="22"/>2. qu.i. in primis. in fin. &amp; ut dixi supra eod. §. respons.1. vel dic 
+      <lb ed="#C" n="23"/>quod non refert, dummodo de veritate constet, quia ne 
+      <lb ed="#C" n="24"/>ista sententia transit in rem judicatam, quod dic ut nota 
+      <lb ed="#C" n="25"/>supra de sent. &amp; re judic. sub rubrica. de sententia. S. qualiter pri 
+      <lb ed="#C" n="26"/>ferri debeat. vers. quid de causa matrimoniali. &amp; S. quo remedi¬ 
+      <lb ed="#C" n="27"/>sub §. hoc tamen notandum. Item in summa nota. quod 
+      <lb ed="#C" n="28"/>uxor machinata sit in mortem viri, &amp; conata fuerit, qui 
+      <lb ed="#C" n="29"/>vis vir, qui aliquem occiderit, defendendo se sine poena sit 
+      <lb ed="#C" n="30"/>tamen mulier post mortem viri sine spe conjugii, perma 
+      <lb ed="#C" n="31"/>nebit, ut infra cod. c. 1. &amp; sicut per l. judicium de majoribu 
+      <lb ed="#C" n="32"/>sublatum est: quod non tolerabat quod mulier propte 
+      <lb ed="#C" n="33"/>unum malum morem posset repudii libellum mitter¬ 
+      <lb ed="#C" n="34"/>sed pluribus coadunatis &amp; conjunctis tantum, puta, si sit 
+      <lb ed="#C" n="35"/>gulis diebus erat ebria vel in lecto solita erat mingere, ve 
+      <lb ed="#C" n="36"/>turpiora &amp; horribiliora facere. ad hoc C. dediu. I.ult. §. uli 
+      <lb ed="#C" n="37"/>sic hodie nec ex una sola causa, nec pluribus simul juncti 
+      <lb ed="#C" n="38"/>quantuncunque horribilibus, licet libellum repudii mit 
+      <lb ed="#C" n="39"/>tere, cum talem repudiationem in Evangelio veritas de 
+      <lb ed="#C" n="40"/>testetur, ut infra eodem. gaudemus. §. qui autem &amp; sic cessan 
+      <lb ed="#C" n="41"/>omnes leges, quae loquuntur de libello mittendo, forni 
+      <lb ed="#C" n="42"/>cationis sola causa excepta ob quam etiam infidelis pe 
+      <lb ed="#C" n="43"/>test mittere libellum repudii, &amp; uxorem dimittere, nor 
+      <lb ed="#C" n="44"/>tamen aliam ducere, &amp; sic potest intelligi infra cod gaudi 
+      <lb ed="#C" n="45"/>mus. §. pen. &amp; ult. &amp; de hoc not supra eod. proxi. §. sub9 geni 
+      <lb ed="#C" n="46"/>raliter. quod dic ut not. supra de spons. §. ult. de matrimoniis. 
+      <lb ed="#C" n="47"/>quis sit effectus &amp; infra de adult. § quae pona. versic. sed &amp; secun 
+      <lb ed="#C" n="48"/>dum legem divinam. &amp; seq.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

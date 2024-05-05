@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 17</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 17</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="414"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1066"><!-- nbht7y-l3t17 -->
+            <head xml:id="nbht7y-d1e1066-Hd1e101">Titulus 17</head>
+            <head xml:id="nbht7y-d1e1066-Hd1e103" type="question-title">De emptione et venditione</head>
+            <p xml:id="nbht7y-d1e1066-d1e106">
+               <lb ed="#C" n="50"/>De Contrahenda emptione, &amp; vend 
+      <lb ed="#C" n="51"/>XVII. Rubrica
+    </p>
+            <p xml:id="nbht7y-d1e1066-d1e113">
+               <lb ed="#C" n="52"/>SUMMARIA 
+      <lb ed="#C" n="53"/>1 Emptio &amp; venditio, quando &amp; qualiter contrahatur 
+      <lb ed="#C" n="54"/>2 Emptio &amp; venditio, de quibus rebus contrahatur 
+      <lb ed="#C" n="55"/>Quibus mensuris, vel ponderibus vendendum si¬ 
+      <lb ed="#C" n="56"/>4 Enptionis &amp; venditionis natura quae si 
+      <lb ed="#C" n="57"/>5 Enptor ad quid teneatur. 
+      <lb ed="#C" n="58"/>6 Venditor ad quid teneatur 
+      <lb ed="#C" n="59"/>7 Enptio, &amp; venditio qualiterrescindatur 
+    </p>
+            <p xml:id="nbht7y-d1e1066-d1e133">
+               <lb ed="#C" n="60"/>DIximus de contractibus, qui 
+      <lb ed="#C" n="61"/>tia alterius tantum perficiuntur: nunc vi 
+      <lb ed="#C" n="62"/>dendum de his, qui gratia utriusque: &amp; sic d 
+      <lb ed="#C" n="63"/>contrahenda emptione &amp; venditione. dica 
+      <lb ed="#C" n="64"/>mus igitur, Quando &amp; qualiter contrahatur emptio &amp; vi 
+      <lb ed="#C" n="65"/>ditio, Et de quibus rebus. Quibus mensuris vel ponderil 
+      <lb ed="#C" n="66"/>t vedendum Quae sit ejus natura. Ad quid emptor tenetur 
+      <lb ed="#C" n="67"/>Et ad quid venditor teneatur, Et qualiter rescindatur 
+    </p>
+            <p xml:id="nbht7y-d1e1066-d1e154">
+               <lb ed="#C" n="68"/>Quando &amp; qualiter contrahatur: emptio &amp; ven. 
+      <lb ed="#C" n="69"/>solo consensu, postquam de pretio 
+      <lb ed="#C" n="70"/>convenit non imaginaria seu simulate: quia forte anim 
+      <lb ed="#C" n="71"/>donandi, sed vere eo animo quod solratur. ut Inst.ae. in pru 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0431.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="72"/>&amp; S. cum autem. Et inter praesentes, &amp; inter absentes per nur 
+      <lb ed="#C" n="73"/>cium vel epistolam, ut f. eo . l. I. §. ul. &amp; l. 2.§. 1. &amp; I. cum in ven 
+      <lb ed="#C" n="74"/>ditione. I.nuda. Et si pretium in quantitate consistat, non i 
+      <lb ed="#C" n="75"/>specie, puta in pecunia, quae est in illo sacculo: nam tunc e 
+      <lb ed="#C" n="76"/>set potius contractus innominatus. ff. de condict. causa dat 
+      <lb ed="#C" n="77"/>l.ul. C. eo. emptione. Certa autem quantitas nedum sermon 
+      <lb ed="#C" n="78"/>adjici potest, imo &amp; re ipsa, puta quanti est in arca, non vi 
+      <lb ed="#C" n="79"/>leret. f. eo. haec venditio. S. hujusmodi. ad hoc ff. de lega. I. plane. 
+      <lb ed="#C" n="80"/>sed hoc ita. &amp; l. sed &amp; si certos. unde si quantitas non esset in 
+      <lb ed="#C" n="81"/>arca, non valeret. ff. eo si quis fundum: quantitas autem pre 
+      <lb ed="#C" n="82"/>tii vel comercium in arbitrio alterius contrahentium con 
+      <lb ed="#C" n="83"/>ferri non potest, ut C. eo. in venditis fi. eo quod saepe §. 1. nisi ta 
+      <lb ed="#C" n="84"/>cite ut si ascenderis Capitolium, sit tibi empta. Recepti¬ 
+      <lb ed="#C" n="85"/>autem rei vel restitutio arbitrio emptoris committi pe 
+      <lb ed="#C" n="86"/>test. Inst. eo. §. emptio. inf. eo. de pig. illo. Item arbitriotertii po 
+      <lb ed="#C" n="87"/>test committi etiam quantitas pretii tertii dico certi, put 
+      <lb ed="#C" n="88"/>quanti Titius aestimaverit: qui si male arbitratus sit, redi 
+      <lb ed="#C" n="89"/>gitur ad arbitrium boni viri, haec probantur Inst eod. § pr¬ 
+      <lb ed="#C" n="90"/>uum &amp; seq. C. eo.I. uleff. pro socio.I.cum ita. &amp; l.2. societatem ff lo¬ 
+      <lb ed="#C" n="91"/>si merces. Imo &amp; si ab initio invitus distrahere vel emere ne 
+      <lb ed="#C" n="92"/>mo cogatur. ut C. eo. invitum. &amp; I.dudum. si tamen rem ex 
+      <lb ed="#C" n="93"/>ponas venalem &amp; pretium, quo vendere vis, sit injustum 
+      <lb ed="#C" n="94"/>potes cogi per judicem ut temperes. inf. eo c... f. de offi. praes¬ 
+      <lb ed="#C" n="95"/>urbi. l.i.§. cura carnis. Item necesse est, quod ex parte vendi 
+      <lb ed="#C" n="96"/>toris res, vel merces vendatur, ut discernatur quis emptor 
+      <lb ed="#C" n="97"/>quis venditor, quid pretium, quid merx. f. derer. permu. I. 
+      <lb ed="#C" n="98"/>Inst. eo. §. dirersae scholae. Possunt tamen emi fructus faturi 
+      <lb ed="#C" n="99"/>sicut haereditas quae obvenire debet, &amp; jactus retium &amp; 
+      <lb ed="#C" n="100"/>lia ff. eo nec emptio. &amp; de act. emp. si sterilis. &amp; de haered. vel act. ver 
+      <lb ed="#C" n="101"/>cum haeredi. &amp; Iquod si nonnulli, &amp; I.quod si in venditione. &amp; 
+      <lb ed="#C" n="102"/>cond. &amp; deinon Ii.m si. &amp; de verb. obl. inter stipulantem. §. sacraen 
+      <lb ed="#C" n="103"/>Et si res vendita extare credatur, cum tamen non exter 
+      <lb ed="#C" n="104"/>nulla est emptio f. eo.l. &amp; si consensu. Quid si domus vendit 
+      <lb ed="#C" n="105"/>incendio consumpta sit? Dist. utrum uterque, vel alter scia 
+      <lb ed="#C" n="106"/>vel ignoret, &amp; utrum in totum vel in partem. ff. eo. domun 
+      <lb ed="#C" n="107"/>&amp; l. arboribus. Arrae autem datio, est argumentum empti¬ 
+      <lb ed="#C" n="108"/>nis &amp; venditionis: &amp; si emptorvelit resilire amittet arras 
+      <lb ed="#C" n="109"/>si autem venditor velit a venditione discedere, arras du 
+      <lb ed="#C" n="110"/>plicatas emptori restituet. Inst. eo. resp. 1.C. de si. instr contractu 
+      <lb ed="#C" n="111"/>in fi. &amp; nihilominus agetur ad interesse, secundum Berr 
+      <lb ed="#C" n="112"/>&amp; Job. ar ff. de testa. mili. l. 4 f de inoffi. test. mater. C. de pact. do 
+      <lb ed="#C" n="113"/>ul. M. &amp; AZO. contra. satis enim est quod amittantur arr¬ 
+      <lb ed="#C" n="114"/>arg f de precar. &amp; habet §, cum quis. Cae execu. rei ju si causa 
+      <lb ed="#C" n="115"/>&amp; de jur. delib scimus §. si vero postquam adierint. &amp; S. sm auten 
+      <lb ed="#C" n="116"/>affuerit. de re. cred. generaliter. §. his ff. quemadmodum test aper 
+      <lb ed="#C" n="117"/>sed si quis C. de pact. do. I. ul ff. de exce doli palam. §. non male. Di 
+      <lb ed="#C" n="118"/>si detur arra, &amp; pro pagamento, vera est sententia Job. 8 
+      <lb ed="#C" n="119"/>Bern si pro arra tantum, vera est sententia M. &amp; Azc 
+    </p>
+            <p xml:id="nbht7y-d1e1066-d1e274">
+               <lb ed="#C" n="120"/>Et de quibus rebus. b: Corporalibus &amp; incorpo¬ 
+      <lb ed="#C" n="121"/>ralibus ff. eodem. convenit. &amp; Isi debitor. 
+      <lb ed="#C" n="122"/>§. IC. de haer. rel act. ven. servitutes. Res autem sacrae e &amp; reli¬ 
+      <lb ed="#C" n="123"/>giosae prohibentur vendi quod dicut not. supra dere. eccl 
+      <lb ed="#C" n="124"/>non alie. § quae res. ver. sacrae. &amp; sequ. Non potest vendi libe 
+      <lb ed="#C" n="125"/>homo, cum servus erit. adversam enim fortunam liberi ho¬ 
+      <lb ed="#C" n="126"/>minis expectare nec civile est, nec naturale f. co. liberi. &amp; 
+      <lb ed="#C" n="127"/>si in emptione. §1. &amp; §. liberam. &amp; de verb. obligat. inter sti 
+      <lb ed="#C" n="128"/>pulantem. §. sacram rem. Potest tamen pater vendere filii 
+      <lb ed="#C" n="129"/>u necessitate famis ingruente, ut tamen pretio praestito 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="130"/>ADDITIONES. 
+      <lb ed="#C" n="131"/>a Quod de pretio ait Hostiensis de eo, quod certa quantitar 
+    </p>
+    <p>
+      <lb ed="#C" n="132"/>definitum est, accipiendum recte putat Mart. in summa eoc 
+      <lb ed="#C" n="133"/>tit. Nam si ita dictum esset, dabo tibi pretium, quod est in sac¬ 
+      <lb ed="#C" n="134"/>culo, tunc non est emptio, nec venditio, sed contractus in 
+      <lb ed="#C" n="135"/>nominatus. ff. de condi. causa dat.I.deditibi. C.eod.rit. empti fide¬ 
+      <lb ed="#C" n="136"/>b Et de quibus rebus.] Quod latissime hic edisserit Hostiensis 
+    </p>
+    <p>
+      <lb ed="#C" n="137"/>paucis complexus est Mart. noster, ubi supra. Emi, inquit. 8 
+      <lb ed="#C" n="138"/>vendi potest id, quod in commercio est hominum. Quaedan 
+      <lb ed="#C" n="139"/>enim sunt, quae in commercium non veniunt, ut liber homo 
+      <lb ed="#C" n="140"/>res sacra, vel religiosa. ut ff.cod. tit.I si in emptione. §. 1. &amp; §. libe 
+      <lb ed="#C" n="141"/>rum &amp; linter stipulentem. §. sacram. ff de vorb oblis 
+      <lb ed="#C" n="142"/>e Res autem sacrae] Addegi summae. I. q. I.c. pe. de sepu.tex. &amp; il 
+    </p>
+    <p>
+      <lb ed="#C" n="143"/>Arch. in e hoc ius porrectum. 10. 9. 2. Arch. in c. aurum. 12. quaest. 2 
+      <lb ed="#C" n="144"/>Arch inc. salvator. I. q.3 
+      <lb ed="#C" n="145"/>d Pater vendere filium] Addeglinc. quod non est, de reg. in gli 
+    </p>
+    <p>
+      <lb ed="#C" n="146"/>in c. 2. de pig. &amp; an filius possit contra cum agere si venerit a¬ 
+      <lb ed="#C" n="147"/>pinguiorem fortunam, vide per Fel, inc. dilequama de rescrip. veri 
+      <lb ed="#C" n="148"/>fallis. .. &amp; 8. -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0432.xml-->
+      <pb ed="#C" n="415"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>vel a filio reddito, vel alio quocunque restituto; in ingenu 
+      <lb ed="#C" n="2"/>tatem perveniat. ut C. de patri. qui fili distra. l. 2. multo for 
+      <lb ed="#C" n="3"/>tius pignori obligare, quia cui quod plus est conceditur 
+      <lb ed="#C" n="4"/>&amp;c. f. de reg. jur. non debetcuique. Sed nunquid servus effi 
+      <lb ed="#C" n="5"/>citur? sic, secundum Azo. alii contra, sed tamen servir 
+      <lb ed="#C" n="6"/>debet. C commu. de ma. l. 1. Sed nunquid in alio casu nece 
+      <lb ed="#C" n="7"/>sitatis potest vendi a patre? Non, quia l. dicit generaliter 
+      <lb ed="#C" n="8"/>quod non licet patrivendere filium. C. de parri qui fil. distr. 
+      <lb ed="#C" n="9"/>pl. 1. ergo generaliter intelligitur ei prohibitum, nisi in 
+      ca<lb ed="#C" n="10" break="no"/>su concesso. Sed nunquid mater potest filium vendere? 
+      <lb ed="#C" n="11"/>Non puto. arg. de transact. transactas matris. &amp; quia nec l. rei 
+      <lb ed="#C" n="12"/>peritur concessum, nec filium habet in potestate, sicut p: 
+      <lb ed="#C" n="13"/>ter. ad hoc facit quod not. infra de sepul §. &amp; apud quam eccli 
+      <lb ed="#C" n="14"/>siam. &amp; infra de pign. §. quae res vers. fallit Item earum rerun 
+      <lb ed="#C" n="15"/>quae in causa negociationis de domo eximuntur, venditi 
+      <lb ed="#C" n="16"/>irrita consetur, emptor etiam duplum pretii in aerariun 
+      <lb ed="#C" n="17"/>inferre cogetur. &amp; hoc per se. con. Vellejanum. ut ff. eod. 
+      <lb ed="#C" n="18"/>natus. &amp; de leg 3. caetera. &amp; si pretium jam solvit, repetit tar 
+      <lb ed="#C" n="19"/>quam indebitum, ut ibidem, &amp; retinet rem emptam. und 
+      <lb ed="#C" n="20"/>si bene computes, tam emptor, quam venditor in simpli 
+      <lb ed="#C" n="21"/>punitur tantum. &amp; sic non obst. f.dedam. infect. I. ult. Iten 
+      <lb ed="#C" n="22"/>servus, dum in fuga est, vendi non potest, licet possit pro 
+      <lb ed="#C" n="23"/>curator ad hoc constitui, ut ipsum quaerat. &amp; inventun 
+      <lb ed="#C" n="24"/>vendat. ff. eod quod saepe S si quis. C ad legem Falcid de plag. in fu 
+      <lb ed="#C" n="25"/>ga. secundum hoc intellige. 129. 2 fugitivi. infrade rerum per 
+      <lb ed="#C" n="26"/>mut. injustum. Item veneni mali, quod non potest esse usu 
+      <lb ed="#C" n="27"/>aliqua permistione, nulla est emptio, secus, si mistum con 
+      <lb ed="#C" n="28"/>ferat. fF eod. quod saepe §. veneni nali ff. fam. erc. procedere. §. I. d 
+      <lb ed="#C" n="29"/>verbor. signif. qui venenum in ult charta. nam &amp; si venenum 
+      <lb ed="#C" n="30"/>quod amatorium appellatur. ff ad l. Corn. de sic. I. 3. Item re 
+      <lb ed="#C" n="31"/>propriae nulla est emptio, &amp; si ignorans emi, quo solvi re 
+      <lb ed="#C" n="32"/>peto. idem est, si res communis sit mihi &amp; tibi, quantunm 
+      <lb ed="#C" n="33"/>ad partem meam: sed si usufructuarius emat rem, in qu 
+      <lb ed="#C" n="34"/>habet ulumfruct. diminuitur pretium ratione ususfruct 
+      <lb ed="#C" n="35"/>&amp; ratione possessionis, quam habeat venditor in re me¬ 
+      <lb ed="#C" n="36"/>tenet emptio. Item si habeat ibi perceptionem fructuun 
+      <lb ed="#C" n="37"/>vel aliquod jus. ff. eod suae rei. &amp; l. officio &amp; l. sed &amp; si commu 
+      <lb ed="#C" n="38"/>nis. &amp; I. si in emptione. §. rei suae. C. eod. cum res. sed in re alien 
+      <lb ed="#C" n="39"/>tenet contractus. ff eod. rem alienam. Cum autem dixerim 
+      <lb ed="#C" n="40"/>contractum hunc solo consensu perfici, apparet quod 
+      <lb ed="#C" n="41"/>error interveniat, non perficitur. ff dejur. omn. jud si per 
+      <lb ed="#C" n="42"/>rorem. &amp; deju.l. 2. &amp; sunt 6. errores qui impediunt hunc ci 
+      <lb ed="#C" n="43"/>tractum. Primus, si in pretio erratum sit, si putem vende 
+      <lb ed="#C" n="44"/>re 10. putas emere5. secus econtra. utff. loca. I si locem. Se 
+      <lb ed="#C" n="45"/>cundus, si erretur in contractu: ut quia puto vendere, 
+      <lb ed="#C" n="46"/>putas tibi donari. ff. de reb. cred. si ego. Tertius. si erretur ii 
+      <lb ed="#C" n="47"/>corpore, ut quia ego credo vendere fundum Semproni¬ 
+      <lb ed="#C" n="48"/>num. tu credis emere Cornelianum, ut ff eod in venditionil 
+      <lb ed="#C" n="49"/>Quid si vendo tibi Petrum Cocum, cum sit pelliparius, 
+      <lb ed="#C" n="50"/>is qui Cocus est, Martinus vocatur, si habui nota nomin 
+      <lb ed="#C" n="51"/>servorum, is debetur qui nominatus est, sed si non habu 
+      <lb ed="#C" n="52"/>nota, is videtur venditus, cujus artificium est adjectum 
+      <lb ed="#C" n="53"/>ff. de re. dub. qui habebat. Quartus &amp; quintus, si in substantia 
+      <lb ed="#C" n="54"/>qualitate vel materia erretur, ut si aes pro auro, vel plun 
+      <lb ed="#C" n="55"/>bum pro argento distrahatur sed si acetum vendat prov 
+      <lb ed="#C" n="56"/>no, quod ab initio acetum fuit, emptio non valet: secus 
+      <lb ed="#C" n="57"/>postea coacuit, quia eadem prope usia sive substantia est 
+      <lb ed="#C" n="58"/>est.n. idem corpus. Sed ideo dicit prope, quia vinum est calidi 
+      <lb ed="#C" n="59"/>&amp; siccum, &amp; acetum frgidum &amp; siccum. probantur haec ff. eo. in vendi 
+      <lb ed="#C" n="60"/>§. ul &amp; Lalioquin. &amp; l. aliter. sed &amp; si in parte erretur, in sul 
+      <lb ed="#C" n="61"/>stantiali qualitate, tenet pro parte in qua non erratur. ut ffe 
+      <lb ed="#C" n="62"/>quid tamen. &amp; I.cum ab eo §. ulti. Sextus, si erretur in sexu 
+      <lb ed="#C" n="63"/>ut quia puto vendere puellam, tu putas emere puerum 
+      <lb ed="#C" n="64"/>secus si putas emere virginem, cum jam sit corrupta, ut 
+      <lb ed="#C" n="65"/>cod. Ialioquin. §. quod si ego. sed venditor sciens corruptan 
+      <lb ed="#C" n="66"/>tenetur act. ex empto ad resolvendum contractum. ff. d 
+      <lb ed="#C" n="67"/>actempt. &amp; vend. exempto. § si quis virginem Item si erretur ii 
+      <lb ed="#C" n="68"/>essentia. nulla est emptio, ut si vendo tibi domum, quae jan 
+      <lb ed="#C" n="69"/>combusta est, &amp; uterque ignorat, ut f. eod domum. Perfici 
+      <lb ed="#C" n="70"/>tur ergo emptio solo consensu pretii &amp; rei, cujus comer 
+      <lb ed="#C" n="71"/>cium conceditur, quod verum est, si sine scriptis fiat con 
+      <lb ed="#C" n="72"/>tractus. nam si in scriptis non aliter, quam si omnia in mun 
+      <lb ed="#C" n="73"/>dum, id est in chartularium, secundum quosdam, imo in 
+      <lb ed="#C" n="74"/>mundum, id est, in chartam, in qua debet scribi instrumen 
+      <lb ed="#C" n="75"/>tum, quae debet esse munda &amp; pura, vel quae sicut mundu 
+      <lb ed="#C" n="76"/>debet omnia continere, sic no valet, aliter quousque in ho¬ 
+      <lb ed="#C" n="77"/>mundo omnia recepta &amp; scripta sint subscriptionibu 
+      <lb ed="#C" n="78"/>partium confirmata, &amp; si per tabellionem scribatur etian 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0432.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>per ipsum completa, &amp; demum a partibus absoluta: nan 
+      <lb ed="#C" n="80"/>quousque omnia ista facta sint, neuter agere potest, ut C. d 
+      <lb ed="#C" n="81"/>fid. instrum. contractus. Sed si venditor antequam ista com 
+      <lb ed="#C" n="82"/>pleta sint, rem restituit, bene transfert dominium, secun¬ 
+      <lb ed="#C" n="83"/>dum Azon. quia ex doloso contractu idem sit. Sed potes 
+      <lb ed="#C" n="84"/>agere condi. sine causa ad rem recuperandam, nisi pretitum 
+      <lb ed="#C" n="85"/>solvatur. argum. C. dere. perinut. reb. Dicitur autem con¬ 
+      <lb ed="#C" n="86"/>tractus fieri in scriptis, quando convenit, quod non alite 
+      <lb ed="#C" n="87"/>valeat quam facta sit ex inde scriptura. C. de proba. tum res. ve 
+      <lb ed="#C" n="88"/>quando convenitvendicationem in scriptis, id e hocacto in com 
+      <lb ed="#C" n="89"/>tractu vel in continenti, ut scriptura inde fiat. Secus si a prin 
+      <lb ed="#C" n="90"/>cipio simpliciter contrahatur, &amp; postea ad probationem fia 
+      <lb ed="#C" n="91"/>inde charta. ut ff. de pig contrahitur. &amp; hoc est quod dicit prae 
+      <lb ed="#C" n="92"/>dicta I. contractus. ibi, illos tamen quos in scriptis fieri con 
+      <lb ed="#C" n="93"/>venit. Potest autem venditio fieri pure, vel in diem, ve 
+      <lb ed="#C" n="94"/>sub condi. causali potestativa, vel mixta. &amp; si conditio im 
+      <lb ed="#C" n="95"/>pleatur, vel per emptorem stet, pro impleta habetur. I. 
+      <lb ed="#C" n="96"/>mihi bibliothecam. nisi collata sit in emptoris arbitrium ex 
+      <lb ed="#C" n="97"/>pressim, &amp; vendo tibi, si placuerit tibi res: vel tacite, scil.s 
+      <lb ed="#C" n="98"/>Capitolium ascenderis. Instit. eod. §. pen Item si vendi. tib 
+      <lb ed="#C" n="99"/>displicuerit, sit inempta, quia est emptio, sed sub conditio 
+      <lb ed="#C" n="100"/>ne resolvitur. Secus, si dico, erat tibi empta, nisi alius me 
+      <lb ed="#C" n="101"/>liorem conditionem attulerit, ut ff. eod. I. 3. Instit. eod §. pen 
+      <lb ed="#C" n="102"/>infra de pign. illo. Si ergo constet de mente contrahentium 
+      <lb ed="#C" n="103"/>illi standum est: si bene constat, attende significationem 
+      <lb ed="#C" n="104"/>verborum: nam praesens tempus in pendenti esse non po 
+      <lb ed="#C" n="105"/>test. ff. pro empto. l2. §. si indiem. sed futurum extensivun 
+      <lb ed="#C" n="106"/>est ff. aeact. &amp; obligat. obligationum. §. conditio. &amp; de verborun 
+      <lb ed="#C" n="107"/>obligat. si quis stipulatus Siichum. &amp; ad Tertul. Sil. 2§. filius 
+      <lb ed="#C" n="108"/>Sed &amp; in ultimis voluntatibus non est vis, utrum sub con 
+      <lb ed="#C" n="109"/>dit. vel pure condit. postea apposita legetur. ff. de adimond 
+      <lb ed="#C" n="110"/>leg. si legatum pure. &amp; de cond &amp; demon. quibus. §. quidam. &amp; d 
+      <lb ed="#C" n="111"/>leg. 3. fideicommissa. §. si fideicominissum. Emptio vero tribus 
+      <lb ed="#C" n="112"/>modis dicitur perfici, uno quantum ad obligationem 
+      <lb ed="#C" n="113"/>quia non licet discedere altero invito, &amp; hoc modo etiam 
+      <lb ed="#C" n="114"/>conditionalis venditio dicitur perfecta: altero modo 
+      <lb ed="#C" n="115"/>quantum ad hoc, quod ex ea agi possit, ut quia cessit 8 
+      <lb ed="#C" n="116"/>venit dies, ut cum pure contractum est. tertio, quantum 
+      <lb ed="#C" n="117"/>ad hoc, ut periculum pertineat ad emptorem, ut jam di 
+      <lb ed="#C" n="118"/>cam infra eod. §. quae sic ejus natura.
+    </p>
+            <p xml:id="nbht7y-d1e1066-d1e567">
+               <lb ed="#C" n="119"/>Quibus mensuris velponderibus sit: ven¬ 
+      <lb ed="#C" n="120"/>dendum Justis, &amp; qui 
+      <lb ed="#C" n="121"/>causa lucri ipsas mutaverit. 30. dies in pane &amp; in aqui¬ 
+      <lb ed="#C" n="122"/>poeniteat. infra eod cap. 2. &amp; excommunicari potest, si poe 
+      <lb ed="#C" n="123"/>nitentiam agere nolit 24. q. 3 siquis Romipetas. &amp; cap. praeced 
+      <lb ed="#C" n="124"/>&amp; accedit 45. distinct. omnis qui. 24. quaest. 1. non offeramus. U 
+      <lb ed="#C" n="125"/>autem de hac materia plenam habeas notitiam, ita distin 
+      <lb ed="#C" n="126"/>cum quid falsis vel iniquis ponderibus mensuratur, &amp; ni 
+      <lb ed="#C" n="127"/>fuit dictum, quibus &amp; emptor sciens plus justo recepit, &amp; 
+      <lb ed="#C" n="128"/>dominium translatum est, repetit venditor: quod plus ju 
+      <lb ed="#C" n="129"/>sto dedit per conditionem inde. ut ff. de dolo arbitrio §. de e 
+      <lb ed="#C" n="130"/>&amp; lo. &amp; cond. sed addes. §. si quis cum inannum. Item dicun 
+      <lb ed="#C" n="131"/>quidam habere locum act. ex hoc contractu: sed proxi 
+      <lb ed="#C" n="132"/>mus §. contradicit. Sed si dominium translatum non est 
+      <lb ed="#C" n="133"/>non competit condict. indeb. f. de condit indebit. si in area. ver 
+      <lb ed="#C" n="134"/>sed &amp; si quis. sed est locus rei ven. &amp; actioni furti, &amp; condi 
+      <lb ed="#C" n="135"/>furtivae. utf. de furt. si quis uxori. §. si majora. &amp; forte hic lo 
+      <lb ed="#C" n="136"/>cus est actioni ex contractui. arg. C. de act empt &amp; rendit. I2 
+      <lb ed="#C" n="137"/>sed dicunt quidam contra. non obst. I. proxime dicta, qui¬ 
+      <lb ed="#C" n="138"/>ibi plus justo habebat de re vendita, hic autem extra rem 
+      <lb ed="#C" n="139"/>potest autem dici, quod hic locum habeat condictio inde 
+      <lb ed="#C" n="140"/>biti, gratia possessionis, ut jam dicetur in alio membro 
+      <lb ed="#C" n="141"/>ergo ubi dominium translatum est, non fit furtum. ad 
+      <lb ed="#C" n="142"/>hoc ff defurt. falsus. §. 1. Hoc ubi emptor sciens, plus juste 
+      <lb ed="#C" n="143"/>recepit: si autem ignorans, &amp; dominium translatum est 
+      <lb ed="#C" n="144"/>habet locum sola condi.inde. ut in l superius allegata. Sed s 
+      <lb ed="#C" n="145"/>non est translatum puta venditor dixit, Ego trado tibi hoc 
+      <lb ed="#C" n="146"/>si tamen apparet, quod plus justo tradidissem, nolo trans 
+      <lb ed="#C" n="147"/>ferre dominium, hic emptor ignorans, furtum non facit, cum 
+      <lb ed="#C" n="148"/>dolo careat. fi pro socio. merito. unde dic, quod tenetur cond 
+      <lb ed="#C" n="149"/>inde. gratia possessionis, ut f. de cond. indeb § si quis nummos 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="150"/>ADDITIO. 
+      <lb ed="#C" n="151"/>e Mater potest filium vendere] Adde l. 2. C. de patri. qui fil. distr 
+      <lb ed="#C" n="152"/>Ias. institut. de patria potestate. in aadit. ad Porcum. incip. in gloss. 
+      <lb ed="#C" n="153"/>vor. contunct. o--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0433.xml-->
+      <pb ed="#C" n="416"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>Item rei vend. &amp; forte act. ex contractu. Sic patet quid jo 
+      <lb ed="#C" n="2"/>ris sit, quando venditor deceptus est, quia plus iusto tr¬ 
+      <lb ed="#C" n="3"/>didit. Sed si emptor deceptus est, quia non tradidit ei ver 
+      <lb ed="#C" n="4"/>ditor quantum debuit, inde tenetur venditor act. ex empte 
+      <lb ed="#C" n="5"/>f. de dol. arbitrio. §. de eo. non enim habet locum rei ven. ne 
+      <lb ed="#C" n="6"/>act furti, cum venditor ante traditionem dominus persi 
+      <lb ed="#C" n="7"/>veravit rei suae C. de haer. vel act. vendi qui tibi &amp; de act. emp. ( 
+      <lb ed="#C" n="8"/>vend si pater &amp; ff de actemp &amp; ven si quis a me. Et sic agit unu 
+      <lb ed="#C" n="9"/>contra alium, quando non erat dictum quod staretur illi 
+      <lb ed="#C" n="10"/>ponderibus. nam si hoc dictum esset, et uterque sciebat fa 
+      <lb ed="#C" n="11"/>sa, neuter agit. C. de transa de fidercomnisso. &amp; vide super ho 
+      <lb ed="#C" n="12"/>concor supra de praeb. § &amp; a quo. vers. sed quid ubi similis dis 
+      <lb ed="#C" n="13"/>traditur. &amp; est ratio, quia si venditor plus justo sciens tri 
+      <lb ed="#C" n="14"/>dit, donare videtur, &amp; emptor sciens minus justo recipiem 
+      <lb ed="#C" n="15"/>pari ratione videtur remittere. arg f. de cond.and IIff. de ac 
+      <lb ed="#C" n="16"/>empt. &amp; vend. l.i. &amp; de reg. jur. cum res per errorem. &amp; idem es 
+      <lb ed="#C" n="17"/>remittere, quod dare supra de inst. veniens. 1. Si vero uterqu 
+      <lb ed="#C" n="18"/>ignorat. dicunt quidam, quod deceptus agere non potes 
+      <lb ed="#C" n="19"/>&amp; male ff de haere. vel act. vend quod si in venditione. Si vero di 
+      <lb ed="#C" n="20"/>ceptus hoc scit, &amp; alter ignorat, non agit, quia a seipso de¬ 
+      <lb ed="#C" n="21"/>cipitur f. de rei vend. is qui obtulit. &amp; l. sequem. Sed si dec¬ 
+      <lb ed="#C" n="22"/>ptus ignorabat, &amp; alter sciebat, tunc agere potest qui se 
+      <lb ed="#C" n="23"/>ens praedicere debuit quod falsa erant. ff. de haer. vel actio¬ 
+      <lb ed="#C" n="24"/>vend hoc autem. &amp; ff. de act empt. &amp; vend. I. tenetur. &amp; S penu 
+      <lb ed="#C" n="25"/>&amp; ultim. Et in hoc casu potest intelligi, quod debet ager 
+      <lb ed="#C" n="26"/>poenitentiam 30. dierum. ut supra dixi in princ. Sic vidi 
+      <lb ed="#C" n="27"/>mus qualiter venditor potest agere contra emptorem, ve 
+      <lb ed="#C" n="28"/>econtra. nuncvideamus quemmadmodum teneatur quis, si fort 
+      <lb ed="#C" n="29"/>commodavit pondera vitiosa: &amp; si quidem commodan 
+      <lb ed="#C" n="30"/>ignoravit vitiosa, nemini tenetur. ff. commodati. in rebus. 
+      <lb ed="#C" n="31"/>item si quis. &amp; Ipenulti. Sed locator etiam ignorans tene 
+      <lb ed="#C" n="32"/>tur. ff. locat. &amp; conduct. sed addes. §. 1. Sed si commodan 
+      <lb ed="#C" n="33"/>sciebat vitiosa, &amp; commodavit emptori scienti, ad hoc u 
+      <lb ed="#C" n="34"/>venditor deciperetur in hoc casu, si non sit translatum 
+      <lb ed="#C" n="35"/>dominium, emptor facit furtum, &amp; commodans facer 
+      <lb ed="#C" n="36"/>intelligitur, tanquam opem afferens, &amp; ideo convenir 
+      <lb ed="#C" n="37"/>potest a venditore act. furti. &amp; condi. furti. ff. de furt, si qui 
+      <lb ed="#C" n="38"/>uxori §. incjora. Sed si dominium translatum est, &amp; empto 
+      <lb ed="#C" n="39"/>solvendo est, commodans nullo jure tenetur venditori 
+      <lb ed="#C" n="40"/>commodati non, quia ei non commodavit cond. furt. ve 
+      <lb ed="#C" n="41"/>ac. furt. non, cum dominium translatum sit. &amp; ideo no 
+      <lb ed="#C" n="42"/>facit furtum per consequens, nec commodans, quasi opi 
+      <lb ed="#C" n="43"/>ferens, quia non est cui ferat. ad hoc. ff. defur. si is qui rem. 
+      <lb ed="#C" n="44"/>si tu Titium. Item nec de dolo tenetur, cum venditor re 
+      <lb ed="#C" n="45"/>gressum habeat contra emptorem, qui scienter plus justi 
+      <lb ed="#C" n="46"/>recepit, &amp; solvendo est. ut positum est. ad hoc ff. de dol. I. 
+      <lb ed="#C" n="47"/>alias est I. §. ult. &amp; l. sequent. Sed si emptor deceptus est, qu 
+      <lb ed="#C" n="48"/>scienter vitiosa recepit, non agitur. idem est, si uterque tan 
+      <lb ed="#C" n="49"/>emptor, quam venditor sciebat, ut dictum est in superi¬ 
+      <lb ed="#C" n="50"/>ribus. Sed si uterque ignorabat, &amp; venditor deceptus est 
+      <lb ed="#C" n="51"/>tenetur commodans act. de dol. Istud etiamsi emptor sc 
+      <lb ed="#C" n="52"/>ebat, sed non est solvendo, &amp; in his casibus potest intelliae 
+      <lb ed="#C" n="53"/>sententia Trebatii ff. de dol. arbitrio. §. de eo. in princ. &amp; Inae 
+      <lb ed="#C" n="54"/>sinullam. &amp; sic in omnibus casibus in quib. supra diximu 
+      <lb ed="#C" n="55"/>emptorem teneri venditori; si emptor factus sit non so 
+      <lb ed="#C" n="56"/>vendo, intelligas venditorem agere posse contra comme 
+      <lb ed="#C" n="57"/>dantem in subsidium act. de dolo. arg. ff. si mens. falsumm 
+      <lb ed="#C" n="58"/>dixerit. I3 &amp; de dol. eleganter § servus pactionis: in fin. ubi ver 
+      <lb ed="#C" n="59"/>emptor &amp; venditor ignorant pondera vitiosa; &amp; empto 
+      <lb ed="#C" n="60"/>deceptus est, habet contra commodantem contrarian 
+      <lb ed="#C" n="61"/>commodati, per quam consequetur ab eo, si quid sua ir 
+      <lb ed="#C" n="62"/>tersit. Idem si emptor ignorat, sed venditor scit. quamvi 
+      <lb ed="#C" n="63"/>enim hic venditor teneatur, nihilominus &amp; commodan¬ 
+      <lb ed="#C" n="64"/>Sed si venditori commodavit, &amp; ipse venditor deceptu 
+      <lb ed="#C" n="65"/>est: in illo casu habet contra commodantem ac. de dolo 
+      <lb ed="#C" n="66"/>cum habeat aliam contrariam, scilic. commodati. Si ver¬ 
+      <lb ed="#C" n="67"/>emptor deceptus est hic, in quo casu supra dictum est, quo 
+      <lb ed="#C" n="68"/>epud venditorem regressum habeat, non potest habere cor 
+      <lb ed="#C" n="69"/>tra commodantem aliquam act. sed in quo casu regressui 
+      <lb ed="#C" n="70"/>non habet, puta quia tam emptor, quam venditor ignor 
+      <lb ed="#C" n="71"/>dant vitiosa, &amp; dixerunt quod eis staretur, sive aequa essem 
+      <lb ed="#C" n="72"/>lve iniqua. Item in omnibus casibus in quibus dictum el 
+      <lb ed="#C" n="73"/>Venditorem teneri, si non est solvendo, tenetur comme 
+      <lb ed="#C" n="74"/>dans act. de dolo, quod ex supradictis &amp; sententia Treb¬ 
+      <lb ed="#C" n="75"/>tii colligere tibi licet, secundum D. M. Ja. &amp; Bal. Et sun 
+      <lb ed="#C" n="76"/>haecve ra, quando dictum fuit quibus ponderibus star 
+      <lb ed="#C" n="77"/>Tur, &amp; mensuraretur, sed si hoc dictum non est, videntu 
+      <lb ed="#C" n="78"/>sensiss e de ponderibus, quae in regione frequentabantur 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0433.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>ut ff. eodem Imperatores. &amp; si hoc non appareat, de minimi 
+      <lb ed="#C" n="80"/>sensisse videntur: ut f. de reg jur: semper. infra de censib. ex pa 
+      <lb ed="#C" n="81"/>es. Hi autem qui falsas mensuras tenent, vocati sunt in l¬ 
+      <lb ed="#C" n="82"/>ge Dardanarii, a quodam Dardano functionum anthe 
+      <lb ed="#C" n="83"/>re, qui maximam dabat operam, ut annona carior fiere 
+      <lb ed="#C" n="84"/>emendo omnem quam invenire poterat, ut postea solu 
+      <lb ed="#C" n="85"/>venderet sicut vellet, &amp; tales variis poenis puniuntur, si 
+      <lb ed="#C" n="86"/>cundum l. nam aliquando interdicitur eis negotiatio, i 
+      <lb ed="#C" n="87"/>terdum relegantur, &amp; humiliores ad opus puplicum dar 
+      <lb ed="#C" n="88"/>tur: &amp; divus Adrianus stateras, seu mensuras adulterina 
+      <lb ed="#C" n="89"/>seu falsas tenentes. I. Corn. de fal. teneri dixit, si ipsis usi fu¬ 
+      <lb ed="#C" n="90"/>rant: sed si inventi sunt ipsas habere, relegari possunt, ve 
+      <lb ed="#C" n="91"/>alias extraordinarie puniri. f. de extraordin. cri. anieonam.( 
+      <lb ed="#C" n="92"/>f. de poen. Iin Dardanario 
+    </p>
+            <p xml:id="nbht7y-d1e1066-d1e849">
+               <lb ed="#C" n="93"/>Qua sit ejus natura. Hic sciendum, quod 
+      <lb ed="#C" n="94"/>quaedam sunt de 
+      substan<lb ed="#C" n="95" break="no"/>tia, ut pretium, &amp; res, sine quibus emptio esse non potes 
+      <lb ed="#C" n="96"/>ut supra dixi. &amp; habes. ff. eodem. l.i. &amp; l. nec emptio. Quaed 
+      <lb ed="#C" n="97"/>natura, scil. ut venditor de evictione teneatur, ut patet in 
+      <lb ed="#C" n="98"/>§. &amp; ad quid venditor. Quaedam accidentalia, ut si fecerin 
+      <lb ed="#C" n="99"/>pactum, quod liceat mihi abstrahere glossulas de libi 
+      <lb ed="#C" n="100"/>quem tibi vendo, vel ne cautio duplex praestetur in rebu 
+      <lb ed="#C" n="101"/>pretiosis. ff. de evict 1 2. &amp; ad hoc. ff de pact. juris gent. §. sed cun 
+      <lb ed="#C" n="102"/>nulla &amp; §. quimmo. &amp; §. ea enim &amp; sequent. ff. eod tit. pacta to 
+      <lb ed="#C" n="103"/>venta. Est &amp; hoc de natura contractus, quod ex quo con 
+      <lb ed="#C" n="104"/>tractus initus est, pertineat periculum rei ademptorem 
+      <lb ed="#C" n="105"/>licet tradita non sit, &amp; tamen dominus venditor perseve 
+      <lb ed="#C" n="106"/>rat,. ut Instit, eod tit. § cum autem &amp; tribus §§. seq. &amp; de re. div 
+      <lb ed="#C" n="107"/>§. vendiuae. &amp; §. per traditionem. F. eod. quod saepe. §. si res vend 
+      <lb ed="#C" n="108"/>ta. C. de pact. traditionibus. hoc tamen magnam caudam ur 
+      <lb ed="#C" n="109"/>hit, unde talis regula: Cum venditio fit pure, &amp; sine scr 
+      <lb ed="#C" n="110"/>ptis speciei certae, quae degustationem non exigit omn 
+      <lb ed="#C" n="111"/>periculum spectat ad emptorem, excepto casu publicati 
+      <lb ed="#C" n="112"/>onis nisi pactum, vel mora, vel culpa, vel calliditas inter 
+      <lb ed="#C" n="113"/>venerit. Bene dixit Pure. aliud enim, si sub conditione, 8 
+      <lb ed="#C" n="114"/>ante conditio. existentem pereat res: spectat enim pern 
+      <lb ed="#C" n="115"/>culum ad venditorem, sed deterioratio ad emptorem, u 
+      <lb ed="#C" n="116"/>fdem pericul. &amp; com. rei rend id quod. &amp; ff. eod. quod si pendemi 
+      <lb ed="#C" n="117"/>Sine scriptis, qua re dixerim, patet supra eod. §. de queib. ver 
+      <lb ed="#C" n="118"/>perficitur. &amp; sequent. &amp; C. de fid. instru. contractus &amp; Instixut co¬ 
+      <lb ed="#C" n="119"/>§. cum autem. Speciei, quia si in genere, puta, vendo tibi hi¬ 
+      <lb ed="#C" n="120"/>minem: non dico quem, nunquam ad te emptorem sp¬ 
+      <lb ed="#C" n="121"/>ctat periculum, quia quod in genere debetur, perire no 
+      <lb ed="#C" n="122"/>potest ff ad l. Fal. in ratione 2. §. rerum est autem. &amp; § si vero a 
+      <lb ed="#C" n="123"/>genti &amp; ff de peric. &amp; commo. rei vend. electos. &amp; leum. &amp; l. quo 
+      <lb ed="#C" n="124"/>si neque. quia hîc venditur certum de incertis. Quid si ver 
+      <lb ed="#C" n="125"/>do incertum de incertis: ut, vendo tibi unum de servis mei 
+      <lb ed="#C" n="126"/>vel decem corbes ex hoc dolio, seu io sestaria? videtu 
+      <lb ed="#C" n="127"/>quod liberer, si omnia pereant, ut ff. ad l. Falc. in ratione legi 
+      <lb ed="#C" n="128"/>§. incertae autem. vel forte aliud ibi. legatarius enim non pe 
+      <lb ed="#C" n="129"/>tit vinum, cum totum effusum sit, neque pretium, quia le 
+      <lb ed="#C" n="130"/>patum non est: emptor vero repeteret pretium, si ipsun 
+      <lb ed="#C" n="131"/>dedit, quia sine causa est penes venditorem, si non solvit, hi 
+      <lb ed="#C" n="132"/>bet exceptionem, &amp; si non pertinet periculum ad eum. Cei 
+      <lb ed="#C" n="133"/>te ideo dictum est, quia sub alternatione vendam tibi Sti 
+      <lb ed="#C" n="134"/>chum aut Pamphilum, periculum primi pertinet ad ver 
+      <lb ed="#C" n="135"/>ditorem, sed secundi ademptorem. ff. eo si memptione. §. per 
+      <lb ed="#C" n="136"/>Quae degustationem non exigit, ideo appositum est, qui 
+      <lb ed="#C" n="137"/>si degustationem exigit, &amp; vendatur in specie, pertine 
+      <lb ed="#C" n="138"/>periculum ad emptorem post degustationem, non ante secu 
+      <lb ed="#C" n="139"/>dum Job. &amp; Ber. nec dicunt hoc speciale invino, licet lae 
+      <lb ed="#C" n="140"/>tificet cor hominis. idem &amp; in aliis, ut patet in zinziberi 
+      <lb ed="#C" n="141"/>pipere. &amp; similibus, sed si venditur ad mensuram, non per 
+      <lb ed="#C" n="142"/>tinet periculum ad emptorem, nisi degustatum fuerit, e 
+      <lb ed="#C" n="143"/>etiam mensuratum f deperi &amp; com. rei vend. l. prima, &amp; I. 
+      <lb ed="#C" n="144"/>vina. Azo. dixit in vino esse speciale, quod etiam anto de 
+      <lb ed="#C" n="145"/>gustationem pertineat periculum ad emptorem, si vendi 
+      <lb ed="#C" n="146"/>tio sit in specie. nec obstat. f. de peric. &amp; com. rei vend.I. primi 
+      <lb ed="#C" n="147"/>quia ibi venditor recepit in se periculum usque ad certan 
+      <lb ed="#C" n="148"/>diem. alias spectat periculum ad emptorem, sicut &amp; ii 
+      <lb ed="#C" n="149"/>qualibet alia specie. ff. eod. quod saepe. §. in his. ff. de perie. E 
+      <lb ed="#C" n="150"/>tom. rei vend. l. I. §. sed &amp; custodiam. &amp; l. si vina. &amp; l. si quis vi 
+      <lb ed="#C" n="151"/>na. §. si adversione. C. de peric. &amp; com. ret vend. cum convenit e 
+      <lb ed="#C" n="152"/>I. si quis vina. intelligitur de vino vendito, quod ad mensu 
+      <lb ed="#C" n="153"/>suram, degustandum erat post diem certam: unde si spe 
+      <lb ed="#C" n="154"/>ctat periculum ad venditorem si non petitur degustari 
+      <lb ed="#C" n="155"/>quia est in mora, alias imputaretur emptori. f. acactios 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0434.xml-->
+      <pb ed="#C" n="417"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>enpt. &amp; vend. ratio. §. si perempto. &amp; de peric. &amp; com. rei veni 
+      <lb ed="#C" n="2"/>si per emptorem. § sed si. verbi gratia, nec in periculo. dist. si 
+      <lb ed="#C" n="3"/>cundum Azo. si acoris, vel mucoris, vel effusionis licet I 
+      <lb ed="#C" n="4"/>dist. primo anno, sicut in conditionali venditione. ut dix 
+      <lb ed="#C" n="5"/>supra eod. vers. bene dixi purae. quia venditur vinum ad mer 
+      <lb ed="#C" n="6"/>suram. quasi sub condi. videtur fieri. ff. eod. quod saepe. §. 
+      <lb ed="#C" n="7"/>b3. sed in sequenti anno se correxit B. quia sapientis es 
+      <lb ed="#C" n="8"/>mutare consilium suum in melius. infra de acc. qualiter. 
+      <lb ed="#C" n="9"/>suora sensu pall nisi in auth. ut fratrum filii. in princ. colo &amp; a 
+      <lb ed="#C" n="10"/>nupt. respyns. 1. col. 4. diversum est enim in hac condi qui¬ 
+      <lb ed="#C" n="11"/>potestatem habet venditor mensurare, vel offerre ut mi 
+      <lb ed="#C" n="12"/>suretur. Quid si emptor nolit accipere, potest vendito 
+      <lb ed="#C" n="13"/>mensurare, &amp; effundere coram testibus, si vasa sibi sint ni¬ 
+      <lb ed="#C" n="14"/>cessaria, vel propter vindemiam, vel propter novam rati 
+      <lb ed="#C" n="15"/>onem &amp; justam, ut ff. deperic. l. i. §. ult. &amp; l2. Excepto casi 
+      <lb ed="#C" n="16"/>publicationis, quia hoc ad venditorem mensurare &amp; e 
+      <lb ed="#C" n="17"/>fundere pertinet, ut f locat sifundus. Nisi pactum, quial 
+      <lb ed="#C" n="18"/>cet venditor de natura contractus teneatur de dolo, lat 
+      <lb ed="#C" n="19"/>culpa &amp; levi, non tamen de casu. ff. deperic. &amp; comin. rei ve¬ 
+      <lb ed="#C" n="20"/>custodiam auih. &amp; si venditor. &amp; de act. empt. &amp; vend. I pen. C. d 
+      <lb ed="#C" n="21"/>peric. rei rend. mora. sed per pactum. ff. de peric. &amp; comm. ri 
+      <lb ed="#C" n="22"/>vend. si renditione. praemissa speciali clausula. quod dic, u 
+      <lb ed="#C" n="23"/>hot. supra commodati. §. &amp; inquantum. vers sic directa. &amp; sec 
+      <lb ed="#C" n="24"/>Vel culpa, scilicet casum praecedentem, ut Institat. eodem 
+      <lb ed="#C" n="25"/>§. cum autem. in fin. &amp; dixi supra de commo. §. &amp; in quantur 
+      <lb ed="#C" n="26"/>verstenetur. Vel mora, quia tunc spectat periculum ad mo 
+      <lb ed="#C" n="27"/>roium, etiam si res peritura erat penes alium. ff. de leg. 
+      <lb ed="#C" n="28"/>cum res. §. ult. secundum Azo. sed M. contra per I ff. dere 
+      <lb ed="#C" n="29"/>vend item si verberatum. §. ultim. ultima vero mora sempe 
+      <lb ed="#C" n="30"/>nocet de peric. &amp; comm rei vend. illud. Vel calliditas. quia 
+      <lb ed="#C" n="31"/>venditor affirmavit bonitatem duraturam, imputatur e 
+      <lb ed="#C" n="32"/>.de peric. &amp; comm. rei vend. si quis vina. vel si sciebat bonita 
+      <lb ed="#C" n="33"/>tem non duraturam, hoc tacuit: ut in ea l. Est etiam de n¬ 
+      <lb ed="#C" n="34"/>tura contractus, quod sicut periculum ad emptorem per 
+      <lb ed="#C" n="35"/>tinet, ita &amp; emolumentum. ut ff. de reg. jur. secundum natu 
+      <lb ed="#C" n="36"/>von. &amp; ideo quod per alluvionem accessit &amp; fructus, ? 
+      <lb ed="#C" n="37"/>partus rei vend. ad ipsum emptorem spectant, ut C. de ac 
+      <lb ed="#C" n="38"/>empt. &amp; vend. fructus, l. penultim. Item &amp; actiones ei ceden 
+      <lb ed="#C" n="39"/>dae sunt. ff. de act empt. &amp; vend. Jul §. si fructibus 
+    </p>
+            <p xml:id="nbht7y-d1e1066-d1e1079">
+               <lb ed="#C" n="40"/>Ad quid emptor tenetur. Adhoc, ut pretiur 
+      <lb ed="#C" n="41"/>solvat, &amp; ipsum faciat accipier 
+      <lb ed="#C" n="42"/>tis. ff. de action. enpt. &amp; vend. ex empto. venditor autem no 
+      <lb ed="#C" n="43"/>tenetur rem facere recipientis, ut prtet infra eodem, §. &amp; a 
+      <lb ed="#C" n="44"/>quid. &amp; est ratio diversitatis, quia venditor tenetur in spi 
+      <lb ed="#C" n="45"/>cie, ideoque sufficit ipsum de evictione teneri. empto 
+      <lb ed="#C" n="46"/>vero tenetur in genere, &amp; propterea cogitur nummus f¬ 
+      <lb ed="#C" n="47"/>cere venditoris. ad hoc. ff. deleg. 1. a substituto S hae res qui¬ 
+      <lb ed="#C" n="48"/>Item ad hoc tenetur emptor ut observet pacta quae feci 
+      <lb ed="#C" n="49"/>venditori, &amp; econtra, ut C. de pact. inter empt. &amp; vend. It. ( 
+      <lb ed="#C" n="50"/>penult. &amp; ult.
+    </p>
+            <p xml:id="nbht7y-d1e1066-d1e1105">
+               <lb ed="#C" n="51"/>Et ad quid venditor teneatur Ad 
+      traditi<lb ed="#C" n="52" break="no"/>onem rei praecise, 
+      secun<lb ed="#C" n="53" break="no"/>dum M. ff. de act. empt. &amp; vend. si quis alienam. &amp; l. ex empt¬ 
+      <lb ed="#C" n="54"/>Verius est, quod ad interesse damnetur. ff deactio. empt. 
+      <lb ed="#C" n="55"/>vend. l. 1. Sic intellige, quod venditor tenetur vacuam po 
+      <lb ed="#C" n="56"/>sessionem tradere, hoc est, ut emptor potior sit, ita quo¬ 
+      <lb ed="#C" n="57"/>ab eo nequeat evocari, alias perinde est ac si tradita no 
+      <lb ed="#C" n="58"/>fuisset. Quid enim si alius sit in poss. ejusdem rei causa re 
+      <lb ed="#C" n="59"/>servandae, vel legatorum, vel mulier ventris nomine. 
+      <lb ed="#C" n="60"/>quidem tunc non dicitur tradita possessio vacua. f deac 
+      <lb ed="#C" n="61"/>empt. l.. §. 1 &amp; l.3. &amp; l. emptio. respons. 1. &amp; l. emptorem. §. iden 
+      <lb ed="#C" n="62"/>Neratius. Si vero tradatur res, &amp; possessio vacua facia 
+      <lb ed="#C" n="63"/>emptorem dominum. si tamen satisfactum fuerit de pre 
+      <lb ed="#C" n="64"/>tio, vel fides habita fuerit, non ante, ut ff eodem, quod rendi 
+      <lb ed="#C" n="65"/>di &amp; de tributoria ac proc. §. sed si dedi. Hoc, si venditor de 
+      <lb ed="#C" n="66"/>minus erat, alias tenetur de eviction. &amp; si non promiserit 
+      <lb ed="#C" n="67"/>quia hoc est de natura contractus, ut supra dixi. §. quae si 
+      <lb ed="#C" n="68"/>ejus natura. &amp; habes. C. de evict. non dubitatur. De natura au 
+      <lb ed="#C" n="69"/>tem tenetur in simplum tantum, &amp; ad interesse. &amp; in re 
+      <lb ed="#C" n="70"/>bus pretiosis cogitur promittere duplum. alias in dupl 
+      <lb ed="#C" n="71"/>condemnabitur. sic intellige. ff. eod. l. 2. &amp; l. emptori. &amp; in 
+      <lb ed="#C" n="72"/>tellige duplum pretii conventi non communis, vel eju 
+      <lb ed="#C" n="73"/>quod valet tempore quo de evictione agitur, ut ff. eodem 
+      <lb ed="#C" n="74"/>cum fundus. &amp; I sifundo. &amp; l. siplus. Sed nunquid ultra du 
+      <lb ed="#C" n="75"/>plum potuerit fieri stipulatio? Non videtur, quia haecst 
+      <lb ed="#C" n="76"/>pulatio praetoria est ff de praetor. stipul li §. stipulatio duple¬ 
+      <lb ed="#C" n="77"/>ergo non licet aliquid addere, vel diminuere, ut ff. deverl 
+      <lb ed="#C" n="78"/>obligat. in conventionalibus stipul. respons.i. dic illud verum es 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0434.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>se, si simpliciter stipulatio facta fuit, vel nisi utraque par¬ 
+      <lb ed="#C" n="80"/>consenserit. argum. f. de fer. &amp; l.i. &amp; C. de temp app I. ultum 
+      <lb ed="#C" n="81"/>in fin. vel non licet authoritate alterius qui non sit praetor 
+      <lb ed="#C" n="82"/>alias in quadruplum potest fieri stipulatio: ut f. eodem. 
+      <lb ed="#C" n="83"/>dictum. Et nunquid ultra non videtur stipulat. Institut. d 
+      <lb ed="#C" n="84"/>actio §. omnes. sed illud verum est de legali poena. illa enin 
+      <lb ed="#C" n="85"/>non extenditur ultra duplum, sed hoc cum conventiona 
+      <lb ed="#C" n="86"/>lis sit, etiam in centesimum vel millesimum stipulari pe 
+      <lb ed="#C" n="87"/>test, ut C. eodem, si tibi liberam. &amp; Instit. de rerbor. oblig S. ult e 
+      <lb ed="#C" n="88"/>de inuril. stipula. §. alteri. &amp; ff. si quis cau. sed &amp; si quis. §. ult. C 
+      <lb ed="#C" n="89"/>de praet stipul. I.ult. excipitur casus specialis. C. despons. Iuli 
+      <lb ed="#C" n="90"/>&amp; est ratio specialitatis. infra de spon s gemma. de hoc dic u 
+      <lb ed="#C" n="91"/>notatur supra de sent. &amp; re judic. sub rubr. de re iudic. §. quis si 
+      <lb ed="#C" n="92"/>effectus ante sin. Dicuntur autem res pretiosae g margari 
+      <lb ed="#C" n="93"/>tae, ornamenta preciosiora, serica &amp; vestis, ut ff. eodom, l.. 
+      <lb ed="#C" n="94"/>&amp; l. emptori. vel dic relinquendum arbitrio judicis qua 
+      <lb ed="#C" n="95"/>dicatur preciosa res, vel contemptibilis. argum ff. dejur 
+      <lb ed="#C" n="96"/>deli. l. 1. &amp; infra de don. Apostolicae. §. penult. &amp; ult. &amp; secun 
+      <lb ed="#C" n="97"/>dum hoc tenetur de evictione, etiamsi dictum non fueri 
+      <lb ed="#C" n="98"/>in simplum, vel in duplum, vel etiam millesimum. Im¬ 
+      <lb ed="#C" n="99"/>quamvis specialiter dictum sit evictionis nomine nihi 
+      <lb ed="#C" n="100"/>praestitum iri, hihilominus evictione sequuta tenetur ven 
+      <lb ed="#C" n="101"/>ditor ad pretium restituendum, nisi esset specialiter di 
+      <lb ed="#C" n="102"/>ctum, quod neque ad interesse, neque ad pretium tenea 
+      <lb ed="#C" n="103"/>tur ff de actio. empt. &amp; vend. exempto. §. ultim. tunc enim d 
+      <lb ed="#C" n="104"/>evictione non agitur, neque ad interesse, neque ad pre 
+      <lb ed="#C" n="105"/>tium. Item si conventus non denunciavit venditori, ut si 
+      <lb ed="#C" n="106"/>bi assisteret, &amp; rem defenderet, vel haeredi, vel fidejussori 
+      <lb ed="#C" n="107"/>bus de evictione agere non potest emptor. ut C. de evict au 
+      <lb ed="#C" n="108"/>tho &amp; Isicum quaestio. &amp; I. si parentes, &amp; I. cum successores. nis 
+      <lb ed="#C" n="109"/>denunciatio remissa sit, ut ffeodem, l.Herenntus. respons. 1. Po 
+      <lb ed="#C" n="110"/>test autem fieri denunciatio quandocunque ante senter 
+      <lb ed="#C" n="111"/>tiam. ff. de evict. si rem quam. §. ult. dummodo jus salvum si 
+      <lb ed="#C" n="112"/>venditori. argum. ff mand. si mandavero tibi. §. sicut autem 
+      <lb ed="#C" n="113"/>Institut. mand. §. imandatum. argum. infra de don. Apostolicae 
+      <lb ed="#C" n="114"/>ibi. hoc semper est observandum. &amp;c. Item non agit, si con 
+      <lb ed="#C" n="115"/>tumaciter abfuerit tempore sententiae f. deeviction si ide 
+      <lb ed="#C" n="116"/>contra emptorem. Vel si injuria judic. damnaius sit, infra eod 
+      <lb ed="#C" n="117"/>c. ult. f.de evict. si per imprudentiam. C.de evi. si non injuria. &amp; 
+      <lb ed="#C" n="118"/>einptor. de qua sumptum est c ulti istius tit. Item non agit, s 
+      <lb ed="#C" n="119"/>remalienam scienter emit, nisi de evictione sibi specialite 
+      <lb ed="#C" n="120"/>prospexerit, ut C. de evict. sifundum sciens. vel nisi aliquid 
+      <lb ed="#C" n="121"/>casuale contingat ut Ccomm. deleg. Iulti &amp; supra de reb. ec 
+      <lb ed="#C" n="122"/>cles non alien. ad audientiam. Item non agit, si quid est quoc 
+      <lb ed="#C" n="123"/>possit ei imputari, ut quia compromittit &amp; succubuit. ff.d 
+      <lb ed="#C" n="124"/>evict. si dictum. §. si compromisero. Vel si alio modo in culpi 
+      <lb ed="#C" n="125"/>sit ff de erict siremquam § si duplex. scilic. quia de possessore 
+      <lb ed="#C" n="126"/>factus est petitor culpa sua, ut ibi. Item non agit, si servum 
+      <lb ed="#C" n="127"/>emptum manumittit ff. de evict si servum cujus. Item si ser 
+      <lb ed="#C" n="128"/>vus emptus mortuus sit, antequam evincatur. ff. de evict. 
+      <lb ed="#C" n="129"/>servus venditus. Item si contra l. venditionem fecerit. J. dee 
+      <lb ed="#C" n="130"/>vict, si mancipium. respons.i. Item si rem venditam pro dere 
+      <lb ed="#C" n="131"/>licta habuerit f deevict. I. sin. Item si bonam causam viti¬ 
+      <lb ed="#C" n="132"/>suo propter praescriptionem perdiderit. ff. de evict. Heren 
+      <lb ed="#C" n="133"/>nius. §. ul. Item si venditor voluntate emptoris in locum ven 
+      <lb ed="#C" n="134"/>ditum sepultus fuerit, ut ff. de evict si per imprudentiam S si qui 
+      <lb ed="#C" n="135"/>locum. Ite sec. Hug. non agit, nisi appellaverit. arg. sup. de pro¬ 
+      <lb ed="#C" n="136"/>non injuste § potuit f de erict Herennius. §. 1. Azo contra, &amp; di 
+      <lb ed="#C" n="137"/>cit quod non habet necesse appellare &amp; aliud procura, qui 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="138"/>ADDITIONES. 
+      <lb ed="#C" n="139"/>f Huc etiam ex Mar. ubi supra referendus est alius casus, nem 
+    </p>
+    <p>
+      <lb ed="#C" n="140"/>peut vacua possessio tradatur. nam venditor ita teneturren 
+      <lb ed="#C" n="141"/>tradere, ut emptor habeat vacuam possessionem. Vacuan 
+      <lb ed="#C" n="142"/>autem possessionem habere, hoc est, ut emptor in possessio 
+      <lb ed="#C" n="143"/>ne sit potior, ita ut ab eo advocari non possit. Nam si quis e 
+      <lb ed="#C" n="144"/>per judicem advocaverit. perinde est ac si tradita non fuis 
+      <lb ed="#C" n="145"/>set, vacua quoque possessio traditur, si alius sit in possession 
+      <lb ed="#C" n="146"/>missus causa rei servandae, vel mulier ventris nomine, ut ffd 
+      <lb ed="#C" n="147"/>act empt. l. 16. 1. &amp; l. 3. Haec autem traditio facit emptoren 
+      <lb ed="#C" n="148"/>dominum si venditos dominus erat. Si non erat, obligatu 
+      <lb ed="#C" n="149"/>nomine evictionis, si modo fit pretium solutum, aut eo no 
+      <lb ed="#C" n="150"/>mine satis factum. ff de act empe. l. exempio &amp; si venditor no 
+      <lb ed="#C" n="151"/>lit remiridere, tenetur ad interese. a l1. Emptor quoqu 
+      <lb ed="#C" n="152"/>teneturfacere nummos venditoris, a11. in fi Mari 
+      <lb ed="#C" n="153"/>g Dicuntur autem res pretiosae. Adde gloE., leg empros. Fde¬--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0435.xml-->
+      <pb ed="#C" n="418"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>cum alienum factum gerat, non videtur bona fide versari 
+      <lb ed="#C" n="2"/>nisi appellaverit. nec obst. Herenntus. §. 1. nam quod dici 
+      <lb ed="#C" n="3"/>venditore praesente. subaudiendum est maxime consul¬ 
+      <lb ed="#C" n="4"/>tamen, quod emptor venditori pronunciet, quod appel 
+      <lb ed="#C" n="5"/>let, si putaverit appellandum. ff. manda. si procuratorem. §. 
+      <lb ed="#C" n="6"/>agrorante.
+    </p>
+            <p xml:id="nbht7y-d1e1066-d1e1323">
+               <lb ed="#C" n="7"/>Qualiter rescindatur Distin.: an dolus det 
+      <lb ed="#C" n="8"/>causam contractui, 
+      bo<lb ed="#C" n="9" break="no"/>nae fidei, vel stricti juris, vel incidat in contractum, vel 
+      <lb ed="#C" n="10"/>ipsa inveniat quis se deceptum. Et si quidem in judici 
+      <lb ed="#C" n="11"/>bonae fidej dolus det causam contractui, h nullus est con 
+      <lb ed="#C" n="12"/>tractus, si deceptus hoc allegare velit, alias agere potest e 
+      <lb ed="#C" n="13"/>hoc contractu contra decipientem. ff. de dol. eleganter. 1. 
+      <lb ed="#C" n="14"/>q. 2. quisquis episcopus prope fin. arg. infra de rer. permut. cun 
+      <lb ed="#C" n="15"/>universorum. ff. de minor. in causae. 2. §. 1. &amp; dejure doti. si re 
+      <lb ed="#C" n="16"/>§. 1. Sed si deceptus ignorans rem tradiderit eandem r 
+      <lb ed="#C" n="17"/>peteret acti. de dolo. unde B ait processit venditio a ut in 
+      <lb ed="#C" n="18"/>firma sequuta est traditio, ut a ut infirmanda per actio. d 
+      <lb ed="#C" n="19"/>dol. ff. de dol. arbitrio. &amp; Iquod renditor. &amp; I. si legatarius. &amp; ali 
+      <lb ed="#C" n="20"/>quando imploratur offic. ju. ut sup de renunc, sane. venies. 
+      <lb ed="#C" n="21"/>lectae. &amp; de pactis cum pridem. Sed si non det causam contr¬ 
+      <lb ed="#C" n="22"/>ctui, sed incidat in contractum, tenet contractus, sed pu 
+      <lb ed="#C" n="23"/>gatur dolus per acti. ex eo contractu, etiam si unius num 
+      <lb ed="#C" n="24"/>mi deceptio sit. ut ff de act. empt &amp; rend. Jul. §. si venditor. &amp; 
+      <lb ed="#C" n="25"/>idem. Jul ff.dedol. si quis affirmaverit. In contractibus auten 
+      <lb ed="#C" n="26"/>stricti juris sive dolus det causam, sive incidat, semperte 
+      <lb ed="#C" n="27"/>net contractus, sed obst. exceptio inquantum dolosus vul 
+      <lb ed="#C" n="28"/>patrocinari sibi dolum, ut de inutil. stipul. dolo, vel meti 
+      <lb ed="#C" n="29"/>Sed si per except. vel alio modo consuli non potest, datu 
+      <lb ed="#C" n="30"/>pecepto act. de dolo. ne moretur in damnum ff. dedolo. eli¬ 
+      <lb ed="#C" n="31"/>ganter §. serviis. Item in facto ut des. ff. de praescript. verbis n. 
+      <lb ed="#C" n="32"/>turalis. §, si facio. Dat autem dolus causam contractui, quam 
+      <lb ed="#C" n="33"/>do nullatenus eram venditurus, nisi esset dolus, verbi gra 
+      <lb ed="#C" n="34"/>tia, tu vis ut tibi vendam decretales meas. Respondeom 
+      <lb ed="#C" n="35"/>nullo modo hoc facere. &amp; tu replicas, si scires aliam con 
+      <lb ed="#C" n="36"/>pilationem venturam, sicut ego scio, libenter vendere; 
+      <lb ed="#C" n="37"/>ego credo hoc verum, vendo tibi. Incidit autem in con 
+      <lb ed="#C" n="38"/>tractum, quando ego eram venditurus, sed propter doli¬ 
+      <lb ed="#C" n="39"/>praedictum viliori protio dedi, nec tenetur bonae fidei en 
+      <lb ed="#C" n="40"/>ptor de dolo mediatoris. ut f. de dolo. eleganter. sed mediato 
+      <lb ed="#C" n="41"/>qui &amp; proxeneta vocatur, de dolo tenetur, ut ff. deproxen 
+      <lb ed="#C" n="42"/>1 2. &amp; l. 3. In subsidium tamen etiam emptorem teneri di 
+      <lb ed="#C" n="43"/>cam, ut d. Leleganter. §. pen. petuntur autem proxenetic¬ 
+      <lb ed="#C" n="44"/>id est salaria, quae eis dari debent jure licito, ut ff de proxen¬ 
+      <lb ed="#C" n="45"/>LI. Sin autem in contractu bonae fidei, non ex proposit. 
+      <lb ed="#C" n="46"/>alterius, sed re ipsa inveniet aliquis se deceptum, &amp; si in 
+      <lb ed="#C" n="47"/>proprie dicatur res ipsa in se dolum continere, tenet tam 
+      <lb ed="#C" n="48"/>contract. sed si contrahens decipiatur, aut in pretio est di¬ 
+      <lb ed="#C" n="49"/>ceptio, aut in quantitate rei. Si in pretio quis deceptus si 
+      <lb ed="#C" n="50"/>non ex proposito contrahentis, si quidem ultra dimidi 
+      <lb ed="#C" n="51"/>am justi pretii agit deceptus ut restituatur, scilic. quod re 
+      <lb ed="#C" n="52"/>scindatur contractus, ut suppleatur justum pretium, dat 
+      <lb ed="#C" n="53"/>elect. decipienti. C. de rescind. vend. l. 2. secundum Azo. Se¬ 
+      <lb ed="#C" n="54"/>certe lex illa dicit, quod electio est emptoris, quandom 
+      <lb ed="#C" n="55"/>nus dimidia justi pretii comparatur. &amp; infra eod. cum dil¬ 
+      <lb ed="#C" n="56"/>cti c. cum causam. ergo a contrario, si ultra dimidiam just 
+      <lb ed="#C" n="57"/>pretii, ut si emptor deceptus sit, dabitur electio venditor 
+      <lb ed="#C" n="58"/>sicut intelligit Azo. Emitur autem res, minus dimidia j 
+      <lb ed="#C" n="59"/>sti pretii, si res valet 10. &amp; venditur pro 5. minus uno de 
+      <lb ed="#C" n="60"/>nario. &amp; sic decipitur venditor, sed si valet 10. &amp; ematu 
+      <lb ed="#C" n="61"/>pro 15. &amp; uno denario, deceptio est ultra dimidiam just 
+      <lb ed="#C" n="62"/>pretii. &amp; sic decipitur emptor secundum Azo. Alii dicunt 
+      <lb ed="#C" n="63"/>quod tunc fit deceptio ultra dimidiam justi pretii, quan 
+      <lb ed="#C" n="64"/>do res quae valet 10. emitur 21. sed sententia Azon. verio 
+      <lb ed="#C" n="65"/>est, secundum M. Justum autem pretium consideratu 
+      <lb ed="#C" n="66"/>respectu temporis contractus, ut ff. de evict ex mille § L. C. a 
+      <lb ed="#C" n="67"/>rescind. ven, si voluntate ffade jur fil. non intelligitur. § divi fratre 
+      <lb ed="#C" n="68"/>non autem attenditur, quod pluris emptum sit, &amp; mino 
+      <lb ed="#C" n="69"/>ris venditum, vel econtra. vel quod plus offeratur. ff. der¬ 
+      <lb ed="#C" n="70"/>scin. vend. ad rescindendam. &amp; l. non est probabilis. &amp; l. non idcir 
+      <lb ed="#C" n="71"/>co. sicut &amp; tempus electionis attenditur. ut notat. supra d 
+      <lb ed="#C" n="72"/>elect. §. quis eligi. vers. item secundum. hoc ubi in pretio inv 
+      <lb ed="#C" n="73"/>nitur deceptio. sin autem in quantitate rei, aut res era 
+      <lb ed="#C" n="74"/>mobilis, aut immobilis: si mobilis, &amp; sic in mensura ve 
+      <lb ed="#C" n="75"/>pondere invenitur dolus, dic ut not. supra eod. §. quibus pon 
+      <lb ed="#C" n="76"/>deribus. Sed si res immobilis est, puta si vendas fundum 4 
+      <lb ed="#C" n="77"/>modiorum, qui est duorum tantum, redintegrare teneri? 
+      <lb ed="#C" n="78"/>argum infrae de donat per tuas. Verum si dictum sit, quod in 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0435.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>tra certam diem ipsum fundum dixerit minoris esse, lice 
+      <lb ed="#C" n="80"/>non dixerit quantitatem, ut infra eodem, qui fundum. debea 
+      <lb ed="#C" n="81"/>venditor tibi denunciare quanti minoris esset, elapsa di¬ 
+      <lb ed="#C" n="82"/>non auditur. Sed si dictum fuit, quod deberet denunciar. 
+      <lb ed="#C" n="83"/>quod minoris essetelapsa, potest dicere quanti minoris 
+      <lb ed="#C" n="84"/>dummodo intra diem ipsum fundum dixerit minoris es 
+      <lb ed="#C" n="85"/>se, licet non dixerit quantitatem, ut f. eod qui fundum argu 
+      <lb ed="#C" n="86"/>ff. de act. empt. &amp; vend. exempto. §. Jul. &amp; si per mensorem de 
+      <lb ed="#C" n="87"/>nunciatio delata est ultra diem, ut sic de caetero agi no 
+      <lb ed="#C" n="88"/>possit contra emptorem propter vim pacti appositi, tene 
+      <lb ed="#C" n="89"/>bitur mensor actio de dolo. ff. si mensor falsum mo. dixerit. 
+      <lb ed="#C" n="90"/>mensor non falsum. Et no. quod libellus in casu illo, ubi qui 
+      <lb ed="#C" n="91"/>deceptus est ultra dimidiam justi pretii sub disjun forma 
+      <lb ed="#C" n="92"/>tur, similiter &amp; sententia, ut mfra eod, cum causam. non obs 
+      <lb ed="#C" n="93"/>quod disjunctio incertitudinem inducat, ut de injuriis 
+      <lb ed="#C" n="94"/>praetor edixit. §. quod autem &amp; quod libellus certus &amp; dilt 
+      <lb ed="#C" n="95"/>cidus debeat esse, ut not. supra de li. ob. §. quid debeat contime 
+      <lb ed="#C" n="96"/>re &amp; quod sententia certa ferenda est, ut C. de sent. quae sin 
+      <lb ed="#C" n="97"/>cer. quan. prose I pen. quia cum electio sit illius contra quen 
+      <lb ed="#C" n="98"/>agitur, non debet, nec potest peti unum praecise alias plu 
+      <lb ed="#C" n="99"/>peteretur, ut not. sup. deplus pe. Aliud est, si servus alicuju 
+      <lb ed="#C" n="100"/>dedit damnum: ubi quidem aestiniatiodamni petitur pr 
+      <lb ed="#C" n="101"/>cise, condemnatur praecise, licet dominus possit se liber¬ 
+      <lb ed="#C" n="102"/>re dando ipsum pro noxa ante sententiam ff. de pet haer. It 
+      <lb ed="#C" n="103"/>veniunt. §. cum autem praediximus. &amp; §. seq. Sed M. dixit in ho 
+      <lb ed="#C" n="104"/>casu petitionem &amp; condemnationem sub disjunct. facie 
+      <lb ed="#C" n="105"/>dam. ut ff. de re iud. miles. §. 1. &amp; Inst. de nox act. in princ. sed re 
+      <lb ed="#C" n="106"/>probatur per §. cum autem praediximus secundum dom ini 
+      <lb ed="#C" n="107"/>meum. Alii canonistae dicunt, quod illa decret, cum causam 
+      <lb ed="#C" n="108"/>infra eod. videtur dominus Papa approbasse sententiam NM 
+      <lb ed="#C" n="109"/>agitur autem ad rescindendam hac venditionem jud off 
+      <lb ed="#C" n="110"/>implorata rest. in integ. C. quib. ex cau. major. in contractibus 
+      <lb ed="#C" n="111"/>secundum quosdam. arg. C. de rescin.ven.l.2. &amp; de uct. empt e 
+      <lb ed="#C" n="112"/>ven. l. 2. &amp; l. 4. &amp; sic usque ad quadriennium potest exerce 
+      <lb ed="#C" n="113"/>ri, ut C. de temp. rest in integ supervacuam. vel act. ex eo contractu 
+      <lb ed="#C" n="114"/>secundum Az0. &amp; sic usque ad 30. ann. quod verius est. ff. d 
+      <lb ed="#C" n="115"/>contrah. emp. Celsus. §. 1. &amp; de act empt exempto. Sis qui vimas 
+      <lb ed="#C" n="116"/>praeced. nihiloninus dicetur fieri Judicis off. ut fi. quod me 
+      <lb ed="#C" n="117"/>tus causa. metum. § ex hoc edicto, &amp; de alie. ju. mu causa facta. 
+      <lb ed="#C" n="118"/>4. §. pen. Sed si deceptio non excedit ultra dimidiam just 
+      <lb ed="#C" n="119"/>pretii, &amp; utraque contrahentium major est &amp; privatus to 
+      <lb ed="#C" n="120"/>leratur, quia licitum est contrahentibus sese ad invicen 
+      <lb ed="#C" n="121"/>decipere naturaliter, id est bona fide, scilic. quod vendito 
+      <lb ed="#C" n="122"/>credat vendere justo pretio, idem est, si alter sit, dummo 
+      <lb ed="#C" n="123"/>do nihil dicat, quod alius moveatur ad emendum, secun 
+      <lb ed="#C" n="124"/>dum Azo. arg. optime fidedo quod venditor. sic intellige f.d 
+      <lb ed="#C" n="125"/>min. in causae. 2. § ult. &amp; loca &amp; condu. Item si pretio. §. ult. Si ve 
+      <lb ed="#C" n="126"/>ro sit civitas, restituitur. arg f sicer petatur civitas, &amp; Cquil 
+      <lb ed="#C" n="127"/>ex causis, ma. I. reipub. sed illud verum est in repub. secus ir 
+      <lb ed="#C" n="128"/>civitate, ut probatur ss. ad Mac sen, con. &amp; de min. verum. Suli 
+      <lb ed="#C" n="129"/>Minor vero &amp; ecclesia restituerentur, si grave damnun 
+      <lb ed="#C" n="130"/>paterentur. quod dic, ut not, sup. de in integr. restit. §. cui. &amp;( 
+      <lb ed="#C" n="131"/>quib. Sin autem re ipsa insit contractui stricti juris dolus 
+      <lb ed="#C" n="132"/>vel deceptio tenet contractus, sed obstabit doli exceptio 
+      <lb ed="#C" n="133"/>ut ff. de verb. sign. si quis cum aliter. quidam autem intellexe 
+      <lb ed="#C" n="134"/>runt l illam, cum in contractu bonae fidei interposita fui 
+      <lb ed="#C" n="135"/>stipulatio. Ubi autem extra contractum adhibetur dolus 
+      <lb ed="#C" n="136"/>dic, ut not. supra de dolo § quae auxilia. vers. ubi autem dolus 
+      <lb ed="#C" n="137"/>Item si equus morbosus venditus sit, potest fieri redhibi 
+      <lb ed="#C" n="138"/>tio intra sex menses, ut f de redhib. act. I.1. idem est in funde 
+      <lb ed="#C" n="139"/>pestifero, seu ferente herbam pestiferam, ut C. de edilact. 
+      <lb ed="#C" n="140"/>praedium. sed non videtur verum, quia redhibitoria in reb 
+      <lb ed="#C" n="141"/>animatis tantum locum habet, vel quae fuerunt animatae 
+      <lb ed="#C" n="142"/>non in aliis, ut in liberis, imo ibi agitur quanto minoris 
+      <lb ed="#C" n="143"/>certe imo &amp; in libro, si talis sit, quod potius expediret not 
+      <lb ed="#C" n="144"/>habere, quam habere, locum habet utilis redhibitoria. &amp; 
+      <lb ed="#C" n="145"/>locum habet haec actio in rebus soli, &amp; se moventibus, &amp; 
+      <lb ed="#C" n="146"/>mobilibus, ut f. de redhi.l.I.in prin &amp; laediles ajunt. §. sequun 
+      <lb ed="#C" n="147"/>tur. &amp;Isi cum. §. non solum. &amp; I.bovem. §. aliquando. &amp; Lob qua 
+      <lb ed="#C" n="148"/>vitia. &amp; Isciendum est. Item rescinditur venditio ratione ae 
+      <lb ed="#C" n="149"/>tatis, &amp; privil. minoritatis. ut not. sup. de in integ. rest §. cui. C 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="150"/>ADDITIO. 
+      <lb ed="#C" n="151"/>h Dolus det causam contractui) Adde Bal. in c. unico. ad fin d 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>plus petit. Ang. in Ladversus fratrem. C. de excep. sen praescris--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0436.xml-->
+      <pb ed="#C" n="419"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>§. in quib. Item ratione erroris. sive dissensus. quod dic. u 
+      <lb ed="#C" n="2"/>not supra eod §. verscum autem dixerin. Item ratione solen 
+      <lb ed="#C" n="3"/>nitat s commissae, ut not. supra de reb eccles. non alien §. qu¬ 
+      <lb ed="#C" n="4"/>su forma. &amp; in praediis minorum. C. de administ tut. lex. &amp; d 
+      <lb ed="#C" n="5"/>praediis minor. ob aes, &amp; in debitorum praediis reipubl. 
+      <lb ed="#C" n="6"/>non vendantur justo pretio. C. de rescin. ven siquos. Item ra 
+      <lb ed="#C" n="7"/>tione pacti non servati, ubi alias non erat contracturus:n 
+      <lb ed="#C" n="8"/>si contracturus esset, agit ad interesse tantum, ut C. dere 
+      <lb ed="#C" n="9"/>scin ven Lex. &amp; de pactis inter empt. &amp; vend. cum te. Item ratic 
+      <lb ed="#C" n="10"/>ne causae, puta, hi quibus sunt imposita munera civitatu 
+      <lb ed="#C" n="11"/>scil. decuriones. C. de advo. diver. jud. I2. fugam petentes, 
+      <lb ed="#C" n="12"/>furtivos inierant contractus, non valent, &amp; emptor fug¬ 
+      <lb ed="#C" n="13"/>conscius mulctatur pretio, ut C. derescind. vend. Ipen. Iten 
+      <lb ed="#C" n="14"/>ratione officii publ. ut si Comes Palatinus, vel judex rer 
+      <lb ed="#C" n="15"/>subditi emerit, puta, vestem, aurum, vel argentum. C. den 
+      <lb ed="#C" n="16"/>scind. vend Iulti. &amp; de contractibus judic. &amp; adde quod no 
+      <lb ed="#C" n="17"/>supra quod metus causa. §. qualiter retractetur. versicul. item pe 
+      <lb ed="#C" n="18"/>constit. Item ratione justae ignorantiae nam si Titius proc 
+      <lb ed="#C" n="19"/>Seji ab eodem Sejo haeres institutus ignorans instit. servi 
+      <lb ed="#C" n="20"/>haereditarii contractui fundum vendentis, tanquam pro 
+      <lb ed="#C" n="21"/>subscribat, venditionem rescindere potest f. derescind. ver 
+      <lb ed="#C" n="22"/>dit. Titius. Et not. quod nemo praesumitur ignorare iv 
+      <lb ed="#C" n="23"/>res patrimonii sui L. de rescind. vend. quisquis. sed arg. con 
+      <lb ed="#C" n="24"/>tra. Instit. qui. &amp; ex quibus causis ma poss. §. m fraudem. C. de hae 
+      <lb ed="#C" n="25"/>red. vend. I qui nondum. Sed dic quod ignorare non debet 
+      <lb ed="#C" n="26"/>ut in lquisquis. quae valere non potest, ut in contrariiis
+    </p>
+            <p xml:id="nbht7y-d1e1066-d1e1705">
+               <lb ed="#C" n="27"/>ILlud autem not. quod si quid fiat in fraudem legis, no 
+      <lb ed="#C" n="28"/>valet quod sequitur ex eo, vel ob id, ut C deleg non dubium 
+      <lb ed="#C" n="29"/>facit autem contra legem, qui facit quod l. prohibet, os 
+      <lb ed="#C" n="30"/>fendendo verba legis &amp; sententiam; ut patet in judice, qu 
+      <lb ed="#C" n="31"/>emit a subditis: ut fde contrahend. emptio. I. non licet. ut pate 
+      <lb ed="#C" n="32"/>in eo qui emit rem minoris, quae servando servari potes 
+      <lb ed="#C" n="33"/>sine decreto judic. ut ff. de eorum, per totum. C. de admin. tu 
+      <lb ed="#C" n="34"/>I. lex quae ta. ut patet in oeconomo, vel praelato, qui vendi 
+      <lb ed="#C" n="35"/>rem eccles. non servato ordine, auth. C. de sacrosanct. eccle 
+      <lb ed="#C" n="36"/>nathent. hoc jus porrectum. sed fit fraus legi, quando servati 
+      <lb ed="#C" n="37"/>verbis circunvenitur mens, ut f. deleg. contra leg. &amp; hae 
+      <lb ed="#C" n="38"/>fraus fieri habet 4. modis. Primo, de contractu ad contr¬ 
+      <lb ed="#C" n="39"/>ctum alterum, ut cum conjunx qui donare non potest, u 
+      <lb ed="#C" n="40"/>infra de donat. inter virum &amp; uxorem cap. ult. vendit pretiun 
+      <lb ed="#C" n="41"/>non exacturus, ideoque non valet contractus: ut ff dedo¬ 
+      <lb ed="#C" n="42"/>inter virum &amp; uxorem, si sponsus. §, circa. Vel quando accedi 
+      <lb ed="#C" n="43"/>ad usurarium, &amp; volens mutuum recipere, ipse non con 
+      <lb ed="#C" n="44"/>sentit: quia timet de usu sed dicit quod emet, si voluero, si 
+      <lb ed="#C" n="45"/>hoc dicunt testes qui fuerunt mecum, quod taliaverba ha 
+      <lb ed="#C" n="46"/>buimus, &amp; venditio sit longe citra justum pretium, ve 
+      <lb ed="#C" n="47"/>propejustam: sed constat, quod emptor usurarius est, e 
+      <lb ed="#C" n="48"/>ego si aliud facere possem nullatenus eram venditurum: 
+      <lb ed="#C" n="49"/>nion valet contractus. ut infra eod. ad nostram. Item si fiat pa 
+      <lb ed="#C" n="50"/>ctum, quod fructus in sortem computentur, &amp; quod de 
+      <lb ed="#C" n="51"/>tur aliquid ultra sortem. ut infra det ign. illo. Consuetud 
+      <lb ed="#C" n="52"/>etiam usurarii, et terrae, in hoc maxime attendenda est, sci 
+      <lb ed="#C" n="53"/>quando multi usurarii sunt in terra, &amp; sic omnes contra 
+      <lb ed="#C" n="54"/>here consueverunt, sicut &amp; in multis locis, &amp; ad hoc acce 
+      <lb ed="#C" n="55"/>dunt quae no. supra de consue §. &amp; de virtute. veri specialis &amp; 
+      <lb ed="#C" n="56"/>vers. specialissimi. &amp; hoc exemplo opus est. ut ff. de prni. aui 
+      <lb ed="#C" n="57"/>facta §. penult &amp; ult C ad I Juliam. repe. l.. &amp; supra de vi &amp; hor 
+      <lb ed="#C" n="58"/>cher. ut clericorum &amp; de cohabi cler. &amp; muli. clericos. Secundo 
+      <lb ed="#C" n="59"/>de persona ad personam: ut si conjunx interponat alian 
+      <lb ed="#C" n="60"/>personam, cui donet, ut conjugi suo detur. f. de donat. int. 
+      <lb ed="#C" n="61"/>vir. &amp; uxor. 13§. non tantum. Item si do potestatem amit 
+      <lb ed="#C" n="62"/>tuo, ut possit conferre tibi ecclesiam, vel praebendam pri 
+      <lb ed="#C" n="63"/>rmo vacantem, vel cui voluerit: &amp; ego bene scio quod tibi 
+      <lb ed="#C" n="64"/>Mabit, ut supra de conces. praeb. constitutus, &amp; cult. Haec auten 
+      <lb ed="#C" n="65"/>Potestas bene potest dari in genere, hoc est universaliter, 
+      <lb ed="#C" n="66"/>t a cite vel expressim. ut supra de Instit. ex frequentib. Item no. 
+      <lb ed="#C" n="67"/>quando persona per se prohibita contrahere per aliun 
+      <lb ed="#C" n="68"/>c ontrahit, ut patet in judice qui contrahit per alium cum 
+      <lb ed="#C" n="69"/>Tubditis, cum per se non possit: at Equod metus causa iper 
+      <lb ed="#C" n="70"/>C. de contractibus jud. I.i.ff. de contrahend. empt. non licet. Item est 
+      <lb ed="#C" n="71"/>e xemplum in oeconomo eccles. qui emit rem ecclesiae pe 
+      <lb ed="#C" n="72"/>in nterpositam personam, cum per se non possit, quia non 
+      <lb ed="#C" n="73"/>Talet. C. de sacrosanct eccles auihent. quibuscunque modis. Iten 
+      <lb ed="#C" n="74"/>e xemplum. C. de proxi. sac. scri l. ultinn. C. de prob agen.l.i. Tei 
+      <lb ed="#C" n="75"/>11d, de re ad rem, ut cum filiosam. cui non potest tradi pe¬ 
+      <lb ed="#C" n="76"/>e unia mutua sine metu Macedoniani, patre inscio &amp; ra¬ 
+      <lb ed="#C" n="77"/>rum non habente, ut C. ad Maced. l.1. &amp; ult. traditur specie 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0436.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>certo pretio, ut ipsum vendat, &amp; pretium recipiat, ut f.a 
+      <lb ed="#C" n="79"/>Maced. Item si filius. §. mutui. Item cum non debeat dar 
+      <lb ed="#C" n="80"/>praesidi ultra esculentum  &amp; poculentum, ut ff. de offic. 
+      <lb ed="#C" n="81"/>praesid. I. plebiscito. datur ei in tantum, quod pervenit ac 
+      <lb ed="#C" n="82"/>munerum qualitatem in enxeniis, ut f. de offic. proconsl.so 
+      <lb ed="#C" n="83"/>let. §. non autem. Sic praelatus est, qui non potest obligar¬ 
+      <lb ed="#C" n="84"/>ecclesiam suam. consueverat tradere sigillum. infra de so 
+      <lb ed="#C" n="85"/>lu in quorundam. Haec fraus hodie per usurarios est nimi 
+      <lb ed="#C" n="86"/>um usurpata: non enim mutuant, sed tradunt specien 
+      <lb ed="#C" n="87"/>certo precio aestimatam, &amp; aliquando cum denarii 
+      <lb ed="#C" n="88"/>miscent, assumendo omnia simul, quas baratas vocant. 
+      <lb ed="#C" n="89"/>dicas verum est animarum suarum quas barant, sive ac 
+      <lb ed="#C" n="90"/>baratrum ducunt, nisi satisfaciant ante mortem, nam in 
+      <lb ed="#C" n="91"/>aestimatione cariore facta, quam vendi posset, bene con 
+      <lb ed="#C" n="92"/>tinetur usura: ergo seipsos baratant tales baratatores 
+      <lb ed="#C" n="93"/>nec vident etiam quod agunt, ut arg. expressa. C. manda a 
+      <lb ed="#C" n="94"/>Anastasio. ff. de act. empt. &amp; vend. Jul. §. idem Pap. C. de iusur. cun 
+      <lb ed="#C" n="95"/>allegas. &amp; I. constitutionilus. sed est arg. pro ipsis. ff de act. eip 
+      <lb ed="#C" n="96"/>&amp; vendit. Lucius Titius. Quarto de contractu ad eunden 
+      <lb ed="#C" n="97"/>contractum. Sed altero modo, ut cum trado tibi mutu 
+      <lb ed="#C" n="98"/>um, vis dare mulierem pro fidejussore ego sciens ipsam tu¬ 
+      <lb ed="#C" n="99"/>tam velle, volo quod ipsa constituat se principalem, &amp; fi 
+      <lb ed="#C" n="100"/>dejubeas tu pro ipsa, ut ff. ad Vellejan. quamvis. sicum ssem 
+      <lb ed="#C" n="101"/>&amp; hoc non est omittendum; quod mulier consentiendi 
+      <lb ed="#C" n="102"/>alienationi rei donatae sibi propter nupt. sibi praejudicat 
+      <lb ed="#C" n="103"/>ut infra eod. pervenit. quod intellige, quando bonis consen 
+      <lb ed="#C" n="104"/>sit, secundum authen. C. ad Vellejan. auth. sire a me. vel quan 
+      <lb ed="#C" n="105"/>do debeat reverti ad haeredes mariti, quia non erat facti 
+      <lb ed="#C" n="106"/>pactum de lucrando. infra de donat. inter vir. &amp; uxor. cap. ult 
+      <lb ed="#C" n="107"/>in sin. vel quia juravit. supra de jurejur. cum contirgat. ve 
+      <lb ed="#C" n="108"/>quando expediebat mulieri. in quo casu etiam dos vend 
+      <lb ed="#C" n="109"/>posset. ff. sol. mat. quamvis. &amp; dejur. do. Iult. in auih. uenull 
+      <lb ed="#C" n="110"/>jnd. §. illud col. 8. Acquiritur autem deminium /pertradi 
+      <lb ed="#C" n="111"/>tionem, ut no. sup. eod S &amp; ad quid venditor in tantum, quoc 
+      <lb ed="#C" n="112"/>si res vendita duobus sit, potior est secundus, si sibi prin¬ 
+      <lb ed="#C" n="113"/>res tradatur. idem est in donatione, ut C. derei rend. quoti 
+      <lb ed="#C" n="114"/>nisi primus emptor emisset nomine ecclesiae: hîc enim es 
+      <lb ed="#C" n="115"/>speciale quod dominium acquiratur sine traditione arg 
+      <lb ed="#C" n="116"/>supra de consuet. ex literis &amp; expressim. C de sacrosanct rccles.u 
+      <lb ed="#C" n="117"/>inter divinum. &amp; no. supra de poenis. sub §. &amp; ut nihil. vers.res. 8 
+      <lb ed="#C" n="118"/>etiam secundus nomine eccles. emerit, praefertur primo 
+      <lb ed="#C" n="119"/>quia utilis aliquando praefertur directe f deproc. in causae 
+      <lb ed="#C" n="120"/>Sed venditor tenetur crimine stellio. arg. ff. decrim. stel. I3 
+      <lb ed="#C" n="121"/>imo. I Corn ne falsis, ut per ea. l. &amp; ff. ad I Corn. de fals. qui duobus 
+      <lb ed="#C" n="122"/>Quamvis autem res pecunia mea empta fuerit, non pro 
+      <lb ed="#C" n="123"/>pter hoc mea efficitur nisi nomine meo ematur. C. om. u 
+      <lb ed="#C" n="124"/>triusque judicii. si pauruus. &amp; derei vend. si ex ea. &amp; de probaa 
+      <lb ed="#C" n="125"/>probationem dominii. Fallit in re empta de pecunia eccles u 
+      <lb ed="#C" n="126"/>arg. mfrade cler. c. 2. &amp; pe 12. 9. 3. c. 1. Item in re empta de pe 
+      <lb ed="#C" n="127"/>cunia militis, vel populi, vel data conjugi. C derei rend.ut 
+      <lb ed="#C" n="128"/>proponis. &amp; arb. tu. I 3. ff. de don. inter vir. &amp; uxor. marito. Item in 
+      <lb ed="#C" n="129"/>jure empto de pecunia usuraria. infra de usu, cum tut. §. iudi 
+      <lb ed="#C" n="130"/>secundum quosdam. quod dic, ut not infra de usu. §. sin. ver 
+      <lb ed="#C" n="131"/>nedum autem. &amp; in re empta de pecunia data liberto poste 
+      <lb ed="#C" n="132"/>ingrato facto, ut C de revoc. do.I.1. Item clericus fructus pra 
+      <lb ed="#C" n="133"/>bendae suae n vendere potest usque ad certum tempus vel n 
+      <lb ed="#C" n="134"/>perceptio decimarum, ut infra tit i. vestra. &amp; ne praelati vici 
+      <lb ed="#C" n="135"/>su querelam. licet ipsum jus vendi non possit. infra dererun 
+      <lb ed="#C" n="136"/>pernut c. ult. sicut nec jurisdi. in auth. ut ju. sine quoquo suffi¬ 
+      <lb ed="#C" n="137"/>S haec omnia apud nos col. 2. sic &amp; usufructuarius perceptio 
+      <lb ed="#C" n="138"/>nem fructuum vendit, sed non ipsum ius ff.de usufr arborn 
+      <lb ed="#C" n="139"/>bus §. usufructuarius. &amp; de pericu. &amp; com. rei vend. necessario. § 
+      <lb ed="#C" n="140"/>penult. &amp; de jure doti. si usufr. quod dic, ut not. infra ne praelat 
+      <lb ed="#C" n="141"/>vi su. vers. item praelatus. &amp; se¬ 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="142"/>ADDITIONES 
+      <lb ed="#C" n="143"/>Nemo praesumitur ignorare Adde Host. in c. ad Cherandam a 
+    </p>
+    <p>
+      <lb ed="#C" n="144"/>lude 
+      <lb ed="#C" n="145"/>A Vltra esculentum] Addec. cum ab emm. devi. &amp; hon. tier. &amp; pou 
+    </p>
+    <p>
+      <lb ed="#C" n="146"/>Dect. an e statutum. de rescript. lib. ( 
+      <lb ed="#C" n="147"/>Acquiritur autem dominium] Adde gl. Instis. de redi. in §. p. 
+    </p>
+    <p>
+      <lb ed="#C" n="148"/>traditionem gi in Ltraditionib. Cde pact. &amp; ibi Cyn. gl. &amp; Barc. ii 
+      <lb ed="#C" n="149"/>nunquam nuda de acqe rerum den 
+      <lb ed="#C" n="150"/>am Fnictus praebendae suae JAddec. cum vanerolisis, depesi demil 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>Ho in c indecerum de atat. &amp; gua--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0437.xml-->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

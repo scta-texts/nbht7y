@@ -1,0 +1,2099 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 26</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 26</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="456"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1166"><!-- nbht7y-l3t26 -->
+            <head xml:id="nbht7y-d1e1166-Hd1e101">Titulus 26</head>
+            <head xml:id="nbht7y-d1e1166-Hd1e103" type="question-title">De testamentis et ultimis voluntatibus</head>
+            <p xml:id="nbht7y-d1e1166-d1e106">
+               <lb ed="#C" n="70"/>De Testam, &amp; ultimis voluntatibus 
+      <lb ed="#C" n="71"/>XXVI. Rubrica
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e113">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0473.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="72"/>SUMMARY 
+      <lb ed="#C" n="73"/>i. Testamentum quid sit. Et unde dicatur. 2. Et quid sit milis 
+      <lb ed="#C" n="74"/>3. Species testamentorum quot sini 
+      <lb ed="#C" n="75"/>5. Miles unde dicatur 
+      <lb ed="#C" n="76"/>6. Testes quot requiruntur in testamento 
+      <lb ed="#C" n="77"/>7. Testamentum quis possit facer 
+      <lb ed="#C" n="78"/>8. Eremitae &amp; solitarii, an possint facere testamentum 
+      <lb ed="#C" n="79"/>9. Testamentum qualiter constituatur. Et qualiter confirmetur 
+      <lb ed="#C" n="80"/>10. Qualiter infirmetur in 
+      <lb ed="#C" n="81"/>12. Querelam quae causae inducani 
+      <lb ed="#C" n="82"/>13. Vterini fratres an admittantur ad querelam¬ 
+      <lb ed="#C" n="83"/>14. Effectus querelae quis si 
+      <lb ed="#C" n="84"/>15. Filia si instituatur in dotem, an agat querela 
+      <lb ed="#C" n="85"/>16. Effectus ultimae voluntatis quis su 
+      <lb ed="#C" n="86"/>17. Institui quis possit, vel non, quibus temporibus consideretur 
+      <lb ed="#C" n="87"/>18. Institutio quomodo fiat. Et quid dicatur institutio. 21 
+      <lb ed="#C" n="88"/>19. Quantitates portionum possunt exprimi in institatione, pri 
+      <lb ed="#C" n="89"/>ut testatori placuerij 
+      <lb ed="#C" n="90"/>20. Assis appellatione quid contmeatur 
+      <lb ed="#C" n="91"/>21. Substitutio quid dicatur. Et quomodo dividatur 22 
+      <lb ed="#C" n="92"/>23. Haeres ad quid teneatur. Et per quem cogatur voluntatem di 
+      <lb ed="#C" n="93"/>functi servare. 24 
+      <lb ed="#C" n="94"/>25. Clericus de quibus possit testari, &amp; de quibus non 
+      <lb ed="#C" n="95"/>26. Relicta in testamento qualiter petantur ab episcop. 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e172">
+               <lb ed="#C" n="96"/>TRactavimus de donationb inter 
+      <lb ed="#C" n="97"/>vivos, &amp; causa 
+      mor<lb ed="#C" n="98" break="no"/>tis: sed quoniam hae in testamentis fieri so 
+      <lb ed="#C" n="99"/>lent videamus de testamentis. Vel sic: Vi 
+      <lb ed="#C" n="100"/>dimus de voluntatibus inter vivos, vide¬ 
+      <lb ed="#C" n="101"/>mus de voluntatibus extremis, vel ita: Vidimus de peci 
+      <lb ed="#C" n="102"/>cler. quod in testamentis relinqui potest, videamus detie 
+      <lb ed="#C" n="103"/>stamentis. In primis sciendum est, Quid sit testamentum 
+      <lb ed="#C" n="104"/>a vnde dicatur, quod sint species testamentorum, Quo 
+      <lb ed="#C" n="105"/>testes requirantur in testamento, Quis possit facere testa 
+      <lb ed="#C" n="106"/>mentum, qualiter conficiatur, qualiter confirmetur, qua 
+      <lb ed="#C" n="107"/>liter infirmetur, quis sit effectus ultimae voluntatis, A 
+      <lb ed="#C" n="108"/>quid haeres teneatur, Et per quem cogatur defuncti vo 
+      <lb ed="#C" n="109"/>luntatem adimplere 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e206">
+               <lb ed="#C" n="110"/>Quid sit testamentum Juita sententia volutatis 
+      <lb ed="#C" n="111"/>nostrae, de eo quod post mortem nostram 
+      <lb ed="#C" n="112"/>haeredem instituendo, fieri volumus: utff.eodem l.i.b Bene 
+      <lb ed="#C" n="113"/>dico, Justa sententia, non dico i. solennis, ut quidam, se¬ 
+      <lb ed="#C" n="114"/>justa ad literam, nam si justa est, pro sententia &amp; lege ser¬ 
+      <lb ed="#C" n="115"/>vanda est. f. ad l. fal. leg. . Institut. ad l. fal. in princip. in auchen.d 
+      <lb ed="#C" n="116"/>nup. Sdisponat, secus, si impia vel injusta, unde si dicat, quo 
+      <lb ed="#C" n="117"/>reliquiae suae jactentur in mari, non servabitur haec volum 
+      <lb ed="#C" n="118"/>tas ff. decondit. institu, cum quidam, vel si quid praecipiat con 
+      <lb ed="#C" n="119"/>tra jura, vel bonos mores: vel ea quae ad pietatem, vel vereo 
+      <lb ed="#C" n="120"/>cundiam nostram laederent, quae nec nos facere posse cre 
+      <lb ed="#C" n="121"/>dendum esc f.de condit. institut. conditiones, &amp; leg fidejus. adi 
+      <lb ed="#C" n="122"/>dem infra eodem tua, &amp;c. Raynaldus, ad si. &amp; cap. requisisti, ve 
+      <lb ed="#C" n="123"/>spons.i. &amp; de sepult. fraternitatem. 16. quaestio 4. volumus 13. quae 
+      <lb ed="#C" n="124"/>stio. 2. ultima roluntas, C. de sacro sanct. eccles. leg 1. infra eoden 
+      <lb ed="#C" n="125"/>judicante, &amp; cap filius. De eo quod post mortem haereden 
+      <lb ed="#C" n="126"/>institut. &amp;c. bene dixi, quia necesse est, quod haeredes inst 
+      <lb ed="#C" n="127"/>tuamus, alias non esset testamentum: Institut. de lega. §an 
+      <lb ed="#C" n="128"/>te haeredis 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="129"/>ADDITIONES 
+      <lb ed="#C" n="130"/>a Quid sit testamentum.] Adde doc in rub eo tit. &amp; quid sitte 
+    </p>
+    <p>
+      <lb ed="#C" n="131"/>stamentum nuncupativum, vide per Phil. Franc. in rub. de te 
+      <lb ed="#C" n="132"/>sta. in fi. 2. col. ver. aliud vero lib 6 
+      <lb ed="#C" n="133"/>b luriscon. Vipia definitionem, non Hostiensis sequitur Mar 
+    </p>
+    <p>
+      <lb ed="#C" n="134"/>noster eo. tit in summa. Hostiensiana enim definitio non ca 
+      <lb ed="#C" n="135"/>ret, ut quae insufficientiae lure consultum arguat. Frustra aut 
+      <lb ed="#C" n="136"/>in ea adjecit verba illa Haeredem instituendo, nam sub reli 
+      <lb ed="#C" n="137"/>quis definitionis verbis continentur. Nam testamenti sub 
+      <lb ed="#C" n="138"/>stantia est haeredis institutio l.inter caetera, ff. de lib. &amp; posthum 
+      <lb ed="#C" n="139"/>&amp; 61. de haer. &amp; Fal. col. I. verior est igitur Mart. Iurisc. sequenti 
+      <lb ed="#C" n="140"/>definitio. Accipere autem testamentum debemus, inquitMari 
+      <lb ed="#C" n="141"/>cum quis in eo detoto suo patrimonio disponit, idque, ut ex 
+      <lb ed="#C" n="142"/>cludantur codicilli, &amp; speciale relictum. Similiter scias, quod s 
+      <lb ed="#C" n="143"/>quis instituat haeredem in re certa vel portione, &amp; de relique 
+      <lb ed="#C" n="144"/>non disponat, de roto disposuisse intelligendus est, unde scri 
+      <lb ed="#C" n="145"/>ptus haeres totum capiet, quia &amp; in parte rotum continetur 
+      <lb ed="#C" n="146"/>ff. de haer. instit. I si quis ua scripserit, &amp; C. ao.tit.l. quoaies-->
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e252">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0474.xml-->
+               <pb ed="#C" n="457"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>Unde dicatur. Ex eo quod testatioe mentis est Ins 
+      <lb ed="#C" n="2"/>eod tit. in princ. sic argum. dicitur quasi argute in 
+      <lb ed="#C" n="3"/>ventum: &amp; secundum hoc codicillus largo modo dicitu 
+      <lb ed="#C" n="4"/>testamentum. argu. ff.de jure codic. ab intest. §. fin
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e270">
+               <lb ed="#C" n="5"/>Quot sint species testamentorum. Et quidem 
+      <lb ed="#C" n="6"/>antiquo tempore tres fiebant divisione 
+      <lb ed="#C" n="7"/>Unum enim testamentum erat pacificum, quod appell¬ 
+      <lb ed="#C" n="8"/>batur calatis comitiis, id est a bonis initiis, vel bonis cor 
+      <lb ed="#C" n="9"/>ventibus. calos enim diciturbonum, comitiae conventu: 
+      <lb ed="#C" n="10"/>Secundum erat bellicum, quod procinctorium ex eo for 
+      <lb ed="#C" n="11"/>te, quod succincte fiebat, dicebatur: &amp; haec duo prorsu 
+      <lb ed="#C" n="12"/>jam pridem abierunt. Accessit ergo tertium genus, quo 
+      <lb ed="#C" n="13"/>dicebatur per aes &amp; libram: quia per emancipationem, i 
+      <lb ed="#C" n="14"/>est, quandam imaginariamvenditionem agebatur quinc 
+      <lb ed="#C" n="15"/>testibus &amp; libripende, id est, tabellione, vel erant libriper 
+      <lb ed="#C" n="16"/>dae aestimatores qui libri pendebant, secundum Azo. civi 
+      <lb ed="#C" n="17"/>bus Romanis, &amp; puberibus praesentibus, &amp; qui fa id ess 
+      <lb ed="#C" n="18"/>haereditatis substantiae ff. de verb. signif. pronunciatio. §. fami 
+      <lb ed="#C" n="19"/>liae. dicebatur emptor. &amp; hoc diutius permansit, sed poste 
+      <lb ed="#C" n="20"/>in usu esse desiit: &amp; omnia haec narrantur. Inst. eod in prin. 
+      <lb ed="#C" n="21"/>Hodie vero dicendum, quod aliud est testamentum mili 
+      <lb ed="#C" n="22"/>tare, aliud privatum. Privatorum aliud nuncupativum 
+      <lb ed="#C" n="23"/>aliud solenne. de nuncupativo &amp; solenni dic, ut not. infr 
+      <lb ed="#C" n="24"/>eod. §. qualiter conficiatur. Testamentum militare est illu¬ 
+      <lb ed="#C" n="25"/>quod miles facit. * Dicitur autem miles, ut ait Vegetiu 
+      <lb ed="#C" n="26"/>de re militari, qui jurat se non evitaturum mortem propte 
+      <lb ed="#C" n="27"/>salutem Reipub. secundum Azo. exemplum est hodie ir 
+      <lb ed="#C" n="28"/>militbus ordinis desperata. Nec sufficit, quod sit electu 
+      <lb ed="#C" n="29"/>tyro, etiam si publicis expensis litem faciat, sed necesse es 
+      <lb ed="#C" n="30"/>ipsum in numero militum referri. ff. dete. mil. I. antep. id es 
+      <lb ed="#C" n="31"/>in matricula, vel tab. in qua omnia nomina militum scri 
+      <lb ed="#C" n="32"/>bebantur, secundum Azo. sicut alias legitur. ff. de albo scrib 
+      <lb ed="#C" n="33"/>1. &amp; 2. Idem est, si in comitatu principum retentus confe¬ 
+      <lb ed="#C" n="34"/>stim cingi jussus est f detest. mi. I pen. Sed &amp; stigma, id est 
+      <lb ed="#C" n="35"/>nota puplica eorum brachiis debebat infigi C. de fabricend. 
+      <lb ed="#C" n="36"/>stigma. &amp; talis miles a signis militaribus citra 20. ann. &amp; sin 
+      <lb ed="#C" n="37"/>magna causa remitti non poterat sine infamia ff. ex quibu 
+      <lb ed="#C" n="38"/>cau maj. I pen ff.de his qui not. infam.l.2. Hodie vero tales no 
+      <lb ed="#C" n="39"/>inveniuntur, sed inermes tantum, puta clerici. supra de ser 
+      <lb ed="#C" n="40"/>non ord libentius supra de cor.vit. ci.50. dist clerici 54 dist. c1. &amp; 
+      <lb ed="#C" n="41"/>ex antiquis. 23. qu. i. militare. &amp; advocati militant: namque pa 
+      <lb ed="#C" n="42"/>troni causarum qui gloriosae vocis confisi munimine la 
+      <lb ed="#C" n="43"/>borantium, spem, vitam. posterosque defendunt. C. de advo¬ 
+      <lb ed="#C" n="44"/>diver jud. advocati* Miles vero dictus est a multitudine 
+      <lb ed="#C" n="45"/>aut a malo, quod debet arcere, aut a numero milleno, siv 
+      <lb ed="#C" n="46"/>millesimo: quia de mille unus praecipuus &amp; magis stre 
+      <lb ed="#C" n="47"/>nuus in militem eligebatur ff.de testam. mil. l.. §. miles. iuxt. 
+      <lb ed="#C" n="48"/>illud Salomon. Virum ex mille unum reperi: mulieren 
+      <lb ed="#C" n="49"/>ex omnibus non inveni Ecclesiast. 7. Talis miles privilegii 
+      <lb ed="#C" n="50"/>habet, quia si in expeditione est, in conflictu belli, vel vita 
+      <lb ed="#C" n="51"/>periculo constitutus, licet ei testari quomodo potest 8 
+      <lb ed="#C" n="52"/>vult C. de testa. mil. quanquam proinde, etiamsi nullus testi 
+      <lb ed="#C" n="53"/>intersit, si tamen sanguine rutilanti, vel in vagina, vel cli 
+      <lb ed="#C" n="54"/>peo suo voluntatem suam, aut in pulvere scripserit, &amp; leg 
+      <lb ed="#C" n="55"/>possit, stabilis erit. C. de test mil milites in hoc enim casu nu 
+      <lb ed="#C" n="56"/>da voluntas sufficit. ff. de testa. mil. l.1. Sin autem in expedi 
+      <lb ed="#C" n="57"/>tione sit, non tamen in conflictu, vel vitae periculo, sed ij 
+      <lb ed="#C" n="58"/>tentorio forte, vel alibi, duos saltem testes adhibere debe 
+      <lb ed="#C" n="59"/>ut testetur coram eis, quem velit sibi haeredem esse, &amp; cu 
+      <lb ed="#C" n="60"/>libertatem, &amp; cui legatum relinquere: nec sufficeret,s 
+      <lb ed="#C" n="61"/>sermonibus simplicibus, sicut plerunque fieri solet, dice 
+      <lb ed="#C" n="62"/>ret. Te haeredem facio, aut bona mea relinquo, quod ipse 
+      <lb ed="#C" n="63"/>rum militum interest, alioquin non difficulter invenire 
+      <lb ed="#C" n="64"/>tur qui diceret, se post mortem militis hoc audivisse: &amp; si 
+      <lb ed="#C" n="65"/>vera judicia subverterentur. f. detestam. mil. divus. Instit. d 
+      <lb ed="#C" n="66"/>mil. testam. §. plane. &amp; S id privilegium &amp; seq. Quid si non i 
+      <lb ed="#C" n="67"/>expeditione, si sed domi sit, vel alibi, jure communi testar 
+      <lb ed="#C" n="68"/>debet. ut C. de testam. mil. I. pen. Iustit. eod. Sollius autem. &amp; es 
+      <lb ed="#C" n="69"/>arg. quod illi clerici tantum, qui regulariter vivunt, &amp; sun 
+      <lb ed="#C" n="70"/>circa divinum officium occupati, debeant gaudere priv 
+      <lb ed="#C" n="71"/>legio clericali, super quo vide quod not. sup. de conjug. §. 
+      <lb ed="#C" n="72"/>versic. privilegii. Hoc privilegium habet, &amp; si caecus vel mu 
+      <lb ed="#C" n="73"/>tus factus sit, dum est in expeditione ante causariam mis 
+      <lb ed="#C" n="74"/>sionem ff. de testam. mil. l. 4. Sed &amp; si is, qui ignorat an sui ju 
+      <lb ed="#C" n="75"/>ris sit, propter mortis patris incertitudinem, hoc privile 
+      <lb ed="#C" n="76"/>gium habet: sed si non testetur, nisi de castrensib &amp; igno 
+      <lb ed="#C" n="77"/>rat inortem patris, bona paterna ad haeredem institutun 
+      <lb ed="#C" n="78"/>non pertinebunt ff de test. mil. ex milita §. si miles. &amp; §. sequen 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0474.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>Is etiam qui scit se esse filiumfam. testari potest, sive sit in 
+      <lb ed="#C" n="80"/>armata militia, vel inermi. nam hoc quibusdam privilegi 
+      <lb ed="#C" n="81"/>loco concessum est. Instit. de testam. mil. S sin &amp; quibus non e 
+      <lb ed="#C" n="82"/>permiss. facere testam. in princ. &amp; not. de hoc supra tit. §. quo 
+      <lb ed="#C" n="83"/>sint. &amp; §. qui cle. &amp; de do. §. quis possit. &amp; seq. Habet &amp; mile 
+      <lb ed="#C" n="84"/>privilegium circa personam haeredis. nam &amp; deportatos 
+      <lb ed="#C" n="85"/>&amp; fere omnes quis factionem testamenti non habent, in 
+      <lb ed="#C" n="86"/>stituere potest: servum tamen poenae non potest institue 
+      <lb ed="#C" n="87"/>re, nisi mortis tempore in civitate inveniatur: quia tun 
+      <lb ed="#C" n="88"/>incipit convalescere institutio, quod generaliter dicen 
+      <lb ed="#C" n="89"/>dum est omnibus aliis institutis, scil. quod si non valet con 
+      <lb ed="#C" n="90"/>siderato tempore institutionis, convalescit tamen, si tem 
+      <lb ed="#C" n="91"/>pore mortis impedimentum cessaverit. ff. de testa mil. I qu 
+      <lb ed="#C" n="92"/>neque. §. 1. unde &amp; si mulier instituta turpis suspicionis si 
+      <lb ed="#C" n="93"/>valet: quia nec testamentum militis aliquid capere potest. 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="94"/>ADDITIONES 
+      <lb ed="#C" n="95"/>c Quod ait Hostiensis testamentum duci a testatione mentis i¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="96"/>non de qualibet, sed de illa qua testator de haereditate dispo 
+      <lb ed="#C" n="97"/>suerit accipiendum recte putat Mart. noster ubi supra volun 
+      <lb ed="#C" n="98"/>tas testatoris est ambu latoria usque ad extremum vitae spi 
+      <lb ed="#C" n="99"/>ritum, ff. de adim legat. l. 4. extra de celeb. miss cum Mariha 
+      <lb ed="#C" n="100"/>d Quot sunt species testamentorum] Adde Phil Fran inreper 
+    </p>
+    <p>
+      <lb ed="#C" n="101"/>rubr. de testa. in 62. col. vers. circa secundum 
+      <lb ed="#C" n="102"/>Verior &amp; legibus congruentior mihi videtur testamentor 
+      <lb ed="#C" n="103"/>divisio de Martin. ubi supra tradita, quae latius patet. n. 
+      <lb ed="#C" n="104"/>quodlibet ejusdem librum eam, quae ab Hostionsi adsigna 
+      <lb ed="#C" n="105"/>tur, comprehendit. Sic igitur Mart. dividit. Test. mentma 
+      <lb ed="#C" n="106"/>liud est nuncupativum, aliud in scriptis. Haec Mart. divi 
+      <lb ed="#C" n="107"/>optime probatur. §. 1. &amp; finae. simul iunctis instit. de testam. ordin 
+      <lb ed="#C" n="108"/>&amp; Lhaeredes. palam. in princ. ff. eod. tit. arg ab instantia. &amp; in Iha 
+      <lb ed="#C" n="109"/>consultissima in prin iuncto. §. per nuncupationem. quae iut. Mari 
+      <lb ed="#C" n="110"/>non citat. sed aP. Praeteio eo adducta fuere, quo hujus divisie 
+      <lb ed="#C" n="111"/>confirmaretur atque probaretur. Testamentum auiem nun¬ 
+      <lb ed="#C" n="112"/>cupativum, quod sola testatoris nuncupatione consistii, no 
+      <lb ed="#C" n="113"/>in solennitate scripturaein quo 7. testes necessarii sunt, &amp; hae 
+      <lb ed="#C" n="114"/>redis institutio, ut § final. Institut. eod. &amp; d s per nuncupationem 
+      <lb ed="#C" n="115"/>Similiter necessarium est, quod fiat uno contextu, hoc est 
+      <lb ed="#C" n="116"/>nullo actu interposito, nisi forte actu natirae, ut cum iret ac 
+      <lb ed="#C" n="117"/>purgandum ventrem, vel sorte sumeret pharmacum, vel bre 
+      <lb ed="#C" n="118"/>vis languor interveniret. C. eod tit. I. cum antiquitas, &amp; fi eod. 
+      <lb ed="#C" n="119"/>haeredes. §. fi. Item testamentum nuncupativu dicitur, &amp; valei 
+      <lb ed="#C" n="120"/>quando quis ad interrogationem alerius annuit, testib. prae 
+      <lb ed="#C" n="121"/>sentibus, &amp; illud, quod dicitur, sibi placere nutu ostendit. C. qu 
+      <lb ed="#C" n="122"/>testam fac pos. I. hac consukissima. Testamentum vero quod fi 
+      <lb ed="#C" n="123"/>sine scriptis, exigit numerum, subscriptionem, &amp; sigilla 7. te 
+      <lb ed="#C" n="124"/>stium. Et debent esse testes rogati masculi, puberes, &amp; liber 
+      <lb ed="#C" n="125"/>&amp; hoc si fiat in civitate. Si vero ruri fiat,s testes sufficiunt. Sec 
+      <lb ed="#C" n="126"/>si testator velit testibus esse occulta quae testamento script: 
+      <lb ed="#C" n="127"/>sunt, tunc chartam testamenti sui clausam &amp; involutam, te 
+      <lb ed="#C" n="128"/>stibus repraesentet, &amp; dicat eis, hoc est testamentum meum 
+      <lb ed="#C" n="129"/>rogo ut subscribatis, &amp; eis subscribentibus subscribat etian 
+      <lb ed="#C" n="130"/>ipse testator, vel alius loco octavi testis. dI consult ssimaI fin 
+      <lb ed="#C" n="131"/>C. eod. tis Subscriptio autem testatoris. debet continere nomi 
+      <lb ed="#C" n="132"/>haeredis. C. eod titul l.aubemus. Sed si testator propria manu te 
+      <lb ed="#C" n="133"/>stamentum scripserit, &amp; hoc expressim in scriptura posuerit 
+      <lb ed="#C" n="134"/>quod manu sua consecerit, tunc alia subscriptio non requiri 
+      <lb ed="#C" n="135"/>tur. d. I.cum antiquitas fin Apraedictis solennitatibus excludi 
+      <lb ed="#C" n="136"/>tur testamentum militis. sive in scriptis, sive nuncupatis e te 
+      <lb ed="#C" n="137"/>stetur C. de mil testam. I quanquam. Similiter &amp; testamentum 
+      <lb ed="#C" n="138"/>rustici, in quo sufficiunt;. testes. I sinal C. de test. Item testamen 
+      <lb ed="#C" n="139"/>tum de conscientia principis, vel ipso praesente confectum 
+      <lb ed="#C" n="140"/>solennitatem omnium testamentorum superare videtur. ( 
+      <lb ed="#C" n="141"/>eod. l.omnium. Excipitur etiam testamentum, quod fit interl 
+      <lb ed="#C" n="142"/>beros d.l hac consuliissima. §. ex imperfecto, &amp; in auih. ibi s.gnata 
+      <lb ed="#C" n="143"/>quae incipit. Hoc inter liberos &amp; C. fam erc. I. fin. item in his, qua 
+      <lb ed="#C" n="144"/>relinquuntur ad pias causas, valet testamentum; secundun 
+      <lb ed="#C" n="145"/>Canon. si fiat coram duobus vel tribus restibus. extra eodtitn 
+      <lb ed="#C" n="146"/>cum esses. ubi de hoc in gl super relictis &amp; in c. relatum. 1. Simi 
+      <lb ed="#C" n="147"/>liter si fiat testamentum nudis verbis extra eod. titul. indicani 
+      <lb ed="#C" n="148"/>Quidam tamen dixerunt, quod per decretales praedictas de 
+      <lb ed="#C" n="149"/>rogatur legibus loquentibus, de solennitate testamentoru 
+      <lb ed="#C" n="150"/>ut de 7. testibus, sive 5. Aliitamen dicunt, quod derogatur 
+      <lb ed="#C" n="151"/>quando agitur in foro ecclesiae, secus, si agitur in foro secu 
+      <lb ed="#C" n="152"/>lari. Terui dicunt, quod non tollit Papa solennitates testa 
+      <lb ed="#C" n="153"/>mentorum, nec etiam posset, nisi interris utroque jure sit 
+      <lb ed="#C" n="154"/>subjectis, vel in legatis ad pias causas. extra eod. tis cum esses ul 
+      <lb ed="#C" n="155"/>de hoc in glo. super relictis. Valet quoque minus solenne testa 
+      <lb ed="#C" n="156"/>mentum, si speciali principis privilegio solennitas sit remissa 
+      <lb ed="#C" n="157"/>C. eo. tit.I. si non speciali. Id autem interea notabis, testameni 
+      <lb ed="#C" n="158"/>non debere esse obscurum arg. ex. de prob. c. in praesentia. &amp; d 
+      <lb ed="#C" n="159"/>testi cum clamor. Quia nunquam per externa verba res projo 
+      <lb ed="#C" n="160"/>nenda est. sed tantum per usitata. arg. 37. dist. relatum--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0475.xml-->
+      <pb ed="#C" n="458"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>detest. mil.I miles ita § mulier. nisi forte tempore mortis co¬ 
+      <lb ed="#C" n="2"/>recta, &amp; bonae opinionis inveniatur, secundum Azo. tun 
+      <lb ed="#C" n="3"/>enim non debet despici in eo quod fuit, quia jam incipi 
+      <lb ed="#C" n="4"/>esse quod non fuit. 5o. dist. ferrum. supr. de testi testimonium. E 
+      <lb ed="#C" n="5"/>aliud privilegium habet miles, quo ad qualitatem institi 
+      <lb ed="#C" n="6"/>endi: quia usque ad certum tempus, vel ex certo tempore i 
+      <lb ed="#C" n="7"/>antea instituere potest, &amp; sic decedere, quo ad tempust. 
+      <lb ed="#C" n="8"/>status, &amp; quo ad tempus intestatus ff. de test. mil. si miles uni 
+      <lb ed="#C" n="9"/>§. .I. miles iia. Et est notandum, quod si miles instituat un 
+      <lb ed="#C" n="10"/>haeredem in paganicis bonis, alium in castrensibusjus a 
+      <lb ed="#C" n="11"/>crescendi non habet locum inter eos: quia quasi duorun 
+      <lb ed="#C" n="12"/>hominum duae haereditates intelliguntur: adeo quod ne 
+      <lb ed="#C" n="13"/>es alienum communicat, sed uterque solvit, quod haered 
+      <lb ed="#C" n="14"/>tatem suam contingit: quod si altera pars ad solvendum ae 
+      <lb ed="#C" n="15"/>alienum, quod eam contigerit, non sufficiat, &amp; ideo inst 
+      <lb ed="#C" n="16"/>tutus haeres haereditatem suam repudiaverit, is qui adiii 
+      <lb ed="#C" n="17"/>cogitur totam haereditatem defendere, aut totam repud 
+      <lb ed="#C" n="18"/>are, &amp; creditoribus cedere f. detest. mil. si certarum. § Jul. Sit 
+      <lb ed="#C" n="19"/>autem unum instituat in una re, vel in una uncia, &amp; aliun 
+      <lb ed="#C" n="20"/>in alia, tunc est jus accrescendi inter eos f. de test. mil si ter 
+      <lb ed="#C" n="21"/>tarum. resp. 1.C. de testa. mil. quanquam. nec obst. ff. de test. mil. 
+      <lb ed="#C" n="22"/>miles unum ex fundo. ubi dicitur, creditur quantum ad residu 
+      <lb ed="#C" n="23"/>patrimonium intestatum decessisse: creditur enim ita a ju 
+      <lb ed="#C" n="24"/>re, si probetur militem ita voluisse. Verum si unum insi 
+      <lb ed="#C" n="25"/>tuat tantum in paganicis, vel in castrensibus, omnia ad ips 
+      <lb ed="#C" n="26"/>institutum pertinentiure intestati. C. de testam. mil. l.1. &amp; 
+      <lb ed="#C" n="27"/>nisi ubi filiusfam. miles ignorat patrem mortuum esse, u 
+      <lb ed="#C" n="28"/>no. supra eod. ver. sed &amp; si is qui ignorat. Durat autem hoc pr 
+      <lb ed="#C" n="29"/>vilegium militum, quamdiu sunt in expeditione, ex qu 
+      <lb ed="#C" n="30"/>dimissi sunt de militia, si moriantur intra annum, sive cor 
+      <lb ed="#C" n="31"/>ditio institutionis intra ann. extiterit, sive postea. Institu.d 
+      <lb ed="#C" n="32"/>mil. test. §. sed hactenus. f.de test. mil. quod constitutum. &amp; l. quo 
+      <lb ed="#C" n="33"/>dicitur. &amp; hoc verum est, si dimissi sunt ex causa honest. 
+      <lb ed="#C" n="34"/>vel causaria. nam si causa ignominiae, statim amittunt pr 
+      <lb ed="#C" n="35"/>vilegium ff de testa. mil. I testamenta eorum. Sed &amp; illud priv 
+      <lb ed="#C" n="36"/>legium, quod habet miles, ut testari possit, quod alias no 
+      <lb ed="#C" n="37"/>posset, durat etiam post missionem jur, scili. communi. u 
+      <lb ed="#C" n="38"/>Instit. de mil test. §. ills autem. Amittunt &amp; hoc privilegiun 
+      <lb ed="#C" n="39"/>damnati crimine capitali communi. Si vero de crimine mi 
+      <lb ed="#C" n="40"/>litari, ut quia arma sua alienavit, vel contra praeceptum du 
+      <lb ed="#C" n="41"/>cis aliquod fecit, vel similia, quae enumerantur. ff. dere mi 
+      <lb ed="#C" n="42"/>l. 2. &amp; 3. de fide rupta argui possit non licet testari. Sin aut 
+      <lb ed="#C" n="43"/>&amp; Judexin sententia sibi reservavit quod liceret, licebi 
+      <lb ed="#C" n="44"/>de castrensibus bonis tantum: si non servavit, non licebi 
+      <lb ed="#C" n="45"/>colliguntur haec C. de test. mil &amp; militib ff de vete. suc. Ii ff. de tel 
+      <lb ed="#C" n="46"/>mil. ex militari. ff. de injust. ru irri. te. si quis filio. §. sed &amp; si qui 
+      <lb ed="#C" n="47"/>fuerit capi ff dedo. inter vir. &amp; uxo, cum hic status. §. si miles ff.d 
+      <lb ed="#C" n="48"/>lig. 3. si quis. in princ. test. §. miles. Haec autem omnia apposu 
+      <lb ed="#C" n="49"/>quia possunt habere locum in testamentis clericorum in 
+      <lb ed="#C" n="50"/>aliquibus, ut patet in his, quae non supra eod. vershodie. &amp; ve 
+      <lb ed="#C" n="51"/>quod si non in expeditione. &amp; vers. is etiam qui scit. &amp; supra tiu 
+      <lb ed="#C" n="52"/>§ quot sint. &amp; S. qui cleric 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e591">
+               <lb ed="#C" n="53"/>Quot testes requiruntur in testamento Etqu 
+      <lb ed="#C" n="54"/>dem regulariter 7. ut patet in his, qua 
+      <lb ed="#C" n="55"/>not. infra eod. qualiter conficiantur. &amp; probatur. C. de bon posse 
+      <lb ed="#C" n="56"/>secundum tab. I2. alioquin, ut ibi legitur, a contrario sensi 
+      <lb ed="#C" n="57"/>bonorum pos. peti non potest. Sed quid ad nos de bo. po 
+      <lb ed="#C" n="58"/>cum hodie de jure civili admittatur quilibet ad successio 
+      <lb ed="#C" n="59"/>nem, ut Inst. de suc. quae ab intest defe. §. admonendi &amp; §. fin. &amp; ( 
+      <lb ed="#C" n="60"/>de suis &amp; legi. haer auih. in successione &amp; deleg haer. auth. cessante 
+      <lb ed="#C" n="61"/>Respond. valde ad nos, in 4. casibus. Primus casus est, ub 
+      <lb ed="#C" n="62"/>quis capite minutus fecit testamentum, &amp; postea dece 
+      <lb ed="#C" n="63"/>iit, factus tamen civis Rom. &amp; suae potestatis. Instit qui mo 
+      <lb ed="#C" n="64"/>test infir §. non tamen. Secundus est, ubi quis sub cond. insti 
+      <lb ed="#C" n="65"/>est haeres. nam licet conditio deficiat. praetor tamen per 
+      <lb ed="#C" n="66"/>mittit bonorum pos. secund. tab. ff. debon. pos. secund tab. I. 
+      <lb ed="#C" n="67"/>§. 2. Tertius est, quando posthumus praeteritus nascitu 
+      <lb ed="#C" n="68"/>vivo testatore, &amp; sic decedit. quamvis enim testamentum 
+      <lb ed="#C" n="69"/>nimia subtilitate videatur ruptum, &amp; sic haeres dejurec 
+      <lb ed="#C" n="70"/>vili non possit succedere, praetor tamen concedit bon. po¬ 
+      <lb ed="#C" n="71"/>secuntab. si alias solenne fuerit testamentum. ff. de inju.ri 
+      <lb ed="#C" n="72"/>irri. test posthumus praeteritus. respon. 1. Quartus est, si filiusf¬ 
+      <lb ed="#C" n="73"/>praeteritus sit. nam si petat portionem suam, testamenti 
+      <lb ed="#C" n="74"/>ruptum videtur: si vero se abstineat, quamvis juris subti 
+      <lb ed="#C" n="75"/>sitas refragetur: tamen voluntas testatoris, &amp; exbono 8 
+      <lb ed="#C" n="76"/>aequo servabitur. Intelligas per bon. pos. secundum tab. s 
+      <lb ed="#C" n="77"/>de inju. rup. irri. test. filio praeterito. in his &amp; olim erat, &amp; hodi 
+      <lb ed="#C" n="78"/>est necelle secund leges petere bon. pos. secund. tab. Qui¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0475.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>si quis condat testamentum nuncupativum in praesenti¬ 
+      <lb ed="#C" n="80"/>7 testium, &amp; tabellio inde conficit instrumentum, in qui 
+      <lb ed="#C" n="81"/>duos tantum testes, vel tres apponit, nunquid probatu 
+      <lb ed="#C" n="82"/>testamentum per tale instrumentum? Azo, Job. Lanfra 
+      <lb ed="#C" n="83"/>Cre dixerunt, quod non, etiamsi nomina 7. restium inscri 
+      <lb ed="#C" n="84"/>pta fuerint, arg. C eod tit hac consultissima §. sin &amp; I. sin. C. de co 
+      <lb ed="#C" n="85"/>dic. sin. in fine. qui testam facere poss. hac consultissima. §. sed qui 
+      <lb ed="#C" n="86"/>tabulariorum testamentum enim nuncupativum nec pol 
+      <lb ed="#C" n="87"/>set probari per 3. vel 4. testes. ergo nec instrumentum te 
+      <lb ed="#C" n="88"/>tidem testes continens. argum. C. de fide instrum. in exerce 
+      <lb ed="#C" n="89"/>dis. supra de fide instrum, cum soan. §. porro supra de cle peretuae. 
+      <lb ed="#C" n="90"/>&amp; sicut de substantia solennis testamenti sunt 7. signacu 
+      <lb ed="#C" n="91"/>la, &amp; septem testes, ita de nuncupativo 7. testes: ergo si unum 
+      <lb ed="#C" n="92"/>de 7. testibus moriatur, non poterit probari de caeterot. 
+      <lb ed="#C" n="93"/>stamentum. arg. C. eod. si unus. Inst eod. §. fin. ideoque in Lon 
+      <lb ed="#C" n="94"/>bardia, ubi jura servantur, statim publicantur, secundun 
+      <lb ed="#C" n="95"/>formam no. supra de fid. instrum. §. de publicatione. Place.v. 
+      <lb ed="#C" n="96"/>ro &amp; Mar. dixerunt, quod bene potest probari per duo 
+      <lb ed="#C" n="97"/>testes, &amp; per instrumentum paedictum. arg. C. arbi. tu..sfi¬ 
+      <lb ed="#C" n="98"/>C. ad Velle. Se, con antiquae respon. I. C. de edict. divi Adri. tol. I. si 
+      <lb ed="#C" n="99"/>C. de don. in donatio ff. de proba. inonumenta. &amp; haec opinio ex 
+      <lb ed="#C" n="100"/>pressim, infra eod. relatum. &amp;c. cum omnes. hodie comprob¬ 
+      <lb ed="#C" n="101"/>tur, quamvis aliqui illas decr. aliter intelligant, ut no. Insi 
+      <lb ed="#C" n="102"/>eodem §. qualiter conficiatur. vers. fallit etiam in ecclesi. &amp; jung 
+      <lb ed="#C" n="103"/>quo no. supra de test § quoties numerus. Sed &amp; quandoque u 
+      <lb ed="#C" n="104"/>nus testis sufficit, &amp; duo, &amp; tres, vel quatuor, vel quinqu 
+      <lb ed="#C" n="105"/>etiam, secundum I quod dic, ut not. infra S qualner conficia 
+      <lb ed="#C" n="106"/>tur. vers. item quandoque unus testis, &amp; seq
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e715">
+               <lb ed="#C" n="107"/>Quis possit facere estamentum: Respondeo 
+      <lb ed="#C" n="108"/>is, qui potest donationem fa¬ 
+      <lb ed="#C" n="109"/>cere. quod dic, ut not. supra de donat §. quis possit. pater nan 
+      <lb ed="#C" n="110"/>que fam. potest facere testamentum, si major est 14. anno 
+      <lb ed="#C" n="111"/>non filiusfa. non servus, non surdus, qui nullo modo au 
+      <lb ed="#C" n="112"/>dit, &amp; mutus. nam si haec duo vitia concurrant natural 
+      <lb ed="#C" n="113"/>ter, testari non potest: secus, si literatus sit, &amp; ex accident 
+      <lb ed="#C" n="114"/>contingit: vel si surdus sit tantum, vel mutus. quod dic, u 
+      <lb ed="#C" n="115"/>C. qui test sac pos. furiosum &amp; Idiscretis. Insti. qui iest fac pos pe 
+      <lb ed="#C" n="116"/>totum. nec is qui propriis renunciavit, potest facere testa 
+      <lb ed="#C" n="117"/>mentum. infra eod. quia ingredientibus. 19. qu. 3. quia ingredienii 
+      <lb ed="#C" n="118"/>C. de sac. san. eccles. anth ingressi. Sed si filios habens ingredis 
+      <lb ed="#C" n="119"/>tur monasterium, nullo condito testamento, permittitu 
+      <lb ed="#C" n="120"/>ei postea bona dividere, ut auth. de sanc. episc. §. si qua mulie 
+      <lb ed="#C" n="121"/>C. ae sac ecc. auth si qua mulier. Idem puto, &amp; si filios non habea 
+      <lb ed="#C" n="122"/>quandoque ante professionem intra an. cum ad seculum reverti po 
+      <lb ed="#C" n="123"/>set, inf. de reg statumus. Quid de eremitis, &amp; solitariis, si non 
+      <lb ed="#C" n="124"/>renunciaverut propriis, nec se alicui ecclesiae tradiderunt, v 
+      <lb ed="#C" n="125"/>tam mutando testari poterunt. 19 qu. 3. 5. econtra Paulus. Et brev 
+      <lb ed="#C" n="126"/>ter, qui non prohibetur, testari potest. argu. f dehis, qui su 
+      <lb ed="#C" n="127"/>jur. sunt. I.i.ff. de procu. mutus. Potest autem filiusfam. facer 
+      <lb ed="#C" n="128"/>testamentum de castrensi peculio, &amp; quasi C. eod Iult. &amp; d 
+      <lb ed="#C" n="129"/>moffic. test. I. quod dic, ut not. supra tit. I. §. quot sint ejus specie 
+      <lb ed="#C" n="130"/>&amp; §. qui cle. &amp; se. Ergo clericus filiusfa. de omnibus his, qui 
+      <lb ed="#C" n="131"/>obvenerunt ei sive ex artificio, seu alio modo respecti 
+      <lb ed="#C" n="132"/>personae testari potest. infra eod. relatum §. licet. &amp; se. &amp; c.. 
+      <lb ed="#C" n="133"/>quisisti. de rebus eccle jure testamenti donari non potest: se¬ 
+      <lb ed="#C" n="134"/>causa eleemosynae potest. dic, ut not. supr. de do. §. &amp; quid. e 
+      <lb ed="#C" n="135"/>infra eod §. ult. 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="136"/>ADDITIONES 
+      <lb ed="#C" n="137"/>f Quot testes requiruntur] Adde gloss. instit. eod. iit. Cyn in l.I. i 
+      <lb ed="#C" n="138"/>12. q. C. de sac. sanc. eccl. tex. &amp; ibi Doct. in cap. cum esses, de test. Spo¬ 
+      <lb ed="#C" n="139"/>in tit. de instr. edit. in §. compendiosa. vers. ita per ius odnonicun 
+      <lb ed="#C" n="140"/>g Quis possit facere testamentum] Adde Doct. in ead. rubric. &amp; 
+      <lb ed="#C" n="141"/>per Phil. Fran. in repet. rubr. eod. tit. lib. 
+      <lb ed="#C" n="142"/>h Plures multo sunt, quitestamenta facere possint, quam al 
+    </p>
+    <p>
+      <lb ed="#C" n="143"/>Hostiens. recemdantur, quos ex Martini summa huc transtu 
+      <lb ed="#C" n="144"/>limus. Testamentum enim potest facere episcopus, idque d¬ 
+      <lb ed="#C" n="145"/>rebus quas ante adeptum, episcopatum acquisierat &amp; eas 
+      <lb ed="#C" n="146"/>cui voluerit, relinquere potest: nisi ecclesiam laeserit, quia o 
+      <lb ed="#C" n="147"/>mne damnum ecclesiae de rebus hujus resarciri debet, praela 
+      <lb ed="#C" n="148"/>tus non potest testari de immobilibus ecelesiae suae: quia d 
+      <lb ed="#C" n="149"/>mobilibus potest esse ei compos. Sed nec religiosus testar 
+      <lb ed="#C" n="150"/>totest, licet post annum professionis non assumpserit habi 
+      <lb ed="#C" n="151"/>tum professorum, eodem titulo illud de regulari. ex paris 
+      <lb ed="#C" n="152"/>quia, cum se &amp; sua Deo dedicaverit, de his testari non potest 
+      <lb ed="#C" n="153"/>C. de sacrosanct. eccles. authentic. ingressi. &amp; in authentic. de mo 
+      <lb ed="#C" n="154"/>nach. §. illud. Sed si filios habens monasterium ingre 
+      <!-\-Henricus_a_Segusio_cardinalis_Hostiensis-0476.xml-\->
+      <pb ed="#C" n="0476"/>
+      <cb ed="#C" n="a"/>
+      <lb ed="#C" n="1"/>diatur, nullo condito testamento permittitur dividere inter eo 
+      <lb ed="#C" n="2"/>ut in auth. de sanct. episc §. si qua mulier. &amp; 20. quaest. 3. ea de ingre 
+      <lb ed="#C" n="3"/>dientibus, &amp;c. si qua multer. eremitae, &amp; alii solitariam vitan 
+      <lb ed="#C" n="4"/>fagentes, quia nulli qui ecclesiae se tradiderunt, testari pos 
+      <lb ed="#C" n="5"/>sunt, 29. quaest. 3. S. econtrario. Pater etiam pro filio impuber 
+      <lb ed="#C" n="6"/>potest facere testamentum, dummodo sibi etiam fecerit: a 
+      <lb ed="#C" n="7"/>lias secus. ut Institas. de pupil. substitut igitur. &amp; §. liberis. &amp; ff. a 
+      <lb ed="#C" n="8"/>inoffis. test l. Papinianus. §. sed nec impuberis. &amp; argum. extrad 
+      <lb ed="#C" n="9"/>sepul. in nostra-->
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e782">
+               <lb ed="#C" n="10"/>Qualiter constituatur, Hic disting utrum 
+      <lb ed="#C" n="11"/>quis velit facere  
+      nun<lb ed="#C" n="12" break="no"/>cupativum testamentum, id est sine solennitate, seu sin 
+      <lb ed="#C" n="13"/>scriptis: ubi sufficiunt 7. testes legitimi, secundum lege 
+      <lb ed="#C" n="14"/>sine alia solennitate. Instic. eod. tit §. ulti. C. eod. hac consultiss 
+      <lb ed="#C" n="15"/>ma. §. per nuncupationem. dummodo praesentes fuerint? 
+      <lb ed="#C" n="16"/>rogati f. eod haeredes, §. pen in auth. de test §. &amp; licet. C. de test. ai 
+      <lb ed="#C" n="17"/>thent. rogiti. Sed &amp; necesse est, quod uno contextu fiat, i¬ 
+      <lb ed="#C" n="18"/>est, nullo actu contrario intermixto: quod qualiter ir 
+      <lb ed="#C" n="19"/>telligatur, not. infra eod. vers. non nocet. Vel velit solennite 
+      <lb ed="#C" n="20"/>testari, &amp; tunc necesse est, quod in scriptis redigatur, &amp; 
+      <lb ed="#C" n="21"/>quod nomine haeredis, &amp; dignitates scribantur: vel pe 
+      <lb ed="#C" n="22"/>testatorem, vel per alium vice sua, ut C. eo. jubemus. sed ho 
+      <lb ed="#C" n="23"/>die valet, &amp; si non scribat haec nomina, alias tamen prisc 
+      <lb ed="#C" n="24"/>consuetudine observata: ut in auth. ut sponsalitia largitas, 
+      <lb ed="#C" n="25"/>qui pero ante hanc legem, col o. Et est tripartite collectu: nan 
+      <lb ed="#C" n="26"/>quod testes uno contextu interveniant, &amp; in eorum pra 
+      <lb ed="#C" n="27"/>ientia fiat, de jure civili descendit, quod testator &amp; teste 
+      <lb ed="#C" n="28"/>subscribant: vel alius pro eis ex sacris constitutionibus 
+      <lb ed="#C" n="29"/>quod 7. sint numero, &amp; 7. signacula apponantur ex edict 
+      <lb ed="#C" n="30"/>praetoris. Instit eod §. sed cum paulatim. Non nocet autem, 
+      <lb ed="#C" n="31"/>testator vel testis naturalis ponderis depositione interv 
+      <lb ed="#C" n="32"/>niente, exierit vel brevis languor, vel datio medicinae, qui¬ 
+      <lb ed="#C" n="33"/>nihilominus uno contextu intelligitur factum. C. eod. cur 
+      <lb ed="#C" n="34"/>antiquitas ff.eod. haeredes. §. fin. Et tabellio in numero testiur 
+      <lb ed="#C" n="35"/>computatur. ff. eod Domit. Labeo. &amp; in terris, ubi tabellio n 
+      <lb ed="#C" n="36"/>invenitur, octavus testis, computato testatore secundu 
+      <lb ed="#C" n="37"/>quosdam, loco tabellionis adhibetur. per quod probatur 
+      <lb ed="#C" n="38"/>quod tabellio aequipollet uni testi, non pluribus. C. qui te 
+      <lb ed="#C" n="39"/>sac poss. hac consultissimâ. §. ulti. decretalis tamen vult, quo 
+      <lb ed="#C" n="40"/>duo adhibeantur loco tabellionis, supra de probat. quonia 
+      <lb ed="#C" n="41"/>contra falsam. &amp; sic puto dictam legem, hac consultissim: 
+      <lb ed="#C" n="42"/>intelligendam esse. Sed &amp; si testator nolit, quod testes ve 
+      <lb ed="#C" n="43"/>lantatem suam sciant, potest chartam testamenti clausan 
+      <lb ed="#C" n="44"/>repraesentare testi. &amp; dicere. Hoc est testamentum meum 
+      <lb ed="#C" n="45"/>rogo, ut subscribatis, &amp; si ipse vel alius pro eo cum ipsi 
+      <lb ed="#C" n="46"/>subscribentibus subscripserit, valebit. C. eod hac consultis 
+      <lb ed="#C" n="47"/>ina. Quid si manu propria scripserit, &amp; hoc deposuerit i 
+      <lb ed="#C" n="48"/>scriptura, quod manu sua confecit: non requiritur alia sul 
+      <lb ed="#C" n="49"/>scriptio. C. eod cum antiquitas. §. si. Fallit haec solennitas: qui¬ 
+      <lb ed="#C" n="50"/>quandoque valet testamentum, etiamsi nullus testis inter 
+      <lb ed="#C" n="51"/>veniat: ut si miles in bello moritur. &amp; cum sanguine rut 
+      <lb ed="#C" n="52"/>lanti in clypeo scribat, prout potest, dummodo de volur 
+      <lb ed="#C" n="53"/>tate appareat per scripturam. C. de mil. test. militel. &amp; si int 
+      <lb ed="#C" n="54"/>torio suo testetur. non exigitur tanta solennitas. F demi 
+      <lb ed="#C" n="55"/>test. Laciu quod dic, ut plene no, sup. eo. § quot sini species, su 
+      <lb ed="#C" n="56"/>§. aestamentum militare. Itam quandoque unus testis suffici 
+      <lb ed="#C" n="57"/>ut si coram Imperatore fiat. C.eod omnium. Quandoque duo 
+      <lb ed="#C" n="58"/>sc. inter filios. C. eod hac consultissima. §. ex imperfecto. &amp; auil 
+      <lb ed="#C" n="59"/>inter liberos. nam &amp; si testamentum, vel codicilli comple¬ 
+      <lb ed="#C" n="60"/>non sint, quocunque tamen modo voluntas declaretur, sei 
+      <lb ed="#C" n="61"/>vabitur inter liberos, non ut testamentum; sed ut ultim 
+      <lb ed="#C" n="62"/>voluntas: sed quo ad personas extraneas, nulla habetu 
+      <lb ed="#C" n="63"/>huju smodi dispositio imperfecta. C. fa erc. I. sin &amp; sup.d. l ha 
+      <lb ed="#C" n="64"/>consultisima §. ex imperfecto. Hodie tamen videtur, quod 
+      <lb ed="#C" n="65"/>tademum teneat inter liberos imperfectum testamenti 
+      <lb ed="#C" n="66"/>si subjiciatur subscriptio ipsius parentis, vel omnium lib 
+      <lb ed="#C" n="67"/>rorum, inter quos fit divisio. sed &amp; sine subscriptionet. 
+      <lb ed="#C" n="68"/>nebit, si parens literatus manu propria, non signis, sed i 
+      <lb ed="#C" n="69"/>terarum consequentia tempus, &amp; liberorum nomina de 
+      <lb ed="#C" n="70"/>claraverit, &amp; unciarum numerum, seu signa specialium 
+      <lb ed="#C" n="71"/>tum, dum tamen coram testibus idipsum, quod scribit, e 
+      <lb ed="#C" n="72"/>primat, expressim primam revocet voluntatem. ff. de leg. 
+      <lb ed="#C" n="73"/>fidaus, in prin. test ff dedo. inter vit. &amp; uxo, cum hic. §. z. debo po 
+      <lb ed="#C" n="74"/>secundum tab. I pen. § fin. supt. de rescr. caeterum. &amp;c. cum dilect. 
+      <lb ed="#C" n="75"/>licet videa: ar hoc speciale in militis testamento. ff. de test 
+      <lb ed="#C" n="76"/>mil quaerebatur. &amp; potest in tali scriptura legatum &amp; liber. 
+      <lb ed="#C" n="77"/>tas relinqui etiam extraneis personis: ut omnia haec pro 
+      <lb ed="#C" n="78"/>bantur in auth. de test. imperf. respona. &amp; §. saepe col S. &amp; detrie¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0476.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>&amp; semis § saepe col 3. dominus tamen meus hoc intellexit in 
+      <lb ed="#C" n="80"/>testamento, quod fit solenniter, &amp; in scriptis. nam in nun 
+      <lb ed="#C" n="81"/>cupativo quaecunque verba sufficiunt, ut dicunt leges an 
+      <lb ed="#C" n="82"/>tiquae superius allegatae &amp; de hoc no. inf. eod. §. qualiter con 
+      <lb ed="#C" n="83"/>firmetur. vers. quid ergo si quis &amp; seq. Quandoque tres, vel qua 
+      <lb ed="#C" n="84"/>tuor, vel pauciores, secundum diversas consuetudines &amp; 
+      <lb ed="#C" n="85"/>I municipales, vel alia privilegia principis. C. eod si non spe 
+      <lb ed="#C" n="86"/>tiali. Quandoque quinque, ut in testamento rusticorum. C 
+      <lb ed="#C" n="87"/>eod. I. ult. Fallit etiam in ecclesia; secundum Da. &amp; T. quia s 
+      <lb ed="#C" n="88"/>relinquatur ad pias causas, duo testes vel tres sufficiunt 
+      <lb ed="#C" n="89"/>inf. eod. cum esses. &amp; c. relatum. Sed contra: quia in ecclesia 8 
+      <lb ed="#C" n="90"/>Imperatore jus commune attenditur. C.de sac. san. ecclesgi 
+      <lb ed="#C" n="91"/>nerali ibi, communi jure. alias, omni jure. &amp; qui test, sac post 
+      <lb ed="#C" n="92"/>si quis Imperatorem. &amp; de test. ex inperfecto. &amp; si solennitas, ve 
+      <lb ed="#C" n="93"/>veritas desiit, nec fideicommissum debetur. C eo non dubium 
+      <lb ed="#C" n="94"/>C de fideicom. si veritas. &amp; l,ex iestamento nisi ubi haeres ipsum 
+      <lb ed="#C" n="95"/>ab initio perfide negans, postea confitetur, sed dicvolun 
+      <lb ed="#C" n="96"/>tatem minus solennem, &amp; ideo non valere, in quo casu fi 
+      <lb ed="#C" n="97"/>deicommissario prius de cal. jurante defertur ipsi haered 
+      <lb ed="#C" n="98"/>juramentum, quod juret se nihil tale a testatore audivisse 
+      <lb ed="#C" n="99"/>aut eo recusante satisfacere cogitur. C. de fideitc. I. sin. Instit d 
+      <lb ed="#C" n="100"/>fidei. libe. §. in secundum Bul. &amp; Az0. si vero ab initio confi 
+      <lb ed="#C" n="101"/>teatur fide commissum, sed dicit non valere testamenti 
+      <lb ed="#C" n="102"/>cogitur solvere, nisi scienter voluntatem defuncti appro 
+      <lb ed="#C" n="103"/>baverit: ut dicunt leges superiores. argu. ad hoc in auth. d 
+      <lb ed="#C" n="104"/>trien. &amp; semis. §. dubium &amp; seq col. 3. Alii autem dicunt, quo 
+      <lb ed="#C" n="105"/>de voluntate minus solenni debetur fideicommissum, et 
+      <lb ed="#C" n="106"/>jam si ab initio hoc haeres confiteatur, ut expressius pro 
+      <lb ed="#C" n="107"/>batur in d.l. Instit. de fideicom. haer. in in. &amp; si qua sunt jura ex 
+      <lb ed="#C" n="108"/>pressim contradicentia, vel possunt intelligi, quando hae 
+      <lb ed="#C" n="109"/>res negat ab initio, &amp; juramentum sibi delatum praestal 
+      <lb ed="#C" n="110"/>vel quando non defertur, nec per testes convincitur, ve 
+      <lb ed="#C" n="111"/>corriguntur. Verum super hac materia sic potest disting 
+      <lb ed="#C" n="112"/>cum quaeritur. utrum voluntas testatoris minus solennis 
+      <lb ed="#C" n="113"/>puta quia testes deficiunt, sit adimplenda vel tenenda, re 
+      <lb ed="#C" n="114"/>fert utrum agatur in foro ecclesiastico; &amp; inter persona 
+      <lb ed="#C" n="115"/>ecclesiasticas, &amp; tunc duo vel tres testes sufficiunt. inf. eoc 
+      <lb ed="#C" n="116"/>cum esses. quia scriptura exigitur. C.de sac. san. ecclesia general 
+      <lb ed="#C" n="117"/>in fin. Vel in foro seculari. &amp; inter seculares: &amp; tunc Judes 
+      <lb ed="#C" n="118"/>secularis secund. legem suam judicabit illos. arg. &amp;. dist. duo Jum 
+      <lb ed="#C" n="119"/>&amp;c. si Imperator. inauih. quomodo opori. Episc. in prim. col.i. Au 
+      <lb ed="#C" n="120"/>agitur in foro ecclesiastico, &amp; inter personas seculares: 8 
+      <lb ed="#C" n="121"/>tunc si seculares sint, de temporali jurisdictione ecclesia 
+      <lb ed="#C" n="122"/>secundum cano. judicabuntur. supr. de foro comp. quod cleri 
+      <lb ed="#C" n="123"/>cus. &amp; argum. de elect. cum ecclesia Vulterana ad fin C. cominuni. 
+      <lb ed="#C" n="124"/>praed. uro, fund inf qui fil. sint leg per venerabilem respon. 1 ad fin 
+      <lb ed="#C" n="125"/>in illo vers. id autem, quod intelligas etiam si laici subjece 
+      <lb ed="#C" n="126"/>rint se prorogando jurisdictionem episcopi in se, sicut d¬ 
+      <lb ed="#C" n="127"/>hac prorogatione no sup. de offic. deleg. §. quib. modiv. nam tun 
+      <lb ed="#C" n="128"/>perinde est, ac si ordinarie cognosceret. ff de jud. l. &amp; 2 sup 
+      <lb ed="#C" n="129"/>de offit. deleg. P. &amp; G. quod intelligas, nisi dictum esset a par 
+      <lb ed="#C" n="130"/>tibus, quod secundum legem humanam volebant judi 
+      <lb ed="#C" n="131"/>cari. arg. supr. de eo qui mit. in pos. cau. rei ser.c. pen. responi &amp; 
+      <lb ed="#C" n="132"/>sin. ff. de rejud si convenerit. Si vero Judex ecclesiasticus e 
+      <lb ed="#C" n="133"/>delegatione alicujus principis forsan cognosceret in ci 
+      <lb ed="#C" n="134"/>vilibus, quia nec de aliis se debet intromittere, nisi poenan 
+      <lb ed="#C" n="135"/>sanguinis temperaret. insra de rapin. in archiepiscopatu, tun 
+      <lb ed="#C" n="136"/>secud. leg. humanam judicatum erat: quia delegatus pro 
+      <lb ed="#C" n="137"/>prium nihil habet; sed jurisdictione tantum utitur dele 
+      <lb ed="#C" n="138"/>gata f. de offi. ejus cui man. est jur. l.i. ad fi. unde &amp; eadem rati¬ 
+      <lb ed="#C" n="139"/>debet eum movere, quae &amp; delegantem moveret. suprad 
+      <lb ed="#C" n="140"/>rescri super lueris. in fin. Quod si in foro civili inter tlericun 
+      <lb ed="#C" n="141"/>agentem &amp; laicum reum sit quaestio; quia forum rei sequi 
+      <lb ed="#C" n="142"/>tur actor. sup. de fo comp. cum sit generale judicabitur secund 
+      <lb ed="#C" n="143"/>Ihumanam. excipe relicta ecclesiis, vel alias ad pias cau 
+      <lb ed="#C" n="144"/>sas, in quibus in utroque foro duo testes sufficere debeni 
+      <lb ed="#C" n="145"/>inf. eod. relatum. haec enim sunt ecclesiastica, in quibus can 
+      <lb ed="#C" n="146"/>possunt leges corrigere. ut in auth quomodo opor Episresp. I 
+      <lb ed="#C" n="147"/>tol.i&amp; utcic. apud pro Epi, conveni. §. si vero ecclesasticum. col. ¬ 
+      <lb ed="#C" n="148"/>inf de sec. nup. c. i. Jo. tamen scribit, quod leges nimiam sub 
+      <lb ed="#C" n="149"/>tilitatem sequentes in hac parte corriguntur: quia secun 
+      <lb ed="#C" n="150"/>I. divinam &amp; cano. In ore duorum vel trium testium, a sc 
+      <lb ed="#C" n="151"/>honestorum, &amp; fide dignorum, stat omne verbum: non 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="152"/>ADDITIO. 
+      <lb ed="#C" n="153"/>a In ore duorum vel ium testium] Adde cap. ab isto die. 35. qu. 6. c. lice 
+    </p>
+    <p>
+      <lb ed="#C" n="154"/>de test. cap. norit. de ind. originaliuor. Den. 19. Mat 18. &amp; 2. ad Cer. 13.--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0477.xml-->
+      <pb ed="#C" n="460"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>obstante lege, vel consuetudine contraria, ut infra eod, cun 
+      <lb ed="#C" n="2"/>esses. &amp; c. relatum. nam ex quo municipes possunt in ha 
+      <lb ed="#C" n="3"/>parte austeritatem legum &amp; subtilitatem nimiam modi 
+      <lb ed="#C" n="4"/>rari. ut C. eod. si non speciali. multo fortius Papa. &amp; hoc sati 
+      <lb ed="#C" n="5"/>innuit lex C. defideico. I. sin. ibi, lex etenim, nequid falsitati 
+      <lb ed="#C" n="6"/>incurrat per duos forte testes, compositum majorem nu 
+      <lb ed="#C" n="7"/>merum postulat. ad idem. C. eod. tit. I. qubemus circa princip 
+      <lb ed="#C" n="8"/>ergo videtur loqui in suspectis, sed ex quo de veritate co 
+      <lb ed="#C" n="9"/>stat, debet cessare subtilitas. ut ibi. &amp; Institut. de fideic. haere. 
+      <lb ed="#C" n="10"/>§. sinal. ut patet in his quae not. supra eod. vers. alii autem d 
+      <lb ed="#C" n="11"/>cunt. nam &amp; secun leg. antiquam in casu sufficiunt teste 
+      <lb ed="#C" n="12"/>ubi etiam de falsitate timeri potest, ut patet in his quae no 
+      <lb ed="#C" n="13"/>supra tod §. quot sint species. sub §. restamentum. versic. sm auten 
+      <lb ed="#C" n="14"/>in expeditione. quod intelligi debet, quando no sunt suspe 
+      <lb ed="#C" n="15"/>cti, sed omni except. majores. sic &amp; secund. cano 70 teste 
+      <lb ed="#C" n="16"/>requiruntur in depositione Episcopi, Cardinalis 60. cor 
+      <lb ed="#C" n="17"/>tra presbyterum. 28. contra diaconum. 7. contra subdi¬ 
+      <lb ed="#C" n="18"/>conum: quod intelligi debet de suspectis, alias duo vel tre 
+      <lb ed="#C" n="19"/>sufficiuntbonae vitae: de quorum scil assertione nulli du 
+      <lb ed="#C" n="20"/>bium nasci possit. ut 2.4. 4 praeful. &amp;c nullam &amp; §. ibi seq qu 
+      <lb ed="#C" n="21"/>incip. sed haec vel speciali privilegio. tales ergo subtilit: 
+      <lb ed="#C" n="22"/>tes merito recusabit Judex etiam secularis fi quib. mod. pij 
+      <lb ed="#C" n="23"/>vel hypoth. sol. sicut re. cor. §. antep. C. ut ac. ab haere. &amp; con. haer. 
+      <lb ed="#C" n="24"/>unica. in fin. C. ad Treb. sancimus. in talibus enim subtilitat 
+      <lb ed="#C" n="25"/>juris est humanitatis veritas praeferenda. de lib &amp; posthu 
+      <lb ed="#C" n="26"/>ita scriptum sic. respon. 1. ad sin. &amp; hoc verum est, si de veritat 
+      <lb ed="#C" n="27"/>constet tempore congruo. quod dicut no. supr. de sent. &amp; 
+      <lb ed="#C" n="28"/>jud subru. de senten. §. quid haec dicatur. subo sed nunquid est ho 
+      <lb ed="#C" n="29"/>simpliciter verum. &amp; ver. se. Non refert quantum ad perfectio 
+      <lb ed="#C" n="30"/>nem testamenti, utrum dicam, Petrum haeredem instituc 
+      <lb ed="#C" n="31"/>velvoluntatem meam ejus depositioni committo, quia ta 
+      <lb ed="#C" n="32"/>lis non videtur decedere intestatus, infra eo, cum tibi, quo 
+      <lb ed="#C" n="33"/>multi intelligunt in relictis ad pias causas: sed potest in 
+      <lb ed="#C" n="34"/>telligi generaliter, si tamen testator solenniter non test¬ 
+      <lb ed="#C" n="35"/>batur, ut arg. C. eod. in testamentis. &amp; qui allegabit testatoren 
+      <lb ed="#C" n="36"/>voluisse solenniter testari hoc probet: ut ibi, nec enim cre 
+      <lb ed="#C" n="37"/>dendum est, quod aliquod genus testandi eligat ad jud 
+      <lb ed="#C" n="38"/>cia impugnanda. ut C. de test. mil si miles. Posset etiam intel 
+      <lb ed="#C" n="39"/>ligi secundum I. ff.dehaere inst. Cornelius &amp; Maevius. Sed ine 
+      <lb ed="#C" n="40"/>lius est, quod simpliciter intelligatur, ex quo simplicite 
+      <lb ed="#C" n="41"/>testatur: quia si quis in revel portione certa haeres inst 
+      <lb ed="#C" n="42"/>tuatur, detoto patrimonio sensisse videtur, si de ipso ali 
+      <lb ed="#C" n="43"/>ter non disponat. f. de haer. inst. si quis ita scripserit. C. de haere 
+      <lb ed="#C" n="44"/>inst. I. quoties. quinimo in tali casu etiam imperfecta orati 
+      <lb ed="#C" n="45"/>haeredem facit: ut si dicat, Titius haeres, vel Titius esto 
+      <lb ed="#C" n="46"/>vel secundum quod quidam intelligere volunt, sufficit,s 
+      <lb ed="#C" n="47"/>dicat Titius ff de haer. inst. l. I. C. eod. errore. sed error nomini 
+      <lb ed="#C" n="48"/>non nocet. ex quo de voluntate constat. ut C. de haer. instit. 
+      <lb ed="#C" n="49"/>alt. ff. eod. quoties. multo fortius ergo valet, ex quo consta 
+      <lb ed="#C" n="50"/>de persona, per quaecunque verba relictum sit. arg. supr.ad 
+      <lb ed="#C" n="51"/>rescri significante. &amp;c. Rodulphus ergo qui haeredem institu 
+      <lb ed="#C" n="52"/>it, dispositioni suaebona sua relinquit. &amp; econtra: nec est cu 
+      <lb ed="#C" n="53"/>randum de bonis testatorum: quia plerunque abusive lo 
+      <lb ed="#C" n="54"/>quuntur. C. de testi. I.ulti ff. de leg. 3. non aliter. &amp; junge quo 
+      <lb ed="#C" n="55"/>no. inf. eo. §. quis sit effectus sub S. quibus autem verbis, versic. se¬ 
+      <lb ed="#C" n="56"/>&amp; per verba directa &amp; seque nec obst f. dehaer insti. illa institi 
+      <lb ed="#C" n="57"/>tio. quia intelligitur quando in fraudem sit, vel loquitur 
+      <lb ed="#C" n="58"/>quando per talia verba non intelligebat haeredem institu 
+      <lb ed="#C" n="59"/>ere: nec enim reprobatur illa, quae mutuo affectu judicii 
+      <lb ed="#C" n="60"/>provocaret. ff. dehaer. inst. captatorias &amp; l. seq. &amp; si quod ju 
+      <lb ed="#C" n="61"/>contrarium invenitur, ipsum intelligas, quando testato 
+      <lb ed="#C" n="62"/>dixit, quod solenniter testari volebat. Bonus tamen Jude: 
+      <lb ed="#C" n="63"/>inspectis personis, utrum instituti sint conjuncti, vel extr, 
+      <lb ed="#C" n="64"/>nei: utrum testantes literati, vel simplices: utrum in art 
+      <lb ed="#C" n="65"/>culo constituti vel spacium testandi habuerint de facil 
+      <lb ed="#C" n="66"/>poterit terminare. haec enim omnia debet habere in men 
+      <lb ed="#C" n="67"/>te supra de transact.c. uli
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e1251">
+               <lb ed="#C" n="68"/>Qualiter confirmetur. Permortem testatoris, ni 
+      <lb ed="#C" n="69"/>aliud intervenerit: ut patet in his quae no 
+      <lb ed="#C" n="70"/>infra eod. §. seq unde Apostolus: Testamentum in mori 
+      <lb ed="#C" n="71"/>confirmatur. infra deceleb. mis. cum Marthae §. tertum. sed un 
+      <lb ed="#C" n="72"/>te mortem quandocunque mutari potest, etiamsi pacte 
+      <lb ed="#C" n="73"/>conve: ne mutetur. C. de pact. pactum quod dotali. &amp; etiam 
+      <lb ed="#C" n="74"/>testamentum fuerit per principem confirmatum. C. deti 
+      <lb ed="#C" n="75"/>stam omnium: nam voluntas testatoris, &amp; si post morten 
+      <lb ed="#C" n="76"/>expiret; quia iterum liberum non reddit arbitrium. C. d 
+      <lb ed="#C" n="77"/>sacr. sanct. eccles. I.1. tamen usque ad mortem sive vitae ex¬ 
+      <lb ed="#C" n="78"/>tum ambulatoria est, f. de adimend. leg la  de domation, mie 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0477.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>vir &amp; uxor. cum hic status. §. praesentium C. de cod l 3. Quid er 
+      <lb ed="#C" n="80"/>go, si quis fecit testamentum suum, in quo plura legata re 
+      <lb ed="#C" n="81"/>liquit, inter quae uxori suae centum legavit, demum coran 
+      <lb ed="#C" n="82"/>duobus testibus ita dixit. Centum quae in testamento me¬ 
+      <lb ed="#C" n="83"/>uxori meae legaveram, ipsam habere nolo, nunquid uxo 
+      <lb ed="#C" n="84"/>possit legatum petere? videtur quod sic. nam ex quo te 
+      <lb ed="#C" n="85"/>stamentum valet; nec revocatum est, legata in ipso prae 
+      <lb ed="#C" n="86"/>stita valere debent. argum. ff deregul. jur, cum prmcipalis 
+      <lb ed="#C" n="87"/>maxime quia ipso etiam deficiente, legata plerunque sol 
+      <lb ed="#C" n="88"/>venda sunt, sive sit unicum, vel primum, sive secundum.( 
+      <lb ed="#C" n="89"/>de liber. praeterit. vel exhaered. authent. ex causa. ff. de haered. insi 
+      <lb ed="#C" n="90"/>l. sin. ff. de his quae in testam. delend. proxi. nec enim primun 
+      <lb ed="#C" n="91"/>testamentum rumpitur per secundum, nisi perfectum sit 
+      <lb ed="#C" n="92"/>f. de inju. rup irrit testam. l. 2. vel nisi forte in primo institu 
+      <lb ed="#C" n="93"/>ti sint extranei, in secundo sui, qui ab intestato succederemt 
+      <lb ed="#C" n="94"/>ut ibidem dicit. in quo quidem casu, non quasi testamen 
+      <lb ed="#C" n="95"/>tum, sed quasi voluntas intestati servetur: sed quinqu 
+      <lb ed="#C" n="96"/>testes exiguntur. C. eodem, hac consultissima. § sinal. quinim 
+      <lb ed="#C" n="97"/>lex expressa videtur, quod non valeat ademptio, etian 
+      <lb ed="#C" n="98"/>quo ad legata: nec admittatur post mortem probatio 
+      <lb ed="#C" n="99"/>nisi ademptio solenniter facta fuerit sub testimonio 7. te 
+      <lb ed="#C" n="100"/>stium fide dignorum. ut in authentic. detest. imperfect. § si re 
+      <lb ed="#C" n="101"/>ro etiam rerum. &amp; §. &amp; siquidem. usque ad mortem col. S. nec 
+      <lb ed="#C" n="102"/>enim ex eo solo, quod dicit testator primum testamen 
+      <lb ed="#C" n="103"/>tum valere nolle, intelligitur revocatum. ut Institut quibu 
+      <lb ed="#C" n="104"/>modis testam. infirm. §. ex eo autem solo. ut &amp; notatur infra co¬ 
+      <lb ed="#C" n="105"/>§. qualiter infirmetur. versicul. item per posterius. Sed contra 
+      <lb ed="#C" n="106"/>quia ambulatoria est voluntas, ut no supra eodem, § respo 1 
+      <lb ed="#C" n="107"/>&amp; ideo tenet revocatio facta. f. de leg 3. si quis. in princ testa 
+      <lb ed="#C" n="108"/>menti legata etiam nuda voluntate, vel etiam tacito tol 
+      <lb ed="#C" n="109"/>luntur, &amp; adimi possunt ff. de adimend. red transferend. leg 
+      <lb ed="#C" n="110"/>3§ sin. ff de auro &amp; argent lega. l. 2. &amp; 3 F. de leg. 3. item ligato s 
+      <lb ed="#C" n="111"/>penulti. &amp; in legatione novissima ademptio est spectanda 
+      <lb ed="#C" n="112"/>nec videtur datum, quod ademptum est. C. de fidei clari f.¬ 
+      <lb ed="#C" n="113"/>leg 1. si mihi &amp; tibi. alias incipit, si quis servos. §. in lig. &amp; l. 
+      <lb ed="#C" n="114"/>ita sit scriptum. legatum etiam in testamento relictum in 
+      <lb ed="#C" n="115"/>codicillis seque minui potest f. de lib. lega. Aurelius §. testamn 
+      <lb ed="#C" n="116"/>to ita scripserat. vel adimi. ff. de admi vel transfer. leg. I penu 
+      <lb ed="#C" n="117"/>§. matri. &amp; l. alumnae. §. qui filias. &amp; l.libertus. &amp; l. legatum. § 
+      <lb ed="#C" n="118"/>pater hortos. &amp; I.cum centum. &amp; expressim argum. ff. dejui 
+      <lb ed="#C" n="119"/>codi. dirus. § licet C. de cod. cum proponatis. sed &amp; primum te 
+      <lb ed="#C" n="120"/>stamentum in partem vel in totum cancellari potest, &amp; 
+      <lb ed="#C" n="121"/>cancellatis tantum ademptis alia firma remanent. ff deh¬ 
+      <lb ed="#C" n="122"/>quae intestam. delen. cancellaverit. Solutio. potest dici, quo 
+      <lb ed="#C" n="123"/>testamentum fuit nuncupatum, valet ademptio. ut infr¬ 
+      <lb ed="#C" n="124"/>eodem, relatum. &amp;c. cum esses. &amp; in hoc casu possunt intelli 
+      <lb ed="#C" n="125"/>gi omnia jura proxi. inducta ab illo vers. sed contra usqu 
+      <lb ed="#C" n="126"/>hic, quod in scriptis &amp; solenniter testamentum propri 
+      <lb ed="#C" n="127"/>manu scribenda fecisset, non tollerentur legata; nisi 8 
+      <lb ed="#C" n="128"/>consimilibus solennitas adhibita esset, ut in authemr. de test 
+      <lb ed="#C" n="129"/>impe §. 1. &amp; § siquidem, collat. 8. argum infra de reg jur. omn 
+      <lb ed="#C" n="130"/>res &amp; f. de reg jur. nihil tam naturale est sed secundum Jo. in 
+      <lb ed="#C" n="131"/>dist. valet ademptio, ut patet in his quae notantur infra cod 
+      <lb ed="#C" n="132"/>§. qualiter infirmetur. supra eodem, § proxi. fallit etiam in ec¬ 
+      <lb ed="#C" n="133"/>clesi. &amp; seq. Sed &amp; primum testamentum per secundum 
+      <lb ed="#C" n="134"/>in quo exprimitur, quod primum valeat, dicitur confir¬ 
+      <lb ed="#C" n="135"/>mari. Instit. quib. mod. test infirm. §. sed &amp; si quis proprie f. de rest 
+      <lb ed="#C" n="136"/>mili. Titius 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e1407">
+               <lb ed="#C" n="137"/>Qualiter infirmetur.* sinon est legitime factum,i 
+      <lb ed="#C" n="138"/>nec infirmari potest. quia nec firmatum 
+      <lb ed="#C" n="139"/>est. C. eodem, si unus. &amp; l. ex imperfecto super quo vide quo 
+      <lb ed="#C" n="140"/>nota supra eodem, §. qualiter conficiatur. versic. fallit &amp; in eccle 
+      <lb ed="#C" n="141"/>&amp; sequen. §. qualiter confirmetur. versic. quid ergo, si quis 
+      <lb ed="#C" n="142"/>fecit testamentum: sed &amp; si legitime factum sit durat: 8 
+      <lb ed="#C" n="143"/>semper nisi infirmetur. Institut. quib. modis testam. infirm in 
+      <lb ed="#C" n="144"/>print. Infirmatur tamen, sive irritatur, maxima, vel media 
+      <lb ed="#C" n="145"/>capitis dimin. sed &amp; minima: ut si testator post testamen 
+      <lb ed="#C" n="146"/>tum arrogetur. si tamen testator iterum fiat civis Roma 
+      <lb ed="#C" n="147"/>vel sui juris. &amp; codicillis vel allis literis primam voluntati 
+      <lb ed="#C" n="148"/>confirmaverit, judicio recenti rediisse aestimatur, &amp; habei 
+      <lb ed="#C" n="149"/>haeres scriptus bonorum poss. secundum tab. de jure prae¬ 
+      <lb ed="#C" n="150"/>torio. ff. de bonorum posse ssion. secundum tabul. qui ex literis. §. 
+      <lb ed="#C" n="151"/>I. Institut. quibus modis testamentum infirmetur. §. alio. &amp; §. no¬ 
+      <lb ed="#C" n="152"/>tamen. quid autem sit capitis diminutio, dic ut nota sup 
+      <lb ed="#C" n="153"/>depign. sub S. cum constet. &amp; §. &amp; qualiter amittatur. Item In 
+      <lb ed="#C" n="154"/>firmatur agnatione posthumi. C. deposthum. I.i.ff. de injust 
+      <lb ed="#C" n="155"/>rupt. irrit. testam. l.i.in fin. &amp; l.z. in princ &amp; l.rerum. &amp; idem, si 
+      <lb ed="#C" n="156"/>testator aliquis adoptaverit illum, qui ab intest. veniret. C. 4¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0478.xml-->
+      <pb ed="#C" n="461"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>de adopt cum adoptionis. vel arrogaverit extraneum. Insti qu 
+      <lb ed="#C" n="2"/>mo, test. infir. § 1. quid intelligas de testamento masculi: se 
+      <lb ed="#C" n="3"/>cus, in testamento foeminae, quod hoc modo non rumpi 
+      <lb ed="#C" n="4"/>tur ff. de lib. &amp; posth gallus. §. nunc de lege. in fin. agit tamen ta 
+      <lb ed="#C" n="5"/>men talis posthumus de inofficioso C. de inoffi. testa. I 3. Iten 
+      <lb ed="#C" n="6"/>per posterius testamentum jure perfectum sic, quod e 
+      <lb ed="#C" n="7"/>eo adiri possit haereditas rumpitur primum: &amp; si aditan 
+      <lb ed="#C" n="8"/>sit: &amp; sic decedit quis intestatus. Inst. quib. mo testa. infir §. po 
+      <lb ed="#C" n="9"/>steriore &amp; seq. Sed si ex secundo non potuit adiri haeredi 
+      <lb ed="#C" n="10"/>tas, quia forte non fuit solenne, vel quia praeteritus est ii 
+      <lb ed="#C" n="11"/>secundo is qui institui debuit: &amp; ideo non valet. C. de lil 
+      <lb ed="#C" n="12"/>praete auth. ex causa. non revocatur primum ff. de vulgari sul 
+      <lb ed="#C" n="13"/>si quit § fin. &amp; si dixerit primum nolle valere. Insti. quib mo 
+      <lb ed="#C" n="14"/>test. infir. §. ex eo. nisi apud acta hoc dicat, vel coram trib. te 
+      <lb ed="#C" n="15"/>stibus, &amp; post haec decennium sit elapsum. C. eo. sancimus. 
+      <lb ed="#C" n="16"/>tamen testator in secundo imperfecto declaret primos ha 
+      <lb ed="#C" n="17"/>redes non mereri voluntatem suam, fisco applicabitur. ( 
+      <lb ed="#C" n="18"/>de his qui. ut indig. I. haereditas Illud non refert, utrum in ult 
+      <lb ed="#C" n="19"/>mo testamento instituatur quis haeres in certa portion 
+      <lb ed="#C" n="20"/>vel in certis rebus, vel an primum confirmetur: quia tun 
+      <lb ed="#C" n="21"/>valet primo jure fideicommissario: ut Instit. quib. mod test. 
+      <lb ed="#C" n="22"/>infir. §. sed &amp; si quis priore. &amp; secundum hoc intellige quo¬ 
+      <lb ed="#C" n="23"/>not. supra eod. S. qualiter confirmetur. vers. sed&amp; primi. sed pro 
+      <lb ed="#C" n="24"/>pter errorem testatoris subvenitur primis haeredib. quo 
+      <lb ed="#C" n="25"/>quia credebat testator mortuos, alios instituit: legatat¬ 
+      <lb ed="#C" n="26"/>men secundi testamenti praestantur ff dehaer. inst. I. fin. Iten 
+      <lb ed="#C" n="27"/>quandoque prius perfectum rumpitur per posterius i 
+      <lb ed="#C" n="28"/>perfectum, quando fit inter liberos ut in auth. de test. unperi 
+      <lb ed="#C" n="29"/>§. nos igitur. col. 8. de hoc no. sup. eod §. qualiter conficiatur. ver 
+      <lb ed="#C" n="30"/>quandoque duo &amp; seqe nam &amp; si primo sunt instituti extrane 
+      <lb ed="#C" n="31"/>rumpitur per secundum, in quo hi qui ab intestato succi 
+      <lb ed="#C" n="32"/>dunt, instituuntur, quamvis sit imperfectum. ut no sup. eo 
+      <lb ed="#C" n="33"/>§. qualiter confir. vers. quid ergo. Idem est, si secundum imper 
+      <lb ed="#C" n="34"/>rectum militare sit f. de inju. rup. irri. test. I.2. alias non valei 
+      <lb ed="#C" n="35"/>secundum imperfectum jure testamenti: quia imperf¬ 
+      <lb ed="#C" n="36"/>ctum est, nec jure codicillorum, quia hoc testator nolui 
+      <lb ed="#C" n="37"/>ff. de ju. cod. I. C. de cod. I. fin. &amp; sunt illae II. de quibus in testa 
+      <lb ed="#C" n="38"/>mentis fit mentio tota die, cum dicitur in fin. haec est ulti 
+      <lb ed="#C" n="39"/>ma voluntas Titii, quam voluit valere jure testamenti, ve 
+      <lb ed="#C" n="40"/>codicillorum, vel cujuslibet alterius ultimae voluntatis 
+      <lb ed="#C" n="41"/>Item rumpitur testamentum solenne, si testator unui 
+      <lb ed="#C" n="42"/>de singulis inciderit, vel abstulerit: secus, si sine voluntat 
+      <lb ed="#C" n="43"/>sua factum sit. Ceod I. sin. ff de his quae in testam delend. l. 1. &amp; 
+      <lb ed="#C" n="44"/>Quid si quis habens duo testamenta ejusdem tenoris a 
+      <lb ed="#C" n="45"/>terum incidit, nunquid videtur &amp; integrum revocasse 
+      <lb ed="#C" n="46"/>non, nisi probetur, &amp; hac intentione hoc fecit, quod dec¬ 
+      <lb ed="#C" n="47"/>deret intestatus f dehis quae in testa del. I. sin ff si tab. test null 
+      <lb ed="#C" n="48"/>exta. l.i.§. pen. &amp; arg. in his quae not. supra eod. §. qualiter confici 
+      <lb ed="#C" n="49"/>antur. vers. non refert. &amp; seq 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e1566">
+               <lb ed="#C" n="50"/>ITem per querelam inofficiosi testamenti rumpitur: 8 
+      <lb ed="#C" n="51"/>dicitur testamentum inofficiosum, quod factum est con 
+      <lb ed="#C" n="52"/>tra officium pietatis. f.de inofficio testamen. I. secunda. Off 
+      <lb ed="#C" n="53"/>cium enim inter patrem &amp; filium dicitur pietas. ff. de obs¬ 
+      <lb ed="#C" n="54"/>quiis. I. penuli ff ad Trebel. cogi. §. si pater. inter patronum at 
+      <lb ed="#C" n="55"/>tem &amp; libertum obsequium. C. denegoc. rest. officio. inte 
+      <lb ed="#C" n="56"/>Deum &amp; hominem religio. argumen. ff. de justitia &amp; jur¬ 
+      <lb ed="#C" n="57"/>l2. inter hominem &amp; hominem, stat in nomine generali 
+      <lb ed="#C" n="58"/>ut dicatur, quod homo debet homini ex natura. ff. deserr 
+      <lb ed="#C" n="59"/>12 expor. si servus. ea lege. † Inducunt autem querelam du¬ 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e1590">
+               <lb ed="#C" n="60"/>causae, exhaeredatio in linea paterna, &amp; praeteritio in m¬ 
+      <lb ed="#C" n="61"/>terna. Institut. de liber. exhaered. §. fin. quod intellige, quand¬ 
+      <lb ed="#C" n="62"/>exhaeredatio sine causa facta est, nam ex causa aliquad 
+      <lb ed="#C" n="63"/>his quae enumerantur in authentic. ut cion de appellat. cog. ( 
+      <lb ed="#C" n="64"/>causas. &amp; §. hoc quidem, colum. 8 &amp; probatur vera, cessat que 
+      <lb ed="#C" n="65"/>rela. Item cessat, elapso quinquennio, ab adita haeredita 
+      <lb ed="#C" n="66"/>te: nisi interim querelam exposuerit is cui competebat 
+      <lb ed="#C" n="67"/>&amp; cogitur haeres scriptus adire, vel repudiare, si sit in e¬ 
+      <lb ed="#C" n="68"/>dem provincia, elapsis sex mensibus si diversi, elapso anno 
+      <lb ed="#C" n="69"/>C. de mofficios. testament. I penulti. §. fin. Item si agnovit leg. 
+      <lb ed="#C" n="70"/>tum vel testamentum. alias expressim. vel tacite approba 
+      <lb ed="#C" n="71"/>vit, vel si partem legitimam recepit. C. de inofficio. testamen 
+      <lb ed="#C" n="72"/>cum quaeritur. &amp; l. parentibus. Institut. de inofficios. testament. 
+      <lb ed="#C" n="73"/>igitur. quartam. C. de codicill. I.penulti. §. sin. ff. de minor. si filiuu 
+      <lb ed="#C" n="74"/>f de rei vend. inter offic. ff. de inofficio. testam. I. sin. resp ins. 1. &amp; 
+      <lb ed="#C" n="75"/>mater. &amp; Ipenulti. §. fin. &amp; l. si pars. § sinal &amp; l. nihil &amp; si propo 
+      <lb ed="#C" n="76"/>nas §. final. Item excluditur, si ei alia via possit subveni 
+      <lb ed="#C" n="77"/>puta competit eibonorum possessio, vel condictio ex 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0478.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>divi Pii. in bonis arrogatoriis. Institut. de inofficio testamento 
+      <lb ed="#C" n="79"/>§. tam autem. ff. de inofficios. testament. Papi. §. si quis impubes 
+      <lb ed="#C" n="80"/>nec obst. ff. de inofficios. testamen. pater. quia ibi non loquitu 
+      <lb ed="#C" n="81"/>de querela inoffic. testamen. sed bon. poss. contra tab. con 
+      <lb ed="#C" n="82"/>querendo de jure praetorio, rescinditur testamentum 
+      <lb ed="#C" n="83"/>quod juris est, non facti. Institut. de suc lib. §. si vero testamen 
+      <lb ed="#C" n="84"/>tum. ff. debonor. poss. I. 3. §. 1. &amp; 2. &amp; eodem modo potest in 
+      <lb ed="#C" n="85"/>telligi. C. de inoffic. testam. l. 2. Datur haec querela filio &amp; ne 
+      <lb ed="#C" n="86"/>poti omni descendenti, qui tempore mortis succeder 
+      <lb ed="#C" n="87"/>poterat ab intestato, non obst praecedente persona si exhae 
+      <lb ed="#C" n="88"/>redatus est: vel pro exhaeredato habitus, ut quia praeto 
+      <lb ed="#C" n="89"/>jus a matre, vel alio ex linea materna. ff. decontra. tabu. nor 
+      <lb ed="#C" n="90"/>putavit filius etiam a patre praeteritus, si erat in potestate 
+      <lb ed="#C" n="91"/>potest dicere testamentum nullum: vel petere bono poss 
+      <lb ed="#C" n="92"/>contra tab. sed si sit mancipatus, datur ei bonor. poss. con 
+      <lb ed="#C" n="93"/>tra tab. Institut. de exhaere. lib. respon. 1. &amp; §. emancipato. C. d 
+      <lb ed="#C" n="94"/>liber. praeterit. I. fin. §. sancimus. itaque &amp; hi qui per contr¬ 
+      <lb ed="#C" n="95"/>tab. admittuntur, dicuntur largo modo querelam agere 
+      <lb ed="#C" n="96"/>&amp; sic potest intelligi. C. de inofficios testament. l.2. &amp; I. si mari 
+      <lb ed="#C" n="97"/>tus. Sed &amp; frater consanguineus non uterinus admittitu 
+      <lb ed="#C" n="98"/>ad querelam persona infami, saltem levi macula. Institur 
+      <lb ed="#C" n="99"/>C. de inofficios. testament. fratres. qui tamen ex quibusdam in 
+      <lb ed="#C" n="100"/>gratitudinibus repellitur. in auth. de nupt. §. ingratitudine. 
+      <lb ed="#C" n="101"/>colum. 4.* Sed nunquid admittentur hodie etiam uteri¬ 13 
+      <lb ed="#C" n="102"/>ni? ita videtur argum. in authent. de haered. ab intestato venien 
+      <lb ed="#C" n="103"/>colum 9. vel illud obtinet, quando ab intestato veniunt, se 
+      <lb ed="#C" n="104"/>cus, quo ad querelam. Et nunquid filii fratrum admit 
+      <lb ed="#C" n="105"/>tuntur ad querelam? Dicas non: argument ff. de inoffici 
+      <lb ed="#C" n="106"/>testament. l. 2 Institut. de moffic. testament. §. soror. licet ab in 
+      <lb ed="#C" n="107"/>testato succedant una cum fratribus, ut in authen. de haered 
+      <lb ed="#C" n="108"/>quae ab intestato. &amp; ut fratrum filii: alii dicunt contra. argu 
+      <lb ed="#C" n="109"/>pro ipsis. ff. de inoffic. testament. posthumus in princip. Sed 8 
+      <lb ed="#C" n="110"/>patri datur, turbato ordine. ff de inofficios. testament. nam e 
+      <lb ed="#C" n="111"/>si parentibus. quia parentes maternae lineae exhaeredati ve 
+      <lb ed="#C" n="112"/>praeteriti habent querelam: ut in libris e contrario dictum 
+      <lb ed="#C" n="113"/>est: parentes autem lineae maternae exhaeredati haben 
+      <lb ed="#C" n="114"/>querelam praeteriti bonor. poss. contra tab. ff. de inofficios¬ 
+      <lb ed="#C" n="115"/>testament. l. 13. &amp; 4. &amp; 5. Institut. quibus modis jus patr pot. sol.? 
+      <lb ed="#C" n="116"/>praeterea. &amp; hoc intelligas, quoad filios sui juris factos, nan 
+      <lb ed="#C" n="117"/>filiifamil. testari non possunt, nisi de castrensi, &amp; tunc ces 
+      <lb ed="#C" n="118"/>sat querela, si testamentum conditum fuerit, ipso in mili 
+      <lb ed="#C" n="119"/>tia existente, secus in veterano. C. de inofficio. testamen de in 
+      <lb ed="#C" n="120"/>officioso. &amp; l. sinal. ff. de testam. milit. si a milite. &amp; de inofficio) 
+      <lb ed="#C" n="121"/>testament. Papi. §. Papi. contra veterani. hodie tamen vide 
+      <lb ed="#C" n="122"/>tur, quod in castrensi, &amp; quasi castrensi querela vendice 
+      <lb ed="#C" n="123"/>sibi locum, ut in authent. ut cum de appellati. cog. §. sancimus 
+      <lb ed="#C" n="124"/>itaque non licere collat. 8. &amp; de san. episcop. §. presbyteros, colla 9 
+      <lb ed="#C" n="125"/>Sed &amp; patri datur querela nomine filii, ipso filio volente 
+      <lb ed="#C" n="126"/>non invito ff. de inofficio. testament. Papi. Alii omnes repel 
+      <lb ed="#C" n="127"/>luntur, sed liberis exclusis, admittuntur parentes, qui sun 
+      <lb ed="#C" n="128"/>in primo gradu: &amp; eo repulso, qui in tertio gradu est ff. d¬ 
+      <lb ed="#C" n="129"/>inofficio. testament. pater. &amp; l. siis. Quod si extraneus, cui non 
+      <lb ed="#C" n="130"/>competebat, querelam proposuerit, &amp; eo non repuls¬ 
+      <lb ed="#C" n="131"/>casu obtinuerit, non eis, sed his qui ab intestato admittun 
+      <lb ed="#C" n="132"/>tur, haec victoria prodest. ff. de inofficio. testam. posthumus. § 
+      <lb ed="#C" n="133"/>siquis. Ut autem de hac materia plenam habeas notitiam 
+      <lb ed="#C" n="134"/>sic distinae 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e1759">
+               <lb ed="#C" n="135"/>CUm quis facit testamentum refert utrum sit pater 
+      <lb ed="#C" n="136"/>vel filius, vel collateralis. Si is qui testamentum faci 
+      <lb ed="#C" n="137"/>est pater, &amp; instituit sibi filium, planum est, quod filiu 
+      <lb ed="#C" n="138"/>succedat etiam ex testamento imperfecto, ut C. eodem titu 
+      <lb ed="#C" n="139"/>hac consultissima. §. pen. &amp; sinal. C. famil. erciscund. I. fin. Si ve 
+      <lb ed="#C" n="140"/>ro pater non filium, sed extraneum sibi haeredem institu 
+      <lb ed="#C" n="141"/>it, &amp; filium exhaeredabat, causa scripta, &amp; in lege adjecta 
+      <lb ed="#C" n="142"/>non potest nisi per querelam inoffic. filio subveniri. C. d 
+      <lb ed="#C" n="143"/>inofficio. testament. omnimodo. ut in authenti. ut cum de appellai 
+      <lb ed="#C" n="144"/>cogno. §. sive igitur. colum. 8. Sed si filium non exhaeredat pa 
+      <lb ed="#C" n="145"/>ter, sed praeterit, &amp; filius erat suus, habet electionem, ar 
+      <lb ed="#C" n="146"/>velit dicere testamentum nullum. vel per bonor. possess 
+      <lb ed="#C" n="147"/>contra tab. ipsum testamentum subvertere, &amp; sic loqui 
+      <lb ed="#C" n="148"/>tur, C. de liber praeterit. I. sinal. §. penultim. &amp; ff. de bonor. possess 
+      <lb ed="#C" n="149"/>contratab. is qui. ff.de inju rup. irri. testam. I1. Sin autem filiu: 
+      <lb ed="#C" n="150"/>non erat suus, sed emancipatus, habet bonor. pos. contri 
+      <lb ed="#C" n="151"/>t. bul. tantum. C. de liber. praeter. vel exhaered. maximum §. pen 
+      <lb ed="#C" n="152"/>&amp; lebonor. possess. contra tabul. is qui in potestate. §. si unus. &amp;! 
+      <lb ed="#C" n="153"/>si ilius &amp; l. bonorum. nec obstat quod sublata dicatur diffe 
+      <lb ed="#C" n="154"/>reniia patriae potestatis &amp; emancipationis: ut in authent 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0479.xml-->
+      <pb ed="#C" n="462"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>de haered ab intestat rollat. 9. quia illud verum est, quoad su¬ 
+      <lb ed="#C" n="2"/>ces ab intestat. alias enim antiqua jura firma permanen 
+      <lb ed="#C" n="3"/>&amp; intacta. ut not. supra eod. ut. I. § sin sub  circa vers. potest. 
+      <lb ed="#C" n="4"/>tis. Si vero mater testamentum fecerit, ibi semper agit fi 
+      <lb ed="#C" n="5"/>lius querela inoffic. quia praeteritio matris &amp; maternae! 
+      <lb ed="#C" n="6"/>neae, habetur pro exhaeredatione patris, &amp; lineae paterna 
+      <lb ed="#C" n="7"/>ut C. de inofficio. testament. filiam. &amp; Institut de exhaereda. libe 
+      <lb ed="#C" n="8"/>§ fin. Secundum hoc intellige authent ex causa exhaereda 
+      <lb ed="#C" n="9"/>tionis, vel praeteritionis, irritum est testamentum, quar 
+      <lb ed="#C" n="10"/>tum ad inst caetera namque firmâ permanent. C. de libei 
+      <lb ed="#C" n="11"/>praeteriti. authent. ex causa. ut scili. intelligas exhaeredati¬ 
+      <lb ed="#C" n="12"/>nis, quo ad lineam paternam, praeteritionis, quoad linean 
+      <lb ed="#C" n="13"/>maternam. Item exhaeredationis, quando causa adject 
+      <lb ed="#C" n="14"/>non est: nam si adjecta esset, non haberet filius, nisi que 
+      <lb ed="#C" n="15"/>relam, ut not. supr eod vers. si rero pater non filium. in quo casi 
+      <lb ed="#C" n="16"/>subverso testamento per querelam nec legata, nec libe 
+      <lb ed="#C" n="17"/>tates relictae in testamento deberentur. ff. de inofsic. testan 
+      <lb ed="#C" n="18"/>contra veterani. §. inal. Ratio diversitatis haec est: quia ub 
+      <lb ed="#C" n="19"/>causa adjecta non est, nullum est testamentum, quo ad vin 
+      <lb ed="#C" n="20"/>institutionis: &amp; sic legata non possunt dependere ex test¬ 
+      <lb ed="#C" n="21"/>mento sine institutione, quae nulla est. sed per se, &amp; ex v 
+      <lb ed="#C" n="22"/>legis firmitatem assumunt, &amp; firmiter substituunt. Ul 
+      <lb ed="#C" n="23"/>vero causa adjecta est tenet testamentum, &amp; instituti 
+      <lb ed="#C" n="24"/>ipso jure. &amp; sic legata dependent ex eo. Instit de legat. §. ani 
+      <lb ed="#C" n="25"/>haeredis institutionem. Ideoque testamento per querelan 
+      <lb ed="#C" n="26"/>postea subverso, &amp; legata dependentia merito subvertur 
+      <lb ed="#C" n="27"/>tur argum f de injusto rup. irrit. testam. nam &amp; si sub conditi 
+      <lb ed="#C" n="28"/>ne. ff elib :r. &amp; posthum &amp; si peperit. §. fin. ff. deregul. jur. cun 
+      <lb ed="#C" n="29"/>principale. supra de rerum permutat. cap. fin. supra de elect. qui 
+      <lb ed="#C" n="30"/>luer. Sed &amp; si alia causa, quam una de quatuordecim, qua 
+      <lb ed="#C" n="31"/>enamerantur in authent. ut cum de appellat, cog. §. aliud, col. 
+      <lb ed="#C" n="32"/>adjiceretur. perinde esset, ac si nullam apposuisset, secur 
+      <lb ed="#C" n="33"/>dumd meum. Quid si is qui testamentum facit, filius sit in 
+      <lb ed="#C" n="34"/>potestate constitutus, nulla restathaesitatio, quia de pro 
+      <lb ed="#C" n="35"/>fectitio vel adventitio peculio non potest testari. ut Insti¬ 
+      <lb ed="#C" n="36"/>qui testa fac. pos. in princ. De castrensi vero, vel quasi in tar 
+      <lb ed="#C" n="37"/>tum potest facere testamentum, quod neque de inofficit 
+      <lb ed="#C" n="38"/>testa.I. fin. C. qui testa fac pos. I fin. Excipe tamen filiumfami 
+      <lb ed="#C" n="39"/>clericum, qui de adventitio peculio potest tenstari. sicut no 
+      <lb ed="#C" n="40"/>sup. de pec. § quot sint ejus species. vers. aliud est peculiu. &amp; seq. Si 
+      <lb ed="#C" n="41"/>autem filius testamentum faciens emancipatus erat,( 
+      <lb ed="#C" n="42"/>habet filios, eadem distin. restat facienda, quam not. supr 
+      <lb ed="#C" n="43"/>eod. sub §. ab illo vers. is qui iestamentum facit. usque ad versi 
+      <lb ed="#C" n="44"/>si vero mater. nec refert, an talis filius emancipatus pati 
+      <lb ed="#C" n="45"/>habeat, cum nati filii emancipati patrem ejusdem exclu 
+      <lb ed="#C" n="46"/>derent ab intestato. ut C. de suis. &amp; leg. lib. authent. in succes. ( 
+      <lb ed="#C" n="47"/>au hent. defuncto. Si vero filius emancipatus solos parente 
+      <lb ed="#C" n="48"/>habeat, &amp; non filios, &amp; filius ipsos parentes sibi haerede 
+      <lb ed="#C" n="49"/>instituat, planum est quod &amp; ipsi haereditatem habebuni 
+      <lb ed="#C" n="50"/>Sed si non parentes, sed extraneos sibi instituerit, &amp; pari 
+      <lb ed="#C" n="51"/>tes exhaeredaverit, adjecta causa, in Iscripta, nullum resta 
+      <lb ed="#C" n="52"/>remedium parentibus nisi querela, per quam rumpen 
+      <lb ed="#C" n="53"/>testamentum, &amp; succedunt ab intestato, nisi haeredes scri 
+      <lb ed="#C" n="54"/>pti possunt probare causam exhaeredationis veram esse 
+      <lb ed="#C" n="55"/>nam ea probata, valet testamentum, nec per querelan 
+      <lb ed="#C" n="56"/>rumperetur. Si vero nullam causam, vel aliam quam in 
+      <lb ed="#C" n="57"/>lege scriptam adjiciat. nullum est testamentum, quantun 
+      <lb ed="#C" n="58"/>ad institutionem, sicut nota. quando pater testamentun 
+      <lb ed="#C" n="59"/>fecit. supra eod sub§. vers. secundum hoc. ut omnia haec pro 
+      <lb ed="#C" n="60"/>bantur in authent. ut cum de appell. cog. §. hoc quidem. &amp; §. san 
+      <lb ed="#C" n="61"/>cim is itáque. col. 8. ubrvero filius emancipatus facienst 
+      <lb ed="#C" n="62"/>stamentu patrem suum non exhaeredavit, sed praeteriit, com 
+      <lb ed="#C" n="63"/>petit patri bon. pos contra ta. f. de inoffic. test pater i, si quis 
+      <lb ed="#C" n="64"/>patre manumis fue. l.I. Verum si is qui facit testamentum 
+      <lb ed="#C" n="65"/>non sit pater, neque filius, sed collateralis: aut est frate 
+      <lb ed="#C" n="66"/>consanguineus, aut alius quicunque voluerit. si sit frate 
+      <lb ed="#C" n="67"/>consanguineus, competit fratri suo querela, turpi pers¬ 
+      <lb ed="#C" n="68"/>na instituta, non alia, quae nec fratri uterino conceditur 
+      <lb ed="#C" n="69"/>ff. de inoffic. test fratres multo minus, si non sit frater, sed pa 
+      <lb ed="#C" n="70"/>truus, vel nepos, vel quis alius: namultra fratrem consar 
+      <lb ed="#C" n="71"/>guineum, subaudi, melius facerent si se inanibus sumpt 
+      <lb ed="#C" n="72"/>bus non vexarent. ff. de inoffic testa. I1. sic quid juris sit line 
+      <lb ed="#C" n="73"/>descendenti atque collaterali, de succes. extestam. potes 
+      <lb ed="#C" n="74"/>satis sufficienter per hanc brevem notulam edoceri 
+      <lb ed="#C" n="75"/>P Roponitur querela contra scriptos haeredes, vel fide 
+      <lb ed="#C" n="76"/>comimissarios universitatis, &amp; aperta via per querelan 
+      <lb ed="#C" n="77"/>tenetur petitione haered. ac si pro haered. vel possessor 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0479.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>possideret. C. de inofficio. testament l.t &amp; l. si haeredem. &amp; Icun 
+      <lb ed="#C" n="79"/>duobus. &amp; I. cum filium. &amp; l. si maritus. ff.de mossic testam. I.sili¬ 
+      <lb ed="#C" n="80"/>&amp; dicit lex, quod qui agit de inofsic. nec aliam ullam actioni 
+      <lb ed="#C" n="81"/>quam haered. petitionem exercere debere, intelligas praelat 
+      <lb ed="#C" n="82"/>querela, nam aliud est querela, aliud petitio. sic intellige, f.d 
+      <lb ed="#C" n="83"/>inoffic. testa. §. sin. querela enim non est proprie actio: ne 
+      <lb ed="#C" n="84"/>etiam ideo, ut quid detur, vel praestetur, proponitur. ne 
+      <lb ed="#C" n="85"/>est proprie accusatio: quia nec per eam vivus aliquis a 
+      <lb ed="#C" n="86"/>culatur, ut puniatur in corpore: sed est ius quo testamer 
+      <lb ed="#C" n="87"/>tum in totum vel in partem rescinditur: unde fit pere 
+      <lb ed="#C" n="88"/>am, ut plerunque quis testatus &amp; intestatus decedat. ff.¬ 
+      <lb ed="#C" n="89"/>inoffic. testament, circa &amp; l. nam &amp; si. § sinal. mediam ergov 
+      <lb ed="#C" n="90"/>am tenens, querela vocatur, &amp; viam tantum aperit su¬ 
+      <lb ed="#C" n="91"/>cedendi. &amp; nota. quod per querelam irritatur testamer 
+      <lb ed="#C" n="92"/>tum, quo ad patrem, pro qua scriptus erat is, contra quen 
+      <lb ed="#C" n="93"/>agitur, &amp; agens quo ad eandem admittitur, nisi agens i 
+      <lb ed="#C" n="94"/>minori parte succederet, vel nisi is, contra quem agitur 
+      <lb ed="#C" n="95"/>ab intestato succederet cum agente, nec enim repudia 
+      <lb ed="#C" n="96"/>haereditatem legitimam, cum testamentum expugnabil 
+      <lb ed="#C" n="97"/>credat. ff. de inofficios. testament. mater. &amp; de petit. haered leg 
+      <lb ed="#C" n="98"/>timam. Et nascitur querela ab adita haereditate. ut nota 
+      <lb ed="#C" n="99"/>ff. de inosficios. testament. Papi. §. si conditioni.* Fffectus au 
+      <lb ed="#C" n="100"/>tem querelae hic consuevit esse, ut sijudex pronunciasse 
+      <lb ed="#C" n="101"/>contra testamentum, nec provocatum esset ipso jureri¬ 
+      <lb ed="#C" n="102"/>scissum testamentum, legata debebantur, nec libertate 
+      <lb ed="#C" n="103"/>directae sed fideicommis. praestabantur datis a singuli 
+      <lb ed="#C" n="104"/>manumittendorum 20. aureis. &amp; hoc si intra quinquenni 
+      <lb ed="#C" n="105"/>agebatur, aliud post quinquennium, sicut haec habentur 
+      <lb ed="#C" n="106"/>de inof iest. Papi §. si &amp; I. sin aute ff de min ex ca usa § sin. Hodi 
+      <lb ed="#C" n="107"/>autem, quo ad institutionem, irritatur testamentu, sed quo a 
+      <lb ed="#C" n="108"/>legata, firmum remanet, ut in authent. ut cum de appella 
+      <lb ed="#C" n="109"/>cog. §. si tamen conugerit. vel refert, utrum causa exhaeredi 
+      <lb ed="#C" n="110"/>tionis non sit expressa, &amp; tunc habet locum quod prox 
+      <lb ed="#C" n="111"/>dixi, ut expressim dicit authent vel sit expressa, &amp; testa 
+      <lb ed="#C" n="112"/>mentum irritetur, &amp; tunc servabuntur jura antiqua, &amp; es 
+      <lb ed="#C" n="113"/>ratio, ut notatur supra eodem. sub §. proxi. vers. secundum ho¬ 
+      <lb ed="#C" n="114"/>Olim etiam praesumebatur quilibet ingratus, hodie aut 
+      <lb ed="#C" n="115"/>praesumitur gratus, nec licet haeredi scripto referre qua 
+      <lb ed="#C" n="116"/>stionem de ingratitudine, nisi testator expresserit unan 
+      <lb ed="#C" n="117"/>de causis, in authent. scriptis. C. de mofficio. testament, liberi. &amp; 
+      <lb ed="#C" n="118"/>omnimodo. Item olim agebat querela, qui minus quart 
+      <lb ed="#C" n="119"/>habet. sed per I. C. agit ad supplementum, &amp; quartam si 
+      <lb ed="#C" n="120"/>am debet habere, sine omni onere conditionis, etiam ve 
+      <lb ed="#C" n="121"/>substitutionis. quamvis dicatur facta pro bono filii, qui 
+      <lb ed="#C" n="122"/>forte sibi pupillariter substitutum est. C. de mossic testamen 
+      <lb ed="#C" n="123"/>omnimodo, &amp; I.sancimus. &amp; I.quoniam &amp; Isilius. &amp; lex tribu 
+      <lb ed="#C" n="124"/>&amp; I. si pater puellae. Item jure veteri non transmittebatu 
+      <lb ed="#C" n="125"/>querela, nisi praeparata per libelli oblationem vel denur 
+      <lb ed="#C" n="126"/>ciationem, vel saltem comminationem. ff. de imofficios test. 
+      <lb ed="#C" n="127"/>ment. I. posthumus. §. sinal. &amp; l. quemadmodum. hodie auten 
+      <lb ed="#C" n="128"/>transmittitur ad suum haeredem, etsi praeparata non fu¬ 
+      <lb ed="#C" n="129"/>rit. C. de inofficios testament. I. sancimus. §. sinal. Sed &amp; pe 
+      <lb ed="#C" n="130"/>auth. de tri &amp; semis. col. 3. aucta est portio legitima. nams 
+      <lb ed="#C" n="131"/>quatuor sint, vel pauciores liberi, debetur eis triens, 
+      <lb ed="#C" n="132"/>quinque, vel plures, debetur eis semis. unde versus 
+      <lb ed="#C" n="133"/>
+               <quote xml:id="nbht7y-d1e1166-Qd1e2103">Quatuor aut infra dantnatis jura trientem 
+      <lb ed="#C" n="134"/>Semissem vero dant natis quinque vel ultra</quote>
+               <lb ed="#C" n="135"/>Et hoc quoquo relicti titu. ex aequo inter eos dividende 
+      <lb ed="#C" n="136"/>cujus usus fructus nec a parente potest fraudari. ut in ar 
+      <lb ed="#C" n="137"/>th.ntic. de tri. &amp; semiss. §. hoc nos. quod quo ad relictum, quo 
+      <lb ed="#C" n="138"/>quo titul. hodie immutatur. quia necesse est quod jur 
+      <lb ed="#C" n="139"/>institutionis relinquatur. si tamen pater perfectum fa 
+      <lb ed="#C" n="140"/>ciat testamentum. sed &amp; si filii in certis rebus instituan 
+      <lb ed="#C" n="141"/>tur, &amp; testator dicat, quod quemlibet vult esse contentum 
+      <lb ed="#C" n="142"/>portione illa, valet, ut in authent. ut cum de appellat. cog.§ 
+      <lb ed="#C" n="143"/>illud vero nectssarium est. &amp; §. caeterum. si quidem. nec obsta 
+      <lb ed="#C" n="144"/>C. de haered. injtitu. quoties. ubi dicit, quod instituti in certi 
+      <lb ed="#C" n="145"/>rebus loco legatariorum habentur: quia illud verum est 
+      <lb ed="#C" n="146"/>quo ad aes alienum solvendum. porro verum est, quo 
+      <lb ed="#C" n="147"/>in institutione honorati sunt. argum ff de leg praest. I3. nan 
+      <lb ed="#C" n="148"/>&amp; tales except. haeredes sunt, vel esse possunt: quod nor 
+      <lb ed="#C" n="149"/>esset si jure tantum legati haberent. vel dic, quod ubi te 
+      <lb ed="#C" n="150"/>statur quis inter filios tantum, sufficit quoquo relicti ti, 
+      quan<lb ed="#C" n="151" break="no"/>do vero instituit extraneos, necesse habet filios instituere 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0480.xml-->
+      <pb ed="#C" n="463"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>secundum dominum meum. Quid si filia instituatur in 
+      <lb ed="#C" n="2"/>dotem, nunquid aget querela. &amp; quidem hic est dissensio 
+      <lb ed="#C" n="3"/>tamen est dominorum consilium, quod instituatur vel ir 
+      <lb ed="#C" n="4"/>5. solidis, vel in 6. dena. praeter dotem, &amp; sic non potest age 
+      <lb ed="#C" n="5"/>re, nisi ad supplementam, si aliquid deficiat de legitima, i 
+      <lb ed="#C" n="6"/>qua etiam dotem computare debet: nam etsi ab intestat 
+      <lb ed="#C" n="7"/>succedere vellet, necesse haberet ipsam conferre cum fra 
+      <lb ed="#C" n="8"/>tribus. C. de mossi testam quoniam novella. C. de rei uxor. act Lu 
+      <lb ed="#C" n="9"/>nica. §. videamus. ff. de col.l.i. §. ult. &amp; Ipraetor. §. Iul. C.de col.do.I. 
+      <lb ed="#C" n="10"/>EUud. §. ad hoc cum ante nuptias. Nedum autem inoff. testa 
+      <lb ed="#C" n="11"/>ment. revocatur per querelam, immo etiam inofficios 
+      <lb ed="#C" n="12"/>donatio, &amp; inofficiosa dos, &amp; inofficiosa venditio, quo ac 
+      <lb ed="#C" n="13"/>legitimam. ut C. de inoffic. do. l. 1. &amp; Isi totas. &amp; Isi ff de inoffi¬ 
+      <lb ed="#C" n="14"/>testun.l.i.&amp; I.filia, &amp; I filium. ff. de leg. 2. Titia Seyo. §. Imperato 
+      <lb ed="#C" n="15"/>Alexand in auth. derest. §. penult tell. 8. quia in legitimae null¬ 
+      <lb ed="#C" n="16"/>modo fraudari debet. ut in auth. de resti. &amp; ea quae parit in 11 
+      <lb ed="#C" n="17"/>mense, §. quamobrem coll 4. &amp; accedit, fidehis, quae infra. cr 
+      <lb ed="#C" n="18"/>l. omnes. §. 1. &amp; infra eodem. Raynut. &amp; cap. Raynal. Et nunqui¬ 
+      <lb ed="#C" n="19"/>potest quis deducere duas quartas, a puta debitam jur 
+      <lb ed="#C" n="20"/>naturae, &amp; Trebellianicam, dissensio est inter Dd. legum 
+      <lb ed="#C" n="21"/>dicunt enim quidam, quod non, nisi quantum plus est in 
+      <lb ed="#C" n="22"/>secunda, quam in prima. ff. ad l. Falc quicquid. CadI Falc. d 
+      <lb ed="#C" n="23"/>penule. Alii dicunt in distin. contra Azo distinxit; utrun 
+      <lb ed="#C" n="24"/>quis rogatus sit restituere haereditatem incontinenti, 8 
+      <lb ed="#C" n="25"/>tunc vera est sententia priorum. C. de mossi. testam quonia 
+      <lb ed="#C" n="26"/>novella. &amp; l. omnimodo. vel usque ad tempus. puta, si dece 
+      <lb ed="#C" n="27"/>dat sine liberis, &amp; tunc vera est sententia secundorum, u 
+      <lb ed="#C" n="28"/>scilicet duae quartae deducantur. in auth de resti antep. &amp; pi 
+      <lb ed="#C" n="29"/>coll. 8. C. de inoffic. testamen. quontam in prioribus. Ratio divet 
+      <lb ed="#C" n="30"/>sitatis haec est: quia ubi quis rogatus est restituere haeredi 
+      <lb ed="#C" n="31"/>post tempus certum, vel si decedat sine liberis, incont 
+      <lb ed="#C" n="32"/>nenti, deducere potest tertiam partem debi tam jure na 
+      <lb ed="#C" n="33"/>turae. quia illam sine omni gravamine habere debet, u 
+      <lb ed="#C" n="34"/>probant: auth. supradictae. procedente autem tempore 
+      <lb ed="#C" n="35"/>Treb. deducet, in qua cum fructus percepti computentu 
+      <lb ed="#C" n="36"/>minus intelligitur diminui de haer substantia, quam si in 
+      <lb ed="#C" n="37"/>continenti rogatus esset: &amp; ideo tunc non deduceret, qui 
+      <lb ed="#C" n="38"/>tunc substantiam defalcaret, non autem fructus. Jac. di 
+      <lb ed="#C" n="39"/>Bel. contra, quia consuetudo contraria est, &amp; ea, quae cau 
+      <lb ed="#C" n="40"/>sa implendae conditionis dantur in Treb. computantur 
+      <lb ed="#C" n="41"/>ad l. Falc. in ratione §.I.quod pulgo, &amp; pro ipso, in auth de haerec 
+      <lb ed="#C" n="42"/>&amp; Falc. §. is igitur a nobis. ibi, quantum lex, &amp;c. &amp; ff. de inoffici 
+      <lb ed="#C" n="43"/>testam. Papi. §. si quis impubes. Jus can. aperte fovet senten 
+      <lb ed="#C" n="44"/>tiam AZO. infra eod Raynut. &amp;c. Raynaldus. &amp; facit pro ipso 
+      <lb ed="#C" n="45"/>C. ad l. Falc quanquam. &amp; l.irritum. nam si alicui legatum si 
+      <lb ed="#C" n="46"/>ultra quam capere possit, detrahitur primo Falcidia, ut s 
+      <lb ed="#C" n="47"/>caperet postea detrahitur quod per l. habere non potest. u 
+      <lb ed="#C" n="48"/>illud habeat haeres, praeter Falcidiam, f. ad l. Falc. quoties qui 
+      <lb ed="#C" n="49"/>dam. De his omnibus plenius not. infr.eodem. Raynut. &amp; cat 
+      <lb ed="#C" n="50"/>Raynaldus 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e2261">
+               <lb ed="#C" n="51"/>Quis sit effectus ultimae voluntatis Ut 
+      secun<lb ed="#C" n="52" break="no"/>dum eam pronuncietur &amp; ei o 
+      <lb ed="#C" n="53"/>mnino stetur si justa sit: prout no. sup eod §. 1. &amp; inf eod. §. 
+      <lb ed="#C" n="54"/>perquem. &amp; quod institutiones, &amp; substitutiones locun 
+      <lb ed="#C" n="55"/>habeant. Nec est test. nisi in eo haeres instituatur fi de ju 
+      <lb ed="#C" n="56"/>cod. I.si. de his quae in test. delen. prox. &amp; de vulg. &amp; pup. sub I15 
+      <lb ed="#C" n="57"/>Instit. de fideicommis. haer §. in primis &amp; not. supr. eod § quid 
+      <lb ed="#C" n="58"/>test. Et sciendum est, quod haeredem instiruere nihil aiu 
+      <lb ed="#C" n="59"/>est, quam aliquem intus, id est, loco suo, sive in bonis su¬ 
+      <lb ed="#C" n="60"/>statuere, ut quasi eadem persona repraesentetur, ut in auil 
+      <lb ed="#C" n="61"/>de jureju. quod a morien. praest. col 5. &amp; vere institutus videtur 
+      <lb ed="#C" n="62"/>non solum qui inscribitur, sed &amp; is qui nuncupatur, ff.d 
+      <lb ed="#C" n="63"/>haered. insti. l.i. §. institutum. Potest autem institui person¬ 
+      <lb ed="#C" n="64"/>quaelibet, dum tamen habeat testa factionem passive, id es 
+      <lb ed="#C" n="65"/>quae non vetetur a jure capere. Institui potest igitur libe 
+      <lb ed="#C" n="66"/>homo, &amp; servus liberi hominis, qui possit haeres institui 
+      <lb ed="#C" n="67"/>de haer. insti. non minus. C. de her insti. neque quod si dominu 
+      <lb ed="#C" n="68"/>capere non potest, &amp; manumittitur antequam adeat, po 
+      <lb ed="#C" n="69"/>test manumissus arbitrio suo adire f. de acqu. her si servus 
+      <lb ed="#C" n="70"/>jus. quod idem est, si capaci alienetur, quia jussu novi do 
+      <lb ed="#C" n="71"/>mini adire poterit, ut ibi dicitur. Pater etiam fam &amp; filius 
+      <lb ed="#C" n="72"/>fam. mutus, surdus, furiosus, prodigus. privatus miles, ho 
+      <lb ed="#C" n="73"/>noratus, clericus, laicus, monachus, civitas, Imperator 8 
+      <lb ed="#C" n="74"/>Augusta, fiscus &amp; ecclesia, ac quilibet locus venerabili 
+      <lb ed="#C" n="75"/>potest haeres institui. Inst. de haer qual. &amp; diffe §. testamenti au 
+      <lb ed="#C" n="76"/>tem factionem. C. qui test. fac. pos. cum haeredes, &amp; de haere. inji ha 
+      <lb ed="#C" n="77"/>reditatis. Sed &amp; incertae personae institui possunt, divini nu 
+      <lb ed="#C" n="78"/>minis nutu. C. de epis. &amp; cler. id quod &amp; l.nulli &amp; l. si quis a 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0480.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>declinandam alias autem certus haeres nominandus est, u 
+      <lb ed="#C" n="80"/>no. infra eo. Nedum servus alicujus, sed nullius puta hae 
+      <lb ed="#C" n="81"/>reditatis jacentis, potest institui, dum tamen defunctu 
+      <lb ed="#C" n="82"/>cujus personae non haeredis futuri vicem obtinet. haeredi 
+      <lb ed="#C" n="83"/>tatis capax fuerit. Inst. de haer. insti. §. servus alienus ff. de haeres 
+      <lb ed="#C" n="84"/>insti. servus haereditarius. Sed &amp; servus proprius potest insti 
+      <lb ed="#C" n="85"/>tui, in quo quidem casu semper efficitur liber. Insti. de haere 
+      <lb ed="#C" n="86"/>instit respoi. nisi forte sit servus mulieris accusatae de adul 
+      <lb ed="#C" n="87"/>terio, cum eodem servo commisso, quia talis ab ipsa domi 
+      <lb ed="#C" n="88"/>na institui non potest ff. de haered. insti his verbis. § interdum 
+      <lb ed="#C" n="89"/>inst. de haer. insti. §. est autem. Et breviter qui non prohibetui 
+      <lb ed="#C" n="90"/>potest institui. Prohibetur autem haereticus, baptismum 
+      <lb ed="#C" n="91"/>iterans, apostata, collegium illicitum, quod privilegiun 
+      <lb ed="#C" n="92"/>non habet incerta persona, nisi praetendatur favor pieta 
+      <lb ed="#C" n="93"/>tis vel divini numinis, ut no sup eo. ver. sed &amp; incertae proba 
+      <lb ed="#C" n="94"/>tur in his, quae not. sup. eod. ver. ae haered. §. qua poena &amp; de apo 
+      <lb ed="#C" n="95"/>sta. §. qualiter puniantur. C. de aposta. hi qui sanctam fidem C. de 
+      <lb ed="#C" n="96"/>haered institut. collegium. Sed nec nati ex damnato coitu 
+      <lb ed="#C" n="97"/>possunt a patre institui: secus in naturalibus liberis ei 
+      <lb ed="#C" n="98"/>concubina natis, ut patet in his, quae not. infra qui fil sint l¬ 
+      <lb ed="#C" n="99"/>gi. §. an utrunque genus succedat. Nec mulier secundo sine dele 
+      <lb ed="#C" n="100"/>ctu nubens secundum leges, quod dic, ut no. insx de secund 
+      <lb ed="#C" n="101"/>nupt. §. quare &amp; qualiter puniatur. versicul. item punitur in re 
+      <lb ed="#C" n="102"/>bus alienis. Item deportatus institui non potest. C. de haereo 
+      <lb ed="#C" n="103"/>inst. I1. multo minus, qui in metallum damnatus est. tales e 
+      <lb ed="#C" n="104"/>nim institutiones pro non scriptis habentur, ut ibidem &amp; 
+      <lb ed="#C" n="105"/>ff. de his, quae pro non scriptis haben. in imetallum.* Utrum autem 
+      <lb ed="#C" n="106"/>quis possit, vel non possit institui, tribus temporibus con 
+      <lb ed="#C" n="107"/>sideratur, scilicet tempore institutionis, ut sciatur utrum 
+      <lb ed="#C" n="108"/>institutio tenuerit. Item tempore mortis testatoris, ut sci 
+      <lb ed="#C" n="109"/>atur utrum effectum habuerit. Item tempore aditionis hae 
+      <lb ed="#C" n="110"/>reditatis, quod tempus maxime spectandum est, quo scil 
+      <lb ed="#C" n="111"/>acquiritur haereditas. ff. defur. a Titio. medio autem tempor 
+      <lb ed="#C" n="112"/>inter factum testamentum, &amp; mortem, vel conditionem 
+      <lb ed="#C" n="113"/>institutionis existentem, mutatio juris haeredis non nocet 
+      <lb ed="#C" n="114"/>quia tria tempora considerantur. ut dixi ff. de haer. inst. sed 
+      <lb ed="#C" n="115"/>in cond. §. solemus &amp; I.si alienum, §. in extraneis. Inst. de haer qual 
+      <lb ed="#C" n="116"/>&amp; diff. §. m extraneis. hoc quo ad haeredes extraneos, &amp; eo 
+      <lb ed="#C" n="117"/>qui in eorum sunt potestate, in suis autem necessariis hae 
+      <lb ed="#C" n="118"/>redibus tempus mortis tantum spectandum videtur, ui 
+      <lb ed="#C" n="119"/>Instit. de haered qual. &amp; diffe § sui. In necessariis duo tantum 
+      <lb ed="#C" n="120"/>tempora spectanda, scilicet tempus testamenti, &amp; mortis 
+      <lb ed="#C" n="121"/>ff de haer. insti si alienum, resp. 1 &amp; l. servum. Dicuntur autem ser¬ 
+      <lb ed="#C" n="122"/>vi proprii instituti haerec eenecessarii: quia velint nolini 
+      <lb ed="#C" n="123"/>haeredes fiunt. Sin autem &amp; necessarii dicuntur hi, qui in 
+      <lb ed="#C" n="124"/>potestate parentis sunt: sul dicuntur, quia domestici, ne 
+      <lb ed="#C" n="125"/>cessarni: quia de jure civili necessario haeredes fiunt, lice 
+      <lb ed="#C" n="126"/>praetor eis permittat abstinere. Extranei dicuntur omne 
+      <lb ed="#C" n="127"/>alii, qui non sunt in potestate, ut probatur Institut. de haered 
+      <lb ed="#C" n="128"/>qualii. &amp; diffe a princip usque ad §. itaque liberi. Et prodest hoc 
+      <lb ed="#C" n="129"/>notare ad hoc, ut si quaeratur de excommunicato haeredi 
+      <lb ed="#C" n="130"/>instituto ab extraneo, tria tempora considerentur. Ita 
+      <lb ed="#C" n="131"/>que si tempore institutionis vel mortis, vel aditionis ex 
+      <lb ed="#C" n="132"/>communicatus sit, pro nihilo habetur. sed excmmuni 
+      <lb ed="#C" n="133"/>catio medii temporis non oberit: unde post institutio 
+      <lb ed="#C" n="134"/>nem excommunicatus fuerit, &amp; ante mortem absolutus 
+      <lb ed="#C" n="135"/>&amp; post mortem excommunicatus, &amp; ante aditionem ab 
+      <lb ed="#C" n="136"/>solutus haeres erit. argum. in supradictis juribus, &amp; in hi¬ 
+      <lb ed="#C" n="137"/>quae no. supra versicu. institui potest. &amp; § quot sint species, sub s 
+      <lb ed="#C" n="138"/>testamentum. versicul. habet &amp; miles. &amp; supra de aetat. &amp; qualii 
+      <lb ed="#C" n="139"/>cum bonae supra de elect. dudum § penulti. &amp; §. si &amp; dudum 2. 5 
+      <lb ed="#C" n="140"/>nos igitur. &amp; §. tandem &amp; cap. cum inter R. juniorem. Sfin. &amp; a 
+      <lb ed="#C" n="141"/>consuetud. cum inter dilect. §. quia nobis. nisi forte cum ec 
+      <lb ed="#C" n="142"/>fuerit misericorditer dispensatum argument. supr. decle¬ 
+      <lb ed="#C" n="143"/>excommunic. minist postulastis. vel dic, quod aliud in bene 
+      <lb ed="#C" n="144"/>ficio ecclesiastico est, quod nemini acquiritur, ideoque si 
+      <lb ed="#C" n="145"/>ne cujusquam praejudicio poterit dispensari: ut ibi dicit 
+      <lb ed="#C" n="146"/>aliud in haereditate temporali quae, ex quo deficit haeres 
+      <lb ed="#C" n="147"/>his qui ab intestato veniunt, acquiritur &amp; ideo in eorum 
+      <lb ed="#C" n="148"/>praejudicium non poterit dispensari: ut patet in his qua 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="149"/>ADDITIONES. 
+      <lb ed="#C" n="150"/>a Deducere duas quartas.] Adde Pet. de Vbal. in repet. capii 
+      <lb ed="#C" n="151"/>Ray. de tesi 
+      <lb ed="#C" n="152"/>b Nec nau ex damnatocoitu) Adde Io. Zoc. de Ferraria in re¬ 
+      <lb ed="#C" n="153"/>pe cap. per venerabilem. quis.l siui legit--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0481.xml-->
+      <pb ed="#C" n="464"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>not. infra qui filii sint legi §. ultim versic. quamvis autem hoc fa 
+      <lb ed="#C" n="2"/>cere possit princeps. &amp; sequen. Verum secundum jus auth. 
+      <lb ed="#C" n="3"/>ante mortem reconcilietur frater institutus, cum aliis fra 
+      <lb ed="#C" n="4"/>tribus partem suam recuperat, amissis fructibus perc¬ 
+      <lb ed="#C" n="5"/>ptis, medio tempore: sed si excommunicatus decedat, pr 
+      <lb ed="#C" n="6"/>proprietas partis suae ad fratres catholicos pertinere inc 
+      <lb ed="#C" n="7"/>pit pleno jure, ut in auth. cum de appel eod § generalem. versi 
+      <lb ed="#C" n="8"/>quod si forte &amp; sequen, col.s 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e2507">
+               <lb ed="#C" n="9"/>QUibus autem verbis fiat institutio, non refert dum 
+      <lb ed="#C" n="10"/>modo dicat. Talem haeredem instituo, vel aequipollem 
+      <lb ed="#C" n="11"/>nam &amp; si dicat, Titius esto, vel Titius haeres, valet institu 
+      <lb ed="#C" n="12"/>tio: ut not supra eodem. §. qualiter conficiatur. versic. non refer 
+      <lb ed="#C" n="13"/>Quod si dicat, Titius dicunt quidam quod valet, male in 
+      <lb ed="#C" n="14"/>telligentes, quod Marcellus non insubtiliter licere pata 
+      <lb ed="#C" n="15"/>hoc hodie procedere. ff. de haered. insti. l. 1. §. qui neque. §. si 
+      <lb ed="#C" n="16"/>autem, quasi dicat subtiliter putat hoc non procedere. nan 
+      <lb ed="#C" n="17"/>duae negativae faciunt unam affirmativam. ff. de verborur 
+      <lb ed="#C" n="18"/>significa duobus verbis negativis. ergo nihil aliud est dictum 
+      <lb ed="#C" n="19"/>non insubtiliter, quam si dixisset, subtiliter, nec obstat.( 
+      <lb ed="#C" n="20"/>de haered. instit. errore. ubi innuit, quod valeat institutio. 8 
+      <lb ed="#C" n="21"/>si desiit, haeres esto: quia testator bene expresserat, sed ti 
+      <lb ed="#C" n="22"/>bellio hoc omisit, sicut dicit eadem. I. in princip. Sed &amp; pe 
+      <lb ed="#C" n="23"/>verba directa, vel inflexa potest institui haeres, ut dicat, I 
+      <lb ed="#C" n="24"/>lum haeredem facio, vel instituo, vel volo, vel mando, ve 
+      <lb ed="#C" n="25"/>esto, vel erit. C. eod quoniam &amp; dicuntur omnia verba infl¬ 
+      <lb ed="#C" n="26"/>xa in omnibus casibus praeterquam in nominativis. sati 
+      <lb ed="#C" n="27"/>est autem, liquere de intentione testatoris per verba qua 
+      <lb ed="#C" n="28"/>cunque, &amp; si balbutiens lingua profuderit, ut dicta l. qui 
+      <lb ed="#C" n="29"/>niam, quia non est facienda vis in verbis. C. commu. vel. on 
+      <lb ed="#C" n="30"/>ne verbum. I. prima. Valet ergo, si dicat, Petre haereditati 
+      <lb ed="#C" n="31"/>meae dominus esto. ff de haered. institu. his verbis, vel si dicat 
+      <lb ed="#C" n="32"/>Habeas bona mea: vel, Bona mea tibi relinquo. C. des 
+      <lb ed="#C" n="33"/>cund. nup. hac edictali respon primo. Institut. de mil testa. §, caeti 
+      <lb ed="#C" n="34"/>rum. &amp; §. id privilegium. vel si dicat, Voluntatem mean 
+      <lb ed="#C" n="35"/>dispositioni tuae committo. ut not. supra eodem. §. qualit. 
+      <lb ed="#C" n="36"/>conficiatur. versic. non refert. &amp; junge quod not. infra eoden¬ 
+      <lb ed="#C" n="37"/>sub § quamvis autem. versicul. nec est praetereundum. Institu 
+      <lb ed="#C" n="38"/>potest fieri, &amp; in principio testamenti, &amp; in medio, &amp; fine 
+      <lb ed="#C" n="39"/>&amp; licet olim secus esset, ut Institu. de leg. § ante haeredis. Insti¬ 
+      <lb ed="#C" n="40"/>de haered. institut. I. prima. respon. primo, in codicillis. non po 
+      <lb ed="#C" n="41"/>test quis institui, nec directe substitui, nec conditio haer¬ 
+      <lb ed="#C" n="42"/>di instituto adjici: quamvis ibidem haereditas per fide 
+      <lb ed="#C" n="43"/>commissionem recte relinquatur. ut C. de codicil. haered 
+      <lb ed="#C" n="44"/>Institu. de codicill. §. penult. &amp; sin. &amp; si testatur hoc modo, 8 
+      <lb ed="#C" n="45"/>in defectum conditionis in codicillis appositae cogitet ad 
+      <lb ed="#C" n="46"/>mere, instituo haereditatem, hoc in vacuum cogitat. sic ir 
+      <lb ed="#C" n="47"/>tellige. ff. de conditio institu. quidam. §. fin. Sed &amp; is cui in co 
+      <lb ed="#C" n="48"/>dicillis haereditas directe relicta est, potest eam reciper 
+      <lb ed="#C" n="49"/>ab haerede veniente ab intestato, ac si per fideicommissun 
+      <lb ed="#C" n="50"/>eidem in codicillis relicta fuisset: &amp; hoc benigna inter 
+      <lb ed="#C" n="51"/>pretatione admittit. ff. ad Trebill senatus consult. I. Scaevol. 
+      <lb ed="#C" n="52"/>Quid si dicat testator in testamento suo: Haeredem quen 
+      <lb ed="#C" n="53"/>in codicillis nominavero: vel talem, si ipsum in codicill 
+      <lb ed="#C" n="54"/>instituero, &amp; quidem valet, non jure codicillorum, sed t¬ 
+      <lb ed="#C" n="55"/>stamenti. &amp; sub tali conditione potest institui quilibe 
+      <lb ed="#C" n="56"/>excepto filio ff. de conditio. institu. l.institutio talis ff. de haered 
+      <lb ed="#C" n="57"/>institu.asse. Ad hoc autem ut institutio valeat, necesse es 
+      <lb ed="#C" n="58"/>certum haeredem demonstrari oportere, alias non vale 
+      <lb ed="#C" n="59"/>bit, Unde si habeat plures amicos ejusdem nominis, put 
+      <lb ed="#C" n="60"/>quilibet vocatur Petrus, &amp; dicat, Petrum mihi haeredef 
+      <lb ed="#C" n="61"/>instituo, non valet, nisi jungat aliam circunstantiam: ve 
+      <lb ed="#C" n="62"/>alias appareat de quo senserit per probabiles conject¬ 
+      <lb ed="#C" n="63"/>ras. ff. de haered. institu quoties. §. haeres. &amp; l in tempus § quoti 
+      <lb ed="#C" n="64"/>sufficit autem signum indubitabile, non tamen illud, quo¬ 
+      <lb ed="#C" n="65"/>causae contumeliae solet adjici, contumeliae tamen caus¬ 
+      <lb ed="#C" n="66"/>specificata. nam secus esset, si ingenere diceret, Flliu 
+      <lb ed="#C" n="67"/>meus impiissimus de me male meritus, &amp; causam no 
+      <lb ed="#C" n="68"/>exprimeret, valeret tunc etiam institutio, quia pure in 
+      <lb ed="#C" n="69"/>stituitur, etiam cum maledicto omnes hujus institution 
+      <lb ed="#C" n="70"/>receptae sunt. ff. dehaered. institut. quoties. §. si quis in nomin 
+      <lb ed="#C" n="71"/>&amp; l. his verbis. §. primo ff. de lega. primo turpia. Sed &amp; suffici 
+      <lb ed="#C" n="72"/>haeredem demonstrare per conditionis eventum, ut si di 
+      <lb ed="#C" n="73"/>cat. Illum qui Margaretam in uxorem duxerit, haereden 
+      <lb ed="#C" n="74"/>instituo ff dehered. instit quoties. §. si quis. ita demonstrati 
+      <lb ed="#C" n="75"/>etiam ad oculum facta, sufficit, ut si cum digito ostender 
+      <lb ed="#C" n="76"/>do dicat, Illum mihi haeredem instituo. f. de haeredi. institi 
+      <lb ed="#C" n="77"/>nemo dubitat. ff. si certum peta. certum est, nisi erretur in 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0481.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>corpore, ut si putat instituere Petrum, &amp; instituit Mar 
+      <lb ed="#C" n="79"/>num. ut si dicat, Talem fratrem meum, quem putatsi 
+      <lb ed="#C" n="80"/>trem, sed non est. talis enim institutio nulla esset. secus, 
+      <lb ed="#C" n="81"/>sciat non esse fratrem: talis enim recte cum nomine su 
+      <lb ed="#C" n="82"/>tanquam frater haeres instituitur. ff. de haeredi. institut. qu 
+      <lb ed="#C" n="83"/>ties. respon. primo. &amp; l.nemo. §. qui frater non est. C. de haeredi.n 
+      <lb ed="#C" n="84"/>stitu. si filium. &amp; I. nec apud. sed nec error nominis nocet. 
+      <lb ed="#C" n="85"/>eodem, si in nomine. &amp; de hoc notatur. supra de rescript § qu 
+      <lb ed="#C" n="86"/>possunt objici. versicul. idem est. si in nomine. &amp; praeced. &amp; se¬ 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e2683">
+               <lb ed="#C" n="87"/>QUamvis autem non possit quis a re certa exhaeredi 
+      <lb ed="#C" n="88"/>Tri. ff. de liberis &amp; posthum. cum quidam, vel in omnibu 
+      <lb ed="#C" n="89"/>excepta una re, vel usufructus ipsius institut. quia perii 
+      <lb ed="#C" n="90"/>de habetur, ac si nullius rei sit facta mentio. ff. de haere. 
+      <lb ed="#C" n="91"/>institu.I. prima, §. si ex fundo. &amp; I.si ita quis haeres institutus fu¬ 
+      <lb ed="#C" n="92"/>rit. &amp; I.quoties volens. §. si duo sint haeredes. &amp; argument. ff.d 
+      <lb ed="#C" n="93"/>acquirend. haeredit. §. finali. potest tamen in una re institu 
+      <lb ed="#C" n="94"/>nam si in fundo certo aliquis haeres institutus fuerit, i 
+      <lb ed="#C" n="95"/>solu. erit haeres, nisi testator alium scripserit, ut in supr¬ 
+      <lb ed="#C" n="96"/>dictis legibus. &amp; ff. de liber. &amp; posthum. cum quidam f. de vul 
+      <lb ed="#C" n="97"/>sub coheredi. §. fin. in fin. sed si duo instituantur unus in V 
+      <lb ed="#C" n="98"/>na re certa, alius in alia quasi, sine partibus videntur scri 
+      <lb ed="#C" n="99"/>pti, &amp; aequaliter sunthaeredes. Institut. qui. mod testamen 
+      <lb ed="#C" n="100"/>mfirm. §. sed &amp; si quis. Sin autem unus instituatur in un 
+      <lb ed="#C" n="101"/>re, &amp; duo in alio, unus habebit semissem, &amp; duo semi 
+      <lb ed="#C" n="102"/>sem: sicut si dixisset, Titium &amp; filios fratris haeredes inst 
+      <lb ed="#C" n="103"/>tuo: ubi quidem Titius habet semissem, &amp; filii alium si 
+      <lb ed="#C" n="104"/>missem: nec testator expressim dixerit, aeque haeredae 
+      <lb ed="#C" n="105"/>sunto ff de haered. institut. si alterius. &amp; l. Titius fundi. &amp; l. n. 
+      <lb ed="#C" n="106"/>terdum. sic si relinquatur episcopo &amp; ca. episcopus habe 
+      <lb ed="#C" n="107"/>semissem, &amp; cap. alium semissem, nisi a testatore aliudd 
+      <lb ed="#C" n="108"/>ctum sit, quo ad canones: nam episcopo praejudicare no 
+      <lb ed="#C" n="109"/>potest. infra eodem requisisti. Sed &amp; si I itium in semissen 
+      <lb ed="#C" n="110"/>Sejum in semissem, te autem in eam partem, in qua inst 
+      <lb ed="#C" n="111"/>tuit Titium, instituat, Titius &amp; tu in unum semissem in 
+      <lb ed="#C" n="112"/>stituti estis ff de haered insti. Iul. Illud notatu dignum, quo 
+      <lb ed="#C" n="113"/>ubi plures in certis rebus instituti sunt, &amp; si aequis portio 
+      <lb ed="#C" n="114"/>nibus sint haeredes, tamen res in quibus instituti sunt, tar 
+      <lb ed="#C" n="115"/>quam praelegatae debent unicuique in familiae hercis. 1 
+      <lb ed="#C" n="116"/>dicio assignari. &amp; de ipsis sicut de alio quolibet legato pr 
+      <lb ed="#C" n="117"/>test Falc. detrahi. nisi aes alienum tantum sit, quod tota ha 
+      <lb ed="#C" n="118"/>reditas non sufficiat ad solvendum: tunc enim per ceptic 
+      <lb ed="#C" n="119"/>nes erunt inutiles, cum ex nullo testamento praestentu 
+      <lb ed="#C" n="120"/>legata, nisi aere alieno deducto. ff. de haered. insti. ex post fact 
+      <lb ed="#C" n="121"/>ff. ad Trebel. I. 1. §. is qui. Haec locum habent ubi aliquis, vt 
+      <lb ed="#C" n="122"/>aliqui in re certa, vel rebus certis instituuntur, &amp; episcor 
+      <lb ed="#C" n="123"/>soli, nam si alii una cum ipsis simpliciter vel in quoti 
+      <lb ed="#C" n="124"/>portionibus instituerentur, tunc instituti in certis rebu 
+      <lb ed="#C" n="125"/>loco legatariorum haberentur. C. de haered. institut. quotie 
+      <lb ed="#C" n="126"/>Nec est praetermittendum, quod fieri potest institutios 
+      <lb ed="#C" n="127"/>ne parte, vel in quota portione: dum tamen assignati 
+      <lb ed="#C" n="128"/>partis pendeat ex arbitrio testatoris. nam voluntate alt¬ 
+      <lb ed="#C" n="129"/>rius expressim conferri non posset, tacite tamen potess 
+      <lb ed="#C" n="130"/>puta si Titius Capitolium ascenderit, quaedam enim sii 
+      <lb ed="#C" n="131"/>testamentis exprimuntur, effectum nullum habent, qui 
+      <lb ed="#C" n="132"/>si verbis tangantur, quamvis idem significantibus effe 
+      <lb ed="#C" n="133"/>ctum consequuntur ff. dehaered. instit siquis. Sempronium. 
+      <lb ed="#C" n="134"/>I.talem §.1 &amp; l. illa. instit. &amp; idem est in leg. ff. de leg. 2. Li. &amp; 
+      <lb ed="#C" n="135"/>&amp; secundum hoc posset intelligi. infr. eodem cum tibi ut ex 
+      <lb ed="#C" n="136"/>ponas dispositione, scilicet tacita, non expressa. Sed &amp; al 
+      <lb ed="#C" n="137"/>ter intelligitur, ut tetigi supra eodem. sub §. proximo. versicu 
+      <lb ed="#C" n="138"/>palet ergo. Item quod dixi, quod expressim non potest, v 
+      <lb ed="#C" n="139"/>rum est, quo ad tempus futurum, puta. Instituo te ind 
+      <lb ed="#C" n="140"/>midi a si Titius volet, sed si recipiat tempus praeteritum 
+      <lb ed="#C" n="141"/>potest, puta si dicat, Instituo te pro ea parte, qua Petro 
+      <lb ed="#C" n="142"/>instituit me, quia talis institutio statim tenet, vel non ti 
+      <lb ed="#C" n="143"/>net, unde non dicitur committi alienae arbitrio volunt. 
+      <lb ed="#C" n="144"/>tis. ff de haered. insti. ille autem. &amp; si duo sint qui me haereden 
+      <lb ed="#C" n="145"/>instituerunt, &amp; ego dico, Petrus &amp; M. quanta quisque es 
+      <lb ed="#C" n="146"/>rum ex parte me haeredem habuit scriptum, haeres mih 
+      <lb ed="#C" n="147"/>esto, uterque admitteretur. si vero alter tantum me haere 
+      <lb ed="#C" n="148"/>dem scripserat, de rigore juris neuter admittitur, sed hi 
+      <lb ed="#C" n="149"/>manius est ut is tantum admittatur, qui scripsit. ff. de haer¬ 
+      <lb ed="#C" n="150"/>instituen. hoc articulo quisquis. Ex voluntate autem testate 
+      <lb ed="#C" n="151"/>ris dicitur pendere. cum sic dicit, Instituo vos haeredes e 
+      <lb ed="#C" n="152"/>partibus quas ascripsero. Si enim ascribat has partes, hi 
+      <lb ed="#C" n="153"/>bebunt, sin autem videntur simpliciter sine partibus insti 
+      <lb ed="#C" n="154"/>tuti f. de haered. insti.l.i. &amp; I. si quis ita scripserit. nec obst. I. ejus 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0482.xml-->
+      <pb ed="#C" n="465"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>dem rit. clemens. S, ia nam quod ibi dicit. Nullo testamento 
+      <lb ed="#C" n="2"/>recitato, inanis institutio videtur, subaudi, sed non sic erat 
+      <lb ed="#C" n="3"/>imo male videbatur, vel inanis est institutio de rigore ju 
+      <lb ed="#C" n="4"/>ris, vel quo ad conditionem appositam, quae non est secu 
+      <lb ed="#C" n="5"/>ta, sed alia pura &amp; tacita, quam lex fingit bene valebit sal 
+      <lb ed="#C" n="6"/>tem de humanitate sive aequitate. argum. ff. de haered. instis 
+      <lb ed="#C" n="7"/>hoc articulo quisquis. sicut no supra eod. versi. nec est praetereun 
+      <lb ed="#C" n="8"/>dum. Pure etiam potest fieri institutio, &amp; sub conditioni 
+      <lb ed="#C" n="9"/>quod dic, ut plene not. infra de cond. app. §. quot sunt species. e 
+      <lb ed="#C" n="10"/>sub §. secanda. usque ad sub §. diximus. Ex certo autem tem 
+      <lb ed="#C" n="11"/>pore, aut usque ad certum tempus fieri non potest, imo vi 
+      <lb ed="#C" n="12"/>tio temporis sublato de medio, tenet institutio. Inst. dehaer 
+      <lb ed="#C" n="13"/>inst. §. haeres. &amp; pure. ff. de haered. inst. haereditas exdie, excipe 
+      <lb ed="#C" n="14"/>militem, qui hoc facere potest, ut not. sup. ro. §. quot sint spe¬ 
+      <lb ed="#C" n="15"/>Cies. sub §. testamentum versic. &amp; altud privilegium, sed in dien 
+      <lb ed="#C" n="16"/>incertum potest quis institui, puta cum capax fuerit, ei 
+      <lb ed="#C" n="17"/>go sic potest excommunicatus institui, cum scilicet fueri 
+      <lb ed="#C" n="18"/>absolutu: 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e2878">
+               <lb ed="#C" n="19"/>NEc est praetermittendum, quod in institutione pol 
+      <lb ed="#C" n="20"/>sunt quantitates portionum exprimi, pro ut testator 
+      <lb ed="#C" n="21"/>placuerit, nam tot faciunt assem, quod tibi placuerit. Sec 
+      <lb ed="#C" n="22"/>nisi aliud apparet, fiet solennis divisio haereditatis in 1 
+      <lb ed="#C" n="23"/>uncias. denique si minus distribuerit, potestate juris ho 
+      <lb ed="#C" n="24"/>revolvitur: puta duos haeredes ex quadrante scripsit. nan 
+      <lb ed="#C" n="25"/>ex semissibus scripti videntur. sed si unum ex quadrant 
+      <lb ed="#C" n="26"/>alterum ex semisse scripserit, quadrans remanens utri 
+      <lb ed="#C" n="27"/>que pro rata accedit. ut si quis institutus ex semisse ha 
+      <lb ed="#C" n="28"/>beat, scilicet duas uncias, alius tertiam partem, id est, un 
+      <lb ed="#C" n="29"/>ciam, sin autem excesserit, aeque pro rata decrescet, put 
+      <lb ed="#C" n="30"/>me instituit in 12. uncias, te in 6. nam ego habebobeisen 
+      <lb ed="#C" n="31"/>tu trientem, probantur haec Instit. de haered. instit. ab illo. 
+      <lb ed="#C" n="32"/>haereditas. utque ad  haeres, &amp; pure, &amp; junge quod not. insr 
+      <lb ed="#C" n="33"/>to eodem. versic. quid si duos inftituat. &amp; sequen.* Appellation 
+      <lb ed="#C" n="34"/>autem assis, sive librae, sive ponderis, quia haec tria nomin 
+      <lb ed="#C" n="35"/>synonyma sunt, 12. unciae continentur, habent haec pro 
+      <lb ed="#C" n="36"/>pria nomina. Uncia haec tamen non nominatur in leg 
+      <lb ed="#C" n="37"/>a Sexcunx, Ie quasi uncia, &amp; semiuncia, id est. uncia, &amp; dim 
+      <lb ed="#C" n="38"/>da ut probatur ff de inofsic. testament. contra §. quontam auten 
+      <lb ed="#C" n="39"/>quarta. Sextans, quasi sextam partem significans, id es 
+      <lb ed="#C" n="40"/>duae unciae: Quadrans, quasi quartam partem significan 
+      <lb ed="#C" n="41"/>id est. tres unciae. Triens, quasi tertiam partem significans 
+      <lb ed="#C" n="42"/>id est, quatuor unciae: &amp; haec quatuor a quota parte haere 
+      <lb ed="#C" n="43"/>ditatis, quam designant, sumunt denominationem siv 
+      <lb ed="#C" n="44"/>interpretationem: sequentia vero etymologiam haben 
+      <lb ed="#C" n="45"/>exeo, quod significant certum numerum unciarum: u 
+      <lb ed="#C" n="46"/>patet ex his quae sequuntur. Quincunx, id est,5 unciae. S. 
+      <lb ed="#C" n="47"/>mis, id est, sex unciae. Septunx, id est, septem unciae. Bes, i¬ 
+      <lb ed="#C" n="48"/>est, octo unciae, Dodrans, id est, 9 unciae Dextans, id est, ic 
+      <lb ed="#C" n="49"/>unciae. Deunx, id est, 11. unciae. As, id est, tota haereditas 
+      <lb ed="#C" n="50"/>quae sic 12. unciis continetur. ut haec probantur. Institud 
+      <lb ed="#C" n="51"/>haered. inst. §. haereditas ff de haered inst sernum ineum. § fin. Al 
+      <lb ed="#C" n="52"/>tende, quod non omnes unciae, quae significantur per no 
+      <lb ed="#C" n="53"/>mina supradicta, continentur in asse. sic enim continet a 
+      <lb ed="#C" n="54"/>66 uncias, &amp; dimidiam: sed ideo as ponit partes: qui¬ 
+      <lb ed="#C" n="55"/>quaelibet earum potest in asse contineri hac eadem ratic 
+      <lb ed="#C" n="56"/>ne dicitur homo risibilis, &amp; actio legis Aquil poenalis: qui 
+      <lb ed="#C" n="57"/>ad hoc apta nata est, secundum Azo. Instit. ad l. Aquil. 9. h 
+      <lb ed="#C" n="58"/>verbis. Non solum autem as pro tanto numero supponis 
+      <lb ed="#C" n="59"/>sed &amp; pro minori, scilicet pro obolo unde in evangelio 
+      <lb ed="#C" n="60"/>Nonne duo passeres asse veneunt. unde versus 
+      <lb ed="#C" n="61"/>
+               <quote xml:id="nbht7y-d1e1166-Qd1e2973">As  obolus pondus. as est possessio tot.</quote>
+               <lb ed="#C" n="62"/>id est, aliquando ponitur pro obolo, aliquando pro por 
+      <lb ed="#C" n="63"/>dere, aliquando pro tota haereditate. Ponitur ergo pr¬ 
+      <lb ed="#C" n="64"/>haereditate, vel pondere, 12. uncias continente, aliquand 
+      <lb ed="#C" n="65"/>plures. unde &amp; aliquando diximus dupondium: quasi du 
+      <lb ed="#C" n="66"/>pondera, id est, 24 uncias continente. Instit. de haered. insti 
+      <lb ed="#C" n="67"/>h&amp; si plures unciae quam i2. dicimus &amp; tripondium, qua 
+      <lb ed="#C" n="68"/>tria pondera, id est 36 uncias continentem. &amp; quadripor 
+      <lb ed="#C" n="69"/>dium, id est 48. uncias continentem, &amp; sic ascende quan 
+      <lb ed="#C" n="70"/>tum tibi placuerit: sicut patet in his quae no. supra eodem 
+      <lb ed="#C" n="71"/>subs respon. i. Quid si duos instituat ex asse quis sibi haere 
+      <lb ed="#C" n="72"/>des, &amp; tertium ex dimidia &amp; sexta parte assis, debet haere 
+      <lb ed="#C" n="73"/>ditas dividi in 20. uncias de quibus duo habebunt 12. 
+      <lb ed="#C" n="74"/>tertius octo f. de haered Institu interdum. §, sed si duos. sed cor 
+      <lb ed="#C" n="75"/>tra, quia tantum videtur ademptum primis quantum se 
+      <lb ed="#C" n="76"/>eundo relictum est, &amp; sic primi duo habebunt 4. uncias 
+      <lb ed="#C" n="77"/>socundus vero institutus octo, ut C. de lieg. cum quaestio. So 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0482.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>lutio. Aut certum est testatorem voluisse excedere assem 
+      <lb ed="#C" n="79"/>aut certum est, quod noluit, aut dubitatur. Si certum sit 
+      <lb ed="#C" n="80"/>quod excedere voluit assem, tunc fit divisio secundun 
+      <lb ed="#C" n="81"/>primam lanterdun. §. sed si excefferit. &amp; S sed si duos. volui 
+      <lb ed="#C" n="82"/>enim tunc ad dupondium venire sic dividi haereditaten 
+      <lb ed="#C" n="83"/>suam, quod potuit, ut supra not. ver ponitur ergo pro hae 
+      <lb ed="#C" n="84"/>reditate Si vero certum est, quod noluit excedere assem 
+      <lb ed="#C" n="85"/>tunc videtur tantum minuisse primo, quantum contuli 
+      <lb ed="#C" n="86"/>secundo. &amp; sic loquitur C. de lig. cum quaestio agitur. si primi 
+      <lb ed="#C" n="87"/>in assem, &amp; secundum in assem instituit, concurrunt. ffd 
+      <lb ed="#C" n="88"/>leg. 1. si pluribus. Si tres instituit, quemlibet in assem, quili 
+      <lb ed="#C" n="89"/>bet trientem habebit, sin autem primum in assem, duos a 
+      <lb ed="#C" n="90"/>lios in assem, primus semissem, &amp; duo semissem habebun 
+      <lb ed="#C" n="91"/>ubi vero primum ex asse instituit, reliquum ex aliqua par 
+      <lb ed="#C" n="92"/>te ille nihil habebit, quia nihil reliquum est f. de haered insti 
+      <lb ed="#C" n="93"/>item quod Sabinus § sed si asse. usque in finem l. Sed si in stitu¬ 
+      <lb ed="#C" n="94"/>tur ex illa parte, ex qua institutus capere non potest, qu 
+      <lb ed="#C" n="95"/>tamen nihil potest capere, totum habebit. C. de haered. instit 
+      <lb ed="#C" n="96"/>l. 2. Quid si testator primo minus asse contulit, secundun 
+      <lb ed="#C" n="97"/>autem sine aliqua portione instituit, ille habebit quod as 
+      <lb ed="#C" n="98"/>si deerat sive unus sit, sive plures. Institut. de haered institur 
+      <lb ed="#C" n="99"/>§. si plures instituantur. ff. de haered. institu. item quod Sabinus 
+      <lb ed="#C" n="100"/>Sed si primo contulit minus asse, &amp; secundum in assen 
+      <lb ed="#C" n="101"/>instituat, tantum plus habet secundus, quantum plus ap 
+      <lb ed="#C" n="102"/>paret ei datum. verbi gratia, primum instituit in semi 
+      <lb ed="#C" n="103"/>sem, secundum in assem, primus habebit quadrantem, &amp; 
+      <lb ed="#C" n="104"/>secundus bessem. &amp; eadem distributio fiat in qualibet va 
+      <lb ed="#C" n="105"/>cante portione. ut d.l.item quod Sabinus. &amp; ad idem ff. ad Tre 
+      <lb ed="#C" n="106"/>bell. Marcel. &amp; l. qui 40. nam ibi prius dederat. secundus 
+      <lb ed="#C" n="107"/>&amp; est diversitatis ratio, quia ubi instituit me in 12 uncias 
+      <lb ed="#C" n="108"/>te autem in 6. intelligitur minuisse 6. uncias de primi 
+      <lb ed="#C" n="109"/>12. &amp; sic non videtur divisisse haereditatem in 18. uncias 
+      <lb ed="#C" n="110"/>at ubi primo instituit me in 6. te autem in 12. non potes 
+      <lb ed="#C" n="111"/>dici, quod 12unciae de 6. quicquam minuerit: quia im 
+      <lb ed="#C" n="112"/>possibile est, ut plus videatur ademisse, quam dedisse: &amp; 
+      <lb ed="#C" n="113"/>sic patet in his casibus. defunctum voluisse excedere al 
+      <lb ed="#C" n="114"/>sem: ubi autem voluit excedere, &amp; mihi plures quam ti 
+      <lb ed="#C" n="115"/>bi relinquere uncias tantum plus habeo ex praesumpt. 
+      <lb ed="#C" n="116"/>voluntate testatoris, quantum plus mihi datum est sic po 
+      <lb ed="#C" n="117"/>test elici. ff. de libe. &amp; posthum. si ita. ff. de haered. institu. si it¬ 
+      <lb ed="#C" n="118"/>scriptum. §. quidem. verum si dubitetur, praesumitur quoc 
+      <lb ed="#C" n="119"/>testator voluit assem excedere, ut in d. I. C. de leg. cum quae 
+      <lb ed="#C" n="120"/>stio. &amp; argument. f de haered. institu. qui non militabat. §. penu¬ 
+      <lb ed="#C" n="121"/>Quid si quis tres haeredes instituerit, primum in prim 
+      <lb ed="#C" n="122"/>parte, secundum in secunda, tertium in tertia parte haere 
+      <lb ed="#C" n="123"/>ditatis, viriles fient portiones inter ipsos. nam testato 
+      <lb ed="#C" n="124"/>appellatione numeri scripturae magis ordinem quan 
+      <lb ed="#C" n="125"/>modum partibus imposuisse videtur. ff. de haered. institu. 
+      <lb ed="#C" n="126"/>quis ita haeredes 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e3121">
+               <lb ed="#C" n="127"/>NON solum autem institutiones, secundum ea qua 
+      <lb ed="#C" n="128"/>praediximus, ratae debent esse, sed &amp; substitutiones 
+      <lb ed="#C" n="129"/>Dicitur autem institutio primus gradus haeredum, &amp; si 1 
+      <lb ed="#C" n="130"/>nulli sint substituti: substitutio vero dicitur secundus gra 
+      <lb ed="#C" n="131"/>dus, vel tertius omnium eorum qui in loco institutorum 
+      <lb ed="#C" n="132"/>vel deficientium, vel adeuntium succedunt &amp; instituuntur 
+      <lb ed="#C" n="133"/>nam secundus dicitur omnis, qui post primum sequitur 
+      <lb ed="#C" n="134"/>etiam si decimus sit. f. de vulg, subst Ii. in princi fF. de bo pos.s. 
+      <lb ed="#C" n="135"/>cundum tab. l.. §.i. gradi in his autem plerunque conditio 
+      <lb ed="#C" n="136"/>nes apponuntur. quod dic ut plene no. inf. de cond. ap. §. quo 
+      <lb ed="#C" n="137"/>species. Haec autem est divisio institutionum alia obliqua, a 
+      <lb ed="#C" n="138"/>alia directa. Obliqua dicitur illa bquae fit per verba preca¬ 
+      <lb ed="#C" n="139"/>ria, sive precativa, vel fideicommissaria, &amp; haec aliquando fi 
+      <lb ed="#C" n="140"/>per verba directa: ut si dicatur, Petrum instituo mihi haere 
+      <lb ed="#C" n="141"/>dem, &amp; rogo ut haereditatem Gulielmo restituat f ad Tre 
+      <lb ed="#C" n="142"/>bel l. 1. Inst. ae fideicom. haer in prin. Aliquando per indirecta 
+      <lb ed="#C" n="143"/>ut inf. eo. Ray. § post modum ibi, vel substitutionis, quae scil tra 
+      <lb ed="#C" n="144"/>hitur ad fideicom. ut apparet in his quae nont inf eo. ver. com 
+      <lb ed="#C" n="145"/>pendiosa &amp; sequen directarum autem. Alia vulgaris. e Alia pu¬ 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="146"/>ADDITIONES. 
+      <lb ed="#C" n="147"/>a Sexcunx.] Adde Doct. inc. cum esses. eo.ti 
+      <lb ed="#C" n="148"/>b Obliqua dicitur illa.J Adde Phil. Franc. in ropet c. u pater de test. 
+      <lb ed="#C" n="149"/>c Alia vulga.] Adde an ista fiat perverba affirmativa. vide in 
+    </p>
+    <p>
+      <lb ed="#C" n="150"/>si &amp; ibi Bariol. &amp; Bald C. de haeranst. an i.si Liuuus fraec. Bart. in LLV 
+      <lb ed="#C" n="151"/>α de vng&amp; pugi.--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0483.xml-->
+      <pb ed="#C" n="466"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>pillaris. c Alia exemplaris. d Alia breviloqua, seu rec 
+      <lb ed="#C" n="2"/>proca. Alia compendiosa. Vulbarium e vero alia tacit. 
+      <lb ed="#C" n="3"/>alia expressa. Tacita vulgaris substitutio fit per verba 
+      af<lb ed="#C" n="4" break="no"/>firmativa: ut cum dicitur, vos adinvicem substituo. demi 
+      <lb ed="#C" n="5"/>stratis duobus: puberibus institutis vel sic: Quisquis mil 
+      <lb ed="#C" n="6"/>haeres erit, fit haeres filio meo. vel sic. Titius esto haeres Plo 
+      <lb ed="#C" n="7"/>tii, cum Plotium haeredem instituisset. C. de haer. insti. I. si ff.d 
+      <lb ed="#C" n="8"/>haered. inst. cum in testamento §i F de vunlg. substit. quilibet. §. f. 
+      <lb ed="#C" n="9"/>Sed &amp; aliud exemplum potest poni. per Iff. de haered. insti 
+      <lb ed="#C" n="10"/>Titius &amp; Sejus secundum Azon. Expressa autem vulgari 
+      <lb ed="#C" n="11"/>fit verbis negativis. ut si dicatur. Si Titius non erit haere: 
+      <lb ed="#C" n="12"/>Sejus haeres esto. ut Inst. de vulg subst. respon. I. Et dicitur vu 
+      <lb ed="#C" n="13"/>garis substitutio. quia fit cuilibet, &amp; a quolibet de vulgo 
+      <lb ed="#C" n="14"/>dummodo factionem testamenti habeat. ff de vulg substi. 
+      <lb ed="#C" n="15"/>i. &amp; 2. &amp; si testamento. &amp; I. sequ. Haec vulgaris adita haeredita 
+      <lb ed="#C" n="16"/>te expirat. C. de impub. &amp; aliis substitu. post aditam. Pupill. 
+      <lb ed="#C" n="17"/>rium substitutionum alia tacita, alia expressa. Express 
+      <lb ed="#C" n="18"/>pupillaris substitutio fit perverba affirmativa, ut si dic¬ 
+      <lb ed="#C" n="19"/>tur. Adjectam impuberem mihi haeredem instituo: &amp; si 
+      <lb ed="#C" n="20"/>psa infra pupillarem aetatem decesserit, Alterocha sit ha 
+      <lb ed="#C" n="21"/>res: ut Instit. de papilla substit in princip f de vulg substit. mor 
+      <lb ed="#C" n="22"/>bus. Tacita vero pupillaris fit per verba negativa, secur 
+      <lb ed="#C" n="23"/>dum quod notatur in vulgari expressa. supra eodem ver 
+      <lb ed="#C" n="24"/>sicul. expressa autem vulgaris, nam vulgari expressa a pu 
+      <lb ed="#C" n="25"/>pillo facta, intelligitur tacita pupillaris &amp; econtra in pi 
+      <lb ed="#C" n="26"/>pillari expressa, intelligitur vulgaris tacita f. de vulgar, sul 
+      <lb ed="#C" n="27"/>stit l. 4. Pupillaris dicitur, quia fit pupillo. &amp; expirat, ac 
+      <lb ed="#C" n="28"/>veniente pubertate, &amp; intelligitur ordinatum unum k¬ 
+      <lb ed="#C" n="29"/>stamentum duarum haereditatum. scilicet patris &amp; filii 
+      <lb ed="#C" n="30"/>vel filiae. &amp; necesse est, quod is qui vult pupillarem subst 
+      <lb ed="#C" n="31"/>tutionem facere, habeat pupillum in potestate, &amp; quo 
+      <lb ed="#C" n="32"/>sibi haeredem instituat primo, deinde filio nam si primof 
+      <lb ed="#C" n="33"/>lio, quem exhaeredavit, non valet: sed si instituerat ipsun 
+      <lb ed="#C" n="34"/>valebit, Probantur haec Instit. de pupilla substitut. respon. 1. §. 
+      <lb ed="#C" n="35"/>&amp; §igitur in pupillari testaenento ff. de vulgar substitut l. 15. 
+      <lb ed="#C" n="36"/>na. &amp; l. 2 §. prius. &amp; §. sed &amp; si quis. &amp; I. si quis cum. §. si suo se¬ 
+      <lb ed="#C" n="37"/>&amp; citra pubertatem fieri potest puta, si filius moriatur in 
+      <lb ed="#C" n="38"/>fra decimum, vel infra octavum annum. ff. de vulgar. sul 
+      <lb ed="#C" n="39"/>stitut. si ita quis substituerit. Exemplaris substitutio dicitu 
+      <lb ed="#C" n="40"/>illa, quae fit filio furioso, &amp; dicitur exemplaris, quia ad e¬ 
+      <lb ed="#C" n="41"/>emplum pupillaris inventa fuit Institut. de pupill. substit. 
+      <lb ed="#C" n="42"/>qua ratione C. de impub &amp; aliis subst humanitatis. Ratio. enin 
+      <lb ed="#C" n="43"/>quare pupillaris substitutio adinventa fuit haec est: qui 
+      <lb ed="#C" n="44"/>cum multum prosit habere haeredem, ut Institut. qui &amp; e 
+      <lb ed="#C" n="45"/>quibus, caus. manu. non poss. I.t. &amp; pupillus non possit sibi ha 
+      <lb ed="#C" n="46"/>redem instituere, quia nec testamentum condere. ff. eo¬ 
+      <lb ed="#C" n="47"/>qua aetate alias incipit in qua bonum fuit invenire mo 
+      <lb ed="#C" n="48"/>dum: ne pupilli decederent intestati. Institutio. de pupil 
+      <lb ed="#C" n="49"/>subst. respon I. ad fin. Sed nunquid est eadem ratio in furi¬ 
+      <lb ed="#C" n="50"/>so? Patet quod sic. unde eodem modo, &amp; eadem ration 
+      <lb ed="#C" n="51"/>sibi providendum fuit. ad exemplum pupilli. &amp; ideo rect 
+      <lb ed="#C" n="52"/>dicitur exemplaris. Licet autem in hoc conveniant pr 
+      <lb ed="#C" n="53"/>pillaris &amp; exemplaris: in multis tamen dissimiles pote 
+      <lb ed="#C" n="54"/>runt inveniri: quia exemplaris etiam puberibus fit: se¬ 
+      <lb ed="#C" n="55"/>pupillaris tantum impuberibus. Item pupillaris fit: ui 
+      <lb ed="#C" n="56"/>que ad certum tempus, puta usque ad 14. annos in hom 
+      <lb ed="#C" n="57"/>ne, 12. in muliere: nec ultra extenditur. &amp; si citra arctai 
+      <lb ed="#C" n="58"/>possit, Institut de pupill substitut. §. masculo ff. de vulg substit. i 
+      <lb ed="#C" n="59"/>pupil. &amp; l. itasiquis substituerit. exemplaris autem in incer 
+      <lb ed="#C" n="60"/>tum tempus porrigitur. Item in pupillari quilibet subst 
+      <lb ed="#C" n="61"/>tui potest, sicut in vulgari. In exemplari autem certae per 
+      <lb ed="#C" n="62"/>sonae tantum: puta soror &amp; frater: &amp; potissime filii, si si 
+      <lb ed="#C" n="63"/>persint. C. de impube. &amp; aliis substit humanitatis. Cessat hae 
+      <lb ed="#C" n="64"/>exemplaris, &amp; expirat furore cessante, ut in eadem l. hu 
+      <lb ed="#C" n="65"/>manitatis. Institutio. de pupill. substitu. §. qua ratione, ff d 
+      <lb ed="#C" n="66"/>vulg sub l. ex facto. Sed quid, si habet dilucida intervalla 
+      <lb ed="#C" n="67"/>Potest dici, quod si habet tanta, quod testamentum facer 
+      <lb ed="#C" n="68"/>possit, secundum leges. C. qui test, fac poss furiosum. evane 
+      <lb ed="#C" n="69"/>scit substitutio &amp; si non fecerit, &amp; imputet sibi, non evan 
+      <lb ed="#C" n="70"/>scit, quod saepius. cogitatio potuit evitare. argument f. a 
+      <lb ed="#C" n="71"/>Velleia. senatus consult si mulier ff de regul jur. quod quisque e: 
+      <lb ed="#C" n="72"/>culpa sua damnum patitur. vel dic, si fecerit testamentum 
+      <lb ed="#C" n="73"/>vanescit, nem habeat haeredem, quem habere nollet: &amp; ut libe 
+      <lb ed="#C" n="74"/>testandi sit stilus. C. de sacrosanct. ecclesd. i. quod si non feci¬ 
+      <lb ed="#C" n="75"/>nec potuit, durat substitutio. argument. expressum. C. a 
+      <lb ed="#C" n="76"/>cur fur cum illis, C. de legi quod farore ff. de libe, &amp; posthum. cur 
+      <lb ed="#C" n="77"/>quidarm. nec obst. superioribus legibus quia intelligi po 
+      <lb ed="#C" n="78"/>sunt de illo furioso, qui continue laborabat: &amp; est pieniu 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0483.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>liberatus: in illo autem qui habet dilucida intervalla, 
+      <lb ed="#C" n="80"/>eadem ratio, quae nota supra eodem versicul. ratio. eni 
+      <lb ed="#C" n="81"/>si intestatus decedat, vendicat sibi locum: hoc videtur 
+      <lb ed="#C" n="82"/>mente, quicquid innuant verba: mens autem sequend 
+      <lb ed="#C" n="83"/>est. ff. de excu. tut. in l. Graeca scire oportet. §. aliud postmodus 
+      <lb ed="#C" n="84"/>Breviloqua vero dicitur substitutio, quae his verbis fit, A 
+      <lb ed="#C" n="85"/>jectam &amp; Alterocham filias meas impuberes mihi haer¬ 
+      <lb ed="#C" n="86"/>des instituo, &amp; ipsas sibi ad invicem substituo. Haec i 
+      <lb ed="#C" n="87"/>quam breviloqua dicitur, quia sub brevibus verbis qua 
+      <lb ed="#C" n="88"/>tuor continet substitutiones: duas, scilicet in personar 
+      <lb ed="#C" n="89"/>cujuslibet. videor enim dixisse, quod si alterutra non er 
+      <lb ed="#C" n="90"/>haeres. vel in pupillari aetate decedat, alterutra sit haere 
+      <lb ed="#C" n="91"/>quae etiam ideo reciproca dicitur, quia reciprocanda i 
+      <lb ed="#C" n="92"/>personam, sive ad personam utriusque extenditur. f. 
+      <lb ed="#C" n="93"/>vulgar. substitut. jam hoc jure. Compendiosa autem subst 
+      <lb ed="#C" n="94"/>tutio appellatur illa, quae magnum compendium verbo 
+      <lb ed="#C" n="95"/>rum, sive magnam comprehensionem temporis habet, u 
+      <lb ed="#C" n="96"/>sic dicatur: Adjectam filiam meam mihi haeredem inst 
+      <lb ed="#C" n="97"/>tuo. &amp; quandocunque decesserit, Alterocha haeres este 
+      <lb ed="#C" n="98"/>&amp; hoc si fiat a milite pupillo, vel non pupillo, jure direct. 
+      <lb ed="#C" n="99"/>valet, quandocunque institutus decedat: ut patet. C. d 
+      <lb ed="#C" n="100"/>testamen. mili. mtestamento, ff. de mili. testa. in fraudem, mile 
+      <lb ed="#C" n="101"/>&amp; l. miles ita haeredem, §. 1. nisi miles hanc substitutionen 
+      <lb ed="#C" n="102"/>proprio filio fecerit, cujus mater est in medio. quo casi 
+      <lb ed="#C" n="103"/>jure fideicom valebit, si filius pubes factus decedat. C. d 
+      <lb ed="#C" n="104"/>impube. &amp; aliis substitut. precibus. Quod si paganus eam fe 
+      <lb ed="#C" n="105"/>cerit per verba superiora, &amp; pupilla in pupillariaetate de 
+      <lb ed="#C" n="106"/>cesserit, substituta jure directo admittitur, &amp; mater on 
+      <lb ed="#C" n="107"/>nino repellitur: sed si pubes moriatur, substituta nullat 
+      <lb ed="#C" n="108"/>nus admittitur: sed venientes ab intestato in totum fu¬ 
+      <lb ed="#C" n="109"/>cedunt, ff. de vulgar. substitu. verbis civilibus. alias incipit h 
+      <lb ed="#C" n="110"/>verbis. &amp; I. pupillari. &amp; I. ceniurio. Quid si testator dixeri 
+      <lb ed="#C" n="111"/>Quandocunque decesserit Adjecta, eidem substituo A 
+      <lb ed="#C" n="112"/>terocham. tunc licet directe non valeat, indirecte tame 
+      <lb ed="#C" n="113"/>valebit: quia haec verba ad fideicommissum trahentur. 
+      <lb ed="#C" n="114"/>ad Trebel. Scaevola. &amp; argument. C. de instit. &amp; substit generali 
+      <lb ed="#C" n="115"/>ter, &amp; quia haec interpretatio rem omni tempore valer 
+      <lb ed="#C" n="116"/>suadet, f. derebus dubiis quoties. &amp; Iubi, &amp; I. cum in testame 
+      <lb ed="#C" n="117"/>to. ff. ad Trebel. cogi. Idem si dicat, si sine liberis decessetit, ti 
+      <lb ed="#C" n="118"/>lem sibi substituo. nam &amp; haec trahitur ad fide icommi 
+      <lb ed="#C" n="119"/>sum. infra eodem Raynutius, §. postmodum. Item si dixisse 
+      <lb ed="#C" n="120"/>Volo quod haereditas perveniat ad Alterocham, f ad Ti 
+      <lb ed="#C" n="121"/>bellia haeredibus. § i. quia nec interest, utrum dicat, Vol 
+      <lb ed="#C" n="122"/>vel rogo, vel mando. Institut de sin. rebus per fideicommiss rel 
+      <lb ed="#C" n="123"/>§. sina. C. communia deleg. omne verbum. Ubi autem in his ci 
+      <lb ed="#C" n="124"/>sibus. mater ab intestato admittitur, bona restituit; Falc 
+      <lb ed="#C" n="125"/>dia detracta ff. de vulgar. substit. cohaerede. §. cum filiae. Unur 
+      <lb ed="#C" n="126"/>nota famen circa materiam, quod in expressa pupilla 
+      <lb ed="#C" n="127"/>substitutione. &amp; in breviloqua repellitur omnino mater 
+      <lb ed="#C" n="128"/>&amp; substitutus admittitur. ff. de vulgar substitu. Lucius. Int 
+      <lb ed="#C" n="129"/>cita autem pupillari non repellitur mater, etiam in test¬ 
+      <lb ed="#C" n="130"/>mento militis. C. de impube &amp; aliis substit. praecibus sive mi 
+      <lb ed="#C" n="131"/>ter una cum impubere fuerit instituta. C. de insti. &amp; substi 
+      <lb ed="#C" n="132"/>l. sin. sive non. C. de testa. mili. in testamento licet Pla dixeri 
+      <lb ed="#C" n="133"/>tacitam pupillarem contra matrem admitti. nisi ubi ips 
+      <lb ed="#C" n="134"/>una cum impubere haeres fuerit instituta. vel di. utrur 
+      <lb ed="#C" n="135"/>extraneus vulgariter substituatur impuberi, &amp; tunctaci 
+      <lb ed="#C" n="136"/>ta pupillaris non admittitur contra matrem, an substitus 
+      <lb ed="#C" n="137"/>tur impuberi frater ejus: &amp; tunc mater repellitur, qui¬ 
+      <lb ed="#C" n="138"/>est verisimile, quod in hoc casu voluerit testator uxorer 
+      <lb ed="#C" n="139"/>suam impuberis matrem alii filio suo praeferri. C de imp. 
+      <lb ed="#C" n="140"/>aliis substit, cum quidam 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e3481">
+               <lb ed="#C" n="141"/>Ad quid haeres teneatur: Ad totum id quod 
+      <lb ed="#C" n="142"/>functus tenebatur, quia haeredi 
+      <lb ed="#C" n="143"/>tas est successio in universum jus, quod defunctus h¬ 
+      <lb ed="#C" n="144"/>buit. ff. de regulis juris haereditas. habita tamen distin utrun 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="145"/>ADDITIONES 
+      <lb ed="#C" n="146"/>e Alia pupillaris.) Adde an ista substitutio pupillaris expiret, s 
+    </p>
+    <p>
+      <lb ed="#C" n="147"/>alter ex duobus pupillis fiat pubes vivo testatore. vide pe 
+      <lb ed="#C" n="148"/>Bald. in Itestamento. de testa. mili. Bald. in l impuberum. C. de impul 
+      <lb ed="#C" n="149"/>&amp; allis. substit. in l. impuberi. ffeo¬ 
+      <lb ed="#C" n="150"/>d Alia exemplaris.) Adde Baer. Bald. Dect. in I. Immanitatir. C. d 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>impub. &amp; aliis. subst. Bart. in lex facto. de mag &amp; popil 
+      <lb ed="#C" n="152"/>6 Vulgarium.] Add Pau. de Cast. in J. Gallus in §. quidam in 240 
+    </p>
+    <p>
+      <lb ed="#C" n="153"/>f de liber &amp; posthun--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0484.xml-->
+      <pb ed="#C" n="467"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>fecerit inventarium, necne. utrum adierit haereditatem 
+      <lb ed="#C" n="2"/>necne. quod solius animi est ff de acqe haered. pro haered. Ben 
+      <lb ed="#C" n="3"/>dixi, Defunctus, quia haereditas viventis nulla est. ff. de a¬ 
+      <lb ed="#C" n="4"/>qui. haered qui haereditatem, &amp; l. neminem, quod dic, ut nota 
+      <lb ed="#C" n="5"/>supra de conces praebend nec ex die, usque ad diem recte da 
+      <lb ed="#C" n="6"/>tur. ut ff. dehered. institut haereditas, nisi in milite aliud dica 
+      <lb ed="#C" n="7"/>tur, ut nota. supra eodem §. quod sint, sub§. testamentum mil 
+      <lb ed="#C" n="8"/>tare. versicul. &amp; aliud privilegium. Tenetur etiam haeres vo 
+      <lb ed="#C" n="9"/>luntatem defuncti adimplere, ut patet ex sequen est enin 
+      <lb ed="#C" n="10"/>ultima voluntas adimplenda, 12. q. 2. ultima voluntas. &amp; no 
+      <lb ed="#C" n="11"/>tatur supra eod §. 1.
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e3525">
+               <lb ed="#C" n="12"/>TEnetur autem haeres, sive filius sit, sive extraneus ad o 
+      <lb ed="#C" n="13"/>mnia debita defuncti solvenda: sive sint ex contractu 
+      <lb ed="#C" n="14"/>vel quasi maleficio, vel quasi, sive res pro qua debitun 
+      <lb ed="#C" n="15"/>fuit contractum ad ipsum haeredem pervenerit, sive non 
+      <lb ed="#C" n="16"/>sive lis cum defuncto contestata fuerit, sive non &amp; hoc d 
+      <lb ed="#C" n="17"/>jure canonico. 16. q. 6. si episcopum supra de pign. ex literis. ( 
+      <lb ed="#C" n="18"/>de solu, cap.i. supra de sepul.c.si. infra de usur. tua nos. infra de ra 
+      <lb ed="#C" n="19"/>pto. in literis infra de sentent excom. a nobis. 2. in fiargumen. ff.d 
+      <lb ed="#C" n="20"/>condi. furti si pro fur §. condi. secundum Vinc. &amp; Laur. Jo¬ 
+      <lb ed="#C" n="21"/>licet Ala. dist in maleficiis, utrum lis fuerit contestata, ve 
+      <lb ed="#C" n="22"/>non, per I. C. de deli. defuncti. I.unica. Quid si non sufficit ha 
+      <lb ed="#C" n="23"/>reditas ad debita persolvenda? distin. secundum leges, u 
+      <lb ed="#C" n="24"/>trum fecerit inventarium: &amp; tunc non tenetur ultra vire 
+      <lb ed="#C" n="25"/>haereditatis: vel non fecerit. &amp; tunc tenetur. C. dejured¬ 
+      <lb ed="#C" n="26"/>lib. sancimus, &amp; idem videtur secundum jus can. infra eod 
+      <lb ed="#C" n="27"/>Rav. §. pen. in fin. Injudicio autem animae non puto quo 
+      <lb ed="#C" n="28"/>teneatur, ultra quam ad ipsum pervenerit de ipsa haeredi 
+      <lb ed="#C" n="29"/>tate, quamvis sibi imputari posset, quo ad detractionen 
+      <lb ed="#C" n="30"/>Falc. faciendam, ut no. eod. ver. &amp; hoc si inventarium. Sec 
+      <lb ed="#C" n="31"/>cui debet primo solvere haeres, vel debitoribus vel damni 
+      <lb ed="#C" n="32"/>passis, vel legatariis? Et quidem debitoribus primo satis 
+      <lb ed="#C" n="33"/>fieri debet: secundo, damna passis in foro contentioso! 8 
+      <lb ed="#C" n="34"/>hoc insolidum. sine aliqua detractione: tertio vero, legata 
+      <lb ed="#C" n="35"/>riis, &amp; aliis, qui lucrativam causam prosequuntur, detra 
+      <lb ed="#C" n="36"/>cta Falcidia, si necesse fuerit de legatis, quia in illa gravar 
+      <lb ed="#C" n="37"/>non potuit: ut not. supra eod §. quis sit effectus sub §. propon¬ 
+      <lb ed="#C" n="38"/>tur querela versicul. item olim agebat. &amp; sequen. &amp; jung 
+      <lb ed="#C" n="39"/>quod not. supra de solu. sub rubr. de obla. versicul. quid solva 
+      <lb ed="#C" n="40"/>tur. Et hoc si inventarium fecit: si vero non fecit inventa 
+      <lb ed="#C" n="41"/>rium, etiam in utroque foro tenetur insolidum ipsa leg¬ 
+      <lb ed="#C" n="42"/>ta solvere, inquantum haereditas patitur: nam ultra nor 
+      <lb ed="#C" n="43"/>tenetur in judicio animae: ut no sup. eod. versicul. quid sino 
+      <lb ed="#C" n="44"/>sufficit: &amp; sic etiam potest intelligi quod ibi dictum est d 
+      <lb ed="#C" n="45"/>inventario. Sed &amp; primis creditoribus primo satisfieri de 
+      <lb ed="#C" n="46"/>bet, secundo secundis. &amp; sit per ordinem. secundum eat 
+      <lb ed="#C" n="47"/>men, quae no supra de pign. §. qualiter contrahatur sub §. con 
+      <lb ed="#C" n="48"/>ventionalium. ut scilicet privilegiatorum ratio habeatur. 8 
+      <lb ed="#C" n="49"/>hoc si simul veniant creditores &amp; legatarii: nam si separa 
+      <lb ed="#C" n="50"/>tim, liberatur haeres solvendo per ordinem cuilibet veni 
+      <lb ed="#C" n="51"/>enti: dum tamen sit sine dolo: quia, scilicet non est fact 
+      <lb ed="#C" n="52"/>conscius, nec aliquid de haereditate subtraxit: in quo casi 
+      <lb ed="#C" n="53"/>in duplum tenetur restituere id quod caelavit: alias d 
+      <lb ed="#C" n="54"/>proprio non tenetur satisfacere secundo venientibus: quam 
+      <lb ed="#C" n="55"/>vis in jure potiores essent, qui tamen &amp; adversus creditore 
+      <lb ed="#C" n="56"/>posteriores vel legatarios, quibus jam satisfactum est. ha 
+      <lb ed="#C" n="57"/>bebant actionem, &amp; nihilominus contra haeredem, si pe 
+      <lb ed="#C" n="58"/>nes eum aliquid de haereditate remansit, deductis tamer 
+      <lb ed="#C" n="59"/>expensis omnibus necessariis, quas occasione haereditati 
+      <lb ed="#C" n="60"/>fecit, sive circa funus, sive causavnventarii conficiendi, ve 
+      <lb ed="#C" n="61"/>alia consimili: &amp; breviter, sicut non facit lucrum, ubi ha 
+      <lb ed="#C" n="62"/>reditas solvendo non est, ita est, &amp; ab omni gravamine re 
+      <lb ed="#C" n="63"/>levandus. probantur omnia haec. C. de jure delib. sancinius 
+      <lb ed="#C" n="64"/>C. deposi. sinali C. de codic. I. sfinali. §. pen F ad Trebel. I1. § sinal 
+      <lb ed="#C" n="65"/>ff. dedona. causa mortis. &amp; si debitor. ff. dehis, quae in frau. cre¬ 
+      <lb ed="#C" n="66"/>qui autem, §. sciendum. Licet autem obligatio hoc mod¬ 
+      <lb ed="#C" n="67"/>transeat ad haeredem, poena tamen perjurii, vel voti fra 
+      <lb ed="#C" n="68"/>cti, vel quodlibet aliud, quod ex sua vivel forma perso 
+      <lb ed="#C" n="69"/>nam singularem non potest excedere, ad haeredem no 
+      <lb ed="#C" n="70"/>transit, sic intellige jura posita supra eodem. sub §. respon 
+      <lb ed="#C" n="71"/>deo primo. &amp; 7. quaestio. I. denique. supra de jurejurand. veritus, e 
+      <lb ed="#C" n="72"/>quod notatur. infra de voto. §. &amp; utrum a voto. versicul. sed nun 
+      <lb ed="#C" n="73"/>quid haeres. Quid si plures sint haeredes, nunquid quilibe 
+      <lb ed="#C" n="74"/>creditoribus insolidum obligatur? Dicas quod non, se¬ 
+      <lb ed="#C" n="75"/>proportionabiliter tantum, ut patet in his, quae notan su 
+      <lb ed="#C" n="76"/>pra eodem, versicul. quid si non sufficit, &amp; probatur. ( 
+      <lb ed="#C" n="77"/>de haered actio. l.1. &amp; 2. Excipiuntur casus, in quibus quili 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0484.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>bet insolidum aliquando, non pro portione haereditari, 
+      <lb ed="#C" n="79"/>obligatur. Primus est, si aliquod individuum est in obli 
+      <lb ed="#C" n="80"/>gatione. ff. de verborum obligat. in executionibus. Secundu 
+      <lb ed="#C" n="81"/>est, si res quae restitui debet ab uno, insolidum possidea 
+      <lb ed="#C" n="82"/>tur. C. de haered. actio. l. 2ff. comm si mihi. §. haeres. in his enin 
+      <lb ed="#C" n="83"/>casibus tenetur haeres insolidum. Tertius est si aliment. 
+      <lb ed="#C" n="84"/>legata sunt. nam tunc pro voluntate defuncti vel judi. pe 
+      <lb ed="#C" n="85"/>ti possunt ab uno insolidum, vel a pluribus pro partibu 
+      <lb ed="#C" n="86"/>designatis. F. de aliment. leg. I 3. Quartus est, si testator ab u 
+      <lb ed="#C" n="87"/>non haeredum legaverit creditori haereditario animo com 
+      <lb ed="#C" n="88"/>pensandi. tunc enim ille haeres usque ad quantitatem de 
+      <lb ed="#C" n="89"/>biti, onus legati sustinebit. ff. de legatis. 2. cum ab uno. Quin 
+      <lb ed="#C" n="90"/>tus est in expensa funeris uxoris, quae non tantum astrin 
+      <lb ed="#C" n="91"/>git haeredes pro haereditariis portionibus, sed etiam utrum 
+      <lb ed="#C" n="92"/>que pro portione, quae ad eum pervenit de dote ipsius u 
+      <lb ed="#C" n="93"/>xoris. Verbi gratia, pervenerunt ad eum centum, ducen 
+      <lb ed="#C" n="94"/>ta sunt in haereditate, ipse pro tertia, haeredes pro duabu 
+      <lb ed="#C" n="95"/>o bligantur, ff.de reli. &amp; sumpt func quoties &amp; l. veluti. Quoc 
+      <lb ed="#C" n="96"/>si haeres pupillus sit, nunquid praetextu pupillaris aetati 
+      <lb ed="#C" n="97"/>differenda est solutio creditorum? Quod non, dummo 
+      <lb ed="#C" n="98"/>do tutorem habeat, ut C. de haered act. sub praetextu. si tamer 
+      <lb ed="#C" n="99"/>tutor solvit debitum, quod non debebat solvi restituti¬ 
+      <lb ed="#C" n="100"/>competit. C si adver solu. l.I. &amp; 2. &amp; junge quod notatur. su 
+      <lb ed="#C" n="101"/>pra de solu. §. cui facienda sit. Quid si haeredes vel executo 
+      <lb ed="#C" n="102"/>res testamenti solvere, vel clamores emendare differunt 
+      <lb ed="#C" n="103"/>denarios testatoris in propriis negotiis expendentes 
+      <lb ed="#C" n="104"/>Dic, quod per locorum episcopos ad satisfaciendum, 8 
+      <lb ed="#C" n="105"/>voluntatem defuncti adimplendam monitione praemis 
+      <lb ed="#C" n="106"/>sa sunt, etiamsi testator hoc prohibuerit compellendi, u 
+      <lb ed="#C" n="107"/>notatur. infra eodem, §. sequen. respon. 1. Quid si quis rem alie 
+      <lb ed="#C" n="108"/>nam legaverit, nunquid tenetur haeres ipsam praestare 
+      <lb ed="#C" n="109"/>distin. utrum testator ignoraret ipsam rem alienam esse 
+      <lb ed="#C" n="110"/>&amp; tunc non tenetur haeres, nisi forte is, cui relinquebatur 
+      <lb ed="#C" n="111"/>esset persona conjuncta, puta uxor, vel alia, cui erat di 
+      <lb ed="#C" n="112"/>suo tantundem relicturus, quia tunc tenet legatum. C.d 
+      <lb ed="#C" n="113"/>leg cum alienam rem. vel nisi res aliena esset haeredis, qui¬ 
+      <lb ed="#C" n="114"/>tunc tenetur haeres. ff. de leg. 2. unum ex familia. §. si ren 
+      <lb ed="#C" n="115"/>tuam. Quod si quaestio sit inter haeredem &amp; legatarium d 
+      <lb ed="#C" n="116"/>scientia testatoris, legatario incumbit probatio, ut, scilice 
+      <lb ed="#C" n="117"/>probet testatorem hoc scivisse. Institut de lega § quod auten 
+      <lb ed="#C" n="118"/>diximus. Sed quid si is, cujus est res non vult ipsam vende 
+      <lb ed="#C" n="119"/>re, vel vult, sed pro magno, &amp; de gravi pretio? tunc tene 
+      <lb ed="#C" n="120"/>tur haeres officio judicis praestare justam aestimationem 
+      <lb ed="#C" n="121"/>ff. de legatis3 non dubium. §. finali, &amp; l. fideicommiss. §. si serre 
+      <lb ed="#C" n="122"/>f. de legat. i. apud Iulianum, §, constat. &amp; l. si domus, §. 2. nis 
+      <lb ed="#C" n="123"/>forte sit res, cujus commercium non habetur, ergo si re 
+      <lb ed="#C" n="124"/>ecclesiae legetur, nullum est legatum. argument. fi. de lega 
+      <lb ed="#C" n="125"/>i. apud Iulia. in fine. &amp; supra de rebus ecclesiae non alien, cap. 2 
+      <lb ed="#C" n="126"/>&amp; est expressum. infra eodem filius. sed hic cadit alia di 
+      <lb ed="#C" n="127"/>stinct. ut notatur. Institut de lega. §. non solum. &amp; sequen. Ve 
+      <lb ed="#C" n="128"/>rum si eadem res in duobus testamentis legetur &amp; ex pri 
+      <lb ed="#C" n="129"/>mo consequatur quis aestimationem, ex alio res nihilo 
+      <lb ed="#C" n="130"/>minus peti potest, quod si res habita sit, ex quo nihil debe 
+      <lb ed="#C" n="131"/>tur: duae enim causae lucrativae in eundem hominem, &amp; 
+      <lb ed="#C" n="132"/>eandem rem concurrere non possunt. Institut. de leg. §. 
+      <lb ed="#C" n="133"/>res aliena. Hoc secundum leses, nam secundum legem di 
+      <lb ed="#C" n="134"/>vinam, secundum quam debemus vivere, tale legatunm 
+      <lb ed="#C" n="135"/>non videtur valere, ut expressim innuitur, mfra eodem fi 
+      <lb ed="#C" n="136"/>lius noster Faustinus, sed certe non obstat, quia illae res eran 
+      <lb ed="#C" n="137"/>cujusdam ecclesiae, in quibus legatum non tenuit, ut no 
+      <lb ed="#C" n="138"/>supra eodem, versic. sed quid si is, cujus. sed &amp; in aliis re 
+      <lb ed="#C" n="139"/>bus legatis intelligi potest, quando haeres egens remane 
+      <lb ed="#C" n="140"/>ret, si redderet, vel pretium solveret. argumen. ff. de condic 
+      <lb ed="#C" n="141"/>indeb. cum haec natura. nec enim debent esse viri ecclesiastic 
+      <lb ed="#C" n="142"/>exactores importuni in grave praejudicium aliorum, qui 
+      <lb ed="#C" n="143"/>bus potius debent de suo in suis necessitatibus subveni 
+      <lb ed="#C" n="144"/>re. infra de censi. ex parte Compostellani. i6. quaestio. i. cap fin. 81. di 
+      <lb ed="#C" n="145"/>stinct. per totum, 17. quaestio 4. quisquis, licet autem viri eccle 
+      <lb ed="#C" n="146"/>siastici in his magis astricti sint, puto tamen &amp; laicos ac 
+      <lb ed="#C" n="147"/>hoc teneri. argum infra de censi. licet. 86. dist. non satis. nam 8 
+      <lb ed="#C" n="148"/>ad ipsos extenditur ratio. decret. ut patet inf. cod filius, in fi 
+      <lb ed="#C" n="149"/>ne, &amp; 144.6. si res. 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e3832">
+               <lb ed="#C" n="150"/>Et per quem cogatur voluntatem defuncti 
+      <lb ed="#C" n="151"/>adimplere. 
+      Responde<lb ed="#C" n="152" break="no"/>tur, per episcopum in piis causis, &amp; intra annum a tempo 
+      <lb ed="#C" n="153"/>re monitionis numerandum, quo elapso, ipsemet episco 
+      <lb ed="#C" n="154"/>pus exequetur, &amp; omnes fructus haeredibus interdicei 
+      <lb ed="#C" n="155"/>infra eodem, nos quidem. &amp; cap. si haeredes, ff. de petitio. haeredi 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0485.xml-->
+      <pb ed="#C" n="468"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>si hereditas §. si defuncto. C. de epi scop. &amp; cleric nulli &amp; Isiqu 
+      <lb ed="#C" n="2"/>ad declinandam. etiamsi testator interdixit. ne episcopus in 
+      <lb ed="#C" n="3"/>tromitteret se. ut infra eod. tua. &amp; in aulhent. de ecclestitul 
+      <lb ed="#C" n="4"/>sin zutem pro redemptione. collat. 9. &amp; creditoribus faciat s. 
+      <lb ed="#C" n="5"/>tisfieri. sicut testator praecepit. infra eod Joannes quod po 
+      <lb ed="#C" n="6"/>test intelligi secundum ea, quae notantur supra eod. §. qua 
+      <lb ed="#C" n="7"/>liter conficiatur. persic. fallit etiam in ecclesia. publicatio auter 
+      <lb ed="#C" n="8"/>secundum leges ad eccle. non pertinet. Ceod. consulta dir¬ 
+      <lb ed="#C" n="9"/>lia. Et not. quod si relinquat aliquid testator ecclesiae be¬ 
+      <lb ed="#C" n="10"/>tae Mariae. &amp; sunt diversae ecclesiae ejusdem nominis, pau 
+      <lb ed="#C" n="11"/>periori dabitur. in authen. de eccl. tit. § si in noinine magni De 
+      <lb ed="#C" n="12"/>col. 9. si non apparet pauperior, episcopus, cui volueri 
+      <lb ed="#C" n="13"/>poterit gratificari. f. de reli. &amp; sumpt. fun.l.ult. &amp; de hoc dix 
+      <lb ed="#C" n="14"/>infra eod. tua 
+    </p>
+            <p xml:id="nbht7y-d1e1166-d1e3884">
+               <lb ed="#C" n="15"/>IN summa no.? quod clericus de ecclesiasticis a testar 
+      <lb ed="#C" n="16"/>non potest, seu de profecticiis: secus de quasi castrensit 
+      <lb ed="#C" n="17"/>infra eod. c. 1. &amp; 2. &amp;c. cum in officiis charitatis. &amp; duobus seq. 
+      <lb ed="#C" n="18"/>not. supra de pecu cleric. § quot sint. &amp; S. qui clerici. &amp; de don 
+      <lb ed="#C" n="19"/>quis possit. &amp;) &amp; quid. Et si clericus intestatus B decedat si 
+      <lb ed="#C" n="20"/>ne haeredibus qui venire possunt ab intestato, eccl. cui ser 
+      <lb ed="#C" n="21"/>vierat, omnia debet habere. . Quid autem nomine eccli¬ 
+      <lb ed="#C" n="22"/>siae intelligitur, qualiter bona dividi debeant, si eratben¬ 
+      <lb ed="#C" n="23"/>ficiatus in diversis eccl. vide infra eod. relatum. &amp; c. requisist 
+      <lb ed="#C" n="24"/>&amp; de his quae not. inf.tit. 1. §. qualiter ecclesia. Et no. quod si a 
+      <lb ed="#C" n="25"/>liquid relinquatur clerico ab extraneo usque ad quartun 
+      <lb ed="#C" n="26"/>gradum, &amp; clericus administrationem habebat, praesumi 
+      <lb ed="#C" n="27"/>tur esse relictum intuitu ecclesiae, non personae, alias intu 
+      <lb ed="#C" n="28"/>itu personae. C. de episc. aud auth licentiam. sed si administra 
+      <lb ed="#C" n="29"/>tionem non habet, a quocunque relinquitur, praesumitur re 
+      <lb ed="#C" n="30"/>lictum intuitu personae, est tamen praesumptio juris tan 
+      <lb ed="#C" n="31"/>tum in utroque, unde recipit probationem in contrarii 
+      <lb ed="#C" n="32"/>Qualiter autem relicta petantur ab episcopo, &amp; a quo, 
+      <lb ed="#C" n="33"/>qualiter dividi debeant inter episcopum &amp; canonicos, di 
+      <lb ed="#C" n="34"/>sting utrum relinquatur episcopo tantum. &amp; tunc si sit re 
+      <lb ed="#C" n="35"/>lictum ab illo qui attinet sibi quarto gradu, suum est pra 
+      <lb ed="#C" n="36"/>cipuum, nisi obtentu ecclesiae probaretur esse relictum. ( 
+      <lb ed="#C" n="37"/>de episc. in auth licentiam inf. eod requisisti. §. si rero relinquatiu 
+      <lb ed="#C" n="38"/>illud episcopo. &amp; quod ibi dicit in vita: subaudi, nec in mo 
+      <lb ed="#C" n="39"/>te, nisi decedat ab intestato, nec habeat successorem: ut no 
+      <lb ed="#C" n="40"/>inf tit. 1. §. qualiter. &amp; eodem modo intellige §. sin &amp; crequ 
+      <lb ed="#C" n="41"/>sisti. ibi potest in vita ejus. Si vero ab extraneo, &amp; dicitt) 
+      <lb ed="#C" n="42"/>stator, quod nolebat quod aliquid communicaret cum e 
+      <lb ed="#C" n="43"/>clesia cathe. suum similiter, praecipuum erit infr eod. requ 
+      <lb ed="#C" n="44"/>sisti respon. i. vers. &amp; hoc vel est. nec obst. 12. qu 3 Pontifices ub 
+      <lb ed="#C" n="45"/>innuitur, quod episcopus semper debeat communicat 
+      <lb ed="#C" n="46"/>relictum cum ecclesia: etiamsi separatim relinquatur: qui¬ 
+      <lb ed="#C" n="47"/>illud verum est, quando non dicit testator quod illud ve 
+      <lb ed="#C" n="48"/>lit ad episcopum tantum, non ad ecclesiam pertinere: u 
+      <lb ed="#C" n="49"/>inf. eo requisisti. §. nec est contrarium. Quod si hoc non dixeri 
+      <lb ed="#C" n="50"/>testator, debet viriliter dividi inter capitulum, &amp; episce 
+      <lb ed="#C" n="51"/>pam, ut inf eo requisisti. respon. 1. ab illo ver si ab extraneo. u 
+      <lb ed="#C" n="52"/>que ad vers si quemadmodum. Ubi autem tantum eccle 
+      <lb ed="#C" n="53"/>cathe. relinquitur, indistincte incer eos viriliter dividitur 
+      <lb ed="#C" n="54"/>&amp; si testator contrarium dixerit: quia non potest immu 
+      <lb ed="#C" n="55"/>tare generalem const.can. 1041 si quidam. 16. q1. ad hoc. 7. 
+      <lb ed="#C" n="56"/>I. scire. sic loquitur. inf eo Lrequisisti respoi ver. quemadmo 
+      <lb ed="#C" n="57"/>dum &amp; ver. secus autem. Verum si episcopo &amp; eccle. cor 
+      <lb ed="#C" n="58"/>junctis legetur, semper inter eos viriliter dividitur, nisi di 
+      <lb ed="#C" n="59"/>visione facta per testatorem. quod satis decens est, ubi nu 
+      <lb ed="#C" n="60"/>la fraus committitur, nec alteruter parte sua nimium de 
+      <lb ed="#C" n="61"/>fraudatur, velint esse contenti. inf.eo requisisti §. si relinqua 
+      <lb ed="#C" n="62"/>tur. De relictis autem aliarum ecclesiarum, vel alearum capel arum 
+      <lb ed="#C" n="63"/>vel aliorum piorum locorum totius dioec. non capitulum 
+      <lb ed="#C" n="64"/>sed episcopus, qui habet de jure communi semper cano 
+      <lb ed="#C" n="65"/>nicam portionem exigit, nisi legatum, quod sine fraud 
+      <lb ed="#C" n="66"/>contentus jussus est, scienter approbaverit; ut inf. eo. requis¬ 
+      <lb ed="#C" n="67"/>sti §. secus est. &amp;c. officii. Sed &amp; ubi non eccl. nec habenti ac 
+      <lb ed="#C" n="68"/>ministrationem, sed alicui canonico, vel simplici clerico 
+      <lb ed="#C" n="69"/>vel alii, qui potest habere proprium, aliquid relinquitu 
+      <lb ed="#C" n="70"/>sine fraude, nulla de tali relicto portio canonica exigetur 
+      <lb ed="#C" n="71"/>inf. eo requisisti. § fin. Sed quae est ratio, quod pro derelicti 
+      <lb ed="#C" n="72"/>personae non habeatur. de relictis vero occasione ecclesis 
+      <lb ed="#C" n="73"/>vel pii loci habeatur canonica portio: d quia in primo ca 
+      <lb ed="#C" n="74"/>su relictum carnale reputatur, unde potius patri carna 
+      <lb ed="#C" n="75"/>competere debet, in secundo spirituale. arg. 249. 1. loqui 
+      <lb ed="#C" n="76"/>tur. Ideo patri spirituali debetur &amp; adde quod not. infra d 
+      <lb ed="#C" n="77"/>sepul, sub §. vetus §. 1. vers. item cum pater. sicut etiam singula 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0485.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>res, sive personales voces non faciunt canononi camd 
+      <lb ed="#C" n="79"/>ctionem, sed universalis tantum. ut supra de elect. in Ger¬ 
+      <lb ed="#C" n="80"/>sic non personalia relicta: sed tantum universalia, seudl 
+      <lb ed="#C" n="81"/>legiata, vel ecclesiastica inducunt canonicam portiones 
+      <lb ed="#C" n="82"/>&amp; adde quod not. supra de elect. § ubi. Et utrum episcopu 
+      <lb ed="#C" n="83"/>possit habere, quod sibi relictum est a testatore, &amp; nihilo¬ 
+      <lb ed="#C" n="84"/>minus de aliis relictis portionem suam statim no &amp; tradi¬ 
+      <lb ed="#C" n="85"/>tur inf. eo. officii &amp; not. infr. de sepul. sub §. retus quaest.o. Et not 
+      <lb ed="#C" n="86"/>quod aliena non possunt legari de canonica aequitate 
+      <lb ed="#C" n="87"/>eod. filius quod dic ut not. sup. eod § proxi. rers. quid siquisre 
+      <lb ed="#C" n="88"/>alienam. &amp; seq. Item de relictis ob perpetuum divinumcu 
+      <lb ed="#C" n="89"/>tum. 7. 20. 30. non potest episcopus exigere suam canor 
+      <lb ed="#C" n="90"/>cam portionem, nisi in fraudem factum esset. infr. eod. cfu 
+      <lb ed="#C" n="91"/>quia fraus &amp; dolus. &amp;c. infr. eod. officii in fin. Et si quis ali¬ 
+      <lb ed="#C" n="92"/>quem testari prohibeat, abejus erit haereditate repellen 
+      <lb ed="#C" n="93"/>dus Csiquis aliquem uest prohi Li &amp; 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="94"/>ADDITIONES 
+      <lb ed="#C" n="95"/>a Clericus de ecclesiasticis] Adde loan de Imol. inc fi. in 2. cd 
+    </p>
+    <p>
+      <lb ed="#C" n="96"/>de praeb. &amp; an valeat consuetudo quod clericus possit testat 
+      <lb ed="#C" n="97"/>de fructibus perceptis, &amp; quid de percipiendis, videper Ar¬ 
+      <lb ed="#C" n="98"/>in c. 12. qu. 5. in summa. Spec. in tit. de at mona. vers. 63. Anton.d 
+      <lb ed="#C" n="99"/>Butr. in c. rela el. 2. de test. 
+      <lb ed="#C" n="100"/>b Si clericus intestatus) Adde quid si talis non habeat nec con 
+    </p>
+    <p>
+      <lb ed="#C" n="101"/>sanguineos, nec ecclesiam, quis succedit vide per Abb. in ca 
+      <lb ed="#C" n="102"/>praesentia in recollectis de prob. qui dicit se vidisse de facto. Abb 
+      <lb ed="#C" n="103"/>in cap. quia diversitatem in fin. ae conces. praebend Abbas n cap. ex 
+      <lb ed="#C" n="104"/>communicamus. el. 1 de haered 
+      <lb ed="#C" n="105"/>e Ecclesia cui servierat omnia debet habere] Adde quod hi 
+    </p>
+    <p>
+      <lb ed="#C" n="106"/>limitatur, si ecclesia collegialiter committeret inoratitud 
+      <lb ed="#C" n="107"/>nem contra talem, quia hoc in casuecclesia non succedita 
+      <lb ed="#C" n="108"/>intestato, etiam si non extant consanguinei, de quo alles 
+      <lb ed="#C" n="109"/>glol fin in c fin. de post. quam ibi sequitur Ant. de Buti¬ 
+      <lb ed="#C" n="110"/>d Vel pii loci habeatur canon. portio] Adde Abb. &amp; loan d 
+    </p>
+    <p>
+      <lb ed="#C" n="111"/>Imol, inc. offic. detest. Ant. de Bur. in c. 2. detel. Bal. in I orplhum 
+      <lb ed="#C" n="112"/>trophos in fin. C. de episc. &amp; cle--> 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

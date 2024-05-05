@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 5</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 5</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="40"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e105"><!-- nbht7y-l1t5 -->
+            <head xml:id="nbht7y-d1e105-Hd1e101">Titulus 5</head>
+            <head xml:id="nbht7y-d1e105-Hd1e103" type="question-title">De postulatione praelatorum</head>
+            <p xml:id="nbht7y-d1e105-d1e106">
+               <lb ed="#C" n="22"/>De postulatione praelatorum. 
+      <lb ed="#C" n="23"/>Rub. V 
+    </p>
+            <p xml:id="nbht7y-d1e105-d1e113">
+               <lb ed="#C" n="24"/>SUMMARIA. 
+      <lb ed="#C" n="25"/>a Postulatio quid si¬ 
+      <lb ed="#C" n="26"/>2 Postulari debet habilis ad promovendun 
+      <lb ed="#C" n="27"/>Non professus in regularem praelatum, non postulatur 
+      <lb ed="#C" n="28"/>3 
+      <lb ed="#C" n="29"/>4 Epilepticus non postulatur 
+      <lb ed="#C" n="30"/>5 Membro mutilatus non postulatur. 
+      <lb ed="#C" n="31"/>&amp; Bigamus non postulatu 
+      <lb ed="#C" n="32"/>7 Electio facta a majori, &amp; saniori parte capituli, five de pro 
+      <lb ed="#C" n="33"/>prio, sive de alieno praevale 
+      <lb ed="#C" n="34"/>&amp; Postulatio a quo fieri debeal 
+      <lb ed="#C" n="35"/>9 Postulare quis posssi¬ 
+      <lb ed="#C" n="36"/>10 Postulatio qualiter fiat 
+      <lb ed="#C" n="37"/>11 Postulationis ffectus quis sit 
+      <lb ed="#C" n="38"/>12Jus per postulationem an acquiratur. 
+      <lb ed="#C" n="39"/>13 Pauperi eleemosynam petenti, non datur actio, &amp; tamen ten¬ 
+      <lb ed="#C" n="40"/>turdives dar 
+    </p>
+            <p xml:id="nbht7y-d1e105-d1e152">
+               <lb ed="#C" n="41"/>TRactatum est supra de jure 
+      scr<lb ed="#C" n="42" break="no"/>pto, &amp; non 
+      <lb ed="#C" n="43"/>scripto; sed quoniam parum prodest a jur 
+      <lb ed="#C" n="44"/>habere in civitate, nisi sit quijurareddat. s 
+      <lb ed="#C" n="45"/>de orig jur. l. 2. §. post originem. quia non est por 
+      <lb ed="#C" n="46"/>tabile, sine judice relinqui provinciam. in auth. de adnin 
+      <lb ed="#C" n="47"/>stratorib. §. illud autem omnibus. coll 7. ideo subjicit tractatun 
+      <lb ed="#C" n="48"/>de creatione ministrorum ecclesiae, per quos jura reddat 
+      <lb ed="#C" n="49"/>tur, &amp; quia per postulationem pervenitur frequenter a 
+      <lb ed="#C" n="50"/>electionem, vel quia per postulationem sicut &amp; per el¬ 
+      <lb ed="#C" n="51"/>ctionem ecclesiis aliquoties, &amp; casualiter providetur, ide¬ 
+      <lb ed="#C" n="52"/>praemittendo de postulatione, subsequenter annectetu 
+      <lb ed="#C" n="53"/>de electione. Dicamus igitur, Quid sit postulatio. Qui 
+      <lb ed="#C" n="54"/>postulandus sit, &amp; a quo. Quis postulare possit. Qualite 
+      <lb ed="#C" n="55"/>fiat postulatio. Quis est effectus postulationis. Et utrun 
+      <lb ed="#C" n="56"/>jus acquiratur per postulationem 
+    </p>
+            <p xml:id="nbht7y-d1e105-d1e190">
+               <lb ed="#C" n="57"/>Quid sit postulatio. Respondetur, quodel 
+      <lb ed="#C" n="58"/>gratiae petitio. arg. inf. eod 
+      <lb ed="#C" n="59"/>bonae. secundum Goffr. Sed non placet, quia non est conve¬ 
+      <lb ed="#C" n="60"/>tibilis cum suo descripto. unde dic, quod postulatio est a 
+      <lb ed="#C" n="61"/>licujus personae, quae eligi prohibetur, non propter vitium 
+      <lb ed="#C" n="62"/>sed propter defectum, qui tamen postulatum non omni 
+      <lb ed="#C" n="63"/>no inhabilem reddit ad providendum ecclesiae, concors 
+      <lb ed="#C" n="64"/>&amp; certa capituli facta petitio, bene dixi, non propter vi 
+      <lb ed="#C" n="65"/>tium, sic enim patet.
+    </p>
+            <p xml:id="nbht7y-d1e105-d1e212">
+               <lb ed="#C" n="66"/>Quis postulandus sit. Habilis ad 
+      promoven<lb ed="#C" n="67" break="no"/>dum; ergo non 
+      crimi<lb ed="#C" n="68" break="no"/>nosus. sicut enim perjurus, incontinens, homicida, ino 
+      <lb ed="#C" n="69"/>bediens eligi prohibetur, sic &amp; postulari. nfr. eod. c. 1 &amp;2 
+      <lb ed="#C" n="70"/>infra de elect. scriptum est. sed &amp; quandoque propter def¬ 
+      <lb ed="#C" n="71"/>ctum prohibetur eligi, si defectus ipsum omnino inhabi 
+      <lb ed="#C" n="72"/>3 lem reddit. idem ut pridem, ergo. * Non postulatur noi 
+      <lb ed="#C" n="73"/>professus in regularem praelatum. infratit. I. cum causan 
+      <lb ed="#C" n="74"/>&amp;c. cum ad nostram. &amp;c. cum in magistrum. nisi forte neces 
+      <lb ed="#C" n="75"/>sitate instante; tunc enim potest hoc fieri, dummodo in 
+      <lb ed="#C" n="76"/>regula fuerit competenter instructus. sic potest intelligi 
+      <lb ed="#C" n="77"/>infra eodem tit. cum monasterium de Pellina, &amp;c. officii. §. ul 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0057.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>item &amp; talis ad secularem praelaturam vocari potest,n 
+      <lb ed="#C" n="79"/>fra de voto &amp; vo. redevept. pertuas.* Nec postulatur epile¬ 
+      <lb ed="#C" n="80"/>pticus, sicut nec eli git, infra tit. I. cum inter canonicos, nis 
+      <lb ed="#C" n="81"/>forte curatus sit, ita quod per annum ad minus steterit li 
+      <lb ed="#C" n="82"/>beratus. 33. disti. communiter. Item nec postulatur mem¬ 
+      <lb ed="#C" n="83"/>pro mutilatus; quia talis omnino inhabilis est. infra de cor 
+      <lb ed="#C" n="84"/>vit. exposuisti. quod dicut in summa. eod. tit. Sed nec po¬ 
+      <lb ed="#C" n="85"/>stulatur bigamus, vel irregularis, vel alius consimilem de 
+      <lb ed="#C" n="86"/>fectum habens, quia talia &amp; similia omnino inhabilen 
+      <lb ed="#C" n="87"/>reddunt postulatum; ideo dixi in descriptione, si propte 
+      <lb ed="#C" n="88"/>defectum, &amp;c. nam quoniam talis defectus est, qui postu 
+      <lb ed="#C" n="89"/>latum non omnino inhabilem reddit, admittitur postula 
+      <lb ed="#C" n="90"/>tio. Ergo postulari potest, si defectus sit in aetate, infratit 
+      <lb ed="#C" n="91"/>I. cum nobis olim. §. pen. &amp; ult. Vel inordinabilis, infr. tit.1 
+      <lb ed="#C" n="92"/>dudum. 1. §. sin infra de aetat, &amp; quali a multis. Vel in natali 
+      <lb ed="#C" n="93"/>bus, infra tit. 1.innotuit. Vel in consensu, puta ligatas ha 
+      <lb ed="#C" n="94"/>pet alas, unde non potest libere consentire. in his &amp; consi 
+      <lb ed="#C" n="95"/>milibus defectibus postulari permittitur, sed eligi prohi 
+      <lb ed="#C" n="96"/>betur, ut patet infra eod. c. i. infra tit.I. nnotuit. §. habito, ergo 
+      <lb ed="#C" n="97"/>Postulatur etiam clericus alienae dioe vel laicus undecun¬ 
+      <lb ed="#C" n="98"/>que. 71. dist. privatus. Iaicus tamen a Papa postulandus ess 
+      <lb ed="#C" n="99"/>cum sit ineligibilis. 60. dist. per tot. &amp; junge ea quae not. inj 
+      <lb ed="#C" n="100"/>eod. §. &amp; a quo. vers. aliquoties. &amp; idem intelligas de clerico 
+      <lb ed="#C" n="101"/>in minoribus ordinibus constituto. Clericus vero in sa¬ 
+      <lb ed="#C" n="102"/>cris constitutus a suo praelato postulatus. 63. dist. literas. 86 
+      <lb ed="#C" n="103"/>dist. electionis. 71. dist. fraternitatem. 75. dist. Archi. Florentmum. 
+      <lb ed="#C" n="104"/>ideo vero talis dicitur postulari, quia quandiu in ecclesia 
+      <lb ed="#C" n="105"/>idoneus reperitur, non debet eligi aliunde. 66. dist. nec eme 
+      <lb ed="#C" n="106"/>ritis. &amp;c. nullus invitus. huic tamen juri in favorem colle 
+      <lb ed="#C" n="107"/>gii introducto potest renuntiare, idem collegium totum 
+      <lb ed="#C" n="108"/>vel major pars, &amp; assumere aliunde infratit. i. cum inter ca 
+      <lb ed="#C" n="109"/>nonicos. &amp;c. Vintonien. secundum Gof. Alii dicunt, quod cle 
+      <lb ed="#C" n="110"/>ricus alterius dice distincte postulandus est, quia hoc indi¬ 
+      <lb ed="#C" n="111"/>stincte dicitur. 61. dist. Osius. &amp; §. sed aliud, &amp; juvatur haec o 
+      <lb ed="#C" n="112"/>pin. infra de renunc. admonet. &amp; quia ut ibi invenitur sine li¬ 
+      <lb ed="#C" n="113"/>centia praelati, transire non potest. ergo videtur habere a 
+      <lb ed="#C" n="114"/>las ligatas, unde videtur eadem ratio, vel quasi, quae est &amp; in 
+      <lb ed="#C" n="115"/>episcopo. nec etiam videtur, quod episcopus possit concede 
+      <lb ed="#C" n="116"/>re subditum subditi, sine licentia pralati subditi, sicut nec Archi¬ 
+      <lb ed="#C" n="117"/>episcopus clericum episcopi suffraganei. ar. 54. dist. c.i. &amp; 9. q4. 3 
+      <lb ed="#C" n="118"/>c.. &amp; 2. Jo. scripsit &amp; Vinc. cum eo. quod semper praevalet ele¬ 
+      <lb ed="#C" n="119"/>ctio, de proprio gremio facta, etiamsi a duobus fiat. ut in 
+      <lb ed="#C" n="120"/>juribus allegatis sup. eod. vers. postulatur. &amp; 61. dist. obitum. 6 
+      <lb ed="#C" n="121"/>.I.denique ad finem. ibi, memoriale, inquit, filiis Israel, &amp; 
+      <lb ed="#C" n="122"/>.de episc. &amp; cler. in ercles. infra de cleri. pere . c. fin. nec obst. infra 
+      <lb ed="#C" n="123"/>tit.i. cum inter canonicos, quia ibi de hoc non fuit exceptum 
+      <lb ed="#C" n="124"/>efficaciter coram Papa, vel quia pars contradicens de pro 
+      <lb ed="#C" n="125"/>prio gremio non eligit. nec obst. infratit. I. in causis. qui¬ 
+      <lb ed="#C" n="126"/>illud contingit ex forma compromissi.  Tancre. dixit, 
+      <lb ed="#C" n="127"/>quod electio facta a majori &amp; saniori parte capituli, siv 
+      <lb ed="#C" n="128"/>de proprio, sive de alieno praevalet, nisi aliud impediat 
+      <lb ed="#C" n="129"/>infratit. 1.licet. §. fin. &amp;c. cum inter canonicos, &amp; c. in causis. &amp; 
+      <lb ed="#C" n="130"/>c. coram. &amp;c. quia propter. &amp;c. ecclesia infra de jud cum depu¬ 
+      <lb ed="#C" n="131"/>tati. infra de instit. ad decorem. nec obstant capitula a Jo. in¬ 
+      <lb ed="#C" n="132"/>ducta, vel quia loquuntur de honestate, vel quia licet nor 
+      <lb ed="#C" n="133"/>sit facienda de alieno gremio, tamen electio facta tenet. ar 
+      <lb ed="#C" n="134"/>gu. inf de jurejur. quemadmodum. §. quod si post hujus. nam &amp; 
+      <lb ed="#C" n="135"/>optimus eligendus est. 64. dist. inetropolitano. 25. dist. §. nun 
+      <lb ed="#C" n="136"/>autem. 9. qui.I. licet ergo ff. de decurio. eos. in princ. C. de his qui ad 
+      <lb ed="#C" n="137"/>eccl. confug praesenti. §. quod si in finib. &amp; tamen sufficiens tole 
+      <lb ed="#C" n="138"/>ratur. inf.iit.I. cum nobis olim. § his igitur. &amp;c. cum dilectis. §.1 
+      <lb ed="#C" n="139"/>&amp; 2. ubi meliores erant, quia sufficit ne malus existat. 16 
+      <lb ed="#C" n="140"/>g. ult. monasterium. Laurentius distinxit, quia aut duae par¬ 
+      <lb ed="#C" n="141"/>tes conveniunt in extraneum, &amp; tunc valet. nam duae par 
+      <lb ed="#C" n="142"/>tes instar totius capituli obtinent. inf.tit. I.licet. §. sin, cum su 
+      <lb ed="#C" n="143"/>is conc. &amp; sic vera est sententia Tancredi, aut unus de dua 
+      <lb ed="#C" n="144"/>bus partibus deficit, &amp; tunc tenenda sunt jura a Jo. indu 
+      <lb ed="#C" n="145"/>cta. Dico indistincte, sententiam Jo. &amp; Vincen. reprobandam 
+      <lb ed="#C" n="146"/>Sed quoad salvandas aliorum opiniones, sic potest distingui 
+      <lb ed="#C" n="147"/>Si quaeras, utrum clericus extraneus possit eligi, refert utri 
+      <lb ed="#C" n="148"/>immediate subsit Papae, puta exemptus est. &amp; talis postu 
+      <lb ed="#C" n="149"/>lari debet. arg sup. tit. I. cum venerabilis. inf. de renunc.c. sin. Ve 
+      <lb ed="#C" n="150"/>non sit subditus Papae, sed alteri, &amp; tunc subdisting utrun 
+      <lb ed="#C" n="151"/>sit astrictus ecclesiae parochiali, qui quodammodo sponsu 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="152"/>ADDITIO 
+      <lb ed="#C" n="153"/>a Parum prodest) Addec. ubi periculum. in §. praererea. de elec. sib. 6 
+    </p>
+    <p>
+      <lb ed="#C" n="154"/>c. decernimus. de sent. excom. eo lib. Archid. in c. humanum genus. I. 
+      <lb ed="#C" n="155"/>dist. idem Archid. 21. dist. in summa--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0058.xml-->
+      <pb ed="#C" n="41"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>dicitur 21. 4. sicut. &amp; tunt(a mi liter postulari debet, non eli 
+      <lb ed="#C" n="2"/>gi, &amp; sic intelligunturjura a IIegata, sup. eod. vers. alii dicun 
+      <lb ed="#C" n="3"/>&amp; in his casib. vera est disti nctio Lauren. sed junge ea, qua 
+      <lb ed="#C" n="4"/>not. inf. eo. §. &amp; utrum jus. ne C obst. infr.tit.i.cum inter canon 
+      <lb ed="#C" n="5"/>cos. &amp;c per inquisitionem. §. pen. in fin. quia in telligi potest, quo¬ 
+      <lb ed="#C" n="6"/>praepositus fuit electus in postulandum, sicut no. sup. eo. ver) 
+      <lb ed="#C" n="7"/>magister vel tenetur ibi eligere largo modo, sic infr. de temt 
+      <lb ed="#C" n="8"/>ord. dilectus. ubi &amp; his qui in minoribus ordinibus est, ele 
+      <lb ed="#C" n="9"/>ctus dicitur. &amp; tamen eligi non potest; ut no. sup. eo. ver.vi 
+      <lb ed="#C" n="10"/>mordinib. arg inf. co bonae.i.in fin. Si vero sit simpliciter ben¬ 
+      <lb ed="#C" n="11"/>ficiatus, non allegatus, vera est sententia Tancredi. Qui 
+      <lb ed="#C" n="12"/>vis autem de rigore juris sic possit distingui, tamen opini¬ 
+      <lb ed="#C" n="13"/>Tancredi generaliter tenetur, &amp; comprobatur a consue 
+      <lb ed="#C" n="14"/>tudine, quae est optima legum interpres. sup.tit.i. cum dile 
+      <lb ed="#C" n="15"/>ctus §. dictus ad fin. &amp; secundum ipsum pronunciatum fuit in 
+      <lb ed="#C" n="16"/>quadam causa, de facto jurando, de rectore ecclesiae, de tre¬ 
+      <lb ed="#C" n="17"/>cis, Claudeten. dioec. electo in propositum Viennen. Sed num 
+      <lb ed="#C" n="18"/>quid religiosus eligi potest; &amp; certe non videtur, quia ne¬ 
+      <lb ed="#C" n="19"/>transire potest ad alia religionem sine licentia. inf. de reg. licet 
+      <lb ed="#C" n="20"/>nec ad honores ecclesiasticos promoveri. 16. q. 1. si quis mi 
+      <lb ed="#C" n="21"/>nachus. &amp;c. cum pro utilitate. cum enim quaedam alienatio cen 
+      <lb ed="#C" n="22"/>seatur, etiam consensus totius conventus requirendus vide 
+      <lb ed="#C" n="23"/>tur. 19 9. 3. statuimus, 12 q. 2. sine exceptione; quia major est ali¬ 
+      <lb ed="#C" n="24"/>natio personae, quam rei. ar. 12.4.1. praecipimus &amp; expressun 
+      <lb ed="#C" n="25"/>est, quod prior conventualis, etia necessitate urgente, a 
+      <lb ed="#C" n="26"/>aliam ecclesiam sine fratrum consilio non transfertur. infr. de sta 
+      <lb ed="#C" n="27"/>myn § in. &amp; adde inf. de inst. § quis inst. vers. Item instituendus e 
+      <lb ed="#C" n="28"/>e! ricis secularis. &amp; seq. Solu. dicunt quidam, quod eligi po 
+      <lb ed="#C" n="29"/>test. quia hoc edictum prohibitorium est. arg. infr de spon. cum¬ 
+      <lb ed="#C" n="30"/>pua ali contra, quia cu episcopus prohibeatur eligi propte 
+      <lb ed="#C" n="31"/>defectu consensus. infr. eod. c. fin. multo fortius monachu¬ 
+      <lb ed="#C" n="32"/>quia neque velle habet. 2. q. 1nolo. inf. de stat. mon, cum ad mona 
+      <lb ed="#C" n="33"/>sterium. quia de similibu. ad similia, &amp;c. sup. de rescri inter cet 
+      <lb ed="#C" n="34"/>ras. &amp; ubi eadem ratio, idem jus. inf. de consan. tua. ad fin. C.d. 
+      <lb ed="#C" n="35"/>lib. praeter. vel exhaer. l. 1. C. de const. pe.I. ult. Magister lac. dice 
+      <lb ed="#C" n="36"/>bat. quod ipsum eligeret in postulandum. nam &amp; si quis cau 
+      <lb ed="#C" n="37"/>tus sit, &amp; dubitet an persona defectum patiatur, providebi 
+      <lb ed="#C" n="38"/>sibi, si in postulandum eligat, inf. tit. I. in causis. respoa. ad si. inf. a 
+      <lb ed="#C" n="39"/>renunc. post translationem.i. respon. &amp; §. cum ergo. de consuetu 
+      <lb ed="#C" n="40"/>dine tamen simpliciter eligitur, tota die. Sequitur in descr 
+      <lb ed="#C" n="41"/>ptione ad providendum ecclesiae, hoc ideo, quia per postula 
+      <lb ed="#C" n="42"/>tionem ad eiectionem pervenitur, ut patet in nis quae no. infr 
+      <lb ed="#C" n="43"/>eo. §. quis su effectus. vel melius hoc ideo dixi, quia trib mo 
+      <lb ed="#C" n="44"/>dis providetur ecclesiis per electionem canonicam. de qua inf 
+      <lb ed="#C" n="45"/>tit. I. in summa. Item per postulationem concordem. de qu¬ 
+      <lb ed="#C" n="46"/>hîc specialiter tractatur, &amp; de his duob. modis providendi 
+      <lb ed="#C" n="47"/>inf. eo. bonae me. 2. §. caeterum. &amp; §. verum. per nominationem etiam 
+      <lb ed="#C" n="48"/>solennem providetur. &amp; de his tribus habes inf. eo. bonae me. 
+      <lb ed="#C" n="49"/>in fi. &amp; dicitur nominatio solennis, cum duo vel tres excel 
+      <lb ed="#C" n="50"/>lentiores sunt in ecclesia, quorum nomina in scriptis soler 
+      <lb ed="#C" n="51"/>niter rediguntur, &amp; supplicatur Papae, quod dignetur o 
+      <lb ed="#C" n="52"/>altero providere. 85. dist. archidiaconum. ideo dixi in descr 
+      <lb ed="#C" n="53"/>ptione certa, &amp; alicujus personae, ut inter postulationem? 
+      <lb ed="#C" n="54"/>nominationem differentiam notarem, quia in postulatione un 
+      <lb ed="#C" n="55"/>ca persona, &amp; certa nominatur, nisi cap. dividatur. inf. eo¬ 
+      <lb ed="#C" n="56"/>bonae. 1. &amp; 2. sed in nominatione plures exprimuntur, &amp; si 
+      <lb ed="#C" n="57"/>incerta est petitio. tamen sec. Goff. per talem nomination 
+      <lb ed="#C" n="58"/>acquiritur jus. arg. a contrario sensu. 2. qu. 7. diffinitiva. ver 
+      <lb ed="#C" n="59"/>nominationes. 16. q. uli contra sanctorum. &amp; ipsa pendente, no 
+      <lb ed="#C" n="60"/>eligitur alius, ne Papa illudatur. inf. eo. bonae. 2. §. nec noceba 
+      <lb ed="#C" n="61"/>secus autem, si nominatio sit simplex, non solennis, &amp; dicitur 
+      <lb ed="#C" n="62"/>simplex illa quae fit in tractatu, quando dicitur Petrus es 
+      <lb ed="#C" n="63"/>set bonus, vel Gulielmus, vel talis. idem videtur de nomi 
+      <lb ed="#C" n="64"/>natione in scrutinio facta, quousque fuerit publicata. infi 
+      <lb ed="#C" n="65"/>tit. I. publicato. sec. Goff. &amp; de hac simplici loquitur inf. tit. 
+      <lb ed="#C" n="66"/>quod ficut. &amp;c. seque vel potest dici, quod nominationem soler 
+      <lb ed="#C" n="67"/>nem, vocat promissionem per unam factam, quae nec propri 
+      <lb ed="#C" n="68"/>electio dici potest, quod dic, ut no. inf.tit. i. §. qualiter vers 2
+    </p>
+            <p xml:id="nbht7y-d1e105-d1e561">
+               <lb ed="#C" n="69"/>Et a quo Patet ex praemissis, quod quando propter 
+      <lb ed="#C" n="70"/>defectum voluntatis eligi non potest, a pro 
+      <lb ed="#C" n="71"/>prio praelato postulandus est, ut no. § prox. vers postulantiu 
+      <lb ed="#C" n="72"/>&amp; vers. sed nunquid. qui si consentire noluerit, ad superior 
+      <lb ed="#C" n="73"/>recursus habetur. infra dejur. patr. nullus. 7. quaest. Lomnis qu 
+      <lb ed="#C" n="74"/>gemebat. 9. q. 3. nunc vero. Ubi vero propter defectum ordi 
+      <lb ed="#C" n="75"/>num, vel natalium, vel aetatis, eligi prohibetur, postulan¬ 
+      <lb ed="#C" n="76"/>dus est ab illo qui dispensare potest, quod dic, ut not. infr. 
+      <lb ed="#C" n="77"/>de aetat. &amp; qual. §. aetas. &amp; §. seq. nam in minoribus beneficiis 
+      <lb ed="#C" n="78"/>quinimo etiam si Abbatia sit a dioecesano, postulandus vi 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0058.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>detur, infratit.i. cum monasterium, de app. de aeta &amp; qual tuam 
+      <lb ed="#C" n="80"/>Aliquoties etiam postulatur quis a seipso. nam si sit lai¬ 
+      <lb ed="#C" n="81"/>cus ejusdem dioeces. a seipso postulatur, his verbis, Pet¬ 
+      <lb ed="#C" n="82"/>mus ut facias te promoveri, quia volumus te eligere. Sed 
+      <lb ed="#C" n="83"/>si sit de alia dioeces. tunc postulandus est a praelato propri¬ 
+      <lb ed="#C" n="84"/>&amp; collegio. 71. dist. primatus. &amp; quia consensus illorum n¬ 
+      <lb ed="#C" n="85"/>sufficeret, postulandus est postea a seipso. Quod si dicat 
+      <lb ed="#C" n="86"/>Nolo tonsurari, nisi de electione certificer, nullum pacti 
+      <lb ed="#C" n="87"/>interponendum est. &amp; si fiat quod ex eo, vel ob id sequ 
+      <lb ed="#C" n="88"/>tur, non valebit, sicut intelligitur. 59. distin. hoc ad nos, &amp; per 
+      <lb ed="#C" n="89"/>totam. 16. q. 7. per laicos. Sed non peccat qui hac spe recipit 
+      <lb ed="#C" n="90"/>ordinem. dum tamen principaliter eo proposito non du 
+      <lb ed="#C" n="91"/>ratur. 59. distin. si officia. 60. distin. quid proderit. 84. dist. consu¬ 
+      <lb ed="#C" n="92"/>luit. 76. dist. in singulis. 8. qu. prima, sunt in ecclesia. secundun 
+      <lb ed="#C" n="93"/>Hug. &amp; secundum hoc potest intelligi, infra tut. 1. cum a 
+      <lb ed="#C" n="94"/>petitam. Sed intellectus iste videtur reprobari ibidem, e 
+      <lb ed="#C" n="95"/>infratit.i. cum ad nostram. &amp; c. offi. &amp; inf. de suno. c. sin. &amp; jun 
+      <lb ed="#C" n="96"/>ge, quod no. sup. eo. §. quis postulandus. vers. postulatur
+    </p>
+            <p xml:id="nbht7y-d1e105-d1e629">
+               <lb ed="#C" n="97"/>Quis potest postulare. Is qui elgere uf cod 
+      <lb ed="#C" n="98"/>bonae. 2. §. caeterum. &amp; pe 
+      <lb ed="#C" n="99"/>totum, infra tit..innotuit. §. ult. super quo vide infra tit. . §. qui 
+      <lb ed="#C" n="100"/>possit 
+    </p>
+            <p xml:id="nbht7y-d1e105-d1e640">
+               <lb ed="#C" n="101"/>Qualiter fiat Postulatio. Dicit quod nontequi¬ 
+      <lb ed="#C" n="102"/>ritur forma. nisi hoc quod concordi 
+      <lb ed="#C" n="103"/>ter &amp; communiter consentiant postulantes. cum enim 
+      <lb ed="#C" n="104"/>gratia requiratur, concorditer &amp; communiter peti debe 
+      <lb ed="#C" n="105"/>infra §. eo. bonae.i. &amp; 2. caeterum. &amp; seq. alias Romana ecclesi. 
+      <lb ed="#C" n="106"/>non consuevit postulationem recipere. posset tamen, 
+      <lb ed="#C" n="107"/>vellet postulationem factam a majori, &amp; saniori parte capi 
+      <lb ed="#C" n="108"/>tuli admittere, minori parte minime eligere, sine cujusqui 
+      <lb ed="#C" n="109"/>injuria, quia generaliter obtinet, ut stetur majori &amp; sanio 
+      <lb ed="#C" n="110"/>ri parti. 65. dist c. 1. 2. &amp; 3. 10. q. 2. hoc jus porrectum, mfra de his quae 
+      <lb ed="#C" n="111"/>fiunt a ma. parte cap. c.1. Sed si minor pars eligat, tunc ad hoc 
+      <lb ed="#C" n="112"/>ut praevaleat postulatio, requiritur consensus duarum par 
+      <lb ed="#C" n="113"/>tium. infra tit.i. scriptum. secundum Goff. magister Jac. dici 
+      <lb ed="#C" n="114"/>quod decretum requiritur, quia est de substantia postu 
+      <lb ed="#C" n="115"/>lationis. sic intelligit, infra eod. bonae. 2. §. nec nocebat. 61. dis 
+      <lb ed="#C" n="116"/>episcopus. 7. qui... episcopus. 2. adde quod not. infra eod. §. &amp; utrum 
+      <lb ed="#C" n="117"/>vers. haec vera 
+    </p>
+            <p xml:id="nbht7y-d1e105-d1e679">
+               <lb ed="#C" n="118"/>Quis sit effectus postulationis ut postulatione 
+      <lb ed="#C" n="119"/>admissa habilitetur postulatus 
+      <lb ed="#C" n="120"/>ad eligendum, infratit. Linnotuit. § sin. hunc tamen ordinem 
+      <lb ed="#C" n="121"/>etsi jure procedat. non servat Romana curia; imo expostu 
+      <lb ed="#C" n="122"/>lationem recipit cum effectu, recipiendo corroborat, &amp; 
+      <lb ed="#C" n="123"/>corroborando recipit, sicut consuevit dici de Papa, quia 
+      <lb ed="#C" n="124"/>eligendo confirmatur, &amp; confirmando eligitur. 23. distin. in 
+      <lb ed="#C" n="125"/>nomine Domini, infra tit I.licet. approbatio enim postulatio¬ 
+      <lb ed="#C" n="126"/>nis &amp; postulati, pro electione &amp; confirmatione habetui 
+      <lb ed="#C" n="127"/>ideo datur episcopis tantum licentis transeundi sine con 
+      <lb ed="#C" n="128"/>firmatione alia. infra eo. bonae. 2. §. fi. inf.tit.i. de causis. § si. vel ac. 
+      <lb ed="#C" n="129"/>cedendum. infra de renunc. post transla. cum ergo. tales enim as 
+      <lb ed="#C" n="130"/>sumuntur, infratit. i. officii, §. sin. hoc ideo facit curia, ut vi¬ 
+      <lb ed="#C" n="131"/>tetur circuitus, ff.de cond. indeb. dominus. &amp; ut ecclesiarun 
+      <lb ed="#C" n="132"/>dispendiis occurratur, infratit..ne pro defectu. &amp; c. quia pro 
+      <lb ed="#C" n="133"/>pter. &amp;c. nihil est. secundum Goffr. videtur tamen, quod 
+      <lb ed="#C" n="134"/>confirmari debeat inf.tit.i.cum monasterium. &amp; junge quod 
+      <lb ed="#C" n="135"/>not. sup. eo. § quis postulandus. vers. sequitur. &amp; infra cod. §. &amp; 
+      <lb ed="#C" n="136"/>utrum.
+    </p>
+            <p xml:id="nbht7y-d1e105-d1e724">
+               <lb ed="#C" n="137"/>Utrum jus, acquiratur per postulationem, dixit, 
+      <lb ed="#C" n="138"/>Da quod non, quia gratiae innititur. inf. 
+      <lb ed="#C" n="139"/>eod. bonae.1. &amp;c. postulationem. nec obst. inf. eo. bonae 2. §. nec no¬ 
+      <lb ed="#C" n="140"/>cebat. nec enim sequitur, Resilire non possunt, ergo jus ac 
+      <lb ed="#C" n="141"/>quiritur. nam si omnes socii praeter unum, mihi concesse. 
+      <lb ed="#C" n="142"/>rint in communi feudo servitutem, nihil acquiritur mihi 
+      <lb ed="#C" n="143"/>&amp; tamen qui concesserunt, resilire non possunt f. de servit. 
+      <lb ed="#C" n="144"/>rust. praed. per fundum. dic ergo, quod nisi sequatur electio 
+      <lb ed="#C" n="145"/>nullum jus acquiritur postulato, si tamen postulantes fa¬ 
+      <lb ed="#C" n="146"/>ciant aliquem ordinari, sub hac spe, ut eum eligant, &amp; postea 
+      <lb ed="#C" n="147"/>eligunt alium, tenet electio, dum tamen postulatio superio 
+      <lb ed="#C" n="148"/>ri non fuerit praesentata, alioquin contra, ut in d. § nec no 
+      <lb ed="#C" n="149"/>cebat. Sed tamen eludentes, tenentur eluso actione injuri 
+      <lb ed="#C" n="150"/>arum, quia non licet mutare consilium in alterius injuriam 
+      <lb ed="#C" n="151"/>ff. de reg. jur. nemo. ar. 22. 4.2. primum. secundum Hug &amp; D. 
+      <lb ed="#C" n="152"/>tamen quicquid dicant, potius videtur dari actio de dolo 
+      <lb ed="#C" n="153"/>arg. ff. de dolo. cum quis, &amp; l. si cum mihi de hoc dic, ut no. sut 
+      <lb ed="#C" n="154"/>eo. §. &amp; a quo. vers. aliquoties. ad fin. Guil. Nas. dicit, quod pe 
+      <lb ed="#C" n="155"/>postulationem acquiritur jus. ut infra tit. I. scriptum. Si e¬ 
+      <lb ed="#C" n="156"/>nim non haberet jus, postulatus non admitteretur ad ap 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0059.xml-->
+      <pb ed="#C" n="42"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>pellandum, infitt, cum inter R. seniorem. §. I. quod in fin. in 
+      <lb ed="#C" n="2"/>tit..bonae mem. Magis &amp; C. in causis. Item nec posset apere 
+      <lb ed="#C" n="3"/>quia sine actio, &amp;c. ut no. infr. de li. ob. §. quid debeat contine 
+      <lb ed="#C" n="4"/>re libellis. Item postulatio &amp; electio e aequiparantur, u 
+      <lb ed="#C" n="5"/>patet in his quae not. supra eo. § quis postulandus pers sequi 
+      <lb ed="#C" n="6"/>tur in descriptione. sicut enim una electione pendente, ali¬ 
+      <lb ed="#C" n="7"/>fieri non debet. ut not. infr.tit. 1. §. qualiter facienda su electi¬ 
+      <lb ed="#C" n="8"/>post tractatum formatum in illa qui. Quid si duae electiones a fi 
+      <lb ed="#C" n="9"/>unt in discordia, &amp; dist. ibi seq. ita nec una postulationi 
+      <lb ed="#C" n="10"/>pendente, infr. tit. i.bonae me. Mag. circa princ. &amp; c. in causis. §. 
+      <lb ed="#C" n="11"/>necplus juris habet electus, quam postulatus, quia neute 
+      <lb ed="#C" n="12"/>ante confirmationem administrat, &amp; utriusque consensu¬ 
+      <lb ed="#C" n="13"/>requiritur. inf.tit.i.nosti. &amp; c qualiter. &amp; c. innotuit. &amp; detransl 
+      <lb ed="#C" n="14"/>episcopi. c. 1. &amp; fin. Item in utraque decretum requiritur 741 
+      <lb ed="#C" n="15"/>episcopus. inf. eo bonae. 2. §. 1. 6. dist. episc. nec obst. §. ibi praecedens 
+      <lb ed="#C" n="16"/>sed aliud, ubi innuit, quod postulatio fiat sine decrett 
+      <lb ed="#C" n="17"/>quia allegando hoc dicit, non probat, quando aliquis a s¬ 
+      <lb ed="#C" n="18"/>ipso postulatur, de quo dixi supra eo. &amp; a quo ver aliquo 
+      <lb ed="#C" n="19"/>nec obst infr. postulationem. quia ibi loquitur de inept 
+      <lb ed="#C" n="20"/>postulatione, quare dicit Hujus. nec obst. nf. eod bonae. 2.5 
+      <lb ed="#C" n="21"/>nec nocebat. ubi innuit, quod non acquiratur jus quousqu 
+      <lb ed="#C" n="22"/>repraesentata fuerit, quia allegatio est, nec illi rationi inn 
+      <lb ed="#C" n="23"/>titur Papa. Sed alii, ut apparet in sententia, ibi, intelleximu 
+      <lb ed="#C" n="24"/>itaque &amp;c nec obst mf. eo bonae. 1. § pen. ubi dicit, non tam e 
+      <lb ed="#C" n="25"/>justitia, quam ex gratia, quia non debet excludi, ergo no 
+      <lb ed="#C" n="26"/>de justitia, sed de gratia, imo debet concludi, ergo de just 
+      <lb ed="#C" n="27"/>tia &amp; gratia, licet magis de gratia, secund. Guil. Nas. prim 
+      <lb ed="#C" n="28"/>expositio est privativa, secunda vero comparativa, sicut dici 
+      <lb ed="#C" n="29"/>tur vulgariter, in hoc scypho non est tantum de vino, quâ 
+      <lb ed="#C" n="30"/>rum de aqua. Potest etiam vitari Guil. Naso per eandem di¬ 
+      <lb ed="#C" n="31"/>creta. in fi. ubi haec tria ponuntur sub distinctione, election 
+      <lb ed="#C" n="32"/>postulationem, &amp; nominationem, unde videntur aequipoller 
+      <lb ed="#C" n="33"/>tia arg sup de rescriptis. inter caeteras. inf. quod met, cau. ad aures 
+      <lb ed="#C" n="34"/>§.. inf de praeb. dilecto §. quanquam. nec obst. quod Papa potes 
+      <lb ed="#C" n="35"/>ipsam admittere, vel non admittere, sine cujusque injuri¬ 
+      <lb ed="#C" n="36"/>inf. eod postulationem. &amp; quod de gratia admittit ipsam. quoc 
+      <lb ed="#C" n="37"/>etiam intelligas, si vis mera &amp; pura, &amp; sine injustitia, qui¬ 
+      <lb ed="#C" n="38"/>hoc intelligitur secund plenitudinem potestatis, quam habe 
+      <lb ed="#C" n="39"/>inf.tit.1.illa &amp; de usu pallii ad honorem. secund quam dejur 
+      <lb ed="#C" n="40"/>potest sup jus dispensare, inf. de conc. praeb, proposuit. secum 
+      <lb ed="#C" n="41"/>quam dicitur gratiam facere, etiam si jus reddit, puta conceder 
+      <lb ed="#C" n="42"/>do rescriptu sup de rescr. quia nonnulli. &amp; cap. nonnulli. &amp;c. se 
+      <lb ed="#C" n="43"/>des. vel etiam dejure confirmando electionem. inf.tit.i.cun 
+      <lb ed="#C" n="44"/>inter universas in fi. secun quam sequeretur, quod de sola gra 
+      <lb ed="#C" n="45"/>tia electionem canonicam confirmaret. ergo largo modo, gra 
+      <lb ed="#C" n="46"/>tia est quicquid facit, quia legib. est solutus. ef de legi prin 
+      <lb ed="#C" n="47"/>teps. C. de legi. digna vox. Gof. sequens opin. Tan. dixit, quoc 
+      <lb ed="#C" n="48"/>postulato non acquiratur jus, per quod agere possit, cun 
+      <lb ed="#C" n="49"/>ex gratia pendeat. ff de ali. leg. rem legatam ff. de evic Ad res d 
+      <lb ed="#C" n="50"/>natas. tamen si postulatio fiat concordia, &amp; de digno, ex de 
+      <lb ed="#C" n="51"/>bito incumbit superiori ipsam admittere, quod si non f¬ 
+      <lb ed="#C" n="52"/>ceritinjuriam, facit ad gratiam, si admittat, argu ff.de aqu 
+      <lb ed="#C" n="53"/>quo &amp; aesti. l. a§. pen. ff qui satisd cog. l. si vero in fi. tamen de tal 
+      <lb ed="#C" n="54"/>injuria agere non potest, sic alias injuram facit synodo, si 
+      <lb ed="#C" n="55"/>quis semel judicata ac recte deposita revolvere contendit 
+      <lb ed="#C" n="56"/>&amp; in publico disputari. C. de sum. tri. I3. in princ. sed ex ea agi 
+      <lb ed="#C" n="57"/>non potest, quia nec tanta est. C. de app &amp; in majorib. Simil 
+      <lb ed="#C" n="58"/>in praesentato a laico, qui variare potest. infra de jur patron 
+      <lb ed="#C" n="59"/>cum advocatus nec ratum est, quod incipit quousque per 
+      <lb ed="#C" n="60"/>praelatum fuerit approbatum. mfra de jur. patr. quod autem 
+      <lb ed="#C" n="61"/>consulit. &amp; de gratia admittitur praesentatus. 16. qu. 5. si qui 
+      <lb ed="#C" n="62"/>episcoporum inf. de jur patr. quoniam. &amp; de poen. in quibus 
+      <lb ed="#C" n="63"/>dam: sed si praelatus non admittit, potest haberi recursu 
+      <lb ed="#C" n="64"/>ad superiorem, ut no supra eod. §. &amp; a quo. respon. 1. sed &amp; s 
+      <lb ed="#C" n="65"/>alium instituat a non patrono praesentatum, primo reprae¬ 
+      <lb ed="#C" n="66"/>sentato agente, removebitur, &amp; infra de sentent,. &amp; rejudic 
+      <lb ed="#C" n="67"/>cum Bertoldas. sed &amp; si ad repraesentationem ejusdem pa 
+      <lb ed="#C" n="68"/>troni alium instituat, tenet institutio, injuriam tamen faci 
+      <lb ed="#C" n="69"/>primo praesentato, idoo debet ei consimili beneficio pro¬ 
+      <lb ed="#C" n="70"/>videre, inf. de jur pat pastoralis. Sic dispensatio ex gratia pe 
+      <lb ed="#C" n="71"/>titur, &amp; tamen ad ipsam ex causa concedendam superioi 
+      <lb ed="#C" n="72"/>tenetur. 50. distinct. pendere. &amp;c. domino sancto. &amp; c. si quis di¬ 
+      <lb ed="#C" n="73"/>conus.* Sed pauperi, eleemosynam petenti non datura 
+      <lb ed="#C" n="74"/>ctio, &amp; tamen dives teneturf ipsam dare, iuxta illud, Omn 
+      <lb ed="#C" n="75"/>petenti a te, tribue, &amp; illud, Date eleemosynam,  &amp;c. 8 
+      <lb ed="#C" n="76"/>probatur, 16. qu. I praedicator. &amp;c fin. Item acquiritur iu 
+      <lb ed="#C" n="77"/>postulato, quia postulantes resilire non possunt, ex qu¬ 
+      <lb ed="#C" n="78"/>repraesentata est, ut dictum est. Electo vero acquiritur ju 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0059.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>petendi confirxxzitionem, infra de accus. super his. Ego ve¬ 
+      <lb ed="#C" n="80"/>ro, quod adjur a &amp;opiniones salvandas pertinet, quicqui¬ 
+      <lb ed="#C" n="81"/>alii cantaverint, sic distinguo. Aut duo postulantur, au 
+      <lb ed="#C" n="82"/>duo eliguntur. Aut unus postulatur, &amp; alius eligitur. S 
+      <lb ed="#C" n="83"/>duo postulantur, aut in alterum conveniunt duae parte 
+      <lb ed="#C" n="84"/>capituli, &amp; postulatio fit ex causa, puta propter urgenten 
+      <lb ed="#C" n="85"/>necessitatem, vel evidentem utilitatem ecclesiae, aut alt¬ 
+      <lb ed="#C" n="86"/>rum istorum deficit. in primo casu acquiritur jus postu¬ 
+      <lb ed="#C" n="87"/>lantibus adeo, quod etiam confirmatio peti potest arg ins 
+      <lb ed="#C" n="88"/>tit.i. cum monasterium. &amp;c. cum nobis olim. §. ult. &amp; c. in causis. § 
+      <lb ed="#C" n="89"/>sin. inf de aeta. &amp; qual. tuam, &amp;c. quaeris. inf. de conces praeb. cum 
+      <lb ed="#C" n="90"/>nostris § sin etiam si non professus in praelatum regularium 
+      <lb ed="#C" n="91"/>postuletur. dum tamen in regula sit competenter instru 
+      <lb ed="#C" n="92"/>ctus, ut in d.c. inf. tit. I. cum monasterium, &amp;c. essic § sin &amp; sic 
+      <lb ed="#C" n="93"/>potest intelligi sententia Guil. Nasonis, &amp; jura sua. Sed non 
+      <lb ed="#C" n="94"/>acquiritur jus postulato, &amp; sic intellige sententiam Da ju 
+      <lb ed="#C" n="95"/>ra sua, nisi fuerit superiori repraesentata, alioquin jus ac 
+      <lb ed="#C" n="96"/>quiritur, sicut dixit Gos. non tamen aget postulatus, ne di 
+      <lb ed="#C" n="97"/>se nimis praesumendo se ingerere videatur. argu. infr. tit.1 
+      <lb ed="#C" n="98"/>qualner. 8. q. 1. in scriptis. verum in modum denunciationis 
+      <lb ed="#C" n="99"/>forte admittentur, ob utilitatem ecclesiae, arg. inf tit.i.publi 
+      <lb ed="#C" n="100"/>cato infra de jur. jur. quemadmodum. &amp; c. ad nostram. 7. q. I.c. qui 
+      <lb ed="#C" n="101"/>episcopatum. Multo sortius hic locum habeat, si unanimus 
+      <lb ed="#C" n="102"/>&amp; concors sit postulatio, ut patet in his, quae not. sup. eod 
+      <lb ed="#C" n="103"/>§. qualiter. &amp; Squis postulandus. ret( sequitur. Quid si neute 
+      <lb ed="#C" n="104"/>duorum postulatorum habeat duas partes, vel habeat, se¬ 
+      <lb ed="#C" n="105"/>non sit ex causa, non juri, sed gratiae innititur. sic etiam in 
+      <lb ed="#C" n="106"/>telligi potest sententia Da. &amp; jura sua, arg. inf titi licet §. ie 
+      <lb ed="#C" n="107"/>2. &amp; c. venerabilem. §. objectioni rersquod autem. Ubi vero duc 
+      <lb ed="#C" n="108"/>eliguntur, ibi semper majori &amp; saniori parti eligentium 
+      <lb ed="#C" n="109"/>standum erit, nec requiritur causa, sicut in postulatione 
+      <lb ed="#C" n="110"/>inf.tit. 1.licet §. si coram. &amp;c. renerabilem. §. objectioni rers. exer 
+      <lb ed="#C" n="111"/>cuit. &amp; c.quia propter &amp; c. ecclesia 26 fin. Si autem unus eligi 
+      <lb ed="#C" n="112"/>tur, &amp; alius postulatur, &amp; in postulatum duae partes con 
+      <lb ed="#C" n="113"/>veniunt, &amp; ex causa sit, praefertur postulatio, &amp; vincite 
+      <lb ed="#C" n="114"/>lectionem. ergo in hoc casu fortior est quam electio, &amp; si 
+      <lb ed="#C" n="115"/>intelligi potest sententia Guil. Nas. infra tit.i. scriptum. §. 
+      <lb ed="#C" n="116"/>Quid si unus de duabus partibus deficiat, vel causa nor 
+      <lb ed="#C" n="117"/>subest? electus obtinet, infratit.i. scriptum. §. quod si ad fa 
+      <lb ed="#C" n="118"/>ciendum. Haec vera intelligas, dummodo personae idoneae 
+      <lb ed="#C" n="119"/>sint, &amp; formae generalis concil. ex quo de discordia duo 
+      <lb ed="#C" n="120"/>rum agitur, fuerint observatae, secundum quosdam, qui¬ 
+      <lb ed="#C" n="121"/>bus non assentio, quo ad postulationem. Sed dic, ut not. inf 
+      <lb ed="#C" n="122"/>tit. I. §. utrum inutari. super decre publicato. in illo verbo, electo 
+      <lb ed="#C" n="123"/>res. alioquin, scilicet si personae non sunt idoneae person¬ 
+      <lb ed="#C" n="124"/>idonea contra personam postulatam minus idoneam 
+      <lb ed="#C" n="125"/>quamvis duas partes habeat, obtinebit. infra tit.i.dudum 
+      <lb ed="#C" n="126"/>§. sin &amp; c. scriptum. §. si rero. &amp;c. congregato. secundum ho¬ 
+      <lb ed="#C" n="127"/>intelligi potest sententia Laur. quam not. supra cod. §. quii 
+      <lb ed="#C" n="128"/>postulandus. ver. Laur. dixit. &amp; dist. sequens. 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="129"/>ADDITIONES 
+      <lb ed="#C" n="130"/>e Postulatio &amp; electio) Adde Bald. super ista rubric. in 2. col. ver 
+    </p>
+    <p>
+      <lb ed="#C" n="131"/>sciendum est 
+      <lb ed="#C" n="132"/>d Duae electiones) Adde an sors possit servari in isto easu. vide 
+    </p>
+    <p>
+      <lb ed="#C" n="133"/>per dom. Card. Zab inc. fin de sori 
+      <lb ed="#C" n="134"/>e Legibus est solutus) Adde l. ex imperfecto. C. detest. c. iustun 
+    </p>
+    <p>
+      <lb ed="#C" n="135"/>est. 9. dist. §. fin. 25. q. 1. Card. Alex inc si Romanorum. 19. dis¬ 
+      <lb ed="#C" n="136"/>f Dives tenetur) Adde glo. sing. in cap. sicut hi. in verbo, ex viver: 
+    </p>
+    <p>
+      <lb ed="#C" n="137"/>um. 47. d st. Earb in cap. significantibus. in II.col. de offic. deleg. Barb. 
+      <lb ed="#C" n="138"/>in c nullus. in I. col. de pi 
+      <lb ed="#C" n="139"/>Date eleemosvnam) Adde tex. in c. quia tua. 12. 9. I. c. decimas 
+      <lb ed="#C" n="140"/>16 9.l. c. nedicamentum de pon. dist. 1.originasiter. Laca II.-->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

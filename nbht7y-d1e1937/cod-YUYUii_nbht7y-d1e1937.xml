@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 23</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 23</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="734"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1937"><!-- nbht7y-l5t23 -->
+            <head xml:id="nbht7y-d1e1937-Hd1e101">Titulus 23</head>
+            <head xml:id="nbht7y-d1e1937-Hd1e103" type="question-title">De delictis puerorum</head>
+            <p xml:id="nbht7y-d1e1937-d1e106">
+               <lb ed="#C" n="113"/>De Delictis Puerorum. Rubri¬ 
+      <lb ed="#C" n="114"/>ca XXIII. 
+    </p>
+            <p xml:id="nbht7y-d1e1937-d1e113">
+               <lb ed="#C" n="115"/>SUMMARIA 
+      <lb ed="#C" n="116"/>Minor si delinquat, an &amp; quando puniatur. 2 
+      <lb ed="#C" n="117"/>3 Delictum proprie quid dicatur 
+      <lb ed="#C" n="118"/>4 Pupillas proximus pubertati, &amp; an puniatur temporalite¬ 
+      <lb ed="#C" n="119"/>5 Mater pupillo tutorem petere confestim, &amp; in quibus casibus di 
+      <lb ed="#C" n="120"/>bet excusatur 
+    </p>
+            <p xml:id="nbht7y-d1e1937-d1e129">
+               <lb ed="#C" n="121"/>QUia nedum delicta a majoribus amis 
+      <lb ed="#C" n="122"/>commissa, punienda fun 
+      <lb ed="#C" n="123"/>imo etiamsi a minoribus annis committantur 
+      <lb ed="#C" n="124"/>τ licet non ita severe, ut patet ex seque videamu 
+      <lb ed="#C" n="125"/>de delictis puerorum, ex quo vidimus de delictis majorum 
+      <lb ed="#C" n="126"/>dicentes, quando &amp; qualiter puniantur, &amp; certe distis 
+      <lb ed="#C" n="127"/>guendum est, utrum minor delinquat ex culpa seu negli 
+      <lb ed="#C" n="128"/>gentia, non ex proposito animi, an ex certa scientia. Sii 
+      <lb ed="#C" n="129"/>nor delinquat ex culpa, seu negligentia, non ex proposi 
+      <lb ed="#C" n="130"/>to, mero jure obligatur. Sed tamen restitutionem peter¬ 
+      <lb ed="#C" n="131"/>potest, sive civiliter conveniatur, sive criminaliter accu 
+      <lb ed="#C" n="132"/>setur. C. si adrer. deli. l.I. Si vero ex certa scientia deliquit 
+      <lb ed="#C" n="133"/>siquidem civiliter conveniatur, non restituitur, nisi pote 
+      <lb ed="#C" n="134"/>rit confiteri, ne teneretur dupli, &amp; maluit negare, hic enim 
+      <lb ed="#C" n="135"/>in hoc solum restituitur, ut pro confesso habeatur. Item s 
+      <lb ed="#C" n="136"/>potuit transire, maxime in negotio, sive actione paenal 
+      <lb ed="#C" n="137"/>restituitur, ut habeatur pro transacto, scilicet tanta quan 
+      <lb ed="#C" n="138"/>titate, quanta fransigere potuit, quod si certa summa nor 
+      <lb ed="#C" n="139"/>apparet, accipietur &amp; aestimabitur arbitrio boni viri, qui 
+      <lb ed="#C" n="140"/>verisimile est eum transigere potuisse, ut ff. deminor, sic¬ 
+      <lb ed="#C" n="141"/>causa §. nanc videndum. &amp; § si in commissum. nec efficitur in 
+      <lb ed="#C" n="142"/>famis, cum authoritate judicis fiat transactio, ut ff de his qu 
+      <lb ed="#C" n="143"/>not. infam. furti. &amp; quae jussu. Sed si conveniatur ex delicti 
+      <lb ed="#C" n="144"/>suo commisso ex proposito, non parcitur ei, tamen secun 
+      <lb ed="#C" n="145"/>dum quosdam, in falsa moneta fallit haec regula, quia ibi par 
+      <lb ed="#C" n="146"/>citur impuberi. C. de fal. mo. I. I.ad si. Sed certe ibi non dicitur 
+      <lb ed="#C" n="147"/>quod deliquerit, quinimo excusatur, &amp; praesumitur igno 
+      <lb ed="#C" n="148"/>rare, ergo in proprio delicto non parcitur, ut C. de poen im 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0752.xml-->
+      <pb ed="#C" n="735"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>punitas. 15. g. 1. illa, 2i qu. 5. si quis cujus libet. ubi qui clericur 
+      <lb ed="#C" n="2"/>damuatam per episcopum defensare vult; non excusatu 
+      <lb ed="#C" n="3"/>propteraetatem, vel sexum; sed nec in aliis parcitur, ni 
+      <lb ed="#C" n="4"/>quatenus miseratio aetatis produxerit judicem ad medio 
+      <lb ed="#C" n="5"/>crem, sive mitiorem poenam, ut infra eod, cap. i. &amp; de consec 
+      <lb ed="#C" n="6"/>dist. 4, cap. eos. ff. de min. auxilium §. in delictis. sic &amp; parcitu 
+      <lb ed="#C" n="7"/>senectuti. f. de term. amo. l. 2. ad idem supra de aposta ex litera 
+      <lb ed="#C" n="8"/>rum. In adulterio autem, vel alio crimine, quod pro adu 
+      <lb ed="#C" n="9"/>terio lex Jul. punit. puta si pretium accepit pro compert 
+      <lb ed="#C" n="10"/>stupro, vel domum praebuit ad stuprum, vel adulteriun 
+      <lb ed="#C" n="11"/>committendum, districte punitur, in nullo enim eiden 
+      <lb ed="#C" n="12"/>parcitur, adversus praecepta legum venienti, cum com 
+      <lb ed="#C" n="13"/>mittat in legem, ut f. de minor. auxilium. §. in delictis, &amp; I., 
+      <lb ed="#C" n="14"/>ex causa. Sin autem petat sibi subveniri in delictis non 
+      <lb ed="#C" n="15"/>se, sed ab alio commissis, puta ut liceat ei accusare delir 
+      <lb ed="#C" n="16"/>quentem, qui liberatus est a poena criminis: praescripti¬ 
+      <lb ed="#C" n="17"/>ne temporis nullo modo restituitur ratione aetatis, lice 
+      <lb ed="#C" n="18"/>major restitueretur ratione absentiae, ut ff. de minor. aux 
+      <lb ed="#C" n="19"/>lium. &amp; ex quibus causis manu. si qua.? Et dicitur proprie di 
+      <lb ed="#C" n="20"/>lictum, quod committitur in omittendo, dictum quasi di 
+      <lb ed="#C" n="21"/>relictum, plerunque tamen ponitur &amp; pro his quae omi 
+      <lb ed="#C" n="22"/>tuntur, &amp; pro his quae fiunt, seu committuntur. Item lice 
+      <lb ed="#C" n="23"/>major sui corporis ludibrium faciens ipso jure infame 
+      <lb ed="#C" n="24"/>tur, ut C. ex quibus causis infa irrog. l. pen. ipse servatur illae 
+      <lb ed="#C" n="25"/>sus, ut ibi, forte quia se tantum laedit, non alium. Item i 
+      <lb ed="#C" n="26"/>vatur minor secundum Plac. ipso jure, ubi habet ratun 
+      <lb ed="#C" n="27"/>delictum ab alio commissum, quasi non vere crimen ac 
+      <lb ed="#C" n="28"/>mittat, qui ratum habet, sed secundum Azo. hoc non pro 
+      <lb ed="#C" n="29"/>batur I. imo ratihabitio cum fiat animi scientia, retrotr. 
+      <lb ed="#C" n="30"/>hitur, ut ff. de vi &amp; vi arma l. I. §. quoties, &amp; de regul. jur. hoc re 
+      <lb ed="#C" n="31"/>spons. I. Patet ex superioribus quod locutus est Azo de m. 
+      <lb ed="#C" n="32"/>nore majore 13. an. minor enim 14. ann. non tenetur l. Ju 
+      <lb ed="#C" n="33"/>de adul ff.de aduli. si minor. Solet tamen in quibusdam ma 
+      <lb ed="#C" n="34"/>litia anticipare tempora pubertatis, supra de despons. impul 
+      <lb ed="#C" n="35"/>a nobis, &amp; c puberes. &amp; aliquando tentant, quod forian co 
+      <lb ed="#C" n="36"/>plere non possunt, supra de despons. juvenis, &amp;c. fin. in qu 
+      <lb ed="#C" n="37"/>casu ipsos peccare intelligas, si alias mulieres tentaverum 
+      <lb ed="#C" n="38"/>quam uxores, jus tamen praesumitur, quod in pueris loc 
+      <lb ed="#C" n="39"/>non habet peccata, quae membris genitalibus committi 
+      <lb ed="#C" n="40"/>tur. infra eod. capit. 1. unde dicitur, quod omne delictun 
+      <lb ed="#C" n="41"/>cadit in puberem, praeterquam delictum carnis, quod ii 
+      <lb ed="#C" n="42"/>telligas, quo ad spiritualem, &amp; poenitentiam a sacerdot 
+      <lb ed="#C" n="43"/>petendam, ex quo tamen septem annos excessit, quia tali 
+      <lb ed="#C" n="44"/>potest mentiri, &amp; verum dicere, ut dicit Aug in epist. a 
+      <lb ed="#C" n="45"/>Renatum episcopum, sic enim habetur in gloss. super ca 
+      <lb ed="#C" n="46"/>consecrat. distin. parvuli septennis aetatis pueri &amp; mentiri, e 
+      <lb ed="#C" n="47"/>verum loqui, &amp; confiteri, &amp; negare jam possunt, &amp; ide¬ 
+      <lb ed="#C" n="48"/>cum baptizantur; &amp; symbolum reddunt, &amp; ipsi pro se a¬ 
+      <lb ed="#C" n="49"/>interrogata respondent; nam &amp; mendaciis, &amp; perjurii 
+      <lb ed="#C" n="50"/>plena est puerilis aetas, infra cod c. 1. &amp; quamvis jurare no 
+      <lb ed="#C" n="51"/>debeant, 22. qu 5 pueri. &amp;c. parvuli. &amp;c. honestum. si tamen ji 
+      <lb ed="#C" n="52"/>raverit, valet pupilli juramentum: potest ergo puer deje 
+      <lb ed="#C" n="53"/>rare. ff de lib. cau.I.ult. &amp; furtum committere, ut fe de fur. in 
+      <lb ed="#C" n="54"/>pubere. etenim malorum mores infirmitas animi excusa 
+      <lb ed="#C" n="55"/>ut C. si adver. deli. l.i. hoc denotat mens verbi positi infra coc 
+      <lb ed="#C" n="56"/>pueris grandiusculis. non dixit, infantibus, nec dixit, pueri 
+      <lb ed="#C" n="57"/>grandibus, sed grandiusculis, qui. d. de majoribus 8. ann. Ic 
+      <lb ed="#C" n="58"/>quor. infantibus ergo in nullo imputaretur, ut C de ju. di 
+      <lb ed="#C" n="59"/>lib. si infanti. quia ejus aetas quid videat ignorat. C. de fal. mi 
+      <lb ed="#C" n="60"/>l.I. de consec. distin. 4. eos ff.de aedil. edict. cum autem § excipiius 
+      <lb ed="#C" n="61"/>unde nec puniri potest, quia sciens fallere non videtur. 
+      <lb ed="#C" n="62"/>de jurejur. qui jurasse. &amp; de iu. &amp; fact. ign. I.ulti. &amp; de arbit. dier 
+      <lb ed="#C" n="63"/>proferre. §. coram. &amp; de acque haered. pupillus. &amp; ex quibus caus. 
+      <lb ed="#C" n="64"/>posses. ea. si pupillas. Invenitur tamen in dialogo, quod qui 
+      <lb ed="#C" n="65"/>dam puer 5. ann. jurans, detestans, seu blasphemans a di¬ 
+      <lb ed="#C" n="66"/>bolo raptus fuit, sed in nullo malitia supplebat aetatem 
+      <lb ed="#C" n="67"/>nam si non esset doli capax, etiam septenni non imputare 
+      <lb ed="#C" n="68"/>tur peccatum. ff. de regul. jur. pupillus. ff. ad l. Aquil. sed &amp; 
+      <lb ed="#C" n="69"/>quemcunque. §. I. ff. de dol. haeredib. §. 1. illud autem regulari 
+      <lb ed="#C" n="70"/>ter dicitur in jure, quod minor 7. ann. non sentit, ut supr 
+      <lb ed="#C" n="71"/>not. &amp; ideo non punitur. Sic &amp; alienatus a mente non te 
+      <lb ed="#C" n="72"/>netur. 15. qu.i. aliquos, &amp; cap. illa. 179.i. Consaldus. quod qui 
+      <lb ed="#C" n="73"/>dam dicunt verum, nisi culpa sua incidat quis in furorem 
+      <lb ed="#C" n="74"/>15 qu.1. si quis insaniens. alii non admittunt hanc dist. majo 
+      <lb ed="#C" n="75"/>igitur 7. ann. delinquere potest, quo ad Deum, &amp; spiritu: 
+      <lb ed="#C" n="76"/>liter punitur, ut dixi.
+    </p>
+            <p xml:id="nbht7y-d1e1937-d1e364">
+      Sed nunquid major 7. ann. mino 
+      <lb ed="#C" n="77"/>14 temporaliter puniendus est? De spirituali poena no 
+      <lb ed="#C" n="78"/>est dubium, ut dixi, quamvis mitius agatur cum eo, ut no 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0752.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>supra eod vers. sed si conpeniatur. &amp; sic intelligo. infra codem 
+      <lb ed="#C" n="80"/>cap.i. temporalis autem poena videtur, quod non sit impo 
+      <lb ed="#C" n="81"/>nenda. infra eod, capit. 2. Sed contra. in concor signa. supr. 
+      <lb ed="#C" n="82"/>versic. sed si conveniatur. &amp; C. si adver. deli. l.i. &amp; f. de damn. in 
+      <lb ed="#C" n="83"/>fect damni. § si pupillus. &amp; ad Syll. senat. consul. I2. §. impubei 
+      <lb ed="#C" n="84"/>Ideo dicunt quidam; quod si pupillus proximus sit pu 
+      <lb ed="#C" n="85"/>bertati, punitur etiam temporaliter. Sin autem proximu 
+      <lb ed="#C" n="86"/>sit infantiae, non tenetur, sic distinguitur fF ad l. Aquil sed e 
+      <lb ed="#C" n="87"/>si. §. iniuriam. &amp; ff. ne vis fiat ei, qui in poss. mit. Li. § haec editio 
+      <lb ed="#C" n="88"/>&amp; de doli excep. apud Celsum. §. illa. &amp; §. sequent. &amp; de fur. m¬ 
+      <lb ed="#C" n="89"/>puberem, &amp; de regul jur. pupillus. &amp; secundum hoc intelli 
+      <lb ed="#C" n="90"/>guntur concordantiae signatae. supra vers. proxi. de infante 
+      <lb ed="#C" n="91"/>vel proximo infantiae. nec obst. infra eod. c. 2. quia ibi Abba 
+      <lb ed="#C" n="92"/>volebat punire patrem pro filio, unde illicite faciebat, u 
+      <lb ed="#C" n="93"/>C. ne pater pro filio. I. unica. &amp; ff. de minor. si pater. quia peccat. 
+      <lb ed="#C" n="94"/>suos debent tenere authores, ut supra de his quae fiunt a ma 
+      <lb ed="#C" n="95"/>par c. quaesivit. Sed cum dicat, quod si intra 14. ann. delicti 
+      <lb ed="#C" n="96"/>commisit, nihil exigat a patre Abbas, patet acontrario, s 
+      <lb ed="#C" n="97"/>post 14. an. commisit, potest Abbas a patre exigere poenam, nis 
+      <lb ed="#C" n="98"/>dicas, quod contineat gratiam in principio, vel nisi subau 
+      <lb ed="#C" n="99"/>dias maxime; multoties enim vacat. argum. a contrari¬ 
+      <lb ed="#C" n="100"/>sensu, ut supra de testam. ad hoc. &amp; C. de episc &amp; cler. conventieu 
+      <lb ed="#C" n="101"/>lam. Vel dic, quod si minor 14. ann. delinquat, tenetur re 
+      <lb ed="#C" n="102"/>spondere, quatenus interest illius, contra quem deliquit 
+      <lb ed="#C" n="103"/>vel licet ultra teneatur. mero jure potest petere restituti 
+      <lb ed="#C" n="104"/>onem. arg. ex his quae not. supra eod. vers. si vero ex certa. se¬ 
+      <lb ed="#C" n="105"/>tamen loris &amp; virgis castigare potest, ut supra ad Syll. senai 
+      <lb ed="#C" n="106"/>consul. l. 2. §. inpubes &amp; per parentes leniter, per judices ve 
+      <lb ed="#C" n="107"/>ro severe, secundum quod atrocitas facti requirit, ut C. d 
+      <lb ed="#C" n="108"/>emenda. propin. I.unica. &amp; si quatenus poena temporalis pe 
+      <lb ed="#C" n="109"/>cuniaria ultro interesse delictum passi requirit, subveni 
+      <lb ed="#C" n="110"/>tur minori, sed in corporali non subvenitur; nisi quate 
+      <lb ed="#C" n="111"/>nus, &amp;c. ut supra, sed si conveniatur. &amp; de hoc not. infra d 
+      <lb ed="#C" n="112"/>poeni. §. cui. sub 5, cui puer 
+    </p>
+            <p xml:id="nbht7y-d1e1937-d1e449">
+               <lb ed="#C" n="113"/>ILlud not. dignum, quod in quodam omisso juvatur mi 
+      <lb ed="#C" n="114"/>nor mulier ipso jure, scil. quando non petiit tutorem fi 
+      <lb ed="#C" n="115"/>lio suo. C. si adver. delict l. 2. &amp; licet de hoc not. supra de pig 
+      <lb ed="#C" n="116"/>§. qualiter contrahatur. sub §. conventionalium. rers. quinimo 
+      <lb ed="#C" n="117"/>&amp; sequent. hoc tamen plenius, terminatur igitur, quis hae¬ 
+      <lb ed="#C" n="118"/>materia practicatoria est, scire debes, quod non solun 
+      <lb ed="#C" n="119"/>matri imponitur necessitas petendi tutorem, quinim 
+      <lb ed="#C" n="120"/>omnibus, qui ex testamento, vel ab intestato ad successio 
+      <lb ed="#C" n="121"/>nem ejusdem pupilli proximi vocantur, quamvis olim re 
+      <lb ed="#C" n="122"/>pelleretur ab intestato tantum. ff. eod. l.i&amp;. sin ut C. de lig 
+      <lb ed="#C" n="123"/>haer. sciant. legatum vero, sive fideicommissum sibi sub ha¬ 
+      <lb ed="#C" n="124"/>conditione si pupillus intestatus vel sine liberis mortuu 
+      <lb ed="#C" n="125"/>fuerit, relictum non amittit, ff. eod. ! fin. § penul. Si vero is 
+      <lb ed="#C" n="126"/>qui ad successionem vocatur, proximo tutorem non pe 
+      <lb ed="#C" n="127"/>tierit, a successione pupilli repellitur, &amp; sequens post ipsi 
+      <lb ed="#C" n="128"/>admittitur. Ideoque si mater non petiit, admittuntur hi 
+      <lb ed="#C" n="129"/>qui venirent, si mater non fuisset, aut si nemo sit, bona va 
+      <lb ed="#C" n="130"/>cabunt, f. ad Tertul sen, cons. sive ingenua §. sin. Sed quamdi 
+      <lb ed="#C" n="131"/>aliquis de parentela superest, fiscus excluditur. C. under 
+      <lb ed="#C" n="132"/>&amp; uxor. I. unica. Debetergo mater tutorem petere filio 
+      <lb ed="#C" n="133"/>suo confestim, id est, ubi primum praetoris copiam habui 
+      <lb ed="#C" n="134"/>huic rei sedentis: nisi forte infirmitate, vel alia magna es 
+      <lb ed="#C" n="135"/>causa impediatur tutorem petere, ita tamen, ut nullo mo 
+      <lb ed="#C" n="136"/>do annale tempus excedat, ut ff ad Tertul sen cons. l2§ con 
+      <lb ed="#C" n="137"/>festim. qui d. circa annum aliqua potest admitti excusatio: &amp; 
+      <lb ed="#C" n="138"/>poenam patitur mulier, si excusationem afferat, sed elapse 
+      <lb ed="#C" n="139"/>anno non poterit excusari ea ratione, quod tutorem pe 
+      <lb ed="#C" n="140"/>tere fuerit impedita, &amp; est simile quod not supra derescr¬ 
+      <lb ed="#C" n="141"/>ptis. §. quod cui praejudicet. vers. sed quoinodo intelligemus. Quic 
+      <lb ed="#C" n="142"/>ergo, si per totum annum impedita fuerat? &amp; quidem mit 
+      <lb ed="#C" n="143"/>tat procuratorem ad petendum, antequam annus elapsu 
+      <lb ed="#C" n="144"/>sit. C. qui petant. tut vel curat, cum a matribus. Quid si non po 
+      <lb ed="#C" n="145"/>test invenire procuratorem? faciat contestationem ant 
+      <lb ed="#C" n="146"/>lapsum anni. argu C. de annal. except, Aperfectius &amp; suprad 
+      <lb ed="#C" n="147"/>offic. ord. pastoralis. §. sin. Quid si semvacopiam praetoris ha 
+      <lb ed="#C" n="148"/>buit, &amp; sic in mora fuit, &amp; postea compulsa, sive admonii¬ 
+      <lb ed="#C" n="149"/>a libertis, vel parentibus intra annum tutorem petiit, 8 
+      <lb ed="#C" n="150"/>quidem in poenam incidit. Secus, si non habuisset copian 
+      <lb ed="#C" n="151"/>judicis nec in mora fuisset, quia tunc non excluderetur f 
+      <lb ed="#C" n="152"/>ad Tertul. sive. §. simater. vets. quid ergo, si petiit. Quid si ide¬ 
+      <lb ed="#C" n="153"/>non petiit, quia pater, qui ipsam tutricem reliquerat, ho¬ 
+      <lb ed="#C" n="154"/>prohibuit? &amp; quidem incidit, nisi petat, vel administret 
+      <lb ed="#C" n="155"/>ut tod §. vers. quid si pater. Quid si filiae, vel nepoti, vel nepti 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0753.xml-->
+      <pb ed="#C" n="736"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>non petiit, vel si non petiit curatorem, subaudi ad litem 
+      <lb ed="#C" n="2"/>etiam impuberidari, nam matris solicitudo in petendi 
+      <lb ed="#C" n="3"/>curatoribus nedum tutoribus versatur, ubi impuberi cu 
+      <lb ed="#C" n="4"/>rator peti debet, ff eod. I. 1. Item quid si cum praegnans es 
+      <lb ed="#C" n="5"/>set, vel cum pupilius apud hostes esset, non petiit boni 
+      <lb ed="#C" n="6"/>curatorem dari. Item quid si furioso non petiit dari tuto 
+      <lb ed="#C" n="7"/>rem, vel curatorem? &amp; quidem in omnibus his casibus in 
+      <lb ed="#C" n="8"/>poenam incidit, vel ex verbis, vel ex mente, quia eadem ri 
+      <lb ed="#C" n="9"/>tio est in omnibus, ut in eo. §. pers filiis autem, &amp; seq. usque a 
+      <lb ed="#C" n="10"/>vers. non solum. Quid si indignum, id est, minus habilem a 
+      <lb ed="#C" n="11"/>tutelam scienter petiit. Si tribus tutelis oneratum vel alia 
+      <lb ed="#C" n="12"/>privilegiatum, &amp; talis suscepit, excusata est, si locupletem 
+      <lb ed="#C" n="13"/>&amp; praetor dedit, quamvis moribus indignum, excusatur 
+      <lb ed="#C" n="14"/>si pauper est, non excusatur, quamvis judex errans ipsun 
+      <lb ed="#C" n="15"/>dedit, vel petitionem secutus matris, in hoc enim casu di¬ 
+      <lb ed="#C" n="16"/>lictum judicis est. Sedematris punitur consilium, sed ne 
+      <lb ed="#C" n="17"/>exeusatur, si privilegiatus se excusavit, vel ubi praetor ir 
+      <lb ed="#C" n="18"/>dignum dedit. Sed &amp; punitur, si tutorem per patremm 
+      <lb ed="#C" n="19"/>nus legitime datum decretum non petiit confirmari. ff.ec 
+      <lb ed="#C" n="20"/>qui petant tutores, vel curatores. I fia. respon s1. &amp; si tutore dat¬ 
+      <lb ed="#C" n="21"/>excusato, vel rejecto, vel mortuo, confestim alium non pi 
+      <lb ed="#C" n="22"/>tiit, &amp; si datum non compulit immiscere se tutelae, quam 
+      <lb ed="#C" n="23"/>vis illud non imputetur, si suspectum non accusavit, ut c 
+      <lb ed="#C" n="24"/>mnia haec probantur ead. l. &amp; eod. §. ab illo. vers. non solum. uss 
+      <lb ed="#C" n="25"/>ad §. confestim &amp; ff. eod l. 2. nisi forte pluribus datis, &amp; un¬ 
+      <lb ed="#C" n="26"/>remoto, vel mortuo alius superstes sufficiat. Sed si tutor 
+      <lb ed="#C" n="27"/>accusato decernatur alius adjungi, incidit mater in poen¬ 
+      <lb ed="#C" n="28"/>si non petiit, licet non teneatur facere suspectum, ut supr 
+      <lb ed="#C" n="29"/>not f eo .l. si §.1. &amp; sin. Sed nec excusatur mater jure, igno 
+      <lb ed="#C" n="30"/>rantiae velamento, vel quod dicat filios naturales, &amp; non leg 
+      <lb ed="#C" n="31"/>timos, nam &amp; talib. debet tutorem petere, alias de succes, 
+      <lb ed="#C" n="32"/>one indignam reddet, ut C. qui petant. tutor. vel curator. I. fin 
+      <lb ed="#C" n="33"/>Haec quaedixi, vera sunt, si filius impubes moriatur, se 
+      <lb ed="#C" n="34"/>excusatur mater, si filius pubes moritur, quamvis ei in 
+      <lb ed="#C" n="35"/>puberi tutorem non petierit intra annum, ut C. ad Tertu¬ 
+      <lb ed="#C" n="36"/>senat, consult matres. &amp; l. omnem C. de leg. haered. sciant. S. 
+      <lb ed="#C" n="37"/>cundo, excusatur, si mortalitate filii praeveniatur, ut ff. a 
+      <lb ed="#C" n="38"/>Tiertul l. 2§. confestim. Tertio excusatur, si infirmitate, ve 
+      <lb ed="#C" n="39"/>alia causa legitima, vel quia non habuit copiam judicis 
+      <lb ed="#C" n="40"/>impedita fuit, quod dic ut notatur supra eodem, versiculed 
+      <lb ed="#C" n="41"/>bet ergo, &amp; sej. Quarto excusatur, si procurator quem a 
+      <lb ed="#C" n="42"/>petendum tutorem miserat, mortuus est. C. qui petanttur 
+      <lb ed="#C" n="43"/>vel curat. cum a matribas. quod intelligas, nisi ex quo aud 
+      <lb ed="#C" n="44"/>vit mortem procuratoris, in mora fuerit petendi, vel al 
+      <lb ed="#C" n="45"/>um procuratorem mittendi, ut patet in his, quae notantu 
+      <lb ed="#C" n="46"/>supra eodem, versicul. Sed &amp; panitur, &amp; versicul. quid si seme 
+      <lb ed="#C" n="47"/>Quinto excusatur ratione minoris aetatis, nota supra eoc 
+      <lb ed="#C" n="48"/>sub J. respons. i. Sexto excusatur, si filius penitus egenis no 
+      <lb ed="#C" n="49"/>petiit. Septimo, si cum non esset inmora, in petitione t 
+      <lb ed="#C" n="50"/>toris a libertis vel parentibus praeventa fuit, sicut proban 
+      <lb ed="#C" n="51"/>tur hi duo casus. ff. ad Tertul l. 2. §. si mater. versic. quod pen 
+      <lb ed="#C" n="52"/>tus egenis, &amp; seq. Octavo, excusatur, si propter utilitaten 
+      <lb ed="#C" n="53"/>pupilli hoc omisit, vel quia legatum majus naereditate su 
+      <lb ed="#C" n="54"/>hac conditione, si tutorem non haberet, pupillo relictunm 
+      <lb ed="#C" n="55"/>erat, vel quia haereditas erat gravissimis debitis onerat. 
+      <lb ed="#C" n="56"/>unde expediebat, quod non inveniretur tutor, qui posse 
+      <lb ed="#C" n="57"/>conveniri, ut eadem l. §. tractari. &amp; §. ego. etiam si mater. in 
+      <lb ed="#C" n="58"/>hoc ergo ultimo casu petant creditores dari pupillo tut 
+      <lb ed="#C" n="59"/>rem, si sibi crediderint expedire. C. qui petant tutor l 4. ac 
+      <lb ed="#C" n="60"/>monitis his, ad quos pertinet. ff. cod. Iin Graeca. si quidem 
+      <lb ed="#C" n="61"/>liquis vel foenerator. Nonô, si mater communis filii inst 
+      <lb ed="#C" n="62"/>tuta sit haeres, ita ut filio pubere facto haereditatem rest 
+      <lb ed="#C" n="63"/>tuat, si tamen fatisdatio fuerit remissa. ut eadem l. §. penult 
+      <lb ed="#C" n="64"/>Decimo excusatur ubi indignum petiit ignoranter, sati 
+      <lb ed="#C" n="65"/>est enim eam petiisse talem qui ex inquisitione per prae 
+      <lb ed="#C" n="66"/>torem habita, idoneus apparuit. ff. eodem, I. sin § sin &amp; se 
+      <lb ed="#C" n="67"/>cundum hoc intellige quod not. supra eod pers quid si indi 
+      <lb ed="#C" n="68"/>gnum Secus, si scienter, ut ibi not. &amp; probatur ff. eod. I.Gra 
+      <lb ed="#C" n="69"/>ca. quae incipit, si minores 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

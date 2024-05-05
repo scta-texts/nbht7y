@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 12</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 12</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="403"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1010"><!-- nbht7y-l3t12 -->
+            <head xml:id="nbht7y-d1e1010-Hd1e101">Titulus 12</head>
+            <head xml:id="nbht7y-d1e1010-Hd1e103" type="question-title">Ut ecclesiastica beneficia sine diminutione conferantur</head>
+            <p xml:id="nbht7y-d1e1010-d1e106">
+               <lb ed="#C" n="49"/>Vt Beneficia ecclesiastica sine 
+      dimi<lb ed="#C" n="50" break="no"/>nutione conferantur. XII. 
+      <lb ed="#C" n="51"/>Rubrica. 
+    </p>
+            <p xml:id="nbht7y-d1e1010-d1e115">
+               <lb ed="#C" n="52"/>QVia beneficia ecclesiastica, de quibus 
+      <lb ed="#C" n="53"/>supra praemisimus, sin 
+      <lb ed="#C" n="54"/>diminutione conferenda sunt, ideo praecipi 
+      <lb ed="#C" n="55"/>Emus, ut beneficia eccles. sine diminutione cor 
+      <lb ed="#C" n="56"/>ferantur: &amp; sciendum, quod haec rubrica continet ju 
+      <lb ed="#C" n="57"/>commune, cum praecipiatur certum quid fieri perfectan 
+      <lb ed="#C" n="58"/>orationem ponendo. ad hoc, ff. si cer petat.l.i. de nova con f¬ 
+      <lb ed="#C" n="59"/>Lunica. §. pryno. ibi sub competentibus titu. sic de sup. neg 
+      <lb ed="#C" n="60"/>praela sic de servis non ordin. sic de bigi. non ordin supra ne se va¬ 
+      <lb ed="#C" n="61"/>tales enim rubricae jus constituunt. unde tota die alleg¬ 
+      <lb ed="#C" n="62"/>mus. tam in rubro, quam in nigro C. nequis in causa sua ju 
+      <lb ed="#C" n="63"/>sibi di in rubro, &amp; in nigro, supra ut lit. non contesta. in rubr 
+      <lb ed="#C" n="64"/>&amp; in nigro. traduntur autem hic tres regulae, quas sub 
+      <lb ed="#C" n="65"/>tomprehendimus. Prima est, quod beneficia sunt sine dim 
+      <lb ed="#C" n="66"/>conferenda. Secunda, quod nemo sine accusatore, dam 
+      <lb ed="#C" n="67"/>nari debet. Tertia, quod actore non probante, reus est ab 
+      <lb ed="#C" n="68"/>solvendus de singulis igitur videamu: 
+    </p>
+            <p xml:id="nbht7y-d1e1010-d1e154">
+               <lb ed="#C" n="69"/>EST autem regula, quod beneficia sine diminutione a 
+      <lb ed="#C" n="70"/>liqua sunt conterenda, ut inf. eod c. unico. §. pen ad fin. 191 
+      <lb ed="#C" n="71"/>3si quis praebendas. 15. quae.i. si monachus. &amp; quaest 7. quicunqui 
+      <lb ed="#C" n="72"/>insrade deci. commissum. &amp;c. ex parte. &amp; cap.iua. &amp; c. ex tran 
+      <lb ed="#C" n="73"/>missa, infra de praeb. arariiiae. &amp;c. de mon. infra de censi. prohib. 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0420.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="74"/>mus. &amp;c. gravis. Super hoc sciendum, quod si in ecclesi. 
+      <lb ed="#C" n="75"/>non sit certus numerus canonicorum, recipi possunt can 
+      <lb ed="#C" n="76"/>ultra numerum: quia recipientes etiam tacite intelligun 
+      <lb ed="#C" n="77"/>tur quoddam jus de novo velle creare, quod incipit, cum 
+      <lb ed="#C" n="78"/>electo, &amp; extinguitur cum defuncto, ut infra de praeb. dile 
+      <lb ed="#C" n="79"/>cto §. 1. ver praeterea. Si vero certus numerus canonicorum 
+      <lb ed="#C" n="80"/>a in aliqua ecclesia constitutus est, tunc si haec clausula ap¬ 
+      <lb ed="#C" n="81"/>posita sit, quod si quicquam contra fiat, non valeat, &amp; nu 
+      <lb ed="#C" n="82"/>merus confirmatus est per Sed Apost. vel jurejuran. qui¬ 
+      <lb ed="#C" n="83"/>haec duo aequiparantur, non valet receptio, ut sup. de prael 
+      <lb ed="#C" n="84"/>dilecto. §. .ver. nisi forte &amp; c inter caetera, nisi fructus super ex 
+      <lb ed="#C" n="85"/>creverint. ut sup. de consti, cum M. Ferr §. ult. vel nisi hoc fiere 
+      <lb ed="#C" n="86"/>authoritate Papae, qui de hac clausula faceret mentionem 
+      <lb ed="#C" n="87"/>inf. de verb sign. c. ult &amp; junge quod no. supra de consti §. quan 
+      <lb ed="#C" n="88"/>do constitucio sub §. arctat etiam ita demum. nec mireris, si Pa 
+      <lb ed="#C" n="89"/>pa potest haec revocare: potest enim de jure supra jus di 
+      <lb ed="#C" n="90"/>spensare. ut &amp; supra de conces praebend proposuit. Si vero hae 
+      <lb ed="#C" n="91"/>clausula adjecta non est, &amp; nulla praebenda vacat, non de 
+      <lb ed="#C" n="92"/>bet quis recipi: sed si canonici recipiant authoritate pro 
+      <lb ed="#C" n="93"/>pria valet receptio, &amp; videntur renunciare certo numero 
+      <lb ed="#C" n="94"/>secus, si hoc facerent authoritate Papae: quia tunc numeru¬ 
+      <lb ed="#C" n="95"/>nihiloninus ratus maneret. sic loquitur, sup. de praeb. pro il 
+      <lb ed="#C" n="96"/>lorum. &amp; de constit. cum M. Fer. Recipitur autem in hoc cast 
+      <lb ed="#C" n="97"/>impetrans, si faciat mentionem in rescripto de certo nu 
+      <lb ed="#C" n="98"/>mero, &amp; juramento, non alias, ut sup de reser, constitutus: quia 
+      <lb ed="#C" n="99"/>in omnibus authoritas Papae bintelligitur excepta. etiam in 
+      <lb ed="#C" n="100"/>juramento. ut sup. de jurejur. venientes f. ad municipa. Impera 
+      <lb ed="#C" n="101"/>tores. resp i &amp; in hoc videtur, quod quoddam jus velit Papi 
+      <lb ed="#C" n="102"/>de novo creare, quod extinguitur cum defuncto, ut dix 
+      <lb ed="#C" n="103"/>sup. quasi in principio hujus sub §. sin autem aliqua praebend. 
+      <lb ed="#C" n="104"/>ibidem vacet, uni tamen danda est, &amp; integre, ut hic &amp; sup 
+      <lb ed="#C" n="105"/>de praeb. dile. §. 1 ver. in ecclesia. Verum cum duo ad unam va 
+      <lb ed="#C" n="106"/>cantem recipiuntur, si recipientes non intendunt quod 
+      <lb ed="#C" n="107"/>dam jus de novo creare, non valet receptio, neque sectio: 
+      <lb ed="#C" n="108"/>quia si dividatur praebenda inter ipsos, noc est, contra con 
+      <lb ed="#C" n="109"/>cil. Turo. si uni tantum assignetur, alius sub expectation 
+      <lb ed="#C" n="110"/>remanet, quod est contra conci. Later. est &amp; melior ratio 
+      <lb ed="#C" n="111"/>quia ipsum jus canoniae ad quod duos recipere intendunt 
+      <lb ed="#C" n="112"/>unicum est: ideo secundum quod intendunt, dividi non po 
+      <lb ed="#C" n="113"/>test. 24 q.. loquitur. sic intellige, sup. de praeb. dilecto §i inprin 
+      <lb ed="#C" n="114"/>ver. &amp; ver propter quod &amp; cauae. &amp; ca. majorib. Sed si intendun 
+      <lb ed="#C" n="115"/>quoddam de novo creare, &amp; divisio fit ex probabili causa 
+      <lb ed="#C" n="116"/>&amp; praebenda divisa duobus sufficiat, valet receptio &amp; se 
+      <lb ed="#C" n="117"/>ctio. &amp; sup de praeb. vacante. ver. nisi rationabili. &amp; in hoc casu 
+      <lb ed="#C" n="118"/>potest fieri contra concil. Turon. supr. de praeb majorib &amp; ir 
+      <lb ed="#C" n="119"/>alio. inf. dererum. perimu. quaesitum. Est autem causa rationabilis 
+      <lb ed="#C" n="120"/>quando ecclesia non habet competentem numerum mini 
+      <lb ed="#C" n="121"/>strorum. arg, sup de cle. non resi, cum ad hoc &amp; de praeb significa 
+      <lb ed="#C" n="122"/>tum. &amp; cum secundum. § pe. in fi. inf. e. §. ul. Sed si receptio non si 
+      <lb ed="#C" n="123"/>excausa rationabili, vel praebenda divisa non sufficiat, tene 
+      <lb ed="#C" n="124"/>receptio. ut inf. de praeb. relatum. &amp;c. dilec..&amp; de conces praeb. ci 
+      <lb ed="#C" n="125"/>super. non tamen sectio &amp; ideo recipiens tenetur integra¬ 
+      <lb ed="#C" n="126"/>re praebendam, ut sup. de praeb. vacante. in prin &amp; hoc in alii 
+      <lb ed="#C" n="127"/>jurib allega sup. eo, sub § resp. 1. Ubi vero certus canonicori 
+      <lb ed="#C" n="128"/>numerus institutus est nudo verbo: quia non est confirma 
+      <lb ed="#C" n="129"/>tus authoritate Papae vel juramento, dicut dixi, quand 
+      <lb ed="#C" n="130"/>non est certus numerus constitutus. Ex supradictis not 
+      <lb ed="#C" n="131"/>quod interjus de novo creatum, ubi ecclesia non babe 
+      <lb ed="#C" n="132"/>certum numerum, &amp; inter jus de novo creatum in eccle 
+      <lb ed="#C" n="133"/>sia, quae habet certum numerum, quatuor possunt differen 
+      <lb ed="#C" n="134"/>tiae assignari. Prima est, quod primum jus constituitur. e 
+      <lb ed="#C" n="135"/>iamsi hoc non attendatur. secus in secundo. Secunda: qui¬ 
+      <lb ed="#C" n="136"/>primum incipit cum electo, &amp; desinit cum defuncto, 8 
+      <lb ed="#C" n="137"/>sic est personale: secundum vero incipit cum electo, &amp; ni 
+      <lb ed="#C" n="138"/>desinit cum defuncto. &amp; sic est reale. Tertia, quia in prim 
+      <lb ed="#C" n="139"/>semper valet, etiamsi non intendatur creari, sed in secun 
+      <lb ed="#C" n="140"/>do non semper: quia nunquam nisi creari intendatur. Quar 
+      <lb ed="#C" n="141"/>ta, quia in primo non habet locum Lateran, conci. sed in se 
+      <lb ed="#C" n="142"/>cundo locum habet, supra de conces praeb. ex parte. Asten. eccle¬ 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="143"/>ADDITIONES. 
+      <lb ed="#C" n="144"/>a Certus numerus canonicorum.] Adde Doct. in c. cum M. Fer¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>de constit 
+      <lb ed="#C" n="146"/>b In omnibus authoritas Papae.] Adde gl inc. de forma, 22 qu 
+    </p>
+    <p>
+      <lb ed="#C" n="147"/>ult glo pen in cap. quae contra mores. 8. distin. Archi. in ca. anthoriia 
+      <lb ed="#C" n="148"/>tem, 15. 9. 6 -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0421.xml-->
+      <pb ed="#C" n="404"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>Quamvis autem beneficia sine dimi. conferri debeant, u 
+      <lb ed="#C" n="2"/>dictum est, potest tamen praelatus cum capitulo suo. nor 
+      <lb ed="#C" n="3"/>cum eo cui daturus est beneficium, ante collationem fa 
+      <lb ed="#C" n="4"/>ctam, publice &amp; palam, ut omnis tollatur suspicio, pro ju 
+      <lb ed="#C" n="5"/>sta causa, &amp; necessaria ad tempus licite retinere prover 
+      <lb ed="#C" n="6"/>tus beneficii sic vacantis. inf. eo . c. unico §. si. nam li praelatu 
+      <lb ed="#C" n="7"/>cum capitulo potest ex causa personarum omnino destru¬ 
+      <lb ed="#C" n="8"/>re, ut sup de consti cum accessissent proventus ecclesiarum, ve 
+      <lb ed="#C" n="9"/>certam pensionem in ecclesiis ad usum aliorum perpetu 
+      <lb ed="#C" n="10"/>conferre, non solum canonicorum suorum, ut sup. de prael 
+      <lb ed="#C" n="11"/>exposuisti. sed etiam extraneorum. inf. de don pastoralis. sup 
+      <lb ed="#C" n="12"/>de his, quae fiunt a praela. sine consensu ca.tua nuper. &amp; c. pastoralis 
+      <lb ed="#C" n="13"/>possessiones ex causa perpetuo alienare. ut no. inftitu. 1.( 
+      <lb ed="#C" n="14"/>quae res. &amp; seq ecclesias etiam subjicere, &amp; unire. inf. deexce 
+      <lb ed="#C" n="15"/>praela, sicut unire. quare ex causa non posset sibi ad tempu 
+      <lb ed="#C" n="16"/>de proventibus vacantis beneficii de ejusdem consensi 
+      <lb ed="#C" n="17"/>capitul. providere, certe primo tibi: ergo sibi &amp; suis primc 
+      <lb ed="#C" n="18"/>astringitur &amp; si quod plus est ei conceditur, multo fortiu¬ 
+      <lb ed="#C" n="19"/>&amp; quod minus ut 12q. 1§. f. &amp; c. praecipimus, &amp; c.episcopus. in 
+      <lb ed="#C" n="20"/>de deci. ex parte 3. Et notat. quod licet sic possit sibi retiner 
+      <lb ed="#C" n="21"/>proventus unius beneficii, non tamen omnium, quae vi 
+      <lb ed="#C" n="22"/>care contingit, &amp; ideo hoc impetratur a Papa infde ver sigin 
+      <lb ed="#C" n="23"/>tua secundum Goff. Vel potest dici, quod ibi volebat ci 
+      <lb ed="#C" n="24"/>pitulum consentire. &amp; ideo fuit ad superiorem recurrer 
+      <lb ed="#C" n="25"/>dum. ar inf de jur. patr. nullus. qua enim ratione potest ho 
+      <lb ed="#C" n="26"/>facere de uno ex causa, potest hoc de duobus, &amp; de tribus 
+      <lb ed="#C" n="27"/>&amp; de pluribus ex causa: arg. infra de consan. &amp; affi. tua. C.a 
+      <lb ed="#C" n="28"/>dila. I.infra de rel.do.c. 2. sup de consti cum M. Ferr. &amp;c. cum a¬ 
+      <lb ed="#C" n="29"/>cessissent. &amp;c. cum omnes. sup. de conces praeb. non vac. cum nostri 
+      <lb ed="#C" n="30"/>§ fiinf de don Apostolicae. Sed quae potest esse justa causa? Re 
+      <lb ed="#C" n="31"/>spondeo. relevatio oneris debitorum, ut mfra de ver sig tu¬ 
+      <lb ed="#C" n="32"/>expensae nimis graves, &amp; intolerabiles imininentes, put 
+      <lb ed="#C" n="33"/>propter guerram pro jure eccle. tuendo ortam propte 
+      <lb ed="#C" n="34"/>emptionem magnam; quam facit pro fabrica ecclesiae ni 
+      <lb ed="#C" n="35"/>mis sumptuosa. &amp; aliis similibus arg. in juribus sup. alle¬ 
+      <lb ed="#C" n="36"/>&amp; inf. de censi cum Apostolus §. inhibemus, sup. de offic. ordin. cor 
+      <lb ed="#C" n="37"/>querente. in si. in quibus etiam postcollationem factam pc 
+      <lb ed="#C" n="38"/>test charitativum subsidium exigere propter causas hu 
+      <lb ed="#C" n="39"/>jusmodi: ergo licet multo fortius, arg. ff. de superficieb. In.? 
+      <lb ed="#C" n="40"/>quod ait. &amp; sup dejurejar. quemadmodum. §. 1. &amp; quod ex tal 
+      <lb ed="#C" n="41"/>causa, vel simili hoc possit facere, est arg, sup. de his, quae fi¬ 
+      <lb ed="#C" n="42"/>ma, par, cap C. fin. 16 qu. si monachus, sup. ne se. vac. c.i. inf. de accu 
+      <lb ed="#C" n="43"/>cum dilecti, §. fin.
+    </p>
+            <p xml:id="nbht7y-d1e1010-d1e424">
+               <lb ed="#C" n="44"/>ITem traditur hic alia regula scili. quod nemo sine accu 
+      <lb ed="#C" n="45"/>satore damnatur, ut inf. n princ. 24. I. de manife 23. g. 4. quis 
+      <lb ed="#C" n="46"/>quis. Fallit haec regula in n. casibus. Primo, ubi suspecta scr 
+      <lb ed="#C" n="47"/>ptura in judicio profertur. C. de proba jubemus. Secundo,s 
+      <lb ed="#C" n="48"/>testis procax fuerit, &amp; vacillaverit in jure. C. de nmsti nullum 
+      <lb ed="#C" n="49"/>inf. depen super his. Tertio, si tutor suspectus sit, f. de suspec 
+      <lb ed="#C" n="50"/>tu. I3 § praeterea videndum. Quarto, si maritus accusat ux¬ 
+      <lb ed="#C" n="51"/>rem de adulterio, &amp; ipsa replicat de lenocinio. f. de aduli. 
+      <lb ed="#C" n="52"/>1§ sipublico. Quinto, si Judex reperiat accusatorem cali 
+      <lb ed="#C" n="53"/>mniari ff ad Turpil.l.a§.. &amp; 2qu. 2notandum inf de accu. ca1? 
+      <lb ed="#C" n="54"/>2. Sexto, si per modum inquisitionis inquiratur de crimi 
+      <lb ed="#C" n="55"/>ne, ut infra de accu. qualiter, &amp; quando. &amp;c. inquisitionis. Se 
+      <lb ed="#C" n="56"/>ptimo, si infamatus deficit in purgatione, infr. de sun. &amp; d 
+      <lb ed="#C" n="57"/>hoc, sup. de coh. cle. &amp; multua. in fi. Octavo, sicrimen notorij 
+      <lb ed="#C" n="58"/>sit. 24.1. de mam. supr de app. cum sit in fi. de accu. evidentia. No 
+      <lb ed="#C" n="59"/>no, si corrumpit testes adversarii. 3. 97. §. tria. ver siquis au 
+      <lb ed="#C" n="60"/>tem. Decimo, ubi aliquis can. deportavit literas sigillata 
+      <lb ed="#C" n="61"/>nomine majoris partis ca. consentientis, cum minor no 
+      <lb ed="#C" n="62"/>consensisset, sup. de test. tam literis in fine. sup deprob 3. Und 
+      <lb ed="#C" n="63"/>cimo, ubi quis invenitur sibi accusator Judex, &amp; testis 
+      <lb ed="#C" n="64"/>quia ad certam poenam se obligavit spontanea volunta 
+      <lb ed="#C" n="65"/>te, ut sup. de elect. cum dilectus. §. ulti.
+    </p>
+            <p xml:id="nbht7y-d1e1010-d1e474">
+               <lb ed="#C" n="66"/>DAtur hic &amp; alia regula scil. quod actore non probante 
+      <lb ed="#C" n="67"/>reus, &amp; si nihil praestiterit, absolvendus est, ut inf. §. 
+      <lb ed="#C" n="68"/>cujus verba sumuntur ex I. C. de edendo, qui accusare. &amp; 6. qu 
+      <lb ed="#C" n="69"/>ult. actor. Fallit autem haec regula in is casibus. Primo, ub 
+      <lb ed="#C" n="70"/>quis negat jus. &amp; est ratio. ut no. sup. de prob § quis debet pr 
+      <lb ed="#C" n="71"/>bare. versicul negativa juris. Secundo fallit, ubi praesum 
+      <lb ed="#C" n="72"/>ptio est pro actore. supr. de procur. ex insinuatione. &amp; de jur 
+      <lb ed="#C" n="73"/>jur. juramentum. Tertio, si negationem impugnet hon¬ 
+      <lb ed="#C" n="74"/>stas: ut cum uxor nega: se acquisivisse debonis mariti; n 
+      <lb ed="#C" n="75"/>in turpis quaestus suspicionem incidat. C. de dona. inter vii 
+      <lb ed="#C" n="76"/>&amp; uxo. etiam &amp; de dona. inter vir. &amp; uxo. Quintus Mutius, quoc 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0421.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="77"/>&amp; in acquisitis per praelatum dici potest ut C. deepi scop. 
+      <lb ed="#C" n="78"/>cleri. sacrosan. &amp; in auth. licentiam ibi signata. Quarto, cum a 
+      <lb ed="#C" n="79"/>ctor fundavit intentionem suam de jure communi, 1oc 
+      <lb ed="#C" n="80"/>distinct, contra morem, supra de offic. archiepiscopi, cap. ultim. 16 
+      <lb ed="#C" n="81"/>quaestio. 7. omnes basilicae. C. de probati, sive possidetis. Quinto 
+      <lb ed="#C" n="82"/>cum reus assumit sponteonus probandi. 29. quaestro. 2. cu 
+      <lb ed="#C" n="83"/>jus rei causa, ff. de probat. circa supra de restit spol. cap. i. Sexto 
+      <lb ed="#C" n="84"/>in communibus judic. ubi utriusque probatio auditus 
+      <lb ed="#C" n="85"/>ut supra de probat. ex literis, ff. de judic. m his tribus. Septimo 
+      <lb ed="#C" n="86"/>cum uterque dicit se possidere, ut supra de probat. licet. C 
+      <lb ed="#C" n="87"/>ctavo, in crimine falsi, ubi utriusque probationes recipi 
+      <lb ed="#C" n="88"/>untur. C. de falsis. ubi. Nono, in crimine laesae majestatis, &amp; 
+      <lb ed="#C" n="89"/>in sacramentis militaribus desertis, &amp; in proditione pa 
+      <lb ed="#C" n="90"/>triae, &amp; in crimine peculatus, ubi utriusque probatione 
+      <lb ed="#C" n="91"/>admittuntur. C. de abo fallaciter. in fine. Decimo, quia privi 
+      <lb ed="#C" n="92"/>leg actoris transfertonus probandi in reum puta si pupi 
+      <lb ed="#C" n="93"/>lus vel miles repetat solutum, tanquam indebitum, reu 
+      <lb ed="#C" n="94"/>tenetur probare debitum: alias autem qui dicit indebi 
+      <lb ed="#C" n="95"/>tum, quamvis neget, probare debet: nemo enim ita cre 
+      <lb ed="#C" n="96"/>ditus demens, ut facile pecunias suas jactet. ff. de proba 
+      <lb ed="#C" n="97"/>tum de indebito §.1. &amp; § sin autem. Undecimo, delictum i¬ 
+      <lb ed="#C" n="98"/>psius rei, ut si neget numerationem pecuniae, quae repeti 
+      <lb ed="#C" n="99"/>tur tanquam indebita. ut infra de solu. cap. ultim. C. de no¬ 
+      <lb ed="#C" n="100"/>nume pecu. authen contra. &amp; ff. de probat. tum de indebito. circa 
+      <lb ed="#C" n="101"/>princip. vel quando incidit in poenam litigiosi. C. de litigio 
+      <lb ed="#C" n="102"/>sis. I. ultim. Duodecimo, negativa quae habet implicitan 
+      <lb ed="#C" n="103"/>affirmativam, probari debet a reo, supra de renunciatio. su 
+      <lb ed="#C" n="104"/>per hoc, infra de successionibus ab intestato cum dilectut. argum 
+      <lb ed="#C" n="105"/>ff. de probationibus ab ea parte §. si quis. &amp; l. sifilius. Tertuode 
+      <lb ed="#C" n="106"/>cimo, cum natura negativam impugnat: ut cum quis ni 
+      <lb ed="#C" n="107"/>gat hominem sanae mentis: quia ex natura contrariun 
+      <lb ed="#C" n="108"/>praesumitur, probare habet hominem furiosum. C. de ea 
+      <lb ed="#C" n="109"/>dicil. nec rodicillo. tertia. quaestio. 9. indicas. Quartodecimo 
+      <lb ed="#C" n="110"/>propter contumaciam non jurantis. supra de jurament 
+      <lb ed="#C" n="111"/>calumniae. §. ultim. Quintodecimo, propter contuma 
+      <lb ed="#C" n="112"/>ciam non venientis intra annum. supra ut lit. non contestati 
+      <lb ed="#C" n="113"/>quoniam. §. in aliis 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="114"/>ADDITIO. 
+      <lb ed="#C" n="115"/>a Actore non probante.] Adde gl. in ca. cum ecclesia Valtera. d 
+    </p>
+    <p>
+      <lb ed="#C" n="116"/>elect. Doct. in I si prius, ff. de no. oper. nun -->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

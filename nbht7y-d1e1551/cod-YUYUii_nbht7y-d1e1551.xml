@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 10</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 10</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="589"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1551"><!-- nbht7y-l4t10 -->
+            <head xml:id="nbht7y-d1e1551-Hd1e101">Titulus 10</head>
+            <head xml:id="nbht7y-d1e1551-Hd1e103" type="question-title">De natis ex libero ventre</head>
+            <p xml:id="nbht7y-d1e1551-d1e106">
+               <lb ed="#C" n="65"/>De Natis ex libero ventre. 
+      <lb ed="#C" n="66"/>Rubr. X. 
+    </p>
+            <p xml:id="nbht7y-d1e1551-d1e113">
+               <lb ed="#C" n="67"/>SUMMARIA. 
+      <lb ed="#C" n="68"/>I Nati, seu liberi cujus conditionem sequantur 
+      <lb ed="#C" n="69"/>2 Servus quare sequitur ventrem 
+      <lb ed="#C" n="70"/>3 Filii nati ex libero ventre, in quibus casibus redigantur in serv 
+      <lb ed="#C" n="71"/>tutem 
+      <lb ed="#C" n="72"/>Ecclesia quae liberiatim tueri debet, eam impugnare non de
+    </p>
+            <p xml:id="nbht7y-d1e1551-d1e129">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0606.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="73"/>NE forte crederet quis flium servi 
+      fo<lb ed="#C" n="74" break="no"/>re servum, quamvis mater 
+      <lb ed="#C" n="75"/>esset libera, eo quod inter servum &amp; libe 
+      <lb ed="#C" n="76"/>rum contrahere potest matrimonium, u 
+      <lb ed="#C" n="77"/>supra dixi: habito tractatu de condition 
+      <lb ed="#C" n="78"/>conjug immediate, videamus de condition. natorum. si 
+      <lb ed="#C" n="79"/>patet quare interseritur haec Rubrica de Natis ex liber¬ 
+      <lb ed="#C" n="80"/>ventre, in qua videndum est, Cujus conditionem sequan 
+      <lb ed="#C" n="81"/>tur nati, seu liberi, Et in quibus casibus filii nati ex libere 
+      <lb ed="#C" n="82"/>ventre redigantur in servitutem
+    </p>
+            <p xml:id="nbht7y-d1e1551-d1e159">
+               <lb ed="#C" n="83"/>Cujus, conditionem sequanturati. seu libe¬ 
+      <lb ed="#C" n="84"/>ri. Et quidem matris 
+      <lb ed="#C" n="85"/>nam si venter liber est, &amp; partus liber erit: cum semper se 
+      <lb ed="#C" n="86"/>quatur ventrem: ut infra eodem.c.unico. C. derei vend. partus 
+      <lb ed="#C" n="87"/>adeo quod sufficit matrem fuisse liberam, vel tempore con 
+      <lb ed="#C" n="88"/>ceptus, vel tempore partus, dum laborabat, vel medio tem 
+      <lb ed="#C" n="89"/>pore: quia calamitas matris partui obesse non debet: u 
+      <lb ed="#C" n="90"/>Instit de ingenuis, de hoc dic, ut not. supra de servis non ord. § 
+      <lb ed="#C" n="91"/>quid si servitus. &amp; S. quid libertas. nam quod in hoc tit. deficit 
+      <lb ed="#C" n="92"/>ibi invenies plenius dictum: aliquando autem partus se 
+      <lb ed="#C" n="93"/>quitur conditionem patris, scil. de speciali consuetudine 
+      <lb ed="#C" n="94"/>approbata ut supra tit.i.licet. &amp; dixi in summa. &amp; sup. de ser 
+      <lb ed="#C" n="95"/>vis non ord. c. fin. alias autem semper sequitur conditionem 
+      <lb ed="#C" n="96"/>ventris. &amp; ita si venter liber est, partus liber erit: si servus, 
+      <lb ed="#C" n="97"/>servus erit partus. Sed quae est ratio, quare? servus sequa 
+      <lb ed="#C" n="98"/>tur ventrem: quia secundum naturam quodlibet agens 
+      <lb ed="#C" n="99"/>subjecto debet dominari. &amp; Apostolus dicit, quod omni¬ 
+      <lb ed="#C" n="100"/>anima debet subesse superiori. supra de censib. omnis aninia 
+      <lb ed="#C" n="101"/>unde &amp; mulier subjecta est viro tanquam superiori, &amp;c 
+      <lb ed="#C" n="102"/>ut 33. qu5 mulierem. &amp;c. cum apud. ideo partus debet sequi 
+      <lb ed="#C" n="103"/>conditionem patris tanquam domini, &amp; tanquam digni 
+      <lb ed="#C" n="104"/>oris, &amp; non matris. nam &amp; secundum Physicos, semen ho 
+      <lb ed="#C" n="105"/>minis dignius est: &amp; magis operatur in generatione, quam 
+      <lb ed="#C" n="106"/>semen mulieris: ergo noc est contra naturam, &amp; contr. 
+      <lb ed="#C" n="107"/>jus, sicut objecit mihi Raymundus Physicus. Respon. Li 
+      <lb ed="#C" n="108"/>setvir ponat semen pro majori parte, vel magis operetur 
+      <lb ed="#C" n="109"/>tamen mater nutrit, &amp; in ventre vivificatur partus: undi 
+      <lb ed="#C" n="110"/>fructus sequiturterram, sive sit libera, sive serva &amp; ejus do 
+      <lb ed="#C" n="111"/>mini fit: ratio enim non paritur alterius effici arborem 
+      <lb ed="#C" n="112"/>quam illius, in cujus fundum radices egit: ut Institu. de re¬ 
+      <lb ed="#C" n="113"/>divi. §. si Titius. &amp; S qua ratione ff de acquir. rerdom. in sin &amp; 
+      <lb ed="#C" n="114"/>seque nec mirum, si vilius ad se dignius trahit, &amp; ei domine 
+      <lb ed="#C" n="115"/>tur: quia modicum fermenti totam massam corrumpit 
+      <lb ed="#C" n="116"/>supr. de offic. deleg super quaestio. § si rero duo. contra sup. de con 
+      <lb ed="#C" n="117"/>se. eccl. vel alta quod in dubiis. &amp; adeo partus ventrem sequi 
+      <lb ed="#C" n="118"/>tur, quod secundum consuetudinem generalem aliqua 
+      <lb ed="#C" n="119"/>rum regionum domini matrum silios natos pro suis pe 
+      <lb ed="#C" n="120"/>tunt: secus, de legitimis. ff. de stat. ho, cum ligitimae. &amp; l. lex na 
+      <lb ed="#C" n="121"/>turae. nisi causa servitutis aliud contingat: ut dixi supr ait i 
+      <lb ed="#C" n="122"/>&amp; quod bona sit similitudo de fundo &amp; de ventre. vide 6 
+      <lb ed="#C" n="123"/>distinct. nasci.
+    </p>
+            <p xml:id="nbht7y-d1e1551-d1e250">
+               <lb ed="#C" n="124"/>Et in quibus casibus fili nati ex libero vetre redi¬ 
+      <lb ed="#C" n="125"/>gantur in servitutem: Si fuerit filiu 
+      <lb ed="#C" n="126"/>sacerdotis, ut 15. qu. sin. cum multae. Item qui Sarracenis ad 
+      <lb ed="#C" n="127"/>ministrant arma capientium, servi fiunt, ut infra deJudae.it¬ 
+      <lb ed="#C" n="128"/>quorundam. Item qui eisdem vendunt galeas, vel naves 
+      <lb ed="#C" n="129"/>inf. de Jud. ad deliberandam. Item si major 25. annis vendat si 
+      <lb ed="#C" n="130"/>ad participandum precium, quod dic, ut not. supr. de scry 
+      <lb ed="#C" n="131"/>non ord §. qualiter liber servus fiat. Item est servitus de jure 
+      <lb ed="#C" n="132"/>naturali inventa, scil pacti. ut 35 distin sexto die. Extra sum 
+      <lb ed="#C" n="133"/>not.  quod ecclesia, quae libertatem tueri debet, eam im¬ 
+      <lb ed="#C" n="134"/>pugnare non debet, ut hic dicit in fin. simile supr derestitui 
+      <lb ed="#C" n="135"/>spol conquerente. &amp; ff. de evi.c. vendicantem. &amp; ff. de cond inde fra 
+      <lb ed="#C" n="136"/>ter a fratre. &amp; si servi. vend. alicujus 27 dist. una tantum. &amp; 25 dis 
+      <lb ed="#C" n="137"/>c. ul. &amp; u .qu. I. Silvester. &amp; f. de fideju tu &amp; derescr. nonnulli. &amp; ins 
+      <lb ed="#C" n="138"/>de accus. qualiter. 1. fallit in marito, qui alios prohibere de 
+      <lb ed="#C" n="139"/>bet ab uxore: sed non seipsum. Item contra. 3. 4. 6. quamvis 
+    </p>
+            <p xml:id="nbht7y-d1e1551-d1e287">
+               <lb ed="#C" n="140"/>De Agricolis. Rubrica. 
+    </p>
+            <p xml:id="nbht7y-d1e1551-d1e292">
+               <lb ed="#C" n="141"/>SVMMARIA 
+      <lb ed="#C" n="142"/>I Agricolarum multae sunt species 
+      <lb ed="#C" n="143"/>2 Differentia quasi nulla est inter ascriptitios, &amp; servot 
+      <lb ed="#C" n="144"/>3 Censitus nomen quomodo accipiatur 
+      <lb ed="#C" n="145"/>4 Consuetudo quae est in aliquibus castris, &amp; locis; quod si rusti 
+      <lb ed="#C" n="146"/>cus decedat sine filio, vel alio descendenti, dominus totum oc 
+      <lb ed="#C" n="147"/>cupet jure peculii, an valeai
+    </p>
+            <p xml:id="nbht7y-d1e1551-d1e310">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0607.xml-->
+               <pb ed="#C" n="590"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>Hic fecimus mentionem de duobus 
+      gene<lb ed="#C" n="2" break="no"/>ribus hominum, scil. de servi 
+      <lb ed="#C" n="3"/>&amp; liberis: sed sunt agricolae, id est agrum co 
+      <lb ed="#C" n="4"/>lentes, quod nomen cum generale sit multa 
+      <lb ed="#C" n="5"/>species continet sub se, quia agricolarum.* Alii ascripti 
+      <lb ed="#C" n="6"/>tii, Allicensiti, Alii perpetui, Alii coloni conditionales 
+      <lb ed="#C" n="7"/>Alii inquilini, Alii originarii, Alii simplices coloni, Ali 
+      <lb ed="#C" n="8"/>ascripticii, id est per scripturam solo, sive terrae glebae ascri 
+      <lb ed="#C" n="9"/>pti, id est astricti. Fides autem fieri habet de hoc genere, ei 
+      <lb ed="#C" n="10"/>duabus speciebus obligationum, scil. tam scripturae, quan 
+      <lb ed="#C" n="11"/>professionis, vel depositionis apud acta: nec scriptura si 
+      <lb ed="#C" n="12"/>la sufficit: melius est enim ex piuribus causis ostendi con 
+      <lb ed="#C" n="13"/>ditionem: &amp; non solum professionibus, neque scripturi 
+      <lb ed="#C" n="14"/>homines forte liberos ad deteriorem trahi conditionem 
+      <lb ed="#C" n="15"/>ut C. de agri, &amp; censi, cum sancimus, sic ergo fit una scriptura 
+      <lb ed="#C" n="16"/>in qua promittunt domino soli, se nunquam a solo discedere 
+      <lb ed="#C" n="17"/>&amp; ex illa ascripticius constituitur: sed tamen per eam se 
+      <lb ed="#C" n="18"/>lam ascripticius non probatur: imo alia est scripturane 
+      <lb ed="#C" n="19"/>cessaria, in qua confiteatur se esse ascripticium, &amp; sic h¬ 
+      <lb ed="#C" n="20"/>bes, quod ex istis duabus scripturis probatur, sic secund 
+      <lb ed="#C" n="21"/>confessio efficaciam praestat. C. ad Vellej si mulier. &amp; de pli 
+      <lb ed="#C" n="22"/>2 peti. I. unica.* Est autem dicendum, quod inter ascript 
+      <lb ed="#C" n="23"/>cios &amp; servos pene nulla est differentia ut C. de agri. &amp; cer 
+      <lb ed="#C" n="24"/>si. ne diutius pene ideo dixit: quia servus potest vendi cun 
+      <lb ed="#C" n="25"/>peculio, ut ibi: sed ascripticius nunquam sine solo. ut C de agri 
+      <lb ed="#C" n="26"/>&amp; censit l. 2. Item ascripticii etiam contra domini volunta 
+      <lb ed="#C" n="27"/>tem in possessionibus, in quib. ascripti sunt, ordinari po 
+      <lb ed="#C" n="28"/>sunt. ut in auth. de san. epis §. ascripticios servi non. ut no supi 
+      <lb ed="#C" n="29"/>de serv. ord. Item ascripticii, &amp; sciente &amp; tacente domini¬ 
+      <lb ed="#C" n="30"/>contrahunt matrimonium: nec conditione liberantur, u 
+      <lb ed="#C" n="31"/>C de agri. &amp; censit. Iulti. li. 11. Servi vero si sciente domini¬ 
+      <lb ed="#C" n="32"/>contrahant, liberi efficientur. ut in authen. de nupt. §. si ver 
+      <lb ed="#C" n="33"/>ab initio. hoc secundum leges. nam secundum cano. uter 
+      <lb ed="#C" n="34"/>que etiam contra voluntatem domini contrahit, quod die 
+      <lb ed="#C" n="35"/>ut not supra citul. 1.§.&amp; in fin Alii censiti, id est a censibu 
+      <lb ed="#C" n="36"/>ascripti, ut C. in quibus cau. coloni. l. 2. &amp; hi eodem mod 
+      <lb ed="#C" n="37"/>constituuntur, quo &amp; ascripticii. est tamen differentia, sec 
+      <lb ed="#C" n="38"/>non certa, unde quidam dicunt, quod censitus est ille, qu 
+      <lb ed="#C" n="39"/>est ex ascripticio natus, sed Azo dixit illue se censitum 
+      <lb ed="#C" n="40"/>qui rei certae annuatim praestandae obligatus est, ut C. i 
+      <lb ed="#C" n="41"/>quibus cau. coloni censiti. l. 2. verum ascripticius est ad ren 
+      <lb ed="#C" n="42"/>incertam obligatus, puta tertiam vel quartam partem fructui 
+      <lb ed="#C" n="43"/>vel medium prout dominus legerit. Et nunquid tales testar 
+      <lb ed="#C" n="44"/>a possunt? . Quidam dicunt, quod non, cum servi dicar 
+      <lb ed="#C" n="45"/>tur, ut C. de agri, &amp; censi. nediutius. &amp; I. quemadmodum. Az 
+      <lb ed="#C" n="46"/>dixit, quod inter servos possunt, id est inter eos, qui sun 
+      <lb ed="#C" n="47"/>de familia sua, sed non inter alienos arg. C. de haereti. &amp; M. 
+      <lb ed="#C" n="48"/>nich cognovimus. &amp; de incestis &amp; inutilibus nuptiis siquis*E 
+      <lb ed="#C" n="49"/>est sciendum, quod hoc nomen censitus aliquando larg 
+      <lb ed="#C" n="50"/>accipitur, unde etiam ascripticios comprehendit. ut C. a 
+      <lb ed="#C" n="51"/>agri &amp; censi dominus. aliquando stricte, ut C. in quibus caus 
+      <lb ed="#C" n="52"/>coloni censiti do. I2. sicut. &amp; supra exposuimus. Alli perpe 
+      <lb ed="#C" n="53"/>tui, scilicet quos proditor studiosus diligens suo colon¬ 
+      <lb ed="#C" n="54"/>tui perpetuo acquisivit? erat enim statutum antiquitus 
+      <lb ed="#C" n="55"/>quod miseris &amp; vilibus personis reditus certi ex public¬ 
+      <lb ed="#C" n="56"/>assignarentur tempore famis. &amp; tunc qui validi erant, si 
+      <lb ed="#C" n="57"/>mulantes corporis miseriam, &amp; inertiam, &amp; debilitatem 
+      <lb ed="#C" n="58"/>partem redituum percipiebant, &amp; sic veris miseris pra 
+      <lb ed="#C" n="59"/>bendam suam diminuebant, quos vulgo Itali Spavaldo 
+      <lb ed="#C" n="60"/>vocant, nos Barlotos, sive Ribaldos. hos ergo prodito 
+      <lb ed="#C" n="61"/>studiosus, seu diligens inquisitor simulationem in publ 
+      <lb ed="#C" n="62"/>cum duxerit, &amp; prodiderit, si liberti erant, quia talia fingi 
+      <lb ed="#C" n="63"/>bant, in suo perpetuo habebat colonatu, si servi primu 
+      <lb ed="#C" n="64"/>dominus eis carebat, &amp; proditori assignabantur. C. de mer 
+      <lb ed="#C" n="65"/>di. validi. I. unica. quae incipit contractis. lib. 11. Sed hoc totun 
+      <lb ed="#C" n="66"/>videtur correctum fore per auth. de quaestore: qui servi do 
+      <lb ed="#C" n="67"/>minis suis sunt reddendi liberi in opus publicum dand 
+      <lb ed="#C" n="68"/>vel dic, quod lex antiqua loquitur de simulationibus. at 
+      <lb ed="#C" n="69"/>thent vero de non simulantibus, quia a dispensatore saep 
+      <lb ed="#C" n="70"/>validi, cum in validis ad eleemosynam admittuntur, sec 
+      <lb ed="#C" n="71"/>cum hi simulatores tam graviter puniantur, quid juri 
+      <lb ed="#C" n="72"/>putas esse de occupantibus plura beneficia in praejudicii 
+      <lb ed="#C" n="73"/>pauperum clericorum, ut supra de praebend. quia in tantum 
+      <lb ed="#C" n="74"/>&amp; de rescript. ad aures. dicut not. supra de rescript. §. quae pol 
+      <lb ed="#C" n="75"/>sunt objici. sub §. sed quomodo intelligimus. versicul. pauper. ( 
+      <lb ed="#C" n="76"/>sequent. Alii coloni conditionales, qui constituuntur hoc 
+      <lb ed="#C" n="77"/>solo. quod per 30. annos. in solo sine controversia fuerini 
+      <lb ed="#C" n="78"/>ut C. de agri, &amp; censi. cum satit. &amp; haec consuetudo est bon¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0607.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>secundum Azo. hoc etiam in certis rebus locum habet u 
+      <lb ed="#C" n="80"/>C. de prae scription. 30 annor. si quis emptionis. Sed Azo con 
+      <lb ed="#C" n="81"/>tradicit, quia non ex una sola causa, sed ex pluribus causi 
+      <lb ed="#C" n="82"/>liberi homines ad deteriorem conditionem sunt traher 
+      <lb ed="#C" n="83"/>di, ut C. de agri. &amp; censi, cum sancimus. &amp; dixi supra versicul 
+      <lb ed="#C" n="84"/>alii ascripticii. &amp; ideo necesse est, quod praecedat promis 
+      <lb ed="#C" n="85"/>sio in scriptis, vel sine scriptis, quod perpetuo jure colo¬ 
+      <lb ed="#C" n="86"/>niae, seu in fundo fore promittant, &amp; postea per 30. anno 
+      <lb ed="#C" n="87"/>ibi permaneant. alias tempus non esset modus tollenda 
+      <lb ed="#C" n="88"/>obligationis, multo minus inducendae, argument. ff. d 
+      <lb ed="#C" n="89"/>actionib. &amp; obligationib. Iobligationum. tamen prior sententi: 
+      <lb ed="#C" n="90"/>videtur confirmari. infra de Judaeis c1. §. 1. &amp; supra demmu 
+      <lb ed="#C" n="91"/>nit ecclese 3. Hos quidam putant esse ascripticios conditio 
+      <lb ed="#C" n="92"/>nales, quibus obviat lex. C de episcopali aud. l.nemini &amp; pro 
+      <lb ed="#C" n="93"/>pter aliud dixerunt falsum, quia colonus temporis trans 
+      <lb ed="#C" n="94"/>cursu liberari potest, ut C. de agri, &amp; censi. cum sancimus 
+      <lb ed="#C" n="95"/>ascripticius minime, ut C. eodem titur. cum satis. Item co 
+      <lb ed="#C" n="96"/>lonus conditionem suam non mutat: &amp; si solus sit ascri 
+      <lb ed="#C" n="97"/>ptus. ut ead. I. cum satis sed ascripticius bene mutat, ut eo¬ 
+      <lb ed="#C" n="98"/>titul. nediutius. Alii sunt inquilini, sed secundum quos 
+      <lb ed="#C" n="99"/>dam, inter inquilinum, &amp; colonum nulla est differentia 
+      <lb ed="#C" n="100"/>argum. pro eis. C. de agri. &amp; censi. diffinimus. Azo contra 
+      <lb ed="#C" n="101"/>quia proprie colonus conditionalis est, qui cum sua fami 
+      <lb ed="#C" n="102"/>lia in fundo inhabitat, nec a fundo recedere potest. inqui 
+      <lb ed="#C" n="103"/>linus vero est, qui &amp; si in fundo teneatur, in suburbio ta 
+      <lb ed="#C" n="104"/>men commoratur, &amp; in eo minus est astrictus, quod in a 
+      <lb ed="#C" n="105"/>liqua parte suburbii domum conducendo inhabitare pos 
+      <lb ed="#C" n="106"/>sit, hoc enim colono non licet. Alii originarii, scilicet qu 
+      <lb ed="#C" n="107"/>ex colono &amp; conditionali nascuntur: &amp; secundum quos 
+      <lb ed="#C" n="108"/>dam in ipso solo. aliter enim non esset originarius. ut C. d 
+      <lb ed="#C" n="109"/>agri. &amp; censi, cum satis. §. caveant. sed si hoc verum esset, co 
+      <lb ed="#C" n="110"/>lonus dominum sua prole defraudare posset, ducend 
+      <lb ed="#C" n="111"/>uxorem ad alia loca tempore pariendi. unde dixit Azo 
+      <lb ed="#C" n="112"/>quod sive in fundo, sive alibi nascantur, ad solum tanqu 
+      <lb ed="#C" n="113"/>originarii propria, vel praesidis authoritate sunt reducet 
+      <lb ed="#C" n="114"/>di. nam fufficit quod pater terram alicujus susceperit co 
+      <lb ed="#C" n="115"/>lendam, ut ead. I. cum satis. &amp; quod ibi dicit, si in fundo fue 
+      <lb ed="#C" n="116"/>rit natus, subaudiendum est maxime. Alii simplices, scili 
+      <lb ed="#C" n="117"/>cet qui sub certa annua mercede in pecunia numerat. 
+      <lb ed="#C" n="118"/>praedia colenda accipiunt. aliter enim sine pecunia no 
+      <lb ed="#C" n="119"/>esset locatio. ff. deposiu l1. si quis servum. Et horum quidan 
+      <lb ed="#C" n="120"/>sunt partionarii, quidam ad nummum conducti. Qui sun 
+      <lb ed="#C" n="121"/>partionarii, etiam fructibus a solo separatis, sed in eis nul 
+      <lb ed="#C" n="122"/>lum jus habent. unde nec furti agent, sed dominum ad 
+      <lb ed="#C" n="123"/>gendum per actionem ex conducto compellere possum 
+      <lb ed="#C" n="124"/>ut ff. locati. cum in plures Si vero ad nummum conducti, st¬ 
+      <lb ed="#C" n="125"/>tim fructus ut a solo fuerint separati, usufructuarii inte 
+      <lb ed="#C" n="126"/>liguntur facti domini: ut f defurt. si apes. &amp; intellige a¬ 
+      <lb ed="#C" n="127"/>nummum conducti, scilicet quia domino fundi certan 
+      <lb ed="#C" n="128"/>pecuniam reddunt, non dominus eis. &amp; de his speciebus 
+      <lb ed="#C" n="129"/>sive generibus hominum loquitur infra deJudaeis, cap. mul 
+      <lb ed="#C" n="130"/>torum. §. 1. &amp; 2. Quamvis autem genera hominum sicd 
+      <lb ed="#C" n="131"/>versificentur: tamen consuetudo cujuslibet terrae atten 
+      <lb ed="#C" n="132"/>denda est, &amp; secundum eam sunt judicandi, nec certa re 
+      <lb ed="#C" n="133"/>gula tradi posset: cum in quibusdam regionibus partin 
+      <lb ed="#C" n="134"/>naturam ascripticiorum, partim alterutrorum superiorn 
+      <lb ed="#C" n="135"/>sortiantur: &amp; ideo magis ibi facient provinciales, si ei 
+      <lb ed="#C" n="136"/>consuetudo sua specialis servetur. ut f. de offic. proconsul. 
+      <lb ed="#C" n="137"/>maliqua nec enim una consuetudo alterius loci consue 
+      <lb ed="#C" n="138"/>tudine subvertenda erit. 12 distinction illud breviter. sed ta 
+      <lb ed="#C" n="139"/>men in dubio semper pro libertate judicare debetis. ut su 
+      <lb ed="#C" n="140"/>pra de sentent. &amp; re judicat. capit ultim. 12. quaestion. 2. cum re 
+      <lb ed="#C" n="141"/>demptor. infra eodem, capitul. unico. supra titul. primo, licet. E 
+      <lb ed="#C" n="142"/>ff. de alienan. judic. mutan. causa facta. I3. &amp; deregulis juris. li 
+      <lb ed="#C" n="143"/>bertas. * Quid autem de consuetudine, quae est in castris 
+      <lb ed="#C" n="144"/>&amp; locis aliquibus, quod si rusticus decedat sine filio, vel a 
+      <lb ed="#C" n="145"/>lio descendenti, dominus totum occupat, jure peculii, di 
+      <lb ed="#C" n="146"/>co ipsam servandam. si praescripta sit, quia &amp; Judaei propte 
+      <lb ed="#C" n="147"/>loci consuetudinem habent sub suo dominio Christianos 
+      <lb ed="#C" n="148"/>ut notat. infra de Judae. sub rubrica, de servis Judaeorum, &amp; Sar 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="149"/>ADDITIO. 
+      <lb ed="#C" n="150"/>tio. in j. Compendiosae. vers. 5. &amp; vurs. seq. &amp; pet Ioan. de Ana. in ca 
+      <lb ed="#C" n="151"/>multorum, de ludaei¬ 
+      <lb ed="#C" n="152"/>a Nunquid tales restari possunt] Adde Specul. ia tis. de inst. ed--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0608.xml-->
+      <pb ed="#C" n="591"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>racenoum. cum hoc prohibeatur in clericis specialiter, di 
+      <lb ed="#C" n="2"/>laicis videtur concessum. argum. supra de successionib. ab in 
+      <lb ed="#C" n="3"/>testat. cap. 2. potest enim dominus allegare, quod ab initi¬ 
+      <lb ed="#C" n="4"/>hoc pacto fuerint sic cassati, ad quod probandum induce 
+      <lb ed="#C" n="5"/>consuetudinem, quae est optima legum &amp; dubiorum in 
+      <lb ed="#C" n="6"/>terpres. sic supra de consue. cum dilectus. ff.de usur. cum in ren 
+      <lb ed="#C" n="7"/>verso. &amp; vide super hoc quod not. supra de censib. §. quis cen 
+      <lb ed="#C" n="8"/>sus. &amp; ad hoc in Levitico. 25. c. ubi dicit, Terra quoque noi 
+      <lb ed="#C" n="9"/>vendetur in perpetuum, quia mea est, &amp; vos advenae 8 
+      <lb ed="#C" n="10"/>coloni mei estis, &amp; vide super hoc quod not. supra de censil 
+      <lb ed="#C" n="11"/>§. quis census 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

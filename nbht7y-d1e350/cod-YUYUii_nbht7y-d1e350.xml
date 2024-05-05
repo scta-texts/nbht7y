@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 27</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 27</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="120"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e350"><!-- nbht7y-l1t27 -->
+            <head xml:id="nbht7y-d1e350-Hd1e101">Titulus 27</head>
+            <head xml:id="nbht7y-d1e350-Hd1e103" type="question-title">De officio custodis</head>
+            <p xml:id="nbht7y-d1e350-d1e106">
+               <lb ed="#C" n="127"/>De officio Custodis XXVII. 
+      <lb ed="#C" n="128"/>Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e350-d1e113">
+               <lb ed="#C" n="129"/>SUMMARIA. 
+      <lb ed="#C" n="130"/>1 Officium custodis quod sit 
+      <lb ed="#C" n="131"/>2 Custos si sit negligens in officio, amoveri potest 
+    </p>
+            <p xml:id="nbht7y-d1e350-d1e122">
+               <lb ed="#C" n="132"/>IUstos ecclesiae dicituris, cui ea, qui 
+      <lb ed="#C" n="133"/>ecclesiae competunt 
+      <lb ed="#C" n="134"/>custodienda committuntur, &amp; subest Ar 
+      <lb ed="#C" n="135"/>chidi. mf.eo. c. I. in princ. Ad officiumt ejus 
+      <lb ed="#C" n="136"/>pertinet pulsare tintinabula ad horas cano 
+      <lb ed="#C" n="137"/>nicas, jubente Archidiac. infaeo. c.i.vers. inca 
+      <lb ed="#C" n="138"/>nonicis secus est, si pulsetur ad capitulum congregandum 
+      <lb ed="#C" n="139"/>tunc enim praeceptum capituli expectatur. sup. deelect. i 
+      <lb ed="#C" n="140"/>causis. §. i.Item secus, si pulsetur ut milites ad bellum exeant 
+      <lb ed="#C" n="141"/>i.distin jus militare. tunc enim videtur spectandum praece 
+      <lb ed="#C" n="142"/>ptum magisteriae potestatis. C. de jurisd. omn. jud. magisteriae 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0138.xml-->
+      <pb ed="#C" n="121"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>de officio isto parum ad nos, quia arma nostra lachrymae 
+      <lb ed="#C" n="2"/>&amp; orationes esse debent. 23. q. 8. §. 1. &amp;c. seq. 36. dist. c. si. quam 
+      <lb ed="#C" n="3"/>vis hortari possimus alios ad arma sumenda, ut oppres 
+      <lb ed="#C" n="4"/>sos defendant, &amp; fidem catholicam, 12. qu. 8 §. his ita responde 
+      <lb ed="#C" n="5"/>vuν. &amp;c. sequ. igitur, &amp; c. scire. &amp;c. omni tumore. &amp; chortatu. infd 
+      <lb ed="#C" n="6"/>voto ex multa § fi. Lampades &amp; lucernas debet accendere 
+      <lb ed="#C" n="7"/>&amp; extingere suo tempore circa quod sic invigilet, ne supr¬ 
+      <lb ed="#C" n="8"/>modum lucendo pereat, aut minus lucendo obscurior si 
+      <lb ed="#C" n="9"/>ecclesia, sed cum discretione, quae mater est omnium vir 
+      <lb ed="#C" n="10"/>tutum, i.qu5. praesentium, agat omnia, inf. eo.c.i.ver. lampade 
+      <lb ed="#C" n="11"/>Solicitus etiam debet esse de omni ornamento ecclesiae 
+      <lb ed="#C" n="12"/>de candelis &amp; incenso, &amp; panem &amp; vinum ad missam om 
+      <lb ed="#C" n="13"/>ni tempore habeat praeparatum, oblationes etiam &amp; dec 
+      <lb ed="#C" n="14"/>mas inter fratres dividat cum consensu Arch. absente E 
+      <lb ed="#C" n="15"/>piscopo, inf eo. c. 2 respon.1. si enim episcopus praesens est, ac 
+      <lb ed="#C" n="16"/>ipsum pertinet divisio. 12.qu. 1. episcopus ecclesiasticarum, &amp; sec 
+      <lb ed="#C" n="17"/>12. q. 2. vobis, &amp; cap. Vulteranae, hoc imtellige, quo ad ea qua 
+      <lb ed="#C" n="18"/>communia sunt, vel ubi non apparet de certa consuetud 
+      <lb ed="#C" n="19"/>ne, alioquin capitulum distributionem habet de his, qua 
+      <lb ed="#C" n="20"/>ad ipsum pertinent. infr. de test. relatum. 2.§ nomine, nisi epi 
+      <lb ed="#C" n="21"/>scopo speciali privilegio distributio concedatur, inf. de verb 
+      <lb ed="#C" n="22"/>sign. cum tibi. in omni tamen casu super quolibet dubio ac 
+      <lb ed="#C" n="23"/>episcopum recurritur, &amp; per ipsum terminabitur, &amp; eti 
+      <lb ed="#C" n="24"/>si inferiores male se habeant, idem officium corriget tan 
+      <lb ed="#C" n="25"/>quam caput. inf. eo.c. 2 ad sin. sup. de offic. Archi c. fi. ad fi. 10. q. 
+      <lb ed="#C" n="26"/>decretum est, &amp; cap. seq. usque ad §. si autem episcopus, inf. de vi. &amp; 
+      <lb ed="#C" n="27"/>hon. cler. quoniam. vel Archiepiscopus in defectum ipsius 
+      <lb ed="#C" n="28"/>9 q3 cum simus. vel ad querelam ejusdem episcopi: nfrad 
+      <lb ed="#C" n="29"/>offic. ord irrefragibili, §. caeterum. Hi tres officiales, scil. Arch 
+      <lb ed="#C" n="30"/>diac. Archipresbyter &amp; Custos, quales meliores &amp; sanctio 
+      <lb ed="#C" n="31"/>res reperiri poterunt, ordinentur. inf. eo. c. 3§ in his trib. qui¬ 
+      <lb ed="#C" n="32"/>beneficia melioribus danda sunt, 8. qui.i.licet, 63. dist. c.si. infr 
+      <lb ed="#C" n="33"/>de jur. pat. quoniam ff. de decu. honores, respon. I. C. de his qui ad ec 
+      <lb ed="#C" n="34"/>cles. confu. praesenti, §. quod si in finib. in auth de sanct. Epis. §. 2c 
+      <lb ed="#C" n="35"/>§. si quis oratorii domum, col. 5. nam sicut meliores bonis si 
+      <lb ed="#C" n="36"/>optimi sunt melioribus praeferendi, 63. dist. metrop. in auth d 
+      <lb ed="#C" n="37"/>monachis, §. ordinationem, col.i.arg. de verb obl. ubi autem noi 
+      <lb ed="#C" n="38"/>apparet. antiqui etiam emeriti novis rudibus praeferun 
+      <lb ed="#C" n="39"/>tuc. 61. dist. quid proderit. statuimus. nec emeritis. Item cleric 
+      <lb ed="#C" n="40"/>equiclesiae peregrinis: ut in c. nec emeritis, &amp; c. nullus. Iten 
+      <lb ed="#C" n="41"/>prius ordinati, posterius ordinatis 75. dist. c fin &amp; majore 
+      <lb ed="#C" n="42"/>in ordine minoribus. infrade major. &amp; obe statuimus. Ad ho 
+      <lb ed="#C" n="43"/>rum solutionem sic dicendum est, si de proprio gremi¬ 
+      <lb ed="#C" n="44"/>fiat electio, sufficit quod malus non sit, i6. qu. si. monasterium 
+      <lb ed="#C" n="45"/>si plures eligantur, tunc habita collatione de his omnibu 
+      <lb ed="#C" n="46"/>habetur ratio &amp; determinatio: quis cui praeferatur sup. d 
+      <lb ed="#C" n="47"/>elect. dudum.i. &amp;c. quia propter. &amp;c. congregato, &amp;c. ecclesia 2.i 
+      <lb ed="#C" n="48"/>fi. ubi vero de aliena ecclesia quis eligitur, requiritur quo 
+      <lb ed="#C" n="49"/>sit optimus; sicut si tutor de terra pupilli eligit, suffici 
+      <lb ed="#C" n="50"/>quod sit bonus. si de aliena oportet quod sit optimus. ff. d 
+      <lb ed="#C" n="51"/>tut. &amp; cu. da. ab his. divus Marcus secundum Goff. dic ut no 
+      <lb ed="#C" n="52"/>sup, de elect. §. quis eligi. vers. is etiam, qui non est de eodem gre 
+      <lb ed="#C" n="53"/>2 mio. In summa not. quod si custos? minus idoneus datu 
+      <lb ed="#C" n="54"/>sit, vel si negligens est monitus per Arch. se non correxi 
+      <lb ed="#C" n="55"/>denunciante Archi per episcopum amoveatur. inf. eo. ca. 
+      <lb ed="#C" n="56"/>vers si vero &amp; seque mirabile tamen videtur, quod aliquis pe 
+      <lb ed="#C" n="57"/>modum denunciationis amoveatur: nam accusatio indu 
+      <lb ed="#C" n="58"/>cit dispositionem, inquisitio remotionem, denunciatio cor 
+      <lb ed="#C" n="59"/>rectionem, inf. de accus super his &amp; c. qualiter. Solu. Talis ad 
+      <lb ed="#C" n="60"/>ministrando delinquit, unde aliter corrigi non potest, nis 
+      <lb ed="#C" n="61"/>removeatur. hoc autem generale est, quod ex quo alite¬ 
+      <lb ed="#C" n="62"/>non potest fieri correctio, removeri debet, etiamsi denun 
+      <lb ed="#C" n="63"/>ciatione agatur, sicut in judicio poenitentiali contingit, 1 
+      <lb ed="#C" n="64"/>dist. nervi. inf. de simo. ex tuae. &amp;c. Matthaeus, in fin. &amp; accedit. 2. 
+      <lb ed="#C" n="65"/>7quapropter. inf. de jurejuran. querelam. inf. de fidejuss. pervenit 
+      <lb ed="#C" n="66"/>tidist Maximianus 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

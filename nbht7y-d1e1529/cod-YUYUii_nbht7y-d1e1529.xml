@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 8</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 8</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="586"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1529"><!-- nbht7y-l4t8 -->
+            <head xml:id="nbht7y-d1e1529-Hd1e101">Titulus 8</head>
+            <head xml:id="nbht7y-d1e1529-Hd1e103" type="question-title">De conjugio leprosorum</head>
+            <p xml:id="nbht7y-d1e1529-d1e106">
+               <lb ed="#C" n="142"/>De Conjugio Leprosorum. Ru¬ 
+      <lb ed="#C" n="143"/>brica VIII. 
+    </p>
+            <p xml:id="nbht7y-d1e1529-d1e113">
+               <lb ed="#C" n="144"/>SVMMARIA. 
+      <lb ed="#C" n="145"/>I. Leprosus si continere noluerit, &amp; invenitaliquam quae secum 
+      <lb ed="#C" n="146"/>contrahat, an ipsam ducere possi 
+      <lb ed="#C" n="147"/>2. Mulier si contrahit cum leproso perverba defuturo ignoran 
+      <lb ed="#C" n="148"/>ter, vel cum sano facto leproso, an lepra superveniens diri 
+      <lb ed="#C" n="149"/>mat sponsalis 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0604.xml-->
+      <pb ed="#C" n="587"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>3. Leprosi de generali consuetudine ecclesie sunt a communis 
+      <lb ed="#C" n="2"/>ne hominum separandi 
+      <lb ed="#C" n="3"/>4. Vxor sana an tenetur sequi virum leprosum 
+    </p>
+            <p xml:id="nbht7y-d1e1529-d1e142">
+               <lb ed="#C" n="4"/>QUoniam lepra solvit sponsalia a d 
+      <lb ed="#C" n="5"/>futuro, non de praesenti, n 
+      <lb ed="#C" n="6"/>quidam putent, quod propter horribilitatem? 
+      <lb ed="#C" n="7"/>abominationem hujus infirmitatis etian 
+      <lb ed="#C" n="8"/>matrimonia de praesenti debent solvi, aj 
+      <lb ed="#C" n="9"/>ponit hic rubricam de Conjugio leprosorum. In qui 
+      <lb ed="#C" n="10"/>notandum est,? quod si leprosus continere noluerit, &amp; in 
+      <lb ed="#C" n="11"/>veniat aliquam quae secum contrahat, ipsam ducere pon 
+      <lb ed="#C" n="12"/>ut inf. eo. quonin  leprosus, &amp; est ratio, quoniam hoc edicti 
+      <lb ed="#C" n="13"/>a prohibitorium est, ut sup. de spo, cum apud Quid si quae 
+      con<lb ed="#C" n="14" break="no"/>traxit cum leproso per verba de futuro ignoranter, vel c 
+      <lb ed="#C" n="15"/>sano, postea facto leproso, lepra superveniens solvit spor 
+      <lb ed="#C" n="16"/>salia praecedentia, nisi forte jam traduxisset sponsam in do 
+      <lb ed="#C" n="17"/>mum suam, ut inf. eo. literas. Videtur tamen dicere haec de 
+      <lb ed="#C" n="18"/>cret. quod antequam matrimonium sit consummatum 
+      <lb ed="#C" n="19"/>possit solvi, sed quod dicit consummatum, expone.i. con 
+      <lb ed="#C" n="20"/>tractum, vel ideo hoc dicit, quia si esset consummatum, ju 
+      <lb ed="#C" n="21"/>dicaretur matrimonium praesumptum: unde dic consum 
+      <lb ed="#C" n="22"/>matum, subaudi, neque contractum, &amp; sic sponsalia tantun 
+      <lb ed="#C" n="23"/>solvit: ut ibi, &amp; sup. de jureju. quemadmodum, &amp; no. sup. de spi 
+      <lb ed="#C" n="24"/>§ &amp; qualiter di ssolvatur, versicul. item solvuntur, secundo ergo 
+      <lb ed="#C" n="25"/>si traducta erat, vel per verba de praesenti contraxerat, in 
+      <lb ed="#C" n="26"/>perpetuum non separabitur, nisi ante carnis copulam a 
+      <lb ed="#C" n="27"/>ter ad religionem transire voluerit, nam si transeat is qui re 
+      <lb ed="#C" n="28"/>manet, nubere potest in Domino, ut patet sup. de spon, con 
+      <lb ed="#C" n="29"/>missum &amp; sup tit i. veniens, &amp; no de conver. conju § qualiter, 8 
+      <lb ed="#C" n="30"/>hoc intelligas, quando sponsa virgo est. nam si corrupta es 
+      <lb ed="#C" n="31"/>set post traductionem non posset separari nisi post mo¬ 
+      <lb ed="#C" n="32"/>tem: ut apparet in his quae no sup. de mat. § qualiter contraha 
+      <lb ed="#C" n="33"/>tur, ver. idem videtur, si traducta fuerit. Alias autem non solun 
+      <lb ed="#C" n="34"/>non separabuntur: imo sanus cogendus est, ut leproso red 
+      <lb ed="#C" n="35"/>dat debitum, &amp; econtra, nec. n. propter lepram, vel alian 
+      <lb ed="#C" n="36"/>infirmitatem quamcunque aliter separabuntur: ut infrto¬ 
+      <lb ed="#C" n="37"/>quoniam, resp.1. &amp; Sult &amp; 2 qui horrendus, &amp; patet in his qu 
+      <lb ed="#C" n="38"/>no. sup de matr. § quis sit effectus. Debet ergo uxor ipsum vi 
+      <lb ed="#C" n="39"/>rum sequi, ut 349. 2si quis necessitate, &amp; 32q5 si quis uxoren 
+      <lb ed="#C" n="40"/>13. q. 2. unaquaeque mulier, quis enim tam humanum est. quan 
+      <lb ed="#C" n="41"/>ut fortuitis casib. mulieris maritum vel uxorem viri partici 
+      <lb ed="#C" n="42"/>pem esse? ut ff. sol. mat. si cum dotem, si maritus, in fi. Monei 
+      <lb ed="#C" n="43"/>di ergo sunt, ut debitum reddant, quod si moniti acquie 
+      <lb ed="#C" n="44"/>scere noluerint, non cogantur, si continentiam servare v¬ 
+      <lb ed="#C" n="45"/>lunt, ut infra tit. 1 sin autem servare nolunt, vel non possum 
+      <lb ed="#C" n="46"/>cogentur, ut inftit. 2. § ult. &amp; hoc teneas, quicquid infra s¬ 
+      <lb ed="#C" n="47"/>quatur. Alii dicunt, quod sanus non cogitur praecise rec 
+      <lb ed="#C" n="48"/>dere debitum, ut in c. 1.ar 34. qu. 2si quis necessuatem. f. de ope 
+      <lb ed="#C" n="49"/>lim quod nisi §1 &amp; est ratio, ne leprosi nimis improbi sint in 
+      <lb ed="#C" n="50"/>repetitione sui juris, seu exactione copulae carnalis, se¬ 
+      <lb ed="#C" n="51"/>potius contineantnon tamen cogetur continentiam proi 
+      <lb ed="#C" n="52"/>teri sicut alias tenetur aliquis ad aliquid faciendum. no 
+      <lb ed="#C" n="53"/>tamen praecise cogitur, ut sup qui cle. vel vo. veniens. Alii d 
+      <lb ed="#C" n="54"/>stinguunt inter lepram, quae inficit, ut tunc non cogi 
+      <lb ed="#C" n="55"/>tur praecise, ut in c. I. &amp; lepram, quae non inficit, &amp; tunc ec 
+      <lb ed="#C" n="56"/>gatur praecise, ut inf. ut. 2. Sult. sed non placet, ideo tene, sit 
+      <lb ed="#C" n="57"/>ut no. sup. eo. imonendi, &amp; vide quod no. supra de cle aegro. Illu 
+      <lb ed="#C" n="58"/>3 in summa sciendum est,* quod lej rosi de generali consue 
+      <lb ed="#C" n="59"/>tudine ecclesiae sunt a communione hominum separan 
+      <lb ed="#C" n="60"/>di, sed uxores tenentur sequi eos, ut inf.c.i.nam &amp; in veter 
+      <lb ed="#C" n="61"/>Testamento praecepit Dominus Moysi, quod Maria so 
+      <lb ed="#C" n="62"/>ror Aaron prophetissa propter detractationis delictum 
+      <lb ed="#C" n="63"/>quod contra ipsum Moysen commiserat, lepra percussa 
+      <lb ed="#C" n="64"/>extra castra 7. diebus egrederetur, sic mox sanata mitteri 
+      <lb ed="#C" n="65"/>tur in castris, ut 33. qu. 2. hoc ipsum. Sin autem tot leprosis 
+      <lb ed="#C" n="66"/>mul fuerint, quod sacerdotem valeant habere, eis permi¬ 
+      <lb ed="#C" n="67"/>titur, ut sup. de ecc. aedisic ad audientiam. In hoc tamen casi 
+      <lb ed="#C" n="68"/>quaesivit Goff. utrum uxor sana teneatur sequi virum? 
+      <lb ed="#C" n="69"/>dicit, quod non, cum in communi dormiant, &amp; in commu 
+      <lb ed="#C" n="70"/>ni vescantur, sed si cella vel domus aliqua daretur eis segra 
+      <lb ed="#C" n="71"/>gata, in qua possent cohabitare, tunc contrarium vider 
+      <lb ed="#C" n="72"/>tur fore dicendum, secundum Gof. innuit ergo, quod lo 
+      <lb ed="#C" n="73"/>cus sit religiosus, o utrum autem intelligantur religio 
+      <lb ed="#C" n="74"/>fore: dic ut notatur in sum, supra de eccles. aedisic. &amp; §. quibu 
+      <lb ed="#C" n="75"/>ex caus. versicul. &amp; haec est una causa, &amp; sequent. Quid de fili 
+      <lb ed="#C" n="76"/>is? dicas, quod apud sanum debent morari ne infician 
+      <lb ed="#C" n="77"/>tur, secundum Goffredum super quo vide quod nota 
+      <lb ed="#C" n="78"/>supra de convers. insi. § qualiter conver. ver. quid juris de proli 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0604.xml-->
+      <cb ed="#C" n="b"/>
+               <!--<lb ed="#C" n="79"/>ADDITIONES 
+      <lb ed="#C" n="80"/>s Tepra solvit sponsaha) Adde gumadmidum deii &amp; a&amp; 
+    </p>
+    <p>
+      <lb ed="#C" n="81"/>in c. ex parie, de conver. coniu 
+      <lb ed="#C" n="82"/>b Quod locus sit religiosus. JAdde an collegium leprosorum 
+    </p>
+    <p>
+      <lb ed="#C" n="83"/>censeatur religiosum, vide gl, in t. quis contingii, de relig. dom 
+      <lb ed="#C" n="84"/>Inn. in c. cum dicas. de eccl aedifi. Car. in cle per liter as in 12. q. de prab-->
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

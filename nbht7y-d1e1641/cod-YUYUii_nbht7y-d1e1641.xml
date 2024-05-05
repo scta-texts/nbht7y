@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 18</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 18</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="618"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1641"><!-- nbht7y-l4t18 -->
+            <head xml:id="nbht7y-d1e1641-Hd1e101">Titulus 18</head>
+            <head xml:id="nbht7y-d1e1641-Hd1e103" type="question-title">Qui matrimonium accusare possunt, vel contra illud testari</head>
+            <p xml:id="nbht7y-d1e1641-d1e106">
+               <lb ed="#C" n="57"/>Qui matrimonium accusare pos 
+      <lb ed="#C" n="58"/>sunt, vel testificari. XVIII. 
+      <lb ed="#C" n="59"/>Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e115">
+               <lb ed="#C" n="60"/>SuMMARIA. 
+      <lb ed="#C" n="61"/>I. Copulatos dimittere aliquos contra statum hominum tutiu 
+      <lb ed="#C" n="62"/>est, quam legitimee conjunctos, contra domini statuta se 
+      <lb ed="#C" n="63"/>parare 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e126">
+               <lb ed="#C" n="64"/>EX quo in superiorib plene exposuimus 
+      <lb ed="#C" n="65"/>qualiter, &amp; a quo matrimonii 
+      <lb ed="#C" n="66"/>contrahatur, &amp; qualiter impediatur, bene est 
+      <lb ed="#C" n="67"/>quod videamus qualiter dissolvatur: sed qui¬ 
+      <lb ed="#C" n="68"/>divortium fieri non debet regulariter, nisi libello accus¬ 
+      <lb ed="#C" n="69"/>tionis oblato, &amp; intentione, quae ibi continetur, plene pro 
+      <lb ed="#C" n="70"/>bata, quia tutius est aliquos contra statuta hominum dimi¬ 
+      <lb ed="#C" n="71"/>tere copulatos, quam legitime conjunctos contra statut; 
+      <lb ed="#C" n="72"/>domini separare, ut supra de testi, licet 2. in fi. ante tractatum d 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0635.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="73"/>divor. de accu. e&amp; de testifica. videamus: &amp; sic apponamu 
+      <lb ed="#C" n="74"/>rubrica, qui matr. accu. possunt, vel testificari. Sed &amp; qui¬ 
+      <lb ed="#C" n="75"/>quandoque agitur ad matrimonium conjungendum,  quan 
+      <lb ed="#C" n="76"/>doque ad disjungendum. Et ad disjungendum aliquand 
+      <lb ed="#C" n="77"/>hoc modo, quod quilibet contrahere potest, ut quando sep¬ 
+      <lb ed="#C" n="78"/>rantur propter maleficium, vel propter consanguinitate 
+      <lb ed="#C" n="79"/>Aliquando datur alteri tantum licentia contrahendi, &amp; alte 
+      <lb ed="#C" n="80"/>ri prohibetur: ut quando dirimitur propter frigiditaten 
+      <lb ed="#C" n="81"/>hominis, vel arctationem mulieris. Aliquando autem neutr 
+      <lb ed="#C" n="82"/>datur licentia, sed agitur tantum ad excludendam mutul 
+      <lb ed="#C" n="83"/>servitutem, &amp; carnale debitum denegandum, ut in accusati 
+      <lb ed="#C" n="84"/>one facta ex causa fornicationis, seu adulterii, aliquanc¬ 
+      <lb ed="#C" n="85"/>etiam causa religionis intrandae: de singulis per ordinen 
+      <lb ed="#C" n="86"/>videamus 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e184">
+               <lb ed="#C" n="87"/>Si mulier petat in viru aliquem, ve 
+      <lb ed="#C" n="88"/>econverso petitorio vel possessorio 
+      <lb ed="#C" n="89"/>an &amp; qualiter sit restitutio fa¬ 
+      <lb ed="#C" n="90"/>cienda. Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e195">
+               <lb ed="#C" n="91"/>SUMMARIA 
+      <lb ed="#C" n="92"/>i. Malier sipetit aliquem in virum, &amp; contra non duur Lbel 
+      <lb ed="#C" n="93"/>2. Et quomodo formetur 
+      <lb ed="#C" n="94"/>3. Libellus quomodo formetur simulieragat possessoris 
+      <lb ed="#C" n="95"/>4. Expensae factae a muliere extra domum, an sint a marinto sol 
+      <lb ed="#C" n="96"/>vnd¬ 
+      <lb ed="#C" n="97"/>5. Induciae deliberatoriae dari debent porrecto libello 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e213">
+               <lb ed="#C" n="98"/>SImiliter petit aliquam in virum, &amp; 
+      <lb ed="#C" n="99"/>econtra, licet secundum 
+      con<lb ed="#C" n="100" break="no"/>suetudinem quarundam ecclesiarum non por 
+      <lb ed="#C" n="101"/>rigatur libellus, tamen melius est, &amp; tutius 
+      <lb ed="#C" n="102"/>quod detur, ita quod is qui impeditur, scia 
+      <lb ed="#C" n="103"/>quo &amp; super quo, &amp; qualiter, &amp; sic deliberet, quia libellu 
+      <lb ed="#C" n="104"/>est de substantia judicii, vt no. sup de libel. obl § utrum libellu 
+      <lb ed="#C" n="105"/>&amp; auth. offeratur, indist loquitur, &amp; arg. ad hoc 2qu.legum, &amp; 
+      <lb ed="#C" n="106"/>supra de libel obl.c.i.debet ergo Judex esse discretus, quid 
+      <lb ed="#C" n="107"/>hac causa cognoscit, vt not supra de matrimo. contrah. contr¬ 
+      <lb ed="#C" n="108"/>interdi. eccl. u a quo fieri possit, &amp; ver. seq &amp; caetera matrimoni 
+      <lb ed="#C" n="109"/>diversis modis firmentur, ut no supra de matrimoniis, § fin¬ 
+      <lb ed="#C" n="110"/>&amp; aliud in sponsa de futuro, aliud in sponsa de praesenti, u 
+      <lb ed="#C" n="111"/>no supra de spon. duorum. §quae quibus, praejudicet. curare de 
+      <lb ed="#C" n="112"/>bet, ut certam sententiam ferat, ut Inst. de act. § curare I1. 9. 
+      <lb ed="#C" n="113"/>grave. Item quia aliud est, si mulier agat petitorio, ui si 
+      <lb ed="#C" n="114"/>dicat, Agit Berta contra Martinum, dicens quod cum ips 
+      <lb ed="#C" n="115"/>Martinus eam desponsaverit per verba de praesenti, ser 
+      <lb ed="#C" n="116"/>ipsam laudaverit, &amp; in eam consenserit tanquam in uxo 
+      <lb ed="#C" n="117"/>rem, &amp; ipsa in eum, dictus Martinus ipsam tenere renui 
+      <lb ed="#C" n="118"/>ut uxorem, quare petit dicta Berta eundem Martinum si 
+      <lb ed="#C" n="119"/>bi in maritum adiudicari, &amp; eum compelli, ut sibi tanqui 
+      <lb ed="#C" n="120"/>uxori adhaereat, &amp; ut eam maritali affectione pertracte 
+      <lb ed="#C" n="121"/>intra lectum, &amp; extra, ut probatur supra de sponsa c.i&amp; c. ei 
+      <lb ed="#C" n="122"/>parte, &amp;c. venient, mariota, sed &amp; in hoc casu aliquando pro 
+      <lb ed="#C" n="123"/>cedit Judex ex officio, ut supra de spon. ad id quod Vel sic pon 
+      <lb ed="#C" n="124"/>formari libellus, Agit Berta contra Martinum, dicens quo¬ 
+      <lb ed="#C" n="125"/>eum sponsalibus inter eos contractis eam carnaliter 
+      co<lb ed="#C" n="126" break="no"/>gnoverit, ipsam tenere renuit, ut uxorem: quare petit 
+      di<lb ed="#C" n="127" break="no"/>cta Berta, &amp; c. ut supra comprobatur, supr. de cogna spiritu 
+      <lb ed="#C" n="128"/>c. ult. &amp; de spon. is qui fidem, &amp; de testi ex tenore.* Aliud est si 
+      <lb ed="#C" n="129"/>mulier agat possessorio scil. in hunc modum, Agit Bert 
+      <lb ed="#C" n="130"/>contra Martinum; dicens quod cum dictus Martinus ci 
+      <lb ed="#C" n="131"/>ea Matrimonium legitime contraxerit, &amp; eandem in do 
+      <lb ed="#C" n="132"/>mum suam traduxerit, idem Martinus, ipsam Bertam pro 
+      <lb ed="#C" n="133"/>pria temeritate a se abjecit, &amp; quasi possessione maritali 
+      <lb ed="#C" n="134"/>vinculi, seu sacramenti spoliavit, unde petit ipsum virum 
+      <lb ed="#C" n="135"/>sibi restitui, &amp; se in eandem quasi possessionem reduci, in 
+      <lb ed="#C" n="136"/>qua erat, antequam abjecisset eandem, ad hoc infra de divor 
+      <lb ed="#C" n="137"/>porro, &amp; supra de restitut. spo ex conquestione, ex transmissa, &amp; a 
+      <lb ed="#C" n="138"/>offic. deleg. causam matrimonii. Est tamen differentia inte 
+      <lb ed="#C" n="139"/>modos agendi, quia si mulier agit petitorio, potest mari¬ 
+      <lb ed="#C" n="140"/>tus excipere contra ipsam de consanguinitate, vel quovii 
+      <lb ed="#C" n="141"/>alio justo impedimento, ut supra de cognat. spiritual, cap. ul 
+      <lb ed="#C" n="142"/>&amp; de ordine cognit. cap. 1 secus si possessorio agat: quia tun¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0636.xml-->
+      <pb ed="#C" n="619"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>generaliter non obstante exceptione aliqua, sit restitutio 
+      <lb ed="#C" n="2"/>sed tamen &amp; in casibus denegatur, quod dic ut no. supra d 
+      <lb ed="#C" n="3"/>rest spo. sub s in casibus autem, ver. nono. &amp; seq &amp; vide super ho 
+      <lb ed="#C" n="4"/>specialia quaedam, quae non supra de matrimo. sub S ul auten 
+      <lb ed="#C" n="5"/>Utrum autem possit vxor recurrere de petitorio ad pol 
+      <lb ed="#C" n="6"/>sessorium, dic ut notatur supra de cau. pos. &amp; propri sub S hi 
+      <lb ed="#C" n="7"/>igitur, qualiter facienda sit restitutio, dic vt notatur supra der 
+      <lb ed="#C" n="8"/>stitutio spoliat. § quis sit effectus, quid habeat necesse probar 
+      <lb ed="#C" n="9"/>petens restitutionem. dic ut notatur suprâ de restitut. spol. 
+      <lb ed="#C" n="10"/>I. persicul.i. ergo spoliatus. Est tamen notandum, quod si mu 
+      <lb ed="#C" n="11"/>lier propria voluntate exierit, non potest petere restitut 
+      <lb ed="#C" n="12"/>onem, nisi tunc demum, quando veniens non admittitu 
+      <lb ed="#C" n="13"/>per maritum. ut ff. de acquirend posses. clam. possidere, § qui a 
+      <lb ed="#C" n="14"/>nundinas, &amp; leg si id quod Sultim. &amp; de vi &amp; vi armat. leg. prin 
+      <lb ed="#C" n="15"/>§ sive autem, &amp; sic ultima mora nocebit, ut ff.de peti. &amp; con 
+      <lb ed="#C" n="16"/>rei venditio. leg. illud.  Quid ergo de expensis factis a mi 
+      <lb ed="#C" n="17"/>liere extra domum? Certum est, quod maritus ei prov 
+      <lb ed="#C" n="18"/>dere debet, secundum quod dos est, quia ubi dos, ibi 
+      <lb ed="#C" n="19"/>nera matrimonii f de jur. do si is §ibi, &amp; pro socio. leg actioni 
+      <lb ed="#C" n="20"/>Sulbim. &amp; famil. ercis. si maritus, &amp; leg sifilia, Shoc amplus, &amp; 
+      <lb ed="#C" n="21"/>sol. mat. leg si cum dotem, paragrapho sin autem, prope fin quin 
+      <lb ed="#C" n="22"/>mo si non habet dotem, vel eam amisit sui culpa, imputam 
+      <lb ed="#C" n="23"/>dum est ei, &amp; ideo debet, ei expensas facere, cum sit par 
+      <lb ed="#C" n="24"/>corporis sui, &amp; socia divinae &amp; humanae domus, ut nota 
+      <lb ed="#C" n="25"/>supra de matrimonius, §1. &amp; Sultim quare tenetur ei prov 
+      <lb ed="#C" n="26"/>dere secundum facultates suas, &amp; dignitatem, quia uxc 
+      <lb ed="#C" n="27"/>res coruscant praediis maritorum, ut in authentic. de consul 
+      <lb ed="#C" n="28"/>bus§ si vero non est copulatus, colum 4. argument. ad hoc 23. dis 
+      <lb ed="#C" n="29"/>cap. Archidiaconi, &amp; 23. q. 2.ad monere, &amp; supra de renun. ad suf 
+      <lb ed="#C" n="30"/>plicationem, &amp; de aetate &amp; qualit. accepinus, &amp; de praebend. cu¬ 
+      <lb ed="#C" n="31"/>secundum, sicut contra videtur, quod si maritus omnia bon 
+      <lb ed="#C" n="32"/>sua dissipaverit, recuperat mulierdotem, de qua ambo 8 
+      <lb ed="#C" n="33"/>liberi sustentantur. ut C. de jure dociumi ubi. &amp; infra de dona 
+      <lb ed="#C" n="34"/>inter virum &amp; uxorem, per vestras, quia non ad imparia fi 
+      <lb ed="#C" n="35"/>dicantur, ut infra de divort, gaudenus, § sane, &amp; ff. dere judic. 
+      <lb ed="#C" n="36"/>ta, non tantum, &amp; legibus sequemibus. Sed in praemissa qua 
+      <lb ed="#C" n="37"/>stione non puto maritum teneri nisi ad expensas, quas fi 
+      <lb ed="#C" n="38"/>cit, ex quo ipsam venientem non admisit, &amp; junge quo¬ 
+      <lb ed="#C" n="39"/>no. infra de accusat S quis possit atcusare, sub S admittuntur, ver 
+      <lb ed="#C" n="40"/>sic. hoc autem quod dictum est. in his autem omnibus adulte 
+      <lb ed="#C" n="41"/>riûm obstabit, ut infra de divor significasti, nisi mulier possi 
+      <lb ed="#C" n="42"/>replicatione adjuvari, ut ibidem, &amp; supra de eo qui cogni 
+      <lb ed="#C" n="43"/>consangua uxor. suae discretionem §1 &amp; 2&amp; infra de ndul capi 
+      <lb ed="#C" n="44"/>pen &amp; ultim. ff. de soluto matrimonio, viro atque uxote. Si erg. 
+      <lb ed="#C" n="45"/>mulien propria voluntate exivit, non auditur petens resti 
+      <lb ed="#C" n="46"/>tutionem, quia ipsa se privavit, ut 32 quae. . debeneicio. Se¬ 
+      <lb ed="#C" n="47"/>quoniam agens necesse habet probare intentionem suam 
+      <lb ed="#C" n="48"/>ut C. de edendo, qui accusare, supra ut ecclesi benae, ut nostrum, sci 
+      <lb ed="#C" n="49"/>re debes,? quod porrecto libello induciae dari debent de 
+      <lb ed="#C" n="50"/>liberatorlae. ut not supra de lib obl. de dilationibus, &amp; probi¬ 
+      <lb ed="#C" n="51"/>tur 3. qu 3. offeratur, &amp;c de induciis, die autem adveniente, ve 
+      <lb ed="#C" n="52"/>etiam antequam assignetur, jurabit quilibet stare mand¬ 
+      <lb ed="#C" n="53"/>tis ecclesiae, &amp; de veritate dicenda, sicut generalis consu¬ 
+      <lb ed="#C" n="54"/>tudo servatur, &amp; probatur supra de despon. impu. artestacione 
+      <lb ed="#C" n="55"/>&amp; de appellat quaestioni, &amp; de elect. dudum. Grt. 5. partibus &amp; 
+      <lb ed="#C" n="56"/>tandem, &amp; cap, cum dilectus, §1. &amp; 2. licet, alias sacramentum 
+      <lb ed="#C" n="57"/>calumniae in his spiritualibus non praestetur, ut suptade j¬ 
+      <lb ed="#C" n="58"/>ramento calumniae, literai, nam hoc iuramentum, scilicet di 
+      <lb ed="#C" n="59"/>reritate dicenda, in qualibet causa necessarium puto, i 
+      <lb ed="#C" n="60"/>31u. 2. si verum est, &amp; supra de jureju. ex literis, &amp; tamen respen 
+      <lb ed="#C" n="61"/>dendum est, secundum quod quilibet credit verum fore 
+      <lb ed="#C" n="62"/>nec deierat, quamvis aliter se habeat res; ut not supra de iu 
+      <lb ed="#C" n="63"/>riju. § quod comites, per. in veritate, Goffred. tamen aliter no 
+      <lb ed="#C" n="64"/>tavit, quod dic vt no. supra de juramento calumniae. § quandd 
+      <lb ed="#C" n="65"/>versicul. unum tamen non omittas, &amp; versic.i.&amp; sequent. Debe 
+      <lb ed="#C" n="66"/>ergo interrogari primo agens secundo reus, utrum sintv 
+      <lb ed="#C" n="67"/>ra ea quae in libello continentur: sit uterque asserat, pl¬ 
+      <lb ed="#C" n="68"/>num est, quod injungetur eis, quod simul revertantur, ni 
+      <lb ed="#C" n="69"/>si aliud canonicum obstat, ut supra de clandestde spon capit. 
+      <lb ed="#C" n="70"/>&amp; de consanguin. &amp; affin, capit. 1. &amp; interrogabitur alterute 
+      <lb ed="#C" n="71"/>alterutro praesente, argument. supta de judic at siclerici, 
+      <lb ed="#C" n="72"/>de dolo &amp; contumac. prout, &amp; infra de verboram significat forus 
+      <lb ed="#C" n="73"/>circa sien. aliter non obesset confessio, ut notat, supra de cor 
+      <lb ed="#C" n="74"/>fess. Squaliter intelligatur, versicul. prae sente adversario, sed qui 
+      <lb ed="#C" n="75"/>dam sigillatim &amp; secreto sive seorsum eos interrogant, &amp; 
+      <lb ed="#C" n="76"/>male, si tamen agatur in forma judicii, nisi forte hot faci 
+      <lb ed="#C" n="77"/>at judex cautus, ad extorquendam melius veritatem, ne 
+      <lb ed="#C" n="78"/>advocatus debet respondere ad factum, ut supra de judi¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0636.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>pastoralis, &amp; si quis dubitaverit probabiliter, inducias im 
+      <lb ed="#C" n="80"/>petrabit, secundum ea quae notatur supra de juramento ca 
+      <lb ed="#C" n="81"/>lumniae, paragrapho quando praestandum sit, versicul. sed nun 
+      <lb ed="#C" n="82"/>quid, quod si maritus confiteatur contractum, sed excipi 
+      <lb ed="#C" n="83"/>atur de adulterio, &amp; uxor confiteatur adulterium habi 
+      <lb ed="#C" n="84"/>tur eifides contra se, ut infra de diroriiis, capitul ex literis 
+      <lb ed="#C" n="85"/>sed aliud, si ambo conjuges confiterentur impedimen¬ 
+      <lb ed="#C" n="86"/>tum propter quod omnino matrimonium separatur. u 
+      <lb ed="#C" n="87"/>supra de co qui cogno consangui. uxoris suae, super eodem, sed 
+      <lb ed="#C" n="88"/>maritus matrimonium negaverit, tunc incumbit preba 
+      <lb ed="#C" n="89"/>tio mulieri, &amp; per quos testes congeniet hoc probari, v 
+      <lb ed="#C" n="90"/>de &amp; dic ut notatur de testibus paragrapho quis possit esc testis 
+      <lb ed="#C" n="91"/>rersicul. ubi autem. Quid juris sit, ii deficiat in propari 
+      <lb ed="#C" n="92"/>omnino solvitur &amp; relinquitur mulier conscienuae su¬ 
+      <lb ed="#C" n="93"/>&amp; utrum contrahat, nec ne, ut supra de jurejuran inulii 
+      <lb ed="#C" n="94"/>utrum autem in hoc casu sit deferendum juramentur 
+      <lb ed="#C" n="95"/>dic ut notatur supra de jurejurar sube nec redeundu m. §&amp;n 
+      <lb ed="#C" n="96"/>quibus versicul. quid de causa monachationis, &amp; hoc scias, quo 
+      <lb ed="#C" n="97"/>mulier ad omnia restituenda est, ita quod gaudeat pac 
+      <lb ed="#C" n="98"/>fica possessione, &amp; plena securitate, ut3. quaestio. i. remi 
+      <lb ed="#C" n="99"/>granda, sed si mulier ex aliqua causa verisimili dicat se vi 
+      <lb ed="#C" n="100"/>rum suum habere suspectum cum vir eam sibi pentat re 
+      <lb ed="#C" n="101"/>stitus ad officium judicis spectat, jubere caverae sufficient 
+      <lb ed="#C" n="102"/>cautione; quod in lecto, &amp; in mensa, &amp; in omnibus tra 
+      <lb ed="#C" n="103"/>ctabit eam, sicut vir debet tractare uxorem, nec haedet i 
+      <lb ed="#C" n="104"/>persona, vel rebus vel aliquo mondo eam dehonestabit, sal 
+      <lb ed="#C" n="105"/>va correctione maritali &amp; honesta, &amp; hac cautionem d 
+      <lb ed="#C" n="106"/>bet maritus praestare perjuramentum, ut 32 quaestiei, a&amp; hi 
+      <lb ed="#C" n="107"/>nedictio. Forma juramenti haec est. dicit enim judex ma 
+      <lb ed="#C" n="108"/>rito. Ab ista die in antea istam conjugem ruam, quam in 
+      <lb ed="#C" n="109"/>juste dimiseras, ita tenebis, sicut maritus suam conjugen 
+      <lb ed="#C" n="110"/>deber habere in dilectione &amp; debira disciptina, nec eam 
+      <lb ed="#C" n="111"/>per ullum malum ingenium a te feparabis nec ea vivent, 
+      <lb ed="#C" n="112"/>aliam accipies, sic Deus te adjuvet, &amp; haec sancta Dei Evan 
+      <lb ed="#C" n="113"/>gelia, ut35. quaestio S. ab isto die in aniea istam conjugem. Sec 
+      <lb ed="#C" n="114"/>si mulier non confidit de juramento viri, quia forte vir pa 
+      <lb ed="#C" n="115"/>rum timet juramentum, illam cautionem debet praesta 
+      <lb ed="#C" n="116"/>re, quam magis trinebit scil pignoraticiam vel idej usori 
+      <lb ed="#C" n="117"/>am sub poena promissa, ut argument, supra ut lite non conte 
+      <lb ed="#C" n="118"/>stat quoniam frequenter, in sin, &amp; &amp; rzinion) spoliatorum ei 
+      <lb ed="#C" n="119"/>transimissa. &amp;c. literas, in fin de prae sump. literas § si. &amp;  manda 
+      <lb ed="#C" n="120"/>si manduo Titit Fult. 23. qu. 5 prodest. &amp;  X a vindicta, quia sio 
+      <lb ed="#C" n="121"/>ut ibi videtur, illa paena infligenda est, quae magis timetur 
+      <lb ed="#C" n="122"/>&amp; in his judex ex personis dicta &amp; facta pensabit, ut e 
+      <lb ed="#C" n="123"/>quis Imperatorr maledixerit, Lunic¬ 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e590">
+               <lb ed="#C" n="124"/>Quis admittatur ad Accusatio¬ 
+      <lb ed="#C" n="125"/>nem matrimonii. Rub. 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e597">
+               <lb ed="#C" n="126"/>SVMMARIA. 
+      <lb ed="#C" n="127"/>I. Divortium quando peritur proptererrorem, soli tonjager ad 
+      <lb ed="#C" n="128"/>mitentus 
+      <lb ed="#C" n="129"/>2. Magitus, &amp; uxer aduinuntur ad escusationim mattimo 
+      <lb ed="#C" n="130"/>nit. 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e610">
+               <lb ed="#C" n="131"/>OStendimus Paliteragatur ad 
+      ma<lb ed="#C" n="132" break="no"/>trimonium 
+      conjungen<lb ed="#C" n="133" break="no"/>dum, nunc videamus qualiter agatur ad 
+      dis<lb ed="#C" n="134" break="no"/>jungendam, dicentes quis admittatur ad 
+      ac<lb ed="#C" n="135" break="no"/>culandum: Sciendum est igitur, quod si a 
+      <lb ed="#C" n="136"/>gatur ad matrimonii vinculum disjungendum. Aut 
+      impe<lb ed="#C" n="137" break="no"/>dimentum perpetuum, quod proponitur, non est peccato 
+      <lb ed="#C" n="138"/>subjectum puta de frigiditate arctatione, vel maleficio 
+      a<lb ed="#C" n="139" break="no"/>gitur: ad hoc soli conjuges admitti debent, cum nec alio 
+      <lb ed="#C" n="140"/>rum interfit de hoc agere, vnde &amp; innuit extraneis, possum 
+      <lb ed="#C" n="141"/>simul morari, ut supra de frigi consulationi, dummodo cast 
+      <lb ed="#C" n="142"/>vivant. 3. q. 5. quod Deo Patri, alias de adulterio accusari 
+      pos<lb ed="#C" n="143" break="no"/>sent, suprade offi ordci.? item ubi propter errorem peti 
+      <lb ed="#C" n="144"/>tur divortium, soli conjuges admittuntur, arg suprade 
+      con<lb ed="#C" n="145" break="no"/>jugi servo proposuit. Item quando agitur ad thori separatio 
+      <lb ed="#C" n="146"/>nem, ut no. infra de divor (quot modis, versicul.i. Auttale est 
+      <lb ed="#C" n="147"/>impedimentum, quod peccato subjacet, pura agitur de 
+      <lb ed="#C" n="148"/>consanguinitate vel affinitate ubi quilibet adminedus est 
+      <lb ed="#C" n="149"/>&amp; sic actio vel aceusatio ista pupillaris videtur. ut supra de 
+      <lb ed="#C" n="150"/>togn spiritual ruenos, quia hujusmodi conjunctiones 
+      ne<lb ed="#C" n="151" break="no"/>fariae sunt, &amp; coitum incestuosum inducunt, ut appare 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0637.xml-->
+      <pb ed="#C" n="620"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>in his quae notat. supra de eo qui cogno. consanguin. uxoris su¬ 
+      <lb ed="#C" n="2"/>Veruntamen decretum dicit, quod extranei repelluntur 
+      <lb ed="#C" n="3"/>dum aliquis de consanguinitate superest: tales enim scil pro 
+      <lb ed="#C" n="4"/>ximus puta pater, mater, soror, frater, patruus, materter: 
+      <lb ed="#C" n="5"/>&amp; tota eorum procreatio caeteris praeferuntur: ut plene pro 
+      <lb ed="#C" n="6"/>bantur haec omnia 35. q. 6. consanguineos, supra de sen. &amp; re jul 
+      <lb ed="#C" n="7"/>tenor, &amp; hoc intelligas tam de accusatione, quam testific. 
+      <lb ed="#C" n="8"/>tione, &amp; ratio est, quia testes qui melius veritatem sciunt, sun 
+      <lb ed="#C" n="9"/>aliis praeferendi, ut ff. de test Domitius, &amp; tales plus laboran 
+      <lb ed="#C" n="10"/>in scienda genealogia sua, tum chartis, tum recitatione ma 
+      <lb ed="#C" n="11"/>jorum, ut infra eodem videtur C. de in integ. restitut mino. deti 
+      <lb ed="#C" n="12"/>tela &amp; de libe, causa, si filium, ad idem ff. de adulter. leg. 1. §sin. 
+      <lb ed="#C" n="13"/>leg si maritus, &amp; C. de adult. les quamvis. Tamen in multi 
+      <lb ed="#C" n="14"/>locis hoc non observatur, &amp; male, dum tamen propinqu 
+      <lb ed="#C" n="15"/>supersint honesti &amp; antiqui, &amp; bonae famae, quia si ita no 
+      <lb ed="#C" n="16"/>est, sunt extranei sine suspicione, sed si tales deficeren 
+      <lb ed="#C" n="17"/>tunc etiam vicinos bonaefamae admitterem &amp; sic intell 
+      <lb ed="#C" n="18"/>ge supra de cog spirit tua nos, argument. supra defrig, laudabile 
+      <lb ed="#C" n="19"/>&amp; t.j. quod intelligo, nisi fama cresceret, tunc enim etian 
+      <lb ed="#C" n="20"/>extraneum admitterem, arg. in his quae not. mfra eodem su 
+      <lb ed="#C" n="21"/>rubricella quae exceptiones, ver sed nunquid is, &amp; seq &amp; f. de a¬ 
+      <lb ed="#C" n="22"/>cusatio S quis possit accusare, &amp; denunc. Squis possis denunciari 
+      <lb ed="#C" n="23"/>&amp; de inqui. § quaendo procedatur, &amp; supra de cogat. spiritual.! 
+      <lb ed="#C" n="24"/>quij sit effectu, versicul. effectus vero tertiae, &amp; verst, alii dicun 
+      <lb ed="#C" n="25"/>3 &amp; seq.?. Item maritus &amp; uxor admittuntur ad accusatio 
+      <lb ed="#C" n="26"/>nem ar. msra de divor porro, &amp; e significasti, &amp; infra de sent exc 
+      <lb ed="#C" n="27"/>inquisitioni, &amp; secundum hoc intellige supra de consang no¬ 
+      <lb ed="#C" n="28"/>debet m sine, ubi habes, quod nullo tempore obstante, accu 
+      <lb ed="#C" n="29"/>sator auditur 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e728">
+               <lb ed="#C" n="30"/>Libellus Accusationis. Rubrica
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e733">
+               <lb ed="#C" n="31"/>SUMMARIA. 
+      <lb ed="#C" n="32"/>Libellus aciusationius quomodo formetur. 
+      <lb ed="#C" n="33"/>2. Matrimonium improprie dicitur accusari.
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e742">
+               <lb ed="#C" n="34"/>EGo Petrus consanguineus 
+      Guli<lb ed="#C" n="35" break="no"/>elmi in tali gradu, 
+      accu<lb ed="#C" n="36" break="no"/>so matrimonium, provoco ad divortium 
+      <lb ed="#C" n="37"/>quatenus de facto consistit inter ipsum Gu 
+      <lb ed="#C" n="38"/>Blielmum, &amp; Margaritam uxorem suam,? 
+      <lb ed="#C" n="39"/>puto pronunciari matrimonium inter ipsos nullum fuissi 
+      <lb ed="#C" n="40"/>&amp; utrique dari licentiam cum alio contrahendi, hoc illa ri 
+      <lb ed="#C" n="41"/>tione: quia praedicti G. &amp; Mattinent sibi in quarto gradi 
+      <lb ed="#C" n="42"/>consanguinitatis, &amp; hoc offero me legitime probaturum 
+      <lb ed="#C" n="43"/>&amp; comprobatur infra capiti &amp; cainsuper, &amp; supra de consa¬ 
+      <lb ed="#C" n="44"/>gui, capit.. &amp; cap. non debet, &amp; de testi series, &amp; de proba juravi 
+      <lb ed="#C" n="45"/>&amp; derestitut spolia literas §propterea, &amp; sequen. Verum scias 
+      <lb ed="#C" n="46"/>quod matrimonium improprie dicitur accusari, 
+      quo<lb ed="#C" n="47" break="no"/>niam hujus accusatio vel actio, &amp; si de crimine sit, non ta 
+      <lb ed="#C" n="48"/>mem est criminalis, sed mista inter criminalem &amp; civilem, suj 
+      <lb ed="#C" n="49"/>de procurat. tuae, sic &amp; querela inofficiosi testamenti mixt: 
+      <lb ed="#C" n="50"/>est. unde plerunque vocatur querela, ut fiadd inofficioso test. 
+      <lb ed="#C" n="51"/>leg. 1. eo, quod qui querelam proponit, petitionem haer¬ 
+      <lb ed="#C" n="52"/>ditatis exercet, utff de inofficio. test. qui inofficioso, &amp; sic sapi 
+      <lb ed="#C" n="53"/>naturam civilis actionis, aliquando vero vocatur accus¬ 
+      <lb ed="#C" n="54"/>tio. C. de inofficio testament. eum qui, multae &amp; aliae mixti 
+      <lb ed="#C" n="55"/>sunt, quod dic ut notatur supra de procurat § in quibus, &amp; sci 
+      <lb ed="#C" n="56"/>as, quod ubicunque de perpetuo impedimento agitur, si 
+      <lb ed="#C" n="57"/>re a conjugibus sive ab extraneis; petendum est, ut pro 
+      <lb ed="#C" n="58"/>nuncietur matrimonium nullum, &amp; ut conjuncti nefari 
+      <lb ed="#C" n="59"/>separentur, per scripturam autem non potest absens ab 
+      <lb ed="#C" n="60"/>sentem accusare, infra eodem a nobis 2. quaestio. ulum per scri 
+      <lb ed="#C" n="61"/>pta, nec denunciare, infra de accusa inquisitionis, secundun 
+      <lb ed="#C" n="62"/>Goffre. alii contradicunt, ubi de foedere matrimonii ag 
+      <lb ed="#C" n="63"/>tur, cum contumacia exigente, recipiantur testes contr¬ 
+      <lb ed="#C" n="64"/>absentem, supra ut lite non contesc.i. &amp;c. quontam §. &amp; 2. ve 
+      <lb ed="#C" n="65"/>dic, quod tunc habet locum denunciatio. at. supra de despon 
+      <lb ed="#C" n="66"/>impu. ad dissolvendum. Oblato libello; quilibet jurabit st. 
+      <lb ed="#C" n="67"/>re mandatis ecclesiae. scil. quilibet conjugum, nam citand 
+      <lb ed="#C" n="68"/>sunt, cum factum principaliter eos tangat, supra de rest spol.e 
+      <lb ed="#C" n="69"/>literis, infra de accu. illa praepositorum, alias non valeret senti 
+      <lb ed="#C" n="70"/>tia: si is ordo judiciarius non servaretur, sic intellige supr¬ 
+      <lb ed="#C" n="71"/>qui filii sint legit per venerabilem, §i. sed si contumaces appi¬ 
+      <lb ed="#C" n="72"/>reant, tunc non usquequaque servatur ordo judiciarius 
+      <lb ed="#C" n="73"/>quod dicut no sup. ut liue non conte. Sitem ubi agitur de matri 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0637.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="74"/>monio, &amp; citationes scribi debent, &amp; taliter fieri, quod pro 
+      <lb ed="#C" n="75"/>bari possint, argu. infra de sen excom sacro. quod dic, ut no 
+      <lb ed="#C" n="76"/>supra de dolo, &amp; contuma. Squaliter comprehendatur, persic. dic 
+      <lb ed="#C" n="77"/>non esse credendum, &amp; de probat. Squid debet probari, super ver 
+      <lb ed="#C" n="78"/>bo, sunt in scriptis redigenda, &amp; si hi, quos negocium prin 
+      <lb ed="#C" n="79"/>cipaliter tangit, defendere nolunt: puto quod accusati¬ 
+      <lb ed="#C" n="80"/>publicanda sit in ecclesia, &amp; si quis affinis vel cognatu 
+      <lb ed="#C" n="81"/>velit defendere matrimonium, audietur, &amp; demum hi¬ 
+      <lb ed="#C" n="82"/>deficientibus quilibet extraneus admittetur: sicut dixi in 
+      <lb ed="#C" n="83"/>accusatione, supra Sostendimus, argumen fi exquibus causs i 
+      <lb ed="#C" n="84"/>pos eatur, hoc autem, &amp; de damno infecto. l. 4. §praetor, &amp; ex qui 
+      <lb ed="#C" n="85"/>bus cau. ma. in integr rest. ergol quinimo etiam invitis conju 
+      <lb ed="#C" n="86"/>gibus puto defensorem audiendum arg f. de liberali cau. 
+      <lb ed="#C" n="87"/>12 &amp; 3. &amp; de appell non tantum, &amp; hoc peroptime compro 
+      <lb ed="#C" n="88"/>batur supra qui filii sint legit. porlatum, &amp; infrac.i. Si ergo ali 
+      <lb ed="#C" n="89"/>quis appareat defensor, audietur, &amp; poterit repellere ac 
+      <lb ed="#C" n="90"/>cusatorem ante litem contest supra de despons. impub ad dis 
+      <lb ed="#C" n="91"/>solvendum, sed lite contestata minime, cum haec excepti 
+      <lb ed="#C" n="92"/>dilatoria sit, supra de sent &amp; re jud inter monasterium, si nullu 
+      <lb ed="#C" n="93"/>defensor appareat, judex de plano inquiret, &amp; si coram e¬ 
+      <lb ed="#C" n="94"/>probetur impedimentum, inter conjuses sententiam di 
+      <lb ed="#C" n="95"/>vortum feret, adhibita gravitate, quae adhiberi debet circi 
+      <lb ed="#C" n="96"/>tantam sententiam: quinimo &amp; hoc facere potest, nulle¬ 
+      <lb ed="#C" n="97"/>accusatore comparente, nimia infamia orta, sed semper ci 
+      <lb ed="#C" n="98"/>tandi sunt, quo res tangit: &amp; publicandum est, an aliqui 
+      <lb ed="#C" n="99"/>velit accusare, vel defendere, sic intelligemfra de divor. por 
+      <lb ed="#C" n="100"/>ro, in fin. &amp; de accusat qualiter a. § debet, &amp; ea quae notat. supr¬ 
+      <lb ed="#C" n="101"/>de clandest. despon. Squot modis, versi. 4. super verbo illo commen 
+      <lb ed="#C" n="102"/>ti mvestigent. &amp; sequ. suprâ de probat. sicut consuetudo; &amp; capii 
+      <lb ed="#C" n="103"/>ad nostram 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e901">
+               <lb ed="#C" n="104"/>Quae Exceptiones competant contra 
+      <lb ed="#C" n="105"/>Accusatorem matrimonii 
+      <lb ed="#C" n="106"/>Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e910">
+               <lb ed="#C" n="107"/>SUMMARIA. 
+      <lb ed="#C" n="108"/>i. Matrimonia legitime contracta etiam obtentu patriae potesia 
+      <lb ed="#C" n="109"/>tismon debent dirim 
+      <lb ed="#C" n="110"/>I. Repulsus ab accusatione, an su repellendus a denuncis 
+      <lb ed="#C" n="111"/>3. Episcopus officio suo debet inquirere si inflaniaoria se 
+      <lb ed="#C" n="112"/>Judex quando ex officio procedit, actore appareme, &amp; null 
+      <lb ed="#C" n="113"/>defensore comparente, quid agere debeat 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e928">
+               <lb ed="#C" n="114"/>DIctum est quis accusator admitatur 
+      <lb ed="#C" n="115"/>dicamus quibus exceptio 
+      <lb ed="#C" n="116"/>nibus repellatur. Primo potest objici, quôc 
+      <lb ed="#C" n="117"/>extraneus est: unde non est admirtendus a 
+      <lb ed="#C" n="118"/>a liquo de parentela bonae famae superstite, u 
+      <lb ed="#C" n="119"/>dixi supra Sostenaimus. Secundo, quod est excommunici 
+      <lb ed="#C" n="120"/>tus, ut sup de exce. exceptionem. Tertio, quod non est matri 
+      <lb ed="#C" n="121"/>monium, neque sponsalia, aetate impediente: &amp; ideo quo¬ 
+      <lb ed="#C" n="122"/>non est, accusari non potest, ut sup de despo impub ad dissol 
+      <lb ed="#C" n="123"/>vendum. Quarto, quia non prosequitur publice accusati 
+      <lb ed="#C" n="124"/>ionem suam, sed clam porrigit libellam suuin, unde non es 
+      <lb ed="#C" n="125"/>audiendus, cum jurare noluit, nec voce propria aliquid 
+      <lb ed="#C" n="126"/>depromat: ut infra cod. a nobis, infra de accu inquistionis, veri 
+      <lb ed="#C" n="127"/>nec ad petitionem, &amp; 2q. ulum praescripta. Quinto: quia accu 
+      <lb ed="#C" n="128"/>sat gratia turpis quaestus: puta vult extorquere pecunian 
+      <lb ed="#C" n="129"/>a marito, qui vxoris vehemens amator existit, unde &amp; 
+      <lb ed="#C" n="130"/>in hoc casu mater repellitur, ut infra eod significante 2quae 
+      <lb ed="#C" n="131"/>stio.. prohibetur. C. de inoffic. testament. filia, &amp; de institut. &amp; sul 
+      <lb ed="#C" n="132"/>stituti. reprehendenda, &amp; de condition. institutio, cum testatore 
+      <lb ed="#C" n="133"/>* Nec enim matrimonia legitime contracta etiam ob 
+      <lb ed="#C" n="134"/>tentu patriae potestatis dirimi oportet. ut ff. de liberis exh 
+      <lb ed="#C" n="135"/>leg. 1. in fin. &amp; leg. sequent. &amp; argument. supra de sponsal. no 
+      <lb ed="#C" n="136"/>est vobis. Item quia malo zelo movetur generaliter, qui¬ 
+      <lb ed="#C" n="137"/>habet odio alterum ipsorum conjugum, vel ex aliqua ju 
+      <lb ed="#C" n="138"/>sta causa &amp; probabili est suspectus: ut infra de accu. cum P 
+      <lb ed="#C" n="139"/>Manconella, capit. dilectus, vel quia est perjurus, vel alias in 
+      <lb ed="#C" n="140"/>famis, ut infra de accusat, cum oporteat, supra dem sponsat, cum in 
+      <lb ed="#C" n="141"/>tua. Item quia scivit quando matrimonium contractun 
+      <lb ed="#C" n="142"/>fuit, &amp; sciebat impedimentum, &amp; tacuit: etiam si clande 
+      <lb ed="#C" n="143"/>stinum erat, nam ex quo certus erat, non debet certior a 
+      <lb ed="#C" n="144"/>ti, supra de clect. cum inter universas, &amp; ff. de actio. emptio e 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0638.xml-->
+      <pb ed="#C" n="621"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>vend.l. m si. Vel quia nihil opposuit, intra tempus in eccl¬ 
+      <lb ed="#C" n="2"/>sia assignatum, quando banna edebantur in ecclesia, ut si 
+      <lb ed="#C" n="3"/>pra de spon, cum in tua, de clandest despon. cum inhibitio. Excr 
+      <lb ed="#C" n="4"/>satur tamen si erat extra provinciam sive dioecesim, ve 
+      <lb ed="#C" n="5"/>quia denunciatio non potuit ad eum pervenire, puta qui 
+      <lb ed="#C" n="6"/>infirmus erat nimis, vel furiosus, vel impubes. vel si jurar 
+      <lb ed="#C" n="7"/>noluerit, quod postea didicit impedimentum, nec ad ho 
+      <lb ed="#C" n="8"/>ex malitia procedit, quamvis hoc audierit etiam ab hi¬ 
+      <lb ed="#C" n="9"/>qui praesentes fuerunt, &amp; tacuerunt: ut infra eodem, cum n 
+      <lb ed="#C" n="10"/>tua. Sed contra, quia illi, a quibus audierunt impedimen 
+      <lb ed="#C" n="11"/>tum, non admittentur: ergo nec isti, absurdum est enim i 
+      <lb ed="#C" n="12"/>los admittere quorum repelluntur authores, &amp; supra d 
+      <lb ed="#C" n="13"/>test. licet. 2. &amp; infra de haeret. fraternitatis. Solutio, illud in t¬ 
+      <lb ed="#C" n="14"/>ste, hoc in accusatore ratio diversitatis haec est: quia accu 
+      <lb ed="#C" n="15"/>sator non probat, sed testis, quare matrimonio praejudic 
+      <lb ed="#C" n="16"/>um non paratur. Quid si tempus lapsum est, sed adhu 
+      <lb ed="#C" n="17"/>non est matrimonium contractum? dico eum semper at 
+      <lb ed="#C" n="18"/>diendum re integra, id est antequam matrimonium con 
+      <lb ed="#C" n="19"/>tractum sit, ut ponis quantumcunque siluerit, ut supra d 
+      <lb ed="#C" n="20"/>sponsa, cum in tua argument, supra de elect. in causis, § final. si 
+      <lb ed="#C" n="21"/>pra de consangui. &amp; affi super eo de eo qui cogno consangui. uxoi 
+      <lb ed="#C" n="22"/>suae, de illo. Quid si ideo tacuit, quia non habebat probat 
+      <lb ed="#C" n="23"/>ones paratas, imo videtur repellendus, argument. supr 
+      <lb ed="#C" n="24"/>de consan. &amp; affin cap. 1. &amp; 2quae. 7. plerunque, sic nec repellitur 
+      <lb ed="#C" n="25"/>si ideo tacuit, quia vidit alium accusantem, quem vult d 
+      <lb ed="#C" n="26"/>cere praevaricatum fuisse f. de praevarica. leg 3. contra, qui 
+      <lb ed="#C" n="27"/>nudo verbo potuit impedire, ut supra de sponsali. praeterea 
+      <lb ed="#C" n="28"/>* Sed nunquid is qui repellitur ab accusatione, repellei 
+      <lb ed="#C" n="29"/>dus est a denunciatione? argument. supra dejurejur. que 
+      <lb ed="#C" n="30"/>admodum §sinal. &amp; supra de desponsa impuber. ad dissolver 
+      <lb ed="#C" n="31"/>dum, nam ad denunciationem canonicam, quae circa con 
+      <lb ed="#C" n="32"/>mittendum peccatum attenditur, quilibet admittitur, si 
+      <lb ed="#C" n="33"/>pra de cognat. spiritua tua, ad quam admittitur etiam is qu 
+      <lb ed="#C" n="34"/>accusare non potest, supra de jurejur. quemadmodum, ad fi¬ 
+      <lb ed="#C" n="35"/>in qua etiam qualiscunque noticia sufficit. 22. quaest. 5. ho 
+      <lb ed="#C" n="36"/>videtur, &amp; in qua turpitudo propria non obst. supra de spo¬ 
+      <lb ed="#C" n="37"/>sa praeterea, &amp; in qua juramentum praecedens non impe 
+      <lb ed="#C" n="38"/>dit. 13. dis. nervi. Sed haec in denunciatione evangelica non 
+      <lb ed="#C" n="39"/>procedunt, saecundum Goff. quod dicut not. infra de acci 
+      <lb ed="#C" n="40"/>sa sub rubricella, de denuncia. §quis potest, versicul. Goffr. nota 
+      <lb ed="#C" n="41"/>vit, quod quilibet, tu dic, quod in matrimonio, ubicunqu 
+      <lb ed="#C" n="42"/>propter suspicionem repellitur ab accusando repelletu 
+      <lb ed="#C" n="43"/>etiam a denunciando, ut infra de accu, cum oporteat, &amp; c. sec 
+      <lb ed="#C" n="44"/>ne per unam viam expulsus ingrediatur ad idem per al¬ 
+      <lb ed="#C" n="45"/>am, quod esse non debet, supr. de procu. tuae, ff. pro socio, ideo, 
+      <lb ed="#C" n="46"/>ff. de condi inst. quae sub conditione, &amp; vide, quod no. super ho¬ 
+      <lb ed="#C" n="47"/>8 mf. de accu. sub rubricella, de denun. § quis potest denunciare. Vi 
+      <lb ed="#C" n="48"/>rum episcopus ex officio inquirere potest, si infamia ort 
+      <lb ed="#C" n="49"/>sit, ut infra de divor porro, sicut &amp; facit, quando aliquis accu 
+      <lb ed="#C" n="50"/>sat, &amp; nullus appareat defensor, ut dixi supra proxi. rubr 
+      <lb ed="#C" n="51"/>cella, prope fin. ar. supra de off. ord.c. I.* Judex autem quand 
+      <lb ed="#C" n="52"/>exofficio procedit, actore apparente, &amp; nullo defensor 
+      <lb ed="#C" n="53"/>comparente, debet esse cautus, nam debet attendere uti 
+      <lb ed="#C" n="54"/>conjuges diligant se adinvicem vere: &amp; tunc confessio am 
+      <lb ed="#C" n="55"/>borum praejudicium parat cum aliis adminiculis in pr 
+      <lb ed="#C" n="56"/>mo gradu &amp; secundo, vel ficte, tunc etiam nullam praesi 
+      <lb ed="#C" n="57"/>ptionem inducit, secundum ea, quae nota sup. de eo, qui co 
+      <lb ed="#C" n="58"/>tonsan. uxo. suae§ &amp; quid juris, ver. illud notandum, attender 
+      <lb ed="#C" n="59"/>debet etiam, utrum accu sator vel testis sit notorius, excon 
+      <lb ed="#C" n="60"/>municatus, sacrilegus, fornicator, usurarius, &amp; sic ipsun 
+      <lb ed="#C" n="61"/>ex officio suo repellet, ar. sup. de test testimonium, &amp; de excepti 
+      <lb ed="#C" n="62"/>exceptionem, attendat etiam. an fama est, quod sint consan 
+      <lb ed="#C" n="63"/>guinei, quia &amp; hoc adminiculum praebet. supra de sponsali 
+      <lb ed="#C" n="64"/>cum in tua 25. q. 6. siduo. infr. de divor. porro, &amp; semper in dubi¬ 
+      <lb ed="#C" n="65"/>pro matrimonio jam contracto judicet. ut supr. de test. leg.3 
+      <lb ed="#C" n="66"/>nsi. &amp; ff. de paenis, absentem. Item si sententiam divortii tu 
+      <lb ed="#C" n="67"/>lerit. debet tradere literas, quae totum processum contine 
+      <lb ed="#C" n="68"/>ant, ut dicam, infra de divoruis § ult. ver. debet autem judex sen 
+      <lb ed="#C" n="69"/>tentiam, &amp; seq 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e1155">
+               <lb ed="#C" n="70"/>Qui testes requirantur in accusation 
+      <lb ed="#C" n="71"/>matrimonii, &amp; quibus exceptio¬ 
+      <lb ed="#C" n="72"/>nibus repellantur. Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e1164">
+               <lb ed="#C" n="73"/>SVMMARIA. 
+      <lb ed="#C" n="74"/>Testis sinon vultjurare, repellitus 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0638.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="75"/>2. Et quomodo debeat jurare 
+      <lb ed="#C" n="76"/>Denunciatio aliquando sit in scriptis, aliquando sine scriptu 
+    </p>
+            <p xml:id="nbht7y-d1e1641-d1e1180">
+               <lb ed="#C" n="77"/>QVia in accusatione matrimonii 
+      <lb ed="#C" n="78"/>testes desi 
+      <lb ed="#C" n="79"/>derantur, videamus quales debeant esse E 
+      <lb ed="#C" n="80"/>certe bonae opinionis, &amp; omni exception 
+      <lb ed="#C" n="81"/>majores, a non domestici, nec familiare 
+      <lb ed="#C" n="82"/>nimis, &amp; suspecti, ut supra de consanguinitate &amp; affin.c.i. &amp; de 
+      <lb ed="#C" n="83"/>testi. in literis, &amp; c licet, &amp; infra co insuper, &amp; breviter, qui nor 
+      <lb ed="#C" n="84"/>potest esse accusator, de quo dixi supra proxi rubricella, ne¬ 
+      <lb ed="#C" n="85"/>testis, ut infra de accu, cum oporteat. Admittuntur ergo con 
+      <lb ed="#C" n="86"/>sanguinei, &amp; etiam extraneis praeferuntur, quando quaeri 
+      <lb ed="#C" n="87"/>tur de consanguinitate, ut infra eo videtur quod dic, ut no 
+      <lb ed="#C" n="88"/>supra sub rubricella, quis admittatur, &amp; hoc verum est, quand 
+      <lb ed="#C" n="89"/>quaeritur, utrum matrimonium, quod praetextu consan 
+      <lb ed="#C" n="90"/>guinitatis accusatur sit dirimendum, vel non, sicut dicit di 
+      <lb ed="#C" n="91"/>cta decret. videtur 35. 4. 6.c..idem est, si quaeratur, an filii ali 
+      <lb ed="#C" n="92"/>quorum possint contrahere, &amp; consanguinitas opponatur 
+      <lb ed="#C" n="93"/>Jupra de spon. cum in tua. infra eo, cum intua. Sivero agatur 
+      <lb ed="#C" n="94"/>utrum matrimonium sit contractum, tunc habeat iocun 
+      <lb ed="#C" n="95"/>dist. quae habentur supra de test. super eo. est ergo hoc special 
+      <lb ed="#C" n="96"/>in matrimonio, ut parentes admittantur in testes, &amp; sun 
+      <lb ed="#C" n="97"/>multa alia specialia, quod dic, ut non supra de spo, sub rubricel 
+      <lb ed="#C" n="98"/>la de matrimonus; ad fi. sub § ut autem, ver. est enim favorabile, e 
+      <lb ed="#C" n="99"/>seq.* Repellitur autem testis, si noluit jurare, ut infra eo. 
+      <lb ed="#C" n="100"/>nobis, supra de testibus, huper quantumcunque religionis sit, 
+      <lb ed="#C" n="101"/>ut ibi, nec credo, quod in hoc valeret renunciatio partium, 
+      <lb ed="#C" n="102"/>ar. sup. de eo, qui cog consan uxo suae, super eo &amp; in his, quae no 
+      <lb ed="#C" n="103"/>supra de clandest. despon. Squot modis, versic. 4. super illo verb 
+      <lb ed="#C" n="104"/>commenti, utrum aliquod impedimentum Secundo, ter 
+      <lb ed="#C" n="105"/>tio, &amp; quarto repellitur, sicut sup. dixi de accusatore, &amp; qua 
+      <lb ed="#C" n="106"/>liter inquiri debeat, dic ut not supra de consangum. § usque 
+      <lb ed="#C" n="107"/>quotum gradum, versi &amp; quia judex. Debet autem jurar 
+      <lb ed="#C" n="108"/>testis, quod veritatem pro utraque parte, nec gratia, nec a 
+      <lb ed="#C" n="109"/>more, vel odio, vel pecunia, dicet, ut supr. de test. quories, qui 
+      <lb ed="#C" n="110"/>hic deficiunt circa testium receptionem, &amp; examinatio 
+      <lb ed="#C" n="111"/>nem, in tit. de testi plenissime no. In summa notandum est 
+      <lb ed="#C" n="112"/>quod denunciatio aliquando fit in scriptis, aliquando si 
+      <lb ed="#C" n="113"/>ne scriptis, sed melius &amp; tutius est, vt in scriptis fiat, sicut 
+      <lb ed="#C" n="114"/>dixi supra de accu. &amp; arg. supra de rest. spol. literas, &amp; infra eod.a 
+      <lb ed="#C" n="115"/>nobis, &amp; magis proprie dicitur matrimonium denunciari 
+      <lb ed="#C" n="116"/>quam accusari, cum nec inscriptio fiat, sed denuncietur 
+      <lb ed="#C" n="117"/>vt a peccato recedant &amp; potest fieri in hunc modum. Ege 
+      <lb ed="#C" n="118"/>Petrus denuncio vobis domine Episcope, matrimonium 
+      <lb ed="#C" n="119"/>quod tractatur inter Martinum &amp; Bertam, contrahi nor 
+      <lb ed="#C" n="120"/>debere, quia sunt consanguinei, vel affines in quarto grae 
+      <lb ed="#C" n="121"/>du, &amp; hoc scit talis, vel si jam contractum sit dicet. Matri 
+      <lb ed="#C" n="122"/>monium quod contractum est inter Martinum &amp; BertatX 
+      <lb ed="#C" n="123"/>de facto, non debet tolerari de jure, propter talem causam 
+      <lb ed="#C" n="124"/>&amp; eam scit talis, &amp; talis, nec puto, quod hic sit necessari, 
+      <lb ed="#C" n="125"/>trinamonitio, quae exigitur, quando alias denunciantu 
+      <lb ed="#C" n="126"/>crimina, ut dicam infra de accu sub rub. de denuncia Squis ponte 
+      <lb ed="#C" n="127"/>ver. in utroque &amp; sequ. &amp; est ratio, quia quantumcunque admo 
+      <lb ed="#C" n="128"/>neretur, non posset eam dimittere propria temeritate, i 
+      <lb ed="#C" n="129"/>infra de divor porro, &amp;c. seq. Item quidam distinguit gradu¬ 
+      <lb ed="#C" n="130"/>in libello, ar. de test. series, &amp; de consangui tua nos, sed hoc nor 
+      <lb ed="#C" n="131"/>puto necessarium in libello, sed in testimonio tantum. I 
+      <lb ed="#C" n="132"/>tem in his libellis plures causas puto posse adjici indistin 
+      <lb ed="#C" n="133"/>cte, quia cum de periculo animae quaeratur, non refert ex qui 
+      <lb ed="#C" n="134"/>causa periculum evitandum probetur, de hoc dixi suprad 
+      <lb ed="#C" n="135"/>libelli obla § quid debeat continere, ver. T. dixit 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="136"/>ADDITIO 
+      <lb ed="#C" n="137"/>a Omni exceptione majores. JAdde gl. Insti. de inntili stipul. Car 
+    </p>
+    <p>
+      <lb ed="#C" n="138"/>Zab. inc. mulieri, de inreiur. Bart. in Iadmonendi, ff. eo. tit. Ale. d 
+      <lb ed="#C" n="139"/>Imol consilio 18. incip. Viso processu causa vertentis inter Antenium 
+      <lb ed="#C" n="140"/>in primo volu--> 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

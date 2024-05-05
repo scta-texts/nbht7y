@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 28</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 28</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="745"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1992"><!-- nbht7y-l5t28 -->
+            <head xml:id="nbht7y-d1e1992-Hd1e101">Titulus 28</head>
+            <head xml:id="nbht7y-d1e1992-Hd1e103" type="question-title">De clerico non ordinato ministrant</head>
+            <p xml:id="nbht7y-d1e1992-d1e106">
+               <lb ed="#C" n="15"/>De Clerico non ordinato 
+      ministran<lb ed="#C" n="16" break="no"/>te. XX. Rubrica
+    </p>
+            <p xml:id="nbht7y-d1e1992-d1e113">
+               <lb ed="#C" n="17"/>SUMMARIA. 
+      <lb ed="#C" n="18"/>Nonordinatui qualiter, &amp; a quibus debeat abstinere. Etqual¬ 
+      <lb ed="#C" n="19"/>ter excusetur. 2 
+      <lb ed="#C" n="20"/>3 Dispensari perquem, &amp; in quo possic cum clerico non ordinat 
+      <lb ed="#C" n="21"/>munstrae 
+    </p>
+            <p xml:id="nbht7y-d1e1992-d1e126">
+               <lb ed="#C" n="22"/>DIctum est supra de clerico 
+      excommuni<lb ed="#C" n="23" break="no"/>cato ministrante; subjicitu 
+      <lb ed="#C" n="24"/>de clerico non ordinato ministrante: scien 
+      <lb ed="#C" n="25"/>dum igitur. Qualiter &amp; a quibus non ord 
+      <lb ed="#C" n="26"/>natus debeat abstinere, &amp; qualiter puniatur, Et qualiter 
+      <lb ed="#C" n="27"/>excusetur, Per quem, &amp; in quo cum eodem possit 
+      di<lb ed="#C" n="28" break="no"/>spensari
+    </p>
+            <p xml:id="nbht7y-d1e1992-d1e145">
+               <lb ed="#C" n="29"/>Qualiter &amp; a quibus non ordinatus debeatal 
+      <lb ed="#C" n="30"/>stinere, &amp; qualiter puniatur. Ac 
+      <lb ed="#C" n="31"/>hoc scias, quod nullus debet exercere aliquod officium tam 
+      <lb ed="#C" n="32"/>quam ordinatus, cum non sit, ergo non dicat quis Episte 
+      <lb ed="#C" n="33"/>lam, tanquam subdiaconus: cum non sit: nec dicat Evan 
+      <lb ed="#C" n="34"/>gelium tanquam diaconus nec missam tanquam sacerdos 
+      <lb ed="#C" n="35"/>nec etiam baptizet tanquam sacerdos, nec aliquod aliu¬ 
+      <lb ed="#C" n="36"/>officium ecclesiasticum attentet, tanquam ille qui non es 
+      <lb ed="#C" n="37"/>alias ab ecclesia abjiciatur, &amp; nunquam magis ordinetur 
+      <lb ed="#C" n="38"/>subaudi nisi per Papam cum eodem fuerit dispensatum 
+      <lb ed="#C" n="39"/>ut infra eod ci. &amp; Xuq. privilegium 25 quae. 2si. decet. sic pi 
+      <lb ed="#C" n="40"/>nitur in eo, quod praesumendo deliquit, ut supra de immi 
+      <lb ed="#C" n="41"/>ni eccles. ca. ultum supr. tit I. postulastis ft. de fur. qui vas. §. furen 
+      <lb ed="#C" n="42"/>idem videtur, si non sit rite ordinatus: puta quia non r 
+      <lb ed="#C" n="43"/>cepit impositionem manus. inf eaz. quamvis ibi ponatu 
+      <lb ed="#C" n="44"/>pro ordinatione, de quo dic, ut no supra de sacram. non it¬ 
+      <lb ed="#C" n="45"/>ran §. &amp; quae sunt iteranda. &amp; de sacra unctio. §. a quo &amp; qual 
+      <lb ed="#C" n="46"/>ter, tales etiam in crimen falsi incidunt, ut no. sup. de 
+      crimi<lb ed="#C" n="47" break="no"/>ne falsi §. qualiter committatur. ver praeterea
+    </p>
+            <p xml:id="nbht7y-d1e1992-d1e189">
+               <lb ed="#C" n="48"/>Et qualiter excusetur Et certe praemissile¬ 
+      <lb ed="#C" n="49"/>cum habent, quand 
+      <lb ed="#C" n="50"/>dicit aliquis tanquam in officio constitutus, quod adhu 
+      <lb ed="#C" n="51"/>non rite recepit, ut dictum est. secus autem, si dicat Epist¬ 
+      <lb ed="#C" n="52"/>lam tanquam clericus tempore necessitatis, scilicet, qui 
+      <lb ed="#C" n="53"/>alius praesens non est, qui subdiaconus sit: nec tenet m¬ 
+      <lb ed="#C" n="54"/>nipulum in manu, sic suprade vi. &amp; honest. tler utquisque pre 
+      <lb ed="#C" n="55"/>byter Item secus, si baptizet tempore necessitatis, tanquan 
+      <lb ed="#C" n="56"/>quis alius praesumendo officium sacerdotis. 30. quaest. 14 
+      <lb ed="#C" n="57"/>limina 93. distinct. diaconus. de consecr. distinct 4. constat, quia 
+      <lb ed="#C" n="58"/>quolibet conferri potest, ut nota supra de baptis. § quis possi 
+      <lb ed="#C" n="59"/>Item secus, si quis dicat in privato Evangelium: nam 8 
+      <lb ed="#C" n="60"/>monialis aliquando ipsum dicit, scilicet in matutino. 27 
+      <lb ed="#C" n="61"/>diaconissam, excusat etiam ignorantia a tanto, licet non 
+      <lb ed="#C" n="62"/>toto, ut inf.tit i.c. unico. Missa autem neque publice, nequ 
+      <lb ed="#C" n="63"/>privatim celebranda est, nisi a presbytero rite ordinato 
+      <lb ed="#C" n="64"/>quod dic. ut non sup. de consec. eccl. vel alia sub dist secunda. §. 
+      <lb ed="#C" n="65"/>quo. ad hoc. 6S. dist presbyteri.i.qu. 7. Daybertum, supra de jure pal 
+      <lb ed="#C" n="66"/>quod antem. in fi. de consecr dist.i.t.i.m si &amp; quod no supra de cri 
+      <lb ed="#C" n="67"/>mine fal §. qualis sit accusatio. ver mutandi 
+    </p>
+            <p xml:id="nbht7y-d1e1992-d1e235">
+               <lb ed="#C" n="68"/>Per quem &amp; inquo cum eodem possit dispensa 
+      <lb ed="#C" n="69"/>ri. Et certe nullus cum ipso dispensar 
+      <lb ed="#C" n="70"/>potest, quo ad hoc, ut ad majores ordines ascendat, nisi se 
+      <lb ed="#C" n="71"/>lus Papa, sicut no. de superiore. supra tit. 1. §. an cum eis. po 
+      <lb ed="#C" n="72"/>test tamen, ut puto, episcopus cum tali dispensare, uti 
+      <lb ed="#C" n="73"/>ordine suscepto remaneat, ipso tamen primitus juxta ai 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0762.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="74"/>bitrium biennio vel triennio, vel secundum quod placu¬ 
+      <lb ed="#C" n="75"/>rit suspenso, &amp; sic beneficium poterit retinere; ut tamer 
+      <lb ed="#C" n="76"/>sibi discreta poenitentia injungatur: ita quod in seculo secu 
+      <lb ed="#C" n="77"/>rius remanere valeat, quanmvis eidem religionem intrare tu 
+      <lb ed="#C" n="78"/>tius sit ad salutem; ut infra eo c. d. Goffredus tamen notatu 
+      <lb ed="#C" n="79"/>quod Episcopus dispensare non potest in hoc, ut suum of 
+      <lb ed="#C" n="80"/>ficium exequatur; sed circa beneficium dispensare potess 
+      <lb ed="#C" n="81"/>ut &amp; dixi; ne sustentatione privatus ad seculum reverta 
+      <lb ed="#C" n="82"/>tur. inf. cadc. 2. sic plerunque dispensatur in beneficio; non 
+      <lb ed="#C" n="83"/>in officio. 50. dist studeat. 38. dist. presbyterum, Si. dist. dictum. ni 
+      <lb ed="#C" n="84"/>in vituperium cleri mendicet miser clericus in plateis. 93 
+      <lb ed="#C" n="85"/>dist. diaconi. sup. de renunc. id supplicationem, supr. de simo. Mat 
+      <lb ed="#C" n="86"/>thaeut. in fi. Quod si aliquis hoc faciat causa joci, &amp; certae lu 
+      <lb ed="#C" n="87"/>dus noxius in culpa est. f. ad lAquil. nam ludius, sup. de homi 
+      <lb ed="#C" n="88"/>continebatur. non tamen credo, quod hanc poenam patia 
+      <lb ed="#C" n="89"/>tur, nisi servaret solennitatem, licet alias debeat paenitere 
+      <lb ed="#C" n="90"/>argum f. de verb oblig. 15. 4.1. illud. in fin. quia voluntas &amp; pro 
+      <lb ed="#C" n="91"/>positum distinguunt maleficia. inf. de sen. excoln, cum volui 
+      <lb ed="#C" n="92"/>tate. argum. contra, quia &amp; si baptismus per jocum fiat, cha 
+      <lb ed="#C" n="93"/>racter imprimitur, ut not sup. de baptis. §. quis sit ejus ffectus 
+      <lb ed="#C" n="94"/>ver. effectus auten 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

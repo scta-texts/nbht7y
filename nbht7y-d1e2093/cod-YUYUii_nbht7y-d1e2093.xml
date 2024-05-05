@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 37</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 37</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="771"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e2093"><!-- nbht7y-l5t37 -->
+            <head xml:id="nbht7y-d1e2093-Hd1e101">Titulus 37</head>
+            <head xml:id="nbht7y-d1e2093-Hd1e103" type="question-title">De poenis</head>
+            <p xml:id="nbht7y-d1e2093-d1e106">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0788.xml-->
+               <pb ed="#C" n="771"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>De Poenis. Rubrica XXXVII. 
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e117">
+               <lb ed="#C" n="2"/>SUMMARIA. 
+      <lb ed="#C" n="3"/>1. Paena quid sit. Et tui sit imponenda.I 
+      <lb ed="#C" n="4"/>2 Species poenarum quot sini 
+      <lb ed="#C" n="5"/>3. Poenae quae dicantur personalet. Quae reales. 4. Quae mixtae, 
+      <lb ed="#C" n="6"/>Quae &amp; quibus, &amp; per quem inferendae sunt. 6. Et quan 
+      <lb ed="#C" n="7"/>do. 10. Et a quibus. 11 
+      <lb ed="#C" n="8"/>7 Judices a quibus poenis debent abstinere 
+      <lb ed="#C" n="9"/>9 Cogitatio an debeat puniri 
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e137">
+               <lb ed="#C" n="10"/>VSque modo satis tractatum est de 
+      diven<lb ed="#C" n="11" break="no"/>sis criminibus, sed quia ips 
+      <lb ed="#C" n="12"/>crimina punienda sunt, nec remanere deben 
+      <lb ed="#C" n="13"/>impunita. infra de sent. excomm. ut famae §. 1.ff a 
+      <lb ed="#C" n="14"/>LAquil. ita vulneratus. §. inal. dicamus de poenis. Quid si 
+      <lb ed="#C" n="15"/>poena, Quot sint species poenarum, Quae, &amp; quibus, &amp; pe 
+      <lb ed="#C" n="16"/>quem inferendae sunt, Quando sunt inferendae, A quibus 
+      <lb ed="#C" n="17"/>&amp; ex quibus causis extenuentur 
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e158">
+               <lb ed="#C" n="18"/>Quid sit poena delcti Debita coerctio seus¬ 
+      <lb ed="#C" n="19"/>tisfactio lege vel alio jure limit. 
+      <lb ed="#C" n="20"/>ta. quia poenae certae, singulorum peccatorum sunt. ve 
+      <lb ed="#C" n="21"/>Poena est noxiae vindicta. &amp; est generale nomen omniur 
+      <lb ed="#C" n="22"/>delictorum, ut colligitur. ff de verbor. signisic. aliud fraus &amp; 
+      <lb ed="#C" n="23"/>si qua pena est. &amp; de hoc not. supra de sent. &amp; rejudi. sub rubri¬ 
+      <lb ed="#C" n="24"/>de sent §. fin. &amp; sub §. sed &amp; casus. ubi invenies notatum qui¬ 
+      <lb ed="#C" n="25"/>sit mulcta, &amp; quae sit differentia inter poenam &amp; mulctan 
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e178" n="2">
+               <lb ed="#C" n="26"/>Quot sint species penarum Generaliter 
+      <lb ed="#C" n="27"/>sunt tres. nam aliae person¬ 
+      <lb ed="#C" n="28"/>les, aliae reales inductae in odium personarum, aliae mixta
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e187" n="3">
+               <lb ed="#C" n="29"/>PErsonales sunt secundum jura Cano istae: Suspen 
+      <lb ed="#C" n="30"/>sio, Excommunicatio, Depositio, Intrusio, Incarcers 
+      <lb ed="#C" n="31"/>tio, Verberatio, Characteris impressio, Servitus. Privil¬ 
+      <lb ed="#C" n="32"/>gii clericalis denudatio Curiae seculari facta expositi¬ 
+      <lb ed="#C" n="33"/>Relegatio, &amp; si quae possint alia reperiri. De suspensione 
+      <lb ed="#C" n="34"/>excommunicatione, depositione, legitur 2394 forte sup 
+      <lb ed="#C" n="35"/>de judic. cum non ab homine. De intrusione invenies 81. dis 
+      <lb ed="#C" n="36"/>dictum. &amp;c. siquis clericus. 16. q. 6 de lapsis. 27. qui si qua mi 
+      <lb ed="#C" n="37"/>nacharum. &amp;c. siquis rapuerit. infra eodem, tuae. De incarci 
+      <lb ed="#C" n="38"/>ratione, supra deposi. gravi. &amp; supra de aposta. a nobis infrac 
+      <lb ed="#C" n="39"/>verborum significat novimus. De verberatione, 5. qu. 5. ill qui 
+      <lb ed="#C" n="40"/>6. q. 1. §. perum. in fin. 4. qu. 3. §. item in criminali. vers. si eari 
+      <lb ed="#C" n="41"/>conditio. 24. q. 5. circumcelliones. circa tamen vindictam san 
+      <lb ed="#C" n="42"/>guinis intelligas gravem. supra de rap in archiepi copatu. su 
+      <lb ed="#C" n="43"/>pra de cler percussc. 2. De characteris impressione, supraa 
+      <lb ed="#C" n="44"/>crim. fals. ad audientiam. de serritute. 15 qu. sin, cum multae. si 
+      <lb ed="#C" n="45"/>pra deJudeis. ita quorundam § penultim. De privilegii cler¬ 
+      <lb ed="#C" n="46"/>calis denudatione, supra derita &amp; honest. cleric § sinal. infr 
+      <lb ed="#C" n="47"/>rde sentent excommun. audientiam. &amp;c. contingit. 2. De trad 
+      <lb ed="#C" n="48"/>tione facienda curiae seculari, supra de crim fals. ad falsario 
+      <lb ed="#C" n="49"/>rum. §. 1. supra de haereti. ad abolend aun § illos. &amp; qualiter fia 
+      <lb ed="#C" n="50"/>haec traditio, legitur infra deverborum significat. novimusr 
+      <lb ed="#C" n="51"/>respons. prim. De relegatione, &amp; etiam traditione. suprad 
+      <lb ed="#C" n="52"/>judic. cum non abhomine. ad fia. quae plerunque injuste in 
+      <lb ed="#C" n="53"/>fligitur, &amp; de facto tantum supra de arbis. c. 2. §.
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e244" n="4">
+               <lb ed="#C" n="54"/>REales vero in odium personarum inductae, hae se 
+      <lb ed="#C" n="55"/>cundum canones possunt dici in possessionem rei p¬ 
+      <lb ed="#C" n="56"/>titae, vel alias pro modo debiti declarati missio. supra i 
+      <lb ed="#C" n="57"/>lite non contestata, quoniam frequenter. §. in aliis. &amp; sequen¬ 
+      <lb ed="#C" n="58"/>supra de eo qui mitt. in possess causa rei serv. pertotum. Benefi 
+      <lb ed="#C" n="59"/>ci privatio: supra de cohabitatione clericorum &amp; mulietum. 
+      <lb ed="#C" n="60"/>de cler. conju. quasi per totum. contra, de surejurand querelan 
+      <lb ed="#C" n="61"/>quod plerunque ex vi obligationis fit. supra de elect, cum di 
+      <lb ed="#C" n="62"/>lectus &amp; penult. &amp; sin. Ejusdem suspensio sive subtractio 
+      <lb ed="#C" n="63"/>supra de cleric. non residentib. cum ad hoc. &amp;c. ex tuae. supra d 
+      <lb ed="#C" n="64"/>appell. past. ralis. in fin. &amp;c. pervenit. supra de heret excommu 
+      <lb ed="#C" n="65"/>nicamus. §. 1. Rerum omnium confiscatio. supra de Judaeis 
+      <lb ed="#C" n="66"/>ita quorundam. &amp;c. ad deliberandam. Pecuniae mu ctatio 
+      <lb ed="#C" n="67"/>supra de rap. in archiepiscoratu. supra deJudaeis postulasti supr 
+      <lb ed="#C" n="68"/>de maledic. c. 2. quod dic, ut notatur / upra de sentent &amp; reju 
+      <lb ed="#C" n="69"/>dicat. sub rubric. de sent. §. fin. sub §. sed &amp; casus. supra de offi¬ 
+      <lb ed="#C" n="70"/>ordin. §. quid perimet. vers. debet etiam panire delinquentes. c 
+      <lb ed="#C" n="71"/>sequent. 
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e286">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0788.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="72"/>MIxtae? autem possunt dici, quae partim sunt persona¬ 
+      <lb ed="#C" n="73"/>NA les, partim reales: puta quando ecclesia inducit exi 
+      <lb ed="#C" n="74"/>lium: nam ad judicem ecclesiasticum hoc pertinet ex causa 
+      <lb ed="#C" n="75"/>nam ecclesia habet inscriptionem, proscriptionem, exili 
+      <lb ed="#C" n="76"/>um, relegationem. 50. distinct. accedens. 2. q. 6. biduum. 16. 9. 
+      <lb ed="#C" n="77"/>§. novarum. &amp; l. placet. &amp; haec tamen inter se differunt. un 
+      <lb ed="#C" n="78"/>de versus 
+      <lb ed="#C" n="79"/>
+               <quote xml:id="nbht7y-d1e2093-Qd1e309">Exulabit sine spe patria reditusque reiqu 
+      <lb ed="#C" n="80"/>Inscriptus manat in patria, sed re spoliatus 
+      <lb ed="#C" n="81"/>Amittit proscriptus opes, non posse reverti 
+      <lb ed="#C" n="82"/>Quisque relegatus sua, cum remeabit, habebit</quote>
+               <lb ed="#C" n="83"/>Fotet ergo dici relegatio personalis, ut not. supra eod 
+      <lb ed="#C" n="84"/>sab s. personalis. vers. sin. qui incipit, de relegatione. sed sic 
+      <lb ed="#C" n="85"/>ut probant jura, his verbis promiscueutimur. Sed &amp; mix 
+      <lb ed="#C" n="86"/>tae possunt dici terrae, interdictum generale. supia de offi¬ 
+      <lb ed="#C" n="87"/>deleg sane. §. de spons. non est nobis. Absolutio vasallorum: 
+      <lb ed="#C" n="88"/>fidelitate. 15. qu. 6. nos Sanctorum. juratos. supra de haeret c. fin 
+      <lb ed="#C" n="89"/>Juris patronatus privatio. infra eod. in quibusdam, &amp;c. gra 
+      <lb ed="#C" n="90"/>vem. Reliquiarum de ecclesia extractio. si prae de jure patro 
+      <lb ed="#C" n="91"/>c. 2. Sunt &amp; aliae variae poenae contra raptores, haereticos 
+      <lb ed="#C" n="92"/>&amp; fautores eorum, &amp; Judaeos, &amp; Saracenos, &amp; alios, vari¬ 
+      <lb ed="#C" n="93"/>delinquentes in jure canonico sparsae, quas in singulis sui 
+      <lb ed="#C" n="94"/>tractatibus plene curavimus denotare. De poenis auten 
+      <lb ed="#C" n="95"/>legalibus dic, ut not. infra cod §. quae quibus. Sed nunquic 
+      <lb ed="#C" n="96"/>personalis poena potest commutari in pecuniariam? Di 
+      <lb ed="#C" n="97"/>cas, quod non, quia non sunt puniendae res pro delictis. i 
+      <lb ed="#C" n="98"/>authentic. de man. princ. §. oportet. col. 3. infra eod. licet. 15. qu¬ 
+      <lb ed="#C" n="99"/>illud. nec obst. supra ut sit. non contestat. quoniam frequent er 
+      <lb ed="#C" n="100"/>ad fin. ubi dicitur, quod poena, quae magis timetur, impon 
+      <lb ed="#C" n="101"/>debet, scilicet missio in posses. vel excommunicatio. nan 
+      <lb ed="#C" n="102"/>quaelibet illarum est debita &amp; ordinaria poena pro contu 
+      <lb ed="#C" n="103"/>macia, quamvis magis ordinarium sit, quod fiat missio, 
+      <lb ed="#C" n="104"/>possit locum habere supra ut lit. non contestat. tuae, causalite 
+      <lb ed="#C" n="105"/>tamen mutari potest personalis in pecuniariam supra de rap 
+      <lb ed="#C" n="106"/>in archiepiscopatu. supra de suedaeis. postulasti. secundum Gol 
+      <lb ed="#C" n="107"/>tu dic. ut not. supra de ossic ordm §. quid pertinet. vel debet et 
+      <lb ed="#C" n="108"/>iam punire delinquentes, &amp; se. hoc etiam non omitto, qui¬ 
+      <lb ed="#C" n="109"/>licet Goffred. restringat illud, quod dicitur, quod poena 
+      <lb ed="#C" n="110"/>quae magis timetur infligenda est, ad duos casus tantum 
+      <lb ed="#C" n="111"/>de quibus loquitur litera supra ut lit. non contestat. quonia 
+      <lb ed="#C" n="112"/>frequenter in fi. ut supra innuit. est tamen generalius intel 
+      <lb ed="#C" n="113"/>ligendum, quo ad correctionem hominum pertinet nan 
+      <lb ed="#C" n="114"/>sive plectendo, sive ignoscendo hoc solum bene agitur, ui 
+      <lb ed="#C" n="115"/>vita hominum corrigatur. 23. qu. 5 prodest. ideoque quan 
+      <lb ed="#C" n="116"/>doque augmentatur poena ex causa, &amp; quandoque dimi 
+      <lb ed="#C" n="117"/>nuitur, ut plene not. supra de accus§. quis sit effectus. Et nun 
+      <lb ed="#C" n="118"/>quid realis, sive pecunmaria in personalem commutatur 
+      <lb ed="#C" n="119"/>ic, quandocunque damnati inopes inveniuntur. hoc e 
+      <lb ed="#C" n="120"/>nim regulare est. 12 9. 2. fraternitatis 14 q. 6 si res aliena. 12. qu 
+      <lb ed="#C" n="121"/>2 § libertus ffide in jus vocand I fin. not. supra de malesic. § quali 
+      <lb ed="#C" n="122"/>ter. super verbo, commenti. id in poenam aliam commutetur
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e406">
+               <lb ed="#C" n="123"/>Quae,  &amp;, quibus &amp; per quem inferendae sunt 
+      <lb ed="#C" n="124"/>hîc notandum est, quod de 
+      <lb ed="#C" n="125"/>licta e quatuor modis committuntur. Factu, ut furta &amp; 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="126"/>ADDITIONES. 
+      <lb ed="#C" n="127"/>a Quid sit poena] Adde Doct in rubr eod si 
+      <lb ed="#C" n="128"/>b Poenarum genera, ut generalius, latiusque, ita melius con 
+      <lb ed="#C" n="129"/>stituisse visus est Mart. in haec verba Paenarum (inquit) specie 
+      <lb ed="#C" n="130"/>duae sunt, quaedam enim est aeterna, quaedam temporalis 
+      <lb ed="#C" n="131"/>Poena aeterna debetur pro quolibet peccato mortali, &amp; hae 
+      <lb ed="#C" n="132"/>remittitur cordis contritione, de poen. d stinct i. in prin Tem 
+      <lb ed="#C" n="133"/>i6ralis vero alia est spiritualis, ut excommunicatio, alia in¬ 
+      <lb ed="#C" n="134"/>crepationis, ut 83. distin pervenit. alia interdictum suspensio 
+      <lb ed="#C" n="135"/>nis. Item temporalium poenatum alia est corporalis, ut je 
+      <lb ed="#C" n="136"/>junium. argum. 30 dist. si quis alia est verberationis 237.5. cir 
+      <lb ed="#C" n="137"/>cumcelliones. Alia publicationis bonorum, &amp; exilii, l. g. 1. in pri 
+      <lb ed="#C" n="138"/>mis. Poe na autem pecuniaria varie irrogatur: aliquando pre 
+      <lb ed="#C" n="139"/>insuria illata personae, vel loco, aliquando pro damni satisfa 
+      <lb ed="#C" n="140"/>ctione, ut pro furto, vel rapina Corporalium autem poena 
+      <lb ed="#C" n="141"/>rum genera &amp; species si quis plenius videre cupiat, legat Ie¬ 
+      <lb ed="#C" n="142"/>picalium. in prine ff de panis. Mattir 
+      <lb ed="#C" n="143"/>e Delicta] aAddequae dicantur delicta nominata, &amp; quae inno 
+    </p>
+    <p>
+      <lb ed="#C" n="144"/>minata. vide per Bart. in! nunquam plura in 3. col. ff. de pub inc 
+      <lb ed="#C" n="145"/>Bart. in I si famil ff de iurisd. om ind. Bart. in l. I.in I. col. ff. ad Tur 
+      <lb ed="#C" n="146"/>pil Bart. in §. un. de quare ffi de pub. ind. Bart.ml. senatus fideact--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0789.xml-->
+      <pb ed="#C" n="772"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>homicidia. Dicto, ut conviria, &amp; in fide advocatione 
+      <lb ed="#C" n="2"/>Scripto, ut falsantes instrumenta, &amp; famosos libellos cor 
+      <lb ed="#C" n="3"/>ficientes. Consilio, ut conjurationes &amp; latronum consci 
+      <lb ed="#C" n="4"/>entia, quousque alios suadendo immisisse, alias immissi 
+      <lb ed="#C" n="5"/>alias monuisse sceleris est instar. Septem etiam modis a 
+      <lb ed="#C" n="6"/>tenuatur, vel aggravatur poena, scilicet Causa, Persona 
+      <lb ed="#C" n="7"/>Tempore, Loco, Qualitate, Quantitate, Eventu: Causa, u 
+      <lb ed="#C" n="8"/>in verberibus a magistris vel a parentibs illatis causa cor 
+      <lb ed="#C" n="9"/>rectionis, non injuriae puniuntur autem, cum quis causi 
+      <lb ed="#C" n="10"/>iracundiae pulsatus est. Persona dupliciter consideratu 
+      <lb ed="#C" n="11"/>ejus, qui deliquit, &amp; qui passus est. aliter enim puniuntu 
+      <lb ed="#C" n="12"/>iervi, quam liberi, &amp; aliter qui in parentem, vel praelatum 
+      <lb ed="#C" n="13"/>aliter qui in extraneum, vel aequalem, vel subditum ma 
+      <lb ed="#C" n="14"/>nus intulit, sed aetatis ratio habetur. Loco, utrum in es 
+      <lb ed="#C" n="15"/>clesia seu coemiterio, in praetorio, vel in loco privato qui 
+      <lb ed="#C" n="16"/>delinquat, nam locus facit, utrum idem, de quo agitur 
+      <lb ed="#C" n="17"/>furtum, vel sacrilegium judicetur, utrum ne acriusve 
+      <lb ed="#C" n="18"/>mitius puniatur. Tempore, utrum de die, vel de nocte, u 
+      <lb ed="#C" n="19"/>discernamus emansorem a furtivo, vel effractore, vel diu 
+      <lb ed="#C" n="20"/>turnum furem a nocturno. Qualitate, utrum sit furtun 
+      <lb ed="#C" n="21"/>manifestum acrius, vel levius delictum. Quantitate, utr 
+      <lb ed="#C" n="22"/>quis ovem, vel suem, vel totum gregem surripuerit. Ever 
+      <lb ed="#C" n="23"/>tu, puta a demente cum commissum est, tamen apud Gra 
+      <lb ed="#C" n="24"/>cos fortuiti casus exilio voluntario luebantur. Furtorus 
+      <lb ed="#C" n="25"/>etiam domesticorum si leviora sunt, noc admittitur accu 
+      <lb ed="#C" n="26"/>satio, nec sunt publice punienda, puta, si servus domine 
+      <lb ed="#C" n="27"/>libertus patrono, mercenarius ei cum quo moratur ren 
+      <lb ed="#C" n="28"/>surripiat, nec etiam pro his levioribus furtis similiterag 
+      <lb ed="#C" n="29"/>potest. Probantur haec ff. eod. respiciumdum §. furta. &amp; I facta 
+      <lb ed="#C" n="30"/>&amp; Iquaedam ff defurt. si libertus patrono supra de homic sicut. o 
+      <lb ed="#C" n="31"/>pen. dist.l aut facta. Sed in aliquibus terris scelera graviu 
+      <lb ed="#C" n="32"/>puniuntur, &amp; multis grassantibus opus est exemplo, ut c 
+      <lb ed="#C" n="33"/>laut facta. § pen &amp; fin.
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e496">
+               <lb ed="#C" n="34"/>PErpensa igitur qualitate delicti, imponuntur poenae si 
+      <lb ed="#C" n="35"/>cundum I. quarum 7. sunt species. tres enim sunt capi 
+      <lb ed="#C" n="36"/>tales: quatu or non capitales. Capitales sunt, ut si capu 
+      <lb ed="#C" n="37"/>amputetur gladio, non cum securi, vel falce. Item si furci 
+      <lb ed="#C" n="38"/>suspendatur, vel vivus cremetur, vel ungulis ferarum be 
+      <lb ed="#C" n="39"/>stiarum latera sulcentur. Item sibestiis subjiciatur, non u 
+      <lb ed="#C" n="40"/>lapidetur, vel crucifigatur, vel de ponte, vel de monte j 
+      <lb ed="#C" n="41"/>ctetur. quia hoc fieri non debet. f. eod aut damnum §. vita. ( 
+      <lb ed="#C" n="42"/>Isi diutino. § non potest &amp; I capitalium. respons. 1. &amp; §. famoso¬ 
+      <lb ed="#C" n="43"/>&amp; Isi quis aliquid. §. 1. &amp; 2. C. de malesic. &amp; mathema si except. 
+      <lb ed="#C" n="44"/>secundum Azo. Secunda species capitalis est, quae dicitu 
+      <lb ed="#C" n="45"/>morti proxima, puta metalli coercio. alii tamen damnar 
+      <lb ed="#C" n="46"/>tur in metallum, &amp; hi gravioribus vinculis puniuntur. ali 
+      <lb ed="#C" n="47"/>in opus metalli: &amp; hi levioribus. alii in ministerium im¬ 
+      <lb ed="#C" n="48"/>ta llicorum, id est, ut serviant damnatis in metallum. quo¬ 
+      <lb ed="#C" n="49"/>si inperpetuum sit, servi poenae sunt. si ad tempus, civita 
+      <lb ed="#C" n="50"/>tem amittunt, sed damnati in metallum, libertatem, &amp; ci 
+      <lb ed="#C" n="51"/>vitatem, quamvis &amp; servus sic damnari possit, itaque de 
+      <lb ed="#C" n="52"/>minus ejus dominium amittat. Secus, si advincula sit da 
+      <lb ed="#C" n="53"/>mnatus ff. eod. aut dannum §. est poena. &amp; § inter eos &amp; § mini 
+      <lb ed="#C" n="54"/>sterium. &amp; § servos. Tertia species capitalis est, deportati¬ 
+      <lb ed="#C" n="55"/>in opus publicum, non dico damnatio in metallum &amp; hae 
+      <lb ed="#C" n="56"/>libertatem conservat, sed civitatem adimit. ff. eod. quidan 
+      <lb ed="#C" n="57"/>hanc praeses provinciae infligere non potest sed est a prir 
+      <lb ed="#C" n="58"/>cipibus confirmanda. majores autem judices, sicut praef¬ 
+      <lb ed="#C" n="59"/>ctus praetorio, praefectus urbis, hanc poenam imponunt, f 
+      <lb ed="#C" n="60"/>eo. diri fratres. Non capitalis vero poena, quae ad aestimatio 
+      <lb ed="#C" n="61"/>nem non periculum capitis pertinet, est quadruplex. Pri 
+      <lb ed="#C" n="62"/>ma relegatio ad tempus, vel etiam in perpetuum, dum ta 
+      <lb ed="#C" n="63"/>men bona non adimat. Secunda infamia, vel dignitatis a 
+      <lb ed="#C" n="64"/>missio. Tertia ad dignitatem, seu officium, vel forum in 
+      <lb ed="#C" n="65"/>terdicta aspiratio. Quarta verborum castigatio. probar 
+      <lb ed="#C" n="66"/>tur haec ff eod capitalium. respons.1. &amp; §. ceriae ponae. &amp; l. si qui 
+      <lb ed="#C" n="67"/>forte § sin &amp; duab. legib. seq f eod de interdict. &amp; relega. relegati 
+      <lb ed="#C" n="68"/>rum. § ad tempus. Et nota, quod plus est interdicere foro 
+      <lb ed="#C" n="69"/>quam advocationibus. nam in primo casu debet abstiner 
+      <lb ed="#C" n="70"/>damnatus ab omnibus forensibus negotiis in foro: in se 
+      <lb ed="#C" n="71"/>cundo vero debet abstinere ab advocationibus in foro, sed 
+      <lb ed="#C" n="72"/>aliis in foro non prohibetur operam dare. S. eod. moris
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e583" n="7">
+               <lb ed="#C" n="73"/>Sunt quaedam poenae, a quibus debent judices absti 
+      <lb ed="#C" n="74"/>ner e ne scilicet in facie alicujus scribatur poena: nec 
+      e<lb ed="#C" n="75" break="no"/>nim debet facies maculari: a quae est ad similitudinem 
+      <lb ed="#C" n="76"/>coelestis pulchritudinis figurata. C. eod si quis in inctallum 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0789.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="77"/>Nec debet addici pistoribus, vel alicui alii corpori nor 
+      <lb ed="#C" n="78"/>composiro, etiam obtentu religionis. C. eodem. ne quis. Iteu 
+      <lb ed="#C" n="79"/>Veterani, &amp; eorum liberi, in primo gradu tantum, poen 
+      <lb ed="#C" n="80"/>metalli, &amp; operis publici, non afficiuntur. Item nec decu 
+      <lb ed="#C" n="81"/>riones, vel eorum liberi, vel parentes in quocunque gradi 
+      <lb ed="#C" n="82"/>sint, qui nec furcis suspendi debent, nec comburi: &amp; si si 
+      <lb ed="#C" n="83"/>damnati fuerint, liberandi sunt, consulto tamen prius 
+      <lb ed="#C" n="84"/>principe, ut vel poena permutetur, vel liberetur. C. eod ho 
+      <lb ed="#C" n="85"/>nor F eod moris 9 sin. Nec liber homo sic potest damnari, u 
+      <lb ed="#C" n="86"/>in perpetuis vinculis detineatur. C. eod incredibile. In omn 
+      <lb ed="#C" n="87"/>etiam supplicio severius punitur servus, quam liber: inf¬ 
+      <lb ed="#C" n="88"/>mis, quam bonae famae existens. ff. eod, capitalium §. sin 
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e625" n="8">
+               <lb ed="#C" n="89"/>EST autem poena imponenda illi, qui deliquit, quia 
+      <lb ed="#C" n="90"/>poena suos debet tenere authores. supra de his quae fiun 
+      <lb ed="#C" n="91"/>a majori parte capituli. quae sivit. C. eod sancimus. &amp; considera 
+      <lb ed="#C" n="92"/>tur praesens status publicis criminibus, &amp; in crimine in 
+      <lb ed="#C" n="93"/>juriarum. ff. si ex noxal. causd agatur. Ipen. In privatis veri 
+      <lb ed="#C" n="94"/>status praeteritus, unde si tempore delicti erat servus, num 
+      <lb ed="#C" n="95"/>factus sit liber, tanquam servus punietur, &amp; econtrario 
+      <lb ed="#C" n="96"/>eod. Ii. Non est ergo unus pro alio puniendus, neque uxo 
+      <lb ed="#C" n="97"/>pro marito, vel econtrario. nec filius pro patre, b vel e 
+      <lb ed="#C" n="98"/>contrario. supra de pigno ex literis. §. I. C.ue uxor pro marit. i 
+      <lb ed="#C" n="99"/>rubro &amp; in nigro. 15. q. 7. illud. 1.q. 4.c.i. supra depurga vulga ca 
+      <lb ed="#C" n="100"/>Sed contra. 159.6. cum mulctae. 6. qu.i. quisquis supra de spons 
+      <lb ed="#C" n="101"/>non est vobis supra de offic. deleg sane &amp; c. P. &amp; G. Sol prima ju 
+      <lb ed="#C" n="102"/>ra quae nolunt, quod alius pro alio e puniatur, locum ha 
+      <lb ed="#C" n="103"/>bent, quo ad poenas aeternas, in quib generaliter verum est 
+      <lb ed="#C" n="104"/>quod peccata suos debent tenere autores, &amp; quod filius ni 
+      <lb ed="#C" n="105"/>portabit iniquitatem patris, &amp;c. hoc tamen fallit in origi 
+      <lb ed="#C" n="106"/>nali peccato, quod ad omnes transit, &amp; ab Adam descen 
+      <lb ed="#C" n="107"/>dit. unde Apostolus. Per unum hominem intravit mors 
+      <lb ed="#C" n="108"/>&amp; per omnes transit. &amp; iterum: In Adam omnes peccavi 
+      <lb ed="#C" n="109"/>mus. &amp; est ratio, ut not supra tit.. §. de quibus peccatis. rersicu 
+      <lb ed="#C" n="110"/>briginale. &amp; seq. Jura vero posteriora, in quibus punitur u 
+      <lb ed="#C" n="111"/>nus pro alio, locum habent, quo ad poenas temporales 8 
+      <lb ed="#C" n="112"/>sic loquitur 24 9. 3. sihabes. aq. 4. rers. item pro peccato. secund 
+      <lb ed="#C" n="113"/>Goffr. Sed secundum Hug &amp; Joan. ad intelligentiam hu 
+      <lb ed="#C" n="114"/>jus materiae notabis quod triplex est poena, scilicet aeter 
+      <lb ed="#C" n="115"/>na, temporalis, &amp; spiritualis. Aeterna poena nunquam pu 
+      <lb ed="#C" n="116"/>nitur unus pro alio, ut i. qu 4. C.1. &amp; capit jam itaque. nisi sit 
+      <lb ed="#C" n="117"/>imitator sceleris, ubi quidem non tam pro alieno, quan 
+      <lb ed="#C" n="118"/>pro suo delicto punitur. I. q. 1. cito turpem supr. de renunc. nis 
+      <lb ed="#C" n="119"/>cum pridem. §. personae vero irregularitas. &amp; sic intellige 1. 9. 4 
+      <lb ed="#C" n="120"/>§. contra Dommus ad Moysen. Corporalis poena duplex ess 
+      <lb ed="#C" n="121"/>quaedam enim consistit circa corpus, &amp; illa saepe punitue 
+      <lb ed="#C" n="122"/>unus pro alio, ut patet per diversa exempla. I. qu. 4. §. 1ten 
+      <lb ed="#C" n="123"/>pro peccato civium. Quaedam circa statum, ut est servitus, ve 
+      <lb ed="#C" n="124"/>infamia. &amp; illa etiam saepe punitur unus pro alio. 6qu. 2.5 
+      <lb ed="#C" n="125"/>verum. 15. qu. sin, cum mulctae supra de fil presbys literas. &amp; quas 
+      <lb ed="#C" n="126"/>per totum. supra de purga ca accedes infra eod. ad aures. &amp;c. n 
+      <lb ed="#C" n="127"/>quibusdam. Spiritualis vero paena quadruplex est. Primi 
+      <lb ed="#C" n="128"/>est paena excomunicationis, &amp; illa nunquam punitur unu 
+      <lb ed="#C" n="129"/>pro alio. 2344. si habes. Secunda est paena interdicti loci, 8 
+      <lb ed="#C" n="130"/>illa frequenter punitur unus pro alio. sapra de spon. non 
+      <lb ed="#C" n="131"/>vobis. supra de ossic. delega sane &amp; c. P. &amp; G. Tertia remotio al 
+      <lb ed="#C" n="132"/>oblationibus, &amp; illa similiter punitur unus pro alio. 1794 
+      <lb ed="#C" n="133"/>nuror Quarta ordinis, &amp; illa punitur unus pro alio. nam ma 
+      <lb ed="#C" n="134"/>ritus repellitur ab ordinibu. propter delictum uxoris. 33. dij 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="135"/>ADDITIONES 
+      <lb ed="#C" n="136"/>a Nec enim debet facies maculari] Adde &amp; an valeat statu 
+      <lb ed="#C" n="137"/>tum, quod procerto delicto aliquis bulletur in fronte. vidi 
+      <lb ed="#C" n="138"/>per Ang in d. I. si quis in metallum &amp; per Marianum de Senis 
+      <lb ed="#C" n="139"/>in repet. cap. qualiter. el. 2. in II. artic. de accusationib. &amp; per cun¬ 
+      <lb ed="#C" n="140"/>dem Marianum in capis. fin. de foro compet. &amp; an percutiens ir 
+      <lb ed="#C" n="141"/>capite dicitur percutere in facie. vide per Domi in cap. umici 
+      <lb ed="#C" n="142"/>de sacra unction. 
+      <lb ed="#C" n="143"/>b Nec filius propatre] Adde glo. in c. in quibusdam. de pan glos 
+    </p>
+    <p>
+      <lb ed="#C" n="144"/>Cyn. &amp; Sal. in II. C. de lib. &amp; eo. lib. Bart. in Leum qui ff. de inter 
+      <lb ed="#C" n="145"/>dict. &amp; releg. Bald. in I fin. C. de libe. causa. Specul. in tis. de loco i 
+      <lb ed="#C" n="146"/>§. nunc aliqua. vers 144 
+      <lb ed="#C" n="147"/>e Alius pro alio] Adde glos. summae. 24. 9. 3. gloss. &amp; Dyn in regn 
+    </p>
+    <p>
+      <lb ed="#C" n="148"/>la, non debet quis de reg int. sib. 6. Domi in cap. Imperatores in 
+      <lb ed="#C" n="149"/>col 10. dist. Bal. &amp; Sal in I quisquis. C. ad Unsiam muost. Oldr csi 
+      <lb ed="#C" n="150"/>po incip. An ex delicte--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0790.xml-->
+      <pb ed="#C" n="773"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>si cujus. Item si pater emit ecclesiam pro filio, ipso ignorar 
+      <lb ed="#C" n="2"/>te, licet non repellatur ab ordinibus, ecclesiam tamen ami 
+      <lb ed="#C" n="3"/>tere debet. 1.q4. 5. c. I. supra de elect. si cujus. supra de simo. de regu 
+      <lb ed="#C" n="4"/>laribus, &amp; duobusc. seq. Brevius expedias te, quod unus no 
+      <lb ed="#C" n="5"/>punitur pro alio, sed poena suos teneat authores, regular 
+      <lb ed="#C" n="6"/>est, fallit tamen in casibus supra notatis: &amp; in multis alii 
+      <lb ed="#C" n="7"/>non notatis, quae diligens lector potest colligere per si¬ 
+      <lb ed="#C" n="8"/>ipsum. Est igitur regula, quod nemo privatur jure suos 
+      <lb ed="#C" n="9"/>ne culpa sua. supra de constitut, cognoscentes. 56. distin. satis per 
+      <lb ed="#C" n="10"/>versum. 16q. ult. inventum. subaudi, vel sine causa. &amp; hoc es 
+      <lb ed="#C" n="11"/>quod exponit decre. supra ut lit non contest quontam freque 
+      <lb ed="#C" n="12"/>ter. § si vero aliter absens. vers. si autem. &amp; de carnali conjugio. 1 
+      <lb ed="#C" n="13"/>sin. Causa vero consuevit his versibus denotari 
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e764">
+               <lb ed="#C" n="14"/>
+               <quote xml:id="nbht7y-d1e2093-Qd1e768">Paupertas, odium, vitium, favor, &amp; scelus ordo 
+      <lb ed="#C" n="15"/>Personas spoliant &amp; loco jure suo</quote>
+               <lb ed="#C" n="16"/>Paupertas, propter quam uniuntur duae ecclesiae, &amp; alt¬ 
+      <lb ed="#C" n="17"/>ra amittit dignitatem suam. 16. qu. 1. &amp; temporis qualitas. Od 
+      <lb ed="#C" n="18"/>um, scilicet civium interficientium suum episcopum. 25. 
+      <lb ed="#C" n="19"/>2ita nos. infra eod. ad aures. &amp; cap. in quibusdam. Vitium, scili 
+      <lb ed="#C" n="20"/>cet leprae. supra de cleric. debili. tua nos. Favor, scilicet Cor 
+      <lb ed="#C" n="21"/>stantinopolitanae civitatis. 22. qu. renovantes. Et scelus. 27. q 
+      <lb ed="#C" n="22"/>multorum. &amp; not. supra eod. versicul, corporalis, &amp; seq &amp; versi¬ 
+      <lb ed="#C" n="23"/>secunda, &amp; seq. Ordo propter cujus favorem dominus se 
+      <lb ed="#C" n="24"/>vum suum amittit. 54. dist frequens generalis. &amp; accedit ff. a 
+      <lb ed="#C" n="25"/>oper. liber. interdum. ubi ratione dignitatis supervenientis 
+      <lb ed="#C" n="26"/>mittit quis operas, quas habebat in libert. quia indignun 
+      <lb ed="#C" n="27"/>est, quod liberta serviat, ex quo tantam adepta est digni 
+      <lb ed="#C" n="28"/>tatem 
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e802">
+               <lb ed="#C" n="29"/>INferioribus praeterea clericorum a jure certa poena in 
+      <lb ed="#C" n="30"/>2 fligitur: nam si quis interfecerit presbyterum, sexcen 
+      <lb ed="#C" n="31"/>torum solidorum, si diaconum, 400. si subdiaconum, 300 
+      <lb ed="#C" n="32"/>&amp; forte hodie aestimabitur sicut diaconus. argum. supra d 
+      <lb ed="#C" n="33"/>servis non ord. miramur. &amp; de aetat. &amp; qual. a multis. si episco 
+      <lb ed="#C" n="34"/>pum, 900. si monahum. 400. solidorum poena est puniei 
+      <lb ed="#C" n="35"/>dus, &amp; 17. g. 4. qui subdiaconum. &amp;c. seq. praeter poenitenti 
+      <lb ed="#C" n="36"/>quae est 12. annorum, si presbyter interficiatur, infr.tit. i.c. 
+      <lb ed="#C" n="37"/>Sed cui applicabitur haec poena? Dicunt quidam, quo 
+      <lb ed="#C" n="38"/>confiscanda est. C. demo. mulcta. I. mulctarum. sed contra 
+      <lb ed="#C" n="39"/>quia ubi de vivorum correctione agitur; fisci ratio no 
+      <lb ed="#C" n="40"/>habetur. C. de secund nupt.l.. §1. Dicas. quod poenae exact. 
+      <lb ed="#C" n="41"/>per judices ecclesiasticos ratione de licti, damnum vel in 
+      <lb ed="#C" n="42"/>juriam ecclesiae contingentis, ecclesiae quam sic contingi 
+      <lb ed="#C" n="43"/>eroganda est, unde compositio presbyteri, de qua supr 
+      <lb ed="#C" n="44"/>no. ecclesiae, quam tenebat, reddi debet. infra eod c 2 ad idem 
+      <lb ed="#C" n="45"/>supra de simo. audivimus. 27. q. 1si quis rapuerit. 18. dist quomod 
+      <lb ed="#C" n="46"/>quidem. supra de censi. procurationes. in fin. auih. de sanct. episc. 6 
+      <lb ed="#C" n="47"/>si quis rapuerit. 17. qu. 4. si quis deinceps. C de rapt virg I.unica. si 
+      <lb ed="#C" n="48"/>cundum Goffred. ideo injuria facta clerico, videtur &amp; e¬ 
+      <lb ed="#C" n="49"/>clesiae, cujus est irrogata. unde &amp; ipsa agere potest, etiam 
+      <lb ed="#C" n="50"/>clerico, quo ad personam suam, fuerit satisfactum. infra d 
+      <lb ed="#C" n="51"/>sent. excomm. cum desideres. § sin ad idem. supra de for. compe 
+      <lb ed="#C" n="52"/>c. 2. supra de Judae, postulasti. &amp; 2. q 7. accusatio in fin. &amp; de ho 
+      <lb ed="#C" n="53"/>not. infra dem sent. excom. §. &amp; qualiter haec absolutio. sub § secur 
+      <lb ed="#C" n="54"/>dum vers. sed cui applicabitur. &amp; seq. Si vero damnum vel ir 
+      <lb ed="#C" n="55"/>juria aliquem privatum respiciet applicabitur ei poena, si 
+      <lb ed="#C" n="56"/>ve sit conventionalis. supra de arb. dilecti &amp; arg infra eo, cor 
+      <lb ed="#C" n="57"/>stitutus. sive sit a jure inducta supra titul ic. &amp; 3. &amp; sin sive 
+      <lb ed="#C" n="58"/>judice infligatur, ut not. supra tit. i. sub rub. de inju. §. cuid 
+      <lb ed="#C" n="59"/>tur. &amp; §. &amp; inquantum. secundum Goffctu dic, ut not. supr 
+      <lb ed="#C" n="60"/>de offic. ord §. quid pertinet. vers. debet etiam punire delinquente 
+      <lb ed="#C" n="61"/>Potest enim judex ecclesiasticus in expensis punire, siv 
+      <lb ed="#C" n="62"/>tempore diffinitivae sententiae. infra eod. calum. sive antea 
+      <lb ed="#C" n="63"/>supra de appell reprehensibilis. supra de sequ pos. ad hoc. supr. de d 
+      <lb ed="#C" n="64"/>lo &amp; contum, cum dilecti. in fin supr. de proc auditis. secundun 
+      <lb ed="#C" n="65"/>Goffr. de hoc dic, ut plene not. supra de dolo sub rubri de con 
+      <lb ed="#C" n="66"/>cumacia. §. qua poena. sub §. punitur etiam contumax vel dolosu 
+      <lb ed="#C" n="67"/>&amp; seq. Item imponere potest mulctam pecuniariam. infr. 
+      <lb ed="#C" n="68"/>eod dilectus. nam omnibus magistratibus permissum est ju 
+      <lb ed="#C" n="69"/>risdictionem suam defendere poenali judicio: excepti 
+      <lb ed="#C" n="70"/>divini jurisdictionem. ff. si quis jus dicenti non obtempe. l. uni 
+      <lb ed="#C" n="71"/>ca. ff. si quis in jus vo. non ierit. l. 2. unde &amp; poenas pecuniaria 
+      <lb ed="#C" n="72"/>imponere potest ordinarius. ff. de jud. l. 2. §. fin. Item delega 
+      <lb ed="#C" n="73"/>tus. C. de sportu. l. 2. Item arbiter f, de arbit. non ex omnibus. I¬ 
+      <lb ed="#C" n="74"/>cundum Goffr. de mulcta imponenda, dic, ut plene not¬ 
+      <lb ed="#C" n="75"/>supra de sentent. &amp; re jud sub rubric. de sententia. §. quo remedio 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0790.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="76"/>sub §. sed &amp; casus sunt. de arbitro. dic ut not supra de arbitrius 
+      <lb ed="#C" n="77"/>qualiter ad effectum. sub §. sunt autem dissimilia. vers. sed nun 
+      <lb ed="#C" n="78"/>quid potest punire contumacem. &amp; seq. Sed nunquid possun 
+      <lb ed="#C" n="79"/>personae ecclesiasticae poenas exigere? Dic quod possunt 
+      <lb ed="#C" n="80"/>si a jure inductae sunt, sicut sunt illae, de quibus nota supr¬ 
+      <lb ed="#C" n="81"/>eod. sub § respon. 1. &amp; habes 12 qu. 2. episcopus qui mancipium 23 
+      <lb ed="#C" n="82"/>dist quanquam. in fine. 12.q. 2. cum devotissimam. 17. q. 4. siqui 
+      <lb ed="#C" n="83"/>contumax. quisquis, si quis domum. qui subdiaconum. Idem es 
+      <lb ed="#C" n="84"/>&amp; in conventionali. supra de arbit. dilecti ad fin. infra eod con 
+      <lb ed="#C" n="85"/>stitutus. Sed contra, absit enim ut ecclesia cum augmeni¬ 
+      <lb ed="#C" n="86"/>recipiat, quod de terrenis rebus videtur amittere, &amp; lucr¬ 
+      <lb ed="#C" n="87"/>pretiis quaerere. 12. 9. 2. fraternitas. solutio loquitur in po 
+      <lb ed="#C" n="88"/>nitentiali foro. nec obst. supra de censi. ex parte. quia loqui 
+      <lb ed="#C" n="89"/>tur in voto, cujus mensura incerta erat, &amp; ibi redditur ra 
+      <lb ed="#C" n="90"/>tio illius responsionis in litera. nec obsta. supra de dolo( 
+      <lb ed="#C" n="91"/>contumac. c. i. quia intelligitur, quando intra annum reu 
+      <lb ed="#C" n="92"/>offert cautionem de stando juri. nec obst. infra eod senten 
+      <lb ed="#C" n="93"/>tia. quia ibi pro majori parte satisfactum erat in sortem, 8 
+      <lb ed="#C" n="94"/>nihilominus poena insolidum petebatur, quod erat ini 
+      <lb ed="#C" n="95"/>quum: sed non denegatur quin pro rata peti possit. Ii 
+      <lb ed="#C" n="96"/>quo tamen dist. utrum sub poena promittatur id quod con 
+      <lb ed="#C" n="97"/>sistit in dando vel faciendo. Si in dando consistit, insoli 
+      <lb ed="#C" n="98"/>dum committitur: sed obst. doli exceptio, si solida poen¬ 
+      <lb ed="#C" n="99"/>petatur. ff. de verb. obl. l. 2. § sin si si quis cauti. si servum. § si plu 
+      <lb ed="#C" n="100"/>rium. &amp; sic intellige, infra eod. sententia. Si in faciendo, &amp; fa 
+      <lb ed="#C" n="101"/>ctum est individuum, tunc similiter committitur insoli 
+      <lb ed="#C" n="102"/>dum. ff fam. ercisc. haeredes. §. an ea ff. de verb. obl. stipulatrionum 
+      <lb ed="#C" n="103"/>§. fin. Si vero dividuum, tunc pro parte tantum commi¬ 
+      <lb ed="#C" n="104"/>titur poena. ffrem ratam haber. si procurator. &amp; hoc dist, ff. d 
+      <lb ed="#C" n="105"/>verb. obl. l. 4. §. Cato. Sed quidam dicunt indist. quod quand¬ 
+      <lb ed="#C" n="106"/>promissio in facto consistit, semper insolidum committi 
+      <lb ed="#C" n="107"/>tur poena, sed de aequitate non fit condemnatio nisi pro 
+      <lb ed="#C" n="108"/>parte. ff. de verb obl. in executionib. in princ. &amp; § pen ff. depositi. 
+      <lb ed="#C" n="109"/>duo haeredes. secundum Goffr. Tu dic de hac quaestione, u 
+      <lb ed="#C" n="110"/>not. supra de arbit. §. qualiter constituatur. sub §. sed mens. versic 
+      <lb ed="#C" n="111"/>sed nunquid religiosi. &amp; seq. Sed &amp; si quis episcopum inter 
+      <lb ed="#C" n="112"/>fecerit, bona propria applicanda sunt ecclesiae sponsae sua 
+      <lb ed="#C" n="113"/>17. qu. 4. siquis deinceps. multo fortius debet privari seudo 
+      <lb ed="#C" n="114"/>quod ab eadem ecclesia tenet, ita quod sibi vel successori 
+      <lb ed="#C" n="115"/>bus suis, subaudi usque ad quartum gradum, nec istud seu 
+      <lb ed="#C" n="116"/>dum restituatur, nec de novo aliud conferatur. quia poe 
+      <lb ed="#C" n="117"/>na mitior est, quam prima. sic intellige infra eod. ad aures 
+      <lb ed="#C" n="118"/>nam &amp; hodie quicunque clericum alicujus ecclesiae, ne 
+      <lb ed="#C" n="119"/>dum canonicum, rectorem, vel praelatum occidet, vel mu 
+      <lb ed="#C" n="120"/>tilare praesumpserit, omni jure, quod in eadem ecclesia 
+      <lb ed="#C" n="121"/>vel ab eadem ecclesia habet, vel tenet, privari debet, ita quo¬ 
+      <lb ed="#C" n="122"/>sua posteritas usque adquartum gradum in clericorum col 
+      <lb ed="#C" n="123"/>legium nullatenus admittatur, neque in domibus religio 
+      <lb ed="#C" n="124"/>sis praelationem aliquam assequatur. infr. eod in quibusdam 
+      <lb ed="#C" n="125"/>§. sacri, &amp; junge quod not. supra de injuriis, sub rub. de damn 
+      <lb ed="#C" n="126"/>dato §. quibus detur. vers. sed &amp; datur utilis, &amp; seq
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e1021">
+               <lb ed="#C" n="127"/>ILlud autem non est omittendum, quod cogitationi 
+      <lb ed="#C" n="128"/>poenam nemo meretur. f.de poenis. cogitationis. de poen. dist 
+      <lb ed="#C" n="129"/>i. cogitationis. super quo potes, si placeat, distinguere ii 
+      <lb ed="#C" n="130"/>hunc modum.
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e1033" n="9">
+      <!-- confusing why 9 is here and not at the beginning of the prev para -->
+      Cum quaeritur utrum cogitatio puniri 
+      <lb ed="#C" n="131"/>debeat, vel locus sit poenitentiae, refert utrum quaeratur di¬ 
+      <lb ed="#C" n="132"/>delictis, vel contractibus, &amp; utrum agatur in foro conten 
+      <lb ed="#C" n="133"/>tioso, vel poenitentiali. Si quaeritur de delictis, &amp; agatur ii 
+      <lb ed="#C" n="134"/>foro contentioso, aut voluntas stetit in suis finibus, &amp; no 
+      <lb ed="#C" n="135"/>est processum ad actum: &amp; sic nullam poenam meretur 
+      <lb ed="#C" n="136"/>ut in dictis legibus, cogitationis. fi defurtis siquis &amp; l.&amp; 
+      <lb ed="#C" n="137"/>inficiando ff. de acquir. poss. possideri. §. si tem apud te. nisi in casi 
+      <lb ed="#C" n="138"/>bus, sicut haeresis, supra de haeret. ad abolendam. &amp;c. excommu 
+      <lb ed="#C" n="139"/>nicamus. §. credentes. Item in crimine laesae majestatis. C. ad 
+      <lb ed="#C" n="140"/>Juliam majest. quisquis. &amp; in eo qui cogitavit fugientem di¬ 
+      <lb ed="#C" n="141"/>ecclesia extrahere: a C. dehis qui ad eccles. confuger. I sin. se 
+      <lb ed="#C" n="142"/>cundum Job. ibi, tamen processit ad actum. &amp; eodem mo 
+      <lb ed="#C" n="143"/>do potest intelligi praecedens. I. quisquis. Si vero volunta¬ 
+      <lb ed="#C" n="144"/>ad actum progreditur, &amp; actus perficitur, puniendus es 
+      <lb ed="#C" n="145"/>quantumcunque poeniteat: nemo enim inquit lex tali pec 
+      <lb ed="#C" n="146"/>cato poenitentia inductus innocens esse desinit. ff. de aedi¬ 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="147"/>ADDITIO 
+      <lb ed="#C" n="148"/>a Fugientem de ecclesia extrahere] Adde c.inter alia. de immu¬ 
+      <lb ed="#C" n="149"/>nis. eccle--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0791.xml-->
+      <pb ed="#C" n="774"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>edic. quid si fugitivus post princ f de furt qui ea mente. f. vi bono 
+      <lb ed="#C" n="2"/>rapto non prodest f. quod quisque jur. I 3. respons. . ff. de postul. l. 1. 
+      <lb ed="#C" n="3"/>bestias: nisi in casibus in quibus intra certa tempora poen 
+      <lb ed="#C" n="4"/>tentiae locus est f de serv. fug. I . §. 1. ff. de pu. &amp; vect. l.a. §. qui¬ 
+      <lb ed="#C" n="5"/>si fecerit. ff.quod met. cau. Item si cum exceptione §. satis clemen 
+      <lb ed="#C" n="6"/>ter. C. de crimin. stell. l.1. Quod si actus non perficiatur, &amp; i 
+      <lb ed="#C" n="7"/>qui processit ad actum ipsum perficere potuisset, sed no 
+      <lb ed="#C" n="8"/>luit, quia poenituit, non incidit in poenam, imo ei parcer 
+      <lb ed="#C" n="9"/>dum est f ad l. Corn. defalsqui falsam ff. de inju. item apud L. 
+      <lb ed="#C" n="10"/>beonem §. si curaverit. nisi mortem sibi consciverit, ubi pu 
+      <lb ed="#C" n="11"/>nitur conscientia criminis iam com missi. f. de bonis eo qu 
+      <lb ed="#C" n="12"/>mortem sibi conscir. l. 3. secundum Job. &amp; nisi in crimine la 
+      <lb ed="#C" n="13"/>sae majest. &amp; in illum qui molitus est de ecclesia extraher 
+      <lb ed="#C" n="14"/>fugientem, ut not. supra eod. versic. si quaeritur de delictis. Sii 
+      <lb ed="#C" n="15"/>autem ideo non perfecit actum: quia non potuit, lice 
+      <lb ed="#C" n="16"/>bene voluisset perficere, puniendus est, ac si fecisset. ff. a 
+      <lb ed="#C" n="17"/>legem Pomp. de parricidiis. l. im sin. ff. de re mil. I 3. §. 11qui. C. 
+      <lb ed="#C" n="18"/>quacunque praed potestat. I.i. C. de episcop. &amp; cleric. si quis non d 
+      <lb ed="#C" n="19"/>cam. C. defartis. si quis alieno. C. ad legem suliam de adult. eun 
+      <lb ed="#C" n="20"/>qui. C. de incest. nupt. qui contra. &amp; I. si quis incesti. C. de sepu 
+      <lb ed="#C" n="21"/>viola. l. i. ff. ad l. Corm de sals. si quis legatum ff ad legem Corn. 
+      <lb ed="#C" n="22"/>sicar. divus supra de big. nuper. &amp; c. a nobis. &amp; secundum ho 
+      <lb ed="#C" n="23"/>intellige, quod voluntas &amp; propositum distinguunt ma 
+      <lb ed="#C" n="24"/>leficia. ff. de furt. qui injuriae. infra de sentent. excommunic. cun 
+      <lb ed="#C" n="25"/>poluntate. 11. qu. 3 quod praedecessor. &amp; quod si quis gladiun 
+      <lb ed="#C" n="26"/>strinxerit, vel cum telo causa occidendi hominem ambul¬ 
+      <lb ed="#C" n="27"/>verit, ut homicida tenetur. f ad legem Cornel. de sicar. l. 1. 8 
+      <lb ed="#C" n="28"/>has leges pro magna parte canonizatas invenies. de poer 
+      <lb ed="#C" n="29"/>distinctio.1. si quis nondicam &amp; seq quas omnes intellige se 
+      <lb ed="#C" n="30"/>cundum praemissam dist. In contractibus, quod nihil ob 
+      <lb ed="#C" n="31"/>est, vel prodest cogitatio, nisi contractus perficiatur. f.d 
+      <lb ed="#C" n="32"/>condi. &amp; demonst. haec conditio. C. de fide instrum. contractus ne 
+      <lb ed="#C" n="33"/>prodest conatus sine effectu. supra de sponsa c sin. nec suff 
+      <lb ed="#C" n="34"/>cit gerere mente nisi exprimatur ore, ad hoc C. de condi. o 
+      <lb ed="#C" n="35"/>causam. si repetendi. ff. de verbor. obligat. quicquid astringenda 
+      <lb ed="#C" n="36"/>C. de nupt. Imperialis. §. sed &amp; sitalis. C. de act. &amp; obligat. siqu 
+      <lb ed="#C" n="37"/>dem donacionis causa. C. quod met causa. cum te ff. de auro &amp; ar 
+      <lb ed="#C" n="38"/>gent. leg. I2. f. de donat. l. 5. &amp; sin. &amp; leg. generaliter. f. dedot 
+      <lb ed="#C" n="39"/>praelega cum quis. §. 1 ff. de duobus re. deben. duos. Contracti 
+      <lb ed="#C" n="40"/>autem inito &amp; perfecto, locus est poenitentiae, si erat innomi 
+      <lb ed="#C" n="41"/>natus re integra, si non interest adversarii. ff. decondi, cau¬ 
+      <lb ed="#C" n="42"/>da si pecuniam. &amp; I. dedi. In nominato etiam gratia alteriu 
+      <lb ed="#C" n="43"/>tantum contractu locus est poenitentiae, respectu illius 
+      <lb ed="#C" n="44"/>cujus gratia est contractum. ff. deposi. l. I. §. penult. nisi fort 
+      <lb ed="#C" n="45"/>aliquis decipiatur, ut supra de procu manda &amp; cauditis supi 
+      <lb ed="#C" n="46"/>de rescript. ex parte decam. ubi etiam licet poenitere, valet i¬ 
+      <lb ed="#C" n="47"/>quod jam actum est, ut ibidem. &amp; argum. supra de restitur 
+      <lb ed="#C" n="48"/>spol. audita § pen. sed nec in praejudicium illius, cujus gra 
+      <lb ed="#C" n="49"/>tia habitus est contractus, paenitere licet, nisi ex causa. sup 
+      <lb ed="#C" n="50"/>commodan.c. unico. &amp; de locato. propter sterilitatem. C. de dona¬ 
+      <lb ed="#C" n="51"/>quae submo. perfecta donatio. C. de revoca donat. in fin. supra d 
+      <lb ed="#C" n="52"/>dona c sinal. In contractu vero habito gratia utriusque. no 
+      <lb ed="#C" n="53"/>est locus paenitentiae, nisi &amp; ambo, vel omnes, si plures sun 
+      <lb ed="#C" n="54"/>contrahentes paeniteant. C. de action. &amp; obligationib sicut in 
+      <lb ed="#C" n="55"/>initio. C. de contrahen. emption. non idcirco. &amp; secundum ho 
+      <lb ed="#C" n="56"/>etiam potest intelligi. supra de elect. in causis. §. sin. ubi per 
+      <lb ed="#C" n="57"/>fici intelligitur potestas data, ex quo hi, qui receperunt 
+      <lb ed="#C" n="58"/>incaeperunt ea uti. Ideoque cum res non esset integra, &amp; 
+      <lb ed="#C" n="59"/>gratia utriusque potestas concessa, postea non potuit re 
+      <lb ed="#C" n="60"/>vocari, ut ibi dicit. omnibus enim expediebat, ut cito pro 
+      <lb ed="#C" n="61"/>videretur ecclesiae, non quod differretur. supra de elect.n 
+      <lb ed="#C" n="62"/>pro defectu &amp;c. cum inter universas. Hoc in foro contenti¬ 
+      <lb ed="#C" n="63"/>so: nam in paenitentiali, sive in judicio, animae sola volun 
+      <lb ed="#C" n="64"/>tas punitur. ut patet de poen.dist. Ihomicidiorum. &amp; 5. casibu 
+      <lb ed="#C" n="65"/>ibi seq. &amp;c. super trib. 6. dist. testamentum. 32. q5. sicut enim &amp; 
+      <lb ed="#C" n="66"/>qui viderit. 8. q.i.sciendum. Deus enim non ex operib judi 
+      <lb ed="#C" n="67"/>cat. sed ex corde. 2295. qui pejerare. &amp; cor respicit, non mi 
+      <lb ed="#C" n="68"/>num. 14. qu.5. quod invenisti. &amp; ex corde b procedunt adul 
+      <lb ed="#C" n="69"/>teria, homicidia, &amp; caetera peccata. 159 6. c. 1ante medium ( 
+      <lb ed="#C" n="70"/>ad sin. talia enim cum latentia sint, Soli Deo, &amp; sacerdoti 
+      <lb ed="#C" n="71"/>ejus vicario, si confitetur, relinquimus vindicanda vel re 
+      <lb ed="#C" n="72"/>mittenda, sic intellige 3 2. dist crubescant 6 q4 1 si omnia. 32. q, 
+      <lb ed="#C" n="73"/>Christiana. imfi. de pem omnis quamvis &amp; intrinseca per extrin 
+      <lb ed="#C" n="74"/>seca? saepius praesumantur ad hoc 27 qu1 nec aliquam 31 9. 
+      <lb ed="#C" n="75"/>siper tun de corsecra dest , de paemitentib, 2&amp;. q5 nec solo quod in 
+      <lb ed="#C" n="76"/>telli gas de cogitatione deliberata, sci. ex quo quis consen 
+      <lb ed="#C" n="77"/>sit peccato faciendo, multo fortius si delectabilis sit, ut a 
+      <lb ed="#C" n="78"/>pan. dist. i. super tribus. Quid ergo de tentante? &amp; certe co 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0791.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>gitatio tentans, dummodo resistatur, in nullo punitur, se¬ 
+      <lb ed="#C" n="80"/>potius meretur, quia nec coronabitur, nisi qui legitim 
+      <lb ed="#C" n="81"/>certaverit, &amp; primi motus non sunt in potestate nostra, 8 
+      <lb ed="#C" n="82"/>Beatus qui tenebit, &amp; allidet parvulos suos ad petram, si¬ 
+      <lb ed="#C" n="83"/>etiam potest intelligi, de pon. dist.1. cogitationis, &amp; secundum 
+      <lb ed="#C" n="84"/>hoc consuevit exponi moraliter, quod legitur i. q. 4. §. con 
+      <lb ed="#C" n="85"/>tra. Sed &amp; quantumcunque quis ad actum processerit, &amp; 
+      <lb ed="#C" n="86"/>ipsum perfecerit: semper est locus poenitentiae in ho 
+      <lb ed="#C" n="87"/>mundo, quo ad Deum &amp; ecclesiam sponsam suam. de poen 
+      <lb ed="#C" n="88"/>dist. . si agmus panitentiam &amp; cap. seq poenitentes enim &amp; re 
+      <lb ed="#C" n="89"/>vertentes ad cor suscipit Deus, ut in auth. ut non luxu. con 
+      <lb ed="#C" n="90"/>tra naturan. circa princip. colla. 6. nec ecclesia alicui claudii 
+      <lb ed="#C" n="91"/>gremium suum. C. de sum. Trin.I. sin §. penul. Iquaest. 4. si qui 
+      <lb ed="#C" n="92"/>ommem. 
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e1284" n="10">
+               <lb ed="#C" n="93"/>Quando sunt inserendae. Causa diligenter 
+      <lb ed="#C" n="94"/>examinata lite 
+      <lb ed="#C" n="95"/>contesta in confessum vel convictum ferenda est senten 
+      <lb ed="#C" n="96"/>tia, non aliter supra de const. eccle. in fin. 2. q. 1. nos in quenqueam 
+      <lb ed="#C" n="97"/>lite vero non contestata punitur secundum leges pecu 
+      <lb ed="#C" n="98"/>nialiter, vel poena imponitur, quae aestimationem contin 
+      <lb ed="#C" n="99"/>git, &amp; potest procedi usque ad relegationem, in accusato 
+      <lb ed="#C" n="100"/>rem autem nunquam gravius procedunt, quam poeni 
+      <lb ed="#C" n="101"/>Turpiliani contineat, sed nec debet aliquis suspicionibus 
+      <lb ed="#C" n="102"/>condemnari, quia tutius est delinquentem absolvere, quam 
+      <lb ed="#C" n="103"/>innocentem condemnare. ff. eod. absentem. &amp; in criminali 
+      <lb ed="#C" n="104"/>bus probationes luce clariores exiguntur. C. de probat sciae 
+      <lb ed="#C" n="105"/>C. de fals. ubi. &amp; 5. qu 6 c. Epihanium. sed &amp; quandoque prae 
+      <lb ed="#C" n="106"/>sumptiones sufficiunt, ut not. supra de adul. § qualiter in ac 
+      <lb ed="#C" n="107"/>cusatione. ante fin. vers. plurimumque tamen. &amp; seq. &amp; jung 
+      <lb ed="#C" n="108"/>quod not. supra de accus. § qualiter procedatur, sub §. oblato li 
+      <lb ed="#C" n="109"/>bello versic. sin autem negaperii 
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e1323" n="11">
+               <lb ed="#C" n="110"/>A quibus &amp; ex quibus ausis enenuentur 
+      <lb ed="#C" n="111"/>Et quidem a 
+      majo<lb ed="#C" n="112" break="no"/>ribus judicibus de causa cognoscentibus extenuantur es 
+      <lb ed="#C" n="113"/>causis. Primo, propter aetatem. supr. de delict puer c...m prin 
+      <lb ed="#C" n="114"/>Secundo, propter violentiam absolutam sup quod met car 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="115"/>ADDITIONES. 
+      <lb ed="#C" n="116"/>b Ex corde] Adde originaliter. Math I 
+      <lb ed="#C" n="117"/>c Per extrinseca] Adde gloss. in 5. cervos. Inst. de re. di. glo. in e&amp; 
+    </p>
+    <p>
+      <lb ed="#C" n="118"/>quaestiones. de simon. Docter. in c. I de cler. non resid. Lis qui. in §. di 
+      <lb ed="#C" n="119"/>vus. ff. de acque rer. dem I.naturalem, in §. in his ff. de aedil ed ci 
+      <lb ed="#C" n="120"/>d Nemini absurdum (puto) videbitur sihuc ex Marti. Rubri 
+    </p>
+    <p>
+      <lb ed="#C" n="121"/>cellam, quando in totum, vel in parte committatur poena re 
+      <lb ed="#C" n="122"/>feramus, Poena (inquit) in totum committitur, licet in part 
+      <lb ed="#C" n="123"/>sit satisfactum illud, quod est sub poena promissum, quand 
+      <lb ed="#C" n="124"/>hujusmodi promissum stetit in dando; el etiam in faciendo 
+      <lb ed="#C" n="125"/>si est individuum, quia in his duobus poena committitur i 
+      <lb ed="#C" n="126"/>totum. ff. famil. erciscun. Lhaeredes. §. in illa. Sed quando promi 
+      <lb ed="#C" n="127"/>sum consistit in dando, dicunt, quod opposita exception 
+      <lb ed="#C" n="128"/>repellitur a poena pro rata solutae partis, alias vero poenan 
+      <lb ed="#C" n="129"/>remisisse videtur creditor eo, quod sortem accepit. ff. de e 
+      <lb ed="#C" n="130"/>quod cer. loco I. fin. extra, de ponis, suam. Item posna recepta, qua 
+      <lb ed="#C" n="131"/>tuit apposita, in contractu, non potesi peti postea: nisi appo 
+      <lb ed="#C" n="132"/>natur in compromisso, quod poena soluta arbitrio stetur: e¬ 
+      <lb ed="#C" n="133"/>tra, de arbiur. dilecti ff. cod. l.2. Tametsi vero Hostiens. per quem 
+      <lb ed="#C" n="134"/>irroganda sit poena, edifferat, multos tamen casus ab eodem 
+      <lb ed="#C" n="135"/>praetermissos supplete ex Martino non verebimur. Poen¬ 
+      <lb ed="#C" n="136"/>(inquit) non est inferenda, nisi per judicem vel ejus autho 
+      <lb ed="#C" n="137"/>ritate. 33. 9. 2. §. in hor. In sponsalibus poena apponi non debet 
+      <lb ed="#C" n="138"/>si apponatur, peti non potest. C. de sponsa.I sin &amp; destons Gem 
+      <lb ed="#C" n="139"/>ma. mulier. Item poenam pecuniariam a jure constitutam 
+      <lb ed="#C" n="140"/>pro aliquo crimine infligere potest quilibet judex, quico 
+      <lb ed="#C" n="141"/>gnoscit de crimine illo ff. de indic. l. §. ulti. Poenam vero cor 
+      <lb ed="#C" n="142"/>poralem, vel spiritualem constitutam a jure in aliquo crimi 
+      <lb ed="#C" n="143"/>ne judex in aliam poenam commutare non potest, sed cum 
+      <lb ed="#C" n="144"/>de poena criminis agitur, an pecuniaria, an non, &amp; nihil is 
+      <lb ed="#C" n="145"/>jure cavetur, tunc secundum arbitrium judicis, debet illa in 
+      <lb ed="#C" n="146"/>fligi, quae magis conveniens videtur. extra, de panis licet. &amp; d 
+      <lb ed="#C" n="147"/>offic. delegat. in causis. Toenae autem non sunt ampliandae, sec 
+      <lb ed="#C" n="148"/>potius minuendae. extra, de verb. signis cap. cum in parti bus. Qu 
+      <lb ed="#C" n="149"/>calumniaturin pecuniariis causis, victori victus in expensi 
+      <lb ed="#C" n="150"/>condemnatur, postquam apparet de calumnia, extra, de poenis 
+      <lb ed="#C" n="151"/>calumniam. Corporales autem poenas imponere possunt or 
+      <lb ed="#C" n="152"/>dinarii inferiores ab episcopo, ut extra, de appella dilectus. pe 
+      <lb ed="#C" n="153"/>cuniarias autem imponere potest ordinarius. ff de indic 12. 8 
+      <lb ed="#C" n="154"/>de receptis arbis. I. non ex emnibus. Poena autem &amp; mulcta diffe 
+      <lb ed="#C" n="155"/>runt, poena est certa, &amp; ajure inducta: mulcta, quae ajudic 
+      <lb ed="#C" n="156"/>per sententiam irrogatur, &amp; a poena non appellatur, amul 
+      <lb ed="#C" n="157"/>cta vero sic. fi. de verbor. significa.I si qua pona. Mart--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0792.xml-->
+      <pb ed="#C" n="775"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>sacris 50. dist. ponderet. 32. qu. 5. proposito virginali. Tertio, pro 
+      <lb ed="#C" n="2"/>pter ignorantiam. 34. q. 1. cum perbellicam. &amp; qu. 2.in lectum 
+      <lb ed="#C" n="3"/>supra de cler excomm Apostolicae. Quarto, propter extreman 
+      <lb ed="#C" n="4"/>necessitatem. supra defur. si quis propter necessitatem supra d 
+      <lb ed="#C" n="5"/>homi. interfecisti. Quinto, propter divinam revelationem 
+      <lb ed="#C" n="6"/>supra de divor. gaudemus. Sexto, generaliter propter quan 
+      <lb ed="#C" n="7"/>libet justam causam. fi. qui satisda, cogn. I r supra de pig signis 
+      <lb ed="#C" n="8"/>cante. sup. de jurejur. brevi 15. q. §. ut itaque ebrietas. 15. q. 2. sane. 
+      <lb ed="#C" n="9"/>c. inebriaverunt ff.de offic. praesid. divus. &amp; de hoc not. supra d 
+      <lb ed="#C" n="10"/>accu. § quis sit effectus versi. verum 
+    </p>
+            <p xml:id="nbht7y-d1e2093-d1e1366">
+               <lb ed="#C" n="11"/>IN poenis etiam infligendis consideratur nobilitas. 244 
+      <lb ed="#C" n="12"/>i. qui contra pacem. infra eodc. fin. Dignitas. sup. de offi deles 
+      <lb ed="#C" n="13"/>sme. &amp; c. pastoralis. 2q. 7. quisquis. 45. dist. cum beatus. Divers 
+      <lb ed="#C" n="14"/>qualitas ff. eod in servorum Ordso. dist. contumaces. Aetas. suj 
+      <lb ed="#C" n="15"/>ae delict. pue.ca.1. in sfi. &amp; c. 2. Metus. supra quot met. cau. sacri 
+      <lb ed="#C" n="16"/>50. distinct presbyteros. Insania. 15. q. 1. si quis insaniens. Qual 
+      <lb ed="#C" n="17"/>tas delicti, aliter enim punitur vis publica, quam privata 
+      <lb ed="#C" n="18"/>furtum manifestum, quam non manifestum. ff. devi pul 
+      <lb ed="#C" n="19"/>vel priva per totum. &amp; no. supra de fur § &amp; in quantum. versi. 
+      <lb ed="#C" n="20"/>&amp; 2. &amp; sequ. Qualitas, tempus, locus, &amp; eventus, ff. eod. au 
+      <lb ed="#C" n="21"/>facta Multitudo delinquentium. 50. dis. ut constitueretur 
+      <lb ed="#C" n="22"/>supra de cler excomm. mini. latores &amp; junge quod no supra d 
+      <lb ed="#C" n="23"/>accu. §. quis sit effectus &amp; dic ut ibi no 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

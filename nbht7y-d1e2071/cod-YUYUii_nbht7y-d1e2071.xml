@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 35</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 35</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="762"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e2071"><!-- nbht7y-l5t35 -->
+            <head xml:id="nbht7y-d1e2071-Hd1e101">Titulus 35</head>
+            <head xml:id="nbht7y-d1e2071-Hd1e103" type="question-title">De purgatione vulgari</head>
+            <p xml:id="nbht7y-d1e2071-d1e106">
+               <lb ed="#C" n="87"/>De Purgatione vulgari Ru¬ 
+      <lb ed="#C" n="88"/>brica XXXV 
+    </p>
+            <p xml:id="nbht7y-d1e2071-d1e113">
+               <lb ed="#C" n="89"/>SUMMARIA 
+      <lb ed="#C" n="90"/>I. Purgatio vulgaris quae sit. Et quare sit prohibitaa 
+      <lb ed="#C" n="91"/>3. Sententia quae insurgit ex purgatione vulgari, an valeatri 
+      <lb ed="#C" n="92"/>tracterr 
+    </p>
+            <p xml:id="nbht7y-d1e2071-d1e124">
+               <lb ed="#C" n="93"/>DIximus supra de purgatione cano 
+      <lb ed="#C" n="94"/>nica: nunc dicendun 
+      <lb ed="#C" n="95"/>est de vulgari. Quid sit vulgaris purgatio 
+      <lb ed="#C" n="96"/>Quare sit prohibita An sententia, quae ex ta 
+      <lb ed="#C" n="97"/>li purgatione consurgit, valeat retractari
+    </p>
+            <p xml:id="nbht7y-d1e2071-d1e138">
+               <lb ed="#C" n="98"/>Quid sit vulgaris purgatio Quidam qua 
+      <lb ed="#C" n="99"/>sibi vulgus invenit, vel se¬ 
+      <lb ed="#C" n="100"/>quitur canonice reprobata probatio: ut sup. ne cle. vel mor 
+      <lb ed="#C" n="101"/>sententia, ut apparet ex seque sicut est duellum, purgatioa 
+      <lb ed="#C" n="102"/>quae frigidae, ferri candentis, casei benedicti, &amp; similia: u 
+      <lb ed="#C" n="103"/>infra per totum 2. quaestio.5. monomachiam. Menam, consuluisti 
+      <lb ed="#C" n="104"/>&amp; quae dicuntur judicia peregrina, ut supratitul prim &amp; 
+      <lb ed="#C" n="105"/>tuarum 
+    </p>
+            <p xml:id="nbht7y-d1e2071-d1e158">
+               <lb ed="#C" n="106"/>Quare sit prohibita, Multiplex estratio, qui¬ 
+      <lb ed="#C" n="107"/>inventa fuit diabolo fa 
+      <lb ed="#C" n="108"/>bricante. 2. q. 2. Mennam, &amp; capit consuluisti. Secundo, qui 
+      <lb ed="#C" n="109"/>Deus pet eam tentare videtur, infr. eo c fi. Sed quandiu ha 
+      <lb ed="#C" n="110"/>bet homo aliud quod faciat, Dominum tentare non debet 
+      <lb ed="#C" n="111"/>22.4. 2. quaeritur, cur patriarcha 23. q. sui. si nulla. Tertia, quia pe 
+      <lb ed="#C" n="112"/>eam is, qui in nulla culpa est, saepe punitur: ut infra eoden 
+      <lb ed="#C" n="113"/>significantibus, quod est satis perversum. 66. distin. satis perrer 
+      <lb ed="#C" n="114"/>sum, supra de constitic. nec etiam officium athletarum, secum 
+      <lb ed="#C" n="115"/>dum leges, locum habet C. degladiato. I.unica. lib. 1. C. de act 
+      <lb ed="#C" n="116"/>&amp; oblig negantes, licet sit argument. contra ff. ad leg. Aquili 
+      <lb ed="#C" n="117"/>qua actione §si quis in colluctatione, nec obst. quod de Goli 
+      <lb ed="#C" n="118"/>ath &amp; David posset opponi, quia illud fuit factum ordi 
+      <lb ed="#C" n="119"/>natione divina, &amp; ideo David excusatur. 2. quaestio quna 
+      <lb ed="#C" n="120"/>Mennam. sicut &amp; Petrus, qui geminum commisit homi 
+      <lb ed="#C" n="121"/>cidium, 24. quaestio. ultim. occidit, &amp; patriarchae plures u 
+      <lb ed="#C" n="122"/>xores habentes, sup. de divor. gaudemus, specialia enim not 
+      <lb ed="#C" n="123"/>sunt trahenda ad consequentiam, supra de concessio. praeb. cor 
+      <lb ed="#C" n="124"/>stitutus ad fi. 
+    </p>
+            <p xml:id="nbht7y-d1e2071-d1e202" n="3">
+               <lb ed="#C" n="125"/>An sententia vaeex tuli porgatione insurgit. 
+      <lb ed="#C" n="126"/>valeat retractari? Non videtur 
+      <lb ed="#C" n="127"/>quia si non appelletur, in rem transit judicatam, licet ali 
+      <lb ed="#C" n="128"/>ter se habeat veritas, supra de sent. &amp; rejudic cum inter vor 
+      <lb ed="#C" n="129"/>&amp; per ea quae postea emergunt, sententia non retractatur 
+      <lb ed="#C" n="130"/>supra de sentent. &amp; re sud inter monasterium, &amp; cap sequent ne 
+      <lb ed="#C" n="131"/>error detectus sententiam retractat ff famil. ercisc. tum puta 
+      <lb ed="#C" n="132"/>rem. C. de condit. indebi leg. 1. Contrarium tamen tenendun 
+      <lb ed="#C" n="133"/>est: nam errore detecto, tractabitur, ut expressum habetu 
+      <lb ed="#C" n="134"/>iufra eodem signisic. nisi judex sicut ex officio processerat, &amp; 
+      <lb ed="#C" n="135"/>condemnaverat, sic errore manifeste detecto, eodem 
+      <lb ed="#C" n="136"/>officio retractare potest, sicut &amp; interlocuroriam ex offi 
+      <lb ed="#C" n="137"/>cio retractat: etiam decem diebus elapsis, quod dic, ut no 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="138"/>ADDITIONES 
+      <lb ed="#C" n="139"/>a Quid sit vulgaris purgatio. JAdde doct. in rub. ec.ti 
+      <lb ed="#C" n="140"/>b Vulgaris quoque purgatio, quae a vulgo inventa est, ut puti 
+    </p>
+    <p>
+      <lb ed="#C" n="141"/>ferri candentis, aquae ferventis, vel frigidae, panis, casei, mo 
+      <lb ed="#C" n="142"/>nomachiae, duelli, &amp; similium, de quibus extra, eodem titul. pe 
+      <lb ed="#C" n="143"/>totum, &amp; 2. 9.5. monomachia, &amp; cap. consuluisti non valet, nec fi¬ 
+      <lb ed="#C" n="144"/>dem facit, sed est penitus reprobata, de purg. can. ca. extuamm 
+      <lb ed="#C" n="145"/>Et sententia ex purgatione lata nullius est momenti, tanqua 
+      <lb ed="#C" n="146"/>lat a contra solitum judiciorum ordinem. C. de sentent. &amp; inter 
+      <lb ed="#C" n="147"/>lo. omn. iud. Vnde retractanda est veritate comperta. ff. da con¬ 
+      <lb ed="#C" n="148"/>sine causa, l. si full¬--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0780.xml-->
+      <pb ed="#C" n="763"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>supra de sentent. &amp; rejudic. sub rubric. de sententia, §. quot sint 
+      <lb ed="#C" n="2"/>jus species, persic. non tamen transit, quinimo &amp; si jure ordin¬ 
+      <lb ed="#C" n="3"/>rio lata sit, nihilominus retractari potest: cum sit lata con 
+      <lb ed="#C" n="4"/>trajus scriptum, &amp; ideo nulla est, 2, quaest. 6 § diffinitiva, ver 
+      <lb ed="#C" n="5"/>sicul si sententia. C. de sentent. &amp; interloc. omnin judic. prolatan 
+      <lb ed="#C" n="6"/>quod dic, ut notat supra de sentent, &amp; re judic. sub rubric. 
+      <lb ed="#C" n="7"/>quot sint ejus species, sub s. diffinitiva, nam &amp; propter delictum 
+      <lb ed="#C" n="8"/>adversarii aliquando retractatur, supra de divort. ex literi¬ 
+      <lb ed="#C" n="9"/>secundum Bff de jurejur. admonendi. C. de transact si ex falsi 
+      <lb ed="#C" n="10"/>in hoc enim casu detecto errore, apparet, quod sententi 
+      <lb ed="#C" n="11"/>falsa &amp; nulla lata fuerit authoritate nullius, seu falsae &amp; re 
+      <lb ed="#C" n="12"/>probatae probationis, sic ergo utroque jure est meritor¬ 
+      <lb ed="#C" n="13"/>tractanda, secundum Job. supra de except. cum venerabilis 
+      <lb ed="#C" n="14"/>int. lleximus. C. de fal. quaerela; sententia etenim propter er 
+      <lb ed="#C" n="15"/>rorem probabilem retractatur. 33. quaestio. I. capit. 2. supra d 
+      <lb ed="#C" n="16"/>frigidi. fraternitatis. ff. de conditio sine causa, si fullo. ff. quand 
+      <lb ed="#C" n="17"/>act de peculio annalis est, leg. 1. § sin. alias est leg. 2 f de jurejur. ad 
+      <lb ed="#C" n="18"/>monendi. 35. quaestio. nona sententiam, &amp; capit. grave, quod di¬ 
+      <lb ed="#C" n="19"/>ut supra notat. de sentent. &amp; re judic. sub rubric. de sententia, par¬ 
+      <lb ed="#C" n="20"/>grapno quot sint ejus species, sub §. sed nunquid est de hoc simplici 
+      <lb ed="#C" n="21"/>ter verum, versic. sed quid si post sententiam, si vis scire, quid si 
+      <lb ed="#C" n="22"/>duellum, quid monomachia, &amp; alia quae in hoc tit. def 
+      <lb ed="#C" n="23"/>ciunt, vide &amp; junge quod notat supra de cleric pug. in duello, 
+      <lb ed="#C" n="24"/>per totum 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

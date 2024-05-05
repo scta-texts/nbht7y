@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 9</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 9</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="587"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1540"><!-- nbht7y-l4t9 -->
+            <head xml:id="nbht7y-d1e1540-Hd1e101">Titulus 9</head>
+            <head xml:id="nbht7y-d1e1540-Hd1e103" type="question-title">De conjugio servorum</head>
+            <p xml:id="nbht7y-d1e1540-d1e106">
+               <lb ed="#C" n="85"/>De Conjugio servorum. Rubri¬ 
+      <lb ed="#C" n="86"/>ca. IX. 
+    </p>
+            <p xml:id="nbht7y-d1e1540-d1e113">
+               <lb ed="#C" n="87"/>SUMMARIA. 
+      <lb ed="#C" n="88"/>I. Servus an possit contrahere matrimonium 
+      <lb ed="#C" n="89"/>2. Etcumqu. 
+      <lb ed="#C" n="90"/>3. Consensus domini an requiratur in matrimonio contrahind 
+      <lb ed="#C" n="91"/>per servum 
+      <lb ed="#C" n="92"/>4. Servus si contraxit invito domino, &amp; dominus petat debiti 
+      <lb ed="#C" n="93"/>serritium, uxor eodem tempore exigit debitum conjuga 
+      <lb ed="#C" n="94"/>le, cui teneatur obedire 
+      <lb ed="#C" n="95"/>5. Dominus si rult vendere servum suum uxoratum alicui, qui 
+      <lb ed="#C" n="96"/>vult eum ducere ad parts remotas, an pess ii 
+      <lb ed="#C" n="97"/>6. Matrimonium a servo contractum, an possit sparari 
+      <lb ed="#C" n="98"/>7. Errores suntquatuor 
+      <lb ed="#C" n="99"/>8. Serrus si petii divortium celebrari, libera contradicente, quii 
+      <lb ed="#C" n="100"/>9. Partus an sequutur patrem, si quis contrahit cum filia ferv 
+      <lb ed="#C" n="101"/>&amp; libera 
+      <lb ed="#C" n="102"/>10. Liber si contraxit cum ancilla, ignorans ejus conditionem, 
+      <lb ed="#C" n="103"/>&amp; conditione illius derecta, consentit in ipsam, antenea 
+      <lb ed="#C" n="104"/>matrimonium 
+    </p>
+            <p xml:id="nbht7y-d1e1540-d1e155">
+               <lb ed="#C" n="105"/>DIctum est supra de matrimonio in 
+      ge<lb ed="#C" n="106" break="no"/>nere, nunc in specie, vel sic 
+      <lb ed="#C" n="107"/>Diximus de impedimento leprae, quae solvi 
+      <lb ed="#C" n="108"/>sponsalia, sequitur de impedimento 
+      condi<lb ed="#C" n="109" break="no"/>tionis hoiminis, nam hoc modo conditio 
+      ap<lb ed="#C" n="110" break="no"/>ponitur ut notat supra de condi. appo inprinc. &amp; sic dicamus 
+      <lb ed="#C" n="111"/>de conjugio servorum, videntes, An servus possit contra 
+      <lb ed="#C" n="112"/>here matrimonium. Et cum qua. Et an consensus domin 
+      <lb ed="#C" n="113"/>requiratur. Et an matrimonium a servo contractum se 
+      <lb ed="#C" n="114"/>parari possit 
+    </p>
+            <p xml:id="nbht7y-d1e1540-d1e180">
+               <lb ed="#C" n="115"/>An servus possit contrahere matrimonium. Et 
+      <lb ed="#C" n="116"/>quidem secundum tanquam, nam copu¬ 
+      <lb ed="#C" n="117"/>lationes servorum contubernia vocat, non nuptias: ut C. de in 
+      <lb ed="#C" n="118"/>ce nup. &amp; inut &amp; in ancillis &amp; idem dicit decr. de nuptiis a sa 
+      <lb ed="#C" n="119"/>cerdotib. de facto contractis: vel his qui in sacris sunt, sup 
+      <lb ed="#C" n="120"/>de cle conju sane /acerdotes, sed licet lex humana ita dicat de 
+      <lb ed="#C" n="121"/>servis, non approbat haec lex divina, servus n. a sacramentis 
+      <lb ed="#C" n="122"/>ecclesiae, quae causa suscipientis conferuntur, ut est baptis 
+      <lb ed="#C" n="123"/>mus, confirmatio, eucharistia, penitentia, non arcetur: quis 
+      <lb ed="#C" n="124"/>nec ullus fidelis, ar. inf de poe &amp; re. omnis, &amp; . quI. §si ergo sacra 
+      <lb ed="#C" n="125"/>menta. &amp; S ecce si clericus, quare &amp; matrimonium contraher¬ 
+      <lb ed="#C" n="126"/>potest: quia quantum ad Dei cultum, non est masculus, neque 
+      <lb ed="#C" n="127"/>faemina, neque liber, neque servus, omnes enim in Christo e 
+      <lb ed="#C" n="128"/>andem mercedem accipiemus: ut inf. eoci&amp; nauth de mo 
+      <lb ed="#C" n="129"/>na. §hinc autem vobis, col.i. est enim hoc edictum prohibito 
+      <lb ed="#C" n="130"/>rium, ut dixi sup tit i. ver.i &amp; intelligas prohibitorium, qui 
+      <lb ed="#C" n="131"/>adjus canonicum, non civile, utrum autem possit ad or 
+      <lb ed="#C" n="132"/>dines promoveri, dic ut notat, sup. de serv. non ordi. Squalite 
+      <lb ed="#C" n="133"/>posssit servus ad ordines perventri
+    </p>
+            <p xml:id="nbht7y-d1e1540-d1e224">
+               <lb ed="#C" n="134"/>Et cum qua Cum serva seu ancilla: hoc planum est, ut 
+      <lb ed="#C" n="135"/>infr.i. &amp; 28.q. ..dictum, potest &amp; cum libera set 
+      <lb ed="#C" n="136"/>ingenua: ut infc. 23 &amp; 4 &amp; 38q. 2 si quis ingenuus, quod in 
+      <lb ed="#C" n="137"/>telligas. quando liber, seu ingenuus scienter contrahit ci 
+      <lb ed="#C" n="138"/>serva, nam si in conditione erraret, nullum esset matrimo 
+      <lb ed="#C" n="139"/>nium: ut statim dicam infra S &amp; an matrimonium
+    </p>
+            <p xml:id="nbht7y-d1e1540-d1e240">
+               <lb ed="#C" n="140"/>Et an consensus domini requiratur Dicas quod 
+      <lb ed="#C" n="141"/>non: sicut nec in aliis sacramentis 
+      <lb ed="#C" n="142"/>de quib. dixi sup. eo. §1. ergo etiam domino contradicente 
+      con<lb ed="#C" n="143" break="no"/>trahere potest fervus: veruntamen non debet dominus 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="144"/>ADDITIO 
+      <lb ed="#C" n="145"/>a An servus possit contrahere matrimonium. JAdde Spe. eo tit &amp; 
+    </p>
+    <p>
+      <lb ed="#C" n="146"/>an possit contrahere sine licentia domini, vide gl. in c. 1. 30. qu 
+      <lb ed="#C" n="147"/>4. can. sanctum 36. q. 4. &amp; inc.I. &amp; ibi doct. de coniug. server.--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0605.xml-->
+      <pb ed="#C" n="588"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>servitiis debitis defraudari: ut nfr. c. 1. unde cum partus se 
+      <lb ed="#C" n="2"/>quatur ventrem, ut statim dicam, inf.ti.a. efficietur partu 
+      <lb ed="#C" n="3"/>ancillae uxoratae ejusdem domini, cujus erat ancilla: qu 
+      <lb ed="#C" n="4"/>cumque fuerit pater, sive liber, sive servus. utff. desta. ho. &amp; servo 
+      <lb ed="#C" n="5"/>rum nisi consuetudo terrae contrarium operetur, ut inf. e 
+      <lb ed="#C" n="6"/>c. licet, &amp; sup de servis non ord.c. ult. vel l. Lombarda, quod di 
+      <lb ed="#C" n="7"/>ut no. in summa ejusdem tit, sup. de servis non ordi. Squid sil 
+      <lb ed="#C" n="8"/>bertas. Utrum, si dominus ancillam suam dotem conscribi 
+      <lb ed="#C" n="9"/>do, quod in liberis tantum mulieribus fieri consuevit, ve 
+      <lb ed="#C" n="10"/>tanquam liberam tradiderit alicui in uxorem: vel scien 
+      <lb ed="#C" n="11"/>eam duci a libero homine taceat ex studio, dominium e 
+      <lb ed="#C" n="12"/>jus amittit, &amp; mulier eripitur in libertatem. Idem est d 
+      <lb ed="#C" n="13"/>servo, si sciente, vel tacente domino suo, cum libera cor 
+      <lb ed="#C" n="14"/>trahat, ut in authentic. ut liberti de caetero, § sed &amp; si quis, col¬ 
+      <lb ed="#C" n="15"/>latio 6. in authentic. de nupt. §si vero ab initio, collat 4. C. de Lat 
+      <lb ed="#C" n="16"/>na liber. to. leg. unica § sed &amp; si quis.* Quid si dominus sei 
+      <lb ed="#C" n="17"/>vi, qui eo invito contraxit, petat ab eo sibi exhiberi debit 
+      <lb ed="#C" n="18"/>servitium, &amp; uxor eodem tempore exigit debitum cor 
+      <lb ed="#C" n="19"/>jugale? Dic si domino paretur grave praejudicium: ut 
+      <lb ed="#C" n="20"/>inimici ipsum dominum aggrediantur, in hoc enim casi 
+      <lb ed="#C" n="21"/>potius debet domino servus obedire, quam uxori nimi 
+      <lb ed="#C" n="22"/>importunae: ut ar. f. ad Sill. se con si quis in gravi §sicut omnes 
+      <lb ed="#C" n="23"/>alias teneretur dominus modicum expectare, quam cit¬ 
+      <lb ed="#C" n="24"/>poterit obedire, &amp; in mora modici temporis non est me 
+      <lb ed="#C" n="25"/>ximum dannum. ff dejud. si debitoris, &amp; Apostolus praecepi 
+      <lb ed="#C" n="26"/>debitum reddi, ut sup. tit. I.c. 1. est ergo Domino redempto 
+      <lb ed="#C" n="27"/>ri magis obediendum, quam homini. 11. 93. qui resistit, qua 
+      <lb ed="#C" n="28"/>re &amp; domino humano invito servus ad servorum Dei po 
+      <lb ed="#C" n="29"/>test accedere absolvendus nisi in fraudem fecerit, sive con 
+      <lb ed="#C" n="30"/>miserit id, propter quod excommunicatus est dominus 
+      <lb ed="#C" n="31"/>ut debito servitio defraudetur: vel dominus sine culpa su¬ 
+      <lb ed="#C" n="32"/>magnum ex hoc incurreret detrimentum, ut inf. de sen excon.vi 
+      <lb ed="#C" n="33"/>latum In hac tamen quaestione dicunt aliqui, quod adin 
+      <lb ed="#C" n="34"/>vicem se impediunt ff de usufr Iquoties. Alii, quod domini 
+      <lb ed="#C" n="35"/>semper obediendum est, quia transivit servus cum onere suo 
+      <lb ed="#C" n="36"/>nisi forte timeatur de adulterio, vide super hoc quod no 
+      <lb ed="#C" n="37"/>sup de spo. sub rub. de mat. Squis sit effectus, ver. est etiam, &amp; sequ 
+      <lb ed="#C" n="38"/>Alii distinguunt: utrum servus sciente domino contraxe 
+      <lb ed="#C" n="39"/>rit: &amp; tunc tenetur reddere debitum: vel eo ignorante, &amp; 
+      <lb ed="#C" n="40"/>tunc est domino obediendum, nisi adulterium imminea 
+      <lb ed="#C" n="41"/>arg. 63. dist si serrus sciente.* Quid si dominus vult vender 
+      <lb ed="#C" n="42"/>servum suum uxoratum alicui, qui ad remotas partes eun 
+      <lb ed="#C" n="43"/>ducere vult, nunquid potest? dicunt quidam, quod sic, 
+      <lb ed="#C" n="44"/>uxor debet eum sequi, sicut&amp; virum leprosum: ut non sup. ti 
+      <lb ed="#C" n="45"/>I. ver debet ergo uxo. verius videtur, quod hoc non possit face 
+      <lb ed="#C" n="46"/>re dominus: nec eum transferre de una terra ad aliam, matri 
+      <lb ed="#C" n="47"/>monium.n.rite contractum. nec potestate dominica, nec pa 
+      <lb ed="#C" n="48"/>tria, vel vi conditionis appositae in legato dirimendum est, u 
+      <lb ed="#C" n="49"/>C. communia utriusque judicii possessiones, &amp; 54. dist fraternitati 
+      <lb ed="#C" n="50"/>infra qui mat accus. posses. significante. C. de in offic. test filia &amp; a 
+      <lb ed="#C" n="51"/>institut &amp; substi. reprehendenda, &amp; de condit. mser. cum testati 
+      <lb ed="#C" n="52"/>rem, &amp; ff. de lib. exhibit. leg 3. &amp; supra de spon non est vobis, ne 
+      <lb ed="#C" n="53"/>obstat. C. mandati in re &amp; dejudic. nemo exterius, ubi dicitus 
+      <lb ed="#C" n="54"/>quod cuilibet committenda sua sunt: quia expedit reipu 
+      <lb ed="#C" n="55"/>blicae, ne quis re sua male utatur: ut Institut. dehis qui su 
+      <lb ed="#C" n="56"/>vel alieni juris sunt, § penultim. &amp; ff. de his qui sui vel alie 
+      <lb ed="#C" n="57"/>juris sunt, leg si dominus, unde si Judex ecclesiasticus ad de 
+      <lb ed="#C" n="58"/>nunciationem ipsius servi, &amp; ipsum dominum ex offici 
+      <lb ed="#C" n="59"/>suo compescere potest, argument. ff. de ossic. praefect. un 
+      <lb ed="#C" n="60"/>leg. 1§quod autem. Argumentum habes ex superioribus, quoc 
+      <lb ed="#C" n="61"/>si aliqua mulier ex hoc pacto seu conditione, vel mod 
+      <lb ed="#C" n="62"/>detur alicui in uxorem, quod debeant simul semper mo 
+      <lb ed="#C" n="63"/>rari, &amp; in certo loco, forte in domo amicorum ipsiu 
+      <lb ed="#C" n="64"/>mulieris, pactum servandum est, &amp; argumentum in hi 
+      <lb ed="#C" n="65"/>quae notatur supra de condit. appositis. Squae conditio. versicul. 
+      <lb ed="#C" n="66"/>ver de conditionibus. In traditione enim rei suae, potest qui 
+      <lb ed="#C" n="67"/>libet quod vult pactum apponere, ff. de pact. in tradition 
+      <lb ed="#C" n="68"/>bus, &amp; contractus ex conventione legem accipiunt, 
+      <lb ed="#C" n="69"/>deposici, leg. 1. § si convenerit, &amp; ff. de regulis juris contractu 
+      <lb ed="#C" n="70"/>&amp; hoc non est contra legimo potius secundum leg. qui¬ 
+      <lb ed="#C" n="71"/>simul morari debent: ut not. supra de matrimon. Squidsim 
+      <lb ed="#C" n="72"/>trimonium, ver. individuam, ergo servandum, ut f. de pact ju 
+      <lb ed="#C" n="73"/>risgentium, § praetor ait. &amp; pro hoc videtur expressum 34. qu 
+      <lb ed="#C" n="74"/>2si quis necessitate, &amp; f de operis li. quod nisi. §1. pactum dic¬ 
+      <lb ed="#C" n="75"/>servandum, nisi aliqua necessitas superveniat impediens 
+      <lb ed="#C" n="76"/>ne poss itibi maritus commode remanere, puta propter 
+      <lb ed="#C" n="77"/>nimicitias capitales, infirmitatem aeris, vel aliud simile 
+      <lb ed="#C" n="78"/>quod arbitrio judicis committo: tunc enim uxor sequetu 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0605.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>virum, ne adulterium committatur, quia tunc pactum con 
+      <lb ed="#C" n="80"/>tra legem inciperet esse, argumen. 13. quaestio. 2.unaquaequ 
+      <lb ed="#C" n="81"/>&amp; 13. q. 1. admonere, &amp; 31. 4. 2. de neptis, &amp; in his, quae no. de clex 
+      <lb ed="#C" n="82"/>resi. ver. quae sit poen
+    </p>
+            <p xml:id="nbht7y-d1e1540-d1e442">
+               <lb ed="#C" n="83"/>Et an, matrimonium; servo contracti 
+      <lb ed="#C" n="84"/>separari possit?
+      <lb ed="#C" n="85"/>cum serva contraxerit, minime, cum ejusdem sit conditi 
+      <lb ed="#C" n="86"/>onis, nisi ex causa, ut notat. supra de matrimoniis, §, qualite 
+      <lb ed="#C" n="87"/>impediatur, &amp; infra de divort. § quot modis, &amp; quibus ex causi 
+      <lb ed="#C" n="88"/>Sin autem alter conjugum servus est, &amp; alter liber, &amp; libe 
+      <lb ed="#C" n="89"/>non ignoraverit conditionem ab initio, valet matrimon 
+      <lb ed="#C" n="90"/>um, ut dixi supra eodem §&amp; cum qua. Sed si ignoraverit 
+      <lb ed="#C" n="91"/>error conditionis in consensum, ita quod matrimoniun 
+      <lb ed="#C" n="92"/>ab initio nullum est. * Quatuor enim sunt errores. Er¬ 
+      <lb ed="#C" n="93"/>ror personae. Error conditionis, &amp; hi duo impediunt al 
+      <lb ed="#C" n="94"/>initio. Item error fortunae, ut si credo contrahere cum di 
+      <lb ed="#C" n="95"/>vite, &amp; invenitur pauper. Item error qualitatis, ut si is cr 
+      <lb ed="#C" n="96"/>datur bonus, qui est malus, vel si credatur virgo, quae cor 
+      <lb ed="#C" n="97"/>rupta est, vel sana, quae est leprosa, &amp; hi ultimi errores ma 
+      <lb ed="#C" n="98"/>trimonium non solvunt. ut 29. quaest. i91. &amp; notatur suprad 
+      <lb ed="#C" n="99"/>ma. Squaliter impediatur, sub §1. &amp; versicul conditio. Sed pri 
+      <lb ed="#C" n="100"/>mi duo solvuntur. nisi is qui liber est verbo vel facto, put¬ 
+      <lb ed="#C" n="101"/>cognoscendo carnaliter, scienter in servum consenseri 
+      <lb ed="#C" n="102"/>ex postfacto, quia postea non posset dissentire, ut mfra co 
+      <lb ed="#C" n="103"/>dem proposuit, &amp; capit ad nostram. Quid si mater alicujus, ve 
+      <lb ed="#C" n="104"/>pater cujus conditionem filius sequi debet, juxta consue 
+      <lb ed="#C" n="105"/>tudinem patriae se pro libero gesserit, &amp; silius post morten 
+      <lb ed="#C" n="106"/>patris nec suo, nec patris nomine quaestionem passus fue 
+      <lb ed="#C" n="107"/>rit intra decennium, non solvetur postea matrimonium 
+      <lb ed="#C" n="108"/>filio contractum, ea ratione, quod servus sit, ut infra eoden 
+      <lb ed="#C" n="109"/>licet. Et quod dicit decennium. subaudi maxime, nam 
+      <lb ed="#C" n="110"/>dem si per quinquennium, ut notat supra de clandest. despon 
+      <lb ed="#C" n="111"/>quam paenam, versicul. pari, in verbo continenti, &amp; in cor 
+      <lb ed="#C" n="112"/>spectu ecclesiae. Vel dic, quod quinquennium sufficit, qu 
+      <lb ed="#C" n="113"/>ad hoc, ne nomine suo quaestionem motam voluerit vita¬ 
+      <lb ed="#C" n="114"/>re, argument. C. de poaescript. long. temp. quae pro libertate, sci 
+      <lb ed="#C" n="115"/>dummodo bonam fidem habuit, &amp; hoc inter praesentes 
+      <lb ed="#C" n="116"/>nam inter absentes 20. ann. desiderantur: ut infra eodem titul. 
+      <lb ed="#C" n="117"/>2. &amp; de praescript. lon temp leg. ultim. Quod autem dixi, ma 
+      <lb ed="#C" n="118"/>trimonium impediri propter conditionis errorem intel 
+      <lb ed="#C" n="119"/>ligas verum, quando liber erat credens contrahere cum li 
+      <lb ed="#C" n="120"/>bera, &amp; ipsa invenitur serva, secus, si crederet servam eam 
+      <lb ed="#C" n="121"/>quae libera est, talis enim error non impedit: quia verisimil 
+      <lb ed="#C" n="122"/>est, quod in talem libentius consensisset, argument. supr 
+      <lb ed="#C" n="123"/>de conver. conju ex parte, &amp; qui cleric. vel vo. veniens, &amp; junge 
+      <lb ed="#C" n="124"/>quod notat. infra eodim versicul. quid si servus credit. &amp; intendi 
+      <lb ed="#C" n="125"/>&amp; sequent. Quid si quis contrahit cum serva ignoranter 
+      <lb ed="#C" n="126"/>&amp; dominus medio tempore ipsam manumittit, &amp; poste 
+      <lb ed="#C" n="127"/>maritus cognoscit, nesciens manumissionem, &amp; creden 
+      <lb ed="#C" n="128"/>liberam? Dicunt quidam, quod non est matrimonium, qui 
+      <lb ed="#C" n="129"/>ex consequentia prioris erroris cognoscit eam, argumer 
+      <lb ed="#C" n="130"/>C. ad Velle si mulier ff. de mino. denique &amp; de precario, sed &amp; si mi 
+      <lb ed="#C" n="131"/>nente, &amp; supra de bapt. majores, in sin. Da. contra, quia ex qui 
+      <lb ed="#C" n="132"/>praecessit tractatus de matrimonio, &amp; carnalis copula se 
+      <lb ed="#C" n="133"/>cuta est, matrimonium inducitur, arg. supra de despon. in 
+      <lb ed="#C" n="134"/>pu. de illis 2. contrarium credo &amp; illud quod dicit Da. loci 
+      <lb ed="#C" n="135"/>habet, quando scienter cognoscit, argument. 34 quaestio2 
+      <lb ed="#C" n="136"/>intellectum. * Quid si servus petit divortium celebrare, li¬ 
+      <lb ed="#C" n="137"/>bera contradicente, qui erraverat? respondeo non audi 
+      <lb ed="#C" n="138"/>tur, cum hoc inductum sit in favorem errantis. ut C. de legi¬ 
+      <lb ed="#C" n="139"/>bus quod favore, &amp; arg. supra de despon impub. m illis, 1. 51. &amp; 1c 
+      <lb ed="#C" n="140"/>eo nunquam solvetur, nisi ad petitionem, &amp; instantiam li 
+      <lb ed="#C" n="141"/>beri; argument. supra de eo, qui dux. in mat. capit.i. secundum 
+      <lb ed="#C" n="142"/>Goffred. sed non video, quod hoc stare possit, quia non po 
+      <lb ed="#C" n="143"/>test matrimonium claudicare ut quo ad unum teneat, &amp; 
+      <lb ed="#C" n="144"/>non quo ad alium, quod notat. ut infra eodem versicul. quad s 
+      <lb ed="#C" n="145"/>servus credidit, &amp; intendit, &amp; sequent. Quid si lite pendent. 
+      <lb ed="#C" n="146"/>servus exigat debitum a libera. dixit T. quod potius susti¬ 
+      <lb ed="#C" n="147"/>neat excemmunicationem, nam si redderet, pararet sibi 
+      <lb ed="#C" n="148"/>praejudicium, si vero non intenderet, redderet, sed si for 
+      <lb ed="#C" n="149"/>nicario coitu ipsam cognosceret, peccaret mortaliter, er 
+      <lb ed="#C" n="150"/>go reddat: Goffred. ad hoc, supra de restitus. spol. literas, § por 
+      <lb ed="#C" n="151"/>ro, &amp; infra eodem proposuit, ad nostram, &amp; de sentent. excommu 
+      <lb ed="#C" n="152"/>inquisitioni. Hoc potest esse verum: si certus sit de servi 
+      <lb ed="#C" n="153"/>tute: secus, si habet scrupulosam conscientiam: quia tun 
+      <lb ed="#C" n="154"/>excusaretur, si ad mandatum ecclesiae solveret, argumeni 
+      <lb ed="#C" n="155"/>infra de sentent. excommuni. inquisitioni, &amp; optime probatu 
+      <lb ed="#C" n="156"/>hoc, infrade frig &amp; malesic. fraternitatis, §1. ad sin. quia lite pen 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0606.xml-->
+      <pb ed="#C" n="589"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>dente, nihil est innovandum, ut notat. supra ut lit. pendente 
+      <lb ed="#C" n="2"/>§qualiter, versicul. item si contingar. Alii dicunt, quod red 
+      <lb ed="#C" n="3"/>dere debet, sed non exigere, argument. infra de secund. nup 
+      <lb ed="#C" n="4"/>dominus. Tertii, quod potest reddere, &amp; exigere, quan 
+      <lb ed="#C" n="5"/>tumcunque sit certus propter dubium eventum judicii, ai 
+      <lb ed="#C" n="6"/>gument. f.de peculio quod debetur, &amp; de adulteriis, denuncia 
+      <lb ed="#C" n="7"/>se, &amp; C. de liberali cau. ordinata, quia nunquam invenitur, quo 
+      <lb ed="#C" n="8"/>debeat potius excommunicationem sustinere, quam de 
+      <lb ed="#C" n="9"/>bitum reddere, nisi ubi redderet, committeret mortale pec 
+      <lb ed="#C" n="10"/>catum, &amp; hanc opinionem amplector. Et si quaeras, qui 
+      <lb ed="#C" n="11"/>affectu cognoscit eam? dico quod conjugali, non tanqu 
+      <lb ed="#C" n="12"/>liber am, non tanquam servam, sed potius tanquam illan 
+      <lb ed="#C" n="13"/>cui quaestio servitutis movetur: &amp; sic eventus judicii decla 
+      <lb ed="#C" n="14"/>rabit, utrum cogatur, vel non eam retinere, argument. C 
+      <lb ed="#C" n="15"/>de judic. rem non novam, ergo si contra libertatem pronun 
+      <lb ed="#C" n="16"/>cietur, habet locum decret. si ipsam postea cognoverit, an 
+      <lb ed="#C" n="17"/>tea enim non debeodimittere uxorem propria temerit 
+      <lb ed="#C" n="18"/>te: ut supra de despon. impub. duo. in fin. quantumcunque caus 
+      <lb ed="#C" n="19"/>manifesta existat, ut infr. de divor porro. * Quid si quis cor 
+      <lb ed="#C" n="20"/>trahatcum filia servi, &amp; liberae: cum secundum consuetu 
+      <lb ed="#C" n="21"/>dinem terrae, partus sequatur patrem, ut infra eodem lice 
+      <lb ed="#C" n="22"/>nunquid celebrabitur divortium? videtur quod sic, si con 
+      <lb ed="#C" n="23"/>suetudo terrae sit praescripta, argument. infra de cogn. spiv 
+      <lb ed="#C" n="24"/>super eodem, &amp; junge, quod notat. ibi in summa, §quid si ff¬ 
+      <lb ed="#C" n="25"/>ctus, versici alii dicunt, &amp; seq. Quid si liber contrahat cum 
+      <lb ed="#C" n="26"/>scripticia, nunquid celebratur divortium, si erravit? Qu 
+      <lb ed="#C" n="27"/>dam dicunt, quod non, cum inveniatur expressum jur 
+      <lb ed="#C" n="28"/>canonico, cum hoc edictum prohibitorium sit, nam &amp; con 
+      <lb ed="#C" n="29"/>trahere possunt, ut C. de agri. &amp; cens. I.ultm. &amp; ordinarii, 1 
+      <lb ed="#C" n="30"/>auth. de sanct. episcop. §. ascripticios, etiam invito domino. ut ib 
+      <lb ed="#C" n="31"/>dicit, secus in servo, sed contra scil. quod non valeat matri 
+      <lb ed="#C" n="32"/>monium in authentic. de nupi. § ascripticios, collat. 4. &amp; ff. de lil 
+      <lb ed="#C" n="33"/>ho. exh. l. 2. &amp; C. de agric. &amp; censi. nediutius. Primum veriu 
+      <lb ed="#C" n="34"/>credo Quid si servus credit, &amp; intendit contrahere cum li 
+      <lb ed="#C" n="35"/>bera, &amp; tamen contraxit cum ancilla? Dicas quod matr 
+      <lb ed="#C" n="36"/>monium tenet, quia non habet quid ei objiciat. 32. quaest.ae 
+      <lb ed="#C" n="37"/>nihil infra de divor significasti, secundum Hug &amp; Goffred. A 
+      <lb ed="#C" n="38"/>lii dicunt, quod sive erretur in meliori conditione, sive ii 
+      <lb ed="#C" n="39"/>deteriori, sive in pari, matrimonium non tenet, argumer 
+      <lb ed="#C" n="40"/>ff. de arbur sed si in servam, nam qui errat, non consentit. ff.d 
+      <lb ed="#C" n="41"/>jurisdict. omn. judic. si per errorem. C. de juris. &amp; fact. ignor. no 
+      <lb ed="#C" n="42"/>idcirco, &amp; error nihil aliud est, quam aliud pro alio pr 
+      <lb ed="#C" n="43"/>tare. 22. quaest. 2. in quibus 38. quaestio. 6. quamvis, error auten 
+      <lb ed="#C" n="44"/>conditionis impedit &amp; dirimiit, ut notat. supra eodem §r 
+      <lb ed="#C" n="45"/>spon. 1. Tu dic, quod hoc est verum, quando mulier errat 
+      <lb ed="#C" n="46"/>nam si sciat ipsum esse servum, tenet matrimonium, noi 
+      <lb ed="#C" n="47"/>obstante errore viri, tunc igitur error conditionis matri 
+      <lb ed="#C" n="48"/>monium nullum reddit, quando conditio errantis fit de 
+      <lb ed="#C" n="49"/>terior: secus, si melior fiat, sed nec de pari poterit querel¬ 
+      <lb ed="#C" n="50"/>ri, &amp; haec opinio hodie est communis, &amp; junge, quod no 
+      <lb ed="#C" n="51"/>1o supra ver. quod autem. * Quid si liber contraxit cum an 
+      <lb ed="#C" n="52"/>cilla ignorans ejus conditionem? demum conditione ill 
+      <lb ed="#C" n="53"/>us detecta consentit in ipsam verbo vel facto, infra eodem 
+      <lb ed="#C" n="54"/>si ipsa tamen non consentit, nunquid est matrimonium 
+      <lb ed="#C" n="55"/>inter illos? Dicunt quidam, quod sic ex una parte, sed ho 
+      <lb ed="#C" n="56"/>placet, quia matrimonium non claudicat, est enim duori 
+      <lb ed="#C" n="57"/>conjunctio, ut nota supra de spon. sub rubricel de matrim. §. 
+      <lb ed="#C" n="58"/>mulier tamen compelli potest ad consuetudinem ration 
+      <lb ed="#C" n="59"/>fidei datae argument. supra de despon imp. de illis. 1. §fi. maxi 
+      <lb ed="#C" n="60"/>me quia mulier malitiose diilentite videtur, &amp; ideo ade 
+      <lb ed="#C" n="61"/>jus petitionem non debet matrimonium solvi, ar. sup. de eo, qu 
+      <lb ed="#C" n="62"/>duxit in mat. quam pol per adul.c. 1. sed si contraheret cum alio 
+      <lb ed="#C" n="63"/>compulsione pendente, teneret matri servi. sicut no. simile 
+      <lb ed="#C" n="64"/>sup. de despon. imp. S quid jur. ver. quid si pubes, &amp; se¬ 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

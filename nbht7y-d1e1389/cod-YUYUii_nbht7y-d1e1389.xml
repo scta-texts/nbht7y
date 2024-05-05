@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 46</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 46</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="532"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1389"><!-- nbht7y-l3t46 -->
+            <head xml:id="nbht7y-d1e1389-Hd1e101">Titulus 46</head>
+            <head xml:id="nbht7y-d1e1389-Hd1e103" type="question-title">De observatione jejuniorum</head>
+            <p xml:id="nbht7y-d1e1389-d1e106">
+               <lb ed="#C" n="66"/>De Observatione jejuniorum 
+      <lb ed="#C" n="67"/>Rub. XLVI. 
+    </p>
+            <p xml:id="nbht7y-d1e1389-d1e113">
+               <lb ed="#C" n="68"/>SUMMARIA, 
+      <lb ed="#C" n="69"/>Jejunii divisio, &amp; definitiones 
+      <lb ed="#C" n="70"/>sejunandum qualiter sit. Et quando sit jejunandum 
+      <lb ed="#C" n="71"/>QVadragesimae tempore a quibus abstinendum si¬ 
+      <lb ed="#C" n="72"/>4. Divites an cogantur uti cibis pauperum 
+      <lb ed="#C" n="73"/>C ὄάyn: mυσrgum tm gprm 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0549.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="74"/>7 Adventu Domini an sit jejunandum 
+      <lb ed="#C" n="75"/>8 Vigilia alicujus Sancti si sit die Dominica, an sie in illa jeju 
+      <lb ed="#C" n="76"/>nndum 
+      <lb ed="#C" n="77"/>9 Episcopus an possit dispensare in voro jejunii 
+      <lb ed="#C" n="78"/>1o Jejunandum quando non siu 
+    </p>
+            <p xml:id="nbht7y-d1e1389-d1e144">
+               <lb ed="#C" n="79"/>EGimus de ymeratione Sanctorum, &amp; qui 
+      <lb ed="#C" n="80"/>aliquorum festivitates colen 
+      <lb ed="#C" n="81"/>dae sunt, &amp; vigiliae jejunandae, dicamus de ol 
+      <lb ed="#C" n="82"/>3 servatione jejuniorum, dicentes, Quotuples 
+      <lb ed="#C" n="83"/>sit jejunium, Qualiter sit jejunandum, Quando jejunar 
+      <lb ed="#C" n="84"/>dum sit. Et quando non 
+    </p>
+            <p xml:id="nbht7y-d1e1389-d1e161">
+               <lb ed="#C" n="85"/>Quotuplex sit tjejunium: Ad hocnonn¬ 
+      <lb ed="#C" n="86"/>dum, quod jeju¬ 
+      <lb ed="#C" n="87"/>nium triplex est. Primum est magnum, &amp; generale, absti 
+      <lb ed="#C" n="88"/>nere scili. ab iniquitatibus &amp; illicitis voluptatibus seculi 
+      <lb ed="#C" n="89"/>quod est perfectum jejunium. &amp; ipsum elegit Dominus 
+      <lb ed="#C" n="90"/>ac consec. distin.s jejunium. Secundum est discreta &amp; mode 
+      <lb ed="#C" n="91"/>rata refectio, ut scilicet singulos dies absque ciborum lu 
+      <lb ed="#C" n="92"/>xuria transeamus, de consecr. dist5 sit, &amp; cap. non dico. Et hae 
+      <lb ed="#C" n="93"/>duo jejunia omni tempore, &amp; diebus singulis sunt servan 
+      <lb ed="#C" n="94"/>da. Tertium est subtractio prandii, &amp; post coenam cujusli 
+      <lb ed="#C" n="95"/>bet cibi privatio, usque in diem sequentem, hoc est seme 
+      <lb ed="#C" n="96"/>in die tantum hora congrua comedere. ad hoc de consecrae 
+      <lb ed="#C" n="97"/>dist 3. de esu &amp; 4.dist. denique 
+    </p>
+            <p xml:id="nbht7y-d1e1389-d1e192">
+               <lb ed="#C" n="98"/>Qualiter sit ieunandum Ut quilbet viriliterre 
+      <lb ed="#C" n="99"/>sistat tentationi gulae, quae secundum 
+      <lb ed="#C" n="100"/>beatum Greg 5. modis tentat, &amp; vincit. Primo, cum aliqui 
+      <lb ed="#C" n="101"/>indigentiae tempora praevenit, puta comedit, &amp; non indi 
+      <lb ed="#C" n="102"/>get, nec esurit. Secundo, quando non praevenit, sed lautio 
+      <lb ed="#C" n="103"/>ra. id est plura fercula, quam expediat, vult habere. Teruo 
+      <lb ed="#C" n="104"/>quando ea quae sumenda sunt expedit accuratius procu 
+      <lb ed="#C" n="105"/>rari, id est nimis curiose, vel deliciose. Quarto, quando d 
+      <lb ed="#C" n="106"/>si tempus &amp; qualitas ciborum congruat, in ipsa tamei 
+      <lb ed="#C" n="107"/>quantitate sumendi excedit, scilicet quia nimis comedij 
+      <lb ed="#C" n="108"/>quod crapula vocatur. Quinto, quando &amp; abjectius, i¬ 
+      <lb ed="#C" n="109"/>est vilius est, quod desiderat ipso aestu immensi desideri 
+      <lb ed="#C" n="110"/>deterius peccat: ut haec probantur de consecr. dist; quinqu 
+      <lb ed="#C" n="111"/>modis. hae quinque tentationes diebus singulis sunt vitand; 
+      <lb ed="#C" n="112"/>comprehenduntur autem hoc versu 
+      <lb ed="#C" n="113"/>
+               <quote xml:id="nbht7y-d1e1389-Qd1e228">Praeprope, Laute, Nimis, Ardenter, Studiose</quote>
+               <lb ed="#C" n="114"/>&amp; junge quod not. supr. de temp. ord sub § 3. vers. est igitur cra 
+      <lb ed="#C" n="115"/>pula &amp; seq. Sed tempore jejuniorum ab ecclesia inducto 
+      <lb ed="#C" n="116"/>rum videtur abstinendum esse nedum a carnibus, sed al 
+      <lb ed="#C" n="117"/>omnibus, quae sementinam trahunt originem a carnibus 
+      <lb ed="#C" n="118"/>puta lacte, caseo, ovis, caeterum piscium esus, ut sit infirmi 
+      <lb ed="#C" n="119"/>tatis solatium, non luxuriae parat incendium, sive incen 
+      <lb ed="#C" n="120"/>tivum, conceditur. denique quia a carne abstinet, nunqui 
+      <lb ed="#C" n="121"/>sumptuosa convivia beluarum praeparet marinarum, si 
+      <lb ed="#C" n="122"/>cundum Gra. 4. dist. denique. b Sed contraria est consue¬ 
+      <lb ed="#C" n="123"/>tudo, quae hoc non servat, cui in talibus videtur esse stan 
+      <lb ed="#C" n="124"/>dum. ut 76. distin. utinam omni tempore.* Solutio. dic quod 
+      <lb ed="#C" n="125"/>in Quadragesima abstinendum est a carnib, &amp; ab his qua 
+      <lb ed="#C" n="126"/>trahunt originem sementinam de consec distin3. non oportet 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="127"/>ADDITIONES. 
+      <lb ed="#C" n="128"/>a lejunium) Verior est Mart. nostri bimembris divisio: nam &amp; 
+    </p>
+    <p>
+      <lb ed="#C" n="129"/>prandii subtractio corporali jejunio continetur. Primum je¬ 
+      <lb ed="#C" n="130"/>junii genus perfectum recte putavit idem, ad quod omnei 
+      <lb ed="#C" n="131"/>teneriscribit, quod autem &amp; quale, &amp; quis ejus effectus, divi 
+      <lb ed="#C" n="132"/>ne explicuit Propheta Fsai. 58. Adde Doct. in rub. eod. cit. &amp; pe 
+      <lb ed="#C" n="133"/>Car. Alex in c denique 4.dis. 
+      <lb ed="#C" n="134"/>8 Occasione jejunii corporalis recte illinc efformabimus rubri 
+    </p>
+    <p>
+      <lb ed="#C" n="135"/>cellam ex Mart. eod. rit. in Summa quia jejunare cogendi non 
+      <lb ed="#C" n="136"/>sint. Qua in re idem scribit, laborantes in vineis, fulloniis, au 
+      <lb ed="#C" n="137"/>minerus metallorum, &amp; caeteris ejusmodi, &amp; aliis artificiis 
+      <lb ed="#C" n="138"/>ubi est opus magno labore excusantur, maxime si adeo pau 
+      <lb ed="#C" n="139"/>peres sunt, ut per seipsos oporteat colere vineas proprias, ve 
+      <lb ed="#C" n="140"/>si adeo debiles sint, ut non possint jejunando operari, aut f 
+      <lb ed="#C" n="141"/>oporteat eos locare operas suas, ut sibi, familiaeque suae pro 
+      <lb ed="#C" n="142"/>videant, quia forte non inveniret operas suas, nisi fregeria 
+      <lb ed="#C" n="143"/>jejunia, nec aliunde sibi providere possunt, aut si servi sunt 
+      <lb ed="#C" n="144"/>aut rustici, qui debent operas dominis suis. Cursores quoq 
+      <lb ed="#C" n="145"/>divitum non possunt currere &amp; jejunare. Praegnantes quoq 
+      <lb ed="#C" n="146"/>&amp; nutrices mulieres solvere, &amp; frangere quaelibet jejuni 
+      <lb ed="#C" n="147"/>possunt, sed infirmi jejunare non possunt nec coguntur, ic 
+      <lb ed="#C" n="148"/>tamen ait Mart. relinquendum arbitrio boni viri. In reliqui 
+      <lb ed="#C" n="149"/>hujus tractatus articulis convenit cum Hostiens--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0550.xml-->
+      <pb ed="#C" n="533"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>sed &amp; si esset a beluis marinis abstinendum, est tamend 
+      <lb ed="#C" n="2"/>consuetudine tolerandum, quia qui nimis emungit, elici 
+      <lb ed="#C" n="3"/>sanguinem. Et sic intellige, nam &amp; sic loquitur 4. distin. d. 
+      <lb ed="#C" n="4"/>nique. &amp; duobus capitulis praecedentib. in sextis autem feriis 
+      <lb ed="#C" n="5"/>&amp; aliis jejuniis, consuetudo illorum, inter quos quis con 
+      <lb ed="#C" n="6"/>versatur sequenda est. ut patet in his quae not. infra eod. 
+      <lb ed="#C" n="7"/>quando jejunandum. vers. nam quisquis. &amp; vers. in decretis. e 
+      <lb ed="#C" n="8"/>ro Parisiis comedam ova in sextis feriis, sed Ebreduni ab 
+      <lb ed="#C" n="9"/>stinebo. nisi quod Parisiis causa exempli abstineam, pro 
+      <lb ed="#C" n="10"/>pter praelationem. arg. 1. quaest3 praecipue. supra de voto. mi 
+      <lb ed="#C" n="11"/>gnae §. 1. &amp; supra de sacr. unc.c. unico. §. ad exhibendum. vers. d 
+      <lb ed="#C" n="12"/>odore famae. &amp; sequent. &amp; hoc intelligas, nisi a sacerdote po 
+      <lb ed="#C" n="13"/>nitentiam imponente certus modus abstinentiae sit invi 
+      <lb ed="#C" n="14"/>tus. nam is, non obstante consuetudine contraria, est ol 
+      <lb ed="#C" n="15"/>servandus, ut probatur 82. distinct. presbyter. 33. qu. 2.admoni 
+      <lb ed="#C" n="16"/>re. ut tamen semper necessitati subveniatur, &amp; periculi 
+      <lb ed="#C" n="17"/>occurratur. dexonsecr. distinct. 3. de poenitentibus. distinct. 5. j 
+      <lb ed="#C" n="18"/>junia in ecclesia. infra eodem, consilium. §. penult. &amp; sin. &amp; jung 
+      <lb ed="#C" n="19"/>quod not. infra eodem. §. jejunandum. versicul. hoc etiam scia 
+      <lb ed="#C" n="20"/>nulla enim esset consuetudo, per quam dirumperetu 
+      <lb ed="#C" n="21"/>nervus ecclesiasticae disciplinae. supra de consuetu. cum inti 
+      <lb ed="#C" n="22"/>vos. † illud tamen notandum est, quod non coguntur d 
+      <lb ed="#C" n="23"/>vites cibis pauperum vesci, utantur ergo consuetudin 
+      <lb ed="#C" n="24"/>infirmitatis suae. nam si mutant, aegrotant. utantur igitu 
+      <lb ed="#C" n="25"/>cibis preciosis &amp; dent pauperibus necessaria &amp; vilia 
+      <lb ed="#C" n="26"/>doleant tamen aliter, se non posse, secundum Augu. 13. d 
+      <lb ed="#C" n="27"/>stinct. non cogantur. nec enim de qualitate vel quantitate ci 
+      <lb ed="#C" n="28"/>bi est vitium, dummodo secundum naturae suae exigenti 
+      <lb ed="#C" n="29"/>am quis utatur, nec propter hoc continentiores nobi 
+      <lb ed="#C" n="30"/>sunt pleraeque bestiae, quia vilioribus utuntur. Quid erg 
+      <lb ed="#C" n="31"/>locis, personis &amp; temporibus conveniat, diligenter est a 
+      <lb ed="#C" n="32"/>tendendum, secundum August. 42. dist. quisquis. &amp;c. del 
+      <lb ed="#C" n="33"/>ciae. &amp;e. quod dicit dominuus. Licet autem quis a cibis abst 
+      <lb ed="#C" n="34"/>neat, non prodest, nisi &amp; a vitiis &amp; dissolutionibus quis i 
+      <lb ed="#C" n="35"/>junet. 86. distinct. quid prodest. nec prodestjejunare, orare, 
+      <lb ed="#C" n="36"/>&amp; alia pietatis opera facere, nisi mens ab iniquitate, &amp; lin 
+      <lb ed="#C" n="37"/>gua ab obtrectationibus coerceatur. de consec distin. 5. nihi 
+      <lb ed="#C" n="38"/>prodest. sed nec refici debet corpus ante horam congruan 
+      <lb ed="#C" n="39"/>nam qui in quadragesima ad horam nonam manducat 
+      <lb ed="#C" n="40"/>antequam vespertinum celebretur officium, vel antequ 
+      <lb ed="#C" n="41"/>vespertina hora per aestimationem completa fuerit, noi 
+      <lb ed="#C" n="42"/>creditur jejunare. de consecr. distin.I. solent plures. &amp; argu. d 
+      <lb ed="#C" n="43"/>consecrat. distinct 3. ne quis. ubi dicit, quod hoc tempore saic 
+      <lb ed="#C" n="44"/>exemplum, &amp; praeceptum custodiant sacerdotes. si ali 
+      <lb ed="#C" n="45"/>quando citra noctis tenebras non comedant, ut patet in 
+      <lb ed="#C" n="46"/>his quae not. suprade consecr. eccles. distinct. 2. §. &amp; quando. se¬ 
+      <lb ed="#C" n="47"/>hoc, quoad horam ita tardam de consuetudine non servatui 
+    </p>
+            <p xml:id="nbht7y-d1e1389-d1e370">
+               <lb ed="#C" n="48"/>Quando jeunandum sit. Et est sciendum, quo 
+      <lb ed="#C" n="49"/>vigiliae Nativitatis Domini c &amp; 
+      Assum<lb ed="#C" n="50" break="no"/>ptionis beatae Mariae, &amp; omnium Apostolorum sunt jejunar 
+      <lb ed="#C" n="51"/>dae, nisi consuetudo in contrarium sit, quantum ad Apo 
+      <lb ed="#C" n="52"/>stolos aliquos, quorum festivitates non consueveruntj¬ 
+      <lb ed="#C" n="53"/>junari. generaliter intellige. infra eod I. &amp; 2respons. §.1. infi 
+      <lb ed="#C" n="54"/>de verbor signi. quaesivit ergo quamvis Doctores dicant ho 
+      <lb ed="#C" n="55"/>versus arrogatos 
+      <lb ed="#C" n="56"/>
+               <quote xml:id="nbht7y-d1e1389-Qd1e391">Petrus &amp; Andreas, Paulus cum Simone Judas 
+      <lb ed="#C" n="57"/>Ut jejunemus nos admonet, atque Matthaeus</quote>
+               <lb ed="#C" n="58"/>Hoc tamen non videtur verum, imo in aliis observabitu 
+      <lb ed="#C" n="59"/>consuetudo. Sed in his cogi possunt homines jejunare 
+      <lb ed="#C" n="60"/>cum generaliter teneantur argum. supra deceleb mis. perni 
+      <lb ed="#C" n="61"/>ciosus. supra de censib. ex parte. infra eod, consilium. §. item in i 
+      <lb ed="#C" n="62"/>lis nam quis contemptis his cum quibus latiora aut austi 
+      <lb ed="#C" n="63"/>riora indumenta, vel alimenta quaerit, aut intemperan 
+      <lb ed="#C" n="64"/>sui est, aut superstitiosus. 41. distin § ulti. ideo cum Rom 
+      <lb ed="#C" n="65"/>sum, jejuno in sabbato, cum Mediolani, non jejuno, se 
+      <lb ed="#C" n="66"/>cundum August. Unde versus 
+      <lb ed="#C" n="67"/>
+               <quote xml:id="nbht7y-d1e1389-Qd1e418">Cum fueris Romae, Romano vivito more 
+      <lb ed="#C" n="68"/>Cum fuerit alibi, vivito sicut ibi</quote>
+               <lb ed="#C" n="69"/>12 distinct. illa. &amp; probatur 77. distinct. §. ultim. &amp; supra defe 
+      <lb ed="#C" n="70"/>riis. c. 2. &amp; quod ita sit probat consuetudo Parisiens. ub 
+      <lb ed="#C" n="71"/>Deus recte colitur &amp; timetur. &amp; tamen ibi non omniun 
+      <lb ed="#C" n="72"/>Apostolorum vigiliae jejunantur. Alii dicunt, quod om 
+      <lb ed="#C" n="73"/>nes vigiliae Apostolorum jejunandae sunt, non obstant 
+      <lb ed="#C" n="74"/>consuetudine contraria. excepta vigilia Apostolorum Ph 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0550.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="75"/>lippi, &amp; Jacobi, &amp; beati Joannis Evangelistae, quonian 
+      <lb ed="#C" n="76"/>prima festivitas intra solennitatem paschalem, secund 
+      <lb ed="#C" n="77"/>intra natalem Domini celebratur. infra cod. consilium. D 
+      <lb ed="#C" n="78"/>festivitate autem beati Bartholomaei, de cujus celebratio 
+      <lb ed="#C" n="79"/>ne dubietas oritur apud quosdam, consuetudo cujus libe 
+      <lb ed="#C" n="80"/>ecclesiae est servanda. infra eod, consilium. §. sanctorum. Puto 
+      <lb ed="#C" n="81"/>quod in talibus standum sit consuetudini, nisi sacerdotes 
+      <lb ed="#C" n="82"/>id est dioecesani contrarium praecipiant, nam jejunia al 
+      <lb ed="#C" n="83"/>his inducta non sunt, nisi necessitate instante, solvenda. de 
+      <lb ed="#C" n="84"/>consec. distinct. 5 jejunia in ecclesia: nunquid dictum est supr. 
+      <lb ed="#C" n="85"/>de festivitate beati Bartholomaei exponi potest, infra di 
+      <lb ed="#C" n="86"/>vigilia festivitatis, sicut praecedentia &amp; sequentia innuun 
+      <lb ed="#C" n="87"/>in quibus non de festivitatibus, sed de vigiliis agitur, ac 
+      <lb ed="#C" n="88"/>hoc ff. de leg. primo si servus plurium. §. sinumerus. Sed &amp; di 
+      <lb ed="#C" n="89"/>festivitate potest intelligi, ut sciant homines, quo die cele 
+      <lb ed="#C" n="90"/>brare debeant. Nam aliqui faciunt festum beati Bartho 
+      <lb ed="#C" n="91"/>lomaei die, qua fuit excoriatus, alii die seque &amp; in talibus nu 
+      <lb ed="#C" n="92"/>lus error est, si consuetudo cujuslibet ecclesiae teneatur 
+      <lb ed="#C" n="93"/>infra de verbor. sign. quaesivit. §. 1. excip. festum Paschae, quoc 
+      <lb ed="#C" n="94"/>non admittit consuetudinem contrariam. imo est per u 
+      <lb ed="#C" n="95"/>niversum orbem eodem tempore celebrandum. &amp; hoc te 
+      <lb ed="#C" n="96"/>netur quilibet Metropolitanus in concilio nunciare, sci 
+      <lb ed="#C" n="97"/>licet qua die vel Calendis occurrat. de consecrat. distinct. 3. d 
+      <lb ed="#C" n="98"/>observatione &amp; cap praeced. Tota etiam Quadragesima sum 
+      <lb ed="#C" n="99"/>ma observatione observanda est, quae. 42. dies continet 
+      <lb ed="#C" n="100"/>de quibus dum sex dies Dominicae abstinentiae subtrahum 
+      <lb ed="#C" n="101"/>tur, remanent 36. jejunandi, quia sunt decima pars totium 
+      <lb ed="#C" n="102"/>anni, qui constat ex 365. diebus, his adduntur quatuor dies 
+      <lb ed="#C" n="103"/>Dominicam in quadragesima praecedentes, ita quod in 
+      <lb ed="#C" n="104"/>capite jejunii incipimus jejunare, ut sic impleatur sace 
+      <lb ed="#C" n="105"/>numerus 40. dierum, quem Salvator suo sacro jejunis 
+      <lb ed="#C" n="106"/>consecravit, secundum Gra. de conseer. dist. 5. quadragesima 
+      <lb ed="#C" n="107"/>quorum jejunium adeo stricte servandum est, ut qui uni 
+      <lb ed="#C" n="108"/>diem fregerit comedendo bis, etiamsi hoc fecerit feria 
+      <lb ed="#C" n="109"/>in coena Domini totam quadragesimam videtur violasse 
+      <lb ed="#C" n="110"/>sive inhonorasse. de consecrat. distin. 4. non liceat. &amp;c. non opor. 
+      <lb ed="#C" n="111"/>tet. quod intellige secundum Hugo. quando splendide &amp; 
+      <lb ed="#C" n="112"/>perfecte comedit, &amp; postea surgit, et iterum comedit, se¬ 
+      <lb ed="#C" n="113"/>cus si parum comederet, &amp; postea ad mandatum facien 
+      <lb ed="#C" n="114"/>dum surgeret, quo facto ad mensam rediisset, &amp; comesti 
+      <lb ed="#C" n="115"/>onem incoeptam compleret, nam &amp; talis jejunus dicere 
+      <lb ed="#C" n="116"/>tur: certe idem videretur, si unam hostiam etiam complet 
+      <lb ed="#C" n="117"/>comestione, in lignum coenae sumam ob puram devo 
+      <lb ed="#C" n="118"/>tionem. arg. 41. dist. quisquis, &amp; f. de ven. inspi. l.i. §. fi. si tamet 
+      <lb ed="#C" n="119"/>quinquagesimam. Sed quadragesima tantum est indicen 
+      <lb ed="#C" n="120"/>da. de consec dist. 3. sacerdotibus. Sed contra. 4. dist statuimus. C 
+      <lb ed="#C" n="121"/>duobus cap. sequ dicunt quidam, quod illa ca. sunt abrogat: 
+      <lb ed="#C" n="122"/>alii, quod de consilio intelliguntur, &amp; non de praecepto 
+      <lb ed="#C" n="123"/>vel dic, quod laicis indicenda est quadragesima, non quin 
+      <lb ed="#C" n="124"/>quagesima. &amp; sic intelligitur c. sacerdotes. Sacerdotes veri 
+      <lb ed="#C" n="125"/>tenentur facere quinquagesimam, &amp; sic loquuntur con 
+      <lb ed="#C" n="126"/>traria cap. evidenter. ad hoc. i.qu. 1. vilissimus. 7 qu. I qualis &amp;c 
+      <lb ed="#C" n="127"/>nec sufficere. 13.g. 2. qui divina. &amp; certe satis debent clerici, &amp; 
+      <lb ed="#C" n="128"/>maxime sacerdotes, saltem ad dentes curandos addere 
+      <lb ed="#C" n="129"/>duos, dies.* Sed nunquid tenetur quilibet in Quadrage 
+      <lb ed="#C" n="130"/>sima jejunare? Et certe sic, nisi aetatis fragilitas vel corpo 
+      <lb ed="#C" n="131"/>ris debilitas, vel labor agriculturae, seu justa causa &amp; ne 
+      <lb ed="#C" n="132"/>cessaria ipsum excuset, in quo quidem puto, quod &amp; a di 
+      <lb ed="#C" n="133"/>oecesano debeat licentiam obtinere, ut probatur infra eod 
+      <lb ed="#C" n="134"/>consilium. §, cum nutem quaefieris, &amp; seque not. infra eod versicu. &amp; 
+      <lb ed="#C" n="135"/>cum necessitas. Idem intelligas de quatuor temporib. nam 
+      <lb ed="#C" n="136"/>constitutum est, quod haec ab omnibus hominibus com 
+      <lb ed="#C" n="137"/>muni jejunio observentur. &amp; est celebrandum primum 
+      je<lb ed="#C" n="138" break="no"/>junium in hebdomada prima quadragesimae, &amp; tempore 
+      <lb ed="#C" n="139"/>veris. Secundu in hebdomada Pentecostes, tempore 
+      aesta<lb ed="#C" n="140" break="no"/>tis. Tertium vero in Septembri, tempore autumni. Et 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="141"/>ADDITIONES. 
+      <lb ed="#C" n="142"/>6 Vigiliae nativitatis Domini) Adde tex. in cap. 1. eod tit. &amp; quid s 
+    </p>
+    <p>
+      <lb ed="#C" n="143"/>nativitas Domini venit sexta ferla an religiosi professi pos 
+      <lb ed="#C" n="144"/>sint comedere carnem, vide in c fin. eod. tit. Car. Zab. inc. cum 
+      <lb ed="#C" n="145"/>ad monasteriam. in 4.no. de sta. mo. &amp; per Arch. Flo. in 2. parmai. 6 
+      <lb ed="#C" n="146"/>c. 2. in §. de lacti. in I. col 
+      <lb ed="#C" n="147"/>a Et quatuor temporibus) Adde tex. in cap de ieiunio. c statuimus 
+    </p>
+    <p>
+      <lb ed="#C" n="148"/>cap. quamvis, &amp; cap. iciunium. 76. dist. &amp; ad quid fuit inductum 
+      <lb ed="#C" n="149"/>jesunium 4. temporum. vide in cap. huius observatione. 76.dis.--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0551.xml-->
+      <pb ed="#C" n="534"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>quartum in Decembri, tempore hyemis more solito fiant 
+      <lb ed="#C" n="2"/>ut lex abstinentiae omnibus temporibus sit astricta 76.dis 
+      <lb ed="#C" n="3"/>statumus. &amp; chujus. &amp; si vis scire, qua die incipies jejuns 
+      <lb ed="#C" n="4"/>re, docent hi versus 
+      <lb ed="#C" n="5"/>
+               <quote xml:id="nbht7y-d1e1389-Qd1e603">Vult erux Lucia, cinis, &amp; charismata dia 
+      <lb ed="#C" n="6"/>Ut det vota pia quarta sequens feria</quote>
+               <lb ed="#C" n="7"/>Et secundum hoc intelligas. quod legitur 76. dist. cap. 1. 23 
+      <lb ed="#C" n="8"/>&amp; 4 &amp; sequ. Sed &amp; idem intellige de vigiliis quorundan 
+      <lb ed="#C" n="9"/>Sanctorum, quorum festivitates specificantur. sup. de cor 
+      <lb ed="#C" n="10"/>secrat. distinct 3. nisi alia festivitas impediat, ut patet in hi 
+      <lb ed="#C" n="11"/>quae not. sup. eod versalii. Et idem de non specincatis, qua 
+      <lb ed="#C" n="12"/>tamen a singulis episcopis in suis civitatibus &amp; dioecesit 
+      <lb ed="#C" n="13"/>inducuntur: nam &amp; haec jejunia ab omnibus subditis sun 
+      <lb ed="#C" n="14"/>servanda de consecrat. dist. 3cap. 1. ad fin. &amp; dist. 5. jejunia ine 
+      <lb ed="#C" n="15"/>clesia.* Quid de adventu e Domini? Romae jejunantur 
+      <lb ed="#C" n="16"/>infra eod, consilium. respon. I. in fine. utrum autem ad hoc qui 
+      <lb ed="#C" n="17"/>libet astringatur, puto considerari debere consuetudin 
+      <lb ed="#C" n="18"/>regionis, ut apparet in his quae not. supra eod. versnam qui 
+      <lb ed="#C" n="19"/>quis. &amp; consuetudine deficiente in dioecesi episcoporum 
+      <lb ed="#C" n="20"/>ut apparet in his quae not. supra eod. vers. proxi quamvis 
+      <lb ed="#C" n="21"/>honestum sit, quod clerici jejunent, &amp; maxime sacerdo 
+      <lb ed="#C" n="22"/>tes, ut apparet in his quae not. supra eod versic. sic vero quin 
+      <lb ed="#C" n="23"/>quagesima. * Quid si vigilia alicujus Sancti in Dominic 
+      <lb ed="#C" n="24"/>die † incidat, nunquid debet jejunari? Non videtur, nan 
+      <lb ed="#C" n="25"/>die Dominico jejunandum non est ut no. inf. eo. §. &amp; 
+      quan<lb ed="#C" n="26" break="no"/>do. sic ergo nec in die sabbathi praecedenti. nam locus si 
+      <lb ed="#C" n="27"/>cer inter duo praedia positus impedit servitutem ff. dese 
+      <lb ed="#C" n="28"/>vit. servitutes. §. 2. &amp; §. ultim &amp; similiter medium praediun 
+      <lb ed="#C" n="29"/>quod non servit. ff. de servit. ru. praed qui sella. §. in rusticis. 8 
+      <lb ed="#C" n="30"/>videtur casus decerni. infra de verbor. signi. quaesivit. §. 1. Se 
+      <lb ed="#C" n="31"/>dic quod licet in die Dominico, quando in ipsum vigili¬ 
+      <lb ed="#C" n="32"/>Apost l incidit, non sit jejunandum, ut ibi: est tamen jequand 
+      <lb ed="#C" n="33"/>die sabbathi praecedenti, ut infr. eo .c.i. in fin. &amp; 2§. 1. nec obs 
+      <lb ed="#C" n="34"/>quod de servitutib. est objectum, quia jejunium non est servitu 
+      <lb ed="#C" n="35"/>praedialis, sed obligatio personalis, quae &amp; si die incidit, qu 
+      <lb ed="#C" n="36"/>solvi non potest, die alia est solvenda, &amp; in hoc melius es 
+      <lb ed="#C" n="37"/>solvere die praecedenti, quam sequenti. ad hoc supra de do¬ 
+      <lb ed="#C" n="38"/>&amp; contum, cum dilecti. § praeterea ff de arb. Celsus. In decreti 
+      <lb ed="#C" n="39"/>etiam invenitur, quod feria quarta, quia Dominus ea di¬ 
+      <lb ed="#C" n="40"/>traditus fuit. &amp; 6. quia ea die passus est, jejunandum es 
+      <lb ed="#C" n="41"/>sed &amp; die sabbathi, quia die illa inter tristitiam passioni 
+      <lb ed="#C" n="42"/>&amp; laetitiam Dominicae resurrectionis includitur, jejunan 
+      <lb ed="#C" n="43"/>dum est, &amp; ab esu carnium abstinendum. de consec dist. sab 
+      <lb ed="#C" n="44"/>batha. &amp; cap. jejunia. tamen ad minus die sabbathi, si quis si 
+      <lb ed="#C" n="45"/>Christianae religionis participem esse desiderat, nisi infis¬ 
+      <lb ed="#C" n="46"/>mitas, vel festivitas impediat, est ab esu carnium abstinen 
+      <lb ed="#C" n="47"/>dum. de consecr. dist. 5. quia dies. &amp; hoc tenent Gallici, com¬ 
+      <lb ed="#C" n="48"/>dentes carnes in feria quarta. Provinciales vero contrar 
+      <lb ed="#C" n="49"/>um servant, sed non est vis. nam &amp; in his diversa consue 
+      <lb ed="#C" n="50"/>tudo tenenda est &amp; servanda, ut patet infra cod consiliun 
+      <lb ed="#C" n="51"/>§. item de illis. ut &amp; not. supra eod vers. nam quisquis. Hoc et 
+      <lb ed="#C" n="52"/>iam scias, quod cuicunque conceditur usus ovorum, &amp; 
+      <lb ed="#C" n="53"/>casoi, intelliguntur concessum, quod etiam sanguine ut 
+      <lb ed="#C" n="54"/>possint. argum. 83. distinct presbyter. &amp; sic utuntur Clunia 
+      <lb ed="#C" n="55"/>cen. sed &amp; Cistercien &amp; quidam alii religiosi contrariun 
+      <lb ed="#C" n="56"/>servant. Item feria sexta possunt comedi carnes, si tamer 
+      <lb ed="#C" n="57"/>Nativitas Domini in ea inciderit, propter festi excellen 
+      <lb ed="#C" n="58"/>tiam, nisi quis voto astrictus sit: vel regulari observantis 
+      <lb ed="#C" n="59"/>abstineat ab esu carnis. infra eod. c. ulti. ad idem de consecr. 
+      <lb ed="#C" n="60"/>dists quia dies. &amp; potest abstinere qui voluerit ex devotio 
+      <lb ed="#C" n="61"/>ne. ut infra eod c fin. 76. distinct. § obserrantia. &amp; not. infra eoc 
+      <lb ed="#C" n="62"/>3 5 sin. per. item festivitas. † Et nunquid in voto potest 
+      episco<lb ed="#C" n="63" break="no"/>pus dispensare. g arg. quod sic. supra de voto. c.i. inspect 
+      <lb ed="#C" n="64"/>Persona &amp; redemptione, quam facere vult, sci. utrum m¬ 
+      <lb ed="#C" n="65"/>gis placere debeat Deo redemptio vel jejunium &amp; secun 
+      <lb ed="#C" n="66"/>dum hoc dispenset, vel non dispenset. arg. supra de voto m. 
+      <lb ed="#C" n="67"/>nae. §. cum igitur. nam &amp; regulares, qui his aequiparantur 
+      <lb ed="#C" n="68"/>Aliquando comedunt carnes extra refectorium in infir 
+      <lb ed="#C" n="69"/>matorio tantum supra de statu mon. cum ad monasterium. E 
+      <lb ed="#C" n="70"/>TUm necelsitas legem non habeat, ut de consecrat distinct.i 
+      <lb ed="#C" n="71"/>D2c. &amp; supra de consecrat. quanto infra de regul jur. quod noi 
+      <lb ed="#C" n="72"/>It licitum de consecrat distinct3. de poenitentibus. &amp; distinct. 
+      <lb ed="#C" n="73"/>Sej un ia in ecclesia &amp;tc. carnem. etiam tempore Quadrages 
+      <lb ed="#C" n="74"/>mae potest dispensare Episcopus cum infirmis, ut in ei 
+      <lb ed="#C" n="75"/>majus periculum evitetur, de consecrat distincts quadrage 
+      <lb ed="#C" n="76"/>vma. &amp; idem tempore caristiae: debet tamen fieri oranoa 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0551.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="77"/>pud Deum, ne eis imputetur, quia bonarum mentium est 
+      <lb ed="#C" n="78"/>ibi timere culpam, ubi culpa minime reperitur. mfra cod 
+      <lb ed="#C" n="79"/>consilium §. cum antem. &amp; Sulti 5. distin ad ejus &amp; junge quoc 
+      <lb ed="#C" n="80"/>notatur supra de rero. §. qualiter. &amp; cujus authoritate. &amp; § se 
+      <lb ed="#C" n="81"/>guta 
+    </p>
+            <p xml:id="nbht7y-d1e1389-d1e775">
+               <lb ed="#C" n="82"/>Et quando non. A die Resurrectionis usque in I 
+      <lb ed="#C" n="83"/>diem Pentecostes jejunandum non est 
+      <lb ed="#C" n="84"/>&amp; ides vigilia Apostolorum Philippi &amp; Jacobi non jeju 
+      <lb ed="#C" n="85"/>natur. infra codem, consilium. respons. 1. nec vigilia Joannis 
+      <lb ed="#C" n="86"/>Evangelistae, cum incidat in natale Domini, ut ibi. ad hoc 
+      <lb ed="#C" n="87"/>86. distin. non autem. excipiuntur de tempore Paschale Ro 
+      <lb ed="#C" n="88"/>gationum dies: ut de consecra. distin. 3. regationes. &amp; de con 
+      <lb ed="#C" n="89"/>suetudine vigilia Pentecostes: quod etiam dixi de Roga 
+      <lb ed="#C" n="90"/>tionibus intelligas, nisi sint de consuetudine approbatae 
+      <lb ed="#C" n="91"/>alibi enim consilium est, secundum Hugo. Item excusa 
+      <lb ed="#C" n="92"/>necessitas: ut patet supra eod. §. proxi. ver,. &amp; cum neci sias 
+      <lb ed="#C" n="93"/>Item honor diei: nam die Dominico nullatenus est jeju 
+      <lb ed="#C" n="94"/>nandum. de consecra distinct. 3. ne quis. &amp; ciejunia ad sin &amp; s 
+      <lb ed="#C" n="95"/>quis hoc hodie studiose dixerit, jejunandum esse, non cre 
+      <lb ed="#C" n="96"/>ditur esse catholicus. 26. qui sin sacerdotes. &amp; si pro poeniten 
+      <lb ed="#C" n="97"/>tia a sacerdote accepta hoc sine necessitate aliqua fecerit 
+      <lb ed="#C" n="98"/>sicut Manichaeus, anathema sit. 36. distinct.c. sin. Sed &amp; eo¬ 
+      <lb ed="#C" n="99"/>dem modo feria quinta, qua Deus ad coelos ascendit, pro 
+      <lb ed="#C" n="100"/>hibetur quilibet jejunare, ut de consecra distinct3 jejuntum 
+      <lb ed="#C" n="101"/>sed hoc de consuetudine non servatur, imo indistincti 
+      <lb ed="#C" n="102"/>quinta feriajejunantur. Item festivitas excusat a jejunio 
+      <lb ed="#C" n="103"/>ideo in quinquaginta diebus festivitatis Paschalis non ess 
+      <lb ed="#C" n="104"/>jejunandum, sicut not. supra eodem. § respons. 1. &amp; est ratio 
+      <lb ed="#C" n="105"/>quia illo tempore fuit sponsus cum sponsa, quae cum de 
+      <lb ed="#C" n="106"/>lectaretur sponsi amplexibus non fuit sibi tunc tempori 
+      <lb ed="#C" n="107"/>aliqua asperitas inducenda: &amp; haec est una ratio, quare j¬ 
+      <lb ed="#C" n="108"/>junium Pentecostes ejusdem hebdomadae reservatur. 76 
+      <lb ed="#C" n="109"/>distinet jejunium §. non tamen &amp; seq Est &amp; alia, ut si quid for 
+      <lb ed="#C" n="110"/>te in festivitate Paschali libertas negligens, &amp; licentian 
+      <lb ed="#C" n="111"/>immoderatam commiserit, sequenti abstinentia experie 
+      <lb ed="#C" n="112"/>tur. 86. distinct. igitur. Est &amp; terria: ut scilicet ordines, qu 
+      <lb ed="#C" n="113"/>tunc temporis conferendi, recepta Spiritus sancti grati¬ 
+      <lb ed="#C" n="114"/>celebrat &amp; haec ratio redditur. supra de temp. ord c. 1. sed &amp; 
+      <lb ed="#C" n="115"/>si quis his diebus festivis non in contempium festi, sed ol 
+      <lb ed="#C" n="116"/>veram devotionem, &amp; carnis macerationem voluerit ab 
+      <lb ed="#C" n="117"/>stinere. hoc non improbamus. &amp; sic intellige, quod not su 
+      <lb ed="#C" n="118"/>pra eod §. prox. vers. item feria sexta.
+    <!--</p>
+    <p>
+      <lb ed="#C" n="119"/>ADDITIONES. 
+      <lb ed="#C" n="120"/>. Quid de adventu] Adde Arch. Flo in 2. parte suae senmnnae tis. 6 
+    </p>
+    <p>
+      <lb ed="#C" n="121"/>c. 2. in § nunquid sunt dies 
+      <lb ed="#C" n="122"/>f In Dominica dic] Adde tex. inc.icinni. de conse dist. 3. col. ult. nan 
+    </p>
+    <p>
+      <lb ed="#C" n="123"/>&amp; ibi Arch. 81. disi 
+      <lb ed="#C" n="124"/>E Nundu. d in voto possit Episcopus dispensare] Adde Innoc. e 
+    </p>
+    <p>
+      <lb ed="#C" n="125"/>Ant. de Butt. in cap delectus. de tem. ard. Spec.lii.ae disi ensat. in 
+      <lb ed="#C" n="126"/>nuns de episcoporum--> 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

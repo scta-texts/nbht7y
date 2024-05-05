@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 41</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 41</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="526"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1334"><!-- nbht7y-l3t41 -->
+            <head xml:id="nbht7y-d1e1334-Hd1e101">Titulus 41</head>
+            <head xml:id="nbht7y-d1e1334-Hd1e103" type="question-title">De celebratione missarum, et sacramento eucharistiae et divinis officiis</head>
+            <p xml:id="nbht7y-d1e1334-d1e106">
+               <lb ed="#C" n="56"/>De Celebratione Missarum, sacra 
+      <lb ed="#C" n="57"/>mento Eucharistiae, &amp; divinis of¬ 
+      <lb ed="#C" n="58"/>ficiis. XLI. Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1334-d1e115">
+               <lb ed="#C" n="59"/>HAEC rubrica sic continuator quonia con¬ 
+      <lb ed="#C" n="60"/>secrationes, de quib. dixi. supr. titul. 
+      <lb ed="#C" n="61"/>habent fieri &amp; in missa, sicut no supra titul. 
+      <lb ed="#C" n="62"/>distina &amp; qualiter ideo dicamus de celebra 
+      <lb ed="#C" n="63"/>tione missarum, sacramento Eucharistiae 
+      <lb ed="#C" n="64"/>&amp; divinis officiis: hoc quo ad partem de sacramento Eu 
+      <lb ed="#C" n="65"/>Charistiae expeditur supra tit.i.dist 25&amp; quando ver. in sacr. 
+      <lb ed="#C" n="66"/>zent o altaris, &amp; sequ quantum ad divina officia expeditur 
+      <lb ed="#C" n="67"/>ea supra titul. idistinctione 5. quantum ad celebrationem 
+      <lb ed="#C" n="68"/>missarum exponitur supratitulI distinctio. 1512&amp;; &amp; di 
+      <lb ed="#C" n="69"/>cret: quae est infra ecodem, sane competentius pone 
+      <lb ed="#C" n="70"/>tur infra de custod. Eucha 
+      <!-- missing line break -->rist.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

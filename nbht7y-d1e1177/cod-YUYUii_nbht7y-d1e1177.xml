@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 27</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 27</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="468"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1177"><!-- nbht7y-l3t27 -->
+            <head xml:id="nbht7y-d1e1177-Hd1e101">Titulus 27</head>
+            <head xml:id="nbht7y-d1e1177-Hd1e103" type="question-title">De successionibus ab intestato</head>
+            <p xml:id="nbht7y-d1e1177-d1e106">
+               <lb ed="#C" n="113"/>De Successionibus ab intestato. 
+      <lb ed="#C" n="114"/>Rubr. XXVII. 
+    </p>
+            <p xml:id="nbht7y-d1e1177-d1e113">
+               <lb ed="#C" n="115"/>SVMMARIA. 
+      <lb ed="#C" n="116"/>1. Intestatus quot modis dicatur 
+      <lb ed="#C" n="117"/>2 Ecclesia qualiter succedat clerico morienti. Et in quibusm. 
+      <lb ed="#C" n="118"/>bus nuin. 
+      <lb ed="#C" n="119"/>4. Haeredtas qualiter deferatur jure agnationis 
+      <lb ed="#C" n="120"/>5 Linea descendente d. ficiente quomodo adinutatur linea asce 
+    </p>
+            <p xml:id="nbht7y-d1e1177-d1e129">
+               <lb ed="#C" n="121"/>DIctum est suprade succesionibus ex 
+      <lb ed="#C" n="122"/>testamento: sed quia mu 
+      <lb ed="#C" n="123"/>toties homines intestati decedunt: vider 
+      <lb ed="#C" n="124"/>dum est de successionibus ab intestato no 
+      <lb ed="#C" n="125"/>tandum igitur, Quot modis dicatur qui 
+      <lb ed="#C" n="126"/>inteitatus, Qualiter ecclesia morienti clerico succedat, E 
+      <lb ed="#C" n="127"/>in quibus rebus, Et qualiter deferatur haereditas jure co 
+      <lb ed="#C" n="128"/>gnationis, vel agnationis
+    </p>
+            <p xml:id="nbht7y-d1e1177-d1e150">
+               <lb ed="#C" n="129"/>Quot modis dicatur qui intestatus. Qua¬ 
+      <lb ed="#C" n="130"/>tuor. si nullum 
+      o<lb ed="#C" n="131" break="no"/>mnino fecerit testamentum, vel fecit, non jure: vel jure 
+      <lb ed="#C" n="132"/>fecit, sed postea ruptum, vel haeres noluit haereditatem 
+      <lb ed="#C" n="133"/>adire: ut in auth. de succ. ab inest. in princ, col. 9.
+    </p>
+            <p xml:id="nbht7y-d1e1177-d1e163">
+               <lb ed="#C" n="134"/>Qualiter ecclesia! morienti clerico succedat 
+      <lb ed="#C" n="135"/>Respondeo, si non supersint a 
+      <lb ed="#C" n="136"/>gnati, vel cognati. nam hi potiores essent in successiont 
+      <lb ed="#C" n="137"/>12.q4. 5.c sin.m sin. &amp;c. ult. § sed si episcopus. 12. qu. sin.c. ult. &amp; qu. 
+      <lb ed="#C" n="138"/>quicunque. arg. C. de haer decurionum, velnaricula. l1 2. &amp; 3. 
+      <lb ed="#C" n="139"/>per totum Instit. de suc. lib. §. sed nostra. sic intelligitur. infra eo 
+      <lb ed="#C" n="140"/>c. 1. Item uxor clerici ecclesiae praefertur. C. de episc. &amp; cle 
+      <lb ed="#C" n="141"/>si quis presbyter &amp; C. unde vir &amp; uxor. I.unica. ergo in subsid 
+      <lb ed="#C" n="142"/>um succedit eccl. ut supra tit. i requisisti. &amp; relatum 12. 95.c.) 
+      <lb ed="#C" n="143"/>Et haec locum habent, quando apparet quantum &amp; quo 
+      <lb ed="#C" n="144"/>tum erat peculium clericisquia seorsum posuerat. 12. qua 
+      <lb ed="#C" n="145"/>sint manifestae. de hoc not. supra de poeni. §. quot sint &amp; sequen 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="146"/>ADDITIO 
+      <lb ed="#C" n="147"/>s Dicatur quis intestatus] Adde an quis possit decedere pro 
+    </p>
+    <p>
+      <lb ed="#C" n="148"/>parte testatus, &amp; pro parte intestatus. vide in l. im nostrum 
+      <lb ed="#C" n="149"/>de reg. iur. Bal. in l. I. in 5 q, in prin. I. de sacros. eccles. Paul de Cass 
+      <lb ed="#C" n="150"/>in I.cum duob. in I. not. C. de inoff tesi--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0486.xml-->
+      <pb ed="#C" n="469"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>&amp; §. 1. Si vero peculium confusum erat peculio profecti 
+      <lb ed="#C" n="2"/>tio ecclesiae, &amp; dubitetur, utrum proprium habuerit, prae 
+      <lb ed="#C" n="3"/>sumitur pro ecclesia, quod non. &amp; sic totum occupat. fd 
+      <lb ed="#C" n="4"/>reb. dub. civib. E.qu3. quicunque sup. de pecu. cler.c. 12. &amp; 3. Sin ai 
+      <lb ed="#C" n="5"/>tem dubitetur de quo, vel de quanto certum tamen eras 
+      <lb ed="#C" n="6"/>quod aliquid exterius acquisierat. debet dividi totum p¬ 
+      <lb ed="#C" n="7"/>culium in quatuor partes, quarum unam habet episcopu: 
+      <lb ed="#C" n="8"/>alteram ecclesia, cui servierat, etiam pauperes: quartam p¬ 
+      <lb ed="#C" n="9"/>rentes, si idonei sint: ut inf. eod. sancto. Sed si parentes no 
+      <lb ed="#C" n="10"/>sunt idonei: puta quia haeretici. 23q4. 2. sane infra de haeret. 
+      <lb ed="#C" n="11"/>episcopus. in utilitatem eccl. convertatur: ut in d. c. sanct. Se 
+      <lb ed="#C" n="12"/>quidam intelligunt quodc. sancto habet locum in ecclesii 
+      <lb ed="#C" n="13"/>collegiatis. alii, quod in praesbyteris quondam servis, ne 
+      <lb ed="#C" n="14"/>erant parentes idonei, cum servi essent, &amp; sic sibi nihil a¬ 
+      <lb ed="#C" n="15"/>quirere possent. Inst. per quas perso. no acque unde quod dici 
+      <lb ed="#C" n="16"/>Idonei, intelligendum est, scilicet quia habet consangu 
+      <lb ed="#C" n="17"/>neos manumissos. Item videtur quod ecclesia succeder 
+      <lb ed="#C" n="18"/>debeat sacerdoti quondam servo ecclesiae: quia nullu 
+      <lb ed="#C" n="19"/>proximior haeres nobis est, quam is qui nos Deo conjun 
+      <lb ed="#C" n="20"/>xit. ut infra de paen presb. supra de ser. non or. de famulis. supra d 
+      <lb ed="#C" n="21"/>reb. eccle. non alie consensus &amp;c. episcopi. Quid, si quis clericu 
+      <lb ed="#C" n="22"/>intestatus decedat, qui beneficiatus erat in diversis eccle 
+      <lb ed="#C" n="23"/>siis? Dicas, quod si cognati deficiant, &amp; proprium suun 
+      <lb ed="#C" n="24"/>peculium certum est, nam occasione eccles. acquisitum 
+      <lb ed="#C" n="25"/>deberet illud inter ecclesias pro rata distribui: ut si habea 
+      <lb ed="#C" n="26"/>30. li. etiam morte, &amp; in una eccl. percipiebat. 40.li. in red 
+      <lb ed="#C" n="27"/>tibus in alia 20. prima habeat 20. lib. de 30 &amp; secunda ic 
+      <lb ed="#C" n="28"/>sup. tit. I. relatum. 2. §. fi. Sed quid continetur nomine eccle 
+      <lb ed="#C" n="29"/>b nunquid episcopus, vel congregatio? Et certe is a qui 
+      <lb ed="#C" n="30"/>beneficiatus erat, ubi ecclesiam, vel certum officium no 
+      <lb ed="#C" n="31"/>habebat. alias successor nomine eccl. continetur: ut noti 
+      <lb ed="#C" n="32"/>supra tit. I. relatum. 2§ nomine. &amp;c. requisisti § fi 12.qu. 2. de la 
+      <lb ed="#C" n="33"/>cis. supra de off ord. cum vos. in fi. inf. eod. c si supra de pec. cle, ca¬ 
+      <lb ed="#C" n="34"/>supra tit. I. cum in officiis. Ideoque rector eccle. bona praede 
+      <lb ed="#C" n="35"/>cessoris habere debet, non eccle. patr. multo minus patro 
+      <lb ed="#C" n="36"/>nus laicus. infra de stat. mo. in singulis § fi infra de ju. pat praeter 
+      <lb ed="#C" n="37"/>ea, quia nec episcopus hoc occupare debet. alias furti &amp; la 
+      <lb ed="#C" n="38"/>trocinii crimine irretitur. 10. 9. 2c. fin. Sed si inter eccles.&amp; 
+      <lb ed="#C" n="39"/>cognatos vertitur quaestio superbonis, si ecclesia poss 
+      <lb ed="#C" n="40"/>deat, praesumptio est pro ipsa. &amp; sic potest intelligi quo 
+      <lb ed="#C" n="41"/>not. supra eodem. versic. si vero peculium. si vero cognati po 
+      <lb ed="#C" n="42"/>sideant, necesse habet eccl. probare intentionem suam, u 
+      <lb ed="#C" n="43"/>sic commodum possessionis nemini auferatur. 12q. 5. null 
+      <lb ed="#C" n="44"/>C. de rei vend. I ult f.de rei vend. is qui destinaverit. &amp; est opi 
+      <lb ed="#C" n="45"/>arg. infra eodc. fin 
+    </p>
+            <p xml:id="nbht7y-d1e1177-d1e298">
+               <lb ed="#C" n="46"/>Et in quibus rebus. In profectitiis indistincte 
+      <lb ed="#C" n="47"/>cum de his testari non pol 
+      <lb ed="#C" n="48"/>quod dic, ut not. supra tit..S. ult subS in summa. &amp; quasi ca 
+      <lb ed="#C" n="49"/>strensi cum dist. praemissa de hoc supra de don. §. &amp; quid e 
+      <lb ed="#C" n="50"/>de pecu cler. §. qui clerici. &amp; se. si tamen clericus promovea 
+      <lb ed="#C" n="51"/>tur ad eccles. nihil habens prima facie, praesumitur quo¬ 
+      <lb ed="#C" n="52"/>intuitu eccles acquisierit quicquid habet. supra de pecu. cli 
+      <lb ed="#C" n="53"/>c.i. 2 &amp;3. ergo in quasi castrensi si non facit testaientum 
+      <lb ed="#C" n="54"/>vel facit, &amp; non valet, ut quia furiosus erat, ecclesia, cu 
+      <lb ed="#C" n="55"/>servierat, deficientibus cognatis &amp; agnatis, succedat, e 
+      <lb ed="#C" n="56"/>episcopus nomine ecclesiae agere poterit. inf. eod. c. ultin 
+      <lb ed="#C" n="57"/>quamvis non sit sponsa: ut supra de testa. requisisti §. ult &amp; il¬ 
+      <lb ed="#C" n="58"/>lud notandum, quod si quis aliquem testari prohib. a 
+      <lb ed="#C" n="59"/>ejus haereditate repellitur. ut C si quis aliquem testari prohil 
+      <lb ed="#C" n="60"/>l 3. uxor tamen maritali sermone postremum judiciun 
+      <lb ed="#C" n="61"/>viri provocare poterit, ut C. si quis alium testament. 
+      <lb ed="#C" n="62"/>ultim.
+    </p>
+            <p xml:id="nbht7y-d1e1177-d1e337">
+               <lb ed="#C" n="63"/>Et qualiter deferatur haereditas jure agnationis 
+      <lb ed="#C" n="64"/>Primo succedunt descendentes: secun 
+      <lb ed="#C" n="65"/>do ascendentes, una cum fratribus tertio collaterales pro 
+      <lb ed="#C" n="66"/>ximiores, ut in auth. de haer ab intest. veni. &amp; ut fratrum filii. e 
+      <lb ed="#C" n="67"/>C. de suis &amp; legi. auth. in successione. &amp; auth. defunct. &amp; ad Orf 
+      <lb ed="#C" n="68"/>cianum. auth, cessante. &amp; authen. post fratres. omnibus his def 
+      <lb ed="#C" n="69"/>cientibus uxor succedit. C. unde vir. &amp; uxor l. unica postre 
+      <lb ed="#C" n="70"/>mô fiscus. C. de bo. vac. l.i.li. 10. hoc, nisi pactum vel consue 
+      <lb ed="#C" n="71"/>tudo praejudicet. Quid ergo, si sit de consuetudine terrae 
+      <lb ed="#C" n="72"/>quod mortuo homine sine filio, dominus terrae totum oc 
+      <lb ed="#C" n="73"/>cupet? dic ut no. infr. dena. ex libe ven ver si. &amp; junge quo 
+      <lb ed="#C" n="74"/>no inf. qui fil. sint legi. §. an utrumque genus succedat. In summa 
+      <lb ed="#C" n="75"/>no. quod non videtur decedere intestatus, vel sine liberi: 
+      <lb ed="#C" n="76"/>qui ecclesi. reliquit haeredem. supra de proba. in praesentia in 
+      <lb ed="#C" n="77"/>auth. de san. episc. §. sed &amp; haec in praesentia, col. 9.
+    </p>
+            <p xml:id="nbht7y-d1e1177-d1e372">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0486.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>CIrca successionem autem ab intestato multa jura in 
+      <lb ed="#C" n="79"/>veniuntur, quia quae non tenent, non multum expe 
+      <lb ed="#C" n="80"/>dit recitare. Ad jus autem novissimum accedentes prim¬ 
+      <lb ed="#C" n="81"/>tractabimus de suc descendentium: secundo, de suc ascen 
+      <lb ed="#C" n="82"/>dentium: postremo, de successione collateralium. Scien¬ 
+      <lb ed="#C" n="83"/>dum est igitur, quod in successione ab intestato potior es 
+      <lb ed="#C" n="84"/>causa descendentium, videlicet si supersint. vnde ex libre 
+      <lb ed="#C" n="85"/>auth. de haere. ab intestato. §. si quis igitur, col o. elicitur auth. po 
+      <lb ed="#C" n="86"/>situm. C. de suis &amp; legi. lib in quo sic habetur. In succession 
+      <lb ed="#C" n="87"/>mortui patrisfam, seu filiitam. liberi ejus si sint omnibu 
+      <lb ed="#C" n="88"/>aliis praelati, succedunt primi quidem gradus aequalite 
+      <lb ed="#C" n="89"/>nepotes, &amp; ulteriores in stirpes, non distinguendo sexun 
+      <lb ed="#C" n="90"/>vel jura potestatis, sed naturalicausa sola inspecta. Filiis 
+      <lb ed="#C" n="91"/>sic, secundum haec jura nova filiusfam. successorem habe 
+      <lb ed="#C" n="92"/>re potest, aliud secundum antiqua jura, secundum qua 
+      <lb ed="#C" n="93"/>pater omnia jura peculii occupabat. ff. de castr. pec. l.i. &amp; 
+      <lb ed="#C" n="94"/>nisi forte clericus esset. C. de epis. &amp; cler. sacrosanct. sed hodi¬ 
+      <lb ed="#C" n="95"/>non dist. ut hic probatur. Liberi scilicet legitimi. &amp; natura 
+      <lb ed="#C" n="96"/>les, vel etiam legitimi tantum. ut C. de suis &amp; legi. libe. si te pa 
+      <lb ed="#C" n="97"/>rens. &amp; de adopt. cum in udoptivit. nec patitur haec correctio 
+      <lb ed="#C" n="98"/>nem per fi. hujus auth. ut ibi no. Quid de naturalibus tan 
+      <lb ed="#C" n="99"/>tum? In totum succedunt, secundum leges, si alii non su 
+      <lb ed="#C" n="100"/>persunt. spurii vero nunquam succedunt. C. de natu. libe 
+      <lb ed="#C" n="101"/>auih. licet f. unde cogna si spurius. in auih. qui. mo. na effi sui. §. 
+      <lb ed="#C" n="102"/>col. 7. &amp; quibus mod natu. effi. legi. §. fi.coll. 6. &amp; haec vera sunt 
+      <lb ed="#C" n="103"/>quo adlineam paternam. Quod si agatur de succ. matris 
+      <lb ed="#C" n="104"/>ibi veniunt spurii, &amp; cum legitimis, nisi mater illustris su 
+      <lb ed="#C" n="105"/>secundum Laur. Cre. C. ad Orsic. si qua illustris. Inst. ad Orfic 
+      <lb ed="#C" n="106"/>anum. §. novissime, &amp; si exhaeredentur a matre competit ei 
+      <lb ed="#C" n="107"/>querela ff. de inoffic. test. si suspecta §. de nofficioso. Alii distin 
+      <lb ed="#C" n="108"/>utrum spurius natus sit ex tali coitu, e de quo aliqua pos¬ 
+      <lb ed="#C" n="109"/>set accusari. I. Iul. de adulteriis. vel de stupro, &amp; tunc nor 
+      <lb ed="#C" n="110"/>succedit: vel ex tali, de quo non admitteretur accusatio, &amp; 
+      <lb ed="#C" n="111"/>tunc non succedit: puta, quia publice se prostituit: tun¬ 
+      <lb ed="#C" n="112"/>n. non accusare posset. C. de adul quae ad adulterium. &amp; sic in 
+      <lb ed="#C" n="113"/>tellexit Hug. supra dicta jura. de hoc tamen speciosius. no 
+      <lb ed="#C" n="114"/>infra qui fil sint legi. §. an utrunque genus succedat. Praelati, nam 
+      <lb ed="#C" n="115"/>&amp; hodie, &amp; olim semper fuit, &amp; est potior causa descen 
+      <lb ed="#C" n="116"/>dentium. ut hic &amp; Inst. de haere. qual. &amp; diffe. § sui. &amp; C. de leg 
+      <lb ed="#C" n="117"/>haere. auth. defunct. &amp; de suis &amp; leg li si defunctus. &amp; l. pen. e 
+      <lb ed="#C" n="118"/>ultin. in stirpes, id est, in eam partem, quam parentes eori 
+      <lb ed="#C" n="119"/>habituri erant, si viverent. unde si quis ex uno filio unici 
+      <lb ed="#C" n="120"/>nepotem susceperit, &amp; ex altero decem vel plures, tan¬ 
+      <lb ed="#C" n="121"/>tum capiet unus ex parte una, quantum decem ex part¬ 
+      <lb ed="#C" n="122"/>altera. C. de suis &amp; legi. libe l. I. &amp; 2&amp; Instit de leg. agna. suc. § 
+      <lb ed="#C" n="123"/>hoc etiam. hoc si tractetur de successione descendentium 
+      <lb ed="#C" n="124"/>collaterales namque semper viriliter succedunt, &amp; hi qui 
+      <lb ed="#C" n="125"/>eodem sunt gradu, viriliter id est proaequis portionibus 
+      <lb ed="#C" n="126"/>ut in auth de haer. ab inte. §. si vero, col9. sive in capita. C. de le¬ 
+      <lb ed="#C" n="127"/>haer. I. fi. §. si. nisi in casu, quando, scilicet filii praemortuorum 
+      <lb ed="#C" n="128"/>fratrum succedunt patruis suis, quia tunc filii praemor 
+      <lb ed="#C" n="129"/>tuorum fratrum in stirpes succedunt, ut C. de leg. haer. auih 
+      <lb ed="#C" n="130"/>cessante licet aliqui dixerint, quod semper instirpes succe 
+      <lb ed="#C" n="131"/>dunt. sicut infra no sub §. viso ver. quid sifratrum filii. Sexus 
+      <lb ed="#C" n="132"/>quia sic succedit mulier, sicut &amp; masculus. nam unius san 
+      <lb ed="#C" n="133"/>guinis jura permanent. C. de leg. haer. I.pen. neque debemu: 
+      <lb ed="#C" n="134"/>esse naturae accusatores. C. de libe. praeter. vel exhaered. maxi 
+      <lb ed="#C" n="135"/>mum respon. i. &amp; §.1. Inst. de leg. agn. succ. §. nos vero legem. 12. tab 
+      <lb ed="#C" n="136"/>&amp; sequen. Potestatis: quia ita succedit emancipatus, sicu 
+      <lb ed="#C" n="137"/>suus, &amp; hoc sive agatur de successione ab intestato, vel es 
+      <lb ed="#C" n="138"/>testato, secundum quosdam, dominus meus contra &amp; di 
+      <lb ed="#C" n="139"/>cit, quod non tantum locum habet ab intestato, olim enim 
+      <lb ed="#C" n="140"/>emancipati non cognoscebantur de jure civili: ut Instit. d. 
+      <lb ed="#C" n="141"/>haere. quae ab intest. defe §. emancipati. &amp; de exhaered. lib §. eman 
+      <lb ed="#C" n="142"/>cipatos. &amp; illud solum corrigitur quo ad succ. ab intesta u 
+      <lb ed="#C" n="143"/>hic: secus, si agatur de succes. ex testamento ut no. sup. tii 
+      <lb ed="#C" n="144"/>1§ qualiter infirmetur. sub § cum quis facit testamentum. versic 
+      <lb ed="#C" n="145"/>sin autem filius non erat suus. Sed &amp; olim aliae differentia 
+      <lb ed="#C" n="146"/>poterant notari inter suos, &amp; emancipatos, quae nec ho- 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="147"/>ADDITIONES. 
+      <lb ed="#C" n="148"/>b Quid continetur nomine ecclesiae.JAdde c requisisti. de testa 
+    </p>
+    <p>
+      <lb ed="#C" n="149"/>gl.inc. post electionem. de conces. praeb. Ioan. And. in regula in indi 
+      <lb ed="#C" n="150"/>ciis. de regul iur lib. 6. in mer 
+      <lb ed="#C" n="151"/>e Spurius natus sit ex talicoitu.J Adde Dect. inc per venerab. qu 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>fil sint legii--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0487.xml-->
+      <pb ed="#C" n="470"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>die tolluntur, puta si quaeratur de collatione facienda, si¬ 
+      <lb ed="#C" n="2"/>ut notat. C. de coll filiae &amp; l. si emancipati. Item suus acquiri 
+      <lb ed="#C" n="3"/>patri, quo ad usumfructum, emancipatus sibi insolidum 
+      <lb ed="#C" n="4"/>C. de bo. quae libe, cum oportet. &amp; l. non solum. Item suus no 
+      <lb ed="#C" n="5"/>potest patrem regulariter vocare in jus ff de judic. lis null 
+      <lb ed="#C" n="6"/>emancipatus potest, venia tamen edicti petita. C. de in ju 
+      <lb ed="#C" n="7"/>voc. I. fin. Item donatio collata, in suum, non tenet ab in 
+      <lb ed="#C" n="8"/>tio, sed in emancipatum facta, valet. C. de inoffi. do l. 2. C. a 
+      <lb ed="#C" n="9"/>donat. cum de bonis. Item emancipatus condemnatur, in 
+      <lb ed="#C" n="10"/>quantum facere potest. ff. quod cum eo. qui in alien. pot. I. 
+      <lb ed="#C" n="11"/>suus insolidum f. depecu. si quis cum filiosam. dic ergo, no 
+      <lb ed="#C" n="12"/>distinguendo jura potestatis, subaudi agnatione, vel co 
+      <lb ed="#C" n="13"/>gnatione. &amp; sic est in corpore auth. &amp; sic hodie cogna 
+      <lb ed="#C" n="14"/>admittuntur ab intest. qui olim non admittebantur. C. u¬ 
+      <lb ed="#C" n="15"/>de cog. l. 2. Sed nunquid per hoc corrigitur differentia, qui 
+      <lb ed="#C" n="16"/>olim assignabatur inter agnatos, scilicet quod agnati suc 
+      <lb ed="#C" n="17"/>cedantusque ad decimum gradum: cognati vero usqu 
+      <lb ed="#C" n="18"/>ad sextum tantum: ut Insti. de succ. cogn §. fin. dicas. quo 
+      <lb ed="#C" n="19"/>sic, secundum Azo. quia quo ad succescionem ab intest¬ 
+      <lb ed="#C" n="20"/>to differentia est sublata: ut supra not quinimo secundun 
+      <lb ed="#C" n="21"/>Pla hodie succedunt agnati, &amp; cognati in infinitum: qui 
+      <lb ed="#C" n="22"/>hodie non attenditur, in quo gradu quis sit. &amp; haec senter 
+      <lb ed="#C" n="23"/>tia multis Dd. toleratur &amp; videtur in authent. corpor 
+      <lb ed="#C" n="24"/>comprobari. ut &amp; not. infra eo sub § viso. versi quicunque gr. 
+      <lb ed="#C" n="25"/>du. hoc tamen intelligas, dummodo de attinentia fiat fi 
+      <lb ed="#C" n="26"/>des. hoc ideo dico, quia certum est, quod saltem ex part 
+      <lb ed="#C" n="27"/>ad omnes sibi attinent adinvicem: ut si haec attinentia c 
+      <lb ed="#C" n="28"/>sideretur, nullo successore careret. Sed sola naturali caus. 
+      <lb ed="#C" n="29"/>inspecta, hoc adjecit dominus Y. de suo: nec enim si volva 
+      <lb ed="#C" n="30"/>&amp; revolvas totum corpus authen. haec verba ibi reperies 
+      <lb ed="#C" n="31"/>&amp; debes ipsa sic intelligere, quod scilicet sola naturali 
+      <lb ed="#C" n="32"/>causa tantum inspicitur. quia scilicet non attenditur, utri 
+      <lb ed="#C" n="33"/>quis sit agnatus, vel cognatus suus, vel emancipatus: 
+      <lb ed="#C" n="34"/>iupra no. non ergo corrigitur, quin adoptivus succeder 
+      <lb ed="#C" n="35"/>possit, ut no. supra eo. versi. liberi. Item nec removet, quir 
+      <lb ed="#C" n="36"/>patronus succedat liberto suo: ut Inst. de succes. li. suo. pe 
+      <lb ed="#C" n="37"/>totum, licet de suo sanguine non sit. Item nec propter ho 
+      <lb ed="#C" n="38"/>sequitur, quod servus succedat cognato suo, licet eju¬ 
+      <lb ed="#C" n="39"/>dem sanguinis sint f unde cog.l.i.C. com de suct, servus. nequ 
+      <lb ed="#C" n="40"/>dominus cognatis servi. ut f.unde cog. l. 
+    </p>
+            <p xml:id="nbht7y-d1e1177-d1e623">
+               <lb ed="#C" n="41"/>SIc vidisti de linea descendenti: qua deficiente, est! 
+      <lb ed="#C" n="42"/>nea ascendens admittenda. ut in auth. de haered. ab intest. 
+      <lb ed="#C" n="43"/>haec quidem, colo. ex quo elicitur auth positum. Cad Tertul. in 
+      <lb ed="#C" n="44"/>quo sic habetur: Defuncto sine liberis, parentes si soli sini 
+      <lb ed="#C" n="45"/>pariter succedunt, salva gradus praerogativa: si parigr. 
+      <lb ed="#C" n="46"/>du sint pariter succedunt, paternis quidem dimidia, n¬ 
+      <lb ed="#C" n="47"/>ternis vero dimidia delata licet dispar sit eorum num 
+      <lb ed="#C" n="48"/>rus. Sed si cum parentibus fratres sororesve utrinque d 
+      <lb ed="#C" n="49"/>functo conjuncti supersint vocantur cum ascendentibu 
+      <lb ed="#C" n="50"/>in gradu proximo, ut viriles p ortiones faciant exclusa dis 
+      <lb ed="#C" n="51"/>ferentia sexus, &amp; patriae potestatis, ubi nulla secundarun 
+      <lb ed="#C" n="52"/>nuptiarum fit mentio. Defuncto scilic. aliquo, vel aliqua 
+      <lb ed="#C" n="53"/>de cujus successione agitur. Sine liberis. bene dicit: nam 
+      <lb ed="#C" n="54"/>liberi superessent, omnes alios excluderent: ut patet in hi 
+      <lb ed="#C" n="55"/>quae no sup. eo. sub §. prox per. sciendum. &amp; seq. Salva gradu 
+      <lb ed="#C" n="56"/>praerogativa: ut pater, scilicet praeferatur avo, si uterqui 
+      <lb ed="#C" n="57"/>supersit &amp; avus proavo: &amp; sic de singulis. Si pari gradi 
+      <lb ed="#C" n="58"/>sint, scil. parentes puta pater &amp; mater. Pariter, id est, viril 
+      <lb ed="#C" n="59"/>ter, i. quilibet pro media parte succedunt: sed non parite 
+      <lb ed="#C" n="60"/>numero, ut sequitur. Licet dispar sit eorum numerus, i. 
+      <lb ed="#C" n="61"/>ex una parte est tantum avus maternus, &amp; ex altera avu 
+      <lb ed="#C" n="62"/>&amp; avia paterni, quantum habebunt avus &amp; avia paterni 
+      <lb ed="#C" n="63"/>licet duo tantum sint, capiet avus maternus, licet solus si 
+      <lb ed="#C" n="64"/>Sed si cum parentibus utrinque, id est, ex utroque parent 
+      <lb ed="#C" n="65"/>sc. sunt fratres consanguinei, ex parte ejusdem patris, &amp; 
+      <lb ed="#C" n="66"/>jusdem matris: secus si sit frater uterinus ex parte matri 
+      <lb ed="#C" n="67"/>tantum, vel agnatus ex parte patris tantum: quia talis es 
+      <lb ed="#C" n="68"/>cluderetur a parentibus in corpore auth. Quid si supersin 
+      <lb ed="#C" n="69"/>filii fratrum ex utroque latere conjunctorum: admittentu 
+      <lb ed="#C" n="70"/>una cum parentibus sicut &amp; patres eorum si viverent, admi 
+      <lb ed="#C" n="71"/>terentur: ut in auth ut fratrum filii, circa princip. C. de leg haere 
+      <lb ed="#C" n="72"/>au th. hoc cessante hoc secundum jus novissimum. nam seci 
+      <lb ed="#C" n="73"/>du n auth de haer. ab intest §. sin autem. cum fratribus exclu 
+      <lb ed="#C" n="74"/>de Sat pater filios praemortui filii sui, &amp; fratris defuncti ne 
+      <lb ed="#C" n="75"/>ob Ttat versus positus in d. auth cessante. ibi, quae personae ve 
+      <lb ed="#C" n="76"/>ni ant, &amp; cap. quia illa verba non extrahuntur de authen. a 
+      <lb ed="#C" n="77"/>hae red. ab intest. sed de illo, ut fratrum filii. ut infra no. sub 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0487.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>seque versi quae personae. In gradu proximo, id est, cum parr 
+      <lb ed="#C" n="79"/>&amp; matre, si supersint, alias avo &amp; avia, &amp; sic de singulis si 
+      <lb ed="#C" n="80"/>perioribus. Quid si habet fratres ex una parte, &amp; avum 8 
+      <lb ed="#C" n="81"/>aviam ex superiori linea: nunquid avus succedet cun 
+      <lb ed="#C" n="82"/>fratribus Gosiani, id est, Mart. &amp; ejus sequaces, dixerun 
+      <lb ed="#C" n="83"/>quod non: imo praeferendi sunt fratres. C. deleg. liber aui 
+      <lb ed="#C" n="84"/>in succes. posita. supra eod. sub s, proxim. versi in successione. &amp; 2 
+      <lb ed="#C" n="85"/>hoc inducunt rationem naturalem: hanc scilicet quia fi¬ 
+      <lb ed="#C" n="86"/>ter aequiparatur patri: at pater excluditavum: ut in aul 
+      <lb ed="#C" n="87"/>ergo. &amp; frater excludit avum. arg. ff. de diver. &amp; tempopraesc 
+      <lb ed="#C" n="88"/>de accessionib. &amp; infra eo. sub §. proxim. versi. hi autem fratrum 
+      <lb ed="#C" n="89"/>lum &amp; in authen. de haer ab intest. §. 2. Job. vero, Azo. &amp; domi 
+      <lb ed="#C" n="90"/>nus meus contrarium. nec obsta quod hic dicit, In grad 
+      <lb ed="#C" n="91"/>proximo: nam proximus est quem nemo antecedit, ff.d 
+      <lb ed="#C" n="92"/>verborum signisic. prox. nec obstat authen. in succes. quia inte 
+      <lb ed="#C" n="93"/>ligitur secundum, aliud authen. ut fratrum filii. nec valet a 
+      <lb ed="#C" n="94"/>ticu. naturalis rationis inductum. quia verum est, quo 
+      <lb ed="#C" n="95"/>pater excludit avum, si supersit: porro si pater non super 
+      <lb ed="#C" n="96"/>sit. quo excludetur, nec frater potest habere idem privil 
+      <lb ed="#C" n="97"/>gium, cum ei non concedatur, arg. inf. de privil. sane, vel fo¬ 
+      <lb ed="#C" n="98"/>te. fallit hic illa ratio. Si vinco vincentem te, &amp;c. sicut &amp; in 
+      <lb ed="#C" n="99"/>quibusdam aliis casibus, quos no. infra qui fl sint legi §. a 
+      <lb ed="#C" n="100"/>atrumque genus succedat. ver. quod autem dixi &amp; seq. Sexus, qui 
+      <lb ed="#C" n="101"/>ita succedit foemina sicut &amp; masculus. ut not. supra eod su 
+      <lb ed="#C" n="102"/>§. proxi. ver sexus. Patriae potestatis: quia nec refert, utrun 
+      <lb ed="#C" n="103"/>sit suus, vel emancipatus. ut not. sub §. proxim. versic. potest. 
+      <lb ed="#C" n="104"/>tis. Quid si pater sit naturalis tantum, nunquid veniet a 
+      <lb ed="#C" n="105"/>intestato? sic eadem ratione. qua filius patri. arg f. de inoss 
+      <lb ed="#C" n="106"/>testam. nam &amp; si parentib. &amp; arg. in auth. quib. mod. nat. effic. su¬ 
+      <lb ed="#C" n="107"/>§. filium, col. 7. Et nunquid pater spurius succedet: dixit P) 
+      <lb ed="#C" n="108"/>quod sic. arg, contra, quia nec talis pater vel silius nomin 
+      <lb ed="#C" n="109"/>dus est. Instit. de nup. § si adversus ut patet in his, quae nota 
+      <lb ed="#C" n="110"/>supra eod sub §. proxi. versi liberi. Ubi nulla secundarum nu 
+      <lb ed="#C" n="111"/>ptiarum fit mentio. haec verba sunt domini Ir. sicut &amp; ill. 
+      <lb ed="#C" n="112"/>de quibus notatur. sup. eo. sub S. prox. ver. sed naturali causa¬ 
+      <lb ed="#C" n="113"/>vult dicere, quod pater &amp; mater succedunt filiis, sive con 
+      <lb ed="#C" n="114"/>trahant secundas nuptias, sive non: &amp; sic corriguntur. ( 
+      <lb ed="#C" n="115"/>de secundis nupt. foeminae. &amp; in authen. ibi positum. &amp; Cad Te 
+      <lb ed="#C" n="116"/>tull. mater. &amp; in hoc videtur jus canonicum concordari 
+      <lb ed="#C" n="117"/>infra de seeund nupt, cap. penuli &amp; fi. AZO contra, quod dic, u 
+      <lb ed="#C" n="118"/>not. inf. de secun. nup. §. uli 
+    </p>
+            <p xml:id="nbht7y-d1e1177-d1e800">
+               <lb ed="#C" n="119"/>VIso igitur, qualiter linea descendens &amp; ascendens a 
+      <lb ed="#C" n="120"/>mittitur, dicamus de linea collaterali &amp; est sciendum 
+      <lb ed="#C" n="121"/>quod primo vocatur frater, &amp; demum alii. ut in auth dehae 
+      <lb ed="#C" n="122"/>ab intesta. §. reliquum. &amp; seque &amp; ut fratrum filii. in prin colo e 
+      <lb ed="#C" n="123"/>quibus duobus elicitur. auth. positum. C. de legi haered. in hae 
+      <lb ed="#C" n="124"/>verba: Cessante successione lineae descendentis, &amp; eju 
+      <lb ed="#C" n="125"/>quae sola sit ascendentis, vocantur primo frater, fratrisqu 
+      <lb ed="#C" n="126"/>praemortui filii in stirpem. Dico autem de fratre ejusdem 
+      <lb ed="#C" n="127"/>quod filii fratris, qui ex utroque parente contingit eunden 
+      <lb ed="#C" n="128"/>de cujus haereditate agitur, quae personae veniunt, &amp; siv 
+      <lb ed="#C" n="129"/>defunctae personae nunc parentib. &amp; cum proximis gradi 
+      <lb ed="#C" n="130"/>ascendentibus &amp; quidem defuncti fratris filius: &amp; si gradi 
+      <lb ed="#C" n="131"/>tertio sic praefertur fratribus. defuncti, qui ex uno tantun 
+      <lb ed="#C" n="132"/>parente cognati erant. In hac successione cessat omnis di 
+      <lb ed="#C" n="133"/>ferentia sexus, &amp; emancipationis. Post fratres ex utroqu 
+      <lb ed="#C" n="134"/>parente, &amp; eorum filios, admittuntur ex uno latere, fratre: 
+      <lb ed="#C" n="135"/>ve, cum quibus &amp; filii eorum, si qui jam de cesserint ex eis H 
+      <lb ed="#C" n="136"/>autem fratrum filii cum pares sint, defuncti fratrib. praeferuntu 
+      <lb ed="#C" n="137"/>proculdubio ejusdem patruis, &amp; aliis similib. In his success 
+      <lb ed="#C" n="138"/>onib. omnino cessat lexus &amp; agnationis ratio. Post fratre 
+      <lb ed="#C" n="139"/>fratrumque filios vocantur quicunque gradu sunt proxim 
+      <lb ed="#C" n="140"/>ores: ut pares in gradu pariter admittantur, sublata diffe 
+      <lb ed="#C" n="141"/>rentia masculorum, &amp; foeminarum. sola namque cognatio specta 
+      <lb ed="#C" n="142"/>tur in talib cessante, &amp;c. &amp; ejus quae sola sit, hoc non est in 
+      <lb ed="#C" n="143"/>corpore auth. sed est adjectio Ir. sicut &amp; illud quod no. su 
+      <lb ed="#C" n="144"/>§. prox. ver. ubi nulla secundarum. &amp; est planius, si haec verbi 
+      <lb ed="#C" n="145"/>removeantur. hoc tantum vult dicere, i. cessantibus descer 
+      <lb ed="#C" n="146"/>dentib. &amp; ascendentib. ut in auth. de haer. ab inte. §. si igitur. ui 
+      <lb ed="#C" n="147"/>de expone, &amp; ejus, &amp;c. scilicet &amp; cessante successione line¬ 
+      <lb ed="#C" n="148"/>ascendentis, ejus quae sola sit, id est, cessante, seu non exi 
+      <lb ed="#C" n="149"/>stente patre vel matre, vel deinceps ejus, qui solus sit. sin 
+      <lb ed="#C" n="150"/>liberis decessit: &amp; sic bene dicit ipsum justu sine liberis de¬ 
+      <lb ed="#C" n="151"/>cessisse: vel dic, quod ideo dicat sola: quia licet existeren 
+      <lb ed="#C" n="152"/>ascendentes, &amp; non soli, sed cum fratrib. defunctae personae es 
+      <lb ed="#C" n="153"/>utroque latere sibi conjunctis, tunc omnes ei viriliter succederem 
+      <lb ed="#C" n="154"/>ut no, sup. eo. sub S. prox. Item ideo dicitur solas, quia soli ascen 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0488.xml-->
+      <pb ed="#C" n="471"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>dentes, si non essent alii, succederent in stirpem. qualite 
+      <lb ed="#C" n="2"/>hoc intelligatur, nota supra eodem. sub §. circa. versicul in stir 
+      <lb ed="#C" n="3"/>pes. Quod si fratrum filii non vocantur cum patruis sui: 
+      <lb ed="#C" n="4"/>sed cum aliis fratrum: puta tres filii sunt ex uno fratre, u 
+      <lb ed="#C" n="5"/>nus ab altero, nunquid succedunt in stirpes: ut scilicet tam 
+      <lb ed="#C" n="6"/>tum capiat unus, quantum tres? variatur, &amp; dixit Az quo 
+      <lb ed="#C" n="7"/>non, sed in capita argument f. si pars haered pet. l.. §. 1. &amp; C. d 
+      <lb ed="#C" n="8"/>leg. haered. I. quasi in fi. ibi, proculdubio &amp;c. &amp; si quasi. in fi il 
+      <lb ed="#C" n="9"/>illo etiam observando, &amp;c. Jo. not. quod in stirpes succe 
+      <lb ed="#C" n="10"/>dunt nec obst leges allegatae, quia per has auth. corrigur 
+      <lb ed="#C" n="11"/>tur, sed econtra Job. &amp; pro Az0. est in auih de haere ab intes 
+      <lb ed="#C" n="12"/>§. si vero neque. unde hoc quod hic dicitur, restringendun 
+      <lb ed="#C" n="13"/>est, &amp; intelligendum, quando succedunt cum patruis, a 
+      <lb ed="#C" n="14"/>vis, vel proavis, vel caeteris ascendentibus alias sempe 
+      <lb ed="#C" n="15"/>succedunt in capita, non in stirpes. Hoc in allodiis: qui¬ 
+      <lb ed="#C" n="16"/>ergo in feudis? &amp; quidem si sit comitatus, vel ducatus, no 
+      <lb ed="#C" n="17"/>dividitur, ut in consti feu. non alien. imperialem. §. praeterea du 
+      <lb ed="#C" n="18"/>catus. aliqui tamen observant; quod si feudum avitum, vt 
+      <lb ed="#C" n="19"/>proavitum: quia nec in alio admitteretur haec successic 
+      <lb ed="#C" n="20"/>sed constitutione feudi in capita admittuntur; secundun 
+      <lb ed="#C" n="21"/>Ho. bo. de hoc dic, ut not. supra de feund. §. qualiter constitu¬ 
+      <lb ed="#C" n="22"/>tur. Quae personae haec verba sumuntur ex auth ut fracrun 
+      <lb ed="#C" n="23"/>filii, praecedentia vero ex auth. de haered. ab inte. §. sin autem. 8 
+      <lb ed="#C" n="24"/>dic, quae persona. id est, filii fratrum. aliud autem juris est 
+      <lb ed="#C" n="25"/>secundum auth. de haered. ab intesta. §. sin autem cum fratribu 
+      <lb ed="#C" n="26"/>ut nota supra eodem. sub §. proxim. versicul. quid si supersint; 
+      <lb ed="#C" n="27"/>lii fratrum. Et sine defunctae personae nunc parentibus quas 
+      <lb ed="#C" n="28"/>dicat si non sint ibi parentes superstites, nec alii ascender 
+      <lb ed="#C" n="29"/>tes: supple, neque patrui, tunc filii fratrum totum perci 
+      <lb ed="#C" n="30"/>piunt. Et cum proximis gradu ascendentibus id est simi 
+      <lb ed="#C" n="31"/>liter si supersint aliqui ascendentium, &amp; cum ipsis vocan 
+      <lb ed="#C" n="32"/>tur filii fratrum praemortuorum. Sexus vel emancipatio 
+      <lb ed="#C" n="33"/>nis. haec verba expone, ut no. supra eod. sub §, circa. versi sexu 
+      <lb ed="#C" n="34"/>&amp; per potestatis. Haec de fratribus legitimis &amp; naturalibus: 
+      <lb ed="#C" n="35"/>Haec de naturalibus tantum videtur, quod non succedan 
+      <lb ed="#C" n="36"/>sibi adinvicem: ut in auth. quib. ino. na. effi. sui. §. filium, col.( 
+      <lb ed="#C" n="37"/>Azo tamen dixit, quod succedunt: ut Inst de succes. cogna. 
+      <lb ed="#C" n="38"/>vulgo. &amp; de servili cog, circa prin. sed sicut no. auth. contradici 
+      <lb ed="#C" n="39"/>Postfratres, &amp;c. admittuntur. hic tamen hunc ordinem ser 
+      <lb ed="#C" n="40"/>vabis, ut in rebus maternis soli uterini vocentur, licet con 
+      <lb ed="#C" n="41"/>sanguinei, agnati, id est, ex parte patris tantum supersi 
+      <lb ed="#C" n="42"/>In paternis vero soli consanguinei: licet uterini supersim 
+      <lb ed="#C" n="43"/>in aliis vero communiter vocabuntur: non vero ex utro 
+      <lb ed="#C" n="44"/>que parente sunt, cum ex utrisque admittentur. ut C. de le 
+      <lb ed="#C" n="45"/>gi. haered. de emancipatis, in fi. &amp; C. communia de suc.I.si. secun 
+      <lb ed="#C" n="46"/>dum Azo. &amp; Lanf. Cre. contra &amp; dicit, quod indistinct 
+      <lb ed="#C" n="47"/>admittuntur; &amp; si non supersint fratres ex utroque late 
+      <lb ed="#C" n="48"/>re: ut C. communia suc. auth itaque. &amp; hoc in allodiis, nam in 
+      <lb ed="#C" n="49"/>feudalibus de consuet. in multis regionibus sententia A¬ 
+      <lb ed="#C" n="50"/>vendicat sibi locum, praeferuntur patruis. sic ergo nota¬ 
+      <lb ed="#C" n="51"/>quod tertius gradus excludit tertium gradum in hoc ca 
+      <lb ed="#C" n="52"/>iu: quamvis alias regulare sit, quod pares gradu parite 
+      <lb ed="#C" n="53"/>admittantur. ut not. supr §. sic vidisti. Post fratres, c. quicunqu 
+      <lb ed="#C" n="54"/>gradu sunt proximo. neminem ergo excludit. argi suprad 
+      <lb ed="#C" n="55"/>majo. &amp; obe solitae. §. penul. ss. de haered. insti. hoc articulo quisqui 
+      <lb ed="#C" n="56"/>dum tamen probetur attinentia. &amp; sic in infinitum admit 
+      <lb ed="#C" n="57"/>tuntur parentes ex quo gradus attinentiae probatur. quoc 
+      <lb ed="#C" n="58"/>die, ut no. supra eod sub s, circa ver. sed nunquid per hoc corri 
+      <lb ed="#C" n="59"/>guntur differentia 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

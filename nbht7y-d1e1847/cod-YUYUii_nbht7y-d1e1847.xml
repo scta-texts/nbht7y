@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 15</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 15</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="698"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1847"><!-- nbht7y-l5t15 -->
+            <head xml:id="nbht7y-d1e1847-Hd1e101">Titulus 15</head>
+            <head xml:id="nbht7y-d1e1847-Hd1e103" type="question-title">De sagittariis</head>
+            <p xml:id="nbht7y-d1e1847-d1e106">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0715.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>De Sagittariis, &amp; balistariis 
+      <lb ed="#C" n="79"/>Rubrica XV 
+    </p>
+            <p xml:id="nbht7y-d1e1847-d1e117">
+               <lb ed="#C" n="80"/>SUMMARIA. 
+      <lb ed="#C" n="81"/>I Balistariorum &amp; sagittariorum ars adrersus Christianos e 
+      <lb ed="#C" n="82"/>Catholicos prohibetur exercer 
+      <lb ed="#C" n="83"/>2 Excommunicatum se reputare an in dubio quilibet debeat 
+      <lb ed="#C" n="84"/>3 Judex si monuit ter malefactorem, quod se emendaret, &amp; 
+      quar<lb ed="#C" n="85" break="no"/>to hoc praecepit sub poena excommunicationis, an hic sere 
+      <lb ed="#C" n="86"/>putare debeat excommunicatum 
+    </p>
+            <p xml:id="nbht7y-d1e1847-d1e135">
+               <lb ed="#C" n="87"/>QUoniam homicidium, de quo supr¬ 
+      <lb ed="#C" n="88"/>praemisimus, grande delectum 
+      <lb ed="#C" n="89"/>judicatur, ideo * artem illam mortiferam 
+      <lb ed="#C" n="90"/>&amp; odibilem balistariorum, &amp; sagitariorum 
+      <lb ed="#C" n="91"/>adversus Christianos &amp; Catholicos exer 
+      <lb ed="#C" n="92"/>ceri de caetero sub anathemate prohibemus, ut infra eod¬ 
+      <lb ed="#C" n="93"/>unico. Hoc autem intelligendum est de bello voluntari 
+      <lb ed="#C" n="94"/>&amp; judiciali: secus, de Romano. quod dic, ut not. supra d 
+      <lb ed="#C" n="95"/>treug. &amp; pac §. quid sit justum bellum, &amp; contra Saraceno 
+      <lb ed="#C" n="96"/>non prohibetur. supra de jud. ita quorundam, &amp;c. ad liberan 
+      <lb ed="#C" n="97"/>dum. nunquid ergo contra ipsos conceditur? Ita videtur 
+      <lb ed="#C" n="98"/>argum. 25. dist. qualis supra de praesumpt nonne. quod non ad 
+      <lb ed="#C" n="99"/>mitto. argu. supra ne cler. vel monach. sentenuam, licet sit ar 
+      <lb ed="#C" n="100"/>gum. contra in his quae not. supra de homic § pen. vel illud 
+      <lb ed="#C" n="101"/>nam ubi justum est praelium, non refert qualiter pugnetur 
+      <lb ed="#C" n="102"/>utrum occulte, vel ex insidiis. 3242. Dominus jubet, juxt. 
+      <lb ed="#C" n="103"/>illud 
+    </p>
+            <p xml:id="nbht7y-d1e1847-d1e175">
+               <lb ed="#C" n="104"/>Nil refert armis continget palma dolisve. &amp; alibi: 
+      <lb ed="#C" n="105"/>Dolus an virtus quis in hoste requirat 
+    </p>
+            <p xml:id="nbht7y-d1e1847-d1e182">
+               <lb ed="#C" n="106"/>Sed forte nihilominus balistae &amp; arcus prohibentur, pro 
+      <lb ed="#C" n="107"/>pter nimiam duritiem &amp; subitam mortis illationem, ve 
+      <lb ed="#C" n="108"/>melius in bello injusto omnes indistincte prohibeo. II 
+      <lb ed="#C" n="109"/>justo vero personas clericorum cohibeo, sed legem laici 
+      <lb ed="#C" n="110"/>non impono. Sed nunquid qui venit contra hunc canoni 
+      <lb ed="#C" n="111"/>est excommunicatus, cum hoc prohibeatur sub poena ana 
+      <lb ed="#C" n="112"/>thematis? Ita videtur. arg. 63. distinct. Salernitanae. &amp; infr 
+      <lb ed="#C" n="113"/>de eo qui fur. or sus. c. 1. dicunt quidam illud habere locum 
+      <lb ed="#C" n="114"/>quando prohibitio fit ab homine: secus, si a lege. 30. distin 
+      <lb ed="#C" n="115"/>per totum. arg. ff.de arbit. Celsus. Sed dic, quod etiam si ab ho 
+      <lb ed="#C" n="116"/>mine haec verba dicantur, non est excommunicatus qu 
+      <lb ed="#C" n="117"/>venit contra, sed excommunicandus, nisi ita dixerit. Qui 
+      <lb ed="#C" n="118"/>cunque furtum fecerit, excommunicatus sit: ideo prohibe 
+      <lb ed="#C" n="119"/>mus sub poena anathematis, ne furtum fiat, vel nisi appareat 
+      <lb ed="#C" n="120"/>quod proferens haec verba, proferat animo ferendi sentem 
+      <lb ed="#C" n="121"/>tiam arg. infra de verb sign in his. tunc enim veniens contra 
+      <lb ed="#C" n="122"/>est excommunicatus, sic intellige &amp; solve contra. supra di 
+      <lb ed="#C" n="123"/>loc. &amp; con.c. I.de jur. patr. relatum per decr supra de simo sicut no 
+      <lb ed="#C" n="124"/>bis. &amp; sic quando canon latae sententiae non praecedit, vel 
+      <lb ed="#C" n="125"/>hoc non intendit, proferens quod praemisi, comminatio 
+      <lb ed="#C" n="126"/>est, ut C. commi. vel epistolas, in rubro &amp; in nigro. suprad 
+      <lb ed="#C" n="127"/>app. cum cessante. Sed quando praecedit, vel hoc intendit pro 
+      <lb ed="#C" n="128"/>ferens, facit sententiam, ut infr. de sent. excom. a nobis. 1. Sec 
+      <lb ed="#C" n="129"/>qualiter constabit de intentione proferentis? Dic, quia ho¬ 
+      <lb ed="#C" n="130"/>expressit, alias a verbis non est recedendum. f. de leg. 3. non a 
+      <lb ed="#C" n="131"/>liter. &amp; de exer. ac l. I. §. si quis navem. vers. in re igitur dubia 
+      <lb ed="#C" n="132"/>Sed nunquid in dubio quilibet debet se reputare excon 
+      <lb ed="#C" n="133"/>municatum, ut infra de cler. excommun. illud § licet sic quan¬ 
+      <lb ed="#C" n="134"/>do factum dubium est; sed haec verba certa &amp; clara sunt 
+      <lb ed="#C" n="135"/>ex quibus non potest elici sententia lata, nisi aliae circum 
+      <lb ed="#C" n="136"/>stantiae appareant. * Quid igitur, si judex monuit ter ma¬ 
+      <lb ed="#C" n="137"/>lefactorem quod emendaret, &amp; quarto hoc praecipit sul 
+      <lb ed="#C" n="138"/>poena excommunicationis? Forte hic debet reputare se ex 
+      <lb ed="#C" n="139"/>communicatum. arg 12. q 2.indigne &amp; inf. de sent. exco. sacro. er 
+      <lb ed="#C" n="140"/>go tutum est, quod abstineat, &amp; se excommunicatum reputet 
+      <lb ed="#C" n="141"/>donec consuluerit proferentem, arg. sup. de spon juvenis. inf. di¬ 
+      <lb ed="#C" n="142"/>reg ju. estote. nam &amp; excommunicatio medicinalis est, non mor 
+      <lb ed="#C" n="143"/>talis. 2 q1. multi. dicimus autem, quod canon iste non est lata 
+      <lb ed="#C" n="144"/>sententiae, sed ferendae, nec debet aliquis se reputare ex 
+      <lb ed="#C" n="145"/>communicatum per talia verba, nisi aliquid appareat de 
+      <lb ed="#C" n="146"/>praedictis, ad hoc sup. ne cler. vel mon. clericis §. 1. &amp; 2. &amp; jungi 
+      <lb ed="#C" n="147"/>quod not. infr de sent excomm. §. qualiter proferatur. rers. solu 
+      <lb ed="#C" n="148"/>tio. &amp; sequen. Sunt tamen, qui dicunt referre, utrum dica 
+      <lb ed="#C" n="149"/>in poena excommunicationis, &amp; tunc est canon latae sen- 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0716.xml-->
+      <pb ed="#C" n="699"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>tentiae, quia refert, vel dicat sub poena, &amp; tunc non est con 
+      <lb ed="#C" n="2"/>minatio; sed hoc ex seipsis habent, &amp; contra text. 63. distin 
+      <lb ed="#C" n="3"/>Salernitanae. &amp; supra de loc. c. i. alii dicunt referre, utrum i 
+      <lb ed="#C" n="4"/>dex praecipiat diffiniendo, &amp; tunc veniens contra, est com 
+      <lb ed="#C" n="5"/>municatus, an constituendo, &amp; tunc est excommunicar 
+      <lb ed="#C" n="6"/>dus. Alii dicunt referre, utrum judex praecipiat aliqui¬ 
+      <lb ed="#C" n="7"/>fieri sub interminatione anathematis, &amp; tunc non est c¬ 
+      <lb ed="#C" n="8"/>non latae sententiae. supra de jure patronat. relatum. vel su 
+      <lb ed="#C" n="9"/>distinctione, &amp; tunc est canon latae sententiae. supra de inm 
+      <lb ed="#C" n="10"/>mun. eccles. non eo minus. in fin. tu dic, ut supra eod. vers. sed di¬ 
+      <lb ed="#C" n="11"/>usque ad vers sunt tamen 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

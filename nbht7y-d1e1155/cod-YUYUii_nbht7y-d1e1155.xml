@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 25</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 25</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="455"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1155"><!-- nbht7y-l3t25 -->
+            <head xml:id="nbht7y-d1e1155-Hd1e101">Titulus 25</head>
+            <head xml:id="nbht7y-d1e1155-Hd1e103" type="question-title">De peculio clericorum</head>
+            <p xml:id="nbht7y-d1e1155-d1e106">
+               <lb ed="#C" n="90"/>De Peculio clericorum XXV 
+      <lb ed="#C" n="91"/>Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1155-d1e113">
+               <lb ed="#C" n="92"/>SVMMARIA 
+      <lb ed="#C" n="93"/>I. Peculium clericorum quid dicatur 
+      <lb ed="#C" n="94"/>2. Peculium unde dicatur 
+      <lb ed="#C" n="95"/>3. Species peculii quot sini 
+      <lb ed="#C" n="96"/>4. Clerici qui possunt habere peculium 
+      <lb ed="#C" n="97"/>Peculium quod donari possit 
+    </p>
+            <p xml:id="nbht7y-d1e1155-d1e129">
+               <lb ed="#C" n="98"/>QUoniam derici de peculio suo dona 
+      <lb ed="#C" n="99"/>re possunt, seu testari, cun 
+      <lb ed="#C" n="100"/>&amp; filiusfa hoc possit facere de castrensi pe 
+      <lb ed="#C" n="101"/>culio f. de donatione, filiusfamil. ideo post tra 
+      <lb ed="#C" n="102"/>ctatum de donatione, &amp; antequam de testa 
+      <lb ed="#C" n="103"/>mentis, de ipso peculio videamus. Sciendum est igitur, Quic 
+      <lb ed="#C" n="104"/>hic dicatur peculium. Unde dicatur, Quot sunt ejus spe 
+      <lb ed="#C" n="105"/>cies, Qui clerici possunt peculium habere, Quod pecusiu 
+      <lb ed="#C" n="106"/>donari potest seu inter vivos, seu causa mortis
+    </p>
+            <p xml:id="nbht7y-d1e1155-d1e152">
+               <lb ed="#C" n="107"/>Quid hic dicatur, Peculium a Cere plurib 
+      <lb ed="#C" n="108"/>modis dicitur uno modo 
+      <lb ed="#C" n="109"/>dicitur peculium pusillum patrimonium, seu pusilla pe 
+      <lb ed="#C" n="110"/>cunia servo a domino, vel filiosamil. a patre concessa, &amp; 
+      <lb ed="#C" n="111"/>seorsum a rationib. domini vel patris posita, f. depecu. depo 
+      <lb ed="#C" n="112"/>siti, §peculium, sed sine pecunia fragile dicitur, f de leg 3. si cho 
+      <lb ed="#C" n="113"/>rus, §1. Item dicitur peculium res paraphernalis fi dejure do¬ 
+      <lb ed="#C" n="114"/>si ego § dotis, alias ponitur pro haereditate, vel patrimonio 
+      <lb ed="#C" n="115"/>C. ae episcop. &amp; cler si quis presbyter, ff. ad Treb. cogi, resp. 1. &amp; si¬ 
+      <lb ed="#C" n="116"/>accipitur hic 
+    </p>
+            <p xml:id="nbht7y-d1e1155-d1e176">
+               <lb ed="#C" n="117"/>Unde dicatur. Peculium a pecunia, perunia i 
+      <lb ed="#C" n="118"/>pecorib. quia antiduorum pecu 
+      <lb ed="#C" n="119"/>nia seu bona in pecorib. erant, 1. qu3. tatum &amp; tunc nihil po 
+      <lb ed="#C" n="120"/>terat emi, vel vendi, sed contractus permutationis 
+      neces<lb ed="#C" n="121" break="no"/>sarius erat, f.de contrah. emp. &amp; venditione I¬
+    </p>
+            <p xml:id="nbht7y-d1e1155-d1e189">
+               <lb ed="#C" n="122"/>Quot sunt ejus speties: Secundum leges est 
+      <lb ed="#C" n="123"/>profectitium, adventitium, castren 
+      <lb ed="#C" n="124"/>se, &amp; quasi B castrense. Profectitium dicitur quod profi¬ 
+      <lb ed="#C" n="125"/>ciscitur de rebus paternis, &amp; acquiritur patri, quo ad pro 
+      <lb ed="#C" n="126"/>prietatem, &amp; usumfr. Adventitium est. quod acquiritur es 
+      <lb ed="#C" n="127"/>donatione, vel successione alicujus, vel aliter aliunde es 
+      <lb ed="#C" n="128"/>adventu prosperae fortunae provenit, excipe res ab Imperat 
+      <lb ed="#C" n="129"/>vel Augusta donatas, quae quasi castrenses judicantur, C 
+      <lb ed="#C" n="130"/>de bon. quae lib cum multa privilegia. Castrense, quod milite 
+      <lb ed="#C" n="131"/>in castris acquirunt, f. decastr. pecu per totum, sed hodie tales mi 
+      <lb ed="#C" n="132"/>lites non inveniuntur, quia non servant conditiones, qua 
+      <lb ed="#C" n="133"/>illi servabant. Quasi castrense, quod filiifa. de scientia sua 
+      <lb ed="#C" n="134"/>acquirunt, occasione advocationis, vel munerum publi 
+      <lb ed="#C" n="135"/>corum probantur haec C. de inossic. testament. I. ultim. &amp; debe¬ 
+      <lb ed="#C" n="136"/>quae lib. cum oportet, &amp; leg, cum non solum. Institu per quas per 
+      <lb ed="#C" n="137"/>so nob acqui Sed hîc duobus modis tantum dicitur peculi 
+      <lb ed="#C" n="138"/>um, illud scilicet quod provenit ex re ecclesiae: &amp; hoc pro 
+      <lb ed="#C" n="139"/>fectitium quodammodo dici potest, quia clericus non po 
+      <lb ed="#C" n="140"/>test testari de hoc regulariter infra eodem capit. i. 2. &amp; 3. no 
+      <lb ed="#C" n="141"/>tamen per omnia, quia super profectitio inter patrem &amp; 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="142"/>ADDITIONES. 
+      <lb ed="#C" n="143"/>a Quid hic dicatur peculium. JAdde doct. in rub. eo. tit. &amp; quo 
+    </p>
+    <p>
+      <lb ed="#C" n="144"/>tuplex sit, vide per Spec.ii. de arb. in § 1. ver. item cum agitur 
+      <lb ed="#C" n="145"/>b Castrense vel quasi.] Adde no. in c quia nos de test e licet, de se 
+    </p>
+    <p>
+      <lb ed="#C" n="146"/>pul sib 6. glin e si de inr. pas Iquidam, ff.de acq. rer. dem. Bald. in 
+      <lb ed="#C" n="147"/>3. ff. de in ius rocan--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0473.xml-->
+      <pb ed="#C" n="456"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>filium, nulla lis esse potest, f. de judic. lis nulla, sed super ho 
+      <lb ed="#C" n="2"/>etiam inter patrem spiritualem &amp; filium, litigatur supr 
+      <lb ed="#C" n="3"/>de institut. ex frequentibus &amp;c. cum venisset, &amp; de praebend. va¬ 
+      <lb ed="#C" n="4"/>&amp; de offic. delegat si quando. Aliud est peculium, de quo hi 
+      <lb ed="#C" n="5"/>tractatur scilicet quod artificio, vel paterna successione 
+      <lb ed="#C" n="6"/>vel intuitu cognitionis, aut dono consanguineorum uso 
+      <lb ed="#C" n="7"/>ad quartum gradum, aut amicorum intuitu personae, no 
+      <lb ed="#C" n="8"/>ecclesiae, clericis acquiritur: &amp; istud secundum Ala ad 
+      <lb ed="#C" n="9"/>ventitium dicitur: sed dici potest, quod est quasi castrense 
+      <lb ed="#C" n="10"/>quod ergo in filiofam laico adventitium dicitur: hic dicetu 
+      <lb ed="#C" n="11"/>quasi castrense, cum de isto testari possit clericus infr. de tes 
+      <lb ed="#C" n="12"/>tua nos, vel quia nos, C. de moffic. test. leg. ultim. &amp; de episcop.( 
+      <lb ed="#C" n="13"/>cleric. authentic. presbyteros, &amp; in authent. de eccles. titul. §. u 
+      <lb ed="#C" n="14"/>terdicimus, collatio 9 91. dis. clericus, 10. quaestio. 3. cavendum, in 
+      <lb ed="#C" n="15"/>fin. 2i. quaest i. capit.i. in fin. vt enim in his jurib. probatur, cle 
+      <lb ed="#C" n="16"/>rici possunt honeste propriis laboribus &amp; manib. sibi a¬ 
+      <lb ed="#C" n="17"/>quirere, &amp; de talib. testari possunt, etiam in potestare sini 
+      <lb ed="#C" n="18"/>C. de episcop. &amp; cleric. sac. san. C. de access. velut castrense. In hi 
+      <lb ed="#C" n="19"/>etiam ab intestato succedunt parentes, 12. quaestio. 1. manif 
+      <lb ed="#C" n="20"/>ste, &amp; cap episcopus qui filios, &amp; quaestio 3. capit. fine. Sed &amp; ve 
+      <lb ed="#C" n="21"/>nientes possunt de his ad libitum facere infra de success. a 
+      <lb ed="#C" n="22"/>intest. capit i. 12. quaest.3 fixum. Regulam autem hanc teneas 
+      <lb ed="#C" n="23"/>quod illud peculium hic censetur profectitium, quod cler¬ 
+      <lb ed="#C" n="24"/>cus non acquisivisset, si ecclesiam non habuisset, ff. de cas 
+      <lb ed="#C" n="25"/>pec. castrense, peculium infra titul.i. requisisti Sillud. Quid erg. 
+      <lb ed="#C" n="26"/>de oblationibus Da dixit peculium profectitium esse, a 
+      <lb ed="#C" n="27"/>gument. infra titul. i. requisisti. Sed contra, quia non ratic 
+      <lb ed="#C" n="28"/>ne ecclesiae, sed ordinis offeruntur, unde &amp; sacerdoti os 
+      <lb ed="#C" n="29"/>fertir, &amp; si ecclesiam non habeat. Respon. non obst. qui¬ 
+      <lb ed="#C" n="30"/>nullus debet admittere parochianum meum infra de pa 
+      <lb ed="#C" n="31"/>roch. ut dominicis, &amp; de sepult. capit. i. Quid ergo de oblatio 
+      <lb ed="#C" n="32"/>ne viatoris? Adhuc puto idem argument contra, ff.dejuo 
+      <lb ed="#C" n="33"/>haeres absen. 
+    </p>
+            <p xml:id="nbht7y-d1e1155-d1e315">
+               <lb ed="#C" n="34"/>Qui clerici possunt peculium habere e qua 
+      <lb ed="#C" n="35"/>castrense * potest haber 
+      <lb ed="#C" n="36"/>clericus, quicunque propriis non renunciaverit, sed is quiri 
+      <lb ed="#C" n="37"/>nonciaverit non potest, infra eodemc.i. infra de stat mo cum a 
+      <lb ed="#C" n="38"/>monasterium, ad fi infra de test. quia ingredientibus, 54. di. abbat 
+      <lb ed="#C" n="39"/>12 quaestio i nolo, &amp;c. non dicatis, infra de pririleg, cum &amp; planta 
+      <lb ed="#C" n="40"/>re§ de confratribus, &amp; cap. ut privilegia. 27. qu.i.ut lex. Sed e 
+      <lb ed="#C" n="41"/>hi qui propriis renunciant, possunt habere profectitium o¬ 
+      <lb ed="#C" n="42"/>casione administrationis, ut inf. de statu monac.c. cum ad mi 
+      <lb ed="#C" n="43"/>nasterium, § qui vero, &amp; tales possunt temperare de blado 
+      <lb ed="#C" n="44"/>&amp; victualib. donare ad tempus. supra de re. cccl. non alien.c. 
+      <lb ed="#C" n="45"/>alias qui possunt, quod dic vt non supra de do ( quis possit, ( 
+      <lb ed="#C" n="46"/>§&amp; qui.
+    </p>
+            <p xml:id="nbht7y-d1e1155-d1e346">
+               <lb ed="#C" n="47"/>Quod peculium donari potest, seu interv 
+      <lb ed="#C" n="48"/>vos, seu causa mortis. Quasi c¬ 
+      <lb ed="#C" n="49"/>strense, &amp; non profectitium, quod dic, vt notat. supra eod 
+      <lb ed="#C" n="50"/>quod sint, &amp; supra eodem subruo de don. § &amp; quod, &amp; infra ti 
+      <lb ed="#C" n="51"/>15 quis possit. Illud in summa notan. est, quod si dubium sit 
+      <lb ed="#C" n="52"/>utrum peculium profectitium sit, vel quasi Castrense: pro 
+      <lb ed="#C" n="53"/>fectitium praesumitur, ex quo ecclesiam habet, infra eoder 
+      <lb ed="#C" n="54"/>capit. i. Sed si non habet ecclesiam, tunc praesumo quasi c¬ 
+      <lb ed="#C" n="55"/>strense, argC de usu. leg. ulti. arbit. tut si defunctus. Item pre¬ 
+      <lb ed="#C" n="56"/>ter de profectione emens, debet emere nomine ecclesiae 
+      <lb ed="#C" n="57"/>non proprio, nec alieno in fraudem: quia sicut nec suo, &amp;c 
+      <lb ed="#C" n="58"/>infra eodem presbyter. &amp; cap. inquirendum, &amp; res aliter acqu 
+      <lb ed="#C" n="59"/>sitae ecclesiae proprie relinquendae sunt, infra eod. unusqui 
+      <lb ed="#C" n="60"/>que. Item clericus qui terram sterilem ecclesiae ad fertilitat 
+      <lb ed="#C" n="61"/>redegit, agella vel vincula faciendo, illud in vira sua pra 
+      <lb ed="#C" n="62"/>cipuum habet: sed post mortem non succedunt haeredes 
+      <lb ed="#C" n="63"/>nisi Episcopus hoc concederet forte ad precariam, ve 
+      <lb ed="#C" n="64"/>pro servitiis sibi exhibitis, infra eod si quis sane, sup de re. ecc 
+      <lb ed="#C" n="65"/>non alie. ad aures supratitu. i per tuas, &amp; de prec.c.i. &amp; 2.quaest. 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="66"/>ADDITIO. 
+      <lb ed="#C" n="67"/>e Clerici possunt habere peculium. JAdde quod peculium cl¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="68"/>rici dicitur esse adventitium, vide per Barb. consi. 1. inci. ma 
+      <lb ed="#C" n="69"/>gnus in 21 col. in 2. vo.-->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 14</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 14</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="697"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1836"><!-- nbht7y-l5t14 -->
+            <head xml:id="nbht7y-d1e1836-Hd1e101">Titulus 14</head>
+            <head xml:id="nbht7y-d1e1836-Hd1e103" type="question-title">De clericis pugnantibus in duello</head>
+            <p xml:id="nbht7y-d1e1836-d1e106">
+               <lb ed="#C" n="119"/>De Clericis pugnantibus in duello 
+      <lb ed="#C" n="120"/>Rubrica XIIII. 
+    </p>
+            <p xml:id="nbht7y-d1e1836-d1e113">
+               <lb ed="#C" n="121"/>SVMMARIA 
+      <lb ed="#C" n="122"/>i Duellum quid si 
+      <lb ed="#C" n="123"/>2 Et an sit oferendum, vel recipiendum 
+      <lb ed="#C" n="124"/>Ckrici pugnantes in duello qua poena puniantur. 
+    </p>
+            <p xml:id="nbht7y-d1e1836-d1e124">
+               <lb ed="#C" n="125"/>IN superior: titulo diximus de 
+      pu<lb ed="#C" n="126" break="no"/>gna voluntaria; caus 
+      <lb ed="#C" n="127"/>etiam virtutis probandae prohibita: nun¬ 
+      <lb ed="#C" n="128"/>dicendum de poena prohibita, quae ab ali 
+      <lb ed="#C" n="129"/>quibus offertur, &amp; recipitur, probationi 
+      <lb ed="#C" n="130"/>deficiente, &amp; sic apponit anthor rubr decleric pugnantib. 1 
+      <lb ed="#C" n="131"/>duello. vel sic: Diximus de torneamentis, in quibus mult 
+      <lb ed="#C" n="132"/>pugnant: nunc de clericis, &amp;c in quibus duo pugnant, di 
+      <lb ed="#C" n="133"/>camus igitur. Quid sit duellum. An sit offerendum, vel re 
+      <lb ed="#C" n="134"/>cipiendum, Quae sit poena clersci pugnantis in duello
+    </p>
+            <p xml:id="nbht7y-d1e1836-d1e149" n="1">
+               <lb ed="#C" n="135"/>Quid sit duellum. Et quidem singularis pugna 
+      <lb ed="#C" n="136"/>inter aliquos ad probationem veritatis in¬ 
+      <lb ed="#C" n="137"/>venta: nam qui vicit, probasse intelligitur, &amp; si non viceri 
+      <lb ed="#C" n="138"/>in probatione defecisse videtur, &amp; dicitur duellum, quas 
+      <lb ed="#C" n="139"/>duorum bellum; monomachia autem dicitur pugna sin 
+      <lb ed="#C" n="140"/>gularis inter duos, a monos, quod est unum, &amp; mache 
+      <lb ed="#C" n="141"/>quod interpretatur pugna, &amp; haec probantur infr. eid c.i 
+      <lb ed="#C" n="142"/>&amp; 2. &amp; infra de purg. vulg significantib. &amp; 2q5 monomachiam 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="143"/>ADDITIO. 
+      <lb ed="#C" n="144"/>a Quid sit duellum] Adde an duellum &amp; bellum aequiparan 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>tur. Vnde per Salice. in I quod magno. in I.no. C. commi vel episi--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0715.xml-->
+    </p>
+            <p xml:id="nbht7y-d1e1836-d1e173" n="2">
+               <pb ed="#C" n="698"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>An sit offerendum, vel recipiendum. Et certe 
+      ne<lb ed="#C" n="2" break="no"/>quaquam: imo etiam secund legem Romanan 
+      <lb ed="#C" n="3"/>reprobatur, ut C. de act. &amp; obl negantes, &amp; de gladiatorib. I.uni 
+      <lb ed="#C" n="4"/>ca quamvis enim David &amp; Golias simul pugnaverint, ni 
+      <lb ed="#C" n="5"/>tamen pro lege teneri debet, quia in talibus Deus tentar 
+      <lb ed="#C" n="6"/>videtur, ut 2. q5. Mennam. &amp; dicitur mfra de purg. vulg §. qua 
+      <lb ed="#C" n="7"/>re sit prohibita. Deus autem tentari non debet. 22. 9. 2. quar. 
+      <lb ed="#C" n="8"/>nec obst. quod crimen laesae majestatis dicitur crimen per 
+      <lb ed="#C" n="9"/>duellionis. ff. ad IJul. majestatis. I.ult. non ideo enim perdu 
+      <lb ed="#C" n="10"/>ellionis, ut perduellum admittatur in eo, sicut quidam ir 
+      <lb ed="#C" n="11"/>tellexerunt, &amp; male. Sed dicitur perduellionis, id est cr 
+      <lb ed="#C" n="12"/>men hostis, vel hostile. ff. de verb signif. quos nos hostes, ut no 
+      <lb ed="#C" n="13"/>infra de maled §. I. sub §. alii maledicunt Principem. ver aliquan 
+      <lb ed="#C" n="14"/>do vero tales. Nec excusat consuetudo loci, sicut quidam di 
+      <lb ed="#C" n="15"/>cere volunt, inducentes pro se illud, quando mos erat, cri 
+      <lb ed="#C" n="16"/>men non erat. 32. qu. 4. objiciuntur. quia illud concessun 
+      <lb ed="#C" n="17"/>fuit divina revelatione, qui mos quandoque interdum et 
+      <lb ed="#C" n="18"/>iam fas censetur per quem, sicut Jacoba mendacio, Israc 
+      <lb ed="#C" n="19"/>litae a furto, Samion ab homicidio: sic &amp; Patriarchae qu 
+      <lb ed="#C" n="20"/>plures leguntur habuisse uxores, ab adulterio excusan 
+      <lb ed="#C" n="21"/>tur supra de divort. gaudemus. §. quia vero Pagani Nec admi¬ 
+      <lb ed="#C" n="22"/>tas dist illorum, qui dicunt referre, utrum quis offerat, ve 
+      <lb ed="#C" n="23"/>oblatum sponte suscipiat, &amp; tunc mortaliter peccat, vel in 
+      <lb ed="#C" n="24"/>vitus, judice praecipiente, cum aliter evadere non possi 
+      <lb ed="#C" n="25"/>vel res suas salvare, &amp; tunc excusatur, arg. supra de homi in 
+      <lb ed="#C" n="26"/>terfecisti. §. i ff. de justit. &amp; jur. ut vim. nam &amp; si praeceptum ju 
+      <lb ed="#C" n="27"/>dicis a tanto excuset, non tamen a toto, arg supra quod me 
+      <lb ed="#C" n="28"/>cau sacris. &amp; detemp. ord. dilectus. &amp; potius debemus jactu 
+      <lb ed="#C" n="29"/>ram rerum sustinere, quam huic malo consentire. supra d 
+      <lb ed="#C" n="30"/>hom. suscepimus. &amp; omnia mala pati. 32.4. 5. ita ne. ad hoc ei 
+      <lb ed="#C" n="31"/>iam pertinet quod not. infra de sortile. §. quid sit sors. ideo cle 
+      <lb ed="#C" n="32"/>ricus, qui duellum offert, vel oblatum sponte suscipit, siv 
+      <lb ed="#C" n="33"/>victus sit, sive victor, de rigore juris deponi debet, ut infr¬ 
+      <lb ed="#C" n="34"/>eod. c. 1. licet cum eo dispensari possit, secundum ea qua 
+      <lb ed="#C" n="35"/>not. supra de homi §. quae dispensatio. Et si homicidium con 
+      <lb ed="#C" n="36"/>tingat fieri in duello, omnes irregularitatem contrahuni 
+      <lb ed="#C" n="37"/>qui duello consenserunt, sive pugnantes fuerint, sive ju 
+      <lb ed="#C" n="38"/>dices praecipientes, sive assessores, vel consiliarii, vel scr 
+      <lb ed="#C" n="39"/>ptores, vel advocati, vel quivis alii, arg supra tit. 2. sicut di 
+      <lb ed="#C" n="40"/>gnum. &amp; infra eod, capit 2. &amp; patet in his quae not supra de h 
+      <lb ed="#C" n="41"/>gni. §. qua poena. vers illud autem, &amp; infra eod §. proxim. lext. 
+      <lb ed="#C" n="42"/>men Lombarda &amp; municipalis in multis casibus admi¬ 
+      <lb ed="#C" n="43"/>tunt duellum. &amp; constitutio Feder. dicit, quod si quis ho 
+      <lb ed="#C" n="44"/>minem intra pacem constitutum occiderit, potest sempe 
+      <lb ed="#C" n="45"/>duellum defendere, quod ad tuitionem sui corporis eun 
+      <lb ed="#C" n="46"/>occidit, &amp; sic absolvitur nisi notorium esset quod impu 
+      <lb ed="#C" n="47"/>gnando fecisset, ut in constitut. Fed. de pac tenen c si quis homi 
+      <lb ed="#C" n="48"/>nem. sed non debet aliquo casu admitti, ut dictum est, qui 
+      <lb ed="#C" n="49"/>probatio deceptoria est, &amp; ideo sententia in rem judicata nio 
+      <lb ed="#C" n="50"/>transit: imo veritate comperta retractanda est, ut infrad 
+      <lb ed="#C" n="51"/>purg. vulg cap.
+    </p>
+            <p xml:id="nbht7y-d1e1836-d1e290" n="3">
+               <lb ed="#C" n="52"/>Quae sit, poena clerici in duello pugnantis? E 
+      <lb ed="#C" n="53"/>quidem irregularitas &amp; depositio 
+      <lb ed="#C" n="54"/>ut not. supra §. prox. &amp; arg. 51. dist. si quis post. &amp; tales pugile 
+      <lb ed="#C" n="55"/>homicidae judicantur: licet non in propria persona, se¬ 
+      <lb ed="#C" n="56"/>per alios pugnent: quia homicidium tam facto, quan 
+      <lb ed="#C" n="57"/>praecepto, consilio, sive defensione non est dubium poss 
+      <lb ed="#C" n="58"/>committi. ut infra eod. c. 2. quod dic ut not. supra de homic. 
+      <lb ed="#C" n="59"/>qua poena. &amp; vers. seq. &amp; infra eod. §. vers. si tamen. &amp; seq cun 
+      <lb ed="#C" n="60"/>ergo ex hoc facto sequatur mors hominum. eadem est cau 
+      <lb ed="#C" n="61"/>sa prohibitionis, de qua diximus supra tit. I. §. quare, &amp; plus 
+      <lb ed="#C" n="62"/>quia Deus hic tentari videtur, ut supra dixi. Si tamen ne 
+      <lb ed="#C" n="63"/>que mors, neque mutilatio intervenerit, potest cum pi 
+      <lb ed="#C" n="64"/>gnante, quo ad beneficium misericorditer dispensari. inf 
+      <lb ed="#C" n="65"/>eod. c. 1. &amp; 2 in fin. sic 28. dist. presbyterum 50. distin studeat. lice 
+      <lb ed="#C" n="66"/>ergo cum homicida non dispensetur, ut not. supra de hom 
+      <lb ed="#C" n="67"/>§. quae dispensatio. vers. cum voluntario. illud est verum, qui 
+      <lb ed="#C" n="68"/>ad officium: secus, quo ad beneficium, ut probant jur 
+      <lb ed="#C" n="69"/>praedicta, secund. Goff. imo nec quo ad beneficium curan 
+      <lb ed="#C" n="70"/>habens animarum annexam, dispensabit inferior Papa,s 
+      <lb ed="#C" n="71"/>sit voluntarius: secus, quando nec homicidium, nec mu 
+      <lb ed="#C" n="72"/>tilatio intervenit, ut supra dictum est. Sed nunquid tali 
+      <lb ed="#C" n="73"/>habebit beneficium ut titulum, aut ut stipendium? Di 
+      <lb ed="#C" n="74"/>cunt quidam, quod ut stipendium, ut si quasi laicus hab¬ 
+      <lb ed="#C" n="75"/>at, &amp; extra ecclesiam sic, 32. dist. si qui vero. &amp; hoc innuitu 
+      <lb ed="#C" n="76"/>satis 5o. dist studeat: alii inter quos est Goffr. dicunt, quo 
+      <lb ed="#C" n="77"/>ut titulum, ut infra eod, cap. 1. &amp; 2. in fin.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

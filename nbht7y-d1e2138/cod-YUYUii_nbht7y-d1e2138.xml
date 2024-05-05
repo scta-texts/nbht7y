@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 41</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 41</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="867"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e2138"><!-- nbht7y-l5t41 -->
+            <head xml:id="nbht7y-d1e2138-Hd1e101">Titulus 41</head>
+            <head xml:id="nbht7y-d1e2138-Hd1e103" type="question-title">De regulis juris</head>
+            <p xml:id="nbht7y-d1e2138-d1e106">
+               <lb ed="#C" n="56"/>De Regulis Juris. Rubrica XLI.
+    </p>
+            <p xml:id="nbht7y-d1e2138-d1e111">
+               <lb ed="#C" n="57"/>SUMMARIA 
+      <lb ed="#C" n="58"/>I. Regula quid sit. Et unde dicatur. 2. Et qualiter &amp; unde su¬ 
+      <lb ed="#C" n="59"/>matur, 
+    </p>
+            <p xml:id="nbht7y-d1e2138-d1e120">
+               <lb ed="#C" n="60"/>AD extremi peris consummationem 
+      <lb ed="#C" n="61"/>&amp; auditorum, nec non lege 
+      <lb ed="#C" n="62"/>tium &amp; studentium instructionem perfectis 
+      <lb ed="#C" n="63"/>simam &amp; doctrinam, diffinitiones, sive regula 
+      <lb ed="#C" n="64"/>juris supponuntur. Ideoque infi libri. &amp; post tractatum. D. 
+      <lb ed="#C" n="65"/>verborum significatione instar libri. ff. intitulatur haec ru 
+      <lb ed="#C" n="66"/>brica de regulis juris, in qua videndum est: Quid est regu 
+      <lb ed="#C" n="67"/>la. Unde dicatur. Qualiter &amp; unde sumatur
+    </p>
+            <p xml:id="nbht7y-d1e2138-d1e141">
+               <lb ed="#C" n="68"/>Quid est: regula. Compendiosa &amp; gene 
+      <lb ed="#C" n="69"/>ralis plurium traditio, qu 
+      <lb ed="#C" n="70"/>rem quae est, breviter enarrat: ut colligitur ff.eo li. Verun 
+      <lb ed="#C" n="71"/>secundum Grammaticam, regulare est multorum simil 
+      <lb ed="#C" n="72"/>um collectio. Aliter etiam sumitur regula, supra de regula 
+      <lb ed="#C" n="73"/>ribus, ut not. supra eo.tit. in summa. quis sit regularis
+    </p>
+            <p xml:id="nbht7y-d1e2138-d1e157">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0884.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="74"/>Vnde dicatur, Dicta est regula ex eo quod recte 
+      <lb ed="#C" n="75"/>ducit, nec aliquando aliorsum 
+      tra<lb ed="#C" n="76" break="no"/>hit, vel ex eo quod regat: vel normam recte vivendi praebe 
+      <lb ed="#C" n="77"/>at, vel quod distortum pravumque corrigat. 3. dist. regula si 
+      <lb ed="#C" n="78"/>videtur quod regula sit jus? Sed contradicit lex ff eo lnu 
+      <lb ed="#C" n="79"/>bi dicit non ut ex regula jus sumatur, sed ex iure quod est 
+      <lb ed="#C" n="80"/>regula fiat. Solu. ex regula non sumitur jus de facili, quir 
+      <lb ed="#C" n="81"/>exceptiones recipiat, vel non sumiturjus singulariter. sec 
+      <lb ed="#C" n="82"/>universaliter &amp; generaliter tantum, fallit tamen saepe in 
+      <lb ed="#C" n="83"/>casibus imo secundum quosdam, nec aliter est regula, nisi 
+      <lb ed="#C" n="84"/>fallat, sicut patet in his quae non supra tit. I§ quis possit excom 
+      <lb ed="#C" n="85"/>municare, resp. 1. &amp; sub §. super illo, ideo dicitur omnis regula 
+      <lb ed="#C" n="86"/>in jure periculosa, unde &amp; ait Sabinus: quod quasi causa 
+      <lb ed="#C" n="87"/>conjunctio est, id est multa conjungit: et multorum con 
+      <lb ed="#C" n="88"/>junctorum universalem doctrinam tradit, quae simul, i 
+      <lb ed="#C" n="89"/>est statim: dum. id est postquam aliquo vitiata est, scili per 
+      <lb ed="#C" n="90"/>exceptionem, ut cum dicitur, haec regula fallit in tali casu 
+      <lb ed="#C" n="91"/>perdit officium suum, quod est multorum conjunctori 
+      <lb ed="#C" n="92"/>universalem, sive generalem doctrinam tradere, ut supra 
+      <lb ed="#C" n="93"/>no. qui.d. considerato casu in quo fallit, perdit officium su 
+      <lb ed="#C" n="94"/>um: quia deficit&amp; in eo regula non est: sic intellige feeden 
+      <lb ed="#C" n="95"/>leg.i. versicul. &amp; ut ait Sabinus. In decretis autem est iden 
+      <lb ed="#C" n="96"/>canon &amp; regula. nam canon graece, regula latine dicitur 
+      <lb ed="#C" n="97"/>ut dicitdist 3. canon 
+    </p>
+            <p xml:id="nbht7y-d1e2138-d1e216">
+               <lb ed="#C" n="98"/>Qualiter, &amp; vnde sumatur De hoc 
+      aliquan<lb ed="#C" n="99" break="no"/>tulum tactum est supra eo § proxi 
+      <lb ed="#C" n="100"/>multis enim modis &amp; ex iure sumitur, ut ibi no. Sumitu 
+      <lb ed="#C" n="101"/>autem regula, vel ex signo universali, ut infra eod omnis, fi 
+      <lb ed="#C" n="102"/>eodem omnia, vel ex signo indefinito, infra eodem tuae ff. eodem 
+      <lb ed="#C" n="103"/>foemmae, &amp; Iquicquid, vel ex aliquo generali dicto, infra eo 
+      <lb ed="#C" n="104"/>dem estote, &amp; capit. non est licitum. Hoc autem notandum quoc 
+      <lb ed="#C" n="105"/>quaedam sunt, in quibus regulae vel diffinitiones tradi nor 
+      <lb ed="#C" n="106"/>possunt, neque traditae sunt, quia difficilis est aliquorun 
+      <lb ed="#C" n="107"/>diffinitio. Primo potest hoc videri in mora, cujus diffini 
+      <lb ed="#C" n="108"/>tio traditur ff de usur mora. responsio I. Secundo in impen 
+      <lb ed="#C" n="109"/>sis factis a rebus dotalibus, nam etsi deduci debeant, nor 
+      <lb ed="#C" n="110"/>tamen facile est in universum diffiniri, sed singula est oe 
+      <lb ed="#C" n="111"/>nere &amp; magnitudine impendiorum aesti mari posiunt, f.d 
+      <lb ed="#C" n="112"/>impen. in rebus do. factis, quod dicitur in fin. Tertio in fide testi 
+      <lb ed="#C" n="113"/>bus adhibenda, ideoque fidei recipientis judicis relinquitur 
+      <lb ed="#C" n="114"/>quia ipse magis scire potest quam alius f. detesti. testium fi 
+      <lb ed="#C" n="115"/>des, ver verba epistolae, &amp;c. Quarto in quantitate poenitentis 
+      <lb ed="#C" n="116"/>peccatoribus imponendae, unde &amp; dicitur, tempora peni 
+      <lb ed="#C" n="117"/>tudinis habita moderatione constituenda sunt tuo judi 
+      <lb ed="#C" n="118"/>cio: prout conversorum animos prospexeris esse devo 
+      <lb ed="#C" n="119"/>tos, habito respectu ad aetatis pericula &amp; aegritudinem ne 
+      <lb ed="#C" n="120"/>cessitates, 26. quaest. 7. tempora, &amp; capit hoc su, &amp; notat suprad 
+      <lb ed="#C" n="121"/>peen, capit quae poena. Et breviter deficiente jure, deficit &amp; 
+      <lb ed="#C" n="122"/>regula, quae ex eo sumitur, ut notat. supra eodem §unde di 
+      <lb ed="#C" n="123"/>catur, &amp; ideo omnia talia arbitrio judicis committuntur 
+      <lb ed="#C" n="124"/>vt patet supra de offic. deleg de causis, supra de transact. c sin 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="125"/>ADDITIONES. 
+      <lb ed="#C" n="126"/>c Quicunque suspensus est ab officio. JAddegl. &amp; ibi. do cle. I.de 
+    </p>
+    <p>
+      <lb ed="#C" n="127"/>dec. Card. incle. I. in 8 q9. de rebus ecel non alienan 
+      <lb ed="#C" n="128"/>d Quum, ut ait Fabius, verbarerum notae sint, pretium opera 
+    </p>
+    <p>
+      <lb ed="#C" n="129"/>facturus videbor si huc ex Martino. eodem titulo in summa 
+      <lb ed="#C" n="130"/>articulum hunc de verborum, forma, &amp; ut huc referam, que 
+      <lb ed="#C" n="131"/>in genere ita ille scriptum reliquit Verborum forma in pri 
+      <lb ed="#C" n="132"/>vilegiis, rescriptis, &amp; testamentis attendenda est neque ab 
+      <lb ed="#C" n="133"/>ea sine causa recedendum non est, 31. distincto. omnino, &amp; ff. d 
+      <lb ed="#C" n="134"/>leg. 3. leg. non aliter. Sed &amp; verbum simpliciter dictum genera 
+      <lb ed="#C" n="135"/>liter accipi debet, de privileg. quia circa. Proprietas tames 
+      <lb ed="#C" n="136"/>verborum non semper attendenda est in testamentis, sed vi 
+      <lb ed="#C" n="137"/>dendum est, quae fuerittestantis intentio, quia potior est di 
+      <lb ed="#C" n="138"/>centis mens quam vox. ff. de suppell lega. leg. Labeo Ad extrane 
+      <lb ed="#C" n="139"/>um quoque sensum verba quandoque trahi posse, ubi res a 
+      <lb ed="#C" n="140"/>lias salva esse nequit, libido constat, ut C. de verborum signifi¬ 
+      <lb ed="#C" n="141"/>cum quidam extra eo. intelligentia, &amp; C. de legat, cum q. Neque ta 
+      <lb ed="#C" n="142"/>men diffitendum est, quin verba cum effectu accipienda sini 
+      <lb ed="#C" n="143"/>de penitent. distinct. I. haec autem vel ba, Li. ff. quod quisque iuris 
+      <lb ed="#C" n="144"/>&amp; de st onsa, capit. fin. Haec sunt quae ex Martin. Abbatis summ. 
+      <lb ed="#C" n="145"/>alphabetica huc transtulit. Pardulphus pratejus Augustobu 
+      <lb ed="#C" n="146"/>chonias juris utriusque prolytes. Quae omnia ad Hostiensanan 
+      <lb ed="#C" n="147"/>Summam pertinere videbantur. Si quaedam desiderari putes 
+      <lb ed="#C" n="148"/>altera adferret editio 
+      <lb ed="#C" n="149"/>a Quid est regula. J Adde glo. in leg. nam &amp; Demosihenes, ff. di.-->
+    </p>
+            <p xml:id="nbht7y-d1e2138-d1e279">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0885.xml-->
+               <pb ed="#C" n="868"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>ET quia regula, rem quae est, breviter enarrat, ut no. co. § 
+      <lb ed="#C" n="2"/>quid est regula. &amp; moderni brevitate gaudent: hoc in ho¬ 
+      <lb ed="#C" n="3"/>tit, causa brevitatis sufficiat tetigisse, quia plerunque brev 
+      <lb ed="#C" n="4"/>ter commemorare necesse est proponenda, ff. de ossic. prae 
+      <lb ed="#C" n="5"/>praeto. I. unica, in prin. Regulas ergo in hoc titulo positas ap 
+      <lb ed="#C" n="6"/>parendas copiosius ex certa scientia reservamus, quia ip 
+      <lb ed="#C" n="7"/>sas in apparatu magis exponic enucleari convenit, quan 
+      <lb ed="#C" n="8"/>in summa. Quas igitur gratias, quasve laudes Domini 
+      <lb ed="#C" n="9"/>meo benignissimo jesu Christo exhibere debeam, nec men¬ 
+      <lb ed="#C" n="10"/>mea potest concipere, nec lingua proferre, multas enime 
+      <lb ed="#C" n="11"/>innumerabiles miserationes ejus sensi, &amp; ab eo infinita re 
+      <lb ed="#C" n="12"/>cepi bona &amp; beneficia, quae regratiari non sufficio, &amp; pr¬ 
+      <lb ed="#C" n="13"/>quibus nihil dignum me egisse cognosco. Sed inter alia 
+      <lb ed="#C" n="14"/>hoc ei specialiter regratior, quod per me, servum suum 
+      <lb ed="#C" n="15"/>idiotam &amp; insufficientem in omnibus ad secundum loci 
+      <lb ed="#C" n="16"/>gubernaculorum vocatum, qui etiam minus remum ti 
+      <lb ed="#C" n="17"/>nere non novercam, dicta multorum sparsa, &amp; alia pe 
+      <lb ed="#C" n="18"/>quam utilia, &amp; necessaria, in unum volumen redegi, &amp; in 
+      <lb ed="#C" n="19"/>utroque jure studiosis satis perfectam doctrinam tradidi 
+      <lb ed="#C" n="20"/>non solum ad tuitionem &amp; defensionem rerum &amp; corpo 
+      <lb ed="#C" n="21"/>rum, sed etiam ad salutem medicinalem, ac medicinam 
+      <lb ed="#C" n="22"/>salutatem, &amp; antidotum efficax animarum. Tu ergo lecto 
+      <lb ed="#C" n="23"/>non me qualemcunque scriptorem, seu compilatorem, ne 
+      <lb ed="#C" n="24"/>que parvitatem meam consideres, &amp; si consideras, non con 
+      <lb ed="#C" n="25"/>temnas Segiente dicente 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0885.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="26"/>
+               <quote xml:id="nbht7y-d1e2138-Qd1e348">Corporis exigui vires contemnere noli,</quote>
+               <lb ed="#C" n="27"/>Sed attendes dictatorem, quem operis totius fieri optar 
+      <lb ed="#C" n="28"/>authorem, &amp; praesulem mordere timeas, si tamen aliqui 
+      <lb ed="#C" n="29"/>melius in superioribus tibi revelatum fuerit, vitatis teme 
+      <lb ed="#C" n="30"/>rariis reprehensionibus de quibus no. supra in proaemiohu 
+      <lb ed="#C" n="31"/>jus Summae, resp. 1 ver studiosus, &amp; seq. fraterna charitate no 
+      <lb ed="#C" n="32"/>invidiosa mordacitate corrigas &amp; emendes, quicquid ul 
+      <lb ed="#C" n="33"/>videbitur corrigendum vel etiam emendandum. Ego 
+      <lb ed="#C" n="34"/>nim licet multa habuerim contraria, ac me distraxerim. 
+      <lb ed="#C" n="35"/>alia ardua negocia &amp; diversa, adjutorio tamen illius, i 
+      <lb ed="#C" n="36"/>quem semper speravi, in omnibus suffultus vim mihi in 
+      <lb ed="#C" n="37"/>tuli, opus quasi desperatum &amp; nimis difficile, quinimo in 
+      <lb ed="#C" n="38"/>sufficientiae meae impossibile, quod in officio minori e¬ 
+      <lb ed="#C" n="39"/>ceperi &amp; demum in incendio amiseram in majori consti 
+      <lb ed="#C" n="40"/>tutus officio revocavi, cursum operis consummavi, fiden 
+      <lb ed="#C" n="41"/>servavi, non ego autem, sed gratia Dei mecum De reliqu 
+      <lb ed="#C" n="42"/>reposita est mihi corona justiciae, qui reddet mihi in illi 
+      <lb ed="#C" n="43"/>die justus Judex, cui est honor, laus &amp; gloria per omni 
+      <lb ed="#C" n="44"/>secula seculorum. Amen 
+    </p>
+            <p xml:id="nbht7y-d1e2138-d1e390">
+               <lb ed="#C" n="45"/>
+               <quote xml:id="nbht7y-d1e2138-Qd1e394">Monstrans obscuras juris dissolvere curat; 
+      <lb ed="#C" n="46"/>Explicat antiquas hac nova Summa plicae 
+      <lb ed="#C" n="47"/>Pontificumque sacros affatus Henricus haurit, 
+      <lb ed="#C" n="48"/>Pro quibus sit summo gloria magna Deo</quote>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

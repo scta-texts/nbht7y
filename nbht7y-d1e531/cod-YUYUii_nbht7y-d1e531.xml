@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 44</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 44</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="185"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e531"><!-- nbht7y-l1t44 -->
+            <head xml:id="nbht7y-d1e531-Hd1e101">Titulus 44</head>
+            <head xml:id="nbht7y-d1e531-Hd1e103" type="question-title">De cessione actionum</head>
+            <p xml:id="nbht7y-d1e531-d1e106">
+               <lb ed="#C" n="92"/>De cessione actionum. Rubri¬ 
+      <lb ed="#C" n="93"/>ca <sic>XLIII.</sic>
+            </p>
+            <p xml:id="nbht7y-d1e531-d1e115">
+               <lb ed="#C" n="94"/>SUMMARIA. 
+      <lb ed="#C" n="95"/>Actio an cedi vel vendi possit 
+      <lb ed="#C" n="96"/>2 Cessionis actionis effectus quis sit.
+    </p>
+            <p xml:id="nbht7y-d1e531-d1e124">
+               <lb ed="#C" n="97"/>AN actio vendendi vel cedi 
+      pos<lb ed="#C" n="98" break="no"/>sit. Disting.
+      <lb ed="#C" n="99"/>Utrum fiat in ultima voluntate, &amp; tunc va 
+      <lb ed="#C" n="100"/>let. f. de legat. 3. nomen. si tamen actio erat in 
+      <lb ed="#C" n="101"/>S dubitata, aget legatarius vel fideicommissa 
+      <lb ed="#C" n="102"/>iius. Sed si erat dubitata, id est, in judicium deducta: tun¬ 
+      <lb ed="#C" n="103"/>enim dicitur dubia. argument. ff. de pecun. quod debetur. &amp; a 
+      <lb ed="#C" n="104"/>adulte. denunciasse. in hoc casu agit haeres. &amp; quod conse 
+      <lb ed="#C" n="105"/>cutus fuerit, dabit legatario. C. de litig. quicunque. &amp; in au¬ 
+      <lb ed="#C" n="106"/>thentic. nunc sthaeres. no. §. qualiter. prope finem. sic intellige 
+      <lb ed="#C" n="107"/>C. manda. I penult. &amp; ff. de libe. lega. I. legavi. An fiat inter vi 
+      <lb ed="#C" n="108"/>vos ex pacto, &amp; tunc si fiat cessio potentiori, nulla est. infr¬ 
+      <lb ed="#C" n="109"/>cod. cap. 2. versic. ita quod jactura. Ergo si fiat tutori cessio 
+      <lb ed="#C" n="110"/>contra pupillum, cum tutor potentior sit, nulla erit. C. qu. 
+      <lb ed="#C" n="111"/>tuto. dere possunt. autem minoris. sed nec valent, si fiat illi, cu 
+      <lb ed="#C" n="112"/>jus tutelam, vel curam quis gessit, quamvis tutela vel cur 
+      <lb ed="#C" n="113"/>finita sit, &amp; quamvis ex veris causis fiat, ut in authent. ut h 
+      <lb ed="#C" n="114"/>qui obl. se habe perhi. res min. §. quod si quis, col. 6. &amp; sic ceden: 
+      <lb ed="#C" n="115"/>non agit. nec potentior. imo actio extinguitur. C. ne lice 
+      <lb ed="#C" n="116"/>poten. l. 2. Et intelligo potentiorem non quemlibet ditio 
+      <lb ed="#C" n="117"/>rem, vel nobiliorem, sicut supra. §. qua poena. versic. item ra 
+      <lb ed="#C" n="118"/>tione personae. sed talem qui terribilis est, &amp; terribilem, seu 
+      <lb ed="#C" n="119"/>minacem faciem ostendere potest. C. quod met. caus. s. pe 
+      <lb ed="#C" n="120"/>impressionem. infra de censib. cum Apostolus. in fin. &amp; de iminun 
+      <lb ed="#C" n="121"/>eccles. quia plerique. C. si quacunque praedi. po.l.1. &amp; si recto 
+      <lb ed="#C" n="122"/>provinciae. I. 2. lem potentior si sit clarissimus sub praeside 
+      <lb ed="#C" n="123"/>de hoc crimine convenitur, &amp; severa sententia, scilicet ar 
+      <lb ed="#C" n="124"/>bitraria damnatur. C. ne li. potent. I. I. Nunquid ergo cleri 
+      <lb ed="#C" n="125"/>ci in eo, quod clerici potentiores sunt laicis, quantum ac 
+      <lb ed="#C" n="126"/>hoc, de quo hîc quaeritur. quidam dicunt, quod sic infra eo 
+      <lb ed="#C" n="127"/>d 2. sed certe ibi non imponitur aliqua poena, imo dicitur 
+      <lb ed="#C" n="128"/>quod clerici per cen. ecclesiae compellantur, nec tales ces 
+      <lb ed="#C" n="129"/>nones recipiant contra laicos, quia videntur turpi lucre 
+      <lb ed="#C" n="130"/>inhiare, quod eis prohibetur. 14. q. 4. clerici. &amp;c. canonum 
+      <lb ed="#C" n="131"/>&amp; 88. distin. fornicari. ne cler. vel mon.c. 1. imo potius poten 
+      <lb ed="#C" n="132"/>tior videretur laicus clerico, quia magis terribilis est, ar 
+      <lb ed="#C" n="133"/>infra de rebus eccles non alienan. cum laicis. &amp; de immun. eccles 
+      <lb ed="#C" n="134"/>non minus, &amp; c. adversus. 2. q. 7. laici. &amp; quod dicit infra eod.c 
+      <lb ed="#C" n="135"/>2. quod jactura, &amp;c. non dicit ideo, quod clerici sint poten 
+      <lb ed="#C" n="136"/>tiores, sed apposuit compilator illa verba, ut includere 
+      <lb ed="#C" n="137"/>tractatum hujus distinctionis. Si vero cessio fiat non po 
+      <lb ed="#C" n="138"/>tentiori, &amp; actio sit dubitata, non tenet cessio, nec tamer 
+      <lb ed="#C" n="139"/>amittitur actio, imo nihilominus est agentis qui cessit 
+      <lb ed="#C" n="140"/>Item in casibus tenet, quos notat. supra §. qualiter competat 
+      <lb ed="#C" n="141"/>prope fin. vers. excipiuntur. &amp; probatur. C. de litig. l. 2. &amp; uli 
+      <lb ed="#C" n="142"/>C. mand. I. pen. Sin autem actio indubitata sit, &amp; constat ve 
+      <lb ed="#C" n="143"/>ram esse cessionem, tenet. C. de haer. vel act. vend. per totum 
+      <lb ed="#C" n="144"/>&amp; de hoc. mfra§. &amp; quis sit effectus. sin autem constat illan 
+      <lb ed="#C" n="145"/>esse simulatam, nulla est. C. plus va. quod agi. in rubro &amp; ii 
+      <lb ed="#C" n="146"/>nigro. mfra qui fil. sint leg. pertuas. infra eod c.a verscum igitu 
+      <lb ed="#C" n="147"/>cessiones. &amp; in hoc casu potest intelligi ipsum c. vel intelli ga¬ 
+      <lb ed="#C" n="148"/>quando fit gravamen adversarii, &amp; innuit, &amp; propter ho¬ 
+      <lb ed="#C" n="149"/>facit ad tit. hunc, quia vult laicum reum trahere ad forun 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0203.xml-->
+      <pb ed="#C" n="186"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>ecclesiasticum. Sed hoc quomodo fiet, cum actor sequi 
+      <lb ed="#C" n="2"/>tur forum rei? Respond. ratione consuetudinis. mfra de fi¬ 
+      <lb ed="#C" n="3"/>ro comp. si clericus. vel quia laicus conveniet clericum sib 
+      <lb ed="#C" n="4"/>injuriantem coram ecclesiastico judice, &amp; clericus recor 
+      <lb ed="#C" n="5"/>veniendo actionem sibi cessam intentabit, quod in cor 
+      <lb ed="#C" n="6"/>verso casu prohibetur. infra de jur. parr. relatum. de quo di¬ 
+      <lb ed="#C" n="7"/>ut not. infra de mu. pe. §. apud quem. ergo si vera esset cessio 
+      <lb ed="#C" n="8"/>videtur quod coram laico ipsum reconvenire posset, se¬ 
+      <lb ed="#C" n="9"/>non estverum: imo semper praesumo, quod in frauden 
+      <lb ed="#C" n="10"/>fiat, quantum ad hoc, quia nunquid aget, ut bene innui 
+      <lb ed="#C" n="11"/>decr. nec enim licet eis hunc quaestum quaerere, secundi 
+      <lb ed="#C" n="12"/>Ber. vel dic ut infra not. Quid enim si aliquis mihi deleg¬ 
+      <lb ed="#C" n="13"/>verit debitorem suum, contra eum actiones cesserit, cun 
+      <lb ed="#C" n="14"/>alias solvere non possit, sed &amp; si succederet, secus esset. ar 
+      <lb ed="#C" n="15"/>C. de decu. li. 10. &amp; ff de decu. qui prohibetur. vel si legaretur? 
+      <lb ed="#C" n="16"/>in ultima voluntate, ut supra dixi. Donari etiam potest in 
+      <lb ed="#C" n="17"/>ter vivos, dummodo bona fide fiat a clerico clericis contr¬ 
+      <lb ed="#C" n="18"/>laicum, &amp; a laico laicis contra laicum, vel clericum, &amp; 
+      <lb ed="#C" n="19"/>laico laicis contra laicum. &amp; in omnibus casibus intellig 
+      <lb ed="#C" n="20"/>potest quod legitur. C. man per diversas. §. si ff. de alic. jud mu 
+      <lb ed="#C" n="21"/>cau. facta. Ipen. dummodo publice fiat. C. man. ab Anastasio n 
+      <lb ed="#C" n="22"/>fin. respon. 1. inde est, quod si quis laicus aufert ecclesiae ju 
+      <lb ed="#C" n="23"/>suum, sive feudum, nec ecclesia ipsum aliter recuperar 
+      <lb ed="#C" n="24"/>valeat, potest ipsum dare in feudum alii, qui idem feudum 
+      <lb ed="#C" n="25"/>recuperet, &amp; pro ecclesia recognoscat infra de feud.c.2Sp. 
+      <lb ed="#C" n="26"/>&amp; fin. sed summa est ratio, quae pro religiosis facit. ff. aer 
+      <lb ed="#C" n="27"/>lig, &amp; sumptib. funer sunt personae. Item fieri potest inter co 
+      <lb ed="#C" n="28"/>haeredes agentes. fa ercis. iudic. &amp; potest cedi legatario, &amp; 
+      <lb ed="#C" n="29"/>quilibet acquirere potest ad tuitionem rei quam possidet 
+      <lb ed="#C" n="30"/>non ad impugnandum alium, ut in eadem l. per diversas. ress 
+      <lb ed="#C" n="31"/>1. &amp; §. 1. sic imfra de except. cum inter priorem. in sin. Item si du 
+      <lb ed="#C" n="32"/>hitetur, utrum cessio sit vera vel ficta, semper praesumitu 
+      <lb ed="#C" n="33"/>simulata, ex eo quod actio pro parte donata fuit, &amp; pr¬ 
+      <lb ed="#C" n="34"/>parte vendita: hic autem agetis, cui cessa est usque ad 
+      <lb ed="#C" n="35"/>quantitatem quam dedit non in superfluo, nec cedens a 
+      <lb ed="#C" n="36"/>git idem, si pro modico pretio vendidit. arg. ff. de transac 
+      <lb ed="#C" n="37"/>cum hi. §. nodum. Item si dicatur in instrumento cession 
+      <lb ed="#C" n="38"/>factam, &amp; non dicatur ex qua causa. f. de ju. fisci. C. man. 
+      <lb ed="#C" n="39"/>pen. &amp; sin. Item praesumitur facta in fraudem, si clerico fia 
+      <lb ed="#C" n="40"/>cessio a laico contra laicum. secus puto, si contra clericum 
+      <lb ed="#C" n="41"/>arg. infra eod. c. 2. vel potest dist. quando laicus ceditclerico 
+      <lb ed="#C" n="42"/>contra laicum, utrum trahat ipsum coram eccles. iud. pu 
+      <lb ed="#C" n="43"/>ta quia sic est de consuetudine: vel coram suo, ut in prim¬ 
+      <lb ed="#C" n="44"/>casu praesumatur contra clericum, in secundo minime sec 
+      <lb ed="#C" n="45"/>&amp; quicquid malitiae contra hoc excogitari potest, pro in 
+      <lb ed="#C" n="46"/>fecto habetur. C. iman. ab Anastasio. in fin 
+    </p>
+            <p xml:id="nbht7y-d1e531-d1e348">
+               <lb ed="#C" n="47"/>Et quis sit effectus celuonis. Utdirectae actione 
+      <lb ed="#C" n="48"/>transeant. &amp; ideo ipsas intentare potes 
+      <lb ed="#C" n="49"/>nomine suo is cui cessae sunt, sed si emantur, &amp; non ced 
+      <lb ed="#C" n="50"/>tur, competunt utiles, &amp; hoc circa personas &amp; pignora 
+      <lb ed="#C" n="51"/>de haer. vel actio. vend. emptori. &amp; contra debitores &amp; fidejus 
+      <lb ed="#C" n="52"/>sores, &amp; imputatur venditori, si nomen, id est, actionen 
+      <lb ed="#C" n="53"/>quam vendidit, exigat, vel compenset, unde exactum, ve 
+      <lb ed="#C" n="54"/>compensatum tenetur emptori reddere. f. de haere. vel ac¬ 
+      <lb ed="#C" n="55"/>vend. venditor actionis. Dixerunt tamen quidam, quod acti¬ 
+      <lb ed="#C" n="56"/>injuriarum vendi non potest ante lit contest. cum non si 
+      <lb ed="#C" n="57"/>in bonis nostris. ff. de injur. injuriarum. nec potest, cum si 
+      <lb ed="#C" n="58"/>litigiosa. sed forte ideo non dicitur in bonis nostris, qui 
+      <lb ed="#C" n="59"/>non datur haeredibus, ut not. infra de inju. ergo dum vivi 
+      <lb ed="#C" n="60"/>mus agere possumus, &amp; aliis cedere, secundum Azo qui 
+      <lb ed="#C" n="61"/>omnes actiones, sive purae, sive conditionales, sive reale 
+      <lb ed="#C" n="62"/>sive personales, vendi possunt, &amp; tenetur venditor de evi 
+      <lb ed="#C" n="63"/>ctione, si debitor nihil debet, vel nihil habet, vel nisi tue¬ 
+      <lb ed="#C" n="64"/>tur se perpetua exceptione, sed locupletem debitorem 
+      <lb ed="#C" n="65"/>vel in summam certam non tenetur praestare, nisi in con 
+      <lb ed="#C" n="66"/>trarium actum sit. argu. ff. de haer. vel act. ven. nomen. &amp; I. qui 
+      <lb ed="#C" n="67"/>dam. &amp; lnomina. &amp; C. de haer. relact. ven. I. sin. Ex praemissi 
+      <lb ed="#C" n="68"/>patet, quod si actio data sit, vel vendita, sed non cessa, is qu 
+      <lb ed="#C" n="69"/>emit utilem proponet, quamcedens directam habebat 
+      <lb ed="#C" n="70"/>vel utilem quam utilem habebat, sed si fuit cessa, &amp; is qu 
+      <lb ed="#C" n="71"/>cessit habebat directam, eandem proponet. si utilem, uti 
+      <lb ed="#C" n="72"/>lem proponet. C. de haer. vel act. vend. emptor. sic intellige. C.d. 
+      <lb ed="#C" n="73"/>procu. qui stipendia, &amp; man. ab Anastasio C. de leg. ex legato nom 
+      <lb ed="#C" n="74"/>nis. &amp; nihilominus eandem remanent penes cedentem 
+      <lb ed="#C" n="75"/>unde ipsas intentare potest nisi in tribus casibus. u 
+      <lb ed="#C" n="76"/>notatur infra de soluti. sub rub. de deleg. §. qui 
+      <lb ed="#C" n="77"/>est delegare 
+  </p>
+         </div>
+      </body>
+   </text>
+</TEI>

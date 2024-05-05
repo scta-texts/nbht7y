@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 40</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 40</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="520"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1322"><!-- nbht7y-l3t40 -->
+            <head xml:id="nbht7y-d1e1322-Hd1e101">Titulus 40</head>
+            <head xml:id="nbht7y-d1e1322-Hd1e103" type="question-title">De consecratione ecclesiae vel altaris</head>
+            <p xml:id="nbht7y-d1e1322-d1e106">
+               <lb ed="#C" n="140"/>De Consecratione ecclesiae vel altari 
+      <lb ed="#C" n="141"/>XL. Rubrica. 
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e113">
+               <lb ed="#C" n="142"/>SUMMARIA, 
+      <lb ed="#C" n="143"/>I. Ecclesia quando sit conferenda. Et a quo. 2. Et qualiter 3. Et cu 
+      <lb ed="#C" n="144"/>jus authoritate. 4 
+      <lb ed="#C" n="145"/>5. Consecratio an sit iteranda &amp; 
+      <lb ed="#C" n="146"/>7. Coemiteria iis quibus corpora paganorum vel haereticorun 
+      <lb ed="#C" n="147"/>sepulta sunt, non debent consecrari 
+      <lb ed="#C" n="148"/>8 Mulier praegnans si sepulta est in ecclesia, nunquid potest con 
+      <lb ed="#C" n="149"/>secrari ea non abjecta 
+      <lb ed="#C" n="150"/>9. Ecclesia an sit reconcilianda pro furto ibi commisso 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0538.xml-->
+      <pb ed="#C" n="521"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>10. Altaria quomodo consecrentur 
+      <lb ed="#C" n="2"/>II. Calix &amp; patena cujus materiae debent esse 
+      <lb ed="#C" n="3"/>Missa a quo sit celebranda. Et qualiter. 13. Et quando i 
+      <lb ed="#C" n="4"/>Pransus celebrans an conficia 
+      <lb ed="#C" n="5"/>Clerici peregrini possunt simul dicere omnes horas 
+      <lb ed="#C" n="6"/>Corporis Christi tres opiniones recitantur 
+      <lb ed="#C" n="7"/>Homines quoties debeant in anno communicare 
+      <lb ed="#C" n="8"/>20. Chrisma singulis annis conficiendum est &amp; renovandum, &amp; 
+      <lb ed="#C" n="9"/>19. Festivitates quae sunt celebrandae numerantu 
+      <lb ed="#C" n="10"/>vetus in ecclesia cremandum 
+      <lb ed="#C" n="11"/>21. Officia divina qualiter sint celebranda. Et a quibus 22 
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e165">
+               <lb ed="#C" n="12"/>QVoniam missae. de quarum cel¬ 
+      <lb ed="#C" n="13"/>bratione tractat 
+      <lb ed="#C" n="14"/>ri sumus, celebrari non debent, nisi eccl.ve 
+      <lb ed="#C" n="15"/>altaribus consecratis: ideo dicamus de cor 
+      <lb ed="#C" n="16"/>secratione ecclesiae, vel altaris. Vel sic: Di 
+      <lb ed="#C" n="17"/>ximus supr. de relig. dom &amp; capel. mon. &amp; quoniam ipsa 
+      <lb ed="#C" n="18"/>consecrandae sunt, &amp; altaria earundem, dicamus de con 
+      <lb ed="#C" n="19"/>secratione, &amp; de aliis quae consecrantum vel benedicuntur 
+      <lb ed="#C" n="20"/>&amp; de sacramento Eucharistiae, &amp; de celebratione missari 
+      <lb ed="#C" n="21"/>&amp; de aliis officiis, Sciendum est igitur, quod in Decreti 
+      <lb ed="#C" n="22"/>in tractatu hoc, talis ordo servatur. Primo tractatur de e¬ 
+      <lb ed="#C" n="23"/>clesiae consecratione. Secundo, de sacramento Euchar 
+      <lb ed="#C" n="24"/>stiae. Tertio, de solemnitatibus. Quarto, de sacramento ba 
+      <lb ed="#C" n="25"/>ptismi. Quinto, de confirmatione, &amp; de divinis officiis, S 
+      <lb ed="#C" n="26"/>de jejunus, &amp; sic dividitur in 5. distinctiones, sic &amp; nos 
+      <lb ed="#C" n="27"/>undem ordinem servemus. Prima distinctione videa 
+      <lb ed="#C" n="28"/>mus, Quando sit ecclesia consecranda. Et a quo, Et qua 
+      <lb ed="#C" n="29"/>liter, Et cujus authoritate, Et an sit iteranda consecratio 
+      <lb ed="#C" n="30"/>Et quando, &amp; qualiter sit reconcilianda. Eadem vide¬ 
+      <lb ed="#C" n="31"/>mus de consecratione alta. De chrismate vero dicitur, in 
+      <lb ed="#C" n="32"/>fra in distinctio 3. in princip. consequenter dicamus de alii 
+      <lb ed="#C" n="33"/>quae benedicuntur. Vocatur autem hic ecclesia Deo dice 
+      <lb ed="#C" n="34"/>ta domus, ad sacramenta, &amp; divina officia celebranda, a 
+      <lb ed="#C" n="35"/>cons. dist. c. 1 
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e221">
+               <lb ed="#C" n="36"/>Quando autem; sit eclesia consecranda. Tam 
+      <lb ed="#C" n="37"/>dieb. Dominicis, a quam pr 
+      <lb ed="#C" n="38"/>&amp; vatis, infra eodem c. 2. licet ordines diebus Dominicis 
+      con<lb ed="#C" n="39" break="no"/>ferantur tantum, quod dic, ut no. sup. de temp. ord. Squo ten 
+      <lb ed="#C" n="40"/>pore, &amp; chrisma consecratur certo tempore, ut dicam infra 
+      <lb ed="#C" n="41"/>eo. tit. dist. 3
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e237">
+               <lb ed="#C" n="42"/>Et a quo. Et ab episcopo de conse distinemo, n. qu 
+      <lb ed="#C" n="43"/>2honae, cujus authoritate hodie sufficit 
+      <lb ed="#C" n="44"/>ut patet in dictis capitulis, &amp; infra eo c. 2.&amp; 3. nec potest ho 
+      <lb ed="#C" n="45"/>alii delegari, b nisi sit episcopus is, cui delegatur etiam ri 
+      <lb ed="#C" n="46"/>conciliatio, inf. eo aqua, &amp; no supra de offi. deleg. quae delegar 
+      <lb ed="#C" n="47"/>ver. delegantur, aliquando, quia ea, quae ordinis sunt, sive d 
+      <lb ed="#C" n="48"/>gnitatis, minori se delegare non potest episcopus, ut ibi
+      <!-- missing line break -->dixi
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e257">
+               <lb ed="#C" n="49"/>Et qualiter inordinario invenitur Veruntam 
+      <lb ed="#C" n="50"/>sine missa non debet consecrari de Con 
+      <lb ed="#C" n="51"/>se. dist. i.c. 2. &amp;c. de fabrica. in fi. Sed nunquid missa est de sub 
+      <lb ed="#C" n="52"/>stantia e Bazi. dixit, quod sic. Hugo dicit contra, secund 
+      <lb ed="#C" n="53"/>ipsum si episcopus consecret, presbyter dicat missam, ecc 
+      <lb ed="#C" n="54"/>consecrata erit: licet aliud sit in ordinibus 23. dist. quorundi 
+      <lb ed="#C" n="55"/>tu dic, ut non supra de sacr. uncti § &amp; a quo, &amp; qualiter, vers. se 
+      <lb ed="#C" n="56"/>nunquid missa, ita demum etiam facienda est consecratio,s 
+      <lb ed="#C" n="57"/>eidem de dote provisum sit, inf ea cum sicut, quod dic, ut no 
+      <lb ed="#C" n="58"/>inf. de eccl.aedi. §cujus auth. Sed nec per somnia, &amp; quasi in 
+      <lb ed="#C" n="59"/>anes relevationes, nec sine reliquiis sunt altaria erigenda 
+      <lb ed="#C" n="60"/>de consec. dist. i. placuit, ut altaria, &amp;c. non oportet clericos, quo 
+      <lb ed="#C" n="61"/>intelligi potest de altarib. infixis, &amp; ecclesiis, ut bene innu 
+      <lb ed="#C" n="62"/>unt dictac. secus in tabula, de conse. dist. concedimus, sicut mu 
+      <lb ed="#C" n="63"/>ti Metrop. tenent de consue quae a suis suffraganeis est ser 
+      <lb ed="#C" n="64"/>vanda, de conse. dist. 1. altaria, alii dicunt idem esse in tabula 
+      <lb ed="#C" n="65"/>&amp; facit pro eis oratio, quae consuevit dici in missa, Suscip 
+      <lb ed="#C" n="66"/>sancta Trinitas, &amp;c. ubi dicitur, &amp; omnium sanctorum 
+      <lb ed="#C" n="67"/>quorum hodie festivitas celebratur per universum orbem 
+      <lb ed="#C" n="68"/>&amp; quorum nomina &amp; reliquiae hic habentur: sed quod su 
+      <lb ed="#C" n="69"/>pra prox. dixi, verius videtur. Dicunt etiam aliqui docto 
+      <lb ed="#C" n="70"/>res sufficere corpus Christi loco reliquiarum: &amp; hoc innu 
+      <lb ed="#C" n="71"/>it liber Pontificialis, dominus tamen videtur per me con 
+      <lb ed="#C" n="72"/>sultus, habito consilio Patriarchis Constantinopoli, &amp; do 
+      <lb ed="#C" n="73"/>mini Sabin. quondam Mutin. qui ei assistebant Lugdun 
+      <lb ed="#C" n="74"/>mihi respondit contrarium, &amp; hoc notatum fuit in Exod 
+      <lb ed="#C" n="75"/>37.c. &amp; praece. ubi praeceptum fuit, quod de lignis Sethim 
+      <lb ed="#C" n="76"/>quae sunt imputribilia aedificaretur arca Domini, &amp; Salo 
+      <lb ed="#C" n="77"/>mon fecit altare aureum, altaria vero non sunt consecri 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0538.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>da, nisi lapidea, de conse distin. I. altaria, dicitur autem quo 
+      <lb ed="#C" n="79"/>Lateran. ligneum est, secundum Hug.
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e331">
+               <lb ed="#C" n="80"/>Et cujus authoritate. Videtur, quod 
+      ec<lb ed="#C" n="81" break="no"/>clesia de novo 
+      funda<lb ed="#C" n="82" break="no"/>ta sine authoritate Papae, non possit consecrari, de conse¬ 
+      <lb ed="#C" n="83"/>dist. .c. 2. &amp; seq. usque adc. nemo, sed illa c. non tenent per ali¬ 
+      <lb ed="#C" n="84"/>ibi sequentia: quia sufficit authoritas episcopi, ut dixi sup 
+      <lb ed="#C" n="85"/>§ &amp; a quo, &amp; no. indistin. Scujus authoritate, infra de ecclesia ae 
+      <lb ed="#C" n="86"/>difi. 
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e349">
+               <lb ed="#C" n="87"/>Et an sit iteranda consecratio. Non, sicut 
+      <lb ed="#C" n="88"/>nec alia sacramenta: quo¬ 
+      <lb ed="#C" n="89"/>dic, ut not. sup. de sacr. non iteran. §quae sunt iteranda. Antiqu 
+      <lb ed="#C" n="90"/>autem doctores assignabant sex casus, in quib. reiterandi 
+      <lb ed="#C" n="91"/>erat consecratio. unde versus 
+      <lb ed="#C" n="92"/>
+               <quote xml:id="nbht7y-d1e1322-Qd1e364">Ignis, adulterium, constructio, causa remota 
+      <lb ed="#C" n="93"/>Mors, dubium faciunt iterato templa sacrari</quote>
+            </p>
+            <p xml:id="nbht7y-d1e1322-d1e370">
+               <lb ed="#C" n="94"/>De conse. dist. 1. solennitates, &amp;c. ecclesiae, vel altaria, &amp;c. simo 
+      <lb ed="#C" n="95"/>tum, &amp; c. ecclesus, semel, &amp; c. de fabrica. Super hoc ita tenen 
+      <lb ed="#C" n="96"/>dum est, quod si solummodo tectum, vel aliqua pars eju 
+      <lb ed="#C" n="97"/>combusta est, &amp; remanent parietes integri, non est conse 
+      <lb ed="#C" n="98"/>cranda eccl. vel altare: nisi remota sit tabula altaris scil. su 
+      <lb ed="#C" n="99"/>perior, quae appellatur mensa, &amp; dic mota, i. mutata, ve 
+      <lb ed="#C" n="100"/>destructa, enormiter, nec .n. obstaret, si in exteriori parti 
+      <lb ed="#C" n="101"/>sui modicam fracturam passa esset, infra eo. ligneis, est ergi 
+      <lb ed="#C" n="102"/>necesse, quod appareat deformitas, quam puto ad arbitri 
+      <lb ed="#C" n="103"/>um episcopi redigendam. Sed &amp; si sigillum altaris, i. lapis 
+      <lb ed="#C" n="104"/>cum quo signantur reliquiae, quod consuevit apponi in 
+      <lb ed="#C" n="105"/>medio tabulae, &amp; aliquando ponitur retro altare, fractum 
+      <lb ed="#C" n="106"/>sit, vel diminutum, altare reconsecrandum est, non tamen 
+      <lb ed="#C" n="107"/>ecclesia, infra eo.c.I.&amp;c. quod in dubiis, de conse dist I si motum 
+      <lb ed="#C" n="108"/>Alia est ergo consecratio eccl. alia altaris, &amp; ideo una sin 
+      <lb ed="#C" n="109"/>reliqua fieri potest: ut ibi, infra eo. c. I.* Si vero ita combu¬ 
+      <lb ed="#C" n="110"/>sta sit ecclesia, quod parietes combusti sint, vel diruti om 
+      <lb ed="#C" n="111"/>nes, vel major pars: debet iterum consecrari, de consecr. disi 
+      <lb ed="#C" n="112"/>I. ecclesiis, arg.ff. de contrah empt, domum. Idem est, secundum Huae 
+      <lb ed="#C" n="113"/>si ecclesia tota, vel major pars simul destructa est, vel diru 
+      <lb ed="#C" n="114"/>ta: &amp; in eo casu omnis solennitas adhiberi debet. Sivero 
+      <lb ed="#C" n="115"/>parietes successive reparati sunt, eadem ecclesia intelligi 
+      <lb ed="#C" n="116"/>tur: &amp; ideo sufficit reconciliatio aquae exorcizatae, cun 
+      <lb ed="#C" n="117"/>solennitate missae ea. disc. de fabrica. arg. ff.de l.quod in rerun 
+      <lb ed="#C" n="118"/>natura, ff. de jud proponebatur. Pro sanguinis vero effusione 
+      <lb ed="#C" n="119"/>d vel homicidio, vel adulterio, vel pollutione cujuscunc 
+      <lb ed="#C" n="120"/>seminis, quod intelligas, etiam si vir ibidem uxorem co 
+      <lb ed="#C" n="121"/>gnoverit, secundum ea quae not, infra de spons. sub rubrica, d 
+      <lb ed="#C" n="122"/>matrimoniis, §quis sit effectus. versicul. sed nunquid peccant con 
+      <lb ed="#C" n="123"/>juges, &amp; sequent. reconcilianda est ecclesia per aquam cun 
+      <lb ed="#C" n="124"/>vino, &amp; cinere, benedictam, infra eo, proposuisti, de consec. dist. 
+      <lb ed="#C" n="125"/>ecclesiis, unde versus: 
+      <lb ed="#C" n="126"/>
+               <quote xml:id="nbht7y-d1e1322-Qd1e443">Templa reconsecrant dubium, distractio, flamma 
+        <lb ed="#C" n="127"/>Mensa motus aquam spargis, semenfacit &amp; mor.</quote>
+               <!--</p>
+    <p>
+      <lb ed="#C" n="128"/>ADDITIONES 
+      <lb ed="#C" n="129"/>a Tam diebus Dominicis.J Quod ait Hostien ecclesiam, tan 
+    </p>
+    <p>
+      <lb ed="#C" n="130"/>dominicis, quam privatis dieb. consecrari pesse, limitat Mar 
+      <lb ed="#C" n="131"/>noster, eo tit. in Summ. ut non procedat in plurimis consccra 
+      <lb ed="#C" n="132"/>tionib. Nam nec clerici ordinantur, nec virgines: nec episce 
+      <lb ed="#C" n="133"/>pi consecrantur, nec chrisma conficitur, nisi certis diebus 
+      <lb ed="#C" n="134"/>extra de tempolord. sane, &amp; 20. quaest. Idevotis, &amp; de consecr. distis 
+      <lb ed="#C" n="135"/>omni tempore. Item episcopus non debet ecclesiam conse 
+      <lb ed="#C" n="136"/>crare, nec etiam primum lapidem ponere, nisi prius a funda 
+      <lb ed="#C" n="137"/>tione dote constituta, &amp; assignata, de consecra. dist. 1 nemo. De 
+      <lb ed="#C" n="138"/>bet enim dos tanta esse, ut sufficiat ad luminaria, &amp;t ad vitan 
+      <lb ed="#C" n="139"/>ministrorum duorum ad minus, ut de conse. dist. 1. nemo, &amp; 16.4 
+      <lb ed="#C" n="140"/>S. piae mentis, &amp; de fil pres.c. proposui 
+      <lb ed="#C" n="141"/>b Delegari. J Hostiensis sententia Martino vera visa fuit us 
+    </p>
+    <p>
+      <lb ed="#C" n="142"/>que adeo, ut simplicibu. sacerdotibus ecclesia neque consecrar 
+      <lb ed="#C" n="143"/>neque reconciliari possit, etiam si episcopus hoc eis commi 
+      <lb ed="#C" n="144"/>tat, extra eo ti 
+      <lb ed="#C" n="145"/>e Sed nunquid missa est de substantia ]J Addegl inc. 2. de cons 
+    </p>
+    <p>
+      <lb ed="#C" n="146"/>dist. 1. &amp; gl inc. quod sicut, de el 
+      <lb ed="#C" n="147"/>d Pro sanguinis vero effusione. JAdde gl. not. in ista materia, in 
+    </p>
+    <p>
+      <lb ed="#C" n="148"/>c. unico. eo.tit. lib. 6-->
+               <!--Henricus_a_Segusio_cardinalis_Hostiensis-0539.xml-->
+               <pb ed="#C" n="522"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>Vel sic 
+      <lb ed="#C" n="2"/>
+               <quote xml:id="nbht7y-d1e1322-Qd1e461">Ecclesiam resecta, si nescis, corruit, ardet 
+      <lb ed="#C" n="3"/>Semen, sanguis, a qua vult primum mensa remota</quote>
+               <lb ed="#C" n="4"/>Vel sic 
+      <lb ed="#C" n="5"/>
+               <quote xml:id="nbht7y-d1e1322-Qd1e471">Templacruor, semenque piant, dubium, rogus, atque 
+      <lb ed="#C" n="6"/>rutioresecrant, sed mensae fractio motus</quote>
+            </p>
+            <p xml:id="nbht7y-d1e1322-d1e478">
+               <lb ed="#C" n="7"/>Et hi ultimi magis placent, &amp; patet expositio per pra 
+      <lb ed="#C" n="8"/>dicta. Et hoc quod praemissum est de reconciliatione, di 
+      <lb ed="#C" n="9"/>cunt quidam verum esse, ita demum, si crimen per famar 
+      <lb ed="#C" n="10"/>publicam sit infra de adul. significasti, tutius tamen videtur 
+      <lb ed="#C" n="11"/>etiam si non sit publicum, hoc ideo dico, ut is qui peccavi 
+      <lb ed="#C" n="12"/>conteratur, &amp; confundatur supra de praeben. cum secundun 
+      <lb ed="#C" n="13"/>&amp; exemplo terreantur alii hoc videntes, arg. C ad I Jul. repi 
+      <lb ed="#C" n="14"/>lI. &amp; ut ecclesia magis revereatur, argum. inf. decustod. Ei 
+      <lb ed="#C" n="15"/>cha reliqui sed ita caute fiat, ne etiam paenitentiae signo de 
+      <lb ed="#C" n="16"/>nudetur, infra de paen. omnis, supra de offic. ordin. capit. 1. &amp; i¬ 
+      <lb ed="#C" n="17"/>est in ecclesia non consecrata, sed hoc quam cito fieri po 
+      <lb ed="#C" n="18"/>test, debet consecrari: interim tamen reconciliabitur, n 
+      <lb ed="#C" n="19"/>divinae laudis organa diutius suspendantur, infra eodem ca 
+      <lb ed="#C" n="20"/>pit. ultimo, nam &amp; non consecrata his privilegiis immuni 
+      <lb ed="#C" n="21"/>tatis gaudet, quibus consecrata ut de immun. eccle. &amp; jung 
+      <lb ed="#C" n="22"/>quod notat. infra de paenit. § in quo tenetur, versic quid si quis 
+      ti<lb ed="#C" n="23" break="no"/>bi confiretur, quod dormivit in ecclesia. * Item caemiteria i 
+      <lb ed="#C" n="24"/>quibus corpora paganorum sepulta sunt, vel haereticori 
+      <lb ed="#C" n="25"/>non debent consecrari, de consec. dist. i ecclesiam, &amp; cap. eccle 
+      <lb ed="#C" n="26"/>siam. Idem est intelligendum de excommunicatis, nams 
+      <lb ed="#C" n="27"/>si ibi corpora excommunicatorum sepulta sunt, reconc¬ 
+      <lb ed="#C" n="28"/>liari debent, infra eodem consuluisti, &amp; ossa procul pellend 
+      <lb ed="#C" n="29"/>sunt, si ab ossibus fidelium discerni possint, alioquin si dis 
+      <lb ed="#C" n="30"/>cerni non possunt commode, melius est ipsa relinqui un¬ 
+      <lb ed="#C" n="31"/>cum ossibus fidelium, quam ossa ipsorum fidelium, un 
+      <lb ed="#C" n="32"/>cum ossibu. infidelium ex humari: ut aperte probatur supr 
+      <lb ed="#C" n="33"/>de statu mo. super quibusdam supra de sepult. sacra, corpora au 
+      <lb ed="#C" n="34"/>tem sanctorum nemo praesumat transferre, sine author 
+      <lb ed="#C" n="35"/>tate seu licentia principis vel episcopi, de conse. dist. I.corpo 
+      <lb ed="#C" n="36"/>ra. C. de sacros. eccl.  infr. de venera sanctorum, c2.idem videru 
+      <lb ed="#C" n="37"/>&amp; de ossibus fidelium, infrade reli &amp; sump sun ossa. Aliu¬ 
+      <lb ed="#C" n="38"/>est ergo in ossibus fidelium, quae non expelluntur: aliu¬ 
+      <lb ed="#C" n="39"/>in ossibus infidelium, quae expelluntur, ut statim no. &amp; es 
+      <lb ed="#C" n="40"/>ratio. quia infideles dum vivunt, ab ecclesia ejiciendi sunt 
+      <lb ed="#C" n="41"/>21. dist. clericos 25 dist perlectis, ergo &amp; mortui, quia quib. nor 
+      <lb ed="#C" n="42"/>communicavimus vivis, nec mortuis, quod dicut no. sus 
+      <lb ed="#C" n="43"/>de epul βquibus interdicatur, ver in summa.* Quid si mulie 
+      <lb ed="#C" n="44"/>praegnans sepulta est in ecclesia nunquid potest consecra 
+      <lb ed="#C" n="45"/>ri ea non abjecta? dicit Hugo, quod sic, dic etiam, quod s 
+      <lb ed="#C" n="46"/>ne incisione poterit sepeliri, quia periculum faetoris im 
+      <lb ed="#C" n="47"/>minere posset, si scinderetur, &amp; Jo. idem dixit, nam &amp; par 
+      <lb ed="#C" n="48"/>tus pars viscerum est ff deventre inspi. l. 151. &amp; ideo potes 
+      <lb ed="#C" n="49"/>cum matre sepeliri, argument f. destatu hom. qui mutero( 
+      <lb ed="#C" n="50"/>Inst. de inge S sufficit &amp; tamen in veritate partus baptizatu 
+      <lb ed="#C" n="51"/>non est, de conse dist. 4 sic quicquid est in homine: &amp; hoc innu¬ 
+      <lb ed="#C" n="52"/>Hugo. verum esse, etiam si partus vivificatus sit, nec obes 
+      <lb ed="#C" n="53"/>si opponas, quod partus baptizatus non est: sic non vide 
+      <lb ed="#C" n="54"/>tur sepeliendus, ut patet in his quae not. supra eo. versic iten 
+      <lb ed="#C" n="55"/>coemiteria: quia secundum hoc sequeretur, quod nec mu 
+      <lb ed="#C" n="56"/>lier praegnas partu vivificato posset intrare ecclesiam, re 
+      <lb ed="#C" n="57"/>cipere Eucharistiam, &amp; quaedam alia, quae paganis dene 
+      <lb ed="#C" n="58"/>gantur, cum paganum habeat in utero, quod tamen con 
+      <lb ed="#C" n="59"/>stat falsum esse, ergo sicut in vita admittitur ab ecclesia ci 
+      <lb ed="#C" n="60"/>partu in utero, sic &amp; in morte, arg. supra de sepul ex parte, i 
+      <lb ed="#C" n="61"/>fi. &amp; hanc opinio approbavit Goff. Alii dicunt, mulier scir 
+      <lb ed="#C" n="62"/>di debet, &amp; si partus vivat, baptizetur, si mortuus est, extr 
+      <lb ed="#C" n="63"/>caemiterium sepeliatur: quia talis non debet poni in cem 
+      <lb ed="#C" n="64"/>terio, ut not. supra eo. ver. item caemiteria, &amp; talis baptizatu 
+      <lb ed="#C" n="65"/>non est, de conse. dist. 4 si quicquid est in homine, &amp; csiqua mu 
+      <lb ed="#C" n="66"/>lier praegnans, &amp; duobus c. praeced. argumen pro his,  de erict 
+      <lb ed="#C" n="67"/>praegnans, &amp; l. vacae, ff de usuc. si aliena infi. Opinio Hugo scil 
+      <lb ed="#C" n="68"/>quod mulier sepeliatur cum partu vivo, non placet mih 
+      <lb ed="#C" n="69"/>quia posset committi homicidium imo proculdubio con 
+      <lb ed="#C" n="70"/>mitteretur, si partus viveret, ut patet in his quae no infrd 
+      <lb ed="#C" n="71"/>homi. § quid sithomicidium, ver fin. &amp; precedenti. Secunda ei 
+      <lb ed="#C" n="72"/>iam non videtur approbanda indist. quia qua ratione ad 
+      <lb ed="#C" n="73"/>mittitur mulier praegnans ad baptismum sicut dicunt c. pr¬ 
+      <lb ed="#C" n="74"/>ipsis alleg. sup. eo. versic. alii, eadem ratione potest admiti 
+      <lb ed="#C" n="75"/>&amp; ad sepulturam, ut sit partus, &amp; in veritate baptizatus ni¬ 
+      <lb ed="#C" n="76"/>sit, habeatur tamen pro baptizato, quantum ad hunc articu 
+      <lb ed="#C" n="77"/>sum pertinet ne incisio sine utilitate facta, puta quia con 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0539.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>stat, quod partus mortuus est, errorem inducat, ar ffdere 
+      <lb ed="#C" n="79"/>vem quae religiosis, inf. eo quod in dubijs. Dicas ergo quod si pr 
+      <lb ed="#C" n="80"/>certo constat mortuum esse partum, non incidetur mulier 
+      <lb ed="#C" n="81"/>sed cum partu sepelietur &amp; in hoc casu dicas veram ess 
+      <lb ed="#C" n="82"/>sententiam Hugo. nec obstant jura, quae nolunt, quod pa 
+      <lb ed="#C" n="83"/>ganus sepeliatur in caemiterio: quia ipsa intelligo, quand 
+      <lb ed="#C" n="84"/>paganus soparatus ab utero matris Christianae, vel in ute 
+      <lb ed="#C" n="85"/>ro matris paganae ibidem sepultus fuit, secus, si in utero ma 
+      <lb ed="#C" n="86"/>tris Christianae, quia nec tunc commode discerni posset 
+      <lb ed="#C" n="87"/>&amp; sic non est exhumandus, ut patet quae no. supra eo. ver.n 
+      <lb ed="#C" n="88"/>coemiteria. Sin autem certum est, quod partus vivit, vel du 
+      <lb ed="#C" n="89"/>bitant, in hoc casu omnino locum habet secunda opinio? 
+      <lb ed="#C" n="90"/>hoc aperte dixit lex regia, quae vetat, quod non sepeliatu 
+      <lb ed="#C" n="91"/>antequam excidatur, quam non inveni per aliquem dicto 
+      <lb ed="#C" n="92"/>rum magistrorum allegatam, hanc l. invenies, ff. demor. in 
+      <lb ed="#C" n="93"/>ferendo negat regia lex, ad idem, ff de pae praegf.desta hom Im 
+      <lb ed="#C" n="94"/>perator. Quid respondebo, si quis me consultat, in hoc ca 
+      <lb ed="#C" n="95"/>su, quaeram, est mortuus partus? si dicat quod non, caus¬ 
+      <lb ed="#C" n="96"/>pietatis &amp; humanitatis sine metu alicujus irregularitati 
+      <lb ed="#C" n="97"/>possum respondere pone cito baculum in ore mulieris,a 
+      <lb ed="#C" n="98"/>consulas chirurgum peritum, infra de homi. tua nos, si ver¬ 
+      <lb ed="#C" n="99"/>dicit, quod mortuus est partus quaeram, qualiter es certus 
+      <lb ed="#C" n="100"/>si respondeat, Certus sum dicere potero, si hoc certum es 
+      <lb ed="#C" n="101"/>sepefiri non prohibeo, sed nec praecipio, sed tu etiam car 
+      <lb ed="#C" n="102"/>tibi, quia si partus vivat, tanquam homicida esses punien 
+      <lb ed="#C" n="103"/>dus, si eam sepelires, sicut etiam dixit lex regia superius al 
+      <lb ed="#C" n="104"/>leg.  Sed nunquid pro furto ibi commisso reconciliada 
+      <lb ed="#C" n="105"/>est? ita tenet consuetudo, quae in talibus observanda vide 
+      <lb ed="#C" n="106"/>tur, arg. infratit I. periiciosus, cum suis concor. &amp; idem vi 
+      <lb ed="#C" n="107"/>detur pro qualibet violentia intra eccl facta, argu. 179. 
+      <lb ed="#C" n="108"/>quisquis, nam pro fornicatione reconcilianda est, ut dixi 
+      <lb ed="#C" n="109"/>&amp; talia fornicationi aequiparantur, ut 1794 sicutins each 
+      <lb ed="#C" n="110"/>in hoc tamen casu cum non sit hoc expresse jure cautum 
+      <lb ed="#C" n="111"/>sufficit quod per presbyterum de mandato episcopi recon 
+      <lb ed="#C" n="112"/>cilietur. licet in casib. jure cautis hoc fieri posset, ut no in 
+      <lb ed="#C" n="113"/>proximo ver debet. In omnibus autem coemiterium eoden 
+      <lb ed="#C" n="114"/>privilegio gaudet cum eccl. ut 17. 9. 4 si quis contumax, &amp;c. seq 
+      <lb ed="#C" n="115"/>infra eo consuluisti, &amp; de immu.ecel, cum ecclesia, &amp; c.ul. Debe 
+      <lb ed="#C" n="116"/>autem fieri reconciliatio haec per episcopum, nec decaeti 
+      <lb ed="#C" n="117"/>ro hoc potest demandare presbytero, quia nec minorise 
+      <lb ed="#C" n="118"/>sed quod hactenus factum est per dominum Gre. medi¬ 
+      <lb ed="#C" n="119"/>criter toleratur, inf eo aqua. Item in dubio iterum conse 
+      <lb ed="#C" n="120"/>cranda est ecclesia, sicut dixi de aliis sacramentis. su prad 
+      <lb ed="#C" n="121"/>sac. non iter. § &amp; quae sunt iteran
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e734">
+               <lb ed="#C" n="122"/>ALtaria? non tantum unctione chrismatis sed etiam 19 
+      <lb ed="#C" n="123"/>A benedictione interveniente, consecrantur, &amp; non con 
+      <lb ed="#C" n="124"/>secrantur, nisi lapidea, de consecrat. distin. Ialtaria, nec sin¬ 
+      <lb ed="#C" n="125"/>reliquiis Sanctorum, ea. di de fabrica c. placuit. Item est alta 
+      <lb ed="#C" n="126"/>re portatile, scilicet modicum, quod tota die portatur d 
+      <lb ed="#C" n="127"/>loco ad locum in exercitu, scilicet &amp; peregrinatione, &amp; ta 
+      <lb ed="#C" n="128"/>lib &amp; hoc non reconsecratur, quamvis motum sit, quia to 
+      <lb ed="#C" n="129"/>ta die movetur: &amp; super tali rite celebratur, de conse. dist. 
+      <lb ed="#C" n="130"/>concedimus 
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e756">
+               <lb ed="#C" n="131"/>POssunt etiam simul plures episcopi, &amp; plura altaria in 
+      <lb ed="#C" n="132"/>una &amp; eadem eccl. ab eodem consecrari, inf eo, cum sis
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e763">
+               <lb ed="#C" n="133"/>VEstimenta vero ecclesiae, quibus Domino ministratur 
+      <lb ed="#C" n="134"/>&amp; sacrata &amp; honesta debent esse, &amp; a sacratis homini 
+      <lb ed="#C" n="135"/>bus tractari, non ab in sacratis, idem dicendum de vasis sa 
+      <lb ed="#C" n="136"/>cris: nec in alios usus redigenda sunt, sed potius cremanda 
+      <lb ed="#C" n="137"/>si inutilia sint, vel vetustate consumpta, de conse. dist. 1.altaris 
+      <lb ed="#C" n="138"/>in Sancta vestimenta, supra de relig dom ad hoc, &amp; de rerum per 
+      <lb ed="#C" n="139"/>mu. mancipia. &amp; iijustum, &amp; de rita &amp; hon. cler.c.i.de cohabita 
+      <lb ed="#C" n="140"/>tione clerico, &amp; mulierum. c.1§ul
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e783">
+               <lb ed="#C" n="141"/>CAlix cum patena debet esse de auro, vel argento, ve 
+      <lb ed="#C" n="142"/>Ostanno, nomigneus, vel vitreus, de conse. dist. . c. vasa. ( 
+      <lb ed="#C" n="143"/>cap calix
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e792">
+               <lb ed="#C" n="144"/>SAcrificium altaris fieri debet in puro linteo, &amp; munde 
+      <lb ed="#C" n="145"/>ab episcopo consecrato terreno scil. de lino procreato 
+      <lb ed="#C" n="146"/>&amp; contexto, &amp; sicut corpus Domini nostri Jesu Christi ir 
+      <lb ed="#C" n="147"/>syndone, linea, &amp; munda sepultum fuit, non ergo in serice 
+      <lb ed="#C" n="148"/>panno, vel intincto, &amp; pallae sunt vestimenta altaris, de con 
+      <lb ed="#C" n="149"/>se dist i altaris, &amp;c. nemo, de his infra de cust. Euch &amp; chrismatis 
+      <lb ed="#C" n="150"/>Hic videndum de celebratione missarum, a quo celebran 
+      <lb ed="#C" n="151"/>da sit, &amp; qualiter, &amp; quando
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e813">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0540.xml-->
+               <pb ed="#C" n="523"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>A quo sit, celebranda Debeat autem 
+      mis<lb ed="#C" n="2" break="no"/>sa celebrari a 
+      pres<lb ed="#C" n="3" break="no"/>bytero rite ordinato, secundum traditionem ecclesiastica 
+      <lb ed="#C" n="4"/>quia per alium perfici non potest supra de sum. Trinitate. 
+      <lb ed="#C" n="5"/>1. § una vero est. de conse. dist.i.c.i &amp;c. sicut, I. qu. 1. distum, &amp; sic in 
+      <lb ed="#C" n="6"/>tellige, infr de simo tanta §1 ubi dicit quod omnis peccator 
+      <lb ed="#C" n="7"/>Iubaudi de off. potestate, non de merito vitae, potest canta¬ 
+      <lb ed="#C" n="8"/>re missam, si in presbyterum sit promotus, haec etiam ver 
+      <lb ed="#C" n="9"/>ba aliter exposui, infra de simon. Squa poena, versi ipso facto, ô 
+      <lb ed="#C" n="10"/>debet esse sine mortali, alias judicium sibi manducat &amp; b¬ 
+      <lb ed="#C" n="11"/>bit, &amp; de consec. distin. 2. timorem, &amp;c. praecedent. quia suspen 
+      <lb ed="#C" n="12"/>sus est, quantum ad se, &amp; quantum ad Deum supra de coh¬ 
+      <lb ed="#C" n="13"/>bit. cle &amp; mulir c. ult. Sed &amp; si pollutio nocturna, ex super 
+      <lb ed="#C" n="14"/>fluitate naturae, vel infirmitate evenerit, haec nullo mod 
+      <lb ed="#C" n="15"/>timenda est, quia hanc animus nesciens pertulisse magi 
+      <lb ed="#C" n="16"/>dolendus est, quam fecisse, cum vero ex crapula descendi 
+      <lb ed="#C" n="17"/>i. ex nimia ingurgitatione ciborum, qua membrorum re 
+      <lb ed="#C" n="18"/>ceptacula aggravantur si dormientem turpi inquination 
+      <lb ed="#C" n="19"/>concusserit, abstinere debet a perceptione Eucharistiae 
+      <lb ed="#C" n="20"/>multo fortius ab immolatione, sed si turpis concussio ni 
+      <lb ed="#C" n="21"/>intervenit, percipere potest Eucharistiam, sed non cele 
+      <lb ed="#C" n="22"/>brabit ea die, si alius adsit qui celebrare possit: sed si aliu 
+      <lb ed="#C" n="23"/>non est, &amp; necossitas diei festivi, vel mortui sepeliendi exi 
+      <lb ed="#C" n="24"/>gat, poterit ipsemet celebrare. Si vero ex turpi cogitatio 
+      <lb ed="#C" n="25"/>ne praecedenti, quia concupivit, scil. aliquam mulierem 
+      <lb ed="#C" n="26"/>illusio oriatur, patet animo reatus suus, videt n. a quari 
+      <lb ed="#C" n="27"/>dice inquinatio illa procedit, quia quod cogitavit scien: 
+      <lb ed="#C" n="28"/>hoc pertulit nesciens, qu. d. graviter peccavit secundum Gof. 
+      <lb ed="#C" n="29"/>6. dist testam. de hoc dic ut no. infra de adulteriis, § ultimo
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e885">
+               <lb ed="#C" n="30"/>Et qualiter. Jejuno stomacho, sacerdos enin 
+      <lb ed="#C" n="31"/>debet esse jejunus nam si quis pos 
+      <lb ed="#C" n="32"/>cibum vel potum etiam minimum divina celebraveris 
+      <lb ed="#C" n="33"/>excommunicationi subjacebit, 7. q. 1 nihil, nisi praemissa do¬ 
+      <lb ed="#C" n="34"/>mitione: alias enim privandus est beneficio suo, inf de acci 
+      <lb ed="#C" n="35"/>si constiterit, quod inductum &amp; dictum est ob reverentian 
+      <lb ed="#C" n="36"/>sacramenti, &amp; idem est in aliis sacramentis ecclesiastici: 
+      <lb ed="#C" n="37"/>de conse dist. 2. &amp; dist. 5. ut jejuni 75. dist. quod a patribus, supra d 
+      <lb ed="#C" n="38"/>tempo. ord. literas 22. qu 5 honestum. Ideo dicit tit. I.c. I. quod es 
+      <lb ed="#C" n="39"/>eat jejunmis, ut commeantibus &amp; peregrinis possit cel¬ 
+      <lb ed="#C" n="40"/>brare, &amp; videtur, quod si aliquam speciem comedit, vel 
+      <lb ed="#C" n="41"/>lectuarium, non sit jejunus, secus, si receperit medicinan 
+      <lb ed="#C" n="42"/>nam hoc non impedit missam, secundum Jo. quod sic po 
+      <lb ed="#C" n="43"/>test probari. Qui penum legat, videtur legasse ea quae 
+      <lb ed="#C" n="44"/>sus, &amp; potus nomine continentur, f de pen leg leg. 2. sed ho 
+      <lb ed="#C" n="45"/>nomine medicamenta non continentur, licet species con 
+      <lb ed="#C" n="46"/>tineantur, ff. depen. leg non omne. Dicas, quod si medicinan 
+      <lb ed="#C" n="47"/>reciperet, non diceretur jejunus, quantum ad hoc, de qu 
+      <lb ed="#C" n="48"/>hic quaeritur, ar. in d.c. nihil, &amp; infra tit I, cum Marihae, §quae 
+      <lb ed="#C" n="49"/>pisti, &amp; in aliis juribus superius allegatis, maxime quia pi 
+      <lb ed="#C" n="50"/>riculosius esset post medicinam quam post aliam delecta 
+      <lb ed="#C" n="51"/>bilem comestionem, nam medicina cosuevit esse abom 
+      <lb ed="#C" n="52"/>nabilis, &amp; ad vomitum attrahere, ad hoc de conse. dist i calix 
+      <lb ed="#C" n="53"/>alias, incepits calix. Sed quid, si sacerdos in mane abluen 
+      <lb ed="#C" n="54"/>dos os glutiat aliquam stillam aquae, nunquid impeditu 
+      <lb ed="#C" n="55"/>missa? Non puto, nisi ex proposito fiat, arg. 23 q. 5. de occiden 
+      <lb ed="#C" n="56"/>dis, 15. q. 6.c.Italia enim contemni possunt ffe deventre inspi 
+      <lb ed="#C" n="57"/>1. §si. sin autem ex proposito accidat potus, etiam minimu 
+      <lb ed="#C" n="58"/>celebrationem impediret. ut 7. q 1 nihil. Quod si prae nimi 
+      <lb ed="#C" n="59"/>sitibibat, videtur excusari, argu infra de reg quod non est lic 
+      <lb ed="#C" n="60"/>tum, sed non puto, quod non debeat celebrare, &amp; si aquan 
+      <lb ed="#C" n="61"/>bibit, nam secundum Jo. Annicium, aqua potus est, nis 
+      <lb ed="#C" n="62"/>postea dormierit, vel quieverit, secundum quod no inf e¬ 
+      <lb ed="#C" n="63"/>ver. seq. Debet autem dormire tanto temporis spacio, quam 
+      <lb ed="#C" n="64"/>tum est a prima usque ad sextam, sive quantum a tertia uso 
+      <lb ed="#C" n="65"/>ad vesperam: quia si in hora prima sacerdos celebraverit 
+      <lb ed="#C" n="66"/>non debet sumere cibum usque ad 6. si in tertia usque ad ve 
+      <lb ed="#C" n="67"/>speram, ne cum cibo Eucharistiam immiscere videatur 
+      <lb ed="#C" n="68"/>ae conse. dist. 2 trib. Sed illud consilium est, non praeceptum 
+      <lb ed="#C" n="69"/>&amp; etiam hodie de consuetudine non servatur: imo statin 
+      <lb ed="#C" n="70"/>missa celebrata, quotidie cibum sumunt, &amp; puto, quod sus 
+      <lb ed="#C" n="71"/>ficiat celebrare volenti cibo sumpto, si dormierit, vel quie 
+      <lb ed="#C" n="72"/>verit, sine dormitione tanto tempore, quod cibus potue 
+      <lb ed="#C" n="73"/>rit esse digestus, arg. in d decre si constiterit.* Sed nunqui¬ 
+      <lb ed="#C" n="74"/>pransus celebrans conficit? Sic, sed graviter peccat, quo¬ 
+      <lb ed="#C" n="75"/>dicut non sup. de sacra unctione§ a quo, &amp; qualiter, ver sed nu¬ 
+      <lb ed="#C" n="76"/>quid jejunium. Debet autem dicere subdiac. &amp; videtur quoc 
+      <lb ed="#C" n="77"/>quilibet clericus a teneatur ad hoc. 92. dist. c. ult. &amp; 
+      superio<lb ed="#C" n="78" break="no"/>res horas suas canonicas indeclinabiliter, i. non recipro 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0540.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>cando ordinem: non ponat currum ante boves, scil. quo 
+      <lb ed="#C" n="80"/>primo dicat tertiam, quam primam, sic intellligas, supra d 
+      <lb ed="#C" n="81"/>off. archip. c. 2. non tame debet dicere missam, antequam di¬ 
+      <lb ed="#C" n="82"/>xerit matutinum, ad quod iuxta verbum Psalmi. Media no 
+      <lb ed="#C" n="83"/>cte surgebam, infra de celebr missa, c.i.in fi. non ergo ad con 
+      <lb ed="#C" n="84"/>centum avium, nec est confabulandum intra chorum, 8 
+      <lb ed="#C" n="85"/>sunt dicendae ipsae horae honesto modo, &amp; integraliter, no 
+      <lb ed="#C" n="86"/>continuata syncopia. inf de celeb. mis dolentes, aliqui libri ha 
+      <lb ed="#C" n="87"/>bent, ibi tit. de suffragio. Nec solus potest missam, nec eti. 
+      <lb ed="#C" n="88"/>alia divina officia celebrare ergo nec potest horas canoni 
+      <lb ed="#C" n="89"/>cas solus dicere: ut supra de vi. &amp; hon. cle ut quisquis presbyter 
+      <lb ed="#C" n="90"/>&amp; de fil praeshy proposuit, ad fi. 8. q. 1. illud 81. diffi. in omnib &amp; di 
+      <lb ed="#C" n="91"/>hoc non infra eo. dist § &amp; a quib. praece. Sufficit autem sacer 
+      <lb ed="#C" n="92"/>dori unam missam celebrare in die, nam valde foelix est 
+      <lb ed="#C" n="93"/>qui unam celebrare potest digne: excipitur dies Natali? 
+      <lb ed="#C" n="94"/>domini, unde Versus 
+      <lb ed="#C" n="95"/>
+               <quote xml:id="nbht7y-d1e1322-Qd1e1034">Tres in Natali missae debent celebrari 
+      <lb ed="#C" n="96"/>Quarum prima sacramenta Christi signat genituram 
+      <lb ed="#C" n="97"/>Altera venturi designat gaudia Christi. 
+      <lb ed="#C" n="98"/>Tertia jam natum quod lex sacra forte figurat.</quote>
+            </p>
+            <p xml:id="nbht7y-d1e1322-d1e1044">
+               <lb ed="#C" n="99"/>Item excipitur necessitas, subaudi vel utilitas: qua exi 
+      <lb ed="#C" n="100"/>gente potest plures missas celebrare, puta, Propter defun¬ 
+      <lb ed="#C" n="101"/>ctos, Propter peregrinos, Propter hospites, Propter com 
+      <lb ed="#C" n="102"/>meantes, Propter infirmos. Item si propter raritatem cle 
+      <lb ed="#C" n="103"/>ricorum, vel paupertatem ecclesiae, duae eccles. conimen 
+      <lb ed="#C" n="104"/>dentur uni ad hoc, infra de celeb. miss. consuluisti &amp; ccum cre 
+      <lb ed="#C" n="105"/>atura, &amp;c. te referente, de consec. distin 2. sufficit 6. disti testamen 
+      <lb ed="#C" n="106"/>tum 21. distin.c.i.in sin &amp;c. qui plures, io que 3.unio infra tu i &amp; 
+      <lb ed="#C" n="107"/>I. &amp; 2. Et not.  quod clerici peregrini pofiunt surul di¬1 
+      <lb ed="#C" n="108"/>cere omnes horas scil. primam, tertiam, sextam, neram 
+      <lb ed="#C" n="109"/>vesperam, &amp; postea facere iter suum, quod decurialibu ex 
+      <lb ed="#C" n="110"/>audiri potest, inf tit i.c. I. Nec tamen diurnae missae, &amp; ordi 
+      <lb ed="#C" n="111"/>nariae pro peculiarib. i. specialibus &amp; extraordinariis di 
+      <lb ed="#C" n="112"/>mitti debent, quia omnes celebrantur pro salote vivorum 
+      <lb ed="#C" n="113"/>&amp; etiam defunctorum, infrtit i.c. 2. ideo nullus presbyte 
+      <lb ed="#C" n="114"/>debet eas dicere in publico hoc modo quia propter ipsa 
+      <lb ed="#C" n="115"/>peculiares publicae, quae audiri debent, ab omrib ac mit. 
+      <lb ed="#C" n="116"/>tantur, de consec dist. 1. hoc attendendum est, nam secundi 
+      <lb ed="#C" n="117"/>continentiam dierum missarum sunt solennia celebran 
+      <lb ed="#C" n="118"/>da, infra tit.i.cum creatura Item pro pecunia, vel adulationi 
+      <lb ed="#C" n="119"/>bus laicorum, nunquam celebrandum est: alias mortal¬ 
+      <lb ed="#C" n="120"/>peccatum committitur, &amp; simoniacum est, inf de simo sicu 
+      <lb ed="#C" n="121"/>in eccle, corpore, &amp;c. nullis, &amp; c. ad Apostolicam, &amp; de conse. disti 
+      <lb ed="#C" n="122"/>sufficit, potest tamen sacerdos locare operas, b utputo, 
+      <lb ed="#C" n="123"/>arg ff.loc. &amp; condu. qui operas supra de praeb significatum 12. q. 2 
+      <lb ed="#C" n="124"/>charitatem, &amp; no infra de sim Q qualiter, ver in casibus &amp; eq. E 
+      <lb ed="#C" n="125"/>quoties in die celebrat, toties corpus, &amp; sanguinem Chri 
+      <lb ed="#C" n="126"/>sti accipiat, de conse dist 2. comperimus, &amp; ctribus &amp; in ultim. 
+      <lb ed="#C" n="127"/>vice potest perfusionem recipere: non in prima: quia tun 
+      <lb ed="#C" n="128"/>non esset jejunus propter vinum receptum: &amp; ideo mis 
+      <lb ed="#C" n="129"/>sam aliam impediret infra tit i exparte Nam vinum quoc 
+      <lb ed="#C" n="130"/>superfunditur, licet sanguini misceatur, non tamen effi 
+      <lb ed="#C" n="131"/>tur sanguis, sed accidentib. prioris vini commixtum cor 
+      <lb ed="#C" n="132"/>pori, quod sub eis latet, undique circumfunditur madidans cir 
+      <lb ed="#C" n="133"/>cunfusum: ipsa tamen accidentia vinum appositum videm 
+      <lb ed="#C" n="134"/>tur efficere, quia si qua fuerit apposita, vini saporem assu 
+      <lb ed="#C" n="135"/>mit: contingit ergo accidentia mutare subjectum, &amp; subje 
+      <lb ed="#C" n="136"/>ctum accidentia, quia cedit natura miraculo, &amp; virtus, sup d 
+      <lb ed="#C" n="137"/>consuetud. operatur, infra tit.I.cum Marihae, §quaesivisti. 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="138"/>ADDITIONES. 
+      <lb ed="#C" n="139"/>a Quilibet clericus. JAdde Doc. in c. I. eo tit. &amp; in c.L.eo.tit lib. 6 
+    </p>
+    <p>
+      <lb ed="#C" n="140"/>&amp; per Doc. in cle. dolentes eo. tii 
+      <lb ed="#C" n="141"/>b Sacerdos locare operas suas.] Addegl. &amp; doct. inc. signifi 
+    </p>
+    <p>
+      <lb ed="#C" n="142"/>catum, de prab gl. inc unic. de cle non resi. l. b. 6. Inno. in c. 3 ne prae 
+      <lb ed="#C" n="143"/>lat. vi. sua 
+      <lb ed="#C" n="144"/>c Non incongrue hoc loco interjecta fuisset rubricella haec, in 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>quib. casib. debeat ecelesia consecrari, quam ex Martino, ub 
+      <lb ed="#C" n="146"/>supra huc transtulimus. Quia in re ita ab eo scriptum est Con 
+      <lb ed="#C" n="147"/>secrari debet ecclesia sex casib. secundum quosdam. Primus 
+      <lb ed="#C" n="148"/>cum dubitetur, an sit consecrara, ut de consec distinctio. I. eccle 
+      <lb ed="#C" n="149"/>sia. Seeundus, cum movetur altare majus. Tertius, cum ec 
+      <lb ed="#C" n="150"/>clesia est exusta. Quartus cum parietes, sunt funditus de no 
+      <lb ed="#C" n="151"/>vo reparati. Quintus propter adulterium. Sextus propte 
+      <!-\-Henricus_a_Segusio_cardinalis_Hostiensis-0541.xml-\->
+      <pb ed="#C" n="0541"/>
+      <cb ed="#C" n="a"/>
+      <lb ed="#C" n="1"/>homicidium, de consecratio distinctio. I. catit si motum, &amp;c fa 
+      <lb ed="#C" n="2"/>brica. Quod autem dictum est ecclesiam propter homicidi 
+      <lb ed="#C" n="3"/>tum reconciliari debere, intelligas quando homicidium fi 
+      <lb ed="#C" n="4"/>per sanguinis effusionem factam per contentionem, quod ta 
+      <lb ed="#C" n="5"/>men accipiendum puto de enormi sanguinis effusione, no 
+      <lb ed="#C" n="6"/>de modica, &amp; levi, ut si forte dum contendit cum aliquo i 
+      <lb ed="#C" n="7"/>ecclesia, facto in eum impetu, offendat nares ejus, vel ungu 
+      <lb ed="#C" n="8"/>aliquantulum excoriet eum, &amp; inde aliquantulum sangu 
+      <lb ed="#C" n="9"/>nis effluat, maxime si ille, qui hoc facit non habeat proposi 
+      <lb ed="#C" n="10"/>tum effundendi sanguinem. Quod si lapide, vel ligno caden 
+      <lb ed="#C" n="11"/>te de ecclesia aliquis occidatur, aut si quis furiosus ibi se pra 
+      <lb ed="#C" n="12"/>sentaverit, aut ictu proprio ibidem occisus fuerit, dicendun 
+      <lb ed="#C" n="13"/>est ecclesia non debere reconsecrari, ut de consecrat distinctio 
+      <lb ed="#C" n="14"/>I. in ecclesiis, ex quo sanguis non est effusus per contentionem 
+      <lb ed="#C" n="15"/>Loquitur tamen ibi de consecratione. non de reconciliat 
+      <lb ed="#C" n="16"/>one, nisi nomine consecrationem intelligas. Dicit enim il 
+      <lb ed="#C" n="17"/>text. quod si in ecclesia letaliter vulneretur quis, &amp; poste 
+      <lb ed="#C" n="18"/>moriatur alibi, vel in domo sua, ibi diciturmortuus, ubi cat 
+      <lb ed="#C" n="19"/>sam mortis accepit. Contrarium intellige in contrario casu 
+      <lb ed="#C" n="20"/>Vnde si aliquis extra ecclesiam letaliter vulneretur, &amp; effu 
+      <lb ed="#C" n="21"/>giens ad ecclesiam ibi moritur, non reputabitur ecelesi 
+      <lb ed="#C" n="22"/>violata homicidio, Sicut, si aliquis letaliter vulneraverit se 
+      <lb ed="#C" n="23"/>vum, qui tempore mortis liber factus fuerat, non punietu 
+      <lb ed="#C" n="24"/>occisor, tanquam de libero occiso, sed tanquam de servo Qui¬ 
+      <lb ed="#C" n="25"/>si in ecclesia occidatur mariyr? Respond. non propter ho¬ 
+      <lb ed="#C" n="26"/>reconcilianda est ecclesia; quia ejusmodi sanguinis effusi¬ 
+      <lb ed="#C" n="27"/>ecclesiam non polluit, sed potius consecravit. Pro adulteri¬ 
+      <lb ed="#C" n="28"/>debet ecclesia reconciliari, sed ob fornicationem ibi con 
+      <lb ed="#C" n="29"/>missam, dec. in ecclesiis, &amp; de consecr. eccle, cap fin. Alia autem es 
+      <lb ed="#C" n="30"/>hodie consecratio ecclesiae, &amp; ailia altaris. Si enim altare mo 
+      <lb ed="#C" n="31"/>veatur, vel enormiter frangatur, seu diminuatur, consecra 
+      <lb ed="#C" n="32"/>tur altare non ecclesia. Si vero destruatur ecclesia, non alta 
+      <lb ed="#C" n="33"/>re consecranda est ecclesia, sed non altare. de consec. eccl cap. 
+      <lb ed="#C" n="34"/>Quod vero supra dictum est, ecclesiam, dirutam, vel exust: 
+      <lb ed="#C" n="35"/>iterum consecrari debere; intelligendum est, quando pari¬ 
+      <lb ed="#C" n="36"/>tes sunt omnino destructi, vel major pars ipsorum, alias se 
+      <lb ed="#C" n="37"/>cus, ut ff. de contrahend emptio. Idomum. Similiter intelligit ho 
+      <lb ed="#C" n="38"/>H. cum parietes simul destructi sunt, non successive. Nam 
+      <lb ed="#C" n="39"/>successive destructi sunt, &amp; reparati, eadem ecclesia inte¬ 
+      <lb ed="#C" n="40"/>ligitur esse, &amp; per consequens, non intelligitur esse recon 
+      <lb ed="#C" n="41"/>secranda, secundum H. ff. de leg. 1 I. quod iterum, &amp; ff. de iudic. 
+      <lb ed="#C" n="42"/>proponebatis.-->
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e1133">
+               <lb ed="#C" n="43"/>Et quando. Ante horam tertiam nonest miss 
+      <lb ed="#C" n="44"/>publice celebranda. dist.i.nocte, &amp; cho 
+      <lb ed="#C" n="45"/>Sed communibus diebus potest celebrari in prima part 
+      <lb ed="#C" n="46"/>diei. ea. dist. necesse, &amp; § prima parte, sup. de off. archip c.. &amp;24. 
+      <lb ed="#C" n="47"/>dist non liceat. In 40. 4. temporib. &amp; vigiliis sanctorum, in 
+      <lb ed="#C" n="48"/>hora nona, de conse disti. solent in sabbato sancto, &amp; in sal 
+      <lb ed="#C" n="49"/>batis 4. temporum, circa noctis tenebras initium, 75. disti. 
+      <lb ed="#C" n="50"/>quod a patribus &amp; c.ordinationibus &amp; 76. dist. c.ult. de consecr. d 
+      <lb ed="#C" n="51"/>stan. I. §jejuntis. Nullus autem presbyter missam celebre 
+      <lb ed="#C" n="52"/>nisi duobus praesentibus, qui sibi respondeant de consec¬ 
+      <lb ed="#C" n="53"/>distinct.i. hoc quoque statutum. Sed credo, quod unus suff 
+      <lb ed="#C" n="54"/>ciat, ar. infra de verb. sign quae sivit, respons.i. &amp; patet in his, qui 
+      <lb ed="#C" n="55"/>notat. supra eo. § ver prox. nec solus, sed &amp; secundum Goffre 
+      <lb ed="#C" n="56"/>si sacerdos solus est in ecclesia, non celebrabit ante terti 
+      <lb ed="#C" n="57"/>am, supra tit. i.c. 43. dist. non licet. In conventualibus auten 
+      <lb ed="#C" n="58"/>eccl. sive collegiatis, &amp; si missa cantetur prima hora diei, u 
+      <lb ed="#C" n="59"/>dictum est, nihilominus, &amp; in tertia ibidem est celebranda 
+      <lb ed="#C" n="60"/>de conse. dist. i.nocte, nam quod ibi dicitur quod ante horan 
+      <lb ed="#C" n="61"/>tertiam missae minime celebrentur, intelligendum est d 
+      <lb ed="#C" n="62"/>solennibus. In die autem Dominico quilibet debet aud 
+      <lb ed="#C" n="63"/>re missam totam, dist. 1. missas. Item pro defunctis diebu 
+      <lb ed="#C" n="64"/>festivis celebrandum est infratitul. I. cum creatura, de conse¬ 
+      <lb ed="#C" n="65"/>dist zvisum. Et intelligitur missa completa, quando ep 
+      <lb ed="#C" n="66"/>scopus, vel ipso absente, presbyter benedictionem dedit 
+      <lb ed="#C" n="67"/>de consecr. distin.i. ad celebrandas. Quicunque vero pres byter. 
+      <lb ed="#C" n="68"/>verbum faciente auditorium egressus fuit excommuni 
+      <lb ed="#C" n="69"/>cetur, eadem dist. omnes fideles, &amp;c. seq. Et qui die solenni, pr 
+      <lb ed="#C" n="70"/>termisso ecclesiae conventu, ad spectaculum vadit, excon 
+      <lb ed="#C" n="71"/>municetur, c. qui. In sacramento altaris nihil aliud offer¬ 
+      <lb ed="#C" n="72"/>tur, nisi panis &amp; vinum aqua mixtum, vinum scil. de uvis 
+      <lb ed="#C" n="73"/>&amp; panis de frumento, de consec. dist. 2. in sacramento. Sed si ni¬ 
+      <lb ed="#C" n="74"/>cesse sit, botrus exprimi potest in calice: &amp; illud vinum con 
+      <lb ed="#C" n="75"/>secrabitur, de conse. dist. 2. cum omne. Nec est celebrandum in 
+      <lb ed="#C" n="76"/>pane fermentato, &amp; schypho ligneo, nec sine igne &amp; aqua 
+      <lb ed="#C" n="77"/>infra eo. tit.c.i. Quid si conficiat quis de fermento? nihil age 
+      <lb ed="#C" n="78"/>secundum Hugo. de conse. distin. 2. in sacramento, juxta illuc 
+      <lb ed="#C" n="79"/>Non in fermento veteri, sed in azymis synceritatis &amp; veri 
+      <lb ed="#C" n="80"/>tatis. Graeci tamen tenent contrarium: sed debent sequ 
+      <lb ed="#C" n="81"/>consuetudinem Romanae ecclesiae, alioquin de ovili no¬ 
+      <lb ed="#C" n="82"/>erunt, inf. de baptis. licet Graecos §fi sup de majo. &amp; obed solitae 
+      <lb ed="#C" n="83"/>pen. &amp; hoc in sacramentis ecclesiasticis praecipue est cav¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0541.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="84"/>dum, infra de haeredit. ad abolendam, responsio I. Quid si qui 
+      <lb ed="#C" n="85"/>conficiat de pane lolii? videtur, quod verum sit sacramen 
+      <lb ed="#C" n="86"/>tum, nam sicut dicunt agricultores experti, de frument 
+      <lb ed="#C" n="87"/>nascitur lolium, &amp; econtra, ut innuitur, 56. distinctio. nasci 
+      <lb ed="#C" n="88"/>ergo prope eadem visa est, ff.de contrahend. empt. in venditi¬ 
+      <lb ed="#C" n="89"/>nibus ante sin per quam dicas, quod nec de lolio, nec de acc 
+      <lb ed="#C" n="90"/>to confici potest. Quid si piper, vel alia species, misceatu 
+      <lb ed="#C" n="91"/>cum pane solum id, quod frumentum est transubstantia 
+      <lb ed="#C" n="92"/>tur, secundum Hugo. Quid si panis sit ex fermentato 8 
+      <lb ed="#C" n="93"/>azymo simul mixto? nihil agitur, secundum Goffr. In ca 
+      <lb ed="#C" n="94"/>lice miscendum est vinum cum aqua, de consec distin 2ca 
+      <lb ed="#C" n="95"/>1. &amp; 2. est tamen ponendum in calice magis de vino quan 
+      <lb ed="#C" n="96"/>de aqua infratit. I. perniciosus, quod aliqui de facili ample 
+      <lb ed="#C" n="97"/>ctentur, ut patet supra de vita &amp; honest. cle, a crapula. Et qua 
+      <lb ed="#C" n="98"/>re in confectione Eucharistiae electus est sanguis ex hu 
+      <lb ed="#C" n="99"/>moribus, aqua ex elementis? Redditur una ratio, de con 
+      <lb ed="#C" n="100"/>secrat. distinct. 2. cum omne, sed &amp; alia redditur ratio, infra ti 
+      <lb ed="#C" n="101"/>I. in quadam, hoc etiam ex consuetudine eccl. inolevit, qua 
+      <lb ed="#C" n="102"/>in talibus est servanda, ut innuitur infratit.i.perniciosus 11 
+      <lb ed="#C" n="103"/>dist ecclesiarum, &amp; in baptismo de consecrat. distinctio. 4. de Tr 
+      <lb ed="#C" n="104"/>nitate, in divinis officiis, de consec. dist. 2.institutio. 12 distinct cap 
+      <lb ed="#C" n="105"/>fin. &amp; notat. infra eodem in diebus autem profestis &amp; si vi 
+      <lb ed="#C" n="106"/>num vel aqua deficiat, non est verum sacramentum, de ci 
+      <lb ed="#C" n="107"/>secr distinct. 2. cum omne, ante fin. &amp; capit. praecedent. Sed &amp; pro 
+      <lb ed="#C" n="108"/>pter peccati conscientiam remordentem, non debet sa 
+      <lb ed="#C" n="109"/>cerdos decipere populum, vel potius seipsum fingendo si 
+      <lb ed="#C" n="110"/>conficere, &amp; sumere corpus Christi, tacens verba cano 
+      <lb ed="#C" n="111"/>nis, &amp; sumens panem, de quo conficienda erat Euchari 
+      <lb ed="#C" n="112"/>stia, &amp; vinum purum, infra titulo.i.dehomine. De corpor 
+      <lb ed="#C" n="113"/>autem Christi tres sunt opiniones. Una dicit, quod illa i 
+      <lb ed="#C" n="114"/>substantia, quae prius fuit panis &amp; vinum, postea sit cor 
+      <lb ed="#C" n="115"/>pus &amp; sanguis, de consec. distinct. 2. panis est in altari, &amp; cap qui 
+      <lb ed="#C" n="116"/>corpus. Secunda asserit, quod remanet ibi substantia pani¬ 
+      <lb ed="#C" n="117"/>&amp; vini, &amp; in eodem loco, &amp; sub eadem specie est corpus8 
+      <lb ed="#C" n="118"/>sanguinis Christi, arg. de consecr dist. 2.ego. Tertia dicit, quo 
+      <lb ed="#C" n="119"/>substantia panis, &amp; vini definit ibi esse: transubstantiatu 
+      <lb ed="#C" n="120"/>enim in corpus, &amp; sanguinem, &amp; tantum accidentia ipsi 
+      <lb ed="#C" n="121"/>rum ibi remanent, scil. sapor &amp; color, &amp; pondus, &amp; sub illi 
+      <lb ed="#C" n="122"/>specieb. id est accidentibus est corpus Christi, anf.tit. 1.cur 
+      <lb ed="#C" n="123"/>Marthae, § quaesiristi, &amp; hanc tertiam videtur comprobar 
+      <lb ed="#C" n="124"/>Concilium generale, supra de summa Trin.c.. § una est, &amp; li 
+      <lb ed="#C" n="125"/>noc. III, infra tit. I. cum Marthae, §verum inter opiniones. Qu 
+      <lb ed="#C" n="126"/>libet autem istarum fatetur verum corpus esse in altar 
+      <lb ed="#C" n="127"/>Sed est alia quarta pessima opinio, quae astruere nititur 
+      <lb ed="#C" n="128"/>non esse in altari corporis, &amp; sanguinis veritatem, sed im¬ 
+      <lb ed="#C" n="129"/>ginem tantum, &amp; speciem. &amp; figuram, &amp; haec reprobatur 
+      <lb ed="#C" n="130"/>inf.titi. cum Marthae, § ex eo. Verum in hoc sacramento sun 
+      <lb ed="#C" n="131"/>tria subtiliter discernenda. Primum est forma visibilis. Se 
+      <lb ed="#C" n="132"/>cundum est veritas corporis. Tertium est virtus spiritu¬ 
+      <lb ed="#C" n="133"/>lis. Forma autem visibilis est panis &amp; vini. Veritas carni: 
+      <lb ed="#C" n="134"/>&amp; sanguinis Christi. Virtus, unitatis &amp; charitatis. Se 
+      <lb ed="#C" n="135"/>primum, scilicet forma visibilis non est res, sed est sacra 
+      <lb ed="#C" n="136"/>mentum geminae rei, scilicet veritatis corporis Chri 
+      <lb ed="#C" n="137"/>sti, &amp; virtutis unitatis &amp; charitatis, &amp; ista est signans tan 
+      <lb ed="#C" n="138"/>tum. At secundum, scilicet veritas est sacramentum vii 
+      <lb ed="#C" n="139"/>tutis unitatis: &amp; est res visibilis, scilicet panis &amp; vini, &amp; si 
+      <lb ed="#C" n="140"/>est signans &amp; signatum. Verum tertium, s. virtus unitatis, ni¬ 
+      <lb ed="#C" n="141"/>est sacramentum, sed res tantum, scil. duorum sacramen 
+      <lb ed="#C" n="142"/>torum praecedentium, s. forma panis, vini, &amp; veritatis cor 
+      <lb ed="#C" n="143"/>poris, &amp; sanguinis Christi: &amp; sic est signatum, &amp; non signam 
+      <lb ed="#C" n="144"/>ut infti.i cum Marthae §distinguendum tamen est subtiliter. Sec 
+      <lb ed="#C" n="145"/>nunquid cum corpore est sanguis sic: quod dic, ut not. ins 
+      <lb ed="#C" n="146"/>de baptis. §quae sit ejus forma, ver. quid si in prolatione, &amp; ver. sec 
+      <lb ed="#C" n="147"/>Nullus episcopus prohibeat ingredi ecclesiam, &amp; audir¬ 
+      <lb ed="#C" n="148"/>verbum Dei: sive gentilem, sive haereticum, sive Judaeum, usq 
+      <lb ed="#C" n="149"/>ad missas catechumenorum, i. usque ad secretam, 35. qu 3. d 
+      <lb ed="#C" n="150"/>his, de cond. distin. I. episcopus, sed contra 35. distin. capit.i.ciro. 
+      <lb ed="#C" n="151"/>princ 24. quaest. 3. clerici. i. quaest. non liceat. Dicunt quidam 
+      <lb ed="#C" n="152"/>quod ille canon. episcopus non tenet: vel dic, quod illu¬ 
+      <lb ed="#C" n="153"/>verbum, quod ponitur ibi scil. audire verbum Dei, ponitu 
+      <lb ed="#C" n="154"/>pro praedicatione, nam bene potest praelatus convocare in 
+      <lb ed="#C" n="155"/>ecclesia excommunicatos, ut audiant praedicationem, qua au 
+      <lb ed="#C" n="156"/>dita, statim exeant, inf de sen. excom. Resp. Novem autem prae 
+      <lb ed="#C" n="157"/>fationes antiquitus fuerunt inventae Prima in Paschare. Se 
+      <lb ed="#C" n="158"/>cunda in Ascensione. Tertia in Pentecoste. Quarta in natal 
+      <lb ed="#C" n="159"/>Domini. Quinta in apparitione. Sexta in festo Apostolo 
+      <lb ed="#C" n="160"/>rum. Septima de sancta Trinitate. Octava de Cruce. No 
+      <lb ed="#C" n="161"/>na de jejunio inQuadragesimali tempore tantum dicend. 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0542.xml-->
+      <pb ed="#C" n="525"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>de consecra. dist.. invenimus. His novem addita est postea di¬ 
+      <lb ed="#C" n="2"/>cima de gloriosa &amp; beata Maria virgine, domina nostra 
+      <lb ed="#C" n="3"/>Matre Domini nostri Jesu Christi, 70. distinct, sanctorum,) 
+      <lb ed="#C" n="4"/>sin. Sed &amp; in canone quaedam sunt addita, quae in tex. I 
+      <lb ed="#C" n="5"/>vangelii non continentur: sed ea credimus ab Apostolis? 
+      <lb ed="#C" n="6"/>sanctis Patribus fuisse adjecta, inftita. cum Marthae, respon 
+      <lb ed="#C" n="7"/>&amp; n. dist. cclesiasticis. In dieb. autem profestis, id est, in qui 
+      <lb ed="#C" n="8"/>bus fiunt commemorationes Sactorum loco festivitatis 
+      <lb ed="#C" n="9"/>ut diebus sabbathi de beata Maria virgine licet propri 
+      <lb ed="#C" n="10"/>praefatio decantetur: symbolum tamen, id est Credo in u 
+      <lb ed="#C" n="11"/>num Deum: &amp; hymnus Angelicus, id est Gloria in excel 
+      <lb ed="#C" n="12"/>sis Deo: &amp;, Te Deum laudamus, regularius dimittitur 
+      <lb ed="#C" n="13"/>quam dicatur, ut inter verum festum &amp; profestum possi 
+      <lb ed="#C" n="14"/>differentia denotari, inf.ti.I. consilium. In talibus tamen ne 
+      <lb ed="#C" n="15"/>devotam consuetudinem reprobamus, 12. distin. illa, &amp; no 
+      <lb ed="#C" n="16"/>sup eo. ver. in calice, ad idem est, 77. disti. utnam omni tempori 
+      <lb ed="#C" n="17"/>8 supra de sepul. certificari.* Ter in anno homines commun 
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e1441">
+               <lb ed="#C" n="18"/>care debent, nisi pro gravibus criminibus impediantur 
+      <lb ed="#C" n="19"/>scilicet in Pascha, Pentecoste, &amp; natali Domini, de conseci¬ 
+      <lb ed="#C" n="20"/>distinct. 2. ca. &amp; sinon frequentius in coena, vel saltem in Pascha 
+      <lb ed="#C" n="21"/>nisi de consilio proprii sacerdotis aliquis abstineat propte 
+      <lb ed="#C" n="22"/>crimen, ut not. supra, &amp; notat. infra de poen. &amp; re. omnis, aliâ 
+      <lb ed="#C" n="23"/>vivens ab ingressu eccl. abstineat, &amp; moriens Christian 
+      <lb ed="#C" n="24"/>careat sevultura, ut ibi. Sed Augustinus dicit: Quotidi 
+      <lb ed="#C" n="25"/>Eucharistiae communionem accipere, nec laudo, nec vitu 
+      <lb ed="#C" n="26"/>pero: omnibus tamen diebus Dominicis communicar 
+      <lb ed="#C" n="27"/>dum hortor: si tamen mens in affectu peccandi est, grav¬ 
+      <lb ed="#C" n="28"/>ri posse magis dico illum, quam purificari, &amp; ideo quam 
+      <lb ed="#C" n="29"/>vis quis peccato mordeatur, tamen si de commisso dolens 
+      <lb ed="#C" n="30"/>peccandi de caetero non habeat voluntatem, confidensd 
+      <lb ed="#C" n="31"/>misericordia Domini, intrepidus &amp; securus ad Euchar 
+      <lb ed="#C" n="32"/>stiam accedat, de consecr. distinct. 2. quotidie, sed hoc de illo d 
+      <lb ed="#C" n="33"/>co, quem mortalia peccata non gravant, ut ibi. Item Am 
+      <lb ed="#C" n="34"/>brosius in seq c. Si quotiescunque effunditur sanguis Chri 
+      <lb ed="#C" n="35"/>sti, in remissionem peccatorum effunditur, debeo sem 
+      <lb ed="#C" n="36"/>per communicare, quia semper pecco. Sed qui non con 
+      <lb ed="#C" n="37"/>municaverit saltem semel in anno in Pascha, sicut dixi, c 
+      <lb ed="#C" n="38"/>tholicus non creditur, nec inter catholicos habeatur, d 
+      <lb ed="#C" n="39"/>conse. dist. 2. seculares, quod intellige ex contemptu post mo 
+      <lb ed="#C" n="40"/>nitionem, ut ibidem, &amp; seq c. Si per negligentiam aliqui 
+      <lb ed="#C" n="41"/>de sanguine stillaverit in tabulam, lambetur lingua, &amp; t 
+      <lb ed="#C" n="42"/>bula radetur: si in terram, locus radetur, &amp; igne consum¬ 
+      <lb ed="#C" n="43"/>tur, &amp; cinis intra altare condetur, &amp; sacerdos 40. dieb. po 
+      <lb ed="#C" n="44"/>niteat, si super altare stillaverit calix, sorbeat minister sti 
+      <lb ed="#C" n="45"/>lam, &amp; tribus diebus poeniteat. Si super linteum altare 
+      <lb ed="#C" n="46"/>&amp; ad secundum linteum pervenit, 4. dieb. poeniteat: si u 
+      <lb ed="#C" n="47"/>que ad tertium 9. dieb. si usque ad quartum, 20. dieb. &amp; lij 
+      <lb ed="#C" n="48"/>teamina, quae tetigerint stillam, tribus vicib. minister al 
+      <lb ed="#C" n="49"/>luat calice subterposito in quo recipiatur aqua ablutic 
+      <lb ed="#C" n="50"/>nis, &amp; juxta altare recondatur. de conse. dist. 2si per negligenti 
+      <lb ed="#C" n="51"/>am. Hostia quam vides ante consecrationem panis, est ii 
+      <lb ed="#C" n="52"/>consecratione, de pane fit caro, &amp; remanet ibi tantum sp¬ 
+      <lb ed="#C" n="53"/>cies, sive forma panis: &amp; sub illa forma comeditur. de cons¬ 
+      <lb ed="#C" n="54"/>dist 3. hoc est, &amp;c. panis, c. de hac. Chori Angelorum adsunt ij 
+      <lb ed="#C" n="55"/>ipsa hora immolationis: &amp; in momento rapitur in coel¬ 
+      <lb ed="#C" n="56"/>ministerio Angelorum consociandum corpori Christi, &amp; 
+      <lb ed="#C" n="57"/>ante oculos sacerdotis in altati videtur: ut dicit Gra. dec¬ 
+      <lb ed="#C" n="58"/>se. dist. 2.quid si sanguis agni, &amp; licet dividatur in tres partes 
+      <lb ed="#C" n="59"/>in singulis portionibus totum corpus Christi est, sicut in 
+      <lb ed="#C" n="60"/>manna, quod in ejus figura processit, de quo dicitur, quo 
+      <lb ed="#C" n="61"/>qui plus colligebat, non amplius habuit, quam ille quim 
+      <lb ed="#C" n="62"/>nus paraverat. dist. 2. &amp; singuli, &amp; c. ubi pars, crede enim tar 
+      <lb ed="#C" n="63"/>tum, &amp; manducasti, secundum August. dist. 2.ut quid para 
+      <lb ed="#C" n="64"/>&amp; c. reddere, &amp; accedat, infrac.i.cum Marthae* In c.I.hujus dis 
+      <lb ed="#C" n="65"/>tertio dicitur, quae festivitates sint celebrandae: sunt aut 
+      <lb ed="#C" n="66"/>hae scil. dies Natalis Domini, S. Stephani. S. Joannis Evar 
+      <lb ed="#C" n="67"/>gelistae. Innocentium, S. Sylvestri, Octavae Domini Epiph. 
+      <lb ed="#C" n="68"/>niae, Purificationis Mariae, sanctum Pascha, cum tota heb 
+      <lb ed="#C" n="69"/>domada sua. Rogationes tribus diebus Ascensio Domini 
+      <lb ed="#C" n="70"/>sancti dies Pentecostes. S. Joan. Baptistae, Duodecim Apc 
+      <lb ed="#C" n="71"/>stolorum, &amp; maxime sanctorum Petri &amp; Pauli, qui murn 
+      <lb ed="#C" n="72"/>dum sua praedicatione illuminaverunt. S. Laurentii, A 
+      <lb ed="#C" n="73"/>sumptionis beatae Mariae virginis, Nativitatis sanctae M. 
+      <lb ed="#C" n="74"/>riae, Dedicationis S. Michaelis, Dedicatio cujuscunque ora 
+      <lb ed="#C" n="75"/>torii, &amp; omnium Sanctorum. Et S. Martini, &amp; ille festivi 
+      <lb ed="#C" n="76"/>tates, quas singuli episcopi per suas dioeceses, vel prae; by 
+      <lb ed="#C" n="77"/>teri celebrandas indixerint, quae non ligant generaliter o 
+      <lb ed="#C" n="78"/>mnes, sed circumorantes tantum ad alias ferias non sun 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0542.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>cogendi homines: nec a labore prohibendi. Indictum ta 
+      <lb ed="#C" n="80"/>men jejunium quando denunciatum fuerit, ab omnibus 
+      <lb ed="#C" n="81"/>observetur: super quo vide quod no. sup de paroch §quis in 
+      <lb ed="#C" n="82"/>telligatur parochianus, ver quid de scholarib. &amp; seqe &amp; infr. de ob 
+      <lb ed="#C" n="83"/>serv jequ. in §. quando jejunandum sit, &amp; § seq. His festivitatib 
+      <lb ed="#C" n="84"/>adduntur perdo. Gra 7. dies praecedentes Pentecostes, Pa 
+      <lb ed="#C" n="85"/>scha, &amp; omnes festivitates Virginis gloriosae, &amp; sancti die¬ 
+      <lb ed="#C" n="86"/>Pentecostes, intelliguntur ipsa festivitas cum duob. diet 
+      <lb ed="#C" n="87"/>seque sup. de ferc. ult Sed reperio, quod a quinquagesima us 
+      <lb ed="#C" n="88"/>que post octavas Paschae, &amp;7 diebus festum S. Jo Baptist 
+      <lb ed="#C" n="89"/>praecedentibus non debet judiciaria potestas aliquem a¬ 
+      <lb ed="#C" n="90"/>placitum bannire. i. coram se sub poena banni vocare, ut 
+      <lb ed="#C" n="91"/>74 placita, tempore etiam quadragesimae non est crimina 
+      <lb ed="#C" n="92"/>lejudicium exercendum. C. defer. 40. alibi excipitur septua 
+      <lb ed="#C" n="93"/>gesima, ut 229. 2. decrevit. Sed dic illa jura omnia per contra 
+      <lb ed="#C" n="94"/>riam consuetudinem inumbrata: quia nec, quantum a¬ 
+      <lb ed="#C" n="95"/>hoc, a Romana curia comprobantur, secundum Jo. quo 
+      <lb ed="#C" n="96"/>dic ut not. supra defer §qualiter distinguantur, &amp; §anferiis. 2. 
+      <lb ed="#C" n="97"/>Chrisma singulis annis d conficiendum est, &amp; renovan 
+      <lb ed="#C" n="98"/>dum, &amp; vetus in ecclesia cremandum, dist. 4. literis, confici 
+      <lb ed="#C" n="99"/>endum est autem ab episcopo, non ab alio sacerdote, de con 
+      <lb ed="#C" n="100"/>se dist z. omnitempore. i. omni anno. 21. q. 6. presbyter, &amp; ad acci 
+      <lb ed="#C" n="101"/>piendum chrisma diaconus vel subdiaconus a singulis pa 
+      <lb ed="#C" n="102"/>rochialibus ecclesiis mittendus est: ut in illo ca. omni, idec 
+      <lb ed="#C" n="103"/>tenetur episcopus in caena Domini chrisma celebrare ir 
+      <lb ed="#C" n="104"/>ecclesia cathedrali, inf eo. te referente, &amp; quolibet die Domi 
+      <lb ed="#C" n="105"/>nico divinis interesse in eadem ecclesia, quod in utroq 
+      <lb ed="#C" n="106"/>casu intelligas, nisi justa causa impediat. de consec. dist 3. epi 
+      <lb ed="#C" n="107"/>scopus 7. qu. I. temporis, ad fi. &amp; junge quod no, sup. de jurejur.? 
+      <lb ed="#C" n="108"/>quot species, &amp; aecle non resid (quis clericus, pe. 1. &amp; juge quoc 
+      <lb ed="#C" n="109"/>no. inf. co. dist. 5. § &amp; a quibus, ver. episcopus, &amp; se. In hac dist. 4 
+      <lb ed="#C" n="110"/>tractatur de baptismo dic ut infra de baptismo in sum. &amp; no 
+      <lb ed="#C" n="111"/>quod manus impositio solennis habet fieri tantum per sum 
+      <lb ed="#C" n="112"/>mos Pontifices id est episcopos tantum, unde nec simple, 
+      <lb ed="#C" n="113"/>sacerdos confirmare potest, de conse. dist. 4. manus, &amp;c. novi¬ 
+      <lb ed="#C" n="114"/>sime, &amp; supra de consue. quanto &amp; de sacra unctione c. unico, §ba 
+      <lb ed="#C" n="115"/>ptismum, nisi Papa hoc alicui concesserit per privilegiun 
+      <lb ed="#C" n="116"/>speciale. 95. dist. pervenit, alius enim hoc committere non po 
+      <lb ed="#C" n="117"/>testi sed ipse tamen, cujus dissimulatio dispensationem in 
+      <lb ed="#C" n="118"/>ducit, inf. eo. aqua. Exorcista tamen manus imponere po 
+      <lb ed="#C" n="119"/>test super energumenos id est a daemonibus obsessos, ve 
+      <lb ed="#C" n="120"/>oppressos, ea dist. omni die vels. dist. nam secundum quosdi 
+      <lb ed="#C" n="121"/>incipit, 5. dist. in illo c. omnes fideles, sed secundum alios, in ill 
+      <lb ed="#C" n="122"/>c. convenit de ordinatione clericor. &amp; officiis eorundem 
+      <lb ed="#C" n="123"/>no supra in suis tract. &amp; de his multa invenies, 21. &amp; 22. &amp; 23 
+      <lb ed="#C" n="124"/>dist pertotum 
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e1680">
+               <lb ed="#C" n="125"/>IN hac dist 5. tractatur de divinis officiis, qualiter sint ce 
+      <lb ed="#C" n="126"/>lebranda divina officia, &amp; a quibus
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e1688">
+               <lb ed="#C" n="127"/>Qualiter sint celebranda divina offi¬ 
+      <lb ed="#C" n="128"/>cia. Et qui 
+      <lb ed="#C" n="129"/>dem sunt celebrandae festivitates a vespera in vesperam, &amp; 
+      <lb ed="#C" n="130"/>secundum consue regionis laudabilem, secundum quoc 
+      <lb ed="#C" n="131"/>festum requiri debet eitius incipi officium, tardius termi 
+      <lb ed="#C" n="132"/>nari festum Trinitatis, ab aliquib. in octava Pentecostes 
+      <lb ed="#C" n="133"/>ab aliquibus in prima Dominica ante adventum celebra¬ 
+      <lb ed="#C" n="134"/>tur: sed eccle. Rom. non celebrat specialiter, quia tota di¬ 
+      <lb ed="#C" n="135"/>dicit Gloria patri, &amp;c. &amp; multa alia ad laudem pertinenti¬ 
+      <lb ed="#C" n="136"/>Trinitatis, supra de fer.c. I. &amp;2. Et sciendum, quod die, &amp; no 
+      <lb ed="#C" n="137"/>cte cavendum est, quod non tantum voce, sed corde devot 
+      <lb ed="#C" n="138"/>&amp; honeste, melior enim est paucorum psalmorum decan 
+      <lb ed="#C" n="139"/>tatio cum cordis puritate, ac serenitate, ac spirituali hila 
+      <lb ed="#C" n="140"/>ritate, quam psalmorum modulatio cum anxietate, decon 
+      <lb ed="#C" n="141"/>se. dist. 5. non mediocriter. &amp; est sequenda consuetudo Metrop 
+      <lb ed="#C" n="142"/>eccl. a suffraganeis, 12. di de his, ae consec. dist. 2. in omnibus, &amp; 
+      <lb ed="#C" n="143"/>institutio. &amp; aistin. 5. convenit, &amp; no. quod non sufficit dicer 
+      <lb ed="#C" n="144"/>tres psalmos tempore Paschali, secundum morem. Ro. ut d 
+      <lb ed="#C" n="145"/>conse. dist. 5 in die Resurrectionis nec minus clamando seu vo 
+      <lb ed="#C" n="146"/>ciferando est psallendum 9i. dist per totum oie. dist. c. 1. &amp; no sui 
+      <lb ed="#C" n="147"/>ea. dist. 2. Squaliter, ver. debet autem dicere, &amp; sequent.
+    </p>
+            <p xml:id="nbht7y-d1e1322-d1e1736">
+               <lb ed="#C" n="148"/>Et a quib. Et quidem quiliber clericus servitio eccle 
+      <lb ed="#C" n="149"/>siae deputatus ad hoc tenetur, maxime si in sacri 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="150"/>ADDITIO. 
+      <lb ed="#C" n="151"/>a Chrisma singulis annis. JAdde tet, in c. omni tempore, de conse 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>dist 4. &amp; inc. referente, de celeb. mis--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0543.xml-->
+      <pb ed="#C" n="526"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>sit: quia &amp; minores si ecclesiasticis stipendiis sustententur 
+      <lb ed="#C" n="2"/>ar. supra de praeb. cum secundum, &amp;c. extirpandae, &amp; de cler con 
+      <lb ed="#C" n="3"/>ju. diversis fallaciis, &amp; de postulando.c.iinfra tit. I.dolentes &amp; d 
+      <lb ed="#C" n="4"/>his quae non supra de postul §quid perimet, ver. itern ad officius 
+      <lb ed="#C" n="5"/>suum pertmet stare, unde si quotidianis horis &amp; canonicis 
+      <lb ed="#C" n="6"/>quae 7. sunt, non intersit nulla justa causa impeditus, pos 
+      <lb ed="#C" n="7"/>admonitionem episcopi privari potest beneficio, &amp; excon 
+      <lb ed="#C" n="8"/>municari, vel etiam deponi, ui distinct.ci. &amp; 2. &amp; 92. distine 
+      <lb ed="#C" n="9"/>c. ultim. &amp;c. si quis preshyter, maxime si hoc fecerit solennit 
+      <lb ed="#C" n="10"/>diebus 7.u.. si quis in clero. &amp; cillud, &amp;c. si quis in clero. intel 
+      <lb ed="#C" n="11"/>ligitur secundum alia capitula, &amp; junge quod no supra eo 
+      <lb ed="#C" n="12"/>dis. 2S qualiter, ver debet autem, &amp; sup. de cle non resi § quis cle 
+      <lb ed="#C" n="13"/>a ricus. Quid de his qui in scholis sunt, a nunquid 
+      excusar<lb ed="#C" n="14" break="no"/>tur? Dixerunt aliqui, quod si promoti sunt ad titulum e¬ 
+      <lb ed="#C" n="15"/>clesiae tunc tenentur: ut 92 dist si quis preibyter, si vero ad 
+      <lb ed="#C" n="16"/>tulum suae portionis, vel patrimonii, non tenentur, sup. d 
+      <lb ed="#C" n="17"/>praeb. episcopus. Dic secundum Gos. quod omnes tenentur 
+      <lb ed="#C" n="18"/>etiam si ab ecclesia tenuem habent sustentationem, &amp; sib 
+      <lb ed="#C" n="19"/>imputent, quod semel consenserunt, ar. 32q.5. horrendus. n. 
+      <lb ed="#C" n="20"/>sicut vir tenetur ministrare necessaria uxori, etiam si debi 
+      <lb ed="#C" n="21"/>tum reddere non possit, 32. qu. 7. quod proposuisti, sic &amp; tali 
+      <lb ed="#C" n="22"/>clericus, quamvis a sponsa sua spirituali debitum sustent. 
+      <lb ed="#C" n="23"/>tionis non percipiat, tenetur eam officiare: &amp; dicat cun 
+      <lb ed="#C" n="24"/>Apostolo, Scio, satiari, &amp; esurire, abundare, &amp; penurian 
+      <lb ed="#C" n="25"/>pati, &amp; omnia possum in eo qui me confortat. 2. distin quo 
+      <lb ed="#C" n="26"/>dicit Dominus, &amp; manus suae ei ministrant. 22qi clericus in) 
+      <lb ed="#C" n="27"/>91. dist. clericus victum, idem si a principio fuerit ecclesia opu 
+      <lb ed="#C" n="28"/>lenta: nec facta est tenuis, in utroque tamen casu debet ere 
+      <lb ed="#C" n="29"/>piscopus, vel per unionem alterius ecclesiae, vel alio modi 
+      <lb ed="#C" n="30"/>subvenire 10. qu. 3. unio &amp; sic intellige 16 q16. episcopus, de con 
+      <lb ed="#C" n="31"/>secr dist. iomnes, sic tenetur intituiatus ecclesiae servire. E 
+      <lb ed="#C" n="32"/>episcopus ad minus diebus Dominicis ad hoc tenetui 
+      <lb ed="#C" n="33"/>quod dicut no. sup ea. dist 2. in si. ver. chrisma. sed ex hoc for 
+      <lb ed="#C" n="34"/>te processit, quod dominus Joannes Archiepiscopuse 
+      <lb ed="#C" n="35"/>ante tunc Apostolicae sedis legatus statuit in concilio M. 
+      <lb ed="#C" n="36"/>naschae scil. quod praelati saltem semel in hebdomada de 
+      <lb ed="#C" n="37"/>beant celebrare: quia sunt aliqui, qui quater in anno vi 
+      <lb ed="#C" n="38"/>celebrant, de quib. conqueritur Concilium generale in 
+      <lb ed="#C" n="39"/>tit.i.dolentes. Et hodie sunt praelati in hoc privilegiati, qui 
+      <lb ed="#C" n="40"/>permittitur eis tempore generalis interdicti exclusis e: 
+      <lb ed="#C" n="41"/>communicatis &amp; interdictis, quandoque divina celebrare, in 
+      <lb ed="#C" n="42"/>de privil. quod nonnullis, sed&amp;ministris ecclesiae permittitu 
+      <lb ed="#C" n="43"/>semel in hebdomada celebrare causa conficiendi corpu 
+      <lb ed="#C" n="44"/>Christi, quod morientibs. in paenitentia non negatur, inf.d 
+      <lb ed="#C" n="45"/>sen excom permittimus. Et quod Psalmi cantandi sint quot 
+      <lb ed="#C" n="46"/>die in eccl. in illo cantico, Ego dixi tibi, Domine salvum 
+      <lb ed="#C" n="47"/>fac, &amp; psalmos nostros cantabimus cunctis dieb. vitae no 
+      <lb ed="#C" n="48"/>strae in domo domini, id est, in ecclesia. infrati.a.dolentes, ad 
+      <lb ed="#C" n="49"/>de quod no. supra eo. dist. 2§ &amp; qualiter, versic. debet autem sul 
+      <lb ed="#C" n="50"/>diaconus, &amp; seq Sed &amp; de jejunis celebrandis dicut no. in 
+      <lb ed="#C" n="51"/>de observatione jejuni 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="52"/>ADDITIO. 
+      <lb ed="#C" n="53"/>a Quid de his, qui in scholis sunt.) Adde Car in cle I de celebr mi 
+    </p>
+    <p>
+      <lb ed="#C" n="54"/>Ioan. de Imo in cle. ut hi qui. in 2. col. de aetat. &amp; qual idem Iod 
+      <lb ed="#C" n="55"/>Imo in cle I. ad fin ulbim. quaest. de magist. doct. in capit. I. decelel-->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

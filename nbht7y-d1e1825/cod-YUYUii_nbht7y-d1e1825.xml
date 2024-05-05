@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 13</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 13</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="697"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1825"><!-- nbht7y-l5t13 -->
+            <head xml:id="nbht7y-d1e1825-Hd1e101">Titulus 13</head>
+            <head xml:id="nbht7y-d1e1825-Hd1e103" type="question-title">De torneamentis</head>
+            <p xml:id="nbht7y-d1e1825-d1e106">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0714.xml-->
+               <pb ed="#C" n="697"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>De Torneamentis. Rubr. XIII 
+    </p>
+            <p xml:id="nbht7y-d1e1825-d1e117">
+               <lb ed="#C" n="2"/>SUMMARIA 
+      <lb ed="#C" n="3"/>Torneamenta quae dicantur. Et quare prohibentur. 2 
+      <lb ed="#C" n="4"/>3 Poena quae imponatur inobedientibus 
+      <lb ed="#C" n="5"/>4 Clericus si moriatur in torneamentis, an debeat carere sepu 
+      <lb ed="#C" n="6"/>tura. 
+    </p>
+            <p xml:id="nbht7y-d1e1825-d1e130">
+               <lb ed="#C" n="7"/>SAepe contingit. quod in torne¬ 
+      <lb ed="#C" n="8"/>mentis perpetra 
+      <lb ed="#C" n="9"/>tur homicidia, de quibus supra diximu 
+      <lb ed="#C" n="10"/>ideo subjicit rubricam de torneamentis 
+      <lb ed="#C" n="11"/>subaudi prohibitis: hic videamus. Quae di 
+      <lb ed="#C" n="12"/>cantur torueamenta, Quare prohibeantur, Quae poena in 
+      <lb ed="#C" n="13"/>obedientibus infligatur 
+    </p>
+            <p xml:id="nbht7y-d1e1825-d1e149">
+               <lb ed="#C" n="14"/>Quae dicantur torneamenta: Et certe nundin: 
+      <lb ed="#C" n="15"/>quaedam, sive feriae, in quibus mili 
+      <lb ed="#C" n="16"/>tes ex condicto, vel conducto, sive edicto, quia triplex es 
+      <lb ed="#C" n="17"/>litera ad ostentationem suarum virium &amp; audaciae, teme 
+      <lb ed="#C" n="18"/>re congregantur: ut colligitur infra eod. c. 1. &amp; vocat hae 
+      <lb ed="#C" n="19"/>decr. serias tales detestabiles, licet I. permittat aliquidf 
+      <lb ed="#C" n="20"/>cere ad ostendendas vires, sive hastam, sive pilum jacier 
+      <lb ed="#C" n="21"/>do, vel currendo, vel saliendo, vel luctando, vel pugnar 
+      <lb ed="#C" n="22"/>do: in his etiam casibus. ex I. Titia, Publia &amp; Cornelia spor 
+      <lb ed="#C" n="23"/>sionem facere licet: ut ff de ale, solent. &amp; l. seque. Sed &amp; vescer 
+      <lb ed="#C" n="24"/>di causa ludere, ut inl. seq. &amp; si quis in colluctatione, siv 
+      <lb ed="#C" n="25"/>in publico certamine damnum dederit, non tenetur I. A 
+      <lb ed="#C" n="26"/>quil. cum virtutis gloria, &amp; non animo injuriandi hoc fi 
+      <lb ed="#C" n="27"/>ctum sit: utff all. Aquil. qua actione. §. si quis in colluctationi 
+      <lb ed="#C" n="28"/>ut de his not. infra de exces. praela §. sinal. sub § licet camen lu 
+      <lb ed="#C" n="29"/>dere. &amp; versic. seq. nec tales infames fiunt: ut ff. de his qui no¬ 
+      <lb ed="#C" n="30"/>infam. athletas, hoc si pugnet quis causa virtutis ostender 
+      <lb ed="#C" n="31"/>dae: secus, si hoc facit causa avaritiae, scilicet opera sualc 
+      <lb ed="#C" n="32"/>cando, tunc enim sive pugnaverit, sive non, infamis effic 
+      <lb ed="#C" n="33"/>tur, ut f de postuland. l. 1. §. bestias. haec autem torneament. 
+      <lb ed="#C" n="34"/>secundum canones reprobantur, propter causam quae se 
+      <lb ed="#C" n="35"/>quitur, non obst, quod causa ludi factum dicatur, nam lu 
+      <lb ed="#C" n="36"/>dus noxius in culpa est. ff. ad l. Aquil. nam ludus, supra de pra 
+      <lb ed="#C" n="37"/>sumpt. c. I. quis enim Iudos appellet ex quibus crimina ori 
+      <lb ed="#C" n="38"/>untur, ut n progem. ff. vet. §. illud vero satis necessarium
+    </p>
+            <p xml:id="nbht7y-d1e1825-d1e206">
+               <lb ed="#C" n="39"/>Quare prohibentur Propter motes 
+      homi<lb ed="#C" n="40" break="no"/>num, &amp; animarum per 
+      <lb ed="#C" n="41"/>cula, quae inde saepe proveniunt, ut infra eod, cap. 1. deben 
+      <lb ed="#C" n="42"/>enim futura pericula praecaveri: &amp; debet quilibet discr¬ 
+      <lb ed="#C" n="43"/>tus sibi prospicere in futurum: quia debet cogitare, ho 
+      <lb ed="#C" n="44"/>evenire posse, ut supra de elect licet. &amp; de ser. non ord. c. 1.d 
+      <lb ed="#C" n="45"/>obli. ad ratio c i. 23. distin in nomine Domini. 22.q I. in novo. &amp; a 
+      <lb ed="#C" n="46"/>consecra distin. 2. pervenit. supra de jurejur. &amp; si Christus §. quae 
+      <lb ed="#C" n="47"/>dm F loc. &amp; conducti. si quis domum §. hic subjungi. pers sed a 
+      <lb ed="#C" n="48"/>ex locat. 
+    </p>
+            <p xml:id="nbht7y-d1e1825-d1e230">
+               <lb ed="#C" n="49"/>Quae poena inobedientibus infligatur. Et quidem 
+      <lb ed="#C" n="50"/>secundum leges, nulla. ut not. supra eo¬ 
+      <lb ed="#C" n="51"/>§. primo. sed secundum canones qui occidit, debet poenan 
+      <lb ed="#C" n="52"/>pati homicidae voluntarii: quod dic ut not supra tit 1§ qu 
+      <lb ed="#C" n="53"/>pena &amp; vers. seq. Sed nunquid in torneamento necessita 
+      <lb ed="#C" n="54"/>imminens excusabit, ut not. supra tit. i. §. pen. vers. sin auten 
+      <lb ed="#C" n="55"/>fuit. Non, quia ad hanc necessitatem ultro, &amp; ex proposi 
+      <lb ed="#C" n="56"/>to se ingessit, arg. f quod met. caus. si mulier. respons.i.nam a 
+      <lb ed="#C" n="57"/>initio fuit inevitabilis: ergo sibi imputet, ut patet in hi 
+      <lb ed="#C" n="58"/>quae not. supra eod. §. prox. inducto. Is autem qui in torne¬ 
+      <lb ed="#C" n="59"/>mentis occiditur; carere debet ecelesiastica sepultura 
+      <lb ed="#C" n="60"/>quamvis si ibi mortuus fuerit, id est, mortale vulnus acc¬ 
+      <lb ed="#C" n="61"/>perit, ei poscenti poenitentia non negetur, ut infra cod c. 
+      <lb ed="#C" n="62"/>ad sin per consequens igitur, nec viaticum est negandum 
+      <lb ed="#C" n="63"/>ut argu. 26. 4 6. si quis de corpore. 50. dist poenitentes. &amp; infra¬ 
+      <lb ed="#C" n="64"/>poen. quod in te &amp; sic conceditur quod plus est, &amp; quodmi 
+      <lb ed="#C" n="65"/>nus est denegatur. simile S8. distin. episcopus gubernationem 
+      <lb ed="#C" n="66"/>q.i. si qui episcopi. &amp; 33. qu. 2. latorem 80. distinct episcopi. non i 
+      <lb ed="#C" n="67"/>castells. ff. de rei nupt. I. oratione. C. quando Imperator inter pi 
+      <lb ed="#C" n="68"/>pill &amp; vid l.unica. Contra 14. distinct. nulli liceat. 23. qu. ul 
+      <lb ed="#C" n="69"/>32 q 7. Apostolus in fin. 24. q i. miramur. supra de decim. ex pa 
+      <lb ed="#C" n="70"/>te. infra de sentent. excommun. cum illorum. ff. de serv. expor e¬ 
+      <lb ed="#C" n="71"/>pacto. Solutio. Contraria vera sunt, &amp; regulam faciunti 
+      <lb ed="#C" n="72"/>in similibus dicit speciale est, &amp; est haec ratio specialitati? 
+      <lb ed="#C" n="73"/>ut hoc errore desistant milites ab his feriis, ut infra de rap 
+      <lb ed="#C" n="74"/>capitulo secundo. nam quo ad animam, nihil obest vilis, ve 
+      <lb ed="#C" n="75"/>prodest preciosa sepultura, ut supra de sepul. sacris. 13. qu.1 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0714.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="76"/>animae. hi autem soli hanc poenam patiuntur, qui anim 
+      <lb ed="#C" n="77"/>ludendi veniunt, &amp; ibidem decedunt, subaudi, vel vulnus 
+      <lb ed="#C" n="78"/>lethale accipiunt, ut notatur supra proxim versicul. circ 
+      <lb ed="#C" n="79"/>princip. Sin autem causa repetendi debita sua, ibidem ve 
+      <lb ed="#C" n="80"/>niens mortuus fuerit casu fortuito, non denegabitur se 
+      <lb ed="#C" n="81"/>pultura, maxime si corpus Christi suscepit, &amp; sacri ole 
+      <lb ed="#C" n="82"/>fuerit unctione perunctus, ut infra eodem, capitulo secundo 
+      <lb ed="#C" n="83"/>ideo dicit. Maxime, quia sufficiunt certa indicia poeniten 
+      <lb ed="#C" n="84"/>tiae, ut infra de sentent, excommunic. a nobis. 2. &amp; sic volunta 
+      <lb ed="#C" n="85"/>&amp; propositum distinguunt maleficia. infra de sentent. ex 
+      <lb ed="#C" n="86"/>communicat cum voluntate. ff. de fur. qui injuriae, respons. i. &amp; 
+      <lb ed="#C" n="87"/>semper est ad animam recurrendum, ut 22. qu. 2. 15autem 
+      <lb ed="#C" n="88"/>&amp;c. homines.* Item si clericus moriatur ibidem, non vi 
+      <lb ed="#C" n="89"/>detur sepultura privandus, quamvis pro eo non oretur 
+      <lb ed="#C" n="90"/>nec oblatio pro eo fiat: ut 23. qu. ultima. quicunque cert¬ 
+      <lb ed="#C" n="91"/>si ludendo mortuus est, non videtur, quod poenam vitet 
+      <lb ed="#C" n="92"/>secus, forte in sequenti quaestione, quae incipit. Quid si a 
+      <lb ed="#C" n="93"/>liquis illuc accedat. Quid de militibus qui illuc accedun 
+      <lb ed="#C" n="94"/>animo pugnandi, non tamen occidunt, sed percutiunt, ta 
+      <lb ed="#C" n="95"/>men ab aliis aliqui sunt occisi, nunquid tales milites pote 
+      <lb ed="#C" n="96"/>runt promoveri? dixit Goffr. quod non, eo quod ad ren 
+      <lb ed="#C" n="97"/>damnatam &amp; prohibitam accesserunt, &amp; idem dicit de il 
+      <lb ed="#C" n="98"/>lo, qui interest bello illicito. impeditur enim talis propte¬ 
+      <lb ed="#C" n="99"/>culpam praecedentem, ut i5. qu. l.c. sin. &amp; de pon. distin. 1) 
+      <lb ed="#C" n="100"/>quis cum telo. &amp; argument. a contrario sensu, infra de cleri¬ 
+      <lb ed="#C" n="101"/>percus. praesentium. &amp;c, continuebatur. secundum Goffre. 8 
+      <lb ed="#C" n="102"/>melius, si distinctio. si quis post acceptum, &amp; capitul praecedent 
+      <lb ed="#C" n="103"/>Quid si aliquis illuc accedat causa videndi hujusmodi lu 
+      <lb ed="#C" n="104"/>dum. Si sit clericus, videtur, quod eandem poenam debe 
+      <lb ed="#C" n="105"/>at pati. argum. supra de vi. &amp; hon. cleric. c. clerici. versicul. ad a 
+      <lb ed="#C" n="106"/>lias. &amp; in authemic. de sanct. episc. §. interdicimus. col 9. Sed lai 
+      <lb ed="#C" n="107"/>cis hoc videtur concessum, ut ff. de his, qui not. mfam. I2. 5 
+      <lb ed="#C" n="108"/>ait praetor. argum. ad hoc, supra ne tleric. pel monach. senten 
+      <lb ed="#C" n="109"/>tiam. Sed contra, quia hi soli patiuntur poenam, qui anim 
+      <lb ed="#C" n="110"/>lugendi illuc accedunt, ut dixi, cum ergo poenalis sit, &amp; o 
+      <lb ed="#C" n="111"/>diosa, restringenda est, &amp; non dilatanda, ac paen distinct. i6 
+      <lb ed="#C" n="112"/>paena ff. de poen si praeses. &amp; l. interpretatione. &amp; Alexand. III 
+      <lb ed="#C" n="113"/>qui utramque fecit tam concil. Lateranens. quam decre 
+      <lb ed="#C" n="114"/>potuit interpretari per decret. concil. quia ejus est inter 
+      <lb ed="#C" n="115"/>pretari, cujus est condere, ut infra de sentent. excommunicai 
+      <lb ed="#C" n="116"/>inter alia. Sed forte habet locum poena decret. 23. qu. ult. qui 
+      <lb ed="#C" n="117"/>cunque. i. ut notatur supra versicul. item si clericus inoriatu 
+      <lb ed="#C" n="118"/>ibidem 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

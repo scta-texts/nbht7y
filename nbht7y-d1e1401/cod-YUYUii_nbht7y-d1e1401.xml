@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 47</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 47</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="534"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1401"><!-- nbht7y-l3t47 -->
+            <head xml:id="nbht7y-d1e1401-Hd1e101">Titulus 47</head>
+            <head xml:id="nbht7y-d1e1401-Hd1e103" type="question-title">De purificatione post partum</head>
+            <p xml:id="nbht7y-d1e1401-d1e106">
+               <lb ed="#C" n="127"/>De Purificatione post partum 
+      <lb ed="#C" n="128"/>Rubr. XLVII. 
+    </p>
+            <p xml:id="nbht7y-d1e1401-d1e113">
+               <lb ed="#C" n="129"/>SVMMARIA 
+      <lb ed="#C" n="130"/>Purificatio olim qualiter fiebet. Et an hodie sit servanda
+    </p>
+            <p xml:id="nbht7y-d1e1401-d1e120">
+               <lb ed="#C" n="131"/>ACtum est in superioribus de jejunii 
+      <lb ed="#C" n="132"/>celebrandis, veneratione Sa 
+      <lb ed="#C" n="133"/>ctorum. sed quia ex reverentia &amp; devotion 
+      <lb ed="#C" n="134"/>procedit, quod mulieres pest partum cessani 
+      <lb ed="#C" n="135"/>Ha ad tempus, ne templa ingrediantur, appon 
+      <lb ed="#C" n="136"/>tur hic rubrica de purificatione post partum, in qua vi 
+      <lb ed="#C" n="137"/>dendum, Quid circa hoc olim servabatur in lege veteri, E 
+      <lb ed="#C" n="138"/>quid hodie sit servandum
+    </p>
+            <p xml:id="nbht7y-d1e1401-d1e141">
+               <lb ed="#C" n="139"/>Quid circa hoc olim servabatur in lege veteri? 
+      <lb ed="#C" n="140"/>Et quidem in veteri Testament. 
+      <lb ed="#C" n="141"/>mulier post partum reputabatur immunda, ideo proh 
+      <lb ed="#C" n="142"/>bitum erat, ne mulier masculum pariens intraret tem 
+      <lb ed="#C" n="143"/>plum, usque ad 40. dies: si vero foeminam pareret, arce 
+      <lb ed="#C" n="144"/>patur ab ingressu So. diebus 5. distin. §. 1. sed contra eodem 
+      <lb ed="#C" n="145"/>cum evixa. quod quidam habent pro palea, ubi dicit 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0552.xml-->
+      <pb ed="#C" n="535"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>quod pro masculo cessabatur 34. diebus, pro foemina 6 
+      <lb ed="#C" n="2"/>Sed ibi consideratur tempus circuncisionis masculi, qu 
+      <lb ed="#C" n="3"/>in septima die nativitatis circuncidebatur, in muliere ve¬ 
+      <lb ed="#C" n="4"/>ro tempus impositionis nominis, quae fiebat in 14. die na 
+      <lb ed="#C" n="5"/>tivitatis suae. sed md. §. 1. consideratur tempus nativitati 
+      <lb ed="#C" n="6"/>utriusque ratio autem hujus prohibitionis erat, quia sic 
+      <lb ed="#C" n="7"/>ut Physici asserunt, tot diebus est ebriosus faetus masculi 
+      <lb ed="#C" n="8"/>nus: vel foemininus in utero mortificatus, sine infusion¬ 
+      <lb ed="#C" n="9"/>animae. ad quod accedit. 56. dist. nasci 
+    </p>
+            <p xml:id="nbht7y-d1e1401-d1e185">
+               <lb ed="#C" n="10"/>Et quid hodie sit servandum. Et certe, quia ho¬ 
+      <lb ed="#C" n="11"/>die legis umbra evanuit, &amp; illuxij 
+      <lb ed="#C" n="12"/>veritas Evangelii possunt mulieres propter prolem emis 
+      <lb ed="#C" n="13"/>sam, quandocunque voluerint, intrare ecclesiam actura 
+      <lb ed="#C" n="14"/>gratias Domino Deo nostro, ne poena videatur eis con 
+      <lb ed="#C" n="15"/>verti in culpam. ins. eo c. unico &amp; 5. di. mulier. &amp;c. ad ejua. Se 
+      <lb ed="#C" n="16"/>si qua abstinere voluerit, ob venerationem aliquam, ve 
+      <lb ed="#C" n="17"/>devotionem, non credimus improbandum inf eodc umci 
+      <lb ed="#C" n="18"/>in fi &amp; supratit. .c. si. quia bonarum mentium. &amp;c. supr.tit. 
+      <lb ed="#C" n="19"/>consilium §. cum autem 5. dist. ad ejus vero concubitum. aliquan 
+      <lb ed="#C" n="20"/>do enim bonum est abstinere etiam ab eo quod licite fit, a 
+      <lb ed="#C" n="21"/>conse dist. 2.quotidic. 1i.qu.i. aliud. ex hoc videtur, quod loqua 
+      <lb ed="#C" n="22"/>tur de muliere uxorata, alias enim est in culpa, unde vi 
+      <lb ed="#C" n="23"/>deretur, quod hac poena plecti debeant. arg. in auth. de res 
+      <lb ed="#C" n="24"/>&amp; ea, quae parit in u. mense. §. unum si quidem coll. 4
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

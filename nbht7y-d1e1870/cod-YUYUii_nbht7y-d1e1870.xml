@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 17</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 17</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="703"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1870"><!-- nbht7y-l5t17 -->
+            <head xml:id="nbht7y-d1e1870-Hd1e101">Titulus 17</head>
+            <head xml:id="nbht7y-d1e1870-Hd1e103" type="question-title">De raptoribus, incendiariis et violatoribus ecclesiarum</head>
+            <p xml:id="nbht7y-d1e1870-d1e106">
+               <lb ed="#C" n="124"/>De Raptoribus, &amp; incendiariis, &amp; 
+      <lb ed="#C" n="125"/>violatoribus ecclesiarum. XVII. 
+      <lb ed="#C" n="126"/>Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e115">
+               <lb ed="#C" n="127"/>Quoniam crimen adulteri, de quo 
+      sup<lb ed="#C" n="128" break="no"/>plene tractavimus 
+      <lb ed="#C" n="129"/>saepe committitur mulieribus raptis: subjici 
+      <lb ed="#C" n="130"/>i hic rubricam de raptoribus, addens de incen 
+      <lb ed="#C" n="131"/>diariis et violatoribus ecclesiarum. Et ideo primitus vi 
+      <lb ed="#C" n="132"/>deamus de raptoribus rerum. Secundo, de poena rapto¬ 
+      <lb ed="#C" n="133"/>rum corporum. Tertio de incendiariis. Quarto de viola 
+      <lb ed="#C" n="134"/>toribus ecclesiarum 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e135">
+               <lb ed="#C" n="135"/>De Raptoribus rerum. Rubr. 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e141">
+               <lb ed="#C" n="136"/>SUMMARIA. 
+      <lb ed="#C" n="137"/>I Raptor quis dicatur. Et qua actione teneatur. 3 
+      <lb ed="#C" n="138"/>2 Praedo quis dicatur 
+      <lb ed="#C" n="139"/>4 Actio vi bonorum raptorum quando locum habeat. Et cui de 
+      <lb ed="#C" n="140"/>tur. 5. Et contra quem. 6. Et intra quod tempus. 7. E 
+      <lb ed="#C" n="141"/>qualis sit. S 
+      <lb ed="#C" n="142"/>5 Rapior criminaliter accusatus qua poena teneatur 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e159">
+               <lb ed="#C" n="143"/>DIcamus, quis sit raptor. Quis praedo 
+      <lb ed="#C" n="144"/>Qua actione teneatur ra 
+      <lb ed="#C" n="145"/>ptor, Quando locum habet, Cui datur, E 
+      <lb ed="#C" n="146"/>contra quem, Intra quod tempus, &amp; in quan 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0721.xml-->
+      <pb ed="#C" n="704"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>tum. Qualis sit, Qua poena teneatur raptor criminalite 
+      <lb ed="#C" n="2"/>accusatur
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e181" n="1">
+               <lb ed="#C" n="3"/>Quis sit raptor Et quidem qui res aliena 
+      <lb ed="#C" n="4"/>mobiles, vel se moventes dol 
+      <lb ed="#C" n="5"/>malo alicui aufert, vel etiam mulieres, ut patet ex sequad 
+      <lb ed="#C" n="6"/>hoc de reb. privatorum, non ecclesiarum. nam in illis dic¬ 
+      <lb ed="#C" n="7"/>retur committi sacrilegium. 12. qu. 2. nulli liceat. &amp;c. praedi¬ 
+      <lb ed="#C" n="8"/>sup de fo. comp. conquestus dicitur tamen proprie committir. 
+      <lb ed="#C" n="9"/>pina in rebus raptis, in mulieribus, ut nf. eo.c..&amp; 36915.
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e199" n="2">
+               <lb ed="#C" n="10"/>Quis, praedo. Is qui alios praedatur, ut quitiner. 
+      <lb ed="#C" n="11"/>riis, sive itinerantibus auferunt bo 
+      <lb ed="#C" n="12"/>na sua. Secundo, dicitur praedo miles, qui ultra stipendi 
+      <lb ed="#C" n="13"/>sibi taxatum quaerit. Idcirco enim sunt militibus stiper 
+      <lb ed="#C" n="14"/>dia constituta, ne dum sumptus quaeritur, praedo grassi 
+      <lb ed="#C" n="15"/>tur. 23. q4 i militare. Tertio, dicitur praedo praelatus, qui u¬ 
+      <lb ed="#C" n="16"/>tra, quam legatio sentiat, extorquet a subditis quaeren 
+      <lb ed="#C" n="17"/>potius praedam, quam subsidium in subjectis. supra de cor 
+      <lb ed="#C" n="18"/>sib. plerique. Quarto, judex pecuniis seu patrimoniis inhian 
+      <lb ed="#C" n="19"/>qui alienum jurgium repetat praedam suam. C. ad I. Iul. 
+      <lb ed="#C" n="20"/>pe. omnes 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e225" n="3">
+               <lb ed="#C" n="21"/>Qua actione teneatur raptor vibo. rapt haec 
+      <lb ed="#C" n="22"/>nim pro rapina seu depraedation 
+      <lb ed="#C" n="23"/>competit, &amp; pro damno dato scilicet ubi quis collectis ho 
+      <lb ed="#C" n="24"/>minibus damnum dederit. &amp; tenetur collector, seu coll¬ 
+      <lb ed="#C" n="25"/>tores ex primo edicto praetoris intra annum in quadri 
+      <lb ed="#C" n="26"/>plum, postea in simplum: sed nec credit Azo. collatore 
+      <lb ed="#C" n="27"/>excusari, quo minus teneantur de jure communi, si dan 
+      <lb ed="#C" n="28"/>num dederint. Ex secundo autem edicto agitur contra eum 
+      <lb ed="#C" n="29"/>qui quamvis homines non collegerit, tamen collectis h¬ 
+      <lb ed="#C" n="30"/>minibus a quocunque, vel quacunque occasione turb 
+      <lb ed="#C" n="31"/>collecta dedit alicui damnum in ea, &amp; agit contra eun 
+      <lb ed="#C" n="32"/>qui dedit damnum intra annum in duplum: post annun 
+      <lb ed="#C" n="33"/>vero in simplum. turba autem proprie dicitur decem au 
+      <lb ed="#C" n="34"/>quindecim hominum, non pauciorum. Item &amp; hoc secui 
+      <lb ed="#C" n="35"/>do edicto tenetur ille, cujus dolo malo in turba damnun 
+      <lb ed="#C" n="36"/>datum est. ut ff. eo .l. 2. respo. 1. l. praetor ait. cujus dolo malo. 8 
+      <lb ed="#C" n="37"/>quod dixi secundum Azo. quod teneatur homo collectu 
+      <lb ed="#C" n="38"/>sive coactus, nedum qui coegit. probatur. &amp; ff. eo. I2. si ver 
+      <lb ed="#C" n="39"/>homines. 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e269" n="4">
+               <lb ed="#C" n="40"/>Quando, locum habeat haec actio. Patet supra 
+      <lb ed="#C" n="41"/>in descriptione, quod speciali 
+      <lb ed="#C" n="42"/>ter locum habet in rebus mobilibus, vel se moventibus: 8 
+      <lb ed="#C" n="43"/>probatur in Inst. eo. § quae non solum. non ergo habet locum 
+      <lb ed="#C" n="44"/>si res immobilis per vim occupata sit, nisi in casu scilice 
+      <lb ed="#C" n="45"/>quando expellor de fundo, in quo sunt mobilia: nam gra 
+      <lb ed="#C" n="46"/>tia mobilium hac actione agi potest, &amp; nihilominus inter 
+      <lb ed="#C" n="47"/>dicto, unde vi, gratia rei immobilis. &amp; ff. de vi &amp; vi arma. I. 
+      <lb ed="#C" n="48"/>§. si fundus. dicuntur autem immobilia proprie invadi, mo 
+      <lb ed="#C" n="49"/>bilia vero occupari vel rapi, ut Instit. eod. §. quae non solun 
+      <lb ed="#C" n="50"/>sed improprie domus dicitur etiam occupari: ut C. der 
+      <lb ed="#C" n="51"/>ven domum. Vis etiam intervenire debet ablativa non com 
+      <lb ed="#C" n="52"/>pulsiva. nam si aliquo modo etiam tacite deprehendatu 
+      <lb ed="#C" n="53"/>patientis voluntas, cessat haec actio: &amp; plures sunt specie 
+      <lb ed="#C" n="54"/>violentiarum, ut not. sup. de his qui vi, metusve causa fiunt.( 
+      <lb ed="#C" n="55"/>quid vis &amp; §. seq. Item oportet, quod dolo violentia infer¬ 
+      <lb ed="#C" n="56"/>tur: nam si quis rem propriam violenter rapuerit, creden 
+      <lb ed="#C" n="57"/>sibi licere: cessat haec actio, licet mulctetur per constitu. 
+      <lb ed="#C" n="58"/>quis in tantam Instit. eo § sed nedum talia, &amp; praeceden. &amp; jung 
+      <lb ed="#C" n="59"/>quod not. infra de fur. §. quid sit furtum. vers. fraudulosa. vis 
+      <lb ed="#C" n="60"/>nim sine dolo non committitur, sed dolus bene committ 
+      <lb ed="#C" n="61"/>tur sine vi: ut ff. eo. l. 2. § doli. &amp; §. hac actione. Et habet locun 
+      <lb ed="#C" n="62"/>nedum pro pluribus rebus sed etiam pro una modica; u 
+      <lb ed="#C" n="63"/>ff. eo. l. 29. quod ait praetor. Si etiam publicanus pecus meun 
+      <lb ed="#C" n="64"/>abduxerit, dum putat me adversus l vectigalem aliqui¬ 
+      <lb ed="#C" n="65"/>commisisse, &amp; sic moriatur, non tenetur, quamvis errave 
+      <lb ed="#C" n="66"/>rit. Secus, si ideo inclusit, ne pascatur, &amp; ut fame perirent 
+      <lb ed="#C" n="67"/>quia tunc tenetur. ff. eo. l. 2.5 si publicanus
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e333" n="5">
+               <lb ed="#C" n="68"/>Et cui datur. Et certe ei, ex cujus bonis res ri 
+      <lb ed="#C" n="69"/>pta est, licet non esset in bonis, suf 
+      <lb ed="#C" n="70"/>ficit enim, quod intersit non fuisse raptam: puta quia era 
+      <lb ed="#C" n="71"/>ei condemnata, vel locata, vel pignorata: vel deposita, ve 
+      <lb ed="#C" n="72"/>usufructus constitutus in ea, maxime si intersit sua, ean 
+      <lb ed="#C" n="73"/>non fuisse raptam, non ut accipiat dominii aestimationem 
+      <lb ed="#C" n="74"/>Sed hoc solum, quod ex ejus bonis, id est, ex ejus substan 
+      <lb ed="#C" n="75"/>tia, res dicitur ablata cum poena, scilicet triplici: &amp; gene 
+      <lb ed="#C" n="76"/>rale est, quod cui datur actio furti in re subrepta clam, eid 
+      <lb ed="#C" n="77"/>detur in re ablata. at pro re deposita datur actio furti, de 
+      <lb ed="#C" n="78"/>polutatio. si in re deposita culpam admisit, vel pro custodi, 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0721.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>pecuniam recepit, vel se deposito obtulit, utilius tame 
+      <lb ed="#C" n="80"/>dicitur, quod quamvis cesset furti actio, hic tamen con 
+      <lb ed="#C" n="81"/>petat, cum non minima sit differentis inter furem, qu 
+      <lb ed="#C" n="82"/>quantum potest crimen suum celat, &amp; raptorem, qui suur 
+      <lb ed="#C" n="83"/>delictum publicat, ut freo l. 2§. in hac actione
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e374" n="6">
+               <lb ed="#C" n="84"/>Et, contra quem est Contra raptore, &amp; eun 
+      <lb ed="#C" n="85"/>qui ei praebuit opemve 
+      <lb ed="#C" n="86"/>consilium. ut notat. infra de fur. §. contra quem: versicu. dati 
+      <lb ed="#C" n="87"/>etiam. &amp; infra eod. rub. de poena rapt. cor. versic. is autem raptor. 
+      <lb ed="#C" n="88"/>sequent. non tamen videtur teneri furti, qui praestitit o 
+      <lb ed="#C" n="89"/>pem rapinae, ut f. defur cum vendidero. §. cum raptor. In ha 
+      <lb ed="#C" n="90"/>redes vero non datur etiam in eo; quod ad eos pervenit 
+      <lb ed="#C" n="91"/>quia sufficit, quod teneatur condictione furtiva, vel prae 
+      <lb ed="#C" n="92"/>tor non est hanc actionem pollicitus in haeredes, compe 
+      <lb ed="#C" n="93"/>tit tamen secundum naturam aliarum actionum, quae in 
+      <lb ed="#C" n="94"/>surgunt ex maleficio haeredibus autem rapinam passis, 
+      <lb ed="#C" n="95"/>ejus successoribus datur haec actio, ut eo. l. 2. §. ult. Sed se 
+      <lb ed="#C" n="96"/>cundum canones, haeredes tenentur; juxta facultates de 
+      <lb ed="#C" n="97"/>functi, ut infra eo. in literis. quod dic ut nota infra de sepul 
+      <lb ed="#C" n="98"/>quibus interdicatur. Nec est praetermittendum, quod rapto 
+      <lb ed="#C" n="99"/>nedum hac actione, sed rei vendicatione condictione fui 
+      <lb ed="#C" n="100"/>tiva, &amp; actione furti conveniri potest: furti dico non ma 
+      <lb ed="#C" n="101"/>nifesti, nisi in casu, scilic. quando quis ex domo, in qua ne 
+      <lb ed="#C" n="102"/>mo erat, rapuit. tunc enim tenetur ista actione de bonis ra 
+      <lb ed="#C" n="103"/>ptis in quadruplum &amp; furti, nec manifesti actio tollitur, u 
+      <lb ed="#C" n="104"/>f. defur. si quis ex domo. secundum P. Sed secundum Azo 
+      <lb ed="#C" n="105"/>forte tollitur actio furti in facta excommunicatione: pe 
+      <lb ed="#C" n="106"/>hanc actionem non dico quod impediatur nativitas uniu 
+      <lb ed="#C" n="107"/>per alteram, unde si primo agit actione furti, hoc non die 
+      <lb ed="#C" n="108"/>negatur in eo, quod plus est in ea, ut fl. eo. l.i. Potest &amp; illu 
+      <lb ed="#C" n="109"/>dici, raptorem non teneri furti non manifesti, si deprehi 
+      <lb ed="#C" n="110"/>datur in rapina: licet P. dixerit contra, sicut innuit lex pr 
+      <lb ed="#C" n="111"/>dicta si quis ex domo, unde sic potest intelligi quod dicit le¬ 
+      <lb ed="#C" n="112"/>cum raptor omni modo furtum faciat, manifestus fur ae 
+      <lb ed="#C" n="113"/>stimandus est sua publicatione, &amp; ex domini deprehen 
+      <lb ed="#C" n="114"/>sione: &amp; ideo tenetur utraque actione. Sed illum, cujus de 
+      <lb ed="#C" n="115"/>lo raptum est, non teneri furti non manifesti. quia nec es 
+      <lb ed="#C" n="116"/>deprehensus: sed vibo. rap. tenetur: &amp; cur non teneatu 
+      <lb ed="#C" n="117"/>furti non manifesti, cum illud ab initio sit commissum 
+      <lb ed="#C" n="118"/>non video. licet lex videatur dicere contrarium. ff. de furn 
+      <lb ed="#C" n="119"/>cum vendidero. §. cum raptor 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e455" n="7">
+               <lb ed="#C" n="120"/>Intra quod tempus &amp; inquantum. Et qui 
+      <lb ed="#C" n="121"/>dem intra annum tuitilen 
+      <lb ed="#C" n="122"/>datur in quadruplum, in quo quadruplo inest rei pers¬ 
+      <lb ed="#C" n="123"/>cutio, Judaei tamen experiuntur in duplum contra Chri 
+      <lb ed="#C" n="124"/>stianos raptores, ut not. supra quod met. cau. §. qualiter retri 
+      <lb ed="#C" n="125"/>ctetur sub §. puiuntur. resp. I. &amp; sub S. habet autem. &amp; ver. sequ 
+      <lb ed="#C" n="126"/>post annum autem in simplum datur, ut C. eo.tit. l.1. &amp; 2 
+      <lb ed="#C" n="127"/>ult. Utilem annum accipiens 365. dierum, in quibus habe 
+      <lb ed="#C" n="128"/>potestatem experiundi, contra raptorem vel dominun 
+      <lb ed="#C" n="129"/>raptoris: &amp; si cum domino actum sit intra annum, &amp; al 
+      <lb ed="#C" n="130"/>eo exactum, deinde agatur cum manumisso ob excep. rei 
+      <lb ed="#C" n="131"/>jud ut f. eod l.
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e484" n="8">
+               <lb ed="#C" n="132"/>Qualis sit Personalis est ex maleficio, &amp; continet 
+      <lb ed="#C" n="133"/>rei persecutionem &amp; poenae. sed acti¬ 
+      <lb ed="#C" n="134"/>furti continet poenam tantum ut Instit. eod. S quadruplum 
+      <lb ed="#C" n="135"/>Item actio furti semper est perpetua, ut Inst. de perpe. &amp; temp 
+      <lb ed="#C" n="136"/>act. in princ. Item furti actio quandoque datur etiam furti, 
+      <lb ed="#C" n="137"/>ut infra defur. §. cui detur. ver. ex honesta causa sed de hac nor 
+      <lb ed="#C" n="138"/>repetitur, quod raptori detur. Item de furto alii facto quam 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="139"/>ADDITIO 
+      <lb ed="#C" n="140"/>a Quis sit raptor] Raptorum duo esse genera Mart. eod. tii i 
+      <lb ed="#C" n="141"/>Sum. scribit. nempe rerum &amp; hominum, vel foeminarum. Ra 
+      <lb ed="#C" n="142"/>pina autem proprie rerum est, raptus mulierum. Rapina con 
+      <lb ed="#C" n="143"/>mittitur per vim, &amp; violentiam, cum quis res alienas rapit, fi 
+      <lb ed="#C" n="144"/>etiam cum armis unde omnis raptor est fur, sed non conver 
+      <lb ed="#C" n="145"/>titur: quia hullus fur est improbior eo, qui virapit. Insttut a 
+      <lb ed="#C" n="146"/>vi bon. rapt. in prin. Praedonis autem poenam eandem quae ra 
+      <lb ed="#C" n="147"/>ptoris proditum est. arg. 15. qu. 3. sane. Raptor quoque rerun 
+      <lb ed="#C" n="148"/>est clericus, qui videt pauperes indigere, &amp; superflua non tr¬ 
+      <lb ed="#C" n="149"/>buit eis 7 dist. sicut hi Raptores etiam sunt praelati, qui bon¬ 
+      <lb ed="#C" n="150"/>ecclesiastica, quae pauperum sunt, dant meretricibus histrio 
+      <lb ed="#C" n="151"/>nibus consanguineis, &amp; aliis similibus 16 9u1. ca si. Raptori 
+      <lb ed="#C" n="152"/>rerum poena est, secundum Il. intra annum quadruplum, pos 
+      <lb ed="#C" n="153"/>annum in simplum. ff. de vi bon. rapt. Et hoc si civiliter agatur 
+      <lb ed="#C" n="154"/>Si criminaliter poena est exilium, &amp; tertiae partis bonorum 
+      <lb ed="#C" n="155"/>publicatio. fida vi. priva.I.si. Adde doct. in rub. eoti--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0722.xml-->
+      <pb ed="#C" n="705"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>doque reperitur, quod alius agit, non ita in rapina. Itemi 
+      <lb ed="#C" n="2"/>lio rapto licet rapina committatur. ut infr. eod. in archiep¬ 
+      <lb ed="#C" n="3"/>scopata, non tamen aget pater vi bo. rapt. quia filius no 
+      <lb ed="#C" n="4"/>est in bonis, nec exbonis, sed furti experietur, ut Instit. a 
+      <lb ed="#C" n="5"/>oblig quae ex delicti nascuntur. §. interdum potest &amp; illud dici 
+      <lb ed="#C" n="6"/>ut per rapinam etiam modicam creditor cadat a jure cr 
+      <lb ed="#C" n="7"/>diti, non ita forte cadet etiam per furtum magnum; secum 
+      <lb ed="#C" n="8"/>dum Azonem 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e528" n="9">
+               <lb ed="#C" n="9"/>Qua poena teneatur raptor riminalite 
+      <lb ed="#C" n="10"/>accusatus. Et 
+      <lb ed="#C" n="11"/>certe aut quaeris de raptore, sivepraedone rerum, aut cor 
+      <lb ed="#C" n="12"/>porum, nam &amp; corpora quandoque rapiuntur, ut pate 
+      <lb ed="#C" n="13"/>supra in §. quid sit raptor. Generaliter igitur videamus d 
+      <lb ed="#C" n="14"/>poenis inferentis violentiam, subsequenter specialiter d 
+      <lb ed="#C" n="15"/>poena raptorum virginum, sive corporum. Est ergo scien 
+      <lb ed="#C" n="16"/>dum, quod si quis cum armis committat violentiam: se 
+      <lb ed="#C" n="17"/>cundum l. potest I. Ial. de vi pu. accusari, quae locum habe 
+      <lb ed="#C" n="18"/>etiamsi quid fiat quod pro violentia reputetur: puta, qui¬ 
+      <lb ed="#C" n="19"/>arma in domo habuerit causa seditionis, secus, si causa ve 
+      <lb ed="#C" n="20"/>nationis, vel itineris, vel navigationis, vel causa mercimo 
+      <lb ed="#C" n="21"/>nii: vel quia ex haereditate obvenit, habuerit: ut ff. de¬ 
+      <lb ed="#C" n="22"/>pub. I.12. &amp; 3. respon primo. &amp; § primo. Sed quandoque no 
+      <lb ed="#C" n="23"/>punitur violentia: puta, si fiat ad sui defensionem; ut not¬ 
+      <lb ed="#C" n="24"/>supra de restitut spol § quis spoliatus sub §. intelligendum est ai 
+      <lb ed="#C" n="25"/>tem. &amp; versicul. sequent. Alias ille qui est expulsus, cum ali 
+      <lb ed="#C" n="26"/>quid fecerit ad vindictam, vel cum ex intervallo possessio 
+      <lb ed="#C" n="27"/>nem suam recuperaverit, praedonem de ea expellenda 
+      <lb ed="#C" n="28"/>civiliter &amp; criminaliter punitur: ut C. de vi pub. si quis e 
+      <lb ed="#C" n="29"/>Institui. de pub jud §. item lex Iul. de vi. Sed si aliquis inconti 
+      <lb ed="#C" n="30"/>nenti legitime restiterit, culpas omnium delictorum ti 
+      <lb ed="#C" n="31"/>pore violentiae commissorum, sive ex parte aggredientis 
+      <lb ed="#C" n="32"/>sive aggressi aliquis occidatur, in aggredientem consta 
+      <lb ed="#C" n="33"/>redundare debere. ut C. eodem. quoniam multa facinora f 
+      <lb ed="#C" n="34"/>si qua pau. se. dica. l.I. §. cum arietes. Hac autem l. tenetu 
+      <lb ed="#C" n="35"/>pubes cum telo publico ambulans. Et qui pessimo exem 
+      <lb ed="#C" n="36"/>plo convocata seditione villas expugnaverit. Et qui cun 
+      <lb ed="#C" n="37"/>telis &amp; armis bona rapuerit, etiam ex incendio praete 
+      <lb ed="#C" n="38"/>materiam. Et qui puerum vel foeminam, vel quamcui 
+      <lb ed="#C" n="39"/>que pervim stupraverit. Et qui incendio, telo, vel armi 
+      <lb ed="#C" n="40"/>rapiendi causa interfuerit. Vel dominum volentem ri 
+      <lb ed="#C" n="41"/>suas servare prohibuerit. Vel quamvis possessorem de de¬ 
+      <lb ed="#C" n="42"/>mo agrove, suo, aut navi dejecerit, concusserit, expugni 
+      <lb ed="#C" n="43"/>verit. Vel ad hoc faciendum homines commodaveri 
+      <lb ed="#C" n="44"/>Vel hominem dolo malo incluserit, obsederit. Vel hom 
+      <lb ed="#C" n="45"/>nem sepeliri prohibuerit. Vel aliquem sibi per violent 
+      <lb ed="#C" n="46"/>am obligaverit, quamvis obligatio lege rescindatur, ut s 
+      <lb ed="#C" n="47"/>rodem. I z. §. eadem lege, &amp; l. sequen respon. primo. Eadem le 
+      <lb ed="#C" n="48"/>ge tenetur, qui cum imperium potestatemve haberet, ci 
+      <lb ed="#C" n="49"/>vem Romanum adversus provocationem necaverit, &amp; 
+      <lb ed="#C" n="50"/>verberavit, vel hoc fieri jussit. Vel ut extorqueatur, al 
+      <lb ed="#C" n="51"/>quid in collum injecerit. Vel legatos oratores comitesv 
+      <lb ed="#C" n="52"/>pulsaverit, vel injuriam irrogaverit. Vel reum vinctum 
+      <lb ed="#C" n="53"/>Vel alio modo impedierit, quo minus Romae intra ce 
+      <lb ed="#C" n="54"/>tum tempus adsit. Et qui executionem judicii vel pro 
+      <lb ed="#C" n="55"/>nunciationem impedierit. Vel aliter quam major jusse 
+      <lb ed="#C" n="56"/>rit, decreverit, impetrari fecerit. Et qui nova vectigali 
+      <lb ed="#C" n="57"/>exercuerit, ut ff. eodem. I. lege lul. &amp; l. sequent. qui dolo &amp; 
+      <lb ed="#C" n="58"/>ultima. appellatione autem teli omne id cum quo nocei 
+      <lb ed="#C" n="59"/>potest, accipitur. sed licet telum habere causa salutis sua 
+      <lb ed="#C" n="60"/>tuendae ff. eodem armatot &amp; I.hi qui aedes poena autem huju 
+      <lb ed="#C" n="61"/>legis haec est, liberi deportantur, servivero occiduntur, 
+      <lb ed="#C" n="62"/>inscio domino vim commiserint. nam si eo jubente, in 
+      <lb ed="#C" n="63"/>metallum damnantur, ut C. eod servos. Sed ubi homo pul 
+      <lb ed="#C" n="64"/>satus est, verberatus, non tamen occisus, aquae &amp; igni in 
+      <lb ed="#C" n="65"/>terdicitur, ut ff. eodem. qui dolo §. ultim. Si autem violenti: 
+      <lb ed="#C" n="66"/>sine armis commissa sit, tenetur violentus l. Iul. de vi. pri 
+      <lb ed="#C" n="67"/>&amp; ideo privata dicitur quasi simplex, non quod crime¬ 
+      <lb ed="#C" n="68"/>hujus legis sit privatum, imo publicum est, ut ff. depub ju 
+      <lb ed="#C" n="69"/>dic. l. 1. Poena vero hujus legis est tertiae partis bonorun 
+      <lb ed="#C" n="70"/>ademptio, ut C. eodem. tutoris. &amp; amissio dignitatis, &amp; po 
+      <lb ed="#C" n="71"/>na infamiae. Sed ex constitutionibus principum, qui i 
+      <lb ed="#C" n="72"/>naufragio aliquid diripuerit, extraordinarie punitur, u 
+      <lb ed="#C" n="73"/>f. eodem. l. 1. Sed potest dici ex hac l. poenam relegationi 
+      <lb ed="#C" n="74"/>imponi in aliis casibus. argument. f. de termi. amo. l. 2. &amp; C 
+      <lb ed="#C" n="75"/>eodem. quoniam. nisi homicidium occasione violentiae per 
+      <lb ed="#C" n="76"/>petretur, ubi capitalis poena infligitur, ut d. I. quontam 
+      <lb ed="#C" n="77"/>Sed &amp; is qui in itinere rapit cum armis, capite punitur. S 
+      <lb ed="#C" n="78"/>sine armis deportatur, vel in exilium mittitur, ut ff. de pa 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0722.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>nis capitalium S grassatores Sed si in loco privato sine armis 
+      <lb ed="#C" n="80"/>tertia parte bonorum mulctatur, ut dixi, si cum armis, de 
+      <lb ed="#C" n="81"/>portatur, ut Iustitut. de pub. judic. §. uem I. Iul de vi secun 
+      <lb ed="#C" n="82"/>dum dist. quam posui supra ver poena autem tenetur hac l.i 
+      <lb ed="#C" n="83"/>qui teneturI superiori, dummodo sine armis fuerit, ut pa 
+      <lb ed="#C" n="84"/>tet. ff. eod. l. 1. 2. &amp;3. &amp; per totum. &amp; hi qui improbe in ali¬ 
+      <lb ed="#C" n="85"/>nam litem coeunt ut quicquid ex condemnatione in ren 
+      <lb ed="#C" n="86"/>ipsius redactum fuerit, communicetur, ut f eod senatuscon 
+      <lb ed="#C" n="87"/>Sed &amp; is qui res debitoris sui, scilicet non obligatas sibi si 
+      <lb ed="#C" n="88"/>ne authoritate Judicis occupaverit, tertia parte bono 
+      <lb ed="#C" n="89"/>rum mulctatur, &amp; infamis fit, ut f eod. Iult. Si vero obligi 
+      <lb ed="#C" n="90"/>tae erant, jus crediti amittit, ut ff.cod. Ipen. quod metus caus 
+      <lb ed="#C" n="91"/>extat edictum 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e715">
+               <lb ed="#C" n="92"/>De Poenis Raptorum corporum 
+      <lb ed="#C" n="93"/>Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e723">
+               <lb ed="#C" n="94"/>SUMMARIA 
+      <lb ed="#C" n="95"/>i Raptor corporum proprie quis dicatur 
+      <lb ed="#C" n="96"/>Coertio rapinae ad quempertinei 
+      <lb ed="#C" n="97"/>3 Sepultura quare denegetur raptoribus
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e734">
+               <lb ed="#C" n="98"/>EX quo vidimus de poens raptoris re 
+      <lb ed="#C" n="99"/>rum, bene est ut videamus di 
+      <lb ed="#C" n="100"/>poenis raptorum corporum, unde scien 
+      <lb ed="#C" n="101"/>dum est, quod si quis mulierem rapuerit 
+      <lb ed="#C" n="102"/>poenam pati debet, ita demum si mulier ho 
+      <lb ed="#C" n="103"/>nesta erat. Secus, si inhonesta, puta meretrix, qui tu 
+      <lb ed="#C" n="104"/>non tenetur, ut C. de rapi. virg. Iunica. in princ. &amp; ff. de sur. ve 
+      <lb ed="#C" n="105"/>rum est. Illud autem secundum legem non distinguitur: at 
+      <lb ed="#C" n="106"/>mulier volens fuerit, an invita, sponsa propria, an aliena 
+      <lb ed="#C" n="107"/>conjugata, vel non; sed acerbius punitur hoc crimen adul 
+      <lb ed="#C" n="108"/>teri adjectione, ut C. de rap. vir.I.unica § quae multo magis e 
+      <lb ed="#C" n="109"/>§. caeteros. Sed &amp; crimen raptus excedit I. Iulia. de adul pote 
+      <lb ed="#C" n="110"/>statem, ut ff de ri pub. qui coetu. in si. quid dicatur raptus, vid 
+      <lb ed="#C" n="111"/>supra de aduli. §. quid sit stuprum. Committitur autem ra 
+      <lb ed="#C" n="112"/>ptus a nedum in virgine, sed &amp; in vidua &amp; sanctimonia¬ 
+      <lb ed="#C" n="113"/>li. 36 quaest. 2. raptoret. &amp; ca si quis non dicam. Isidorus vero ge 
+      <lb ed="#C" n="114"/>neralius accepit raptum scilicet pro quolibet illicito coi 
+      <lb ed="#C" n="115"/>tu 279. 2c raptus est. sed sicut praemisi, proprie dicitur ra 
+      <lb ed="#C" n="116"/>ptus. Illud est notandum, quod aliud est fornicatio, aliuc 
+      <lb ed="#C" n="117"/>stuprum, aliud adulterium, aliud incestus, aliud raptus, u 
+      <lb ed="#C" n="118"/>patet in his quae no sup de adult, in suis, sed horum omnium 
+      <lb ed="#C" n="119"/>pessimum est. quod contra naturam committitur, quo¬ 
+      <lb ed="#C" n="120"/>execrabiliter fit in meretrice, sed execrabilius in uxore 33 
+      <lb ed="#C" n="121"/>7 adulterii. Sed excedit haec omnia, cum vir nubit in se 
+      <lb ed="#C" n="122"/>minam. C. de adult cum vir. Dicitur ergo raptor praeprie: 
+      <lb ed="#C" n="123"/>tum puella de domo patris abducitur violenter, ut corru 
+      <lb ed="#C" n="124"/>pta in uxorem habeatur: sive puellae tantae: sive parenti 
+      <lb ed="#C" n="125"/>bus, sive utrisque vis inferatur. 369. 1. 5. cam ergo, is auten 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="126"/>ADDITIO 
+      <lb ed="#C" n="127"/>a Committitur autem raptus.) Raptum quoque committi Mal 
+    </p>
+    <p>
+      <lb ed="#C" n="128"/>ubi supra scribit, cum puella violenter a domo patris ducitur 
+      <lb ed="#C" n="129"/>ut corrupta in uxorem, vel in concubinam habeatur, quia ra 
+      <lb ed="#C" n="130"/>ptus committitur, ubi nihil de nuptiis ante agitur, extra e¬ 
+      <lb ed="#C" n="131"/>tu.c. cum cansa. &amp; hoc sive vis illata constiterit puellae solum 
+      <lb ed="#C" n="132"/>modo, sive parentibus tantum, sive utriusque. 36. qu. 1. 9. cun 
+      <lb ed="#C" n="133"/>ergo. Qui deflorat virginem solutam voluntariam, non tene 
+      <lb ed="#C" n="134"/>tur eam ducere uxorem, vel maritare, extra de adn.c.i. (Tu con 
+      <lb ed="#C" n="135"/>gita, propter s. unicam. C. de rapi. vir. quia constat virginem 
+      <lb ed="#C" n="136"/>nolle, nisi seducta fuerit.) Sed si inducta dolo fuerit, poenitem 
+      <lb ed="#C" n="137"/>tia est illi injungenda. Item si Princeps committit judicio ee 
+      <lb ed="#C" n="138"/>clesiastico potestatem puniendi, tales ipse circa mortem, ve 
+      <lb ed="#C" n="139"/>membri mutilationem intromittere se non debet, poteri 
+      <lb ed="#C" n="140"/>tamen jubere, raptore incarcerari vel flagellari, ita tamen 
+      <lb ed="#C" n="141"/>quod in sanguinis vindictam flagella transireminime vide 
+      <lb ed="#C" n="142"/>antur. Poterit etiam tales pecuniaria mulctare poena: morti 
+      <lb ed="#C" n="143"/>vero, ceu membri mutilationem reservare debet regiae po 
+      <lb ed="#C" n="144"/>testati, extra eo. tit. in archiepiscopata. Raptor mulieris secun 
+      <lb ed="#C" n="145"/>dum leges capite plectendus est, &amp; ejus substantia raptae ap 
+      <lb ed="#C" n="146"/>plicanda. debet ergo tales capite truncari. Iunica. C. de rap. v.1 
+      <lb ed="#C" n="147"/>&amp; 369.1. de rapioribus. Secundum canones vero raptor servu 
+      <lb ed="#C" n="148"/>raptae efficitur, nisi se redimere velit. dec de ramoribus. Haec ta 
+      <lb ed="#C" n="149"/>men poena in foro poenitentiali non est infligenda, sed in f9 
+      <lb ed="#C" n="150"/>ro judiciak. Mari--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0723.xml-->
+      <pb ed="#C" n="706"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>raptor capite punitur, nec patitur bonorum diminutio 
+      <lb ed="#C" n="2"/>nem, si rapta ancilla erat, vel libertina. Si vero ingenua, ci 
+      <lb ed="#C" n="3"/>pitali poena raptori imposita ejus bona raptae applicantur 
+      <lb ed="#C" n="4"/>quae tamen hodie amittit, si raptoris consortium eligat, u 
+      <lb ed="#C" n="5"/>mauth. de mulieribus quae propriis rapto nubunt. §. sancimus 
+      <lb ed="#C" n="6"/>col. 9. Haec eadem poena imponitur omnibus qui rapte 
+      <lb ed="#C" n="7"/>rem sunt comitati, Sed qui alias opem praestiterunt, poe 
+      <lb ed="#C" n="8"/>nam subeunt tantummodo capitalem: servi autem &amp; ar 
+      <lb ed="#C" n="9"/>cillae hujus facti culpabiles, comburuntur, &amp; denegatu 
+      <lb ed="#C" n="10"/>condemnato appellandi facultas, ut C. de rap. virg. lI.unica.( 
+      <lb ed="#C" n="11"/>sin autem post commissum, &amp; S &amp; si quidem &amp;S sin autem &amp; 
+      <lb ed="#C" n="12"/>poenas, &amp; §. uli &amp; quorum app. non reci. observare. &amp; in auth. a 
+      <lb ed="#C" n="13"/>rapt. mulic. quae raptorib. nubunt. col. 9. Hoc autem delictun 
+      <lb ed="#C" n="14"/>vindicare possunt parentes raptae, conlanguinei, tutore 
+      <lb ed="#C" n="15"/>curatores, forte &amp; comites eorundem. Idem forte est: 
+      <lb ed="#C" n="16"/>foemina rapuerit virum, quamvis hoc perraro continga 
+      <lb ed="#C" n="17"/>nec potest pater injuriam istam remittere, ut C. eod. Luni 
+      <lb ed="#C" n="18"/>ca. § parentibus quod verum est pretio, sed precibus remi 
+      <lb ed="#C" n="19"/>ti potest ut ff. devi. pub qui coetu. §. qui vacantem. Sed &amp; i 
+      <lb ed="#C" n="20"/>qui puerum ingenuum rapuerit, &amp; inclusum fame, ver 
+      <lb ed="#C" n="21"/>beribusve affecerit, est severissime per Judicem punier 
+      <lb ed="#C" n="22"/>dus, ut ff.devi. pub. I &amp; eum. raptores vero puerorum abu 
+      <lb ed="#C" n="23"/>sionis causa exquisitis poenis capitalibus puniuntur. C. a 
+      <lb ed="#C" n="24"/>adult, cum vir ff de sica. l 3. §. qui libidinis. Canones autem su 
+      <lb ed="#C" n="25"/>pradictam poenam temperant: nam raptor efficitur sel 
+      <lb ed="#C" n="26"/>vus raptae: nisi se velit redimere. 369.i. de rapto. Item debe 
+      <lb ed="#C" n="27"/>cum suis fautoribus excommunicari. 36 q. 2.c. 1. &amp; 4. Sed 8 
+      <lb ed="#C" n="28"/>inter tales, scilicet raptum &amp; raptam, matrimonium ac 
+      <lb ed="#C" n="29"/>mittunt: quamvis parentes contradicant, unde crimen ri 
+      <lb ed="#C" n="30"/>ptus non committitur matrimonio praecedente, &amp; propri 
+      <lb ed="#C" n="31"/>uxor de monasterio rapi potest, &amp; extrahi, ut infra coden 
+      <lb ed="#C" n="32"/>causam quae &amp; cap. ult. quod dic ut notat. supra de masor. 
+      <lb ed="#C" n="33"/>&amp; qualiter impediatur. versicul. raptus, &amp; supra de eo qui c 
+      <lb ed="#C" n="34"/>consangu. uxor. suae §. &amp; quid ruris. versicul. illud nocandum. 
+      <lb ed="#C" n="35"/>seq &amp; supra tit. 1. §. &amp; qualiter puniatur. &amp; quidem secun 
+      <lb ed="#C" n="36"/>dum l. ver. sed secundum can. Sed nunquid si puella cor 
+      <lb ed="#C" n="37"/>trahat matrimonium cum raptore perdet substantiam ri 
+      <lb ed="#C" n="38"/>ptoris sibi datam a lege, sicut expressim legitur auth. de ra 
+      <lb ed="#C" n="39"/>mu, colo. dicas quod non, &amp; asseras, quod lex illa abrogat. 
+      <lb ed="#C" n="40"/>est hodie per canones, &amp; quo ad interdictionem matr¬ 
+      <lb ed="#C" n="41"/>monii, &amp; quo ad poenam contracti. secundum Goff. sicu 
+      <lb ed="#C" n="42"/>not. supra, de simili materia sup. de sec. nupt. §. 
+      <lb ed="#C" n="43"/>N summa not.? quod coertio rapinae pertinet ad jud 
+      <lb ed="#C" n="44"/>cem, intra cujus dioecesim commissa est: quamvis alium 
+      <lb ed="#C" n="45"/>de venerit, &amp; ibidem remittendus est, si recedat, nec pri 
+      <lb ed="#C" n="46"/>prius episcopus debet eum recipere ad divina, ex quo ad 
+      <lb ed="#C" n="47"/>monitus est per eum intra cujus dioecesin deliquit, que 
+      <lb ed="#C" n="48"/>usque ibidem redierit. &amp; plene cuncta emendaverit, u 
+      <lb ed="#C" n="49"/>inf. eod c. i. &amp; infra de verb. sign. ex parte. &amp; sic ratione delict 
+      <lb ed="#C" n="50"/>sortitur quis forum infra de sent. excom. a nobis. 6qui 3. placui 
+      <lb ed="#C" n="51"/>quod dicut not. supra de fo comp. §. quibus ex causis versic. ater 
+      <lb ed="#C" n="52"/>ratione delicti. Potest etiam cohabitatio rapinae corpo 
+      <lb ed="#C" n="53"/>rum Episcopis delegari a principibus, qui episcopi, cun 
+      <lb ed="#C" n="54"/>non possint infligere poenam sanguinis. 23. q. 8. his a quibu 
+      <lb ed="#C" n="55"/>supra ne cle. vel mo. sententiam. poterunt poenam legalem in 
+      <lb ed="#C" n="56"/>pecuniariam commutare, vel citra effusionem sanguini 
+      <lb ed="#C" n="57"/>fustigare, scilicet si non accusantur. Sed si accusarentur 
+      <lb ed="#C" n="58"/>tunc non possunt poenam diminuere. &amp; ideo debent Te 
+      <lb ed="#C" n="59"/>servare vindictam regiae potestati, sic intellige infr. eod ar 
+      <lb ed="#C" n="60"/>ehiepiscopatu sic i4 qu. 6 c. 2.12.qu. 2 fratemitas supra de Iudae. p. 
+      <lb ed="#C" n="61"/>stulasti. quando igitur quis accusatur, poena ordinaria in 
+      <lb ed="#C" n="62"/>ponitur, non mollior, nec durior, C. ne san. ba rei I3. &amp; sic ir 
+      <lb ed="#C" n="63"/>telligas supra de jud. at si clerici §. 1. si certa inveniatur, vel ai 
+      <lb ed="#C" n="64"/>bitraria aequitate pensata imponitur. ut sup. de offic. delea. a 
+      <lb ed="#C" n="65"/>causis: sed si ex officio proceditur, potest imponi mollio 
+      <lb ed="#C" n="66"/>vel durior, prout judici videbitur: secundum hoc intell 
+      <lb ed="#C" n="67"/>ge. episcopum dispensare posse, ut not. supra de jud atsi cl 
+      <lb ed="#C" n="68"/>rici §. ult &amp; secundum hoc intellige ffidehis, qui no infa qui 
+      <lb ed="#C" n="69"/>ἔτgo § poena gravior. &amp; C. ex quibus cau. infa. irro. &amp; si severio 
+      <lb ed="#C" n="70"/>Sed crimine crescente, debet majorem imponere ad te 
+      <lb ed="#C" n="71"/>rorem, &amp; propter scandalum imponere minorem, &amp; sev¬ 
+      <lb ed="#C" n="72"/>ritati detrahere, ut supra de transact c fi. &amp; de coha. cle &amp; mul 
+      <lb ed="#C" n="73"/>clericos. &amp; f de poen. auifacta. &amp; C. ad legem Iuli. repetun. l.i.d 
+      <lb ed="#C" n="74"/>hactamen materia dic ut plene supra de accu. §. quis sit eff¬ 
+      <lb ed="#C" n="75"/>tau riiponI &amp; per sequeni: Item secundum canones. poen 
+      <lb ed="#C" n="76"/>raptoris est, ut excommunicetur ab illo episcopo, in cu 
+      <lb ed="#C" n="77"/>ju dae eli deliquit. ut no sup eo §. respon. l. &amp; habes, infi co¬ 
+      <lb ed="#C" n="78"/>2i aeTaomo nitus in vita velin morte emendare noluerit. 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0723.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>vel emendandi firmam &amp; plenam securitatem praebere 
+      <lb ed="#C" n="80"/>cum hoc facere possit ei poenitentia denegatur, dum viv 
+      <lb ed="#C" n="81"/>in hoc peccato, ut infra eo. super eo. respon. 1. Denegatur au 
+      <lb ed="#C" n="82"/>tem poenitentia secundum quosdam generaliter tamd 
+      <lb ed="#C" n="83"/>isto peccato, quam de aliis, quia &amp; si de aliis daretur, no¬ 
+      <lb ed="#C" n="84"/>esset fructuosa, quod dicas verum esse, quo ad poenama 
+      <lb ed="#C" n="85"/>ternam vitandam: valet tamen quo ad minus suppliciur 
+      <lb ed="#C" n="86"/>tolerandum, ut de pan distin g. §. ultim. &amp; cap. ult &amp; ideo di 
+      <lb ed="#C" n="87"/>poenitentiam dandam de aliis, sive consilium. Sed de ist 
+      <lb ed="#C" n="88"/>denegatur, ex quo non vult satisfacere cum posset. sic a 
+      <lb ed="#C" n="89"/>quaestio 6, cognovimus, &amp; de poen. distin. 3. sunt quidam. &amp; infr 
+      <lb ed="#C" n="90"/>de pen quod quidam. Sed si non posset satisfacere: non de 
+      <lb ed="#C" n="91"/>negatur, dummodo promitteret se emendare, si perven 
+      <lb ed="#C" n="92"/>ret ad pinguiorem fortunam, cum actio inanis esset, ut no 
+      <lb ed="#C" n="93"/>supra de solu. §. quis sit ejus effectus &amp; infra de poeni §. quibus e 
+      <lb ed="#C" n="94"/>qualiter. sub 9 quid de rapina. &amp; sub §. de praedam ementibus, e 
+      <lb ed="#C" n="95"/>sub §. quae sit forma. Licet autem in vita sua renuerit sati¬ 
+      <lb ed="#C" n="96"/>facere, &amp; semper contumax apparuerit, in morte tame 
+      <lb ed="#C" n="97"/>non negatur ecclesiastica sepultura, nec poenitentia, dum 
+      <lb ed="#C" n="98"/>modo juxta formam ecclesiae fuerit absolutus, &amp; satisfe 
+      <lb ed="#C" n="99"/>cerit, vel idoneam securitatem praebuerit, ut infra eo. supe 
+      <lb ed="#C" n="100"/>eo. §. 1. Quod si in morte contritus fuerit: sed emendare ne 
+      <lb ed="#C" n="101"/>quiverit, cum in vita potuisset, quamvis eidem poeniten 
+      <lb ed="#C" n="102"/>tia parum prosit, scilicet quo ad poenam temporalem qua 
+      <lb ed="#C" n="103"/>non remittitur, nisi per satisfactionem, infernalis enim si 
+      <lb ed="#C" n="104"/>ve aeterna, sola contritione aboletur, &amp; pro qualibet pec 
+      <lb ed="#C" n="105"/>cato haec duplex poena debetur, de poenit. dist.in prm. 269.. 
+      <lb ed="#C" n="106"/>cognovimus. 23. qu s. quid ergo &amp; ideo quia contritus est, viati 
+      <lb ed="#C" n="107"/>cum non negatur, per consequens nec poenitentia. 26. 94 
+      <lb ed="#C" n="108"/>si quis de quocunque 5o. dist poenitentes. inf. de poenit. quod intere 
+      <lb ed="#C" n="109"/>Si quaeras quare denegatur sepultura: cum viaticum, 
+      <lb ed="#C" n="110"/>quod est majus omnibus sacramentis, concedatur. de cor 
+      <lb ed="#C" n="111"/>se. dist. 2. nihil respon.i. Hoc ad terrorem &amp; propter inobedi 
+      <lb ed="#C" n="112"/>entiam, &amp; contumaciam suam, in qua longo tempore fuit 
+      <lb ed="#C" n="113"/>quia hoc considerandum puto secundum ea, quae not suj 
+      <lb ed="#C" n="114"/>de haer. §. qualiter deprehendatur. versi sin autem sola, &amp; ver erz 
+      <lb ed="#C" n="115"/>solae prae sumptiones. &amp; argum supra de homi. sicut dignum! 
+      <lb ed="#C" n="116"/>penult. ideo non debent clerici sepulturae talis interesse 
+      <lb ed="#C" n="117"/>nec eleemosynas ejus sive oblationes accipere, ut nifra e 
+      <lb ed="#C" n="118"/>super eodem § quod autem sic supra de tornea caa infra de usi 
+      <lb ed="#C" n="119"/>quia omnib. 22. quae. 4. minor 33. qu. 2 latorem. Sivero super ho¬ 
+      <lb ed="#C" n="120"/>nunquam fuerit admonitus, vel fuerit, sed modico tem 
+      <lb ed="#C" n="121"/>pore contumax stetit absolutus, per proprium sacerdot 
+      <lb ed="#C" n="122"/>erit sepeliendus, &amp; haeredes cogendi per censuram eccle 
+      <lb ed="#C" n="123"/>siasticam, vel juxta facultates defuncti satisfacere his, qui 
+      <lb ed="#C" n="124"/>bus defunctus damnum dederat, vel injuriam irrogave 
+      <lb ed="#C" n="125"/>rat, ut infra eod ex literis. &amp; not. supra de sepul. §. quibus inter 
+      <lb ed="#C" n="126"/>dicatur. versi item haec locum habent. Clerici autem, qui con 
+      <lb ed="#C" n="127"/>tumacibus in vita poenitentiam dederint, vel poenitente 
+      <lb ed="#C" n="128"/>in morte, qui diu steterant contumaces, &amp; nunc erant in 
+      <lb ed="#C" n="129"/>opes: saepelierint, vel eleemosynas receperint, vel rapinam 
+      <lb ed="#C" n="130"/>ejus participaverint, beneficio ecclesiastico careant. &amp; or 
+      <lb ed="#C" n="131"/>dinis sui damnum irrecuperabiliter patiantur. ut inf. e. supe 
+      <lb ed="#C" n="132"/>eo. §. ul. Gof. vero sic diversificat haec jura. dixit enim, quod 
+      <lb ed="#C" n="133"/>si raptor satisfacere nolit, cum possit, vel emendandi ple 
+      <lb ed="#C" n="134"/>nam securitatem praestare, denegatur ei beneficium poe 
+      <lb ed="#C" n="135"/>nitentiae Si vero usque ad obitum in obstinatione perdu¬ 
+      <lb ed="#C" n="136"/>raverit, &amp; tunc emendationem vel emendandi securita 
+      <lb ed="#C" n="137"/>tem praebuerit, poenitentia &amp; sepultura ecclesiastica con 
+      <lb ed="#C" n="138"/>ceduntur. Sed si in morte satisfacere non possit: contrite 
+      <lb ed="#C" n="139"/>viaticum conceditur, sed sepultura denegatur. infra eod 
+      <lb ed="#C" n="140"/>super eo. Si vero in morte constitutus satisfacere promittit 
+      <lb ed="#C" n="141"/>si convalescat, &amp; ante satisfactionem decesserit, non nega 
+      <lb ed="#C" n="142"/>bitur sepultura: sed ad satisfactionem haeredes compel 
+      <lb ed="#C" n="143"/>lentur, nf. eo. ex literis. secundum Goff. tu dic ut no. supra 
+      <lb ed="#C" n="144"/>Sed &amp; si quis Romanos &amp; alios Christianos, pro negocia 
+      <lb ed="#C" n="145"/>tione, vel aliis honestis causis navigio vectos, aut corpore 
+      <lb ed="#C" n="146"/>aut rebus suis spoliare praesumpserit, excominunication 
+      <lb ed="#C" n="147"/>subdatur, id est, subditus sit ipso jure, si monitus non satis 
+      <lb ed="#C" n="148"/>fecerit, ut infra eo. excominunicationi respon.i. quem subau 
+      <lb ed="#C" n="149"/>dio per §. seq. &amp; vide circa hoc quod no. supra de treug &amp; pe¬ 
+      <lb ed="#C" n="150"/>§. quod sint species. versi. item canonica &amp; de peregrinantibus. §. a 
+      <lb ed="#C" n="151"/>quo privilegi 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1137">
+               <lb ed="#C" n="152"/>De Incendiariis. Rubrica. 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1142">
+               <lb ed="#C" n="153"/>SUMMARIA 
+      <lb ed="#C" n="154"/>Incendium quid su 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0724.xml-->
+      <pb ed="#C" n="707"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>2 Ruina quid fa 
+      <lb ed="#C" n="2"/>Naufragium quid si 
+      <lb ed="#C" n="3"/>4 Diripiens aliquid ex incendio, ruina, pel naufragio, qua actio 
+      <lb ed="#C" n="4"/>ne teneatur. Et qua poena.? 
+      <lb ed="#C" n="5"/>5 Actio in factum de incendio, ruina, &amp; naufragio, cui detur. E 
+      <lb ed="#C" n="6"/>contra quem. 6. Et inquantum. 7 
+      <lb ed="#C" n="7"/>9 Incendiarius qua paena teneatur 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1171">
+               <lb ed="#C" n="8"/>IN hac secunda parte tituli jungendum 
+      <lb ed="#C" n="9"/>est de ruina, &amp; naufragio, hic vi 
+      <lb ed="#C" n="10"/>dendum est, Quid sit incendium, Quid ruina 
+      <lb ed="#C" n="11"/>Quid naufragium, Qua actione teneatur is 
+      <lb ed="#C" n="12"/>qui ex his aliquid diripuerit, Cui detur, Contra quem, E 
+      <lb ed="#C" n="13"/>inquantum, Qua poena tales afficiantur. Et qua poena in 
+      <lb ed="#C" n="14"/>cendiarius teneatur 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1189" n="1">
+               <lb ed="#C" n="15"/>Quid sit incendium Et quidem propri 
+      <lb ed="#C" n="16"/>incensus, sive accensu 
+      <lb ed="#C" n="17"/>aedium. unde incendiarius est, qui domum, vel horreun 
+      <lb ed="#C" n="18"/>alicujus incendit, absque jussu ejus qui habet potestaten 
+      <lb ed="#C" n="19"/>indicendi bellum. super quo vide quod notat. sup. de treus 
+      <lb ed="#C" n="20"/>&amp; pac. §. quid sit justum bellum. Incendium igitur propri 
+      <lb ed="#C" n="21"/>committitur in domibus grangiis &amp; si puta, omnibus 
+      <lb ed="#C" n="22"/>praediis urbanis, &amp; suburbanis. Sed si in rusticis ponatu 
+      <lb ed="#C" n="23"/>ignis dicitur combustio, ut ff.eodem.l.t.attamen promiscu 
+      <lb ed="#C" n="24"/>videtur his verbis utendum esse, ut ff eodem. qui aedes Fiun 
+      <lb ed="#C" n="25"/>autem incendia plerunque culpa inhabitantium, b utf 
+      <lb ed="#C" n="26"/>de offic. praefect. vigilum nam salutem respons.i.ibi, &amp; quia ple 
+      <lb ed="#C" n="27"/>runque, &amp;c. aliquando autem aliud contingit, casu for 
+      <lb ed="#C" n="28"/>tuito, ita quod nihil imputari potest, ut f eod. Ipen. aliquan 
+      <lb ed="#C" n="29"/>do vero dolo malo data opera. Ideoque incendiarius est 
+      <lb ed="#C" n="30"/>qui domos alienas, arbores, vel segetes incendit, igne ap 
+      <lb ed="#C" n="31"/>posito, ex odio vel vindicta, 129. 2. cum devotissimam. 23. q. 8 
+      <lb ed="#C" n="32"/>Phonan 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1232" n="2">
+               <lb ed="#C" n="33"/>Quid ruina. Et quidam casus domorum siv 
+      <lb ed="#C" n="34"/>parietum, quae vi, &amp; plerunque ca 
+      <lb ed="#C" n="35"/>su contingit propter materiae vitium, plerunque fit seri¬ 
+      <lb ed="#C" n="36"/>bona fide: causa reaedificationis, plerunque dolo mal¬ 
+      <lb ed="#C" n="37"/>causa destructionis: &amp; plerunque bona fide causa vindi 
+      <lb ed="#C" n="38"/>ctae puta si aedes alicujus delinquentis ad praeceptum ju 
+      <lb ed="#C" n="39"/>dicis diruantur 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1250" n="3">
+               <lb ed="#C" n="40"/>Quid naufragium Et quidem nare fract. 
+      <lb ed="#C" n="41"/>submersio rerum, &amp; co¬ 
+      <lb ed="#C" n="42"/>porum, quod plerunque contingit casu fortuito, put 
+      <lb ed="#C" n="43"/>propter vim tempestatis, vel fulminis, ut ff. ad legem Rho 
+      <lb ed="#C" n="44"/>diam, de jactu. de precario. alias dominus Imperator. lex es 
+      <lb ed="#C" n="45"/>Graeca &amp; per totum: aliquando dolo malo a piratis, &amp; si 
+      <lb ed="#C" n="46"/>de quibus legitur supra de Iudae ita quorundam. &amp; infra d 
+      <lb ed="#C" n="47"/>poen quod in dubiis aliquando a piscatoribus lumen osten 
+      <lb ed="#C" n="48"/>dentibus, ut navigantes in periculum fallant, quasi in por 
+      <lb ed="#C" n="49"/>tum aliquem delaturi, &amp; sic navigantes in periculum de 
+      <lb ed="#C" n="50"/>ducant, &amp; sibi execrandam praedam acquirant, quod de 
+      <lb ed="#C" n="51"/>bet religiosa constantia praesidis provinciae evitare, ut fi 
+      <lb ed="#C" n="52"/>eo ne piscatore 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1281" n="4">
+               <lb ed="#C" n="53"/>Qua actione teneatur is qui exhis liqui 
+      <lb ed="#C" n="54"/>diripuerit. Action 
+      <lb ed="#C" n="55"/>in factum ex edicto de incendio, ruina, &amp; naufraugio, u 
+      <lb ed="#C" n="56"/>F. eod. l. 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1292" n="5">
+               <lb ed="#C" n="57"/>Cui detur Et certe damnum passo. ut f eod l. 
+      <lb ed="#C" n="58"/>&amp; haeredi suo, ut feodem l. 3. infi. &amp; in 
+      <lb ed="#C" n="59"/>cipit in aliquibus libris, Pedius, &amp; in aliis libris, Maevius 
+      <lb ed="#C" n="60"/>Sed &amp; hi qui misera fortuna naufragorum aliquid rapue 
+      <lb ed="#C" n="61"/>rint, vel lucrati fuerint dolo malo, inquantum edicto prae 
+      <lb ed="#C" n="62"/>toris accusatio datur, intantum etiam fisco sunt astricti, u 
+      <lb ed="#C" n="63"/>ff. eod. quo naufragium. in 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1310" n="6">
+               <lb ed="#C" n="64"/>Contra quem Contra illum, qui ex incendio 
+      <lb ed="#C" n="65"/>ruina naufragio rate, navequ 
+      <lb ed="#C" n="66"/>expugnata aliquid rapuisse: recipisse dolo malo, damni 
+      <lb ed="#C" n="67"/>vel quid meis rebus dedisse dicetur subaudi, &amp; conrince 
+      <lb ed="#C" n="68"/>tur, ut ff. eod. l. in princ. sic non sufficit aliquid dicere, nis 
+      <lb ed="#C" n="69"/>c probetur, supra de concess. praebend. cum super. &amp; ca. ex par 
+      <lb ed="#C" n="70"/>te. &amp; de his quae fiunt a major. par, capit. cap. 1. ff. de procur. qui 
+      <lb ed="#C" n="71"/>omnia. &amp; quamvis exhis causis criminales actiones com 
+      <lb ed="#C" n="72"/>petant, ut mfra eodem §. qua poena, tamen recte fecit pra 
+      <lb ed="#C" n="73"/>tor, qui &amp; forenses, id est, civiles actiones concessit, qui 
+      <lb ed="#C" n="74"/>ex his causis publice interest, vel rapi. ut f. eod l.a. §. . Ex in 
+      <lb ed="#C" n="75"/>cendio raptum accipere debemus, sive in loco, in quo in 
+      <lb ed="#C" n="76"/>gendium factum est, rapiatur, sive in adjacentibus praedii 
+      <lb ed="#C" n="77"/>syfficit enim, quod causa incendii propter tumultum, ve 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0724.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>trepidationem raptum sit, quemadmodum solemus dice 
+      <lb ed="#C" n="79"/>re in bello amissum, quod occasione belli amissum est, u 
+      <lb ed="#C" n="80"/>ff. eod. l. 1.§. ex incendio. Idem in ruina, ut ead. l. §. item ruinae 
+      <lb ed="#C" n="81"/>Sed &amp; illud videtur ex naufragio raptum, quo ipso nau 
+      <lb ed="#C" n="82"/>fragio durante, raptum est: nam &amp; si post naufragium, sci 
+      <lb ed="#C" n="83"/>licet ex magno intervallo raptum esset, non habet locum 
+      <lb ed="#C" n="84"/>ista actio. Sed potius delinquens furti astringeretur, ve 
+      <lb ed="#C" n="85"/>vibo. rapt. sicut &amp; is, qui rem alio loco repositam subtra 
+      <lb ed="#C" n="86"/>xit, vel rapuit, de nave autem vel rate expugnata, idem in 
+      <lb ed="#C" n="87"/>terpretamur. expugnatur autem navis, cum spoliatur 
+      <lb ed="#C" n="88"/>aut mergitur, aut dissolvitur, aut pertunditur, id est, per 
+      <lb ed="#C" n="89"/>foratur, aut funes ejus praeciduntur, aut vela, aut anchor 
+      <lb ed="#C" n="90"/>involvuntur, seu involvantur de mari. ut ff. eo.l. .§. ult. &amp; 
+      <lb ed="#C" n="91"/>2. &amp; 3. respon.i. &amp;I si quis ex naufragio &amp; l. sequent Secundum 
+      <lb ed="#C" n="92"/>hoc intellige, quod qui accipit res ex naufragio, commit¬ 
+      <lb ed="#C" n="93"/>tit furtum. ff de acqeui. re.do qua actio. in si &amp; C.de fur. in eod. Ac 
+      <lb ed="#C" n="94"/>hoc autem, ut hoc edictum locum habeat, necesse est, quoc 
+      <lb ed="#C" n="95"/>incendium, ruina, vel naufragium, in veritate factum sit 
+      <lb ed="#C" n="96"/>suspicio enim non prodesset, ut ff. eod l. 1.§ si suspicio. simile 
+      <lb ed="#C" n="97"/>quot metus cau. metum. 2. respons.i. &amp; devi &amp; vi armata. l. 3 
+      <lb ed="#C" n="98"/>§. si quis autem visis: nedum autem is tenetur, qui ex na 
+      <lb ed="#C" n="99"/>ve vel rate expugnata aliquid rapit, vel expugnat immo 
+      <lb ed="#C" n="100"/>&amp; is qui aliis expugnantibus rapuit, ut ff. eod. l. 3. §. deinde 
+      <lb ed="#C" n="101"/>Cum autem is demum teneatur, qui dolo malo occupat 
+      <lb ed="#C" n="102"/>patet quod si hoc facit ideo, ut vero domino eam reservet 
+      <lb ed="#C" n="103"/>vel si ignarus hoc fecit, non tenetur hoc edicto, ut ffeodl 
+      <lb ed="#C" n="104"/>35. sed etenim additum est. sicut notat. supra de accus sub rub 
+      <lb ed="#C" n="105"/>de inquisitio. §. &amp; qualiter. versicul. vel jurant, quo ad inter 
+      <lb ed="#C" n="106"/>rogata. unde &amp; cuilibet licet ex naufragio res propria 
+      <lb ed="#C" n="107"/>recolligere, quia dolo caret, ut ff eodem. I.ult respon i. Igno 
+      <lb ed="#C" n="108"/>rantia autem excusat, ut dixi, nisi luxuriae, aut dolo sit 
+      <lb ed="#C" n="109"/>proxima, ut ff. eodem. I penultim. Sed &amp; ex hoc procedit 
+      <lb ed="#C" n="110"/>quod si defendendi meicausa vicini aedificium, incendio 
+      <lb ed="#C" n="111"/>orto dissipaverim, non teneor sibi. &amp; ideo Ulpianus re 
+      <lb ed="#C" n="112"/>probat Labeonem, qui ait in hoc casu &amp; meo nomine, &amp; 
+      <lb ed="#C" n="113"/>familiae judicium dandum, ut ff. eod. l. 3. §. quod ait praetor 
+      <lb ed="#C" n="114"/>Vel dic Labeonis sententiam veram, ubi justus non fuit 
+      <lb ed="#C" n="115"/>metus, puta quia adhuc non pervenerat ignis usque ad do 
+      <lb ed="#C" n="116"/>mum vicini quam destruxi: tunc enim teneor in simplun 
+      <lb ed="#C" n="117"/>actione. Aquiliae. Sed si pervenerat vel juste dubitabam, ar 
+      <lb ed="#C" n="118"/>perveniret, quia forte tempus ventosum erat, habet locum 
+      <lb ed="#C" n="119"/>quod Ulpianus dixit: neque enim dare videor aeque peri 
+      <lb ed="#C" n="120"/>turis aedibus. ut ff. quod vi aut clam. si alius §. est &amp; alia exce 
+      <lb ed="#C" n="121"/>ptio. Quamvis etiam non pervenerat, juste tamen puta 
+      <lb ed="#C" n="122"/>bam ignem perventurum: adhuc cessat actio, sic intelligi 
+      <lb ed="#C" n="123"/>tur ff ad leg. Aquiliam, si quis fumo. §. quod dicitur. Sic &amp; par 
+      <lb ed="#C" n="124"/>citur ei, qui gratia mercium suarum servandarum aliena 
+      <lb ed="#C" n="125"/>projecit in mare, ut ff. de praescript. versicul. qui servandarum 
+      <lb ed="#C" n="126"/>respons. primo. Sed nunquid a vicinitate debet emendar 
+      <lb ed="#C" n="127"/>domus vicini? in praecedenti casu de summa aequitate 
+      <lb ed="#C" n="128"/>consulo judici ut hoc officio suo fieri faciat, ar ff ad l. Rhod 
+      <lb ed="#C" n="129"/>de jac l. prima. §. aequissimum. &amp; qui po. in pigno ha interdum 
+      <lb ed="#C" n="130"/>&amp; I. sequent. &amp; ff. eodem. ne quid &amp; junge quod notatur inj 
+      <lb ed="#C" n="131"/>eodem. versicul illud autem. &amp; sequent. Non solum teneturi 
+      <lb ed="#C" n="132"/>qui rapuit, sed &amp; is qui recepit: receptores enim non mi 
+      <lb ed="#C" n="133"/>nus puniuntur, quam aggressores, quia nec minus delin 
+      <lb ed="#C" n="134"/>quunt: datur haec actio contra illum qui rapuit, scilicet vi 
+      <lb ed="#C" n="135"/>&amp; datur contra illum qui amovit scilicet sine vi, qui etian 
+      <lb ed="#C" n="136"/>ex ejecta nave vi forte ventorum aliquid rapuerit, hoc e 
+      <lb ed="#C" n="137"/>dicto tenetur, ut ff. eod. l. 3. § non tamen §. non solum. &amp; §. qu 
+      <lb ed="#C" n="138"/>ejecta. Si tamen ratis tua vi fluminis in agrum meum dela 
+      <lb ed="#C" n="139"/>ta sit, non aliter cogor tibi dare potestatem extrahendi, ni 
+      <lb ed="#C" n="140"/>si &amp; de praeterito damno mihi caveas, ut ff. eodem ratis. f 
+      <lb ed="#C" n="141"/>ad exhipend. Celsus. §. sed si ratis. &amp; de damno infect. praetor 
+      <lb ed="#C" n="142"/>ait. §. hoc edictum. &amp; I. hoc amplius. §. Neratius. Illud au 
+      <lb ed="#C" n="143"/>tem est notatu dignum, quod si non inveniatur, is, qu 
+      <lb ed="#C" n="144"/>rapuit res ex naufragio: hi qui juxta littora maris. in quo 
+      <lb ed="#C" n="145"/>navis infixa vel fracta fuerit intra fines agitur, cujusque 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="146"/>ADDITIONES. 
+      <lb ed="#C" n="147"/>a QId sit incendium.] Adde do. in rub eoti: 
+      <lb ed="#C" n="148"/>b Culpa inhabitantium] Adde l. vendita st. de pericu. &amp; commo 
+    </p>
+    <p>
+      <lb ed="#C" n="149"/>rei ven Cy. &amp; Saly. in I.data eptra. C. qui accu. non poss Bat in l¬ 
+      <lb ed="#C" n="150"/>quis ex argentariis. in §. praetor. ff. de eden 
+      <lb ed="#C" n="151"/>s Quid naufragium] Adde an invadentes res naufragii, sint 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>ipso jure excommunicati. vide per Card. Alex.ncap sin. in pri 
+      <lb ed="#C" n="153"/>2.distin--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0725.xml-->
+      <pb ed="#C" n="708"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>praedia possident, sive moratur, ex edicto divi Adriani te 
+      <lb ed="#C" n="2"/>nentur, &amp; a praesidibus condemnari debent, damnum pa 
+      <lb ed="#C" n="3"/>sis, &amp; sic possessores territorii, quamvis etiam nihil rapu¬ 
+      <lb ed="#C" n="4"/>rint, &amp; in omni eo quod damnum passi sibi naufragio ac 
+      <lb ed="#C" n="5"/>emptum probaverint, condemnentur. De his etiam quo 
+      <lb ed="#C" n="6"/>aliquid diripuisse, probatum fuerit, &amp; de latronibus ju 
+      <lb ed="#C" n="7"/>dicetur, sive gravis sententia. Et ut facilius probatio hu 
+      <lb ed="#C" n="8"/>jus admittatur, permittit damnum passis adire praefecto 
+      <lb ed="#C" n="9"/>&amp; coram testibus nunciare, eosque reos paetere, ut pr 
+      <lb ed="#C" n="10"/>modo culpae sint vincti, vel sub fidejussoribus ad praes 
+      <lb ed="#C" n="11"/>dem transmittantur. A domino quoque possessionis, in 
+      <lb ed="#C" n="12"/>qua hoc admissum est, fidejussores exiguntur, ne judici 
+      <lb ed="#C" n="13"/>fugiat. Nullus autem miles vel privatus, liber vel servui 
+      <lb ed="#C" n="14"/>etiam principis debet intervenire naufragiis colligendi 
+      <lb ed="#C" n="15"/>ut ff. eod ne quid ex naufragiis, &amp; C. de naufrag. l.i.lib. n. &amp; cor 
+      <lb ed="#C" n="16"/>cor. C de fide instrum judices. &amp; haere quoniaem multi Quare a 
+      <lb ed="#C" n="17"/>tem possessores hiteneantur, est ratio naturalis: quia si 
+      <lb ed="#C" n="18"/>debent custodire territoria, ne etiam ab extraneis ibi al 
+      <lb ed="#C" n="19"/>quid diripiatur. Invigilent ergo, &amp; ponant custodes, n 
+      <lb ed="#C" n="20"/>detrimentum idem patiantur, secundum quod legitur 
+      <lb ed="#C" n="21"/>de offic praefect. vigilum.l.i.2. &amp; 3. Sic &amp; tenetur dominus pos 
+      <lb ed="#C" n="22"/>sessionis, in qua falsa moneta conflata est, si tempore, qu¬ 
+      <lb ed="#C" n="23"/>cudebatur, praesens erat, non obstante quod dicat se igno 
+      <lb ed="#C" n="24"/>rasse, ut C. de fal. ano. l. 1. §. 1. Sic &amp; si de ruina aliquid in tua 
+      <lb ed="#C" n="25"/>aedes ceciderit, tenebris ad exhibendum, licet non poss 
+      <lb ed="#C" n="26"/>deas, ut f. de exhiben Celsut. § sed si ratis. in fin. Est &amp; alia ra 
+      <lb ed="#C" n="27"/>tio, quia non est praesumendum, quod ipsi ignoraverini 
+      <lb ed="#C" n="28"/>vel quod extranei hoc fecerint: arg supra de praesump quae 
+      <lb ed="#C" n="29"/>to, &amp;c. quosdam, &amp; depostu.ca.1. &amp; 15. 9.1. quod dicit ffe de qua 
+      <lb ed="#C" n="30"/>stio de minore. in fine. Et cum incertum sit, quis de vicinis, 
+      <lb ed="#C" n="31"/>ve compatriotis hoc fecerit, quia quilibet negat se ho 
+      <lb ed="#C" n="32"/>scelus commisisse, nec potest probari, quia nec fures ac 
+      <lb ed="#C" n="33"/>ducunt secum testes, per quos convincantur. Sed certi 
+      <lb ed="#C" n="34"/>indiciis convincuntur, ut ffidere milis. I non omnis. §. a barba 
+      <lb ed="#C" n="35"/>ris: ratione incertitudinis omnes tenentur ex summa a 
+      <lb ed="#C" n="36"/>quitate, sicut not. simile supra de homi. §. qua poena, rersic. se 
+      <lb ed="#C" n="37"/>nunquid omnes hi &amp; seq &amp; supra cod, ver. sed nunquid Est &amp; 
+      <lb ed="#C" n="38"/>lia ratio naturalis, quia multi celarent vicinos suos: si nul 
+      <lb ed="#C" n="39"/>lam poe iam aliam paterentur: qui si viderint, quod ipso 
+      <lb ed="#C" n="40"/>solvere oporteat, suam conscientiam denudabunt: fit ig 
+      <lb ed="#C" n="41"/>tur hoc, ne maleficia remaneant impunita, ut f ad l. Aqui 
+      <lb ed="#C" n="42"/>ita pulneratus. in fine. &amp; de fidejusso si quis a reo inf de sen excom 
+      <lb ed="#C" n="43"/>ut fame. His juribus ponderatis &amp; consideratis, fecimusst. 
+      <lb ed="#C" n="44"/>tutum in castro Rodulpho. ubi multa talia fiebant, &amp; in 
+      <lb ed="#C" n="45"/>cendia committebantur, nec qui fecisset de facili potera 
+      <lb ed="#C" n="46"/>reperiri, quod si de caetero tale quid acciderit, commun 
+      <lb ed="#C" n="47"/>tas castri satisfacere tenetur, ubi malefactor reperiri no¬ 
+      <lb ed="#C" n="48"/>posset: quae postea cessaverunt. Nec praetermittendum 
+      <lb ed="#C" n="49"/>est, quod si quid de domo, sive de villa expugnatis rapti 
+      <lb ed="#C" n="50"/>sit, quamvis verba edicti desint: tamen ex mente leg. Lab¬ 
+      <lb ed="#C" n="51"/>ait: huic edicto locum fore: nec enim minus in mari quan 
+      <lb ed="#C" n="52"/>in villa, vel econverso possumus per latrunculos infestar 
+      <lb ed="#C" n="53"/>ut f eod I35. Labeo scripsit: sic &amp; ex mente edicti divi Adri¬ 
+      <lb ed="#C" n="54"/>sup prox. ver positi. dici potest, quod si quis extraneus inc 
+      <lb ed="#C" n="55"/>vitate aliqua vel ejus territorio fuerit spoliatus, vel re 
+      <lb ed="#C" n="56"/>suas furto amiserit communitas teneatur: haec actio 8 
+      <lb ed="#C" n="57"/>contra haeredes datur, ut ff. eod l4 in fin.
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1627" n="7">
+               <lb ed="#C" n="58"/>Et, inquantum Et certe contra illum qui da¬ 
+      <lb ed="#C" n="59"/>mnum dedit intra annum, in 
+      <lb ed="#C" n="60"/>quadruplum, lapso anno, in simplum, ut ff. eod I1. respon. 
+      <lb ed="#C" n="61"/>haeredes autem tenentur, quatenus ad eos pervenit, no 
+      <lb ed="#C" n="62"/>ultra, ut ff eod Pedius. in fine. Sed &amp; senatus cons Claudiani 
+      <lb ed="#C" n="63"/>temporibus factosi quis ex naufragio clavos vel unum e 
+      <lb ed="#C" n="64"/>his, subaudi duob. clavis, duo enim clavi sunt in navi prir 
+      <lb ed="#C" n="65"/>cipales, qui eam rectam tenent, &amp; si quis unum ex his al 
+      <lb ed="#C" n="66"/>stulerit, omnium rerum nomine tenentur, Item aliud si 
+      <lb ed="#C" n="67"/>natus cons. factum est, ut hi, quorum fraude, aut consili¬ 
+      <lb ed="#C" n="68"/>naufragi, id est, naufragium patientes suppressi per vin 
+      <lb ed="#C" n="69"/>fuissent, ne navi sibive periclitantibus opitulentur, aff 
+      <lb ed="#C" n="70"/>ciantur poenis. I. Corn. quae de sic. lata est, &amp; hi qui errav 
+      <lb ed="#C" n="71"/>rint lucrative fuerint dolo malo inquantum edicto pra 
+      <lb ed="#C" n="72"/>toris actio datur, in tantum fisco teneantur, ut C. eo. I 3 1n 
+      <lb ed="#C" n="73"/>&amp; dixi supra cod S, cui detur 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1665">
+               <lb ed="#C" n="74"/>Qua poena tales afficiantur. Et quidem 
+      <lb ed="#C" n="75"/>plurimum in 
+      <lb ed="#C" n="76"/>tereit an peritura collegerint, an quae servari possint flagi 
+      <lb ed="#C" n="77"/>nose lubripuerint: ideoque si gravior praeda vi apperit. 
+      <lb ed="#C" n="78"/>riocotur, lleri quidem fustibus caesi sunt in trienniur 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0725.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>relegandi: sordidiores in opus publicum ejusdem tem 
+      <lb ed="#C" n="80"/>poris, id est quod erat eo tempore, vel id est, per trienni 
+      <lb ed="#C" n="81"/>dandi servi flagellis caesi in metallum damnandi, hoc si mi 
+      <lb ed="#C" n="82"/>gna pecunia fuerit. alias liberi fustibus, servi flagellis ca 
+      <lb ed="#C" n="83"/>sunt dimittendi, si Judici videatur: omnino enim, ut in 
+      <lb ed="#C" n="84"/>teris causis, &amp; sic in hujus ex personarum conditione, e 
+      <lb ed="#C" n="85"/>rerum qualitate diligenter per judicem poenae sunt aesti 
+      <lb ed="#C" n="86"/>mandae, ne quid durius aut remissius, quam causa postu 
+      <lb ed="#C" n="87"/>laverit, infligatur, ut f. eo l4 §. divus. Et intelligas han 
+      <lb ed="#C" n="88"/>poenam locum habere, quando delinquentes sunt no 
+      <lb ed="#C" n="89"/>solvendo. ut f.cod. qui aedes. &amp; ff. de poen.l.i. &amp; quando jude 
+      <lb ed="#C" n="90"/>ex officio suo non procedit, nec est accusatus secundun 
+      <lb ed="#C" n="91"/>ea, quae not. sup in prox. rub superiori sub §. in summa: nam &amp; 
+      <lb ed="#C" n="92"/>tales accusari possunt I. Iul devi, scilicet, qui rapuerum 
+      <lb ed="#C" n="93"/>quicquam ex incendio, praeter materiam, ut non sup pror 
+      <lb ed="#C" n="94"/>rub. §. qua poena. ver. hac autem. I. a judicibus extraordinari 
+      <lb ed="#C" n="95"/>puniuntur, ut ff ad l. Iul. devi. priva. I.I. Secundum canone 
+      <lb ed="#C" n="96"/>autem tales, nisi ablata reddiderint, subaudi competente 
+      <lb ed="#C" n="97"/>admoniti, excommunicati remanent ipso jure, cum secu 
+      <lb ed="#C" n="98"/>dum regulam fidei, scilicet qua praecipimur proximum 
+      <lb ed="#C" n="99"/>diligere, sicut nos ipsos, ut in prin Decretorum, &amp; 5o dist pon 
+      <lb ed="#C" n="100"/>derei, &amp; de pae dist. 2. charitas, potius debemus patientib. nau 
+      <lb ed="#C" n="101"/>fragium auxilium praebere, quam impugnare, ut infi co¬ 
+      <lb ed="#C" n="102"/>excommunicationi: interest enim bonis, beneficio suo pro 
+      <lb ed="#C" n="103"/>ximum afficere, ut de commodato ca. unico. &amp; f. de servis expo 
+      <lb ed="#C" n="104"/>servus ea. I. ideoque ne fiscus sibi aliquid vendicat cum ca 
+      <lb ed="#C" n="105"/>lamitate alterius, ut C. de naufragiis. l. I. lib. i &amp; junge quo¬ 
+      <lb ed="#C" n="106"/>no. inf. de pae S quibus &amp; qualiter. sub S quid de naufragiis Ne 
+      <lb ed="#C" n="107"/>possunt se excusare homines obtentu alicujus consuetu 
+      <lb ed="#C" n="108"/>dinis, vel potius corruptelae, quia lex Rhodia judicat nar 
+      <lb ed="#C" n="109"/>tas, sive consuetudo eorum in his, in quibus Imperatori 
+      <lb ed="#C" n="110"/>leges non adversantur, subaudi, quo ad superiora, ui f ad 
+      <lb ed="#C" n="111"/>Rhod. de jac l. Graeca domine Imperator. alias de precario. &amp; ari 
+      <lb ed="#C" n="112"/>li sen. de scholaribus, &amp; eorum privilegiis. Lunicae &amp; de paceti 
+      <lb ed="#C" n="113"/>nenda, &amp; ejus violatoribus. l. i.
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1758" n="9">
+               <lb ed="#C" n="114"/>Et qua poena incendiarius teneatur. Et quidem 
+      <lb ed="#C" n="115"/>secundum legem quicunque in ci 
+      <lb ed="#C" n="116"/>vitate data opera incendium fecerit, si in humiliore loc 
+      <lb ed="#C" n="117"/>sit, bestiis subjicitur, si in aliquo gradu, capite punitur, au 
+      <lb ed="#C" n="118"/>in insulam deportatur, ut ff. eod. I.ult. Qui vero alibi, puti 
+      <lb ed="#C" n="119"/>in villis, vel in castris aedes acervumve frumenti juxta a 
+      <lb ed="#C" n="120"/>des positum combusserit. vinctus verberatusque igni ne 
+      <lb ed="#C" n="121"/>cari jubetur, si dolo malo hoc fecerit, subaudi, &amp; humili 
+      <lb ed="#C" n="122"/>sit, sin autem negligentia sua hoc contigerit; aut noxian 
+      <lb ed="#C" n="123"/>in damnum, sarcire jubetur, aut si minus idoneus fuerit 
+      <lb ed="#C" n="124"/>leviter castigatur, appellatione autem aedium omnis spe 
+      <lb ed="#C" n="125"/>cies aedificii continetur, ut f eod qui aedes. Incendiarii igi 
+      <lb ed="#C" n="126"/>tur dolosi capite puniuntur, criminaliter accusati. Sec 
+      <lb ed="#C" n="127"/>negligentes puniuntur, ut fi depoen, capitalium. §. incendi¬ 
+      <lb ed="#C" n="128"/>rii, fortuita tamen incendia si cum evitare non possent 
+      <lb ed="#C" n="129"/>per negligentiam tamen eorum apud quos orta sunt, da 
+      <lb ed="#C" n="130"/>mno vicinis fuerunt, civiliter exercentur, ut qui jacturm 
+      <lb ed="#C" n="131"/>affectus est, damni discrete, vel modice vindicetur, ut ib 
+      <lb ed="#C" n="132"/>&amp; F ad l. Aquil. si servus servum§ si quis insulam, cum tribus. 
+      <lb ed="#C" n="133"/>ibi sequ. Judex etiam aliquando negligentes castigat, ali 
+      <lb ed="#C" n="134"/>quando severa interlocutione comminatus fostium ca 
+      <lb ed="#C" n="135"/>stigationem remittit, debet etiam admonere subditos, ui 
+      <lb ed="#C" n="136"/>cum armis &amp; dolabris curam adhibeant. Sed &amp; custodes 
+      <lb ed="#C" n="137"/>&amp; inquilinos admonere ne per eorum negligentiam in 
+      <lb ed="#C" n="138"/>cendium committatur, &amp; unusquisque in coenaculo a 
+      <lb ed="#C" n="139"/>quam habeat ad extinguendum ignem, ut haec proban 
+      <lb ed="#C" n="140"/>tur ff. de offic praefect vigilum l. 12 &amp; 3. Sed secundum cano 
+      <lb ed="#C" n="141"/>nes incendiarii praedicti excommunicantur. d nec ab¬ 
+      <lb ed="#C" n="142"/>solvuntur, nisi damno resarcito, &amp; juramento praestit¬ 
+      <lb ed="#C" n="143"/>quod ignem ulterius non apponant, ut 23. q. ulti pessimam 
+      <lb ed="#C" n="144"/>&amp; haeredes coguntur satisfacere damnum passis; secun 
+      <lb ed="#C" n="145"/>dum ea quae not. sup rub. prox §. in summa. ver. item seciundum 
+      <lb ed="#C" n="146"/>canones. Sed nunquid sunt ipso jure excommunicati? It¬ 
+      <lb ed="#C" n="147"/>videtur, ut infra eod super eo. &amp; c. in literis. 12.q. 2. cum devotis 
+      <lb ed="#C" n="148"/>simam. 23. q3. si quis membrorum. 1q. 3. canonica. Sed contr 
+      <lb ed="#C" n="149"/>23q. uit pessimam. 12q. 2 ind gne 743 quisquii. Solui. secun 
+      <lb ed="#C" n="150"/>dum magistros incendiars ecclesiarum, scilicet qui eccle 
+   <!-- </p>
+    <p>
+      <lb ed="#C" n="151"/>ADDITIO 
+      <lb ed="#C" n="152"/>d Incendiarii praedicti excommunicantur] Adde Abb in c. xu¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="153"/>nos. de sen. excem. Archi. in c. inferior. Lcol. 21. disi--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0726.xml-->
+          <pb ed="#C" n="709"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>siam, vel locum religiosum, vel coemiterium, vel ea qua 
+          <lb ed="#C" n="2"/>intra spatium privilegiatum. sicut legitur. 17. 4. 4. sicut an 
+          <lb ed="#C" n="3"/>tiquitus incenderint, vel effregerint, sunt excommunica 
+          <lb ed="#C" n="4"/>ti ipso jure: ita quod ex quo denunciati sunt in ecclesia ni 
+          <lb ed="#C" n="5"/>possunt absolvi, nisi per Papam, ut infra de sent. excommur 
+          <lb ed="#C" n="6"/>tua nos. &amp;c. conquaesti. &amp; sic loquuntur primae concordan 
+          <lb ed="#C" n="7"/>tiae, excipitur mortis periculum imminens, ut inf. eo. supe 
+          <lb ed="#C" n="8"/>ei, &amp; c. in literis. Alii autem non sunt excommunicati; sec 
+          <lb ed="#C" n="9"/>excommunicandi, ut dixi sup. ver. secundum canones, secun 
+          <lb ed="#C" n="10"/>dum Ala nec ob. 17. q. 4. omnes. ibi enim Lucius excommi 
+          <lb ed="#C" n="11"/>nicavit incendiarios sui temporis, secundum Goff. quas 
+          <lb ed="#C" n="12"/>dicat eo. scilicet: Lucio mortuo, canon cessavit, quia ne 
+          <lb ed="#C" n="13"/>ultra tempus suum extendebatur, ad hoc ff. depae. I. fin. Se 
+          <lb ed="#C" n="14"/>Jpa. dixit omnes excommunicatos, ex quo sunt publicat 
+          <lb ed="#C" n="15"/>C insuetudo autem approbata ipsos reddit excommun 
+          <lb ed="#C" n="16"/>catos ipso jure, quamvis denunciati non sint sive in ec 
+          <lb ed="#C" n="17"/>clesiis, sive in villis incendium commiserint dolo malo 
+          <lb ed="#C" n="18"/>quam dicas servandam, cum optima sit legum interpre: 
+          <lb ed="#C" n="19"/>ut no. sup. de consue. §. &amp; devirtute. ver. 2. &amp; quia excommu 
+          <lb ed="#C" n="20"/>nicatio medicinalis est. 2.q. 1. multi. &amp; quia bonarum men 
+          <lb ed="#C" n="21"/>tium. &amp;c. 5. dist. ad ejus vero. &amp; arg. 4. dist. §,. leges. &amp; u. que 3. ca.1. ( 
+          <lb ed="#C" n="22"/>2 supra de spon juvenis inf. de cle excomm mini. illud. §. licetau 
+          <lb ed="#C" n="23"/>tem &amp; sapra de hom significasti. 2. 5. quod si discerni. Sed si con 
+          <lb ed="#C" n="24"/>suetudo non apparet, de fure stricto sentias cum Alano
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1901">
+               <lb ed="#C" n="25"/>De Violatoribus ecclesiarum 
+          <lb ed="#C" n="26"/>Rubrica 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1908">
+               <lb ed="#C" n="27"/>SUMMARIA 
+          <lb ed="#C" n="28"/>I Violator quis dicatur. Et qua poena sit afficiendus. 2
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1915">
+               <lb ed="#C" n="29"/>EX quo vidimus de duabus partibus 
+          <lb ed="#C" n="30"/>tituli, videamus di 
+          <lb ed="#C" n="31"/>tertia, &amp; sic de violatoribus ecclesiarum, dicen 
+          <lb ed="#C" n="32"/>tes, Quis dicatur violator ecclesiae, Qua poena si 
+          <lb ed="#C" n="33"/>afficiendus 
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1928" n="1">
+               <lb ed="#C" n="34"/>Quis, dicatur violator ecclesiae. Quicunque i 
+          <lb ed="#C" n="35"/>psam ecclesiam frangendo ostia 
+          <lb ed="#C" n="36"/>capiendo res suas, vel invadendo, privilegia sua non cu 
+          <lb ed="#C" n="37"/>stodiendo, vel corrumpendo offendit, de quibus habetu 
+          <lb ed="#C" n="38"/>17. q. 4 per totum
+    </p>
+            <p xml:id="nbht7y-d1e1870-d1e1942">
+               <lb ed="#C" n="39"/>Qua poena sit afficiendus Dicut ne suyp.
+          <lb ed="#C" n="40"/>rub. §. ult. 
+      solu<lb ed="#C" n="41" break="no"/>tio. &amp; supra de immunitate eccles. §. in quantum, &amp; ad quos, pe 
+          <lb ed="#C" n="42"/>totum, &amp; §. quae sit poena, &amp; legitur infra eod super eo. &amp; ca. in li 
+          <lb ed="#C" n="43"/>teris. &amp; 17. 4. 4 per totum 
+          <!--<lb ed="#C" n="44"/>ADDITIO 
+          <lb ed="#C" n="45"/>a Qua poena sit afficiendus. THuc non inepte referripotest poe 
+          <lb ed="#C" n="46"/>na violantium ecclesiae immunitatem, quam spiritualem 
+          <lb ed="#C" n="47"/>Mart. scribit, nempe excommunicationem. Item poena pe 
+          <lb ed="#C" n="48"/>cuniaria imponitur quandoque major quandoque minor, u 
+          <lb ed="#C" n="49"/>17. g. 4. quisquis, &amp; c. si quis contumax Debet autem applicari ill 
+          <lb ed="#C" n="50"/>personae, vel loco, cui violentia illata est, de sen excom grave. d 
+          <lb ed="#C" n="51"/>cap parochimos. Martin. Adde cap. non minus &amp; ibi docto. de in 
+          <lb ed="#C" n="52"/>mis eccles -->
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

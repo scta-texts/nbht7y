@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 7</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 7</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="219"/>
+            <cb ed="#C" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e613"><!-- nbht7y-l2t7 -->
+            <head xml:id="nbht7y-d1e613-Hd1e101">Titulus 7</head>
+            <head xml:id="nbht7y-d1e613-Hd1e103" type="question-title">De juramento calumniae</head>
+            <p xml:id="nbht7y-d1e613-d1e106">
+               <lb ed="#C" n="32"/>De juramento calumniae 
+      <lb ed="#C" n="33"/>Rubrica VII. 
+    </p>
+            <p xml:id="nbht7y-d1e613-d1e113">
+               <lb ed="#C" n="34"/>SUMMARIA. 
+      <lb ed="#C" n="35"/>I Juramentum calumniae quid si 
+      <lb ed="#C" n="36"/>2 Jurare de calumnia quis possi 
+      <lb ed="#C" n="37"/>3 Casus in quibus sit jurandum de calumnia 
+      <lb ed="#C" n="38"/>4 suramentum de calumnia quando sit praestandum 
+      <lb ed="#C" n="39"/>Juramentum de veritate dicenda, differt a juramento de ca 
+      <lb ed="#C" n="40"/>lumnia 
+      <lb ed="#C" n="41"/>6 Juramentum de calumnia quid complectitur 
+      <lb ed="#C" n="42"/>Poena nolentis jurare de calumnia quae siu 
+    </p>
+            <p xml:id="nbht7y-d1e613-d1e135">
+               <lb ed="#C" n="43"/>OBlato libello, et lite contestat. 
+      <lb ed="#C" n="44"/>exigendum est sacramentum a calumni¬ 
+      <lb ed="#C" n="45"/>ut ordo juris requirit: ideo haec rubrica si¬ 
+      <lb ed="#C" n="46"/>continuatur, in qua videndum est, Quid si 
+      <lb ed="#C" n="47"/>juramentum calumniae, Quis debeat jurare, Et in quibus 
+      <lb ed="#C" n="48"/>a casibus jurandum sit, . Quando praestandum est, Qui¬ 
+      <lb ed="#C" n="49"/>contineatur in eo, Quae sit poena nolentis praestare hujus 
+      <lb ed="#C" n="50"/>modi sacramentum 
+    </p>
+            <p xml:id="nbht7y-d1e613-d1e156">
+               <lb ed="#C" n="51"/>Quid sit juramentum clumniaee Cur 
+      <lb ed="#C" n="52"/>quis se bona fide ju 
+      <lb ed="#C" n="53"/>t rat, non animo calumniandi, agere, c vel respondere sei 
+      <lb ed="#C" n="54"/>aliquid aliud proponere. C. eod. l. 2. §. i. ff. fam. ercisc. inter co 
+      <lb ed="#C" n="55"/>haeredes. §. qui familiae. Est autem calumnia, cum quis es 
+      <lb ed="#C" n="56"/>certa scientia injuste agit, vel resistit. ff. ad Turpil. senatus¬ 
+      <lb ed="#C" n="57"/>l. I. §. calumniari. &amp; z. qu. 3. §. notandum. natura autem calu 
+      <lb ed="#C" n="58"/>mniationis haec est, ut ab evidenter veris ad evidenter fal 
+      <lb ed="#C" n="59"/>la deducatur quis per mutationes, seu per subtilissima. a 
+      <lb ed="#C" n="60"/>gum. ff. de verb. sign. natura, &amp; de reg. ea est natura. &amp; tales sub 
+      <lb ed="#C" n="61"/>tilitates merito recusabit judex. ut ff. quibus modis pign. ve 
+      <lb ed="#C" n="62"/>hyp. sol. sicus in re corporali. § si debitori
+    </p>
+            <p xml:id="nbht7y-d1e613-d1e185">
+               <lb ed="#C" n="63"/>Quis debet jurare,. Principales personae. re 
+      <lb ed="#C" n="64"/>gulariter, scilicet primo a 
+      <lb ed="#C" n="65"/>e ctor, &amp; reus secundo. ut C. eodern. l. 2. §. 1. &amp; 2. Sed videtur 
+      <lb ed="#C" n="66"/>quod reus primo debeat jurare, &amp; secundo actor, ut Instis 
+      <lb ed="#C" n="67"/>de prn teme. liti. in prin. &amp; in §. Item actoris. Solu. Dic quo 
+      <lb ed="#C" n="68"/>ibi ordo jurantium non ponitur, sed personae quae jurar¬ 
+      <lb ed="#C" n="69"/>debent potius denotantur: ergo principalis juravit: &amp; s 
+      <lb ed="#C" n="70"/>sit clericus, dummodo secularis sit, &amp; nomine proprio a 
+      <lb ed="#C" n="71"/>git. ut infra eod c.i.in quo casu non videtur, quod proc. ju 
+      <lb ed="#C" n="72"/>ret: cum sit procurator privati, ut C. eod. l.a. §. fin. autem. idec 
+      <lb ed="#C" n="73"/>dicitur, quod ab utraque parte praestandum est. ut infra eod 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0236.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="74"/>caeterum. non obst. consuetudine, quae est legi contraria, ui 
+      <lb ed="#C" n="75"/>ibi. &amp; infra de fidejuss. c. 3. contraria legi dico inductae, pro 
+      <lb ed="#C" n="76"/>pter communem utilitatem, quod dic, ut not. sup. de renun 
+      <lb ed="#C" n="77"/>9. &amp; quae renunciari. Procurator autem universitatis; ve 
+      <lb ed="#C" n="78"/>episcopi, vel archiepiscopi de calumnia jurat: &amp; est ratio 
+      <lb ed="#C" n="79"/>quia habetur loco syndici, vel actoris infr. eod. cum causam 
+      <lb ed="#C" n="80"/>&amp;c. cum in causa. ut enim ibi dicitur, episcopus eligere po 
+      <lb ed="#C" n="81"/>test, utrum in propria persona litiget, vel per proc. &amp; quam¬ 
+      <lb ed="#C" n="82"/>do in propria persona, tunc jurat propositis sacrofancti 
+      <lb ed="#C" n="83"/>Evangeliis non tactis sicut observatur quando testimoni 
+      <lb ed="#C" n="84"/>um fertur. C.de episc. &amp; cler. auth. sed judex, 24. qu. 2. quenquam 
+      <lb ed="#C" n="85"/>II. q.1. Imperator. alias incipit, nec honore, 2.qu. 5. qua de causa, in 
+      <lb ed="#C" n="86"/>authent. ut defun. seu fun. §. oportet. col. 5. Proponuntur au 
+      <lb ed="#C" n="87"/>tem ideo Evangelia, f &amp; aperiuntur, licet non tangan¬I 
+      <lb ed="#C" n="88"/>tur, quia praesentia eorum terrorem inducit; &amp; ve 
+      <lb ed="#C" n="89"/>ritati suffragium impendit, ut apparet in his, quae not. inj 
+      <lb ed="#C" n="90"/>eod. §. in quibus vers. sed quae est ratio: aliquando autem tan 
+      <lb ed="#C" n="91"/>git Evangelia, ut quando fuit schismaticus, &amp; rediit ad fi¬ 
+      <lb ed="#C" n="92"/>dem nostram I. q. 7. quoties. Sed non videtur, quod episco 
+      <lb ed="#C" n="93"/>pus inconsulto Papa jurare possit, ut infra coa.c.i. prope fin 
+      <lb ed="#C" n="94"/>ibi. Veruntamen cum hac moderatione, &amp;c imo nec age 
+      <lb ed="#C" n="95"/>re. argu. ff. de jure delib. ait praetur. super quo vide quod not 
+      <lb ed="#C" n="96"/>sup. de rescr. §. quae possunt obynci vers 99. sed dic, quod non fi 
+      <lb ed="#C" n="97"/>sine consilio suo, ex quo dat generalem licentiam percul 
+      <lb ed="#C" n="98"/>tim. supra de transl. episcop. inter corporalia. §. sed neque. Vide 
+      <lb ed="#C" n="99"/>tur tamen, quod episcopus nullatenus possit in persons 
+      <lb ed="#C" n="100"/>propria litigare, sed per oeconomum. 5. quaest. 3 quia episco 
+      <lb ed="#C" n="101"/>pus quod 2. cum icimus sed dic, quod corriguntur, vel illa capi 
+      <lb ed="#C" n="102"/>tula exaudiri possunt in foro seculari. Sed in ecclesiasti 
+      <lb ed="#C" n="103"/>co habet electio, &amp; si per procuratorem elegerit litigare 
+      <lb ed="#C" n="104"/>tunc jurabit procurator ipse, ut infra eod. c. ult. &amp; ea. distin 
+      <lb ed="#C" n="105"/>optatum. Patet igitur, quod episcopus hodie non petet li 
+      <lb ed="#C" n="106"/>centiam jurandi nec eligendi confessorem: idem videtu 
+      <lb ed="#C" n="107"/>de minoribus exemptis, ut infra de poem. ne pro dilatione sec 
+      <lb ed="#C" n="108"/>alii non jurabunt sine licentia superiorum, ut ifra cap. 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="109"/>ADDITIONES. 
+      <lb ed="#C" n="110"/>a Et in quibus casibus jurandum sit) Adde gi. summae, 22. quam 
+    </p>
+    <p>
+      <lb ed="#C" n="111"/>stio. 4. Bald. in I. fin. ad con.ludendam, C. de rebus cred. &amp; de di 
+      <lb ed="#C" n="112"/>versis modis jurandi. vide per Archi. in c. considera. 22. 91. 
+      <lb ed="#C" n="113"/>b Quid sit juramentum calumniae) Adde Docto. in rubric. eod 
+      <lb ed="#C" n="114"/>8 Martinus in Summa sua eod. titul. verius definit in haec verba 
+    </p>
+    <p>
+      <lb ed="#C" n="115"/>Iuramentum calumniae est, cum quis iurat se bona fide, &amp; ni 
+      <lb ed="#C" n="116"/>calumniandi aninio causam movisse, vel quod putat se bon¬ 
+      <lb ed="#C" n="117"/>justitia uti, cum ad reluctandum pervenerit: C. ecd. it.4 2. 9. 1 
+      <lb ed="#C" n="118"/>Sed quia possibile est, quod actor a principio non movit cau 
+      <lb ed="#C" n="119"/>sam animo calumniandi, nunc autem tempore jutamen 
+      <lb ed="#C" n="120"/>moveat calumniose, argum. ff. dedamn. infect. I. qui bona 
+      <lb ed="#C" n="121"/>quis siipulaturus. Ideo non sufficit jurare de praeterito, ut di 
+      <lb ed="#C" n="122"/>cat actor non movisse causam, sed adjiciat nec movero d¬ 
+      <lb ed="#C" n="123"/>praesenti: Et eodem modo reus adjiciat, quod non calumni¬ 
+      <lb ed="#C" n="124"/>andi causa resistat. ff. fam. ercisc. Iinter cohaere §qui familiae. Item 
+      <lb ed="#C" n="125"/>hoc juramentum dicitur calumniae, sc vitandae vel committ. cae, 
+      <lb ed="#C" n="126"/>dicitur juramentum de malitia vitanda, vel committenda eurad 
+      <lb ed="#C" n="127"/>elect, cum dilectus. Simile dicit Apostolus, Vnusquisque habea 
+      <lb ed="#C" n="128"/>suam propter fornicationem, scilicet vitandam, vel commit 
+      <lb ed="#C" n="129"/>tendam 
+      <lb ed="#C" n="130"/>a Quis debet jutare) Adde an hoc possit per procuratorem 
+    </p>
+    <p>
+      <lb ed="#C" n="131"/>Adde L2. &amp; ibi Doct. Cde iuram calum. gl. in I.non solum. ff. de pro 
+      <lb ed="#C" n="132"/>cur. &amp; Spec. tit de iuram, calum in §. 2 
+      <lb ed="#C" n="133"/>e Principales personae) Quod ait Hostiens. principales persona 
+    </p>
+    <p>
+      <lb ed="#C" n="134"/>lutare de calumnia debere, idem probat Martinus in summ 
+      <lb ed="#C" n="135"/>eodem titulo, limitans tamem, ut a Domino, qui est multum re 
+      <lb ed="#C" n="136"/>motus, praestari nequeat veluti si situltra mare, &amp; procura¬ 
+      <lb ed="#C" n="137"/>tor de calumnia jurare non potest, tunc debet dari curator 
+      <lb ed="#C" n="138"/>bonis, &amp; ille debet de calumnia jurare, ff. de cura. bon. dan. Li 
+      <lb ed="#C" n="139"/>&amp; 2. Sed contra videtur extra de iuram. calu. cap. 1. sed illud in¬ 
+      <lb ed="#C" n="140"/>telligitur in alio casu, &amp; ita non contradicunt. Quod autem 
+      <lb ed="#C" n="141"/>ad episcopum attinet, is in propria persona jurat de calumnia 
+      <lb ed="#C" n="142"/>si pro rebus propriis agat. Nec est necesse super hoc require 
+      <lb ed="#C" n="143"/>re Papam, extra eo. tit, cap. I. ubi de hoc in glo. istud, &amp; c.ul Si tamen 
+      <lb ed="#C" n="144"/>episcopus, vel clerici agunt pro ecclesia sua, jurare de calumni: 
+      <lb ed="#C" n="145"/>in propria persona non compelluntur; Sed cum clerici, de pro 
+      <lb ed="#C" n="146"/>priis rebus &amp; causis in propria persona agunt, &amp; jurant, priu 
+      <lb ed="#C" n="147"/>debent episcopum requirere, quam jurent, extra de iuram. ca¬ 
+      <lb ed="#C" n="148"/>lum. cap. I. ub. de his in glo. hinc colligitur 
+      <lb ed="#C" n="149"/>Proponuntur autem ideo Evangelia) Addetex. in cap. fin di 
+      <lb ed="#C" n="150"/>iuram. calum. gl in verbo tacta. in clem. &amp; de haere gl. in verbo tactis, 
+      <lb ed="#C" n="151"/>in cle unica de inreiur. Doct. in c. ego N. de lureiur. Bal. in anih. sacra 
+      <lb ed="#C" n="152"/>inenia puberum. in 5. col. (C, si advers. venditionem--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0237.xml-->
+      <pb ed="#C" n="220"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>prope sin. ibi, veruntamen, &amp;c. habita autem licentia jurar¬ 
+      <lb ed="#C" n="2"/>possunt. &amp; hoc verum est, si sint seculares: secus, si regula 
+      <lb ed="#C" n="3"/>res: quia illi nunquam jurant. sic intellige, infracod.c..ve 
+      <lb ed="#C" n="4"/>tos utique. ibi, ut non episcopus, scil. regularium canonico 
+      <lb ed="#C" n="5"/>rum, cum quibus habet omnia communia: non presbyte¬ 
+      <lb ed="#C" n="6"/>id est, praepositus regularis: non cujuscunque ordinis, id ess 
+      <lb ed="#C" n="7"/>religiosus: quamvis monachus non sit, sed non monachi 
+      <lb ed="#C" n="8"/>&amp; ideo sequitur, non abbas, &amp;c. si non episcopus, non pre¬ 
+      <lb ed="#C" n="9"/>byter, non cujuscunque ordinis, id est, gradus etiam seculi 
+      <lb ed="#C" n="10"/>ris, primo tonsuratus, ut sup. de aetat &amp; qual, cum coringat.i 
+      <lb ed="#C" n="11"/>sin. non abbas, non aliquis monachus, vel sanctimonialis 
+      <lb ed="#C" n="12"/>subaudi, vel quaevis alia religiosa persona in quacunqu 
+      <lb ed="#C" n="13"/>causa, &amp;c. compellitur, scil. secularis: sed de licentia prae 
+      <lb ed="#C" n="14"/>lati admittatur: ut in fin. Sed regularis nullatenus admi 
+      <lb ed="#C" n="15"/>tatur, nisi secundum quod dixi ipsum posse fieri syndici 
+      <lb ed="#C" n="16"/>quod dic, ut not. sup. de syndi. &amp; hoc quod dixi de secular 
+      <lb ed="#C" n="17"/>bus, intellige quo ad causas collegiorum: secus de propriis 
+      <lb ed="#C" n="18"/>ideo sequitur infra si expedire suae ecclesiae noverid, q. 
+      <lb ed="#C" n="19"/>de causis ecclesiarum loquimur, &amp; si vellet intelligere di 
+      <lb ed="#C" n="20"/>aliis, tunc est casus, quod proc. privati jurat, sed mens lite 
+      <lb ed="#C" n="21"/>rae repugnat ibi. Veruntamen cum hac moderatione, ut e 
+      <lb ed="#C" n="22"/>piscopus inconsulto Ro. Pont. vel quisquis clericus, sci 
+      <lb ed="#C" n="23"/>reus, qui.d. clericus conventus coram extraneo judice; noi 
+      <lb ed="#C" n="24"/>potest cogi juramentum subire: quia nec respondere in 
+      <lb ed="#C" n="25"/>consulto judice suo, sup de foro comp. significasti. si ergo sit¬ 
+      <lb ed="#C" n="26"/>ctor, jurare potest, &amp; debet si propria sit causa: si collegi 
+      <lb ed="#C" n="27"/>potest alii delegare de consensu collegii, ut sup. de for. comj 
+      <lb ed="#C" n="28"/>cum sis generale &amp; de ossi delg praeteroa, &amp;c. saspicionis. Ex qu 
+      <lb ed="#C" n="29"/>enim Papa agere permittit, per consequens &amp; jurare, 
+      <lb ed="#C" n="30"/>licentia Papae sufficit, ut inf de cler. non resi fraternitati. &amp; se 
+      <lb ed="#C" n="31"/>cundum hoc plana est litera: neo corrigitur quicunqued 
+      <lb ed="#C" n="32"/>consuetudine, vel de jure, sed aliis defensoribus. Hoc re 
+      <lb ed="#C" n="33"/>feras ad causas episcoporum &amp;t collegiorum, non clerico 
+      <lb ed="#C" n="34"/>rum secularium privatorum, &amp; ad causas civiles, non cri 
+      <lb ed="#C" n="35"/>minales: nam in criminalibus non posset intervenire de 
+      <lb ed="#C" n="36"/>fensor. prout not. sup. de proc. §. &amp; in qua re. sed nec in crim 
+      <lb ed="#C" n="37"/>nali, id est, mista, seu quando civiliter quaeritur de crimi 
+      <lb ed="#C" n="38"/>ne cogeturjurare. nam si ageretur criminaliter, cogeretur 
+      <lb ed="#C" n="39"/>Sed cum hac moderatione, &amp;c. ut inf. ver. verumnum &amp; di 
+      <lb ed="#C" n="40"/>defensorib. puta syndicis, ut sup. de synd.c. uno. vel aeconomui 
+      <lb ed="#C" n="41"/>utmfrc. Imperatorum. Hoc est quod dicitur, quod inspect 
+      <lb ed="#C" n="42"/>qualitate personae aliquando principalis jurat, puta qui 
+      <lb ed="#C" n="43"/>fecularis est. aliquando hoc committit, sc. si vult, ut quia¬ 
+      <lb ed="#C" n="44"/>piscopus: vel comittit, id est, decens est committere, ut qui¬ 
+      <lb ed="#C" n="45"/>religiosus sup. de jud cum deputati. sic intellige. inf eod in per 
+      <lb ed="#C" n="46"/>tractandis. vel ut not. ins. eod vers. quod autem dixi. Jurat erg 
+      <lb ed="#C" n="47"/>oeconomus, &amp; syndicus, &amp; actor, &amp; pater in causa filii, 8 
+      <lb ed="#C" n="48"/>orphanotropus in causa hospitalis, quia habent admini 
+      <lb ed="#C" n="49"/>strationem ex lege scripta, vel judiciali authoritate, ut C. eo¬ 
+      <lb ed="#C" n="50"/>l2&amp;3. &amp; debo. mat. I.I. &amp; de episcopis, &amp; cler orphaerocopos. 8 
+      <lb ed="#C" n="51"/>auth, sed hodic. &amp; Instin. de auth. tut. §. ult. Et idem dixit Azo. ii 
+      <lb ed="#C" n="52"/>clericis, licet prohibeantur jurare judicio sisti. sic intelle 
+      <lb ed="#C" n="53"/>xit. C. de epise. &amp; cler xon cler. §. pen. dic tamen ut not. sup. V. 
+      <lb ed="#C" n="54"/>sic in foro seculari est in optione clerici, utrum per se, ve 
+      <lb ed="#C" n="55"/>per alium praestet quia &amp; fecisse videtur, qui per alium fa 
+      <lb ed="#C" n="56"/>cit. sed in ecclesiastico si per se litigat, per se jurabit. ut infi 
+      <lb ed="#C" n="57"/>cod.c. caeterum &amp; c. ult. Gof. tamen scripsit, quod decr. inf. e 
+      <lb ed="#C" n="58"/>C. I. corrigitur per sequentes, sed melius est, quod illam in 
+      <lb ed="#C" n="59"/>telligas, sicut dixi. Item jurat tutor &amp; curator. quia potes 
+      <lb ed="#C" n="60"/>scire, utrum causa bona sit, vel mala. C. eo. l 26 quod observ. 
+      <lb ed="#C" n="61"/>v1. &amp; vel omnes, vel etiam unus, ut C. si ex plur tum. unus, ri 
+      <lb ed="#C" n="62"/>om &amp; age. vel conpe, poss. l.i. Potest tamen dici, quod &amp; mino 
+      <lb ed="#C" n="63"/>de veritate dicenda jurabit; quia &amp; servus in propria car 
+      <lb ed="#C" n="64"/>sa pecuniaria torquetur. C. de testib. servos. quod intellige, ei 
+      <lb ed="#C" n="65"/>quo pubes est. non ante. 22. qu. 5. pueri. &amp; cap. parvuli 444 
+      <lb ed="#C" n="66"/>c. i. nam &amp; ad officium iudicis pertinet, ut veritatem inqui 
+      <lb ed="#C" n="67"/>rat. C. de eden. I2. ff. de test. curent. &amp; minor a confessione su 
+      <lb ed="#C" n="68"/>restituitur, ut not. inf. de confesimo dixerunt quidam, quo 
+      <lb ed="#C" n="69"/>ubi pubes est, jurabit etiam de calum. interveniente aute 
+      <lb ed="#C" n="70"/>ritate curatoris. arg ff. de adm. tut. l..§ pen &amp; ult. &amp; sic potes 
+      <lb ed="#C" n="71"/>intelligi. ff. de auth. tus accipientis. vel potest intelligi in pr 
+      <lb ed="#C" n="72"/>pillo, qui agit contra unum extraneum, &amp; contra aliun 
+      <lb ed="#C" n="73"/>defendit se: est tamen contra istos, f. de noxa actio quoties. § 
+      <lb ed="#C" n="74"/>g si tutor. Item Imperator per nuncium jurat. 63. dist. tibi de 
+      <lb ed="#C" n="75"/>mino. &amp; quilibet vir spectabilis. g17. qu. 4. metuentes. In hi 
+      <lb ed="#C" n="76"/>autem qui praesumunt municipio, illud servandum est 
+      <lb ed="#C" n="77"/>quod omnes, vel major pars debeant de calum jurare. u 
+      <lb ed="#C" n="78"/>C. od. l2. §. hoc etiam fidi cond &amp; demo municip. &amp; ad municij 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0237.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>municept. vel quia difficile esset. dic quod sufficit, si procu 
+      <lb ed="#C" n="80"/>rator juret. id est, syndicus. inf. eod, cum causam. dum tamet 
+      <lb ed="#C" n="81"/>talis sit, qui causam omnino nesciat. inf. eod in pertractandis 
+      <lb ed="#C" n="82"/>qui. d. talis debet esse syndicus, qui habeat notum negotium 
+      <lb ed="#C" n="83"/>de quo quaeritur. &amp; hoc est contra quosdam, qui submis 
+      <lb ed="#C" n="84"/>tunt quasdam personas ignotas &amp; viles: sed parum prodes 
+      <lb ed="#C" n="85"/>si bonus fit judex: quia tunc compellet jurare, &amp; respon 
+      <lb ed="#C" n="86"/>dere omnes, vel majorem partem illorum qui prae sunt, u 
+      <lb ed="#C" n="87"/>supra dixi. arg. in his quae not. ms. vers. seqe &amp; sup. de syn §. quis 
+      <lb ed="#C" n="88"/>syndicus. versc. sed nanquid necesse est &amp; seq. Sed &amp; contra ta 
+      <lb ed="#C" n="89"/>les provideri potest, scil. quod syndicus juret in animas il 
+      <lb ed="#C" n="90"/>lorum qui sunt de universitate, vel collegio, dicere verita 
+      <lb ed="#C" n="91"/>tem, ut m auib. dx.exim detest. adhot. &amp; infra de praesentium 
+      <lb ed="#C" n="92"/>tibi authori mandamus. Quod autem dixi, procuratores 
+      <lb ed="#C" n="93"/>privati, &amp; singulares personas jurare non debere, intelli 
+      <lb ed="#C" n="94"/>gas, nisi in rem suam datus fit: tunc enim jurabit, cum ac 
+      <lb ed="#C" n="95"/>eum damnum &amp; emolumentum pertineat, sive intente 
+      <lb ed="#C" n="96"/>utilem actionem nomine suo, sive directam nomine cedem 
+      <lb ed="#C" n="97"/>tis arg f. de proc. qai stipendia I quando appell. sit.l.. § in propria 
+      <lb ed="#C" n="98"/>nisi reus alleget, quod dominus veritatem melius nove 
+      <lb ed="#C" n="99"/>rit, vel quod honestior persona sit, unde melius dicit veri 
+      <lb ed="#C" n="100"/>tatem. tunc enim judex potest cogere dominum ad juri 
+      <lb ed="#C" n="101"/>dum. C. de proc I.ult ff de proc. si actot secundum. Sed Pla. dici 
+      <lb ed="#C" n="102"/>hoc verum esse, quando intentabat utilem actionem no 
+      <lb ed="#C" n="103"/>mine suo, nam si directam nomine domini, tunc dominu 
+      <lb ed="#C" n="104"/>jurabit. Rog vero dixit, dominum semper jurare deber¬ 
+      <lb ed="#C" n="105"/>Sed verior est sententia AzO. ut patet infr. eod in pertractae 
+      <lb ed="#C" n="106"/>dis ibi, quandoque per ipsas principales, &amp;c. &amp; intellig. 
+      <lb ed="#C" n="107"/>per principales, quando melius noverunt veritatm, u 
+      <lb ed="#C" n="108"/>not. sup. vers sed aliis defensoribus. si tamen proc. satisdi 
+      <lb ed="#C" n="109"/>derit judicatum solvi, &amp; sic conveniatur, jurabit ipse. argi 
+      <lb ed="#C" n="110"/>ff. de proc. Plautius. sicut &amp; fidejussor conventus ex causas 
+      <lb ed="#C" n="111"/>dejussionis, quia principalis intelligitur cum sententi 
+      <lb ed="#C" n="112"/>executioni mandatur contra ipsum, ut not. inf. deproc.§t 
+      <lb ed="#C" n="113"/>qualiter finiatur. versic. si ergo adversarius: sic intellexit TIi 
+      <lb ed="#C" n="114"/>cundum Azo. proc privati jurare non posse, nisi secunt 
+      <lb ed="#C" n="115"/>quod dictum est sed alii indist. admittunt proc. ad jurat 
+      <lb ed="#C" n="116"/>dum. quod dicut not. sup. de synd S &amp; de differentiis. Sed noi 
+      <lb ed="#C" n="117"/>videtur quod parentes, sed patroni, hoc juramentu m pr 
+      <lb ed="#C" n="118"/>stent, quia non praesumitur quod calumnietur. ff. qui sati 
+      <lb ed="#C" n="119"/>dar. cog. de die §. uli &amp; de jurejur.l. jusjuran. Sed nec praesum 
+      <lb ed="#C" n="120"/>tur, quod religiosi calumnientur. arg infr. de novi oper. nnn 
+      <lb ed="#C" n="121"/>cum ex injuncto §. super eo. &amp; tamen jurant. ut supra not &amp; 
+      <lb ed="#C" n="122"/>breviter quilibet tenetur jurare, nisi a jure excipiatur 
+      <lb ed="#C" n="123"/>Hoc autem nota. quod oeconomus, sive syndicus jurat in 
+      <lb ed="#C" n="124"/>animam propriam, ut infra eod. in pertractandis. sed procu 
+      <lb ed="#C" n="125"/>rator in animam domini, in casibus, in quibus dixi procu 
+      <lb ed="#C" n="126"/>jurare posse, nisi quando ponitur in loco oeconomi, vel 
+      <lb ed="#C" n="127"/>syndici. 100 dist. optatum. 17. 4. 4 metuentes. Fit autem hoc ju 
+      <lb ed="#C" n="128"/>ramentum sub talibus verbis, Ego juro in animam Domi 
+      <lb ed="#C" n="129"/>ni mei, ipso mandante, quod ipse hoc servabit, &amp;c. vel sic 
+      <lb ed="#C" n="130"/>ut Dominus jurat per me, quod hoc observabit, sic Deu 
+      <lb ed="#C" n="131"/>ipsum apjuvet. &amp; tunc dico, quod dominus obligat sepe 
+      <lb ed="#C" n="132"/>alium, &amp; alium non obligat. argu. infra de praebend. acceden 
+      <lb ed="#C" n="133"/>quia fecisse videtur, &amp;c. infra de sent. excom. mulieres, ff. de ac 
+      <lb ed="#C" n="134"/>min. tut. ita autem. §. gessisse. Sed contra. Instit. de muti. stip. §. 
+      <lb ed="#C" n="135"/>quis alium. &amp; § si quis alteri. Ideo dixi, quod juram de cale 
+      <lb ed="#C" n="136"/>semper praestanuum est in animam jurantis, quod dic, u 
+      <lb ed="#C" n="137"/>not. infra cod §. quando praestandum est. vers. sed &amp; quarta. ne 
+      <lb ed="#C" n="138"/>obst.c. allegata. optatum, &amp; metuentes. &amp; quia, sicut ex lectio 
+      <lb ed="#C" n="139"/>ne illorum patet, loquuntur in alio genere juramenti, 8 
+      <lb ed="#C" n="140"/>hoc verum est regulariter. fallit autem in casibus sup. no 
+      <lb ed="#C" n="141"/>in quibus etiam possunt intelligi c. optatum, &amp; metuentes. &amp; 
+      <lb ed="#C" n="142"/>dixi vers. item Imperator. &amp; seq. &amp; not. de simili materia, infr 
+      <lb ed="#C" n="143"/>de spon. qualiter contrahantur. Licet autem principalis jura 
+      <lb ed="#C" n="144"/>verit, videtur quod haeres ejus nihilominus jurare tenea 
+      <lb ed="#C" n="145"/>tur: quia juramentum non extenditur ad haeredes, infr. d 
+      <lb ed="#C" n="146"/>jurejur. veritatis. contra, quia semel tantum juramentum 
+      <lb ed="#C" n="147"/>praestandum est: ut not. nf. eo. § quando &amp; haeres. succedit in 
+      <lb ed="#C" n="148"/>judicio ff. defer. oratione. dicas jurandum esse, arg. infra cod 
+      <lb ed="#C" n="149"/>caeterum, infra de testi. ultra. infra de except. pastoralis, &amp; inte 
+      <lb ed="#C" n="150"/>ligas, quod semel praestatur ab eadem persona non ficta.8 
+      <lb ed="#C" n="151"/>licet haeres succedat in judicio, non tamen in juramento 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="152"/>ADDITIO. 
+      <lb ed="#C" n="153"/>g Quilibet vir spectabilis) Adde qui dicantur spectabiles, vidi 
+    </p>
+    <p>
+      <lb ed="#C" n="154"/>Anten. Corsetam tractam de Reg hus, q. 21.--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0238.xml-->
+      <pb ed="#C" n="221"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>unde dicit lex, quod multum discrepat a principali haere 
+      <lb ed="#C" n="2"/>ditarium juramentum. C.dereb. cred. &amp; jurejur. I generaliter 
+      <lb ed="#C" n="3"/>respon. 1. 
+    </p>
+            <p xml:id="nbht7y-d1e613-d1e646">
+               <lb ed="#C" n="4"/>Et in quibus casibus! iprandumsit. In civili
+      <lb ed="#C" n="5"/>hoc planum est, infra eo¬ 
+      <lb ed="#C" n="6"/>c. antepen. &amp; ult. etiam si agatur de crimine civiliter: tit. 1. 
+      <lb ed="#C" n="7"/>quoniam. respon I. C. quando civilis actio praejudcri.I.unica. Iten 
+      <lb ed="#C" n="8"/>in criminali, quia indistin. loquitur lex. C. eod lI. &amp; expre 
+      <lb ed="#C" n="9"/>sum videtur, infra eod.c.i.vers. nos utique. ibi, in quacunqu 
+      <lb ed="#C" n="10"/>causa seu controversia criminali seu civili. ad idem. C.de¬ 
+      <lb ed="#C" n="11"/>de instru. I.ult. &amp; de autho. praestan. clarum, &amp; de poena jud. qu 
+      <lb ed="#C" n="12"/>mal judic. auih. novo jure. secundum Ber. Jo. &amp; AzO. Sed M 
+      <lb ed="#C" n="13"/>&amp; quidam alii contradicunt: quia criminalis actio, &amp; civ 
+      <lb ed="#C" n="14"/>lis actio nihil commune habent. Instit. de publ. iud. in prin¬ 
+      <lb ed="#C" n="15"/>Sed illud verum est, quo ad modum agendi: quia in civi 
+      <lb ed="#C" n="16"/>libus agit ad aliquid dandum vel faciendum, in criminal 
+      <lb ed="#C" n="17"/>bus autem ad poenam reo infligendam. Addunt ipsi &amp; 
+      <lb ed="#C" n="18"/>liam rationem, quia in criminalibus licet pacisci, transig 
+      <lb ed="#C" n="19"/>&amp; mentiri. ut no sup. de transact. nam parcendum est ei, qu 
+      <lb ed="#C" n="20"/>sanguinem suum redemit, qualitercunque potuit, ut f. d 
+      <lb ed="#C" n="21"/>lb. eorum qui mor. sibi cons. Ii. unde in criminalibus aliquan 
+      <lb ed="#C" n="22"/>do ei parcitur, qui calum. ingerit; ff. de bo. liber. qui cum ma 
+      <lb ed="#C" n="23"/>jor. §. si patris. non ergo cogi debet quis subire hoc jura 
+      <lb ed="#C" n="24"/>mentum: quia daretur materia dejerandi. Sed hoc noi 
+      <lb ed="#C" n="25"/>obest, imo calumnia compesci debet, cum &amp; periculum si 
+      <lb ed="#C" n="26"/>actoris, quem similitudo supplicii expectat. ut C. de accu. 
+      <lb ed="#C" n="27"/>ult. licet enim permittatur transigi, non tamen calumnis 
+      <lb ed="#C" n="28"/>riicerte nec mentiri. in hoc enim non est standum legi, in 
+      <lb ed="#C" n="29"/>de praescr.c. sin. quod autem in criminalibus debeat praestar 
+      <lb ed="#C" n="30"/>hoc juramentum, est arg in auth. ut liti jurent §. sin autem cri 
+      <lb ed="#C" n="31"/>minalis, col. 9. &amp; jusjurandi religio solum Deum habet ul 
+      <lb ed="#C" n="32"/>torem, ut C. de reb. cred &amp; jurejur. Ijusju. Sol. Puto quod se 
+      <lb ed="#C" n="33"/>cundum legem non sit jurandum in criminali, quae vindi 
+      <lb ed="#C" n="34"/>ctam sanguinis exposcit quia licitum est ibi corrumper¬ 
+      <lb ed="#C" n="35"/>quod sine falsitate fieri non potest, &amp; sine calumnia. ergi 
+      <lb ed="#C" n="36"/>non est indicendum contra hoc juramentum, argu. in hi 
+      <lb ed="#C" n="37"/>quae no. mf. decoba. cle. &amp; multe clericos, quia hoc esset jurar 
+      <lb ed="#C" n="38"/>contra mentem, &amp; incurrere anceps perjurium. porro se 
+      <lb ed="#C" n="39"/>cundum ea indist jurandum est, cum non infligat ecclesia 
+      <lb ed="#C" n="40"/>languinis sententiam inf ne cler. vel mona. sententiam. nec ad 
+      <lb ed="#C" n="41"/>mittat mortale peccatu, &amp; secund. hoc, ubi criminalis vin 
+      <lb ed="#C" n="42"/>dictam sanguinis non infligit, &amp; secund hanc dist. intelli 
+      <lb ed="#C" n="43"/>ge jura hic allegata. Legista tamen indist. tenet sententi 
+      <lb ed="#C" n="44"/>ALO. Sed in hoc debent nobis deferre, quia de foro nostru¬ 
+      <lb ed="#C" n="45"/>est juramentum. Sed quid si mihi ignoranti vendidisti ren 
+      <lb ed="#C" n="46"/>alienam, nunc verus dominus rei agit contra me rei ven 
+      <lb ed="#C" n="47"/>dicatione, &amp; pro certo didici, quod sua est. nunquid jur¬ 
+      <lb ed="#C" n="48"/>bo de calumnia? Quidam dicunt, quod sic: quia ideo ho 
+      <lb ed="#C" n="49"/>facio, ut de evictione agere possim, argu ff de neg gest. atque 
+      <lb ed="#C" n="50"/>natura, §. cum me absente, ff. de mjur si quis de liber. ff. de lib. cau 
+      <lb ed="#C" n="51"/>qui ex libertate. Consultius est, quod libello oblato denun 
+      <lb ed="#C" n="52"/>ciem tibi venditori, quod defendas me: &amp; si hoc non vis fa 
+      <lb ed="#C" n="53"/>cere, veritatem confitebor, antequam jurem de calumni¬ 
+      <lb ed="#C" n="54"/>nam veniendo contra conscientiam dejerarem, cum sci 
+      <lb ed="#C" n="55"/>me injustam causam fovere: &amp; ego teneor honestum tan 
+      <lb ed="#C" n="56"/>tum defendere ff man ideoque generaliter: &amp; pudori meo pa¬ 
+      <lb ed="#C" n="57"/>cere, ff. mand. Quintus Mutius. &amp; causam fovere, si justa est 
+      <lb ed="#C" n="58"/>non alias, argu. ff de admin. tut quoties. §. sicut &amp; tu vendito 
+      <lb ed="#C" n="59"/>imputabis tibi, si noluisti defendere, ex quo denunciav 
+      <lb ed="#C" n="60"/>tibi, alioquin si non denunciassem, agere non possem: u 
+      <lb ed="#C" n="61"/>not. inf. de contrah. empt. §. &amp; ad quid venditor teneatur. fiam 
+      <lb ed="#C" n="62"/>non defendam, ubi notorie liquet de jure agentis, nihilo 
+      <lb ed="#C" n="63"/>minus ago contra actorem meum, ff. de act. empt. l. ex empto 
+      <lb ed="#C" n="64"/>§ enptor. patet quod juratur in civilibus &amp; criminalibus 
+      <lb ed="#C" n="65"/>Ergo &amp; in mistis act. seu controversiis jurandum est, d 
+      <lb ed="#C" n="66"/>quibus ponimus exemplum. supr. de proc tuae. infr. de accus. 
+      <lb ed="#C" n="67"/>super his, ad hoc, 14. q4. 2. super prudentiam. ii. q. I. placuit, 15. q. 
+      <lb ed="#C" n="68"/>frater noster. In spiritualibus autem non juratur, ut infr. coc 
+      <lb ed="#C" n="69"/>literas. idem puto in annexis spiritualibus, ut in jure pa 
+      <lb ed="#C" n="70"/>tronatus, sup. de jud quanto. Sunt autem spirituales caus¬ 
+      <lb ed="#C" n="71"/>matrimoniales, &amp; quando agitur de ecclesiis vel decimis 
+      <lb ed="#C" n="72"/>ut in dicta decr. literas, sed in his jurandum est de veritat, 
+      <lb ed="#C" n="73"/>dicenda, ut est expressum; sup. de ele. dudum. Greg § partibus 
+      <lb ed="#C" n="74"/>&amp; §. licet. inf. de jurejur. ex literis. sed &amp; ubi de spirituali agi 
+      <lb ed="#C" n="75"/>tur civiliter, puta ad restit. faciendam, juratur. infra de rest. 
+      <lb ed="#C" n="76"/>spol. literas. §. praetered. secundum T. Sed certe ibi loquitu 
+      <lb ed="#C" n="77"/>in except. opposita, &amp; in juramento de malitia, non di 
+      <lb ed="#C" n="78"/>talum alioquin si etiam de spoliatione rei spiritualis prin 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0238.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>cipaliter agatur, non juratur de calumnia, sed de veritat 
+      <lb ed="#C" n="80"/>dicenda, ut in authent.d.n. testi. extra, ad hoc. &amp; infra. prae sen 
+      <lb ed="#C" n="81"/>tium. &amp; junge quod not. infra eod. versic. illud tamen audivi 
+      <lb ed="#C" n="82"/>&amp; seq. &amp; praeced. Item juratur in except. oppositis in sp 
+      <lb ed="#C" n="83"/>ritualibus, si praesumptio sit contra excipientem. suprad 
+      <lb ed="#C" n="84"/>elect. cum dilecti. §. nos vero. arg. infra de excep pastoralis, &amp; de di 
+      <lb ed="#C" n="85"/>spons. impub. continebatur, &amp;c. attestationes. &amp; in aliis concor 
+      <lb ed="#C" n="86"/>quas not. infr. de contu. §. qua poena. vers. quinimo. Sed quae es 
+      <lb ed="#C" n="87"/>ratio, quare in spiritualibus non juratur de calumn. cusm 
+      <lb ed="#C" n="88"/>minus calumniandum sit in illis, quam in aliis, nam circi 
+      <lb ed="#C" n="89"/>majora majus periculum vertitur, 42.dist. quiescamus, 7 qu2 
+      <lb ed="#C" n="90"/>c sin ff. de Car edi. l. 1. §. 2. Respon. Juramentum de calumni. 
+      <lb ed="#C" n="91"/>ad multa arctat jurantem: at in causis spiritualibus non es 
+      <lb ed="#C" n="92"/>rigor juris observandus. &amp; propterea loco illius successit 
+      <lb ed="#C" n="93"/>juramentum de veritate dicenda in his casibus, ex quo i 
+      <lb ed="#C" n="94"/>hil aliud provenit, nisi ut veritas excutiatur. secud. Goffi 
+      <lb ed="#C" n="95"/>hoc bene sciebam. hoc enim dicit c. literas. ibi, quia huip 
+      <lb ed="#C" n="96"/>causae non ex legum distinctione, sed ex canonum aequita 
+      <lb ed="#C" n="97"/>te debitum sortiuntur. ad hoc sup. de jud dilecti, inf. de do. e 
+      <lb ed="#C" n="98"/>contum c. 1. 27. a 2. sunt qui dicunt. Sed haec ratio non vide 
+      <lb ed="#C" n="99"/>tur bona, quia sic in foro ecclesiastico nunquam juraretu 
+      <lb ed="#C" n="100"/>de calum. cum magis sequamur canones quam leges, ve 
+      <lb ed="#C" n="101"/>sensum proprium, ut sup de constit. c. 1. &amp; 10. dist. c. 1. Item in 
+      <lb ed="#C" n="102"/>omni causa, &amp; in omni juramento calumnia fugienda ess 
+      <lb ed="#C" n="103"/>ergo de calum jurandum est. ideo praestatur hoc juramen 
+      <lb ed="#C" n="104"/>tum; ut timore hujus sacramenti litigatorum instanti¬ 
+      <lb ed="#C" n="105"/>compescatur. C. eod. l.i. Item, ideo, ut veritas eliciatur, infra 
+      <lb ed="#C" n="106"/>eod. caeterum. tertio ne quis immemor sit suae salutis, &amp; ae 
+      <lb ed="#C" n="107"/>ternae, ut probant concor. signatae. inf. eod. vers. ideo non prae 
+      <lb ed="#C" n="108"/>sumitur. Ideo forte est ratio, quia non praesumitur, quoc 
+      <lb ed="#C" n="109"/>aliquis ibi calumnietur, &amp; quia cum spirituali tractemus 
+      <lb ed="#C" n="110"/>&amp; super spiritualia ponamus, semper habemus Deum in 
+      <lb ed="#C" n="111"/>mente, &amp; scire debemus, quod inter simplicem loquelam 
+      <lb ed="#C" n="112"/>&amp; juramentum, non facit Deus differentiam, 22. qu. 5. jura 
+      <lb ed="#C" n="113"/>menti. hac enim ratione juratur; ut cum positiones fiani 
+      <lb ed="#C" n="114"/>sub juramento, semper habeatur in memoria Deus: qui¬ 
+      <lb ed="#C" n="115"/>Deus in memoria debet haberi. ut in auth. ut judic. sine quo 
+      <lb ed="#C" n="116"/>quo suffrag § sic igitur. in princ. quid enim in memoria, si noi 
+      <lb ed="#C" n="117"/>liberatio &amp; redemptio? Hac de causa forte praecipiebatur 
+      <lb ed="#C" n="118"/>in lege; quod quando judex sedet pro tribunali, habea 
+      <lb ed="#C" n="119"/>Evangelia coram se, ut Deum in mente habeat, sciturus 
+      <lb ed="#C" n="120"/>quod sicut judicabit, ita judicabitur. C. de jud. ren non nova 
+      <lb ed="#C" n="121"/>sic Deum non potest tradere oblivioni, qui do Deo loqui 
+      <lb ed="#C" n="122"/>tur: sed quasi de Deo loquitur, qui de sacro loquitur. Ide¬ 
+      <lb ed="#C" n="123"/>non praesumitur, quod aliquis in spiritualibus sit imine 
+      <lb ed="#C" n="124"/>mor salutis aeternae. 14. 7. sancimus. C. ad leg. Jul. repe.I.ult. sut 
+      <lb ed="#C" n="125"/>de proc. in nostra. §. ult. adeo quod sive personae ecclesiasticae 
+      <lb ed="#C" n="126"/>seu seculares, super spiritualibus litigent, semper spiritu 
+      <lb ed="#C" n="127"/>ale retinet hanc naturam: sin autem super civili, &amp; ipsum 
+      <lb ed="#C" n="128"/>naturam suam retinet. &amp; sic potius inspicitur natura ju 
+      <lb ed="#C" n="129"/>dicii, quam personae. quicunque enim sit judex, secundum 
+      <lb ed="#C" n="130"/>legem suam judicabit omnes: hic appello judicium rem, 
+      <lb ed="#C" n="131"/>super qua contentio est. Item spiritualia magis convenium 
+      <lb ed="#C" n="132"/>Deo, quam civilia. quare in spiritualibus potius videtu 
+      <lb ed="#C" n="133"/>recipere Deus, &amp; exigere juramentum, si praestaretur, quam 
+      <lb ed="#C" n="134"/>homo: homo vero magis videtur ipsum recipere in civili 
+      <lb ed="#C" n="135"/>bus. idooque Deus cum in nullo calumniosus sit, non exi 
+      <lb ed="#C" n="136"/>git, nec recipit juramentum, homo vero, qui secundun 
+      <lb ed="#C" n="137"/>humanitatem &amp; fragilitatem calumniosus est, in suo ipsi 
+      <lb ed="#C" n="138"/>exigit &amp; recipit. Illud tamen audivi aliquoties, quod spi 
+      <lb ed="#C" n="139"/>ritualia ad nullum pertinent jure proprietatis, sed sunt qu 
+      <lb ed="#C" n="140"/>communia: unde in ipsis non exigitur sacramentum ca¬ 
+      <lb ed="#C" n="141"/>lumn. quia quod commune est naturaliter negligitur, C 
+      <lb ed="#C" n="142"/>quando &amp; quibus quarta pars debetut.I.i.lib. 10. Haec tamen ra 
+      <lb ed="#C" n="143"/>tio videtur fallere in usura; quam usurarius cupit ultri 
+      <lb ed="#C" n="144"/>communem cupiditatem. Item in matrimonio: nec enin 
+      <lb ed="#C" n="145"/>dicet quis, quod maritus petat uxorem, vel negligatu 
+      <lb ed="#C" n="146"/>communem. Ex hoc vero insurgit alia ratio. clerici enim 
+      <lb ed="#C" n="147"/>procur. sunt, non domini. inf. de dolo. t. 2. sed nullus procur 
+      <lb ed="#C" n="148"/>jurat de calumn. secundum quosdam, ut not. §. quis debei 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="149"/>ADDITIO 
+      <lb ed="#C" n="150"/>bHoc in summa observandum recte putat Mart, ubi supra 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>quod nullus debet hujusmodi jutamento astringi, de que¬ 
+      <lb ed="#C" n="152"/>praesumitur, quod non debeat observare, ar extra de coha. cle. i 
+      <lb ed="#C" n="153"/>mud cericos, ubi de ho in giargum celligitur. Mari--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0239.xml-->
+      <pb ed="#C" n="222"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>vers. proc. sed secundum hoc etiam in civilibus positionil 
+      <lb ed="#C" n="2"/>ecclesiasticis non juraretur. tene igitur superiores ratio 
+      <lb ed="#C" n="3"/>nesadquas facit, infra de monun. eccl, cum ecclesia, quod no 
+      <lb ed="#C" n="4"/>in summa ejusdem tit. §. inquantum Quare ergo juratur di 
+      <lb ed="#C" n="5"/>calumnia in exceptionibus circa spiritualia oppositis, u 
+      <lb ed="#C" n="6"/>not. supra vers. in spiritualibus, &amp; seq. ibi tetigi unam ratio 
+      <lb ed="#C" n="7"/>nem. item potest dici, quod hoc ideo est, quia cum jus ca 
+      <lb ed="#C" n="8"/>nonicum compositum sit, ut not in prooemio: magis ta 
+      <lb ed="#C" n="9"/>men trahitur ad spiritualia, quam civilia, &amp; ad veritatem 
+      <lb ed="#C" n="10"/>quam ad subtilitatem ut infra de dolo &amp; contum. c.i.cum er 
+      <lb ed="#C" n="11"/>go exceptio plerunque causam protrahat, &amp; veritaten 
+      <lb ed="#C" n="12"/>impediat, propter subtilitatem sui, juvans se naturam iu 
+      <lb ed="#C" n="13"/>ris civilis contra canonicum, merito et jus canonicum ea 
+      <lb ed="#C" n="14"/>dem subtilitate, etiam circa spiritualia juvabit se contr¬ 
+      <lb ed="#C" n="15"/>ipsam, &amp; sic ad ipsam reprimendam juramentum de ci 
+      <lb ed="#C" n="16"/>lumnia exigitur, arg. supra de constit. cum omnes. 3. quaest. 
+      <lb ed="#C" n="17"/>cujus in agendo, &amp; infra cod literas Potest &amp; id dici, secun 
+      <lb ed="#C" n="18"/>dum Gof. quod in exceptionibus non juratur de calum 
+      <lb ed="#C" n="19"/>sed de malitia differunt autem haec juramenta in multi 
+      <lb ed="#C" n="20"/>Primo, quia juramentum de calumnia praestatur post li 
+      <lb ed="#C" n="21"/>tis contest. ut not. supra cod § quando. sed juramentum d 
+      <lb ed="#C" n="22"/>malitia etiam ante, ut supra de elect. cum dilect. §. nός νετo. e 
+      <lb ed="#C" n="23"/>infra de reftit. spol literas. §. praeterea. &amp; post lit, contest ut in 
+      <lb ed="#C" n="24"/>de testi. in causis, &amp;c. pen. Secundo, quia de calum. semel ta 
+      <lb ed="#C" n="25"/>tum juratur in tota lite, ut not. infra §. quando. Sed de ma 
+      <lb ed="#C" n="26"/>litia toties, quoties in judicio aliquid proponitur, quod ti 
+      <lb ed="#C" n="27"/>metur vel praesumitur malitiose proponi. Tertio, quia de 
+      <lb ed="#C" n="28"/>calum. non habet locum, nisi in prophanis, seu temporali 
+      <lb ed="#C" n="29"/>bus, sed de malitia in utrisque, ut dixi, scilicet in spiritual 
+      <lb ed="#C" n="30"/>bus &amp; prophanis. Quarto, quia per juramentum de calu 
+      <lb ed="#C" n="31"/>providetur, ne quid malitiose seu dalumniose fiat in toti 
+      <lb ed="#C" n="32"/>lite, sed perjuramentum de malitia providetur tantum i 
+      <lb ed="#C" n="33"/>illo articulo, in quo praestatur. secundum Goffr. Et brevi 
+      <lb ed="#C" n="34"/>ter in omnibus videtur praestandum juramentum, prae 
+      <lb ed="#C" n="35"/>terquam in spiritualibus, cum de his tantum prohibea 
+      <lb ed="#C" n="36"/>tur. unde quod de uno prohibetur, de aliis conceditur. ar 
+      <lb ed="#C" n="37"/>gum. f. de judic. praetor. infra de praesampt. nonne. 25. distinctism 
+      <lb ed="#C" n="38"/>qualis. 
+    </p>
+            <p xml:id="nbht7y-d1e613-d1e1058">
+               <lb ed="#C" n="39"/>Quando praestandum est. Post lit cont. 
+      <lb ed="#C" n="40"/>immediate, &amp;c 
+      <lb ed="#C" n="41"/>antequam positiones fiant. alias tacite videtur remitti, u 
+      <lb ed="#C" n="42"/>supra in princip. hujus Summae, &amp; de lit. contest. §. &amp; quaen 
+      <lb ed="#C" n="43"/>do. &amp; semel tantum praestandum est, non saepius, ut C. eod 
+      <lb ed="#C" n="44"/>nuch. hoc salramentum. &amp; in auth in isto sacramento. sed &amp; in 
+      <lb ed="#C" n="45"/>exceptionibus. quae objiciuntur ante litis contestitionem 
+      <lb ed="#C" n="46"/>jurandum erit de calum. ut dixi supra in except. opposi 
+      <lb ed="#C" n="47"/>tis in spiritualibus. §. &amp; inquibus. versic. in spiritualibus. 8 
+      <lb ed="#C" n="48"/>bro hoc, si. qui satisdar. cog. de die. §. jubetur. &amp; ad hoc ad exhi¬ 
+      <lb ed="#C" n="49"/>bend thesaurus, &amp; f de demn infecto. qui bona. §. si quis stipula 
+      <lb ed="#C" n="50"/>tus, &amp; de jurejur l. jusjurand. nec obstat quod semel tantun 
+      <lb ed="#C" n="51"/>furandum est: quia illud intelligo quo ad ea quae accidum 
+      <lb ed="#C" n="52"/>post litem contestatam, ex quo juratum est, secundum T 
+      <lb ed="#C" n="53"/>Sed alii, quibus assentit Goffre. dicunt, quod omnia jura 
+      <lb ed="#C" n="54"/>quae videntur velle, quod juretur de calumnia ante liten 
+      <lb ed="#C" n="55"/>contestat. corriguntur: quia non est jurandum, nisi semel 
+      <lb ed="#C" n="56"/>ut dictum est. Hoc tamen fallit in quibusdam casibus, in 
+      <lb ed="#C" n="57"/>quibus seeundo de calumnia juratur. in auib. de testi. §. qui¬ 
+      <lb ed="#C" n="58"/>pero &amp; de fide instrum. §. si vero, coll. 7. quae authenticae poste 
+      <lb ed="#C" n="59"/>riores sunt illa de his, qui ingred. ad appel. Sunt &amp; alii ca 
+      <lb ed="#C" n="60"/>sus, quos not. infra de dolo sub rubricella de contum. §. quae po 
+      <lb ed="#C" n="61"/>na. versicul. quinimo. Vel dic, quod in illis casibus noin jura 
+      <lb ed="#C" n="62"/>tur de calumnia, sed de malitia inter quae differentia es 
+      <lb ed="#C" n="63"/>sicut noc sup. eodem, §. &amp; in quibus. versicul illud potest dici. e 
+      <lb ed="#C" n="64"/>sig. seeundum Goffre. Item potest etiam dici in his qua 
+      <lb ed="#C" n="65"/>accidunt ante litem contest, scilicet quod tunc juratur di¬ 
+      <lb ed="#C" n="66"/>malitia, seu de calum. spirituali, scil. quod non continet in 
+      <lb ed="#C" n="67"/>se plura capitula: sed hoc tantum, quia nihil calumnios 
+      <lb ed="#C" n="68"/>proponatur, &amp; sic verius videtur, quod non corriguntu 
+      <lb ed="#C" n="69"/>jura superius allegata, quae volunt ut ante litem contesti 
+      <lb ed="#C" n="70"/>tam de calum jurejur. Sed nunquid danda est dies ad de 
+      <lb ed="#C" n="71"/>liberandum, si is contra quem sit positio dicat se dubitari 
+      <lb ed="#C" n="72"/>in juramento de veritate dicenda? Puto quod sic, ne in 
+      <lb ed="#C" n="73"/>currat anceps perjurium &amp; infamiam facti, sic potest in 
+      <lb ed="#C" n="74"/>telligi ff. de interrog. act. qui mierrogatur. C. de jure delibe. si cu 
+      <lb ed="#C" n="75"/>ratoris ff. de petit haered. si quis libertatem. §. plane. sed in sacri 
+      <lb ed="#C" n="76"/>mento calumniae minime, cum sine timore aliquo juri 
+      <lb ed="#C" n="77"/>vel facti respondere possit, Credo, vel non credo: quia ne 
+      <lb ed="#C" n="78"/>ad illud tenetur, ut patet infr. eod quid contineatur. Nam si 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0239.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>cundum Goffre juramentum? hoc de veritate dicenda 
+      <lb ed="#C" n="80"/>differt a juramento calumniae, in tribus. Primum est, qui¬ 
+      <lb ed="#C" n="81"/>in juramento de veritate dicenda, respondendum estd 
+      <lb ed="#C" n="82"/>veritate: sicut ipsum verbum sonat. ff. judicatum solvi. Lju 
+      <lb ed="#C" n="83"/>dicatum solvi &amp; arg. f. de leg. 3. Inon aliter. ergo dicat. Est, vel 
+      <lb ed="#C" n="84"/>non est. Sed in juramento de calumnia, sufficit quod di 
+      <lb ed="#C" n="85"/>cat, Credo, vel non credo. inauth. de his qui ingred. ad appel 
+      <lb ed="#C" n="86"/>§. pen. &amp; sinal Sed quid refert. utrum dicat, Credo, vel non 
+      <lb ed="#C" n="87"/>credo, confiteor, vel nego. nam in utroque inspicitur con 
+      <lb ed="#C" n="88"/>scientia, ut not. supr. de jurejur. quod comites. versic. im verita 
+      <lb ed="#C" n="89"/>&amp;. ergo &amp; si de veritate dicenda juraverit, &amp; si falsum cre 
+      <lb ed="#C" n="90"/>dat esse verum, debet tamen secundum conscientiam re 
+      <lb ed="#C" n="91"/>spondere. ideo dixi sup. ne incurrat anceps perjurium, &amp; 
+      <lb ed="#C" n="92"/>infamiam facti, scil. quo ad hominum opinionem, &amp; faci 
+      <lb ed="#C" n="93"/>pro hac opin. 349. hortamur. ibi conscientiae vestrae, quid se 
+      <lb ed="#C" n="94"/>cundum conscientiam debet testis testificari. sed contr. 
+      <lb ed="#C" n="95"/>est arg. in eodc. ibi, quae in rerum veritate noverunt, qui.d. de 
+      <lb ed="#C" n="96"/>his quae sciunt debent testificari, &amp; non de credulitate 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="97"/>ADDITIONES 
+      <lb ed="#C" n="98"/>i Interjicias hic commodissime ex Mart. in lumma rodem titul 
+    </p>
+    <p>
+      <lb ed="#C" n="99"/>rubricellam sive articulum hunc, in quibus juramentum d 
+      <lb ed="#C" n="100"/>calumnia differat ab aliis, &amp; in quibus conveniat id quod a 
+      <lb ed="#C" n="101"/>Host. omissum miror. Iuramentum, inquit ille, de calumni 
+      <lb ed="#C" n="102"/>differt a juramento de malitia, in quatuor. Primo, quia ju 
+      <lb ed="#C" n="103"/>ramentum calumniae praestatur post litem contestatam, ext 
+      <lb ed="#C" n="104"/>de testibus in causis: &amp; capit pen de iurament. calum, cum causas 
+      <lb ed="#C" n="105"/>luramentum vero de malitia praestatur ante &amp; post litem con 
+      <lb ed="#C" n="106"/>testatam, extra de elect cum dilectus, &amp; de except. pastoralis. deri 
+      <lb ed="#C" n="107"/>stitut. st.liat. circa fin. Item secundo differunt, quia juramen 
+      <lb ed="#C" n="108"/>tum de calumnia praestatur semel tantum, ut dictum est in 
+      <lb ed="#C" n="109"/>choata lite. d. c. cum causam. Sed juramentum de malitia te 
+      <lb ed="#C" n="110"/>ties praestatur, quoties in judicio quis aliquid proponit, v 
+      <lb ed="#C" n="111"/>postulat fieri, quod ex malitia procedere timeatur. Itemte 
+      <lb ed="#C" n="112"/>tio, quis juramentum de calumnis habet locum in prophi 
+      <lb ed="#C" n="113"/>nis tantummodo. sed juramentum de malitia non tantumi 
+      <lb ed="#C" n="114"/>prophanis, sed &amp; spiritua libus casibus locum habet, ut pro 
+      <lb ed="#C" n="115"/>batur perjura prae missa. Item quarto, quia perjuramentur 
+      <lb ed="#C" n="116"/>de calumnia providetur, ne aliquid calumniose fiat in tot 
+      <lb ed="#C" n="117"/>lite, sed per juramentum de malitia providetur, ne illud quo¬ 
+      <lb ed="#C" n="118"/>proponitur vel petitur, malitiose proponatur, vel petatur 
+      <lb ed="#C" n="119"/>quand o suspectus habetur proponens Item differt juramen 
+      <lb ed="#C" n="120"/>tum de calumnia ajuramento de veritate dicenda in tribu¬ 
+      <lb ed="#C" n="121"/>Primo, quia juramentum de calumnia locum non habet it 
+      <lb ed="#C" n="122"/>spititualib. causis, sed juramentum de verntate dicenda pra 
+      <lb ed="#C" n="123"/>statui in illis. extra de iureiur ex literis ubi de hoc in glo. ju1a 
+      <lb ed="#C" n="124"/>mentum, de abct dudum. 2. Sed juramentum de calum nia in 
+      <lb ed="#C" n="125"/>temporalibus, &amp; pecuniariis causis locum habet; de inramen 
+      <lb ed="#C" n="126"/>calum caterum, &amp; cap. cum causam. &amp; cap. final. Item secund 
+      <lb ed="#C" n="127"/>deffert, quia in juramento de calumnia respondere tenetu 
+      <lb ed="#C" n="128"/>jurans de illo, quod existimat vel credit, in anthent. de his qu 
+      <lb ed="#C" n="129"/>ingred. ad appel. §. pen. &amp; fin. unde statim sine inducus te spon 
+      <lb ed="#C" n="130"/>dere debet, Credo, vel non credo. Nec potest dicere Dubito 
+      <lb ed="#C" n="131"/>sed in juramento de veritate dicenda debet respondere d 
+      <lb ed="#C" n="132"/>veritate. nam hot ipsum verbum sonat. LI. ff. de iud. sol. und 
+      <lb ed="#C" n="133"/>potest dubitare. Ideoque habebit inducias ad deliberan 
+      <lb ed="#C" n="134"/>dum, &amp;t tunc non dicat se dubitare, quia simpliciter dicert 
+      <lb ed="#C" n="135"/>debet, Scio, vel nescio, ff. de interrog. actio. I qui interrogatus e 
+      <lb ed="#C" n="136"/>C. de inr. delib. I si curatoris. de his habes exta de juram. calum 
+      <lb ed="#C" n="137"/>glo. responsionibus, cap. pen. Item tertio, quia juramentur 
+      <lb ed="#C" n="138"/>de calu. multa capitula continet, quae in juramento de veri 
+      <lb ed="#C" n="139"/>tate dicenda locum non habent. Sciendum est enim, quo 
+      <lb ed="#C" n="140"/>jufamentum de veritate dicenda successit in locum iurament 
+      <lb ed="#C" n="141"/>de calumnia, quia tunc istud praestatur, quando illud locum 
+      <lb ed="#C" n="142"/>non habet, &amp; interpretatur ius, &amp; imitatur nauiram illius, u 
+      <lb ed="#C" n="143"/>praestetur statim post lit. cont. arg. ad hoc, ff. depetis. haer Luen 
+      <lb ed="#C" n="144"/>veniunt. §. cum praediximus. C. comm. de leg. 1.LItem turans de calu 
+      <lb ed="#C" n="145"/>nontenetur in eadem causa praestare juramentum de veri 
+      <lb ed="#C" n="146"/>tate dicenda. Sed contrario non tenetur, ut C. eod. tis auth. i 
+      <lb ed="#C" n="147"/>hoc sacramento &amp; arg. extra de test praesentium. ubi de hoc in glo 
+      <lb ed="#C" n="148"/>juramento lurantes autem de calumnia, &amp; de veritate di 
+      <lb ed="#C" n="149"/>cenda mittuntur ad egregias personas, si ad judicium nolun 
+      <lb ed="#C" n="150"/>venire, ff. de iureiuran ad personus. Item quia meram, puram, &amp; 
+      <lb ed="#C" n="151"/>plenam dicere veritatem jurat nullum verum, tacere debet 
+      <lb ed="#C" n="152"/>3. quaest. 9. hortamur. &amp; nullam debere dicere falsitatem, 2. 
+      <lb ed="#C" n="153"/>4. nullam de accu. cum dilecti. ubi de hoc. Item si cut actor no 
+      <lb ed="#C" n="154"/>lens jurate de calumnia, cadit ab instituta actione, sic &amp; no 
+      <lb ed="#C" n="155"/>lens de veritate dicenda jurare &amp; pro confesso habetur re 
+      <lb ed="#C" n="156"/>us, de iuram calum. literas, C. cod. I. fin. §. quod si actor. &amp; auth. prin¬ 
+      <lb ed="#C" n="157"/>cipales. in fin. Mari 
+      <lb ed="#C" n="158"/>Quando praestandum est) Adde Spec. tis de iuram calumn. s.1 
+    </p>
+    <p>
+      <lb ed="#C" n="159"/>inm Spoc an. de iuriid o nd. in 4.6--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0240.xml-->
+      <pb ed="#C" n="223"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>quia de veritate dicenda jurant. Sed quod ibi dicit, Nove 
+      <lb ed="#C" n="2"/>runt, subaudi, sive per scientiam, sive per judicium scier 
+      <lb ed="#C" n="3"/>tiae, sive per credulitatem: nam super his omnibus inter 
+      <lb ed="#C" n="4"/>rogatur testis, ut not. infra de test. §. superquibus. vers. auditu 
+      <lb ed="#C" n="5"/>&amp; verfic. scientia. &amp; probatur infra de testib. sum causam, qui 
+      <lb ed="#C" n="6"/>inter archiepiscopum. respon.i. nam &amp; quicunque venit contr 
+      <lb ed="#C" n="7"/>conscientiam, &amp;c. infrade praescr.c. si. Item pro Goffred v 
+      <lb ed="#C" n="8"/>detur expressum in auth. d.n. de test. extra. ad hoc &amp; infrae ib 
+      <lb ed="#C" n="9"/>qua norunt. supra de jud §. quae sunt necessaria sub §. por 
+      <lb ed="#C" n="10"/>recto. versic. hoc tamen scias. sed pro me facit, quod in 
+      <lb ed="#C" n="11"/>extra sequitur ibi, &amp; quam intelligunt, quasi dicat si fort 
+      <lb ed="#C" n="12"/>noritia tua falsa est, non debet eam sequi: nam &amp; talis cre 
+      <lb ed="#C" n="13"/>dit scire qui errat. Inst. qui &amp; ex qui cau. ma. non possunt. §. 1 
+      <lb ed="#C" n="14"/>fraudem ideo dicitur, ne innitaris, &amp;c. supra de consti. nen 
+      <lb ed="#C" n="15"/>nitaris. ideoque jubetur praelatus non solum per ea que 
+      <lb ed="#C" n="16"/>novit, i. nosse se credit, sed &amp; propter ea, quae ab aliis intel 
+      <lb ed="#C" n="17"/>liget, suam conscientiam informare, &amp; secundum ea re 
+      <lb ed="#C" n="18"/>spondere, sicut expressim dixit extra alles &amp; sic facit pr¬ 
+      <lb ed="#C" n="19"/>&amp; non contra scio tamen, quod opin. Goff. communis es 
+      <lb ed="#C" n="20"/>&amp; quamvis verba eam videantur fovere, tamen, quo ad vin 
+      <lb ed="#C" n="21"/>responsionis faciendae, mens verborum &amp; jurium contra 
+      <lb ed="#C" n="22"/>dicere videtur, si praecise respondere velit negando, vel a 
+      <lb ed="#C" n="23"/>firmando, sed in medio jus est nam in juramento de ca 
+      <lb ed="#C" n="24"/>praecise cogetur respondere, &amp; non sic in juramento di 
+      <lb ed="#C" n="25"/>veritate, in quo sufficere videtur, si dicat Nescio. ut 224. 
+      <lb ed="#C" n="26"/>homines. ibi, &amp; temere jurat. Isi affirmat, vel negat id quo¬ 
+      <lb ed="#C" n="27"/>nescit, licet instante judice possit &amp; debeat de conscienti 
+      <lb ed="#C" n="28"/>respondere, non tamen affirmare quod ita sit, ne incurra 
+      <lb ed="#C" n="29"/>anceps perjurium. ff.rerum amo. Mucell. §. durare fidem liten 
+      <lb ed="#C" n="30"/>jvran. videamus,. circa prin. Secundum est, in quo differi 
+      <lb ed="#C" n="31"/>secundum Goffre. quia de veritate locum habet in omn 
+      <lb ed="#C" n="32"/>causa, sive in spirituali, sive in temporali: sed de cal. nor 
+      <lb ed="#C" n="33"/>habet locum in spiritualibus: imo loco illius successit jura 
+      <lb ed="#C" n="34"/>mentum de veritate dicenda in defectum juramenti d 
+      <lb ed="#C" n="35"/>calum. ut patet inf. de his, quae no. §. &amp; nquib. versi in spiritua 
+      <lb ed="#C" n="36"/>libus. &amp; seq. Tertium, quia juramentum de calum. mult 
+      <lb ed="#C" n="37"/>continet capitula, ut patet infr. eod §. quid contineatur. qua 
+      <lb ed="#C" n="38"/>non continet juramentum de veritate dicenda. Unum ta 
+      <lb ed="#C" n="39"/>men non omittas, quod ubi juramentum de veritate prae 
+      <lb ed="#C" n="40"/>statur in defectum juramenti de calum. statim post liten 
+      <lb ed="#C" n="41"/>contest praestandum est, ut sic in tempore imitetur natu 
+      <lb ed="#C" n="42"/>ram illius cui succedit. argu. ff. de pet. haer item veniunt. §, cun 
+      <lb ed="#C" n="43"/>praediximus. &amp; C. communia de leg. I.i. secundum Goff. &amp; mi 
+      <lb ed="#C" n="44"/>lius ff siquis cau. si eum. § qui injuriarum. puto tamen, quo 
+      <lb ed="#C" n="45"/>&amp; postea exigi potest, ut no sup. de lit conte. §. &amp; quando. ve 
+      <lb ed="#C" n="46"/>etiam ante, ut non inf. qui matrimonium acc. pos. sub rub. si mu 
+      <lb ed="#C" n="47"/>tier petit. versic. sed quoniam agens. Sed &amp; quarta differen 
+      <lb ed="#C" n="48"/>tia no. potest; quia juramentu de veritate potest per pro 
+      <lb ed="#C" n="49"/>curatorem praestari. ut in authen.d. nu. extra, de testi. ad hoc, e 
+      <lb ed="#C" n="50"/>inf praesentium. tibi authoritate mandamus, secus in jura 
+      <lb ed="#C" n="51"/>mento de calumnia, quod praestatur in animam juranti: 
+      <lb ed="#C" n="52"/>inf. eo in pertractandis: nam in personam procura. non po 
+      <lb ed="#C" n="53"/>suntbene cadere capitula, quae continentur in jura. de ca 
+      <lb ed="#C" n="54"/>lum. ut patet infra eod §. quid contineatur. &amp; vide, quod no 
+      <lb ed="#C" n="55"/>supr. eod. § quis debet jurare, vers. hoc autem no. de hoc enin 
+      <lb ed="#C" n="56"/>quod hic dico regulare est. Sed aliquando fallit in casibus 
+      <lb ed="#C" n="57"/>ut ibi not. alii tamen nullum excipiunt casum. Sed nur 
+      <lb ed="#C" n="58"/>quid si semel negavit, iterum cogetur respondere? put 
+      <lb ed="#C" n="59"/>quod sic; si allegetur quod non melius noverit veritatem 
+      <lb ed="#C" n="60"/>nam ad judicem pertinet, inquirere veritatem; &amp; potes 
+      <lb ed="#C" n="61"/>esse, quod quando respondit, non calumniabatur, quia si 
+      <lb ed="#C" n="62"/>credebat, nunc autem contrarium credit, ut ff. de damn. in 
+      <lb ed="#C" n="63"/>fect. qui bona §. si quis stipulaturus: ideo secundum Goffreo 
+      <lb ed="#C" n="64"/>non sufficit, quod in juramento de calum juretur de prae 
+      <lb ed="#C" n="65"/>terito, ut dicat se non calumniandi animo movisse litem 
+      <lb ed="#C" n="66"/>seu adjiciat non movere, &amp; hoc ex parte actoris. &amp; eo 
+      <lb ed="#C" n="67"/>demmodo reus dicat, quod non calumniandi animo resi 
+      <lb ed="#C" n="68"/>stit, ut probatur ff. fam. erciscun. inter cohaeredes. §. qui faom. 
+      <lb ed="#C" n="69"/>tiscun secundum Goffre. quinimo videtur, quod hoc no 
+      <lb ed="#C" n="70"/>fufficit, nisi &amp; futurum tempus complectatur, scil. ut di 
+      <lb ed="#C" n="71"/>cat, resistit in futuro, ut innuit Iquae bona. §. si quis stipulatu 
+      <lb ed="#C" n="72"/>rus. &amp; quia hoc juramentum ad totam fitem externditur 
+      <lb ed="#C" n="73"/>ergo ad tempus futurum, ut dixi sup. eo. in princ. &amp; probatur 
+      <lb ed="#C" n="74"/>C. de ju. rem non novam. §. patroni. unde si bene vellet servari 
+      <lb ed="#C" n="75"/>juramentum is qui tunc responderat, proprio motu veni 
+      <lb ed="#C" n="76"/>ret, &amp; responsum suum corrigeret; sed quia pauci capi 
+      <lb ed="#C" n="77"/>unt verbum istud, saltem quo ad effectum, tutius est quo 
+      <lb ed="#C" n="78"/>porum interrogetur 
+    </p>
+            <p xml:id="nbht7y-d1e613-d1e1368">
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0240.xml-->
+               <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>Quid contineatur in eo His versib. 1 com¬ 
+      <lb ed="#C" n="80"/>prehende: Istud ju¬ 
+      <lb ed="#C" n="81"/>retur, quod lis sibi justa videtur, scilicet actori in agendo 
+      <lb ed="#C" n="82"/>reo in defendendo. Et si quaeretur verum, non inficietur 
+      <lb ed="#C" n="83"/>Nec distingue utrum positio sit negativa, vel affirmativa 
+      <lb ed="#C" n="84"/>ergo qualitercunque ponatur, respondendum est quoc 
+      <lb ed="#C" n="85"/>dic, ut not. infra ae probat. S. quis debet, vers. nunquid ergo 
+      <lb ed="#C" n="86"/>Ut lis tardetur, dilatio nulla petetur. Nil promittetur, sc¬ 
+      <lb ed="#C" n="87"/>licet causa corruptionis nec falsa probatio detur, scil. qui 
+      <lb ed="#C" n="88"/>ad instrumenta, vel testes, vel alias species probationis, di 
+      <lb ed="#C" n="89"/>quibus no. infra. de prob. §. quot sunt species. probantur haec, s 
+      <lb ed="#C" n="90"/>fam. ercisc. inter cohaeredes, § quifam. erciscunC.eod. l. 2. &amp; auih 
+      <lb ed="#C" n="91"/>principales, in auib. ut litig jurent. col. 9
+    </p>
+            <p xml:id="nbht7y-d1e613-d1e1403">
+               <lb ed="#C" n="92"/>Quae sit poena. nolentis praestare hujus 
+      <lb ed="#C" n="93"/>modi 
+      <lb ed="#C" n="94"/>sacramentum. ut actor intentata actione cadat, scilice 
+      <lb ed="#C" n="95"/>per sententiam, quia absolvetur reus. sed si reus non vul 
+      <lb ed="#C" n="96"/>jurare, habetur pro confesso in jure: &amp; sic pro convicto 
+      <lb ed="#C" n="97"/>unde condemnabitur in his capitulis, quae in narration 
+      <lb ed="#C" n="98"/>comprehensa sunt, ut infra eod, cap. ultim. § poena Ceod I2.. 
+      <lb ed="#C" n="99"/>quod si &amp; § sin autem res, &amp; auth. principales, in si. in auth. ut li 
+      <lb ed="#C" n="100"/>tig jurent. coll.9. &amp; accedit, ff. de interrogat actio. de etate. §. qu. 
+      <lb ed="#C" n="101"/>tacuii 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="102"/>ADDITIO 
+      <lb ed="#C" n="103"/>Mart. in sum. eo tit scribit jurantem de calumnia, quinque con 
+    </p>
+    <p>
+      <lb ed="#C" n="104"/>siderare debere in se, Primo quod credat so bonam causam 
+      <lb ed="#C" n="105"/>habere, &amp; interrogatus non negabit, quod credit verum esse 
+      <lb ed="#C" n="106"/>&amp; non utetur scienter falsa propatione, nec dilationem pe 
+      <lb ed="#C" n="107"/>tet ex fraude, &amp; quod non dedit, nec dabit, nec promiseri 
+      <lb ed="#C" n="108"/>aliquid pro hac causa, nisi illis personis, quib. leges dare per 
+      <lb ed="#C" n="109"/>mittunt. C.eo. tit. l.I. &amp; 2.&amp; in authen. principales &amp; extra de iura 
+      <lb ed="#C" n="110"/>mento calum.c.I.ubi de hoc in gl. Marti--> 
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titulus 34</title>
+            <author ref="#Hostiensis">Hostiensis</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Titulus 34</title>
+               <date when="2024-05-04">May 04, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-05-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#C" n="498"/>
+            <cb ed="#C" n="b"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="nbht7y-d1e1255"><!-- nbht7y-l3t34 -->
+            <head xml:id="nbht7y-d1e1255-Hd1e101">Titulus 34</head>
+            <head xml:id="nbht7y-d1e1255-Hd1e103" type="question-title">De voto et voti redemptione</head>
+            <p xml:id="nbht7y-d1e1255-d1e106">
+               <lb ed="#C" n="140"/>De Voto, &amp; Voti redemptione 
+      <lb ed="#C" n="141"/>Rub. XXXIIII. 
+    </p>
+            <p xml:id="nbht7y-d1e1255-d1e113">
+               <lb ed="#C" n="142"/>SVMMARIA 
+      <lb ed="#C" n="143"/>1 Votum quid sit. Et in quibus casibus emitti possit. 11. Et qual 
+      <lb ed="#C" n="144"/>ter, &amp; cujus authoritate. 12. Et per quem. 16. Et in quo ca 
+      <lb ed="#C" n="145"/>su. 
+      <lb ed="#C" n="146"/>2 Species votorum quot sun 
+      <lb ed="#C" n="147"/>3 Votum de non intrando religionem an valea 
+      <lb ed="#C" n="148"/>4 Jurans vel vovens se nunquam futurum episcopum, an tenea 
+      <lb ed="#C" n="149"/>tur ad observantiam vot 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0516.xml-->
+      <pb ed="#C" n="499"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>Solenne votum quod dicatur 
+      <lb ed="#C" n="2"/>6. Vorere quis possi 
+      <lb ed="#C" n="3"/>7 Personae prohibitae quo ad potum emittendum 
+      <lb ed="#C" n="4"/>8 Filius an possit dare elcemosynam de peculio profectiti¬ 
+      <lb ed="#C" n="5"/>9 Vxor an possit votum Hicrosolymitanum invito viro emis 
+      <lb ed="#C" n="6"/>10. Meretrix publica si emiserit votum transmarinum, nunqui¬ 
+      <lb ed="#C" n="7"/>poterit redimer 
+      <lb ed="#C" n="8"/>3 Votum nullum necessitatis redemptionem vel commutatio 
+      <lb ed="#C" n="9"/>nem recipii 
+      <lb ed="#C" n="10"/>14 Discedi an possit a Voti. 
+      <lb ed="#C" n="11"/>15 Haeres an teneatur implere votum illius cui successii 
+      <lb ed="#C" n="12"/>17 Scholaris si ingrediatur monasterium dissolutum, quod poste 
+      <lb ed="#C" n="13"/>reformatur, anteneatur ad regulam observandam 
+      <lb ed="#C" n="14"/>18 Maritus si recipit ordinem sacrum vivente uxore sua, ve 
+      <lb ed="#C" n="15"/>sciente, &amp; non contradicente nunquid ei paratur praeju 
+      <lb ed="#C" n="16"/>dicium 
+      <lb ed="#C" n="17"/>20 Episcopus non potest dare authoritatem praejudicandi cru 
+    </p>
+            <p xml:id="nbht7y-d1e1255-d1e176">
+               <lb ed="#C" n="18"/>QVia plerunque voto obligatur aliquis 
+      <lb ed="#C" n="19"/>ut ad religionem trans 
+      <lb ed="#C" n="20"/>eat. de cujus introitu supra praemisit, vide¬ 
+      <lb ed="#C" n="21"/>S. mus de voto, &amp; voti redempt vel sic. Dictum 
+      <lb ed="#C" n="22"/>est supra de reli sed quia postquam quis ad relig transivi 
+      <lb ed="#C" n="23"/>votum emittit, vel prius emissum solennizat, dicamus d 
+      <lb ed="#C" n="24"/>voto, &amp;c tractantes, Quid sit votum, Quot sint species vo 
+      <lb ed="#C" n="25"/>torum: Quis vovere possit, In quibus casib. votum emi 
+      <lb ed="#C" n="26"/>tere possit, Qualiter &amp; cujus authoritate valeat redimi 
+      <lb ed="#C" n="27"/>vel commutari: &amp; utrum a voto discedi possit, Utrum, S 
+      <lb ed="#C" n="28"/>per quem in votis valeat dispensare, in quo casu, &amp; a qui 
+      <lb ed="#C" n="29"/>crux debeat praedicar 
+    </p>
+            <p xml:id="nbht7y-d1e1255-d1e206">
+               <lb ed="#C" n="30"/>Quid sit votum Alicujus rei licite 
+      facien<lb ed="#C" n="31" break="no"/>dae, vel non faciendae, cum de 
+      <lb ed="#C" n="32"/>Eberatione animi Deo facta pollicitatio. Bene dico rei li 
+      <lb ed="#C" n="33"/>d rae, quia si mala vel illicita esset promissio, non esset se¬ 
+      <lb ed="#C" n="34"/>vanda, licet rescindenda: nam in malis promissis rescind 
+      <lb ed="#C" n="35"/>lidem, in turpi voto muta decretum. 22.7. 4. in malis, &amp; in 
+      <lb ed="#C" n="36"/>talibus magis placent Deo transgressores, quam observa 
+      <lb ed="#C" n="37"/>tores, etiamsi intervenerit juramentum, ut in auth scenica 
+      <lb ed="#C" n="38"/>mulieres non solum si fi dejus praestent, sed &amp; si jusjuran. detur) 
+      <lb ed="#C" n="39"/>ne periculo potest discedere: in rubro &amp; nigro col. 5. &amp; patet i 
+      <lb ed="#C" n="40"/>his quae nont inf eod. §. in quib. Faciendae, vel non faciendae 
+      <lb ed="#C" n="41"/>ideo dixit, quia omne votum, &amp; omnis promissio, ad alte 
+      <lb ed="#C" n="42"/>rum ex his duobus reducitur: &amp; dare, &amp; non quamvis al 
+      <lb ed="#C" n="43"/>quoties fieri videatur differentia, ut ff. de praescr. ver. naturi 
+      <lb ed="#C" n="44"/>lis f de verb obl. eadem §. Cato. Cum deliberatione animi, id 
+      <lb ed="#C" n="45"/>eo dictum est, quia votum, quod exfacilitate animi potiu: 
+      <lb ed="#C" n="46"/>quam ex arbitrio discretionis emittitur, non est obligat 
+      <lb ed="#C" n="47"/>rium usquequaque. infra eod. veniens supra de reg. ad nostran 
+      <lb ed="#C" n="48"/>supr. de conper. conju. charissimus c. veniens. Deo quia ei fit vo 
+      <lb ed="#C" n="49"/>tum, &amp; reddi debet. infra eod. magnae. §. L Facta pollicitatio 
+      <lb ed="#C" n="50"/>hoc ideo, quia si non faceret, licet facere proponeret ali 
+      <lb ed="#C" n="51"/>quando, sed adhuc non plene deliberasset, non obligare 
+      <lb ed="#C" n="52"/>tur, si non esset plus in voto processum. inf. eod literaturam 
+      <lb ed="#C" n="53"/>secus, si jam deliberasset, &amp; firmiter proposuisset, quo ac 
+      <lb ed="#C" n="54"/>Deum 17.4.1. qui bona
+    </p>
+            <p xml:id="nbht7y-d1e1255-d1e263">
+               <lb ed="#C" n="55"/>Quot sint species votorum. * Duae nam aliud 
+      ne<lb ed="#C" n="56" break="no"/>cessitatis, aliud voluntatis. Votum neces 
+      <lb ed="#C" n="57"/>sitatis dicitur illud, quod quis promittit in baptismo: u 
+      <lb ed="#C" n="58"/>abrenunciare satanae, &amp; pompis ejus, tenere fidem, servi 
+      <lb ed="#C" n="59"/>re decalogum, &amp; alia sine quibus salus non est. de consec. di 
+      <lb ed="#C" n="60"/>4. primi. .q. 1. §. ecce, cum honoris. unde cum homo peccat pol 
+      <lb ed="#C" n="61"/>baptismum, dupliciter reus est: &amp; quia peccat in eo quo 
+      <lb ed="#C" n="62"/>committit, &amp; quia votum praevaricaretur. non tamen ti 
+      <lb ed="#C" n="63"/>quam pro duobus mortalibus poenitentia inducitur, sec 
+      <lb ed="#C" n="64"/>tanquam pro uno circunstantia transgressionis aggrava 
+      <lb ed="#C" n="65"/>to. Votum vero voluntatis dicitur quod quis voluntari 
+      <lb ed="#C" n="66"/>emittit, &amp; ad quod quis ante votum non tenebatur, sed pos 
+      <lb ed="#C" n="67"/>votum astringitur, sicut est votum continentiae, abstinen 
+      <lb ed="#C" n="68"/>tiae, peregrinationis, secundum Ray. Goffr. de his dicitu 
+      <lb ed="#C" n="69"/>in Psal. Vovete, &amp; reddite. glos. 1. si voveritis, reddite De 
+      <lb ed="#C" n="70"/>vestro: ut sic primum ad consilium, secundum ad impe 
+      <lb ed="#C" n="71"/>rium referatur. inf.e. magnae. Quod dictum est votum con 
+      <lb ed="#C" n="72"/>tinentiae voluntarium esse, sane intelligas, voluntarium 
+      <lb ed="#C" n="73"/>nim est contrahere, vel non contrahere &amp; sic per cons¬ 
+      <lb ed="#C" n="74"/>quens, continere, vel non continere, quilibet tamen neces 
+      <lb ed="#C" n="75"/>se habet continere, nisi contrahat matrimonium. unde e 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0516.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="76"/>iam Imperator castitatem inducit universis, quia sola pos 
+      <lb ed="#C" n="77"/>sibilis est cum fiducia Deo animas praesentare  in auth, de 
+      <lb ed="#C" n="78"/>lenonib. §. sancimus. coll. 2. &amp; ideo alibi dicit, Castitatis sumu 
+      <lb ed="#C" n="79"/>amatores in auih qui. mo. na. effi. sui. §. illud quoque col 6. pe 
+      <lb ed="#C" n="80"/>quas corriguntur antiquae leges, quae concubinas conce 
+      <lb ed="#C" n="81"/>debant, unde secundum Aug. fornicari hominibus sem 
+      <lb ed="#C" n="82"/>per non licet. 88. dist fornicari id est nunquam licet 32. qua 4 ne 
+      <lb ed="#C" n="83"/>mo. quod verum est, licentia culpae: quia nunquam tali 
+      <lb ed="#C" n="84"/>culpa peccati mortalis evadet. licet tamen aliquando licen 
+      <lb ed="#C" n="85"/>tiam poenae: quia nec semper per ecclesiam punitur: &amp; si¬ 
+      <lb ed="#C" n="86"/>intellige. 31 9.1 hac ratione. &amp; est simile quod legitur. 4. dist 
+      <lb ed="#C" n="87"/>denique. ibi, &amp; ideo cum venia suo ingenio reliquendi sunt 
+      <lb ed="#C" n="88"/>Item quod dictum est de voto abstinentiae: intellige qui 
+      <lb ed="#C" n="89"/>ad illos dies, in quibus ecclesia non inducit abstinere. nan 
+      <lb ed="#C" n="90"/>in illis, in quibus ecclesia praecipit abstinentiam, non es 
+      <lb ed="#C" n="91"/>voluntarium abstinere, sed necessarium, ut patet in hi 
+      <lb ed="#C" n="92"/>quae not inf. de obser jeju. §. pen. &amp; si. Breviter ergo dic. quo¬ 
+      <lb ed="#C" n="93"/>voluntarium votum dicitur illud, quod ante emissio 
+      <lb ed="#C" n="94"/>nem voti relinquitur arbitriocujuslibet facere, vel nor 
+      <lb ed="#C" n="95"/>facere. ita quod gratis &amp; liberaliter emittatur. non ergi 
+      <lb ed="#C" n="96"/>in reddendis decimis dicetur votum voluntarium, sec 
+      <lb ed="#C" n="97"/>necessarium. quia quilibet necesse habet eas reddere, nis 
+      <lb ed="#C" n="98"/>speciali privilegio eximatur. ut notat. supra de deci. §. &amp; 
+      <lb ed="#C" n="99"/>quibus. nemo autem in necessitatibus liberalis existit ff.d 
+      <lb ed="#C" n="100"/>adimen &amp; tranis. legatis. rem legatam. sed in his, quibus vel d 
+      <lb ed="#C" n="101"/>quibus decima non debetur, votum remittatur gratui 
+      <lb ed="#C" n="102"/>tum, &amp; voluntarium dicitur. ideoque non est a viris ec 
+      <lb ed="#C" n="103"/>clesiasticis nimis improbe exigendum. ut inf. de cens ex par 
+      <lb ed="#C" n="104"/>te. &amp; sic intelligas legem ff. deposi. l. 2.§. si decimam quis boni 
+      <lb ed="#C" n="105"/>rum poverit. quaedam ergo sunt, quae nisi voverimus, nor 
+      <lb ed="#C" n="106"/>debemus: sed postquam ea Deo promittemus, necessari¬ 
+      <lb ed="#C" n="107"/>constringimur ad reddendum. 18. quaest. &amp; patei. infr eod. li 
+      <lb ed="#C" n="108"/>cet. in princ. &amp; haec sunt in nostris oculis &amp; officiis, sic quoc 
+      <lb ed="#C" n="109"/>credendum est in conspectu Dei gratiora, quae cum lice 
+      <lb ed="#C" n="110"/>ret nobis non impendere, causa tamen dilectionis impendi 
+      <lb ed="#C" n="111"/>mus 28. quae. 1idololatria. Votorum autem voluntariorum 
+      <lb ed="#C" n="112"/>aliud simplex, aliud solenne. Simplex votum dicitur, qui¬ 
+      <lb ed="#C" n="113"/>simpliciter, &amp; sine aliqua solennitate emittitur, &amp; horum 
+      <lb ed="#C" n="114"/>aliud consistit in faciendo: ut ire ad sanctum lacobum, je 
+      <lb ed="#C" n="115"/>junare, orare, offerre certis temporibus, &amp; horis, quibu 
+      <lb ed="#C" n="116"/>homo non astringitur: aliud in non faciendo, sicut noj 
+      <lb ed="#C" n="117"/>contrahere matrimonium, non recipere ordines. haec enin 
+      <lb ed="#C" n="118"/>ideo dicuntur voluntaria: quia sine his salus est 141§. ecce 
+      <lb ed="#C" n="119"/>cum honoris Unde non in sublimitate graduum, sed in am 
+      <lb ed="#C" n="120"/>plitudinae charitatis acquiritur regnum Dei. supra de temp. 
+      <lb ed="#C" n="121"/>ordi. ad aures. in fi.* Nunquid ergo valet votum, si quis vo¬ 
+      <lb ed="#C" n="122"/>veat non intrare religionem? Non videtur, quia impedire 
+      <lb ed="#C" n="123"/>tur amplitudo charitatis: &amp; impediretur salus hominis 
+      <lb ed="#C" n="124"/>quae per religionis introitum procuratur, &amp; divina inspira 
+      <lb ed="#C" n="125"/>tio sup. de reg. licet. 19. q. 2.duae sunt. Sed contra, quia &amp; sine re 
+      <lb ed="#C" n="126"/>ligione charitas est. absit. n. quod omnes conjugatos dica 
+      <lb ed="#C" n="127"/>mus esse sine charitate, qui &amp; communi sensu in propria domo 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="128"/>ADDITIONES 
+      <lb ed="#C" n="129"/>a Quid sit votum.] Ita definit Martin. hoc titu. in Summ. bon 
+    </p>
+    <p>
+      <lb ed="#C" n="130"/>alicujus cum deliberatione Deo facta promissio. Optim? 
+      <lb ed="#C" n="131"/>cum deliberatione dictum est in definitione, quia vota anim 
+      <lb ed="#C" n="132"/>impetu facta non obligant; extra eod. tit ut venientes. &amp; dere 
+      <lb ed="#C" n="133"/>ud nostram. Sed nunquid vota mulierum, quae potius in con¬ 
+      <lb ed="#C" n="134"/>sulto animi impetu faciunt, vel infirmitatibus vel angusti 
+      <lb ed="#C" n="135"/>suis, aut suorum, &amp; etiam quae virifaciunt, moti aliqua ma¬ 
+      <lb ed="#C" n="136"/>gnaturbatione, tenenda sint? Respo. Si habuerunt intentio 
+      <lb ed="#C" n="137"/>nem obligandi se Deo, cogitantes de causa quae moveba 
+      <lb ed="#C" n="138"/>eos ad vovendum, scilicet infirmitas, vel aliudpericulum, &amp; 
+      <lb ed="#C" n="139"/>de fine scilicet evadentia periculi, per quod evitandum mo 
+      <lb ed="#C" n="140"/>vebantur, tenenda sunt, licet intribulatione &amp; perturbatio 
+      <lb ed="#C" n="141"/>ne emissa sint, secundum illud, Reddam domino vota mea 
+      <lb ed="#C" n="142"/>&amp; c. 17. 9. 4. sunt qui opes. Nec enim fiunt haec vota sine delibe 
+      <lb ed="#C" n="143"/>ratione, ex quo voventes sunt in sana mente. In casu vero il 
+      <lb ed="#C" n="144"/>lius decretalis, iteraturam. eo tit dicendum est, quod non fui 
+      <lb ed="#C" n="145"/>ibi votum, sed tantum propositum solo verbo expressum si 
+      <lb ed="#C" n="146"/>ne intentione obligandi. doct. in rnb. eotit. Arch. 17.9. 1. in Sun 
+      <lb ed="#C" n="147"/>ma domi in c 2. eo tit lib 6. &amp; quid sit votum rationale, &amp; qui¬ 
+      <lb ed="#C" n="148"/>irrationale. vide per S. Th. 2. 2. 9. 88 arg. 2 
+      <lb ed="#C" n="149"/>b Quot sint species.] Addec. I.eo.cit.lib. 6. doct. in rubr. qui cler. v. 
+    </p>
+    <p>
+      <lb ed="#C" n="150"/>voven. S. Tho 2. 2. 9. 88 
+      <lb ed="#C" n="151"/>e Deo animas praesentare. JAdde gloss. in c. post discursus de paen 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>dist. 2. g. fi.inc.I.de τα. lib. 6 -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0517.xml-->
+      <pb ed="#C" n="500"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>possunt vivere continenter. 34. 45. quod Deo praeterea qui 
+      <lb ed="#C" n="2"/>intrare religionem &amp; recipere ordines, aequiparantur, u 
+      <lb ed="#C" n="3"/>patet in his quae not, supra de conper. conjug. §. si versi sed nu¬ 
+      <lb ed="#C" n="4"/>quid si maritus. &amp; sequen. dicit Gra. qui videtur hanc quaes 
+      <lb ed="#C" n="5"/>solvere: quod si quis a parentibus coactus ut clericatu 
+      <lb ed="#C" n="6"/>tonsuram, vel religionis vestem suscipiat, se neutrum fa 
+      <lb ed="#C" n="7"/>cturum juramento firmaverit, quamvis aliquibus videa 
+      <lb ed="#C" n="8"/>tur hoc juramentum reprehensibile: quia opus charitati 
+      <lb ed="#C" n="9"/>juramento se non facturum promisit, nulla tamen autho 
+      <lb ed="#C" n="10"/>ritate servari prohibetur: &amp; si nunquam hoc vel illud f¬ 
+      <lb ed="#C" n="11"/>ceret, non ideo tamen minus salutem promereri valet, ci 
+      <lb ed="#C" n="12"/>etiam nonnulli in laici habitu sanctissimi &amp; Deo dilect 
+      <lb ed="#C" n="13"/>inveniantur. 27.q. 4. §. ult. ante fin. &amp; 61. dist. cap. 2. Solut. Vo 
+      <lb ed="#C" n="14"/>tum tenetur servare, quamvis indiscretum fuerit, nisi sib 
+      <lb ed="#C" n="15"/>postea a domino contrarium inspiretur. illectus ergo no 
+      <lb ed="#C" n="16"/>intret. 20. q 3. constit. supra de convers. conjug. dudum. ex revel¬ 
+      <lb ed="#C" n="17"/>tione secure intret, ut supra inprimis concordant. infra d 
+      <lb ed="#C" n="18"/>divor gaudemus. &amp; haec solutio satis comprobatur. 12. quae 
+      <lb ed="#C" n="19"/>beatus 16. q. I. in parochia. 27. qu 2.beata Maria supra de jurejur. c. 
+      <lb ed="#C" n="20"/>4 &amp; junge quod no. ins. eod. ver dicas. &amp; seq.* Quid si quis ju 
+      <lb ed="#C" n="21"/>ret, vel voveat, se nunquam futurum episcopum? videtu 
+      <lb ed="#C" n="22"/>quod servare debet. &amp; nunquam contravenire ut innui 
+      <lb ed="#C" n="23"/>tur a Gre. 85. dist Archi. nam &amp; hodie perfunctorie res agi 
+      <lb ed="#C" n="24"/>tur. &amp; ideo nihil periculosius hodie ad salutem, secundun 
+      <lb ed="#C" n="25"/>Aug. ut 40. dist. ante omnia sic ergo servandum est, ne pe 
+      <lb ed="#C" n="26"/>contrarium salus impediatur. 124. §. 4 §f. Sed contra, quia ho 
+      <lb ed="#C" n="27"/>majus bonum est, quam religio, ut patet infra derenun.ni 
+      <lb ed="#C" n="28"/>cum pridem § nec putes supra de reg licet §. pen. Sol. Hug. dis 
+      <lb ed="#C" n="29"/>an talis intellexit, quod in nullo casu. etiam necessitate in 
+      <lb ed="#C" n="30"/>stante, fieret episcopus, &amp; tunc non est servandum argu¬¬ 
+      <lb ed="#C" n="31"/>g. I. scias. &amp; Sq. 1. in scripturis sin autem intellexerit, quod n¬ 
+      <lb ed="#C" n="32"/>neret episcopus nisi magna necessitate instante, &amp; sic vt 
+      <lb ed="#C" n="33"/>nialiter peccaverit, quia non debet quis jurare, nisi nece 
+      <lb ed="#C" n="34"/>sitate urgente. sup. de jurejur. &amp; si Christus. 22.q. 4. §. illicitum 
+      <lb ed="#C" n="35"/>tamen non repelletur: quia talejuramentum non irroga 
+      <lb ed="#C" n="36"/>infamiam, sed tanquam solenne 6 qu.infames, imo uniu 
+      <lb ed="#C" n="37"/>anni poenitentia omnia abolentur. 24. q. 2. qui sacramenta.I 
+      <lb ed="#C" n="38"/>dubitatur qualiter intellexit: intelligi debet, quod hoc ul 
+      <lb ed="#C" n="39"/>timo modo intellexit: quia benigna est interpretatio faci 
+      <lb ed="#C" n="40"/>enda. inf de reg jur. estote sup. de jurejuran. ad nostram 3. secun 
+      <lb ed="#C" n="41"/>dum Hugo. Quid ergo, si Papa, nulla necessitate instante 
+      <lb ed="#C" n="42"/>quia melior &amp; idoneior eo invenitur in ecclesia praecipii 
+      <lb ed="#C" n="43"/>quod episcopatum recipiat. dixit Hugon. Ego non obe 
+      <lb ed="#C" n="44"/>direm ei, sed potius domino spiritus. 11. qu3. si dominus &amp; ca 
+      <lb ed="#C" n="45"/>qui resistit. quia redditio juramenti de jure naturali est, &amp; 
+      <lb ed="#C" n="46"/>in lege praecipitur, Redde Domino juramenta tua. 229. 
+      <lb ed="#C" n="47"/>si peccatum. posset tamen Papa talem absolvere a poena per 
+      <lb ed="#C" n="48"/>d jurii: d &amp; ab infamia, quo ad ecclesiam: &amp; sic per 
+      conse<lb ed="#C" n="49" break="no"/>quens, non repelleretur ab aliquo actu publico. ff. ad mu 
+      <lb ed="#C" n="50"/>nicip. Imperatores. Alii dicunt Papae obediendum est argu 
+      <lb ed="#C" n="51"/>15 quaest 6 authoritatem &amp; capitul nos sanctorum, &amp; capitul. no 
+      <lb ed="#C" n="52"/>juratos. Dic, quod nisi expresse constet de voluntate divi 
+      <lb ed="#C" n="53"/>na contraria voluntati Papae, semper est ei obiediendum 
+      <lb ed="#C" n="54"/>&amp; est ratio, quia authoritas ejus videtur excepta:  unde 
+      <lb ed="#C" n="55"/>non voti transgressor. quia authoritate sedis Apostolica 
+      <lb ed="#C" n="56"/>illud distulit adimplere. infra eod. non est. &amp; hoc argumen 
+      <lb ed="#C" n="57"/>supra de jurejurand. venientes. de rescript constitutus. Item qui¬ 
+      <lb ed="#C" n="58"/>non intelligitur hoc fieri authoritate puri hominis, sec 
+      <lb ed="#C" n="59"/>Dei: cum ipsius vices in terris gerat. supra detranslat. epi 
+      <lb ed="#C" n="60"/>scop. inter corporalia. &amp; duobus capitul. sequentibus. Item dicas 
+      <lb ed="#C" n="61"/>quod quantumcunque expressim juraverit, vel voverit 
+      <lb ed="#C" n="62"/>is videtur sensus, quod scilicet nunquam fiat episcopus 
+      <lb ed="#C" n="63"/>eo procurante, nec se deneget, Deo vocante 7. quaest i. in 
+      <lb ed="#C" n="64"/>scripturis. supra de electio qualiter, ergo si sequatur electi¬ 
+      <lb ed="#C" n="65"/>inspirata, quicquid intellexerit, non debet se denegare 
+      <lb ed="#C" n="66"/>quia nec Spiritui sancto resistendum est: ut prohatur A 
+      <lb ed="#C" n="67"/>ctuum. 7. &amp; uquaestz. Qui resistit electioni. igitur factae pe 
+      <lb ed="#C" n="68"/>hominem nullatenus consentiat revelationi contraria 
+      <lb ed="#C" n="69"/>non resistat. ut notatur simile supra eodem, §. versicul. solu 
+      <lb ed="#C" n="70"/>tio. nam &amp; si specialiter vovisset revelationi resistere, tal 
+      <lb ed="#C" n="71"/>votum nullum esset cum sine mortali servari non posset 
+      <lb ed="#C" n="72"/>ut patet in his quae notant. infra eodem. §. in quibus. versicu 
+      <lb ed="#C" n="73"/>r hanc tamen regulan. * Solenne votum dicitur votun 
+      <lb ed="#C" n="74"/>continentiae solennizatum solum enim votum continen 
+      <lb ed="#C" n="75"/>tiae solennizatur. &amp; qualiter &amp; quot modis hoc fieri de 
+      <lb ed="#C" n="76"/>beat, dicut nota, infra qui cleric. vel voven. §. quis vovens. vers 
+      <lb ed="#C" n="77"/>hoc etiam teneas incunctanter. &amp; sequentibus. Hic tamen no 
+      <lb ed="#C" n="78"/>randum, quod quantum ad Deum, simplex votum no¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0517.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>minus obligat, quam solenne: nam ex sui natura utrum 
+      <lb ed="#C" n="80"/>que eandem observantiam habet. utrumque enim est in 
+      <lb ed="#C" n="81"/>perpetuum observandum: utriusque violatio mortal 
+      <lb ed="#C" n="82"/>peccatum inducit: utrumque prohibet contrarium actum 
+      <lb ed="#C" n="83"/>majus tamen peccatum est in fractione solennis voti, qu 
+      <lb ed="#C" n="84"/>simplicis, &amp; solenne dirimit, &amp; major poenitentia impo 
+      <lb ed="#C" n="85"/>nitur in violatione solennis, quam simplicis, &amp; ratio est 
+      <lb ed="#C" n="86"/>quia qui frangit solenne votum, peccat in Deum, offendi 
+      <lb ed="#C" n="87"/>constitutionem eccles. &amp; homines conscios scandaliza 
+      <lb ed="#C" n="88"/>quod in simplici non contingit, secundum Greffre. &amp; ho 
+      <lb ed="#C" n="89"/>plenius nota. infr. qui cler. vel voven. §. quis voven. ver, sed cun 
+      <lb ed="#C" n="90"/>utrunque &amp; seq. Quid si is qui simplex votum emisit consu 
+      <lb ed="#C" n="91"/>lat me, utrum possit contrahere matrimonium: tuter 
+      <lb ed="#C" n="92"/>spondebo, non Quid si ultra procedat, &amp; dicat? quid si cin 
+      <lb ed="#C" n="93"/>traxero, nunquid tenebit matrimonium? non est respon 
+      <lb ed="#C" n="94"/>dendum: quia si respondeo, non mentior, &amp; sic pecco. 2 
+      <lb ed="#C" n="95"/>quaestio. 2. primum. &amp; cap. omne genus: si respondeo sic, di 
+      <lb ed="#C" n="96"/>ei occasionem contrahendi: &amp; per consequens, mortali 
+      <lb ed="#C" n="97"/>ter peccandi. &amp; sic ergo incurro mortale argument. infi 
+      <lb ed="#C" n="98"/>de homi. sicut dignum §. qui vero se asserunt. 86. distinct. ianta ei 
+      <lb ed="#C" n="99"/>go tacendum est. 22 quaest2. ne quis arbitretur. secundun 
+      <lb ed="#C" n="100"/>quosdam. sed certe secundum hoc videtur quod Papa fa 
+      <lb ed="#C" n="101"/>ciendo const. ut si talis contrahat matrimonium, tenea 
+      <lb ed="#C" n="102"/>mortaliter peccaverit: quia non solum consentit: sed au 
+      <lb ed="#C" n="103"/>thoritatem &amp; firmitatem praestat: sed dic, quod Papa in ta 
+      <lb ed="#C" n="104"/>libus dispensare potest, sicut no. inf. eo § qualiter. &amp; cujus au 
+      <lb ed="#C" n="105"/>thoritate ver. sed &amp; de votis. non tamen intendit in hoc casi 
+      <lb ed="#C" n="106"/>ab initio dispensare. &amp; ideo tacendum est. videtur tame 
+      <lb ed="#C" n="107"/>quod si video, quod non potest continere: ut majus per 
+      <lb ed="#C" n="108"/>culum evitetur. possim sic respondere: Scriptura dici 
+      <lb ed="#C" n="109"/>quod matrimonium tenet: tamen de consilio vel consen 
+      <lb ed="#C" n="110"/>iu meo tu non contrahes, sed continebis scias enim, quo 
+      <lb ed="#C" n="111"/>si contraxeris, mortaliter peccabis, &amp; Deum graviterol 
+      <lb ed="#C" n="112"/>fendes. arg. inf qui cle. vel. von. veniens tamen quod prius di 
+      <lb ed="#C" n="113"/>xi tutius est. &amp; junge quod no. inf. de clan. desp. §. utrum cla¬ 
+      <lb ed="#C" n="114"/>destina. ver. quid si peto &amp; seq. Sed &amp; votorum aliud purum 
+      <lb ed="#C" n="115"/>ut cum simpliciter emittitur: aliud conditionale, fut cum 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="116"/>ADDITIONES 
+      <lb ed="#C" n="117"/>d Papa talem absolvere a poena perjurii.J Adde gl. &amp; doct inci 
+    </p>
+    <p>
+      <lb ed="#C" n="118"/>quanto de consuet. Spec tit. de leg. in § nunc ostendendum. ver. 4. Ca 
+      <lb ed="#C" n="119"/>in cle. I. ad fi de iureluran. Card. sancti Sixti intracta. de potestau 
+      <lb ed="#C" n="120"/>Papa. q. 38. STho. 2. 2 9. 89. art. 5 
+      <lb ed="#C" n="121"/>e Auctoritas ejus videtur excepta.J Adde gloss. inc. de forma 22 
+    </p>
+    <p>
+      <lb ed="#C" n="122"/>quaest. ul im gloss. inc. quae contra mores. 8. dist. do. in c. venientes. d 
+      <lb ed="#C" n="123"/>tureiurand 
+      <lb ed="#C" n="124"/>Quod d conditionale votum attinet, Martin. ex eo rubricel 
+      <lb ed="#C" n="125"/>lam efformavit. qua in re ita scriptum reliquit. Votum condi 
+      <lb ed="#C" n="126"/>tionale non obligat, nisi conditione extante: ut voveo itu 
+      <lb ed="#C" n="127"/>rum me ad sanctum N. si sanatus fuerit filius meus: vaeliboa 
+      <lb ed="#C" n="128"/>aedem D. Marci, si intravero Lombardiam. Nam nom teneo 
+      <lb ed="#C" n="129"/>ire, nisi extante conditione. Nec sum ex voto obliga tus, ni 
+      <lb ed="#C" n="130"/>conditio extet, alias sic. Etidem de similibus est dicendum 
+      <lb ed="#C" n="131"/>ut 33. quaestio. 8. non solum &amp; extra, de condi. adposi. verum. &amp; de 
+      <lb ed="#C" n="132"/>stit. spol. oli &amp; c. causa. Et hoc intelligas, ubi voti obligatio po 
+      <lb ed="#C" n="133"/>nebatur in eventum conditionis, id est, quando vovens no 
+      <lb ed="#C" n="134"/>intendebat se obligare, nisi extante conditione, alioquin,s 
+      <lb ed="#C" n="135"/>alia fuit causa, vel etiamsi fecerit votum ob causam, &amp; pu 
+      <lb ed="#C" n="136"/>blice non expressit causam, sed votum, tunc propter confci 
+      <lb ed="#C" n="137"/>tiam, &amp; propter scandalum tollendum, tenetur votum im 
+      <lb ed="#C" n="138"/>plere. Sed si intendebat se obligare, etiam sine eventu condi¬ 
+      <lb ed="#C" n="139"/>tionis, quia si quis vovit sub conditione mentali, quam no 
+      <lb ed="#C" n="140"/>exprimit verbo, licet non extet conditio, debet tamen im 
+      <lb ed="#C" n="141"/>plere votum propter scandalum eorum, quiaudierunt:ext. ec 
+      <lb ed="#C" n="142"/>tit. magnae. &amp; de conver coniug. ex parte circa finem. Item si aliqui 
+      <lb ed="#C" n="143"/>vovit non tantum ex una causa, sed explebili: verbi gratia 
+      <lb ed="#C" n="144"/>vovit aliquis, quod iret ad sanctum lacobum, quia credeba 
+      <lb ed="#C" n="145"/>se ibi inventurum fratrem suum, nihilominus propter redi 
+      <lb ed="#C" n="146"/>menda peccata sua, in hoc casu, quamvis sciat fratrem suun 
+      <lb ed="#C" n="147"/>decessisse ante, quam iter accepisset, tenebitur tamen ire ol 
+      <lb ed="#C" n="148"/>aliam causam. Idem intelligas quotiescunque vovit aliqui 
+      <lb ed="#C" n="149"/>ex duabus, pluribusve causis, sub duabus aut pluribus condi 
+      <lb ed="#C" n="150"/>tionibus intendit se obligare, qualibet causarum vel cond 
+      <lb ed="#C" n="151"/>tionum extante. Item qui ob impedimentum temporale vo 
+      <lb ed="#C" n="152"/>tum implere non potest, expectet donec cesset impedimen 
+      <lb ed="#C" n="153"/>tum. Si vero perpetuum est impedimentum, commutetu 
+      <lb ed="#C" n="154"/>votum ipsius ext. eotit. quod super his. Item conditio generalis 
+      <lb ed="#C" n="155"/>puta, si vixero, si potero, si Deus voluerit, semper in voto in 
+      <lb ed="#C" n="156"/>telligenda, etiam si non apponatur. 27. qu. 2. beata &amp; 16. 9. 1. it 
+      <lb ed="#C" n="157"/>parochia Votum tamen factum per iram, non valet, nisi poste 
+      <lb ed="#C" n="158"/>quietus consentiat vovens, ext. de convers. coniug. dudum. &amp; d 
+      <lb ed="#C" n="159"/>reg. sicut. &amp; 2. 93. §. notandum. &amp; c. si quis iratus -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0518.xml-->
+      <pb ed="#C" n="501"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>conditio apponitur, puta cum dicitur, Voveo jejunare 
+      <lb ed="#C" n="2"/>vel limina talis sancti visitare: si Deus mihi praestiterit sa 
+      <lb ed="#C" n="3"/>nitatem, vel silium, vel filiam: quod dicut no. inf eodem. §. ( 
+      <lb ed="#C" n="4"/>utrum a poto. resp. 1 &amp; ver. 3 
+    </p>
+            <p xml:id="nbht7y-d1e1255-d1e707">
+               <lb ed="#C" n="5"/>Quis vovere possit. * Quilibetregulariter null¬ 
+      <lb ed="#C" n="6"/>jugo obstante: quia qui spiritu De 
+      <lb ed="#C" n="7"/>ducitur, non est sub lege, scil. publica. &amp; dicitur lex publi 
+      <lb ed="#C" n="8"/>ca, lex canonica. verbi gratia, decretum est in canone, n. 
+      <lb ed="#C" n="9"/>clericus de suo episcopatu ad aliam transeat sine literi 
+      <lb ed="#C" n="10"/>commendaticiis, privata vero lex est illa quae instinctu spi 
+      <lb ed="#C" n="11"/>ritus sancti in corde scribitur. &amp; haec lex ultima, non est sul 
+      <lb ed="#C" n="12"/>prima: quia ubi spiritus, ibi libertas. 19. q. 2. duae sunt Il. supr 
+      <lb ed="#C" n="13"/>dereg. licet ergo quilibet potest vovere: nisi prohibeatur. in 
+      <lb ed="#C" n="14"/>fra eo. licet. in princ. sicut matrimonium contrahere. nfrad 
+      <lb ed="#C" n="15"/>spon. cum apud.* Prohibentur autem quaedam persona 
+      <lb ed="#C" n="16"/>quae, quo ad votum emittendum, non habent liberam vo 
+      <lb ed="#C" n="17"/>luntatem, sicut episcopus, clericus, monachus, impubes 
+      <lb ed="#C" n="18"/>uxor, servus de singulis igitur videamus. Episcopus non 
+      <lb ed="#C" n="19"/>g potestae aliquod votum emittere sine licentia Papae: inte¬ 
+      <lb ed="#C" n="20"/>ligas per quod dissolvatur vinculum matrimonii: quod ess 
+      <lb ed="#C" n="21"/>intelligitur inter ipsum &amp; ecclesiam, sponsam suam. ut su 
+      <lb ed="#C" n="22"/>pra de reg. licet. §. illa semper regula supra de renunc nisi cum pri 
+      <lb ed="#C" n="23"/>dem. in fin. quod qualiter intelligitur, plene. not. supra d 
+      <lb ed="#C" n="24"/>transl. episcop. §. cujus authoritate. Item nec aliud per quo 
+      <lb ed="#C" n="25"/>sponsae suae grave praejudicium faciat. sup. de jurejura sicu 
+      <lb ed="#C" n="26"/>sup. de precar. c. 2. unde nec potest votum emittere peregri 
+      <lb ed="#C" n="27"/>nationis, per quod ipsum ab ecclesia oporteat absentar 
+      <lb ed="#C" n="28"/>sine licentia speciali, vel generali, mf. eo. magnae. §. verum aet. 
+      <lb ed="#C" n="29"/>tis tamen votum, abstinentiae &amp; eleemolynae, temperat 
+      <lb ed="#C" n="30"/>potest emittere. arg. 8. qu.i. clemens sup. de testa. relacum. 2. §. lic 
+      <lb ed="#C" n="31"/>autem. &amp; breviter, quodlibet votum potest emittere, pe 
+      <lb ed="#C" n="32"/>quod bonum exemplum praebeat: quia ad hoc tenetur. infr 
+      <lb ed="#C" n="33"/>eo. magnae. §. I. sup de sac. unct. c. unico. §. ad exhibendum. ut vi¬ 
+      <lb ed="#C" n="34"/>tore conscientiae. &amp; seq &amp; no. sup. de coha. cle §. quid sit notorium 
+      <lb ed="#C" n="35"/>b fama quae habetur de homine. Clericus h etiam non potes 
+      <lb ed="#C" n="36"/>sine licentia praelati sui votum peregrinationis emitter 
+      <lb ed="#C" n="37"/>de conse. dist. 5. non oportet. de quo c fit mentio inf eod. magna 
+      <lb ed="#C" n="38"/>§. verum. nec aliud, per quod relinquere oporteat ipsum 
+      <lb ed="#C" n="39"/>ecclesiam suam. arg. sup. de renunc admonet. nisi forte vovea 
+      <lb ed="#C" n="40"/>religionem intrare: in quo quidem casu sufficit petere li¬ 
+      <lb ed="#C" n="41"/>centiam, ut not. infra eod. ver. monachus. talis enim non sut 
+      <lb ed="#C" n="42"/>est legi publicae ut no. sup eod. §. respon. i. potest tamen aliu¬ 
+      <lb ed="#C" n="43"/>votum charitatis, vel abstinentiae facere, sicut no. de episco 
+      <lb ed="#C" n="44"/>po. sup. eo. versic. episcopus. &amp; sequi dicunt autem quidam, quo¬ 
+      <lb ed="#C" n="45"/>votum transmarinum emittere potest sine praelati licen 
+      <lb ed="#C" n="46"/>tia. inf. eo ex mulcta. § pen. &amp; fi. &amp;c. h. alii hoc intelligunt de li 
+      <lb ed="#C" n="47"/>centia praelati, vel sedis Apost. arg, supra de cle. non resid, cap 
+      <lb ed="#C" n="48"/>fraternitati. &amp; infra eodem magnae §. verum. Monachus equi 
+      <lb ed="#C" n="49"/>demi non potest aliud votum facere per quod ipsum si 
+      <lb ed="#C" n="50"/>ne licentia abbatis claustrum exire oporteat. argum. 1691 
+      <lb ed="#C" n="51"/>i si cupis, &amp; c placuit. quamvis sibi inspiratum dicat. timen 
+      <lb ed="#C" n="52"/>dum est enim, ne spiritus satanae in lucis Angelum se tran¬ 
+      <lb ed="#C" n="53"/>formet. infra ne clerici vel monachi non magnopere. nisi fort 
+      <lb ed="#C" n="54"/>ad aliam religionem arctiorem transire velit. ubi quider 
+      <lb ed="#C" n="55"/>debet licentiam humiliter petere: &amp; sic intrare potes 
+      <lb ed="#C" n="56"/>quamvis ipsam licentiam non potuerit obtinere: sed 
+      <lb ed="#C" n="57"/>dubitetur de inspiratione superioris est arbitrio relinqu 
+      <lb ed="#C" n="58"/>dum, ne videlicet spiritus se transformet. sic loquitur sut 
+      <lb ed="#C" n="59"/>de reg. licet. respon.i. &amp; § si vero dubitetur. &amp; de hoc no. de regu 
+      <lb ed="#C" n="60"/>§. &amp; qualiter obligetur. ver item religiosus. &amp; sequ. Quid si su 
+      <lb ed="#C" n="61"/>perior arbitretur inique? Dic ad superioris superioren 
+      <lb ed="#C" n="62"/>recurrendum arg. inf de jure pat. nullus. sup. de concessio. prae 
+      <lb ed="#C" n="63"/>c.i. sup. de elect. ne pro defectu. ad finem. Item nec votum abst 
+      <lb ed="#C" n="64"/>nentiae singularis potest emittere monachus, neque pere 
+      <lb ed="#C" n="65"/>grinationis, neque aliquod regulariter. &amp; si hoc fecerit si 
+      <lb ed="#C" n="66"/>ne licentia abbatis non debet exequi, ne sit fratrum scan 
+      <lb ed="#C" n="67"/>dalum, quibus se debet conformare: vel ne detur ei occa 
+      <lb ed="#C" n="68"/>sio vagandi. 20. q. 4.§. 2. &amp;; &amp; §. verum etiam hoc &amp; ar4.dis 
+      <lb ed="#C" n="69"/>quisquis i6o qu. 7. in nova, supra devlect cum causaquae. Quids 
+      <lb ed="#C" n="70"/>votum emiserat, antequam monasterium intraret? Dica 
+      <lb ed="#C" n="71"/>idem scilicet quod sine licentia abbatis ipsum exequi no 
+      <lb ed="#C" n="72"/>debet. arg 33. qu. 5. noluit inf. de cler. non ord. minist. cap. 2. inf. de e 
+      <lb ed="#C" n="73"/>qui furti or. susce. &amp; c. 2. inf. de sen. excon. cum illorum. §. nos tame 
+      <lb ed="#C" n="74"/>&amp; praeced. nam &amp; omnia temporalia vota videtur mutasl 
+      <lb ed="#C" n="75"/>in religionis observationem. inf.eo. scripturae, nec est neces 
+      <lb ed="#C" n="76"/>saria circa peccati satisfactionem: ubi totum virae tempu 
+      <lb ed="#C" n="77"/>servitio impenditur conditoris 339. 2. admonere. de poe dist. 
+      <lb ed="#C" n="78"/>§ his authoritatib. &amp; vinculum obedientiae patriae solvit in 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0518.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>troitus arctioris religionis. 19. qu. 2. duae sunt. sup. de reg. licet. e 
+      <lb ed="#C" n="80"/>c. sane &amp; ideo si intrando intendebat commutare id, ad quoc 
+      <lb ed="#C" n="81"/>primo se obligaverit, in nullo remanet obligatus. si ver¬ 
+      <lb ed="#C" n="82"/>hoc non intendebat, recurrat ad abbatem, qui secum po 
+      <lb ed="#C" n="83"/>terit dispensare perjura supra dicta, &amp; sine cujus licenti¬ 
+      <lb ed="#C" n="84"/>hoc non posset exequi: ut praedixi. si tamen talis prim¬ 
+      <lb ed="#C" n="85"/>votum temporale adimpleret, &amp; postea ad religionem mi 
+      <lb ed="#C" n="86"/>grareotutius videtur: quia tunc utrunque adimpleret. are 
+      <lb ed="#C" n="87"/>mfra eo per tuas. &amp; melius infra de sponsa, commissum. Impu 
+      <lb ed="#C" n="88"/>bes ( similiter non potest se voto obligare, sine tutoris vel 
+      <lb ed="#C" n="89"/>patris authoritate. 20. 9. 2. c. 1. &amp; 2. quod dic, ut no sup. dere 
+      <lb ed="#C" n="90"/>§. &amp; utrum exire. ver. item minor 14. an. &amp; se. &amp; § si. Sed nun 
+      <lb ed="#C" n="91"/>quid filiusfam. (pubes potest vovere de voto religionis? 
+      <lb ed="#C" n="92"/>planum est, quod sic ut no. ins. eo proxi. inducto, aliud autem 
+      <lb ed="#C" n="93"/>votum, per quod dissolvatur patria potestas, non videtur 
+      <lb ed="#C" n="94"/>quod possit emittere ad exemplum uxoris, monachi, &amp; 
+      <lb ed="#C" n="95"/>servi: tales enim personae sui juris non sunt. infr. de sent. ex 
+      <lb ed="#C" n="96"/>comm. mulieres. &amp; expressim dicit I quod non potest sicu 
+      <lb ed="#C" n="97"/>nec impubes, nec servus. ut ff. depollicitatio. I 2. §. 1. satis po 
+      <lb ed="#C" n="98"/>test dici, quod votum ab eo emissum, per quod gravite 
+      <lb ed="#C" n="99"/>praejudicaretur patriae potestati, vel pater inde scandali¬ 
+      <lb ed="#C" n="100"/>zaretur, non debeat invito patre observari: &amp; est ratio, quii 
+      <lb ed="#C" n="101"/>non est hoc voluntatis suae, cum nec in hoc habeat liberum 
+      <lb ed="#C" n="102"/>arbitrium, cum patri obligatus sit jure patriae potestatis 
+      <lb ed="#C" n="103"/>ut patet in his, quae not. supra eod. S quot sint specres. versic. br¬ 
+      <lb ed="#C" n="104"/>viter ex praecedent. infra eod § in quibus, versi. indifferentibus. ex 
+      <lb ed="#C" n="105"/>cipe votum religiosum, ut dictum est quod invito patri 
+      <lb ed="#C" n="106"/>emittere potest, nec propter hoc exhaeredari potest. ut C 
+      <lb ed="#C" n="107"/>de episcop. &amp; cle §.1. &amp; in authen. de sanct. episc. §. interdicimus. 
+      <lb ed="#C" n="108"/>col. g. * Quid ergo, si voverit dare eleemosynam de pecu 
+      <lb ed="#C" n="109"/>lio profectitio? Dicitur quod non valeat: quia &amp; alienum 
+      <lb ed="#C" n="110"/>est: &amp; sic quodammodo furtum committeretur. ff. de furi 
+      <lb ed="#C" n="111"/>pignore §. . licet domesticum sit f. de poen. respiciendum § fur 
+      <lb ed="#C" n="112"/>ta. &amp; talis eleemosyna non placet Deo. 14. qu. 5. eleemosynae 
+      <lb ed="#C" n="113"/>&amp; c. praecedentib. &amp; sequen. dicas considerandam qualitatem 
+      <lb ed="#C" n="114"/>personae patris, &amp; filii, &amp; eleemosynae quantitatem. Se 
+      <lb ed="#C" n="115"/>cundum hoc videtur, quod reddere possit eleemosynam 
+      <lb ed="#C" n="116"/>nisi pater expressim contradicat: &amp; idem intelligas de u¬ 
+      <lb ed="#C" n="117"/>xore, &amp; mercenario porrigente modicam eleemosinan 
+      <lb ed="#C" n="118"/>indigenti. arg. &amp; hoc expressum f. de dona filiusfam §. &amp; J 
+      <lb ed="#C" n="119"/>de legat. 3. si filiae. 86 distinct. Paschae. haec etiam consuetud¬ 
+      <lb ed="#C" n="120"/>non est improbanda. argum supra de dona. caeterum. &amp; de te 
+      <lb ed="#C" n="121"/>stamen. relatum. 2. §. licet. &amp; hoc plenius not. infra depaenis. § 
+      <lb ed="#C" n="122"/>quibus &amp; qualiter. sub §. quid de facientibus eleemosynam. Se¬ 
+      <lb ed="#C" n="123"/>nunquid votum peregrinationis longinquae emittere po 
+      <lb ed="#C" n="124"/>test? Non videtur: quia nimis praejudicaret patriae pote 
+      <lb ed="#C" n="125"/>stati, cui non debet praejudicare, ut dictum est, argum. in 
+      <lb ed="#C" n="126"/>his quae non. sup. eodem. versic. episcopus. &amp; versi. clericis, excipe 
+      <lb ed="#C" n="127"/>peregrinationem voti transmarini. argument, infra eodem 
+      <lb ed="#C" n="128"/>ex multa. §. quod autem. &amp; necessariam ac inevitabisem u 
+      <lb ed="#C" n="129"/>si forte sit a canone per sedem Apostolicam absolvendus 
+      <lb ed="#C" n="130"/>argum. infra de sentent. excomm. relatum. Uxor etiam ae non 
+      <lb ed="#C" n="131"/>potest vovere sine viri licentia peregrinari, vel abstinere 
+      <lb ed="#C" n="132"/>seujejunare, nec religionem intrare: quinimo si ante ma 
+      <lb ed="#C" n="133"/>trimonium contractum votum abstinentiae emiserit nor 
+      <lb ed="#C" n="134"/>debet invito marito illud adimplere: sed &amp; si de licentia vi 
+      <lb ed="#C" n="135"/>ri emiserit votum, ab initio idem erit: quia semper in tali 
+      <lb ed="#C" n="136"/>bus debet obedire marito, licet maritus peccet, id quoc 
+      <lb ed="#C" n="137"/>concesserit prohibendo 33. 45. noluit. manifestum. &amp; iden 
+      <lb ed="#C" n="138"/>intelligunt quidam de viro vovente. quia non ad impari: 
+      <lb ed="#C" n="139"/>judicantur. 32. quaestio. 1. si quis ux. &amp; quaestios, praecepit Chri 
+      <lb ed="#C" n="140"/>stiana: alii dicunt, quod in voto abstinentiae vir superior est 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="141"/>ADDITIONES. 
+      <lb ed="#C" n="142"/>Episcopus non potest.] Adde c.l cu &amp; ibi dect. de re. doct. in c.1 
+    </p>
+    <p>
+      <lb ed="#C" n="143"/>de sepul lib. 6 doct inc. magnae. de vot. 
+      <lb ed="#C" n="144"/>h Clericus.] Adde gl. inc. tenet. de voto c. ull. 81. dist. ca. non oporte 
+    </p>
+    <p>
+      <lb ed="#C" n="145"/>de consec. dist. 5. Inn. in c scripturae. de voto. Inno. inc. ex paru, de cen 
+      <lb ed="#C" n="146"/>sibus Arch. in c scimus 22. q.1 
+      <lb ed="#C" n="147"/>i Monachus equidem. JAddec monachs. &amp; ibi dact. 20. 4. 4. S.Th. 
+    </p>
+    <p>
+      <lb ed="#C" n="148"/>2. 2. 988. art.. 
+      <lb ed="#C" n="149"/>4 Impubes.) Adde Card. Alex. in rubri. qui cler. vel voνen. &amp; pe 
+    </p>
+    <p>
+      <lb ed="#C" n="150"/>S. Tho. 2. 29. 88. art. 9 
+      <lb ed="#C" n="151"/>Si filiusfam.] Adde tex. &amp; gl. in c. mulier. 32. 9. 2. loa. de Lig. in re 
+    </p>
+    <p>
+      <lb ed="#C" n="152"/>gula peccatum de reg. iur. lib. 6. Io. de Imo, in rep. 6. cum contingas 
+      <lb ed="#C" n="153"/>de iureinr. S. Tho. 2. 2. q. 88. ari8 
+      <lb ed="#C" n="154"/>m Vxor etiam.] Addegl. inc. l. 22. q. 1do. in c. manifestum. 33. qu. 
+    </p>
+    <p>
+      <lb ed="#C" n="155"/>Doct. in c. ex multa de ro. S. Tho. in 4. Sen. dist. 3--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0519.xml-->
+      <pb ed="#C" n="502"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>quia caput. ut ea quaest. manifestum haec imago, cum apud 
+      <lb ed="#C" n="2"/>quod concedas, nisi per hujus votum fieret circa carnal¬ 
+      <lb ed="#C" n="3"/>debitum praejudicium mulieri, secundum Hugon. tale¬ 
+      <lb ed="#C" n="4"/>nim servare non posset, muliere invita quia nulla obsta 
+      <lb ed="#C" n="5"/>exceptio in hoc casu msia de conjuga lepro quoniam. § si. &amp; se 
+      <lb ed="#C" n="6"/>cundum Apostolum, vir non habet potestatem sui corpo 
+      <lb ed="#C" n="7"/>ris, sed uxor. supr. de conper conjuga quidam. in fin. igitur ne 
+      <lb ed="#C" n="8"/>votum peregrinationis potest unus facere sine consensi 
+      <lb ed="#C" n="9"/>alterius. argum. 179. 2. si tu 33. 95. quod Deo. fallit hoc in vot. 
+      <lb ed="#C" n="10"/>transmarino: quod maritus praeter voluntatem uxoris 
+      <lb ed="#C" n="11"/>potest emittere, uxor tamen ut consentiat, est attentiu 
+      <lb ed="#C" n="12"/>admonenda inf eod ex multa. §. quod autem &amp; quae non vul 
+      <lb ed="#C" n="13"/>remanere, sequatur virum suum. infra cod. quod super hiae 
+      <lb ed="#C" n="14"/>9 fin.* Nunquid ergo &amp; uxor potest Hierosolymitanun 
+      <lb ed="#C" n="15"/>in votum viro invito n emittere? de hoc nihil dicitur expres 
+      <lb ed="#C" n="16"/>se: &amp; videtur, quod sic, quia non ad imparia judicantur 
+      <lb ed="#C" n="17"/>ut no. sup. eo. ver proxi. quid enim dices, si sit nobilis mulier 
+      <lb ed="#C" n="18"/>habens magnum comitatum, nec viro suo in dotem da 
+      <lb ed="#C" n="19"/>tum, quam multi bellatores sequentur? certe necessitat 
+      <lb ed="#C" n="20"/>terrae subveniendum erit. &amp; tunc ea ratio videtur, quae ir 
+      <lb ed="#C" n="21"/>viro est, arg. inf. eod ex multa §. quod autem. &amp; videtur es 
+      <lb ed="#C" n="22"/>pressum infra eo quod super. in fi. Sed contra, quia vir capu 
+      <lb ed="#C" n="23"/>est mulieris. ut sup. eod. versic. uxorem. unde &amp; in vita &amp; in 
+      <lb ed="#C" n="24"/>morte debet sequi virum, non vir ipsam. 13.qu.. unaquaequi 
+      <lb ed="#C" n="25"/>si enim vult ire sine viro, suspecta est mihi, quia fragilis est 
+      <lb ed="#C" n="26"/>&amp; sic dicit <ref xml:id="nbht7y-d1e1255-Rd1e1073">Ovidius</ref>
+               <lb ed="#C" n="27"/>
+               <quote xml:id="nbht7y-d1e1255-Qd1e1077">Casta est quam nemo rogavit.</quote>
+               <lb ed="#C" n="28"/>Subtrahenda est ergo vagandi materia, &amp; timendum, ni 
+      <lb ed="#C" n="29"/>angelus se transformet, sicut dictum est de monacho, sut 
+      <lb ed="#C" n="30"/>eod. versic. monachos, nec obstat. infra eod quod super his. in fiu 
+      <lb ed="#C" n="31"/>quod enim dicit ibi de mulieribus, aut intelligas quae nor 
+      <lb ed="#C" n="32"/>voverunt, &amp; quod sequitur, caeterae vero, expone quae ni 
+      <lb ed="#C" n="33"/>habent viros, &amp; voverunt, vel quae de consensu marito 
+      <lb ed="#C" n="34"/>rum voverunt. Solutio: Puto, quod votum potest emitt 
+      <lb ed="#C" n="35"/>re, etiam viro invito. Utrum autem ipsum possit exequi 
+      <lb ed="#C" n="36"/>eo invito, dist. videtur utrum suspecta sit, &amp; infamata, ve 
+      <lb ed="#C" n="37"/>nimis juvenis in quo casu personaliter non exequetur.8 
+      <lb ed="#C" n="38"/>sic intellige jura inducta sup. eo. ver. sed contra quia vir. absi 
+      <lb ed="#C" n="39"/>enim, ut ab ecclesia talis compensatio admittatur. infrad 
+      <lb ed="#C" n="40"/>usur. super eod. Quod ergo faciet, redimat votum cum ac 
+      <lb ed="#C" n="41"/>eundum &amp; ad pugnandum inhabilis judicetur. infra eoden 
+      <lb ed="#C" n="42"/>quod super his §. rursus. si vero sit vetus, quae multum pro 
+      <lb ed="#C" n="43"/>fecit in diebus suis, &amp; matrona bonae famae, vadat, nec vo 
+      <lb ed="#C" n="44"/>tum redimat, si secum multos possit ducere bellatores. &amp; 
+      <lb ed="#C" n="45"/>sic intellige quod not sup. ead quie respon. i. quia tunc eaden 
+      <lb ed="#C" n="46"/>ratio in uxore est, quae &amp; in viro: ergo idem jus statuen 
+      <lb ed="#C" n="47"/>dum ese: C. de libe. praeterit. vel exhaeredatis.l.i.&amp; C ad leg. Fal¬ 
+      <lb ed="#C" n="48"/>Isi ad finem. &amp; de constitu. pecunia. I.s. in fine. argum. ad han 
+      <lb ed="#C" n="49"/>distinct. supra de conpersation. conjugator. cum sis praeditus. e 
+      <lb ed="#C" n="50"/>capitu. uxoratus. &amp; si vis scire, utrum unus conjugatorun 
+      <lb ed="#C" n="51"/>possit votum continentiae altero invito, emittere, &amp; a¬ 
+      <lb ed="#C" n="52"/>quid teneatur is, qui hoc facit. vide quod notatur suprad 
+      <lb ed="#C" n="53"/>10 conver conjug § qualiter possit converti.* Quid si publica me 
+      <lb ed="#C" n="54"/>retrix, quam multi sequuntur: quia nihil amore vehemen 
+      <lb ed="#C" n="55"/>tius, in authent quibus modis naturales effici. legit. §. illud. col 
+      <lb ed="#C" n="56"/>6. votum emiserit transmarinum, nunquid poterit vo 
+      <lb ed="#C" n="57"/>tum redimere? Non videtur: quia multi bellatores ean 
+      <lb ed="#C" n="58"/>sequuntur. ut argu. insae. quod super his. in fi dicas, quod nis 
+      <lb ed="#C" n="59"/>corrigatur, nec ipsa, nec bellatores sui, qui ex corrupto a 
+      <lb ed="#C" n="60"/>more sequuntur ipsam, admittendi sunt, neque votum sui 
+      <lb ed="#C" n="61"/>comprobandum, quia nec oblatio sua recipienda est. u 
+      <lb ed="#C" n="62"/>no. sup. de dec §. de quib. ver. dicas. de paroch. §. in quibus sub S. ta 
+      <lb ed="#C" n="63"/>omen sciendum. versic. 5. si sit meretrix. Servus non potestovo 
+      <lb ed="#C" n="64"/>tum religionis emittere sine domini voluntate. 54. distin. 
+      <lb ed="#C" n="65"/>servus sciente &amp; arg. inf. de sent. excommunic. mulieris. Quid s 
+      <lb ed="#C" n="66"/>professus est ante triennium, per quod debet expectari 
+      <lb ed="#C" n="67"/>17quast 2.c. si quis incognitus. Dicas, quod si decepit mon: 
+      <lb ed="#C" n="68"/>sterium: puta quia per falsos testes probavit se liberum, nis 
+      <lb ed="#C" n="69"/>dominus ipsum de gratia dimittere voluerit, habitu, qu 
+      <lb ed="#C" n="70"/>furtive recepit, spoliabitur, &amp; tanquam indignus domini¬ 
+      <lb ed="#C" n="71"/>reddetur. arg. supra de servis non ord, cap. de servorum. si veri 
+      <lb ed="#C" n="72"/>monasterium est in culpa, satisfacere tenetur domino. ai 
+      <lb ed="#C" n="73"/>54. dist. si servus absente. &amp; quod deficit hic, circa hunc arti 
+      <lb ed="#C" n="74"/>culum, invenies nota. de regularibus. §. vel revocari. Quid d 
+      <lb ed="#C" n="75"/>voto peregrinationis a servo facto? Dicas, quod inviti 
+      <lb ed="#C" n="76"/>domino non potest ipsum exequi, nisi quando necessari 
+      <lb ed="#C" n="77"/>est, ut infra de sen. excomm. relatum in fi. &amp; junge alia, quae no 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0519.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="78"/>in filiofam. supra eod ver. impubes. &amp; seq. &amp; quod ibi dictun 
+      <lb ed="#C" n="79"/>est, quo ad filiumfamilias, hanc quoque ad servum intelli 
+      <lb ed="#C" n="80"/>gatur repetitum, cum fortius, quam patri filius, &amp; servu 
+      <lb ed="#C" n="81"/>domino sit astrictus 
+    </p>
+            <p xml:id="nbht7y-d1e1255-d1e1201">
+               <lb ed="#C" n="82"/>In quibus casibus votum emitti possit. a Inje I 
+      <lb ed="#C" n="83"/>juniis, &amp; orationibus, eleemo. 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="84"/>ADDITIONES. 
+      <lb ed="#C" n="85"/>n Et uxor potest Hierosolymitanum votum, viro invito. JAdd¬ 
+    </p>
+    <p>
+      <lb ed="#C" n="86"/>Abb. in c.ex multa. in 2. col. de vote 
+      <lb ed="#C" n="87"/>o Servus non potest.] Adde Ray. in Sum. tit. de impedimento vol 
+    </p>
+    <p>
+      <lb ed="#C" n="88"/>in §. item servus, quem refert &amp; sequitur Arch. in e si quis inc 
+      <lb ed="#C" n="89"/>gnitis, 17. 9. 2. &amp; per S. Tho. 2. 2. q. 88. art.? 
+      <lb ed="#C" n="90"/>p Multiplices esse votorum species, ambigit nemo, quarum su 
+    </p>
+    <p>
+      <lb ed="#C" n="91"/>pra commeminit Hostiensis noster, quibus ex Mart. eod. titu 
+      <lb ed="#C" n="92"/>in summa religionis votum connumerabimus. Vota (inquit 
+      <lb ed="#C" n="93"/>omnia in votum religionis possunt sine remorsu conscienti 
+      <lb ed="#C" n="94"/>commutari, extra, eod tit scripturae. Item si aliquis adultus in 
+      <lb ed="#C" n="95"/>grediatur religionem; nec fecerit professionem, quaerium 
+      <lb ed="#C" n="96"/>utrum in aliquo casu liceat ad seculum redire, ut possit ma 
+      <lb ed="#C" n="97"/>trimonium contrahere, si erat laicus: aut ecclesiasticum bene 
+      <lb ed="#C" n="98"/>ficium habere, si erat clericus? Respondeo, Aut assumens ha 
+      <lb ed="#C" n="99"/>bitum in monasterio fecit protestationem, quod vellet essi 
+      <lb ed="#C" n="100"/>in probatione, &amp; si displicuerit sibi, liceat ei redire ad secu 
+      <lb ed="#C" n="101"/>lum, aut non? In primo casu potest redire ad seculum, finit 
+      <lb ed="#C" n="102"/>tempore probationis. Si vero protestatur, quod vultesse in 
+      <lb ed="#C" n="103"/>probatione non tamen protestatur, quod velit red ire ad se 
+      <lb ed="#C" n="104"/>culum: si religio displicuerit sibi, non poterit redire ad secu 
+      <lb ed="#C" n="105"/>lum, sed transire poterit ad laxiorem religionem, quia pra 
+      <lb ed="#C" n="106"/>sumitur, quod voluerit vitam mutare. Sed si nullam feceri 
+      <lb ed="#C" n="107"/>protestationem, imo simpliciter accepit habitum professo 
+      <lb ed="#C" n="108"/>rum, &amp; potavit inter fratres, faciendo omnia, quae fratres fa 
+      <lb ed="#C" n="109"/>cere consueverunt, non poterit de caetero ad laxiorem ordi 
+      <lb ed="#C" n="110"/>nem transire, sed debet in ipso monasterio remanere, quia in 
+      <lb ed="#C" n="111"/>telligitur fecisse professionem tacitam, &amp; sic votum solenni 
+      <lb ed="#C" n="112"/>zasse, exira, de reg nons. &amp; cap. super eo. &amp;c. postulasti. Sed secun 
+      <lb ed="#C" n="113"/>dum decretalem Gregorii, novitii inprobatione positi po 
+      <lb ed="#C" n="114"/>sunt ad priorem statum, quem habebat ad seculum, redirel 
+      <lb ed="#C" n="115"/>bere intra annum, nisi in tribus casibus, scilicet si accepen 
+      <lb ed="#C" n="116"/>habitum, quod dari profitentib. consuevit, vel si fecerit pro 
+      <lb ed="#C" n="117"/>fessionem, vel si evidenter apparet in ipso ingressu, quod ve 
+      <lb ed="#C" n="118"/>luerit vitam mutare. puta, quia renunciavit simpliciter secu 
+      <lb ed="#C" n="119"/>lo, promittens, quod de caetero in religione viveret, &amp; ind 
+      <lb ed="#C" n="120"/>fecit scripturam, vel factae se subscripsit. ext. de regs siacuimus 
+      <lb ed="#C" n="121"/>Vnde ex istis verbis colligitur, quod proposuerit vitam mi 
+      <lb ed="#C" n="122"/>tare, &amp; in religione perpetuo Deo servire, &amp; ex illo canont 
+      <lb ed="#C" n="123"/>279. 2.c sunt qui est argum. quod propositum solum obliga 
+      <lb ed="#C" n="124"/>adeo ut peccatum mortale sit, venire contra, quod concedi 
+      <lb ed="#C" n="125"/>H. de proposito firmato post deliberationem. Sed in contra 
+      <lb ed="#C" n="126"/>rium facit. c. literarum, eo. tit. ubi quidam in mortis periculo di 
+      <lb ed="#C" n="127"/>xit. Non ero diu hic proponens, quod aliquando intraretre 
+      <lb ed="#C" n="128"/>ligionem. Quod si non est amplius in voto processum, non trans 
+      <lb ed="#C" n="129"/>greditur, si non implet, quod dixit. Quidam tamen sine prae 
+      <lb ed="#C" n="130"/>judicio dicunt, quod solum propositum non obligan, neces 
+      <lb ed="#C" n="131"/>mortale peccatum venire contra, nisi addatur premissio, ve 
+      <lb ed="#C" n="132"/>totum expressum, vel tacitum, sive praesumptum, ut cum qui 
+      <lb ed="#C" n="133"/>recipit habitum professorum, licet nihil dicatur, vel cum re 
+      <lb ed="#C" n="134"/>cipit habitum novitii, exponendo propositum suum de per 
+      <lb ed="#C" n="135"/>petua observantia religionis. Receptio enim habitus novit 
+      <lb ed="#C" n="136"/>cum evidenti expressione, hujus propositi voti praesumptio 
+      <lb ed="#C" n="137"/>nem inducit, ad quod neutrum per se sufficeret. Similiterpro 
+      <lb ed="#C" n="138"/>positum eundi ultra mare, vel ad sanctum lacobum sine ve 
+      <lb ed="#C" n="139"/>to non obligat, nisi cum accipiat, quo ad primum, aut a sacer 
+      <lb ed="#C" n="140"/>dote suo peram &amp; baculum, quo ad secundum. Quod si in ali 
+      <lb ed="#C" n="141"/>quo praedictorum trium casuum novitius ad seculum rever 
+      <lb ed="#C" n="142"/>tatur, &amp; de facto matiimonium contra hat, nunquid valea 
+      <lb ed="#C" n="143"/>Resp. Planum est, quod duo primi casus impediunt, &amp; dirimum 
+      <lb ed="#C" n="144"/>jam contractum. Idem dicendum de tertio, secundum quosdam 
+      <lb ed="#C" n="145"/>sed tunc demum renunciavit seculo, promittens de caetere 
+      <lb ed="#C" n="146"/>se in religione victurum approbante hujusmodi votum, ve 
+      <lb ed="#C" n="147"/>promissionem Abbate, vel aliquo, de eorum mandato gene 
+      <lb ed="#C" n="148"/>rali, vel speciali, quia in tali creditur casu votum esse solenni 
+      <lb ed="#C" n="149"/>zatum, alias propter solam habitus novitii susceptionem, 
+      <lb ed="#C" n="150"/>propositi manifestationem, non est, secundum quosdam, ju 
+      <lb ed="#C" n="151"/>dicandum votum solenne, sed solum simplex, quod non diri 
+      <lb ed="#C" n="152"/>mit, sed tantum impedit matrimonium contrahendum. Iten 
+      <lb ed="#C" n="153"/>qui religionis habitu suscepto, ad seculum sunt reversi cogi 
+      <lb ed="#C" n="154"/>di tamen sunt ad mitiorem religionem transire, nec ad ecci¬ 
+      <lb ed="#C" n="155"/>sias seculares, amplius debent assumi, ne sint rei voti, quo 
+      <lb ed="#C" n="156"/>fecerunt. Si autem ante susceptum habitum professorum in pro 
+      <lb ed="#C" n="157"/>batione positi ad seculum redire voluerint, prohibendi sunt. Sec 
+      <lb ed="#C" n="158"/>qualiter scietur, quod noviui fuerunt in probatione, quia pro 
+      <lb ed="#C" n="159"/>testatisint se velleesse in probatione, vel quia receperuntno 
+      <lb ed="#C" n="160"/>vitiorum habitum, ubi distinctus est ab habitu novitiorum 
+      <lb ed="#C" n="161"/>vel est talis ordo, qui non consuevit recipere aliquem ac 
+      <!-\-Henricus_a_Segusio_cardinalis_Hostiensis-0520.xml-\->
+      <pb ed="#C" n="0520"/>
+      <cb ed="#C" n="a"/>
+      <lb ed="#C" n="1"/>professionem intra annum probationis, argument. 27. distin 
+      <lb ed="#C" n="2"/>ctio. quod interrogasti. Vbi autem non sunt habitus hujusmo 
+      <lb ed="#C" n="3"/>di distincti benedicendae sint vestes tempore professioni: 
+      <lb ed="#C" n="4"/>argumen. extra de regul. statuimus. Item si aliquis secularis vi 
+      <lb ed="#C" n="5"/>det monasterium dissolutum, &amp; monachos egregie come 
+      <lb ed="#C" n="6"/>dere, &amp; bene indutos esse, &amp; cogitans, quod bene poteri 
+      <lb ed="#C" n="7"/>hunc ordinem sustinere ingreditur monasterium, &amp; poste 
+      <lb ed="#C" n="8"/>fit inquisitio in monasterio, &amp; compellitur ad observation 
+      <lb ed="#C" n="9"/>regulae, &amp; ipse dicit, non novi hanc asperitatem, quam mod 
+      <lb ed="#C" n="10"/>vultis imponere, nolo eam tenere secundum illud Bernard 
+      <lb ed="#C" n="11"/>Vota mea non augeas sine mea voluntate, sicutillud, dimi 
+      <lb ed="#C" n="12"/>nuas sine certa necessitate, quaeritur, utrum possit cogi, Re 
+      <lb ed="#C" n="13"/>spondeo. Dicunt quidam indistincte, quod non potest redit 
+      <lb ed="#C" n="14"/>adseculum, ex quo fecit professionem. Sed utrum cogati 
+      <lb ed="#C" n="15"/>ibi remanere? Distingue, aut erat peritus, autignarus. In pri 
+      <lb ed="#C" n="16"/>mo casu non potest recedere, quia intelligitur se obligass. 
+      <lb ed="#C" n="17"/>non ad id quod fiebat, sed ad id, quod fieri debebat. In secun 
+      <lb ed="#C" n="18"/>do casu subdistingue, aut fuit explanata ei asperitas regula 
+      <lb ed="#C" n="19"/>&amp; tunc idem est, quod in jurisperito, aut non tunc, si crede 
+      <lb ed="#C" n="20"/>bat illos regulariter vivere, &amp; ad illam a speritatem voluit s 
+      <lb ed="#C" n="21"/>obligare, &amp; non ad majorem, &amp; hoc expressit, non cogetu 
+      <lb ed="#C" n="22"/>ibi manere, sed transibit ad ordinem, quem valebit sustinere 
+      <lb ed="#C" n="23"/>Si autem non expressit, debet ibi remanere, nec potest alle 
+      <lb ed="#C" n="24"/>gare dolum, vel deceptionem, quia sit melior conditio sua 
+      <lb ed="#C" n="25"/>&amp; potest hoc magnae fatuitati imputari, quia ubi debuit, no 
+      <lb ed="#C" n="26"/>examinavit, de regul consuluit. &amp; capitu. cum dilectus, quod mi 
+      <lb ed="#C" n="27"/>tus cau. &amp; 20. quaestio. 3. Vnde dolus aliorum, vel simplicita 
+      <lb ed="#C" n="28"/>voventis non vitiat contractum in talibus, d capit. cum dile 
+      <lb ed="#C" n="29"/>ctus. Est &amp; alia voti species, nempe votum Hierosolymita 
+      <lb ed="#C" n="30"/>num, &amp; hoc a pauperibus, vel debilibus commutari, vel redi 
+      <lb ed="#C" n="31"/>mi potest, idque auctoritate Papae, extra, eodem titu capit. que 
+      <lb ed="#C" n="32"/>superius. Nullus autem alius sine ejusdem speciali mandato 
+      <lb ed="#C" n="33"/>intromittere debet sive commutando, sive differendo. In a 
+      <lb ed="#C" n="34"/>liis autem votis commutandis, aut redimendis dioecesanu 
+      <lb ed="#C" n="35"/>Episcopus potest pensatis causis, auctoritatem praestarae, extr 
+      <lb ed="#C" n="36"/>eodem utu, cap. primo, &amp; cap. scripturae. Quod autem ad votun 
+      <lb ed="#C" n="37"/>abstinentiae, &amp; peregrinationis, solvuntur ea staim ab ips 
+      <lb ed="#C" n="38"/>ingressureligionis, quia talis ingressus solvit etiam vincu 
+      <lb ed="#C" n="39"/>dum juramenti, &amp; obedientiae, ext. eodem tit. sane, &amp; cap. ser 
+      <lb ed="#C" n="40"/>pturae. Fallit, ubi quis juravit se aliquam ducturum in uxo 
+      <lb ed="#C" n="41"/>rem. Vt autem votorum talium commutatio, vel redempti¬ 
+      <lb ed="#C" n="42"/>fiat, requiruntur duo nempe causa, &amp; auctoritas superioris 
+      <lb ed="#C" n="43"/>Causa, ut si vovens sit sensu debilis, vel infirmus, vel ex su 
+      <lb ed="#C" n="44"/>absentia generalis turbatio timeretur, &amp; similia. Auctorita 
+      <lb ed="#C" n="45"/>quoque superioris exigitur, quia nemini auctoritate propri 
+      <lb ed="#C" n="46"/>votum commutare licet, vel redimere. Et haec votorum 
+      <lb ed="#C" n="47"/>quidem communia sunt. Mar -->
+      <lb ed="#C" n="48"/>synis, peregrinationibus, religionibus, abstinentiis, cont¬ 
+      <lb ed="#C" n="49"/>nentiis consistit votum: ut patet infra eodem capitu. 1. 2. 
+      <lb ed="#C" n="50"/>3 &amp; per totum. &amp; in his, quae notat. supra eodem, per to 
+      <lb ed="#C" n="51"/>tum. &amp; infra eod. per totum. &amp; breviter in omnibus pij 
+      <lb ed="#C" n="52"/>causis, licitis, &amp; honestis faciendis, vel contrariis non fi 
+      <lb ed="#C" n="53"/>ciendis, regulariter tenet votum: secus si voveam prima 
+      <lb ed="#C" n="54"/>non faciendas, argument. supra de pac. cap. sin. supra de jur¬ 
+      <lb ed="#C" n="55"/>juran. tua. &amp; patet in his, quae not. supra eodem §. quid sit vo 
+      <lb ed="#C" n="56"/>tum. versicul benedictio rei licitae §. hanc tamen regulam tibi tra 
+      <lb ed="#C" n="57"/>do, quod ubicunque voveo, vel promitto aliquid faceri 
+      <lb ed="#C" n="58"/>quo facto: vel aliquid non facere, quo non facto, salus cor 
+      <lb ed="#C" n="59"/>poralis, vel spiritualis adimitur, vel peccatum mortale in 
+      <lb ed="#C" n="60"/>currerem non est servandum votum, neque juramern 
+      <lb ed="#C" n="61"/>tum, neque pactum, neque consuetudo, neque lex, nequ 
+      <lb ed="#C" n="62"/>praeceptum, neque aliquod aliud vinculum fraternitatis 
+      <lb ed="#C" n="63"/>22 quaestio. 4. § sin. &amp; cap. inter caetera. supra de jurejur. quant. 
+      <lb ed="#C" n="64"/>&amp; no. supra deoffic. arch §. quod sit ejus officium. versi. quare ai 
+      <lb ed="#C" n="65"/>tem. de renunc. §. cui. versicul grave scandalum. &amp; sequent. In dis 
+      <lb ed="#C" n="66"/>ferentibus autem, quae si fiant, non est peccatum mortale 
+      <lb ed="#C" n="67"/>&amp; si non fiant nullum similiter peccati mortalis periculi 
+      <lb ed="#C" n="68"/>incurritur, tenet votum, &amp; observandum est, argum. infr 
+      <lb ed="#C" n="69"/>de novi ope nuncia,. cum injuncto §. super eo. nisi ratione perso 
+      <lb ed="#C" n="70"/>nae aliud dicatur, quae inhabilis est ad vivendum: supe 
+      <lb ed="#C" n="71"/>quo vide quod not supra eod S quis vovere. per totum. dun 
+      <lb ed="#C" n="72"/>modo non sit contrarium praecedenti. obligationi licita 
+      <lb ed="#C" n="73"/>&amp; honestae. arg. sup. de jurejur. eam te. in fi. &amp;c. veniens in fi.tu 
+      <lb ed="#C" n="74"/>nos. quia nec tunc sine peccato de facili exequi posset. arg 
+      <lb ed="#C" n="75"/>229. 5. juramenti. Quid ergo si quis voveat non intrare rel¬ 
+      <lb ed="#C" n="76"/>gionem, non accipere clericatus tonsuram, non reciper 
+      <lb ed="#C" n="77"/>episcopatum? dic ut plene not. sup. eod § quot sint species, su 
+      <lb ed="#C" n="78"/>§. votorum. Et no. quod si vovero facere id quod de nece 
+      <lb ed="#C" n="79"/>sitate tenebar facere, vel non facere, id quod de necessita 
+      <lb ed="#C" n="80"/>tetenebar, vitare votum necessarium, dicitur duplici jur 
+      <lb ed="#C" n="81"/>tunc illud teneor adimplere. sin autem voveo facere i 
+      <lb ed="#C" n="82"/>quod non tenebar facere de necessitate, poteram tame 
+      <lb ed="#C" n="83"/>ine peccato illud facere: vel si voveo non facere id quo 
+      <lb ed="#C" n="84"/>de necessitate non tenebar, vitare poteram, tamen sin 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0520.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="85"/>peccato evitare si vellem, tale votum dici voluntarium, u 
+      <lb ed="#C" n="86"/>plene not. sup. eo. §. quot sint species, resp. 
+    </p>
+            <p xml:id="nbht7y-d1e1255-d1e1299">
+               <lb ed="#C" n="87"/>Qualiter &amp; cujus; authoritate valeat redimi, 
+      <lb ed="#C" n="88"/>vel commutari? Dicas, quoc 
+      <lb ed="#C" n="89"/>regulariter omnia vota, quae voluntatis sunt, authoritat. 
+      <lb ed="#C" n="90"/>dioecesani, sive superioris, ex cujus arbitrio dependent, re 
+      <lb ed="#C" n="91"/>dimi &amp; commutari possunt. Debet autem superior ipse 
+      <lb ed="#C" n="92"/>considerare qualitatem personae, &amp; causam, &amp; qualitatem 
+      <lb ed="#C" n="93"/>&amp; quantitatem commutationis: ut ex hoc colligat, an re 
+      <lb ed="#C" n="94"/>compensatio melior Deo magis placita &amp; accepta. inf. eo.c 
+      <lb ed="#C" n="95"/>1. Deoet etiam considerare causam, propter quam votum 
+      <lb ed="#C" n="96"/>emissum est: nam ea cessante, cessat facilius &amp; effectus inf 
+      <lb ed="#C" n="97"/>eod magnae. in si Invoto etiam peregrinationis sic faciend: 
+      <lb ed="#C" n="98"/>est redemptio, ut expensae quae fierent in eundo, moran 
+      <lb ed="#C" n="99"/>do, &amp; redeundo, ad alias pias causas erogentur, &amp; ut labo 
+      <lb ed="#C" n="100"/>itineris, jejuniorum, &amp; vigiliarum, &amp; orationum labori 
+      <lb ed="#C" n="101"/>bus compensetur. infra eodem. magnae. § penuli. ad fin. &amp; csu 
+      <lb ed="#C" n="102"/>per his. §. 1. Sed &amp; in voto transmarino est consideranda vo 
+      <lb ed="#C" n="103"/>ventis intentio, utrum scilicet intenderet peregrinari ve 
+      <lb ed="#C" n="104"/>bellare, ut in primo casu habilis ad eundum, quamvis inha 
+      <lb ed="#C" n="105"/>bilis ad pugnandum non redimat, inhabilis vero ad eun 
+      <lb ed="#C" n="106"/>dum redimat, in secundo casu inhabilis ad pugnandum 
+      <lb ed="#C" n="107"/>quamvis habilis ad eundum redimat, nisi consilio stre 
+      <lb ed="#C" n="108"/>nuus sit, vel secum forte possit ducere magnum numeri 
+      <lb ed="#C" n="109"/>pugnatorum. Talis enim est omnino impotens, cum pri 
+      <lb ed="#C" n="110"/>mus lingua, secundus per alios pugnare possit. infra eod 
+      <lb ed="#C" n="111"/>quod super his §. penult. &amp; fin. &amp; ca. ex multa. §. 2. quaesisti. § fina 
+      <lb ed="#C" n="112"/>in fi. vel nisi sit agricola, vel artifex, qui ibi sit utilis, quam 
+      <lb ed="#C" n="113"/>vis non multi talium propter brevitatem possessionum? 
+      <lb ed="#C" n="114"/>paucitatem inhabitantium ibi sunt opportuni. infra eoa 
+      <lb ed="#C" n="115"/>quod superhis respon I. Sed inter illos, qui habent impedi 
+      <lb ed="#C" n="116"/>mentum temporale, ut his dilatio concedatur, &amp; perpe 
+      <lb ed="#C" n="117"/>tuum, ut ab his recipiatur redemptio est subtiliter distin 
+      <lb ed="#C" n="118"/>guendum inf. eo. quod super his. §. I. In clericis etiam voventi 
+      <lb ed="#C" n="119"/>bus considerare oportet, utrum clericus cruce signatu 
+      <lb ed="#C" n="120"/>consilio vel officio praedicationis: vel quia servitio alicu 
+      <lb ed="#C" n="121"/>jus magnatis deputatus est: vel quia secum multos bellato 
+      <lb ed="#C" n="122"/>res potest ducere, sit sibi utilis vel necessarius, &amp; tunc nor 
+      <lb ed="#C" n="123"/>recipietur redemptio: vel non sit sibi opportunus: &amp; tun¬ 
+      <lb ed="#C" n="124"/>recipietur, ut inf. eod. ex multa. § fin. c. postulasti. nam quo ac 
+      <lb ed="#C" n="125"/>pugnam personaliter faciendam inhabilis est, ut patet 50 
+      <lb ed="#C" n="126"/>distin. clericum qui paganum. nisi forte spiritualiter pugnare 
+      <lb ed="#C" n="127"/>velit armis suis, quae sunt orationes &amp; lachrymae. 23. quae. 8 
+      <lb ed="#C" n="128"/>§.1. &amp; censura ecclesiastica, nam spiritualia arma propri¬ 
+      <lb ed="#C" n="129"/>sunt clericorum: ut in auth.d.n.extra de sen. excom. dudum re 
+      <lb ed="#C" n="130"/>spon. I. quod dic ut non. sup. de treug &amp; pac § quid justum bellum 
+      <lb ed="#C" n="131"/>ver. 5. ratione personae. &amp; seq. sed &amp; aliquoties potest votum re 
+      <lb ed="#C" n="132"/>dimere, etiansi bellatores ducere possit: puta si sit nimis se 
+      <lb ed="#C" n="133"/>nex, fragilis, &amp; confractus rif eo magnae. §. verum aetatis, sup 
+      <lb ed="#C" n="134"/>de renun. nisi cum pridem. §. alia vero causa est. Item oportet co 
+      <lb ed="#C" n="135"/>siderari, utrum ex facilitate animi juvenis votum emis 
+      <lb ed="#C" n="136"/>sum est, &amp; sic est remittendum redemptione competenti re 
+      <lb ed="#C" n="137"/>cepta. ins.c. venientis. Nec praetermitti debet, quod licet voti 
+      <lb ed="#C" n="138"/>Hierosolymitanum magni favoris sit, ut patet, inf. eo. ex mul 
+      <lb ed="#C" n="139"/>ta. §. quod autem. si tamen propter absentiam unius personi¬ 
+      <lb ed="#C" n="140"/>totius terrae, sive provinciae unius periculum immineret 
+      <lb ed="#C" n="141"/>votum remittitur, vel differtur: nec est voti transgressor 
+      <lb ed="#C" n="142"/>qui authoritate Sed Apo. illud distulit adimplere. inf c. nor 
+      <lb ed="#C" n="143"/>est. Quanvis autem instructus sit per praedicta, qualiter votum 
+      <lb ed="#C" n="144"/>transmarinum redimi, vel differre possit, non tamen est tu 
+      <lb ed="#C" n="145"/>tum redemptionem recipere vel differre, vel de ipso aliquo 
+      <lb ed="#C" n="146"/>alio modo intromittere sine mandato Sedis Apo. special 
+      <lb ed="#C" n="147"/>ad quam solam hoc noscitur pertinere. infra eod. ex imulta 
+      <lb ed="#C" n="148"/>resp. 1. in fi. &amp; ideo de mandato Papae remittitur, vel differ 
+      <lb ed="#C" n="149"/>tur, vel redimitur. &amp; ipse de hoc interpretatur. infra eoden 
+      <lb ed="#C" n="150"/>veniens. &amp; cap. non est. &amp; 4 sequen § sin. &amp; idem puto in vot. 
+      <lb ed="#C" n="151"/>crucis cujuslibet: quia ad ipsum pertinet de talibus judi 
+      <lb ed="#C" n="152"/>care, ut patet in his, quae not. infra eodem § fin. versi nunquie 
+      <lb ed="#C" n="153"/>autem. &amp; seq. Sed in redemptione, vel commutatione cu 
+      <lb ed="#C" n="154"/>juslibet voti, tria sunt praecipue attendenda, quid liceat se 
+      <lb ed="#C" n="155"/>cundum aequitatem, quid deceat secundum honestatem 
+      <lb ed="#C" n="156"/>quid expediat secundum utilitatem, seu necessitatemm 
+      <lb ed="#C" n="157"/>fra eod. magnae §..ideoque, &amp; in voto. abstinentiae habend. 
+      <lb ed="#C" n="158"/>est ratio asperitatis jejuniorum, panis, &amp; aquae: &amp; voven 
+      <lb ed="#C" n="159"/>tis affluentia. infra eod, cap.1. magnae § penult. in fi. unde &amp; ali 
+      <lb ed="#C" n="160"/>quis pauper posset redimere votumcum pauca pecuni¬ 
+      <lb ed="#C" n="161"/>vel oratione, si nihil haberet: ubi Regi vei Comiti non suf 
+      <lb ed="#C" n="162"/>ficeret magna. argumen. infra de malca i.c. 2. Sic patet, quo¬ 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0521.xml-->
+      <pb ed="#C" n="504"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>authoritate episcopi potest quodlibet votum voluntar 
+      <lb ed="#C" n="2"/>um commutari, vel redimi, excepto transmarino, quo 
+      <lb ed="#C" n="3"/>soli Papae reservatur, ut no. sup. eod. §. i. respon.i. &amp; vers. quan 
+      <lb ed="#C" n="4"/>vis autem. episcopus autem non debet interponere autho 
+      <lb ed="#C" n="5"/>ritatem suam, nisi ob justam causam. sicut liquet ex hi¬ 
+      <lb ed="#C" n="6"/>quae no. supra eod. ver. proxi. ex praecedentibus aliqui t. 
+      <lb ed="#C" n="7"/>men voluerunt dicere, quod votum non admittat com 
+      <lb ed="#C" n="8"/>pensationem, vel dispensationem: ut no. inf. eod §. utrum, e 
+      <lb ed="#C" n="9"/>per quem. &amp; male cum enim in eccl. primitiva primogenit 
+      <lb ed="#C" n="10"/>mandarentur offerri, quorum quaedam Domino reddi 
+      <lb ed="#C" n="11"/>bantur sine commutatione, vel redemptione, ut primog 
+      <lb ed="#C" n="12"/>nita Levitarum, quaedam redimebantur, ut aliarum tr 
+      <lb ed="#C" n="13"/>buum, quaedam commutabantur, sicut primogenitum 
+      <lb ed="#C" n="14"/>sini, quod cum ove commutabatur. restat, quod sic est, S 
+      <lb ed="#C" n="15"/>de votis, scilicet quod aliqua sunt, quae non possunt con 
+      <lb ed="#C" n="16"/>mutari, vel redimi: quaedam vero possunt: quia cum minu 
+      <lb ed="#C" n="17"/>obligabat tunc praeceptum Domini, quam hodie votum 
+      <lb ed="#C" n="18"/>ut inf. eo magnae. §. cum igitur. quasi dicat votum succedit I¬ 
+      <lb ed="#C" n="19"/>co praecepti Dei ergo ejus naturam sapere debet. arg. ff. 
+      <lb ed="#C" n="20"/>quis cau. sicum. §qui injuriarum. inf tit. I. revolventes. §.1. &amp; 21 
+      <lb ed="#C" n="21"/>de est, quod aliqua sunt vota, quae nullam redemptionem 
+      <lb ed="#C" n="22"/>nullam commutationem recipiunt. sic omnia vota, qua 
+      <lb ed="#C" n="23"/>dicuntur necessitatis. &amp; est ratio, quia nec omitti possen 
+      <lb ed="#C" n="24"/>sine peccato: ut patet in his, quae no. sup eo §. prox. &amp; § quo 
+      <lb ed="#C" n="25"/>sint species ejus. ideoque nulla est commutatio, nulla est redi 
+      <lb ed="#C" n="26"/>tio contra Deum. 15. dist. sicut, u qu 3. qui resistit. 25. q.1. sunt qu 
+      <lb ed="#C" n="27"/>dam. Sed &amp; de votis voluntariis excipitur votum continen 
+      <lb ed="#C" n="28"/>tiae: nec redemptionem ponderationem, seu compensatio 
+      <lb ed="#C" n="29"/>nem recipit, secundum quosdam: quia secundum Sal¬ 
+      <lb ed="#C" n="30"/>monem, non est digna ponderatio animae continentis,e 
+      <lb ed="#C" n="31"/>nuptiae replent mundum, virginitas paradisum, secund 
+      <lb ed="#C" n="32"/>Ambro. 324.1. nuptiae. &amp; absque virginitate, puritate, cont 
+      <lb ed="#C" n="33"/>nentia, &amp; castitate omnia opera imperfecta sunt: secund 
+      <lb ed="#C" n="34"/>Hierony 329. 5. cum salvabitur. &amp; castitas sola est, quae po 
+      <lb ed="#C" n="35"/>test cum fiducia Deo animas praesentare, ut in auth. de len¬ 
+      <lb ed="#C" n="36"/>§. scimus, colla z. nullam autem commutationem dabit h¬ 
+      <lb ed="#C" n="37"/>mo pro anima sua, quae etiam omnibus rebus preciosio 
+      <lb ed="#C" n="38"/>est, 1293. si habes &amp; argum. 22. qu. i. praecipimus. ideoque ne 
+      <lb ed="#C" n="39"/>summus Pontifex potest contra hoc dispensare: ut e¬ 
+      <lb ed="#C" n="40"/>pressim legitur, infra titu. I. cum ad monasterium in fine. ali¬ 
+      <lb ed="#C" n="41"/>contra, inter quos est do. Hug. Card. sanctae Sabinae. &amp;d 
+      <lb ed="#C" n="42"/>cunt, quod dominus Papa posset ex magna causa d spen 
+      <lb ed="#C" n="43"/>sare in hoc, puta, si aliquis rex Sarracenorum cum tota te 
+      <lb ed="#C" n="44"/>ra sua offerret conversionem suam, si aliqua sanctimonia 
+      <lb ed="#C" n="45"/>lis daretur sibi in uxorem, &amp; hi probabilius dicunt. Cun 
+      <lb ed="#C" n="46"/>enim votum simplex non minus obliget apud Deum, qu 
+      <lb ed="#C" n="47"/>solenne. ut not sup. eod. § quot sint species. sub §. votorum. vers 
+      <lb ed="#C" n="48"/>hic tamen notandum, qua ratione potuit Papa facere const 
+      <lb ed="#C" n="49"/>tutionem, quod si simpliciter vovens contraheret, tenere 
+      <lb ed="#C" n="50"/>matrimonium, quod nec primi negant, eadem ratione po 
+      <lb ed="#C" n="51"/>set hoc facere &amp; de solenni, quia solennitas ex constit. e 
+      <lb ed="#C" n="52"/>cles. est, nec est de substantia voti, sed &amp; eadem ratione pol 
+      <lb ed="#C" n="53"/>sit facere constitutionem, quod contrahere posset, lice 
+      <lb ed="#C" n="54"/>hoc non intendat ab initio,. ut patet in his, quae non supra e 
+      <lb ed="#C" n="55"/>§ quot sint species sub §. votorum. ver. penul. qui incipit, quid 
+      <lb ed="#C" n="56"/>ultra procedat. &amp; plenius not. de hoc infra qui clerici, vi 
+      <lb ed="#C" n="57"/>vo. § si quis vovens. versicul videtur igitur, quod summus Pon 
+      <lb ed="#C" n="58"/>tifex, &amp; sequen. ergo &amp; Papae &amp; divinae revelationi obed 
+      <lb ed="#C" n="59"/>endum est, ut patet ex his quae no, sup. eod §. quot sint species 
+      <lb ed="#C" n="60"/>sub s. votorum. versicul. dicas,. &amp; sequenti. nec obstant jura in 
+      <lb ed="#C" n="61"/>contrarium inducta, quia authoritas Hieron. loquitur de 
+      <lb ed="#C" n="62"/>continentia &amp; virginitate mentis, ut, scilicet quis abstinea 
+      <lb ed="#C" n="63"/>a peccatis. &amp; sic secundum do. Hug. intelligenda est authe 
+      <lb ed="#C" n="64"/>ritas Salomonis, non est ponderatio animae continenti: 
+      <lb ed="#C" n="65"/>nec obstat authoritas Amb quia intelligenda est sic, quoc 
+      <lb ed="#C" n="66"/>facilius salvantur virgines, quam conjugatae, ut 33. q. 5. quis 
+      <lb ed="#C" n="67"/>stit. sed propter hoc damnantur nuptiae, ut ibidem prob¬ 
+      <lb ed="#C" n="68"/>tur. &amp; supra de summa Trini. ci.in si &amp; 32. quaestinuptiae. &amp; 
+      <lb ed="#C" n="69"/>sequen. &amp; 3i quaest. iaperiant &amp; cap sequen. Item non ob quo 
+      <lb ed="#C" n="70"/>legitur infra tit. i.cum ad monasterium. in fine. ubi dicit, quo 
+      <lb ed="#C" n="71"/>abdicatio proprietatis, sicut &amp; custodia castitatis, ade¬ 
+      <lb ed="#C" n="72"/>sunt annexa regulae monachali, ut contra eam nec sum 
+      <lb ed="#C" n="73"/>mus Pontifex possit licentiam indulgere, quia illud veri 
+      <lb ed="#C" n="74"/>est dejure communi. vel non decet eum, sicut &amp; alias ex 
+      <lb ed="#C" n="75"/>ponitur. 324. 5. si Paul. vel non possit sine magna vel evid 
+      <lb ed="#C" n="76"/>ti causa, quam putet magis Deo placere infra cod. ci. por 
+      <lb ed="#C" n="77"/>ro de plenitudine potestatis. potest de jure super. jus dispi 
+      <lb ed="#C" n="78"/>sare. sup. de conces praeb. proposuit. igitur non peccat, sed me 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0521.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>retur monialis obediendo in hoc domino Papae, cum! 
+      <lb ed="#C" n="80"/>anima sua salvari possit, &amp; multae aliae Domino acquiran 
+      <lb ed="#C" n="81"/>tur. in hoc enim casu Martha Mariae, &amp; Lya Racheli e 
+      <lb ed="#C" n="82"/>merito praeferenda supra de renunc nisi cum pridem. §. nec pu 
+      <lb ed="#C" n="83"/>tes supr. de regul. licet. §. illa. * Restat ergo, quod nullum! 
+      <lb ed="#C" n="84"/>votum necessitatis redemptionem, vel commutationer 
+      <lb ed="#C" n="85"/>recipit, &amp; sic hoc genus voti aequiparatur praecepto De 
+      <lb ed="#C" n="86"/>mini de primogenitis Levitis. omne autem votum volum 
+      <lb ed="#C" n="87"/>tatis recipit redemptionem, etiam in hoc casu aequipar. 
+      <lb ed="#C" n="88"/>tur praecepto Domini de primogenitis aliarum tribuun 
+      <lb ed="#C" n="89"/>vel commutationem, sicut est votum continentiae. hoc a 
+      <lb ed="#C" n="90"/>quiparatur praecepto Domini de primogenito asini, u 
+      <lb ed="#C" n="91"/>probatur in his quae no. supra eod. ver. si pater. Item in omn 
+      <lb ed="#C" n="92"/>voto voluntatis redimendo, vel commutando authorita 
+      <lb ed="#C" n="93"/>Papae sufficit, nullo casu excepto. episcopi etiam author 
+      <lb ed="#C" n="94"/>tas in omnibus sufficit, exceptis duobus scilicet voto cru 
+      <lb ed="#C" n="95"/>cis, ut no. sup. eo. ver. quamvis &amp; continentiae. quod soli Pap¬ 
+      <lb ed="#C" n="96"/>relinquendum est, ut patet in his quae no supra eod. vers 
+      <lb ed="#C" n="97"/>proxi. Item in omni voto redimendo, vel commutande 
+      <lb ed="#C" n="98"/>licite &amp; canonice, duo requiruntur scilicet causa quae sul 
+      <lb ed="#C" n="99"/>sit &amp; authoritas superioris, ut ex superioribus colligi pr 
+      <lb ed="#C" n="100"/>test. quae autem dicantur vota necessitatis, vel voluntatis 
+      <lb ed="#C" n="101"/>not. sup. eo § in quibus &amp; §. quot sint specie 
+    </p>
+            <p xml:id="nbht7y-d1e1255-d1e1696">
+               <lb ed="#C" n="102"/>Et utrum a Voto discedi possit Non regulari¬ 
+      <lb ed="#C" n="103"/>ter, imo reddi debet ab univer 
+      <lb ed="#C" n="104"/>sis infra eod. licet. in princip. nam sicut ante votum emissun 
+      <lb ed="#C" n="105"/>non cogitur quis vovere, ita ex quo semel vovit cogitu 
+      <lb ed="#C" n="106"/>reddere, ut probatur 17. quae.i. &amp; cap.1. &amp; not suprae eodem 
+      <lb ed="#C" n="107"/>quot sint species. ver. rotum vero voluntatis, &amp; sequen. C. de ac( 
+      <lb ed="#C" n="108"/>ob. sicut ergo quae sine conditione voventur, sine condi 
+      <lb ed="#C" n="109"/>tione solvi debent. 32. dist. cap. fin. adeo astringitur voven: 
+      <lb ed="#C" n="110"/>quod &amp; si voto non completo in episcopum eligatur, no 
+      <lb ed="#C" n="111"/>debet consentire, quousque votum adimpleverit incalt 
+      <lb ed="#C" n="112"/>quem habes infra eodem per tuas. &amp; argum. infra de spon. cor 
+      <lb ed="#C" n="113"/>missum per quae jura comprobatur, quod si aliquis obligi 
+      <lb ed="#C" n="114"/>tus est ad aliud faciendum, &amp; velit abstinere a peccato, 
+      <lb ed="#C" n="115"/>suam salvare conscientiam, non debet scienter aliud fac 
+      <lb ed="#C" n="116"/>re, per quod impediatur adimplere id, ad quod primo fu 
+      <lb ed="#C" n="117"/>rit obligatus. * Sed nunquid haeres tenetur adimpleri¬ 
+      <lb ed="#C" n="118"/>votum illius, cui successit? Quicquid Rayn. vel alii sci 
+      <lb ed="#C" n="119"/>pserunt ita dicas, quod si haeres haeredit adierit, tunc ten¬ 
+      <lb ed="#C" n="120"/>tur adimplere, si vires haereditatis hoc patiantur, secundi 
+      <lb ed="#C" n="121"/>ea quae not. sup de test. § ad quid haeres. sub § tenetur autem ha 
+      <lb ed="#C" n="122"/>res. ver. quid sinon sufficithaereditas. &amp; se maxime si spont 
+      <lb ed="#C" n="123"/>susceperit. ut infra eod licet nam voti obligationem ad Fa 
+      <lb ed="#C" n="124"/>redem transire constat. ff de pollicita l. 2 in f. si vero non adi 
+      <lb ed="#C" n="125"/>non tenetur: quia nec haeres est, nisi forte hoc promisen 
+      <lb ed="#C" n="126"/>sponte, &amp; tunc si in omni casu intellexit personam suan 
+      <lb ed="#C" n="127"/>obligare, adimplere debet, non tam ob promissionem f¬ 
+      <lb ed="#C" n="128"/>ctam a testatore, quam ob suam: sed si tanquam haeres ho 
+      <lb ed="#C" n="129"/>promittebat, sperans haere adire postea tamen abstinui 
+      <lb ed="#C" n="130"/>mutato consilio, non tenetur, argumen. supra de el ect. ren 
+      <lb ed="#C" n="131"/>rabilem. § sina. &amp; sic etiam potest intelligi infra eodem lice 
+      <lb ed="#C" n="132"/>sed quicunque haereditatem adierit obligatur, ut prob 
+      <lb ed="#C" n="133"/>tum est. &amp; argument. supra de solu. capit. 1. infrade iasur. tu¬ 
+      <lb ed="#C" n="134"/>Licet autem ita regulariter sit votum adimplendum, i 
+      <lb ed="#C" n="135"/>casibus tamen ab eo discedi potest. Primus casus est, s 
+      <lb ed="#C" n="136"/>commutetur in melius infra eodem. scrip. supra de jurejur, ci 
+      <lb ed="#C" n="137"/>3. in princip. utrum autem hic requiratur authoritas supe 
+      <lb ed="#C" n="138"/>rioris, vide quod not. supra eodem. §. quis vovere. versi. moni 
+      <lb ed="#C" n="139"/>chus. &amp; versicu. quid si votum emiserit. Secundus est, si no 
+      <lb ed="#C" n="140"/>processit ad actum infra eodem literaturam. 17u1. Gonsaldu 
+      <lb ed="#C" n="141"/>&amp; § praeceden. Tertius est, si conditionale fuit, &amp; conditi¬ 
+      <lb ed="#C" n="142"/>deficit. 22. quaest. 8. non solum. &amp; hoc intelligas, sive conditi 
+      <lb ed="#C" n="143"/>sit specialis expressa infra de con. appellat. §. verum &amp; capit. d 
+      <lb ed="#C" n="144"/>illis. &amp; capit super eodem. &amp; supra de jurejuran, cap. 3.in fin. e 
+      <lb ed="#C" n="145"/>supra de restitu spo olim causam. sive sit tacita, quae ex sui na 
+      <lb ed="#C" n="146"/>tui a inest voto, puta, si potero, si vixero, si Deus dederit 
+      <lb ed="#C" n="147"/>nisi Deus aliter revelaverit, secundum Goffre. ut &amp; pro 
+      <lb ed="#C" n="148"/>batur in his quae notat. supra eodem. §. quot sint species sub? 
+      <lb ed="#C" n="149"/>votorum. versicul. solutio. &amp; versicul. dicas &amp; sequent. &amp; de hi 
+      <lb ed="#C" n="150"/>conditionibus multa exempla invenies supra de jure ju 
+      <lb ed="#C" n="151"/>rand. S. quot species versicul. habet. &amp; sequen. Quartus est, ub 
+      <lb ed="#C" n="152"/>vovens non habet liberam facultatem vovendi, secundun 
+      <lb ed="#C" n="153"/>ea quae not. supra eodem §. quis vorere possit. per totum. Quin 
+      <lb ed="#C" n="154"/>tus est, ubi authoritate superioris, &amp; ex causa dilatum ess 
+      <lb ed="#C" n="155"/>vel redemptum, vel mutatum, secundum ea quae notatu 
+      <lb ed="#C" n="156"/>supra eodem § per totum. Sextus est, ubi votum ex sui nati 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0522.xml-->
+      <pb ed="#C" n="505"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>ra est illicitum, ubi quidem non solum potest, imo &amp; de 
+      <lb ed="#C" n="2"/>bet a voto omnino discedi, secundum ea quae notat. supr 
+      <lb ed="#C" n="3"/>eod § in quibus. &amp; §quid sit votum versicul benedico. Notavi 
+      <lb ed="#C" n="4"/>Goffred. &amp; alium casum, qui potest dici septimus, quan 
+      <lb ed="#C" n="5"/>do scilicet causa propter quam votum emissum est, cesse 
+      <lb ed="#C" n="6"/>infra eodem. magnae. in fine. licet secus sit in voto reli. quo 
+      <lb ed="#C" n="7"/>ex falsa causa non vitiatur, ut supra de conver, conju. ex pa¬ 
+      <lb ed="#C" n="8"/>te. 2. §. 1. in fine. &amp; cadudum tu dic. quod etiam in alio vot¬ 
+      <lb ed="#C" n="9"/>non cesset votum, causa cessante, licet redemptio faciliu 
+      <lb ed="#C" n="10"/>admittatur. &amp; hoc est. quod dicit decret. infra eodem. ma 
+      <lb ed="#C" n="11"/>gnae. §. sin. probatur ibi, specialiter vos inducit. &amp; ibi fac 
+      <lb ed="#C" n="12"/>lius cessare potuit &amp; effectus. ergo idem &amp; si illud non 
+      <lb ed="#C" n="13"/>cesset, nam facile erat ubi innuit, ibi facilius, &amp; hoc inte¬ 
+      <lb ed="#C" n="14"/>ligas, ubi causa fuit inductiva sive compulsiva, vel etian 
+      <lb ed="#C" n="15"/>finalis: sed hoc non expressit. C. decondictione ob causan 
+      <lb ed="#C" n="16"/>dat. si repetendi ff.de verborum obligatione, quicquid astringenda 
+      <lb ed="#C" n="17"/>&amp; sic etiam potest intelligi, &amp; sic intellexit Ray. sup. de cor 
+      <lb ed="#C" n="18"/>ver. conju ex parte. 2. §. 1. ad sin. si vero hoc expressit, dicent 
+      <lb ed="#C" n="19"/>quod si talis causa deficeret, nolebat obligari, tunc pla 
+      <lb ed="#C" n="20"/>num est, quod cessante causa cesset effectus ff.de pact. quo 
+      <lb ed="#C" n="21"/>dictum est sup. de app. cum cessante. sicut &amp; si condictio defe 
+      <lb ed="#C" n="22"/>cisset, ut no. supra eo. ver tertius 
+    </p>
+            <p xml:id="nbht7y-d1e1255-d1e1873">
+               <lb ed="#C" n="23"/>Vtrum &amp; per quem in votis valeat dispensar 
+      <lb ed="#C" n="24"/>Super hoc sunt quatuor opi. in pr 
+      <lb ed="#C" n="25"/>ma opi. in hoc concordat, quod etiam Papa in votis dispi 
+      <lb ed="#C" n="26"/>sare non potest: quia redditio voti est de jure naturali siv 
+      <lb ed="#C" n="27"/>qui divino 7 &amp; ideo contra hoc non potest Papa venire. 25. q.1 
+      <lb ed="#C" n="28"/>sunt quidam. &amp; in hac opinio. fuit Hug &amp; ejus sequaces. u 
+      <lb ed="#C" n="29"/>patet in his quae not. supra eod. §. quot sint species sub §. vot. 
+      <lb ed="#C" n="30"/>rum. ver. quid ergo si Papa. si opponatur eis de redemptioni 
+      <lb ed="#C" n="31"/>vel commutatione voti facienda, in quo etiam ipsi cor 
+      <lb ed="#C" n="32"/>sentiunt, quod fieri potest. de quo not. supra eodem. §. qual 
+      <lb ed="#C" n="33"/>ter, &amp; cujus authoritate. respondet, quod non est ibi disp 
+      <lb ed="#C" n="34"/>satio, sed juris declaratio, nam cum quis vovet peregrin¬ 
+      <lb ed="#C" n="35"/>ri, vel abstinere, subintelligitur, si commode potest, argu 
+      <lb ed="#C" n="36"/>supra de jurejuran. Quintavallis. veniens ad nostra. 3. sup. de dila 
+      <lb ed="#C" n="37"/>c. fi. sup. de elect. quia Papa ff. de verb. sign. Nepos Proculo. Secund 
+      <lb ed="#C" n="38"/>dicunt, quod potest dispensare in omnibus voluntariis 
+      <lb ed="#C" n="39"/>excepto voto continentiae. Tertii dicunt, quo ad votur 
+      <lb ed="#C" n="40"/>continentiae, quo ad alia vero, distinguunt, utrum voven 
+      <lb ed="#C" n="41"/>vel jurans simpliciter &amp; inde terminate promiserit, no 
+      <lb ed="#C" n="42"/>excludendo authoritatem Papae, nec de ipso forte cogit. 
+      <lb ed="#C" n="43"/>do, aut determinate si indeterminate, tunc potest dispen 
+      <lb ed="#C" n="44"/>sare Papa, quia talia vota vaga &amp; indeterminata, interpr 
+      <lb ed="#C" n="45"/>tationes recipiunt, ut probant concor. inductae supra eoc 
+      <lb ed="#C" n="46"/>ver. prima opinio. &amp; ad idem sup de feud ci. infra de verb. si 
+      <lb ed="#C" n="47"/>super quibusdam. nisi determinate intendens hoc adimpli 
+      <lb ed="#C" n="48"/>re, si Papa cum eo dispensaret, planum est, quod tunc P. 
+      <lb ed="#C" n="49"/>padispensare poterit. argum. infra de cond appell super eod. 
+      <lb ed="#C" n="50"/>cap. veniens. si autem intendebat expresse se obligare in o 
+      <lb ed="#C" n="51"/>mnem eventum etiamsi Papa secum dispensaret, &amp; era 
+      <lb ed="#C" n="52"/>licitum id quod voverat, non est tutum venire contra 
+      <lb ed="#C" n="53"/>sic potest intelligi Hug. opin. posita supra eo. versi prim: 
+      <lb ed="#C" n="54"/>quod si id ad quod se obligabat, erat malum sive illicitum 
+      <lb ed="#C" n="55"/>nullo modo tenetur adimplere, unde reprobatur inepte 
+      <lb ed="#C" n="56"/>qui occasione voti, sive promissionis, filiam suam occidii 
+      <lb ed="#C" n="57"/>&amp; Herodes qui eadem occasione fecit amputare capu 
+      <lb ed="#C" n="58"/>beati lo. Baptistae. 224. 4. c. 2. &amp; c. unusquisque &amp; infra de hom 
+      <lb ed="#C" n="59"/>cum juramento. Quarti dicunt &amp; verius &amp; hoc omnino te 
+      <lb ed="#C" n="60"/>neas, quod Papa de plenitudine potestatis in omni vot 
+      <lb ed="#C" n="61"/>dispensare r potest, quo ab initio voluntarium fuit, pe¬ 
+      <lb ed="#C" n="62"/>cat si sine causa dispensat, nec ei obediendum est, si man 
+      <lb ed="#C" n="63"/>feste liqueat, quod fit contra dominorum Domini volur 
+      <lb ed="#C" n="64"/>tatem, alias ei obediendum est in necessario autem nulli 
+      <lb ed="#C" n="65"/>modo dispensare, potest, si illicitum sit, nec si illicitum sit 
+      <lb ed="#C" n="66"/>aliquatenus est servandum. episcopus vero &amp; superior ii 
+      <lb ed="#C" n="67"/>omni voto voluntario, excepto voto continentiae, &amp; cru 
+      <lb ed="#C" n="68"/>cis, ex causa dispensare potest, sine causa non potest. 14.. 
+      <lb ed="#C" n="69"/>§nisi rigor disciplinae. &amp; c seq &amp; §. utilitatis intuitu. &amp;c. seq. 8 
+      <lb ed="#C" n="70"/>patet in his, quae no. supra eo. qualiter &amp; cujus authorita 
+      <lb ed="#C" n="71"/>te. ver. restat ergo &amp; aliis, ut ibidem inductis. &amp; §. in quibu 
+      <lb ed="#C" n="72"/>&amp; supra de aeta &amp; qualit. § aetas. Quid si quis devovit se reli 
+      <lb ed="#C" n="73"/>vioni, animo ibidem perpetuo remanendi, exire poteri 
+      <lb ed="#C" n="74"/>libere intra annum authoritate juris supra de reg statuimus 
+      <lb ed="#C" n="75"/>consulendum est tamen sibi in judicio animae, quod votun 
+      <lb ed="#C" n="76"/>suum reddat, si vult animam suam salvare, ut patet in hi 
+      <lb ed="#C" n="77"/>quae not. supra eodem. §. respon. 1. nisi ante annum, &amp; ant 
+      <lb ed="#C" n="78"/>professionem emissam secum per episcopum ex causa pe 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0522.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>Papam etiam professione facta, ex magna causa secun 
+      <lb ed="#C" n="80"/>fuerit dispensatum, licet hic cadant opiniones secundum 
+      <lb ed="#C" n="81"/>ea quae no supra co. §. ver.i. &amp; seq. * Quid si aliquis scholaris 
+      <lb ed="#C" n="82"/>videt aliquod monasterium dissolutum splendide come 
+      <lb ed="#C" n="83"/>dere, bona indumenta habere, &amp; similia, cogitat ipse, Han¬ 
+      <lb ed="#C" n="84"/>regulam bene possum tolerare, hic saturabo corpus ac 
+      <lb ed="#C" n="85"/>minus: quia in domo propria vix possum milio saturari 
+      <lb ed="#C" n="86"/>12 quaest. 2. gloria episcopi, circa princ. &amp; sic ingreditur dictum 
+      <lb ed="#C" n="87"/>monasterium. demum facta inquisitione reformatur mo 
+      <lb ed="#C" n="88"/>nasterium, &amp; compelluntur omnes ad regulam observan 
+      <lb ed="#C" n="89"/>dum cogitat ipse, distant ultima primis: hanc austeritatem 
+      <lb ed="#C" n="90"/>non possum ego servare, vult exire, nunquid potest? Vide 
+      <lb ed="#C" n="91"/>tur quod sic, quia sicut ab initio non potest cogi ad totum 
+      <lb ed="#C" n="92"/>votum. 32. q. 1. integritas. ita nec ad voti augmentum. argu 
+      <lb ed="#C" n="93"/>f de rei vendi quae de tota, supra de offi. deleg pastora. §. 1. Item li¬ 
+      <lb ed="#C" n="94"/>cite potest se aliquis obligare separatim ad servandan 
+      <lb ed="#C" n="95"/>continentiam, vel proprii carentiam, vel obedientiam. u 
+      <lb ed="#C" n="96"/>33 quaestio.5. quod Deo pari. 33 distinct. quanquam. i9 quaestio 25 
+      <lb ed="#C" n="97"/>econtra Paulus. Contra, quia si nihil excepit videtur se sim 
+      <lb ed="#C" n="98"/>pliciter obligasse, maxime facta professione ad regulam 
+      <lb ed="#C" n="99"/>integraliter observandam in 19. distinct. si Romanorum. ff.d 
+      <lb ed="#C" n="100"/>offic. praefect. ur. l. 1 §. cum urbem. alias incipit initio, &amp; si et 
+      <lb ed="#C" n="101"/>iam expressit, quod vellet regulariter vivere, pro non ex¬ 
+      <lb ed="#C" n="102"/>presso habetur, quia contra substantiam religionis est, ar 
+      <lb ed="#C" n="103"/>gum. de cond. ap. c sin. conditio enim contra naturam con 
+      <lb ed="#C" n="104"/>tractus apposita contractum non vitiat. 10 quae I. cap. 2. ne 
+      <lb ed="#C" n="105"/>apposita contra legem 16. quaestio. I. si quis laicus Solutio 
+      <lb ed="#C" n="106"/>Si professionem fecit, nullatenus potest ad seculum reverti 
+      <lb ed="#C" n="107"/>Utrum autem cogatur remanere ibi, distin. utrum esse 
+      <lb ed="#C" n="108"/>jurisperitus, &amp; tunc cogitur tenere regulam, quia videtu 
+      <lb ed="#C" n="109"/>se obligasse ad id, quod de jure sciebat fieri debere, nec de 
+      <lb ed="#C" n="110"/>buit certiorari, ex quo hoc sciebat, f. deactio empt. &amp; rend. 
+      <lb ed="#C" n="111"/>I. in fi. supra de elect. cum inter universas imetropoles. vel simplex 
+      <lb ed="#C" n="112"/>&amp; idiota. &amp; tunc si fuit ei lecta &amp; explanata regula ant 
+      <lb ed="#C" n="113"/>professionem, vel post, &amp; dixit se observaturum, idem est 
+      <lb ed="#C" n="114"/>in auth. quomodo oportet episcopos. §. igitur ordinandus episco 
+      <lb ed="#C" n="115"/>pus. col. 1. si vero dixit, quod nolebat se obligare ad aicti o 
+      <lb ed="#C" n="116"/>rem vitam ducendam, quam ibi duceretur tempore in 
+      <lb ed="#C" n="117"/>gressus, poterit ad laxiorem religio transire si nil. IIdixit. 
+      <lb ed="#C" n="118"/>potest cogi ad remanendum ibi, &amp; imputet sibi quod nun 
+      <lb ed="#C" n="119"/>plene examinavit. nec enim prodest ei, etiamsi dicat dole¬ 
+      <lb ed="#C" n="120"/>inductum ad hoc. &amp; est ratio, quia melior intell gitur fie 
+      <lb ed="#C" n="121"/>ri conditio sua ad hoc supra de conper conjug dudum &amp; cap 
+      <lb ed="#C" n="122"/>ex parte. &amp; deregul. consulti &amp; quod met. cau, cap. penult 20. qu. 
+      <lb ed="#C" n="123"/>3. consuluit secundum Ray. si vero professionem non fece 
+      <lb ed="#C" n="124"/>rat, dic, ut notat. supra de regul §. ad quid teneatur. ieisicul se¬ 
+      <lb ed="#C" n="125"/>&amp; tenetur ad professionem. * Quid si maritus recepit ordi¬1 
+      <lb ed="#C" n="126"/>nem sacrum vivente uxo. sua, vel hoc sciente, &amp; non con 
+      <lb ed="#C" n="127"/>tradicente, nunquid ei paretur praejudicium? Ad eviden 
+      <lb ed="#C" n="128"/>tiam solutionis quaestionis istius scire debes, quod quod 
+      <lb ed="#C" n="129"/>hoc, occidentalis &amp; orientalis eccles. in quibusdam con 
+      <lb ed="#C" n="130"/>veniunt, &amp; in quibusdam differunt. primo in hoc conve 
+      <lb ed="#C" n="131"/>niunt, quod tam clerici istius, quam illius eccles in mino 
+      <lb ed="#C" n="132"/>ribus ordinibus contrahere possunt, 32 distinct siquis eorun 
+      <lb ed="#C" n="133"/>lectores, placuit. Item in secundo conveniunt, quia nec hi 
+      <lb ed="#C" n="134"/>nec illi in facr. constituti matrimonium contrahere pos 
+      <lb ed="#C" n="135"/>sunt, ut dicit constitutio synodi in orientali etiam eccle¬ 
+      <lb ed="#C" n="136"/>sia celebrare. 32. distinct. siquis eorum. 31. distinct. Nicena 84 
+      <lb ed="#C" n="137"/>distinct. cum in praeterito. Differunt autem in aliis duobus 
+      <lb ed="#C" n="138"/>primum est, quia in orientali ecclesia promoventur cleri 
+      <lb ed="#C" n="139"/>ci, etiamsi non promittant continentiam 31. distinctio quo 
+      <lb ed="#C" n="140"/>niam. secus in occidentalibus quinunquam promoven 
+      <lb ed="#C" n="141"/>tur ad sacros ordines, nisi promissa continentia tacite ve 
+      <lb ed="#C" n="142"/>expresse. 28. distin. nullum. 31. distin. ante triennium supr. de cle 
+      <lb ed="#C" n="143"/>conjug. cum olim. &amp; supra de aeta. &amp; qual. a multis Secundun 
+      <lb ed="#C" n="144"/>est, quod orientales licite promoti ad sacros ordines pos 
+      <lb ed="#C" n="145"/>sunt uti matrimonio jam contracto. 31. distin. Nicena. quoc 
+      <lb ed="#C" n="146"/>non possunt occidentales supr. de cle conjug. c. 12. &amp; 3. &amp; alii 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="147"/>ADDITIONES. 
+      <lb ed="#C" n="148"/>qq Voti est de jure naturali, sive divino.J Addegl. &amp; Doct. in cap 
+    </p>
+    <p>
+      <lb ed="#C" n="149"/>ruffus qui cle vel vo. &amp; per S. Tho. 2. 2 q. 85 ari7 
+      <lb ed="#C" n="150"/>r In omni voto dispensare.] Adde gl inc sicut de exces praelgl 
+    </p>
+    <p>
+      <lb ed="#C" n="151"/>in cap. quod translationem. de offi. leggl in c. proposuit de cun 
+      <lb ed="#C" n="152"/>ces. praebend glo. in c. ex mulcta. de voto. Spec.iit. de ossic leg. in §. nun 
+      <lb ed="#C" n="153"/>ostendendum -->
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0523.xml-->
+      <pb ed="#C" n="506"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>cap superius alleg. Igitur si conjugatus occidentalis feceri 
+      <lb ed="#C" n="2"/>se ordinari uxore invita, vel ignorante, nullum uxori si 
+      <lb ed="#C" n="3"/>praejudicium, imo vir exactus potest reddere debitum 
+      <lb ed="#C" n="4"/>quamvis non debitum exigere. ut 38. distin. diaconi. 27. qua 
+      <lb ed="#C" n="5"/>2. multorum. Quod si ea volente, vel sciente, nec per se, ve 
+      <lb ed="#C" n="6"/>per alium cum posset hoc prohibente, ordinatus fuerit, f 
+      <lb ed="#C" n="7"/>uxori duplex praejudicium. unum, quia oportebit eam d 
+      <lb ed="#C" n="8"/>caetero eo vivente continere: aliud, quia etiam mortuo v 
+      <lb ed="#C" n="9"/>ro non poterit cum alio contrahere, &amp; si contraxerit, si 
+      <lb ed="#C" n="10"/>cundum quosdam, matrimonium nullum erit, quasiii 
+      <lb ed="#C" n="11"/>persona viri videatur votum solennizasse. argument. 30.1 
+      <lb ed="#C" n="12"/>4. cap.1. &amp; ultim. &amp; §. si. infra de co. spiritua. Martinus, Ber. 8 
+      <lb ed="#C" n="13"/>alii dicunt, quod non potest contrahere voto simplici in 
+      <lb ed="#C" n="14"/>pediente, &amp; si contraxerit, non valet vi constitutionis ec 
+      <lb ed="#C" n="15"/>dirimente. &amp; inter hos Rayn. 28. dist. quia sunt culpae. &amp; duol 
+      <lb ed="#C" n="16"/>cap. sequ. 32. dist. seriatim ad hoc. 54. distin. si servus sciente. Se¬ 
+      <lb ed="#C" n="17"/>nunquid cogitur intrare religio. Ray dicit, quod non, ni 
+      <lb ed="#C" n="18"/>sit uxor in episcopum promovendi. supra de conver. conju 
+      <lb ed="#C" n="19"/>conjugatus. sane tu tamen dic, ut notat. supra de conper. conj¬ 
+      <lb ed="#C" n="20"/>§. si. versicul. sed nunquid sufficit unum ex conjugib. &amp; sequent 
+      <lb ed="#C" n="21"/>Si vero orientalis clericus sciente uxore sua, sefecerit o 
+      <lb ed="#C" n="22"/>dinari, quamvis Hug. dixerit, quod nullum paratur ei pr 
+      <lb ed="#C" n="23"/>judicium, etiam si non contraxerit, tu tamen dic cum lo¬ 
+      <lb ed="#C" n="24"/>Laud. &amp; Rayn. quod duplex paratur. unum est, quia ips 
+      <lb ed="#C" n="25"/>vivente tempore suae vitae eidem non commiscebitur. 2 
+      <lb ed="#C" n="26"/>dist. quoniam. aliud est, quod ipso mortuo non contrahe 
+      <lb ed="#C" n="27"/>ut ibidem. cum tamen alias nec ad tempus ea invita posse 
+      <lb ed="#C" n="28"/>orare, Apostolo prohibente. 34. q. 4. Apostolus: &amp; patet in hi 
+      <lb ed="#C" n="29"/>quae not. infra de spon. sub rubrica, de matr. §. quis sit effectus ve 
+      <lb ed="#C" n="30"/>sed nunquid peccant conjuges. &amp; sequ. &amp; hoc intelligas, quand 
+      <lb ed="#C" n="31"/>matrimonio consummato promovetur ad sacros ord 
+      <lb ed="#C" n="32"/>nes conjugatus. Quid ergo si ante carnis copulam prome¬ 
+      <lb ed="#C" n="33"/>veatur. dic ut plene no. sup. de conper conjugat. §. fin. versic. se 
+      <lb ed="#C" n="34"/>quid si maritus, &amp; sec 
+    </p>
+            <p xml:id="nbht7y-d1e1255-d1e2231">
+               <lb ed="#C" n="35"/>In quo casu, &amp; a quo crux debeat praedicari. Ex 
+      <lb ed="#C" n="36"/>quidem contra Saracenos &amp; haeret 
+      <lb ed="#C" n="37"/>cos praedicari potest, &amp; debet. ut patet mfra cod. quod sup¬ 
+      <lb ed="#C" n="38"/>his. &amp; cap. sequ. &amp;c fin. &amp; infra de haere. excommunicamus. Se¬ 
+      <lb ed="#C" n="39"/>nunquid contra schismaticos, &amp; inobedientes, &amp; rebelle 
+      <lb ed="#C" n="40"/>praedicari potest? Hoc non est expressum in jure, &amp; ide 
+      <lb ed="#C" n="41"/>vidi in Alemania aliquos super hoc dubitare, asserentes 
+      <lb ed="#C" n="42"/>quod contra Christianos non videbatur aequum &amp; hon 
+      <lb ed="#C" n="43"/>stum, quod crux assumeretur: maxime, quia non inven 
+      <lb ed="#C" n="44"/>tur injure expressum. arg pro ipsis supra detransl. episc. vt 
+      <lb ed="#C" n="45"/>electi tmter corporalia §. sed denique 2qu 5. consuluisti. sup. ne sed 
+      <lb ed="#C" n="46"/>vacan. illa. sed certe non semper debet requiri jus expre 
+      <lb ed="#C" n="47"/>sum: quia plura sunt negocia quam vocabula. ff. de praesci 
+      <lb ed="#C" n="48"/>ver. l. 4. ideo jure deficiente, est de similibus ad similia pr¬ 
+      <lb ed="#C" n="49"/>cedendum. ff. de legat. non possunt. supra de rescrip. inter caeter. 
+      <lb ed="#C" n="50"/>&amp; naturalibus utendum est rationibus. nam &amp; I. &amp; rati¬ 
+      <lb ed="#C" n="51"/>commendat. distinct. 1. consuetudo. &amp; quod naturalis ratic 
+      <lb ed="#C" n="52"/>caet. Institut. de jure nat. §. quod vero naturalis ratio. dicas ergo 
+      <lb ed="#C" n="53"/>quod si cruxtransmarina, quae pro acquisitione seu recu 
+      <lb ed="#C" n="54"/>peratione terrae sanctae tantummodo praedicatur videtu 
+      <lb ed="#C" n="55"/>merito praedicanda: multo fortius pro unitate ecclesi¬ 
+      <lb ed="#C" n="56"/>conservanda praedicanda est cruxcontra schismaticos ci 
+      <lb ed="#C" n="57"/>marina argument. 24. qu.i.loquitur, &amp;c. sequ. &amp; caschism. 
+      <lb ed="#C" n="58"/>16. quaestio. sin. sicut domini vestimentum. nec enim filiu 
+      <lb ed="#C" n="59"/>Dei in mundum venit. nec crucem subiit, ut acquirere 
+      <lb ed="#C" n="60"/>terram, sed ut captivos redimeret, &amp; peccatores ad poen 
+      <lb ed="#C" n="61"/>tentiam revocaret: nec aridam imo catholicam ecciesian 
+      <lb ed="#C" n="62"/>desponsavit. Cum ergo majus periculum immineat i 
+      <lb ed="#C" n="63"/>hac ultima, quam in prima, quia praeciosior est anim¬ 
+      <lb ed="#C" n="64"/>quam res. C. de sacrosanct. eccles. sancimus, id est magis suby 
+      <lb ed="#C" n="65"/>niendum est. 61. dist. quiescamus. Si vero offensionem pe¬ 
+      <lb ed="#C" n="66"/>sonarum consideremus, nemo dubitat, quin magis delir 
+      <lb ed="#C" n="67"/>quant inobedientes Christiani atque schismatici, qui a¬ 
+      <lb ed="#C" n="68"/>fidem semel susceptam praecise cogendi sunt, quam Sar¬ 
+      <lb ed="#C" n="69"/>ceni, qui nec ipsam inviti suscipere compelluntur. 23. qu 
+      <lb ed="#C" n="70"/>ad fidem. 45. dist. de Iudaeis. nemo enim manum mittens ad¬ 
+      <lb ed="#C" n="71"/>ratrum, &amp; respiciens retro aptus est regno Dei. infra eoc 
+      <lb ed="#C" n="72"/>magnae. &amp; minus malum est, viam Domini non agnoscere 
+      <lb ed="#C" n="73"/>quam post agnitam retroire. inf de aposta quidam. in sin. Item 
+      <lb ed="#C" n="74"/>f ex quo quis excommunicatus per annum stetitf 
+      inte<lb ed="#C" n="75" break="no"/>grum, Perri claves contemnens. non est sine suspicion 
+      <lb ed="#C" n="76"/>naerelis, ut r20. inf. de haer §. qualiter deprehendatur. ver. sin aui 
+      <lb ed="#C" n="77"/>sola. &amp;seg. quid ergo, si per 1o. nam inter praesentes prae 
+      <lb ed="#C" n="78"/>scriptio eE completa, &amp; si pro una persona hoc statuitur 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0523.xml-->
+      <cb ed="#C" n="b"/>
+               <lb ed="#C" n="79"/>quamvis etiam terra interdicta non est, infr. de haere excon 
+      <lb ed="#C" n="80"/>municamus itaque. §. moveantur, quid de pluribus personi 
+      <lb ed="#C" n="81"/>contumacibus &amp; excommunicatis, &amp; ubi nedum unu 
+      <lb ed="#C" n="82"/>locus, nedum una dioec. sed tota una provincia hoc defen 
+      <lb ed="#C" n="83"/>dens, est supposita ecclesiastico interdicto. nam in tal 
+      <lb ed="#C" n="84"/>statu haereses nutriuntur, unde &amp; dicit C. quod nullum es 
+      <lb ed="#C" n="85"/>schisma, quin sibi aliquam haeresim confingat. 2443. inte 
+      <lb ed="#C" n="86"/>schisma. ideoque haeretici &amp; schismatici qualiter sunt evi 
+      <lb ed="#C" n="87"/>tandi. ea quic.clericum. &amp;c. seq. ad idem. 7. qu.I. denique 1.a.i. si qui 
+      <lb ed="#C" n="88"/>inquit. 14. q. 35..inde Hiero. Quis jam dubitabit hoc esse scele 
+      <lb ed="#C" n="89"/>ratius commissum, quod est gravius vindicatum. 24. qu. 
+      <lb ed="#C" n="90"/>non afferamus. &amp; si pro simplici contumacia hoc accider¬ 
+      <lb ed="#C" n="91"/>potest, ut inf. de poenis. c. si. quid de detrahentibus potestat 
+      <lb ed="#C" n="92"/>Romanae eccl. &amp; ponentios in coelum, nam qui Romana 
+      <lb ed="#C" n="93"/>ecclesiae detrahit, &amp;c. quod dic ut non sup. de elect. § quis elig 
+      <lb ed="#C" n="94"/>sub §. item sciendum. versi. de contemptu clavium. quid plura,s 
+      <lb ed="#C" n="95"/>quis rationabiliter, &amp; subtiliter, ac naturaliter considera 
+      <lb ed="#C" n="96"/>re voluerit, licet crux transmarina in oculis simpliciun 
+      <lb ed="#C" n="97"/>videatur favorabilior, hoc tamen justior &amp; rationabilio 
+      <lb ed="#C" n="98"/>apparebi 
+    </p>
+            <p xml:id="nbht7y-d1e1255-d1e2377">
+               <lb ed="#C" n="99"/>CUjus autem authoritate hoc fieri possit, planum est 
+      <lb ed="#C" n="100"/>quod authoritate hoc fieri possit illius, qui supreman 
+      <lb ed="#C" n="101"/>manum habet in ecclesia. 9. q. 3. per mundum &amp; ad quemd 
+      <lb ed="#C" n="102"/>fidei periculo, &amp; super majoribus causis recurrendum ess 
+      <lb ed="#C" n="103"/>ut not. sup. de offic. leg §. quid pertinet. ver. illud quidem notano 
+      <lb ed="#C" n="104"/>&amp; sequentib. &amp; qui est generalis vicarius Crucifixi. suprad 
+      <lb ed="#C" n="105"/>transl. episcopi. 1. 23. &amp; 4. Sed nunquid authoritate alteriu 
+      <lb ed="#C" n="106"/>inferioris? Non videtur quia de mandato ejus talia fier 
+      <lb ed="#C" n="107"/>jubentur. inf. de haer. excommunicamus. §. si vero dominus ten 
+      <lb ed="#C" n="108"/>poralis. sed licet ibi dicat, quod hoc significandum sit sum 
+      <lb ed="#C" n="109"/>mo Pontifici, non tamen aliis prohibetur, quin hoc facer 
+      <lb ed="#C" n="110"/>possint, &amp; episcopi&amp; superiores possum, de haeresi judica 
+      <lb ed="#C" n="111"/>re, &amp; condemnare. inf. de haer ab abolendam Item ad praedicar 
+      <lb ed="#C" n="112"/>dum admittitur missus a superiore &amp; qui curam habet.v 
+      <lb ed="#C" n="113"/>no. inf. de haer §. fi.ver. item ad praedicandum. Item talibus cor 
+      <lb ed="#C" n="114"/>ceditur idem privil. quod accedentibus in terrae Sanct 
+      <lb ed="#C" n="115"/>subsidium est concessum. inf. de haer. excommunicamus. §. c. 
+      <lb ed="#C" n="116"/>tholici. &amp; secundum Aug. tales impii sunt atque sacrilegi 
+      <lb ed="#C" n="117"/>hi vero, qui eos impugnant a locis suis amovendo, vel eo 
+      <lb ed="#C" n="118"/>damnificando, pecunias auferendo diligentissimi recte 
+      <lb ed="#C" n="119"/>res &amp; pii consultores intelliguntur. 23. quaestio. 5. si vos contr 
+      <lb ed="#C" n="120"/>eccl. Christ. &amp;c. sequen. &amp; secundum quod Dominus dicit ij 
+      <lb ed="#C" n="121"/>Deutero. tales necandi sunt, &amp; civitates igni cremanda 
+      <lb ed="#C" n="122"/>ita quod sine habitaculo sint in aeternum. 23. qus si audieri 
+      <lb ed="#C" n="123"/>adidem ea. qu. 8. leg. &amp; c. occidit Phinces. Puto? quod episco¬2 
+      <lb ed="#C" n="124"/>pus non potest dare authoritatem praedicandi crucem. pr 
+      <lb ed="#C" n="125"/>mo, quia nec remissionem potest facere tantam, quantan 
+      <lb ed="#C" n="126"/>requirit crux. ut patet inf. eod. ca.si. &amp; de poen, cum ex eo. §. 4 
+      <lb ed="#C" n="127"/>hoc. quia per indiscretas. Item quia ad solum Papam per 
+      <lb ed="#C" n="128"/>tinet de fide respondere, &amp; periculis ipsius taliter occum 
+      <lb ed="#C" n="129"/>re. 24. quae. 1 quod etiamsi dubitatum sit. C. de sum. tri.I.si. tertic 
+      <lb ed="#C" n="130"/>quia ad ipsum pertinet votum crucis, ut no. sup. eo. §. qua 
+      <lb ed="#C" n="131"/>citer, &amp; cujus authoritate. vers. quamvis autem instructus. Si ta 
+      <lb ed="#C" n="132"/>mem episcopus habeat jurisdi. temporalem in aliquos, ex qui 
+      <lb ed="#C" n="133"/>steterunt excommunicati aliquo competenti tempore, pi 
+      <lb ed="#C" n="134"/>ta quod tum quia est episcopus &amp; vicarius Christiz. qu. 
+      <lb ed="#C" n="135"/>mulierem. tum quia dominus temporalis ipsos tanquam in 
+      <lb ed="#C" n="136"/>fideles, &amp; res ipsorum, salvo eo, quod nullus occidatur, ne 
+      <lb ed="#C" n="137"/>mutiletur, quod semper excipere debet, exponere potes 
+      <lb ed="#C" n="138"/>hoc, si prosequatur injuriam ecc. suae, vel reip. secus dicer 
+      <lb ed="#C" n="139"/>si ulcisci intenderet injuriam personalem, super quo vid 
+      <lb ed="#C" n="140"/>quod non sup. de sen. &amp; rejudic. sub rub de sententia §. quis debe 
+      <lb ed="#C" n="141"/>sententiam. versi. item ratione rei. &amp; sequ. quamvis &amp; curialiu 
+      <lb ed="#C" n="142"/>&amp; tutius faceret, si ad summum Pontificem recursum hi¬ 
+      <lb ed="#C" n="143"/>beret. argum. C. de pig. I3. &amp; in his quae no. sup. de treu. &amp; pac! 
+      <lb ed="#C" n="144"/>quid sit justum bellum. versicul, quid ergo de comitibus, &amp; se. Se¬ 
+      <lb ed="#C" n="145"/>&amp; tales sine crucis signaculo authoritate eccles. vel prin 
+      <lb ed="#C" n="146"/>cipis impugnari possunt causa justitiae, obedientiae, &amp; fide 
+    <!--</p>
+    <p>
+      <lb ed="#C" n="147"/>ADDITIO 
+      <lb ed="#C" n="148"/>f Excommunicatus per annum.] Addec. rursus &amp; cap. quicum 
+    </p>
+    <p>
+      <lb ed="#C" n="149"/>que. 6. 9. 3. Inno. inc. cum bonae. de aeta. &amp; qual. Ant. de But. in cas 
+      <lb ed="#C" n="150"/>I. de iud. &amp; in talis debet percipere fructus beneficii, vdie pe 
+      <lb ed="#C" n="151"/>Bald. inc. I in 3. col. de Iudic. idem Bal. inc. veritatis. de deio &amp; con 
+      <lb ed="#C" n="152"/>tum. in 3. co--> 
+      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0524.xml-->
+      <pb ed="#C" n="507"/>
+               <cb ed="#C" n="a"/>
+               <lb ed="#C" n="1"/>defendendae, non cupiditatis vel propriae ultionis sic in 
+      <lb ed="#C" n="2"/>tellige 23. q. 1quid culpatur. &amp; q. 2.c.. &amp; 2q. 3. sex differentiae.( 
+      <lb ed="#C" n="3"/>qui. s. cum homo ab homine. &amp; c se &amp; sic etiam possunt intellig 
+      <lb ed="#C" n="4"/>jura inducta supra eod. ver. sed nunquid authoritate alte¬ 
+      <lb ed="#C" n="5"/>rius. Quid si tales convertantur, nunquid post conversio 
+      <lb ed="#C" n="6"/>nem tenentur eis satisfacere hi, qui damna dederunt? Di 
+      <lb ed="#C" n="7"/>cas quod non, imo est imputandum duriciei, &amp; culpae 
+      <lb ed="#C" n="8"/>psorum iafra de homici postulasti f. de reg jur. quod quisque e: 
+      <lb ed="#C" n="9"/>culpa sua damnum patitur, nec propter hoc alii juste egi 
+      <lb ed="#C" n="10"/>runt, puniri debent. Cde adulte. Gracchus. quia nec peccave 
+      <lb ed="#C" n="11"/>runt. 23. 44.qui pecrat. potest tamen quis gratis si voluerit 
+      <lb ed="#C" n="12"/>misereri, inf. de haertti. vergentis, in i
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>
