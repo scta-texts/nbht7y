@@ -1,922 +1,920 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Prooemium</title>
-            <author ref="#Hostiensis">Hostiensis</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Prooemium</title>
-               <date when="2024-05-04">May 04, 2024</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2024-05-04" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#C" n="1"/>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prooemium</title>
+        <author ref="#Hostiensis">Hostiensis</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Prooemium</title>
+          <date when="2024-05-04">May 04, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cod-YUYUii">Cologne 1612</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-05-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="1"/>
+        <cb ed="#C" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="nbht7y-d1e20"><!-- nbht7y-prooemium -->
+        <head xml:id="nbht7y-d1e20-Hd1e101">Prooemium</head>
+        <p xml:id="nbht7y-d1e20-d1e103">
+          <pb ed="#C" n="1"/>
+          <cb ed="#C" n="a"/>
+          <lb ed="#C" n="1"/>SVMMA HOSTIENSIS, 
+          <lb ed="#C" n="2"/>I. V. D. CELEBERRIMI, 
+          <lb ed="#C" n="3"/>Super Titulis Decretalium. F. Martini Abbatis 
+          <lb ed="#C" n="4"/>Adnotamentis locupletata. 
+          <lb ed="#C" n="5"/>PROOEMIVM 
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e121">
+          <!--Henricus_a_Segusio_cardinalis_Hostiensis-0018.xml-->
+          <cb ed="#C" n="b"/>
+          <lb ed="#C" n="6"/>SVMMARIA. 
+          <lb ed="#C" n="7"/>1 Senectus semper est reverend. 
+          <lb ed="#C" n="8"/>2 Studiosus de singulis dubitare debet 
+          <lb ed="#C" n="9"/>3 Reprehensio temeraria fit decem modis 
+          <lb ed="#C" n="10"/>4 Juri scripto potius est a dhaerendum, quam consuetudin 
+          <lb ed="#C" n="11"/>5 Liber iste unde habuerit originen 
+          <lb ed="#C" n="12"/>6 Leges tres fuere ante legem Mosaicam 
+          <lb ed="#C" n="13"/>7 Phoroneus Rex primo legem institui 
+          <lb ed="#C" n="14"/>8 Jesu nato advenit tempus gratia 
+          <lb ed="#C" n="15"/>D. Hominum genera dicuntur esse 
+          du<lb ed="#C" n="16" break="no"/>I0 Scientiarum genera dicuntur esse duo 
+          <lb ed="#C" n="17"/>11 Tempore gratiae tres leges processerunt. 
+          <lb ed="#C" n="18"/>12 hmperator per omnia vult sequi sacras regula 
+          <lb ed="#C" n="19"/>13 Papa an sit major Imperatore 
+          <lb ed="#C" n="20"/>14 Decretalis quid sit 
+          <lb ed="#C" n="21"/>15 Decretum quid 
+          si<lb ed="#C" n="22" break="no"/>16 Constitutio quid 
+          si<lb ed="#C" n="23" break="no"/>17 Pragnatica sanctio quid 
+          si<lb ed="#C" n="24" break="no"/>18 Scientia civilis an sit scientia, vel ars. 
+          <lb ed="#C" n="25"/>19 Homines propter quinque fines, dicuntur legere 
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e171">
+          <lb ed="#C" n="26"/>LPHA, &amp; OMEGA, unum in 
+          <lb ed="#C" n="27"/>essentia, &amp; trinum in personis, a qui 
+          <lb ed="#C" n="28"/>omnes Legislationes pendere 
+          juben<lb ed="#C" n="29" break="no"/>tur, in primis invocans eundem a e 
+          <lb ed="#C" n="30"/>oro, ut adsit mihi principium, medii 
+          <lb ed="#C" n="31"/>&amp; terminus a libro Authenticorum 
+          <lb ed="#C" n="32"/>doctus, ut in authent. de privile. dotis. h. 
+          <lb ed="#C" n="33"/>re. mul. non praestan. in princ, col 8. Fiat ergo eidem decens 
+          prin<lb ed="#C" n="34" break="no"/>cipium operis, atque amabile: sic enim bene, &amp; recte un 
+          <lb ed="#C" n="35"/>versa gerentur, ut in authent. quomodo opor.epi. respon.i. infi 
+          <lb ed="#C" n="36"/>col. 1. Placeat etiam ei quod incipio, quia opus semper de 
+          <lb ed="#C" n="37"/>bet placere Deo, ut in auth. ut judices sine quoquo suffr. coll 
+          <lb ed="#C" n="38"/>ad hoc. 23.dist. in nomine Domini. C. de offi. praese. prae. Afri. in no 
+          <lb ed="#C" n="39"/>mine Domini. infra de testi. in nomine Domini. C. de vete, jure eni 
+          <lb ed="#C" n="40"/>l..&amp; de epis. &amp; cle. I. Deo nobis, in authen. de arin. in princ. colla.d 
+          <lb ed="#C" n="41"/>Erit ergo principium meum, ex quo ipsum invoco, qui 
+          <lb ed="#C" n="42"/>ut ait Psal. Prope est Dominus omnibus invocantibus ei 
+          <lb ed="#C" n="43"/>in veritate. Ex quo etiam principium est, finis erit, qui 
+          <lb ed="#C" n="44"/>qui ponit initium, supplere debet usque in finem. de con  
+          <lb ed="#C" n="45"/>dist.i.nemo ecclesin in auth. de monachis. §. 3. coll. 1. &amp; quod 
+          <lb ed="#C" n="46"/>Deo incoeptum est, imperfectum non relinquitur, C. 
+          de<lb ed="#C" n="47" break="no"/>men. Justi, cod in princ. quia nihil videtur esse actum, cum a 
+          <lb ed="#C" n="48"/>liquid superest ad agendum, C. de his qui ut indi.l.cum Sill. 
+          <lb ed="#C" n="49"/>nianum. insin. Ideo successor non debet aliquod opus inc 
+          <lb ed="#C" n="50"/>pere, nisi primo expleto, quod a praedecessore coeptum fui 
+          <lb ed="#C" n="51"/>C. de ope, pub. I fi. &amp; ff de ope, pub. I si. infr. de rescrip. literis. &amp; Do 
+          <lb ed="#C" n="52"/>minus opus imperfectum non novit. infra de bap. majores 
+          <lb ed="#C" n="53"/>sed a lhuc. De ipsius igitur omnipotentia confisus, qui re 
+          <lb ed="#C" n="54"/>penitus desperatas, &amp; impossibiles donare potest, C. de ve 
+          <lb ed="#C" n="55"/>jur. enu. l. 1.in fin. 1. col. &amp; qui omnium scientiarum est 
+          ca<lb ed="#C" n="56" break="no"/>put &amp; author, 37. dist. §. hinc etiam filius, qui etiam omnium 
+          <lb ed="#C" n="57"/>gratiarum est mirabilis elargitor. 16 4. . revertimini. de 
+          sci<lb ed="#C" n="58" break="no"/>entiae meae modulo non praesumens, ad ejusdem, atque 
+          Ma<lb ed="#C" n="59" break="no"/>tris sanctissimae, advocatae nostrae, nec non Sanctorum 
+          <lb ed="#C" n="60"/>suorum omnium, ad honorem, laudem, &amp; utilitatem 
+          Scho<lb ed="#C" n="61" break="no"/>larium, diversa scripta appetentium, &amp; maxime 
+          studen<lb ed="#C" n="62" break="no"/>tium, praesens opus aggredior: in quo renovando, &amp; 
+          pro<lb ed="#C" n="63" break="no"/>sequendo diversorum Doctorum summas, flores glossa 
+          <lb ed="#C" n="64"/>rum quaestiones, &amp; distinctiones utiles, opiniones 
+          majo<lb ed="#C" n="65" break="no"/>rum difficiles, &amp; quid verius videatur apposui, summatir 
+          <lb ed="#C" n="66"/>tangendo omnia super singulis titulis, ut melius 
+          memo<cb ed="#C" n="c"/><lb ed="#C" n="67" break="no"/>riae commendentur. sic Inst. de don. §. in summa. &amp; ff. de den. I.i 
+          <lb ed="#C" n="68"/>Qui ergo diversa scripta utilia in unum volumen, quo ac 
+          <lb ed="#C" n="69"/>utrumque jus, fideliter redacta habere desiderat, ad 
+          scri<lb ed="#C" n="70" break="no"/>bendam hanc Summam accedat intrepidus &amp; securus 
+          <lb ed="#C" n="71"/>quam ego post studium utriusque Juris diutinum, &amp; 
+          lon<lb ed="#C" n="72" break="no"/>gum exercitium, adjutorio Dei in omnibus praecedente 
+          <lb ed="#C" n="73"/>suffultus composui, super operis imperfectione, quod 
+          in<lb ed="#C" n="74" break="no"/>quantum humanum est, nec aliter dici potest, cum in 
+          re<lb ed="#C" n="75" break="no"/>bus humanis nihil perfectum sit, ut C. de ve jur. enu. l. 2. §. sed 
+          <lb ed="#C" n="76"/>quia divinae, a benignitate sociali veniam postulans, nam &amp; 
+          <lb ed="#C" n="77"/>recte dictum est a praedecessoribus nostris, &amp; ante omne 
+          <lb ed="#C" n="78"/>a Juliano sapientiss. quod nullum jus ab initio sufficier 
+          <lb ed="#C" n="79"/>emanavit in Rempub. Romanorum, sed ad naturae veri 
+          <lb ed="#C" n="80"/>tatem, &amp; ejus machinationes multa egent correctione, i 
+          <lb ed="#C" n="81"/>authentic. quibus modis natura. effic. leg. 1. respon. colla. 6. 8 
+          <lb ed="#C" n="82"/>ideo juxta revocationem compilationis, multa diligen 
+          <lb ed="#C" n="83"/>Lector in inferioribus inveniet renovata. Nec obstat quod 
+          <lb ed="#C" n="84"/>dicit lex, sc. quod minime mutanda sunt, quae longam 
+          ha<lb ed="#C" n="85" break="no"/>buerunt interpretationem, ff de legi. &amp; se. con. minime quia 
+          <lb ed="#C" n="86"/>illud intelligendum est de his, quae sic statuta sunt, quod in 
+          <lb ed="#C" n="87"/>perpetuum debeant observari. ff. de leg. si de interpretatio 
+          <lb ed="#C" n="88"/>ne. vel non sunt mutanda, nisi ex causa, infra de consue. cum 
+          <lb ed="#C" n="89"/>consuetudinis, quia salva honorificentia majorum nostro 
+          <lb ed="#C" n="90"/>rum, ipsorum dicta corrigere possumus, si contra veritat. 
+          <lb ed="#C" n="91"/>senserint, 9. dist. neque quorumlibet, &amp; idem a successori 
+          <lb ed="#C" n="92"/>bus expectamus, quia quod quisque juris in alterum 
+          sta<lb ed="#C" n="93" break="no"/>tuerit, &amp;c. sed hoc non est temere praesumendum, ut no 
+          <lb ed="#C" n="94"/>infra eo. ver. studiosus. &amp; seqqu. Egosvero per dictum meum 
+          ne<lb ed="#C" n="95" break="no"/>mini legem impono, nec opiniones aliorum renuo, vel 
+          <lb ed="#C" n="96"/>abscondo, imo ipsas diligenter recito, &amp; in lucem 
+          produ<lb ed="#C" n="97" break="no"/>co. Tu ergo perlectis, &amp; intellectis juribus &amp; rationibus, 
+          <lb ed="#C" n="98"/>quibus unaquaeque fulcitur opinio, amplectere quam ma 
+          <lb ed="#C" n="99"/>iueris, &amp; elige cui dicas, Tu mihi sola places. Minorum 
+          <lb ed="#C" n="100"/>tamen imploro veniam, &amp; non intelligentium, si aliqua 
+          <lb ed="#C" n="101"/>subtilia &amp; profunda apponam: quia licet dicatur, quod 
+          <lb ed="#C" n="102"/>qui ea docet, quae ab auditorib. non valent intelligi, non ac 
+          <lb ed="#C" n="103"/>eorum utilitatem, sed ad sui ostentationem hoc facit, &amp; 
+          <lb ed="#C" n="104"/>vitium animi est, indignis secreta vulgare, 43. dis. § sin. cum 
+          <lb ed="#C" n="105"/>tamen lex communis esse debeat, 4. dist. erit autem grat 
+          <lb ed="#C" n="106"/>minorum exponam multa; &amp; ipsos via simplici ducam 
+          <lb ed="#C" n="107"/>ne cadant in desperantiam. Inst. de justit &amp; jar. § 2. &amp; de leg 
+          <lb ed="#C" n="108"/>§. sed ne inprimis, &amp; sic dabo eis lac in potum, non escam, 
+          <lb ed="#C" n="109"/>infra de poenit. &amp; remis Deus qui §. Apostolis. gratia mediorum 
+          <lb ed="#C" n="110"/>dicam similia, inducendo &amp; solvendo contraria, notandum 
+          <lb ed="#C" n="111"/>quotidiana &amp; practicatiora: quia in ipsis magis studendi 
+          <lb ed="#C" n="112"/>est, ff. de libe. leg. legavi. Majoribus etiam, loco aquarum 
+          sa<lb ed="#C" n="113" break="no"/>lientium, tradam profunditates materiarum, &amp; 
+          diversita<lb ed="#C" n="114" break="no"/>tes memoriae commendandas, &amp; inquantum possibile mihi 
+          <lb ed="#C" n="115"/>erit, &amp; Deus dederit, sic omnia prosequar, ne quicquam 
+          <!--</p>
+            <p>
+            <lb ed="#C" n="116"/>ADDITIONES 
+            <lb ed="#C" n="117"/>Hostiens. prius composuit Summam, deinde Lecturam, u 
+            <lb ed="#C" n="118"/>ipse dicit in prooemi. Lecturae, &amp; eum sequituribi Ioan. And. 8 
+            <lb ed="#C" n="119"/>Card. Zaba. &amp; per Ioan. de Imol. in repe c. fin. in 29. col. de pra 
+            <lb ed="#C" n="120"/>scrip 
+            <lb ed="#C" n="121"/>Hostiens. in favendo Episcopis habuit malam scientiam, &amp; 
+            <lb ed="#C" n="122"/>pejorem conscientiam, secundum Bal. consi. 166. incip. Punctu 
+            <lb ed="#C" n="123"/>quaestionis. in 2. vo 
+            <lb ed="#C" n="124"/>Invocans eundem.) Adde tex. inc. in nomine Domini. de testi. 
+            <lb ed="#C" n="125"/>licet. 26. q. 5. &amp; Spec. iii. de instru. edii. in §.--> 
+          <!--Henricus_a_Segusio_cardinalis_Hostiensis-0019.xml-->
+          <pb ed="#C" n="2"/>
+          <cb ed="#C" n="a"/>
+          <lb ed="#C" n="1"/>inveniatur in hoc prato spinosum, C. de vet. jur.enu.l.i. §. 
+          ho<lb ed="#C" n="2" break="no"/>etiam hihilomin. &amp; quamlibet materiam, prout congruun 
+          <lb ed="#C" n="3"/>videbitur, loco suo, &amp; ordine tractabo: hoc enim observi 
+          <lb ed="#C" n="4"/>dum est. in auth. de nup. §. deportatio. collat. 4. Nec dedignie 
+          <lb ed="#C" n="5"/>tur, alicujus veneranda senectus  recipere praesens opus 
+          <lb ed="#C" n="6"/>quis impubes ferula caeditur pro veritate dicenda. ff. des 
+          <lb ed="#C" n="7"/>rons Sylla. l. I. §. inpubes. &amp; ubi publica tractatur utilitas, eti 
+          <lb ed="#C" n="8"/>si minor veritatem investigaverit, nulla majori injuria 
+          ir<lb ed="#C" n="9" break="no"/>rogatur, C. de off. recte prov. i. potioris. saepe enim revelat D. 
+          <lb ed="#C" n="10"/>us minori, quod celatur majori. 95. dist. esto subjectus. 39. dis 
+          <lb ed="#C" n="11"/>nullis. quia non omnes per omnia, sed certi per certa, ve 
+          <lb ed="#C" n="12"/>meliores vel deteriores inveniuntur, ut 38. dist quamris e 
+          <lb ed="#C" n="13"/>rare. &amp; qui subtiliter factum emendat, laudabilior est ec 
+          <lb ed="#C" n="14"/>qui primo invenit. C. devet. jur. enu.l.i. §. omnibus authoribus 
+          <lb ed="#C" n="15"/>dicit etiam Aug. Ego episcopus tot annorum, a colleg 
+          <lb ed="#C" n="16"/>nedum anniculo paratus sumc edoceri, 24. 93. si habes 8 
+          <lb ed="#C" n="17"/>purisperitus cupiditatem discendi solam vivendi ratio 
+          <lb ed="#C" n="18"/>nem existimans, in septuagesimum octavum annum 
+          aeta<lb ed="#C" n="19" break="no"/>tis suae quaerebat, quia etsi alterum pedem in sepulchro 
+          <lb ed="#C" n="20"/>haberet, discere quidem vellet. ff. de fideic. lib apud sul und 
+          <lb ed="#C" n="21"/>versus 
+          <lb ed="#C" n="22"/>
+          <quote xml:id="nbht7y-d1e20-Qd1e428">Si quis forte cupit jurisconsultus haberi 
+            <lb ed="#C" n="23"/>Continuet studium, velit a quocunque doceri 
+            <lb ed="#C" n="24"/>Invigilet, nec vincat eum tortura laboris 
+            <lb ed="#C" n="25"/>Fortior insurgat, cunctisque recentior horis</quote>
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e438">
+          <lb ed="#C" n="26"/>Nam labor improbus omnia vincit, C. de petit. bo. sub. I. 
+          <lb ed="#C" n="27"/>lib 10. infra de purg. can. cum in juventute, §. caeterum de poen. 
+          <lb ed="#C" n="28"/>2 dist. 1. importuna. Studiosus vero debet dubitare de 
+          sin<lb ed="#C" n="29" break="no"/>gulis. hoc vero non est inutile secund. Aristotelem, ergo 
+          ni<lb ed="#C" n="30" break="no"/>hil debet negligere. Requiritur etiam, quod capacem sensum 
+          <lb ed="#C" n="31"/>habeat, ut hoc probatur. mfra de off. primice, cap. uni. ad fin.
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e455">
+          <lb ed="#C" n="32"/>Caveat tamen ne temere reprehendat. fit autem 
+          teme<lb ed="#C" n="33" break="no"/>raria reprehensio multis modis. Temere enim 
+          reprehen<lb ed="#C" n="34" break="no"/>dit, Primo, qui ante judicat quam intelligat. Secundo, qu 
+          <lb ed="#C" n="35"/>ante inculpat, quam iterando lecta perquirat, 3o dist 
+          scien<lb ed="#C" n="36" break="no"/>dum. Tertio, qui quod scriptores, pictores corrupti &amp; 
+          idio<lb ed="#C" n="37" break="no"/>tae corrumpunt scripturas, non considerat: quod tamen eti 
+          <lb ed="#C" n="38"/>in literis Papae, ne verae pro falsis, vel falsae pro veris 
+          recip<lb ed="#C" n="39" break="no"/>antur, diligenter est attendendum, infra de cri fal quam gra 
+          <lb ed="#C" n="40"/>bi. in sin. nam multum diversa sunt, est, &amp; non est, &amp; tamen 
+          <lb ed="#C" n="41"/>una figura de facili omittitur, vel mutatur, ut arg. infr. defi 
+          <lb ed="#C" n="42"/>de instr. ex parte. infra de rescr, causam quae &amp; cap. Significante. E 
+          <lb ed="#C" n="43"/>sequ. ideo dic, quod vitium scriptoris, non est authoris. Qua 
+          <lb ed="#C" n="44"/>to, qui ex invidia aliorum dicta mordendo condemnat, ac 
+          <lb ed="#C" n="45"/>hoc tantum ut detrahat, vel discordiam pariat, quod 
+          prohi<lb ed="#C" n="46" break="no"/>betur. 46. dist. §. 1. &amp; cap. clericus invidens. Quinto, qui dive 
+          <lb ed="#C" n="47"/>sas opiniones subtiliter non denotat, videtur enim plerum 
+          <lb ed="#C" n="48"/>Doctor contraria scribere, &amp; sibiipsi esse contrarius, dum 
+          <lb ed="#C" n="49"/>diversa dicta recitat, &amp; ideo doctorum dicta, &amp; nomina sun 
+          <lb ed="#C" n="50"/>scienda, &amp; subtiliter discernenda ad hoc, infra de off. deles 
+          <lb ed="#C" n="51"/>super quaestion. arti. &amp; deferiis, capellanus, &amp; de suno per tua 
+          <lb ed="#C" n="52"/>scribimus enim sicut &amp; legimus aliqua, ne ignoremus, 
+          ali<lb ed="#C" n="53" break="no"/>qua ne negligamus, aliqua ut repudiemus, 37. dist legimus 
+          <lb ed="#C" n="54"/>&amp; cap. seq Sexto, qui mentem dicentis sive scribentis, utri 
+          <lb ed="#C" n="55"/>videlicet de rigore juris, vel debenignitate, &amp; utrum de 
+          ju<lb ed="#C" n="56" break="no"/>re scripto, vel consuetudine, vel secundum stylum curia 
+          <lb ed="#C" n="57"/>loquatur, non ponderat, in quo quidem personas, causa 
+          <lb ed="#C" n="58"/>loca, &amp; tempora, &amp; alias circumstantias considerari 
+          opor<lb ed="#C" n="59" break="no"/>tet, ut infra. de transa.c. si. in fi. &amp; de homic. sicut dignum. 29. dis 
+          <lb ed="#C" n="60"/>cap. 1. &amp; 2ff depae aut facta. Septimo, qui prudentiae suae ir 
+          <lb ed="#C" n="61"/>nititur, ut capitaneam sententiam veritati praeponat, 17 
+          <lb ed="#C" n="62"/>dist relatum est, infr. de const. cap. I. &amp;c. ne innitaris. Octavo, qui 
+          <lb ed="#C" n="63"/>antiquas opiniones per jus novum indistincte condemna 
+          <lb ed="#C" n="64"/>ut patet infra. de consti,. cap fi. Nono, qui superflua intendem 
+          <lb ed="#C" n="65"/>removere, necessaria vel utilia resecat, ut patet in fi. infr. 
+          d<lb ed="#C" n="66" break="no"/>vot. quod super his §. rursus. in fi. &amp; c. seq. respon. I. vers. sic ergo ill 
+          <lb ed="#C" n="67"/>est, sed sic dicebat dominus meus, nequeunt de facili magna 
+          <lb ed="#C" n="68"/>&amp; ardua verba, brevibus expediri. &amp; dum brevis esse 
+          labo<lb ed="#C" n="69" break="no"/>ro, obscurus fio. Decimo, qui potius proprietatem verbo 
+          <lb ed="#C" n="70"/>rum quam mentem &amp; veritatem approbat. infr. de rerb. sij 
+          <lb ed="#C" n="71"/>praeterea, &amp; sequitur in sequ. vers. His decem reprehensionibus 
+          <lb ed="#C" n="72"/>quae temerariae sunt, evitatis, cuilibet diligenter studeni 
+          <lb ed="#C" n="73"/>lurisperito &amp; intelligenti; ac praedicta subtiliter discerni 
+          <lb ed="#C" n="74"/>ti committo, ut imperfectionem operis suppleat, &amp; ipsum 
+          <lb ed="#C" n="75"/>sicut ei videbitur fraterna charitate, de qua no. infr de tem 
+          <lb ed="#C" n="76"/>ord. §. cui sub. §. octava regula. doctorem corrigat, &amp; 
+          emen<lb ed="#C" n="77" break="no"/>det, quod fieri potest &amp; debet, ut nont. supr. eod. vers. qui ergo 
+          <!--Henricus_a_Segusio_cardinalis_Hostiensis-0019.xml-->
+          <cb ed="#C" n="b"/>
+          <lb ed="#C" n="78"/>diversa. nec oblivioni tradat, quia non sermoni res; sed es 
+          <lb ed="#C" n="79"/>rei sermo subjectus, inf. de verb sig. intelligentia. &amp; c. in his, nec 
+          <lb ed="#C" n="80"/>curet, si forte veritas aliquando per verba impropria 
+          ex<lb ed="#C" n="81" break="no"/>ponatur, quia non debet quis in sermonum foliis gloriari 
+          <lb ed="#C" n="82"/>I. quaest.i. Marchion &amp; Basiliaes. 22. qu. 5. humanae aures, &amp; secundum 
+          <lb ed="#C" n="83"/>Augi nihil obest narrandi diversitas, ubi eadem proferum 
+          <lb ed="#C" n="84"/>tur, &amp; sec. Grego. plerunque dum proprietas verborum 
+          at<lb ed="#C" n="85" break="no"/>tenditur, sensus veritatis amittitur. infr. de verb. sign. nihil 
+          obs<lb ed="#C" n="86" break="no"/>tat. &amp; c. praeterea. Consulo etiam. quod quo ad habendam 
+          <lb ed="#C" n="87"/>perfectam scientiam, potius adhaereat juri scripto, quam 
+          <lb ed="#C" n="88"/>curiae Romanae consuetudini, licet ipsam judicando 
+          prae<lb ed="#C" n="89" break="no"/>ferat, infr. de sent. &amp; re jud. im causis. Hoc ideo dico, quia 
+          con<lb ed="#C" n="90" break="no"/>suetudo fragilis est, &amp; incerta, &amp; nunc alba, cras nigra: 
+          fre<lb ed="#C" n="91" break="no"/>quentius variatur, &amp; vide quod not. infr. de offic. delegat. § 
+          <lb ed="#C" n="92"/>quod sit ejus officium. versic. lectio tamen communis est. 
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e594">
+          <lb ed="#C" n="93"/>ET quoniam cujusque rei potissima pars est principium 
+          <lb ed="#C" n="94"/>Hac orig. jur. l.I. &amp; ideo discutiamus, unde habuit 
+          ori<lb ed="#C" n="95" break="no"/>ginem liber iste, Qui composuit hunc librum, Qu 
+          <lb ed="#C" n="96"/>nomine nuncupetur, Quae sit ejus materia, Quae utilitas, 
+          <lb ed="#C" n="97"/>Quae intentio authoris, Quis modus agendi, Cui parti 
+          <lb ed="#C" n="98"/>Philosophiae supponatur, Quis finis 
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e610">
+          <lb ed="#C" n="99"/>Vnde habuit originem: liber iste 
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e615">
+          <lb ed="#C" n="100"/>Hoc ideo videndum est; ut fundamento invento &amp; prae 
+          <lb ed="#C" n="101"/>cognito, superaedificare possimus, quia ubi 
+          fundamen<lb ed="#C" n="102" break="no"/>tum non est d, superaedificari non potest: &amp; est 
+          sumen<lb ed="#C" n="103" break="no"/>dum exordium a princ. humani generis, de pae. dist. 1. §. e1 
+          <lb ed="#C" n="104"/>his. formato igitur homine ad imaginem Dei, c. 33. q. 5. haec 
+          <lb ed="#C" n="105"/>imago, &amp; in virili aetate, de poen. dist. 2. §. Romanos. Et Eva 
+          for<lb ed="#C" n="106" break="no"/>mata de ipsius latere, f. 33 quaest. 5. mulierem. dixit eis 
+          Do<lb ed="#C" n="107" break="no"/>minus, crescite, &amp; multiplicamini. Ex his omnes 
+          descen<lb ed="#C" n="108" break="no"/>dimus, quo ad carnalem concupiscentiam, excepto Jesu 
+          <lb ed="#C" n="109"/>Aug. lib. 8. super Genes. Christus ab Adam descendit, 
+          secun<lb ed="#C" n="110" break="no"/>dum corpulentam substantiam, sed non secundum 
+          le<lb ed="#C" n="111" break="no"/>gem concupiscentiae, qui quoniam secundum eunden 
+          <lb ed="#C" n="112"/>Aug. sicut sancta Trinitas inseparabilis est in substantia 
+          <lb ed="#C" n="113"/>ita inseparabilis est in operibus in utero virginali, sine 
+          vi<lb ed="#C" n="114" break="no"/>rili semine, a tota Trinitate. Spiritu sancto cooperante in 
+          <lb ed="#C" n="115"/>carnatus est. infra de sum. trin.c.i. haec sancta Trinitas. Ergo 
+          <lb ed="#C" n="116"/>Adam sine homine, &amp; foemina, de nihilo, seu de limo 
+          crea<lb ed="#C" n="117" break="no"/>tus est in agro Damasceno, &amp; in Paradiso positus: Eva 
+          di<lb ed="#C" n="118" break="no"/>homine, sine foemina in Paradiso formata, Jesus de 
+          muli<lb ed="#C" n="119" break="no"/>ere virgine, sine homine natus, caeteri omnes ex homine &amp; 
+          <lb ed="#C" n="120"/>foemina geniti descenderunt, quorum gratia, natura rerum 
+          <lb ed="#C" n="121"/>id est Deus. ff. de jud sed &amp; si restituatur. §. ult. omnes fructis 
+          <lb ed="#C" n="122"/>comparavit. ff de usur. in pecudum. Inst. de re dir §. in pecudum 
+          <lb ed="#C" n="123"/>Hi naturali lege &amp; communi (quia erant eis omnia 
+          com<lb ed="#C" n="124" break="no"/>munia) vixerunt, &amp; potest dici haec lex, jus naturale ratio 
+          <lb ed="#C" n="125"/>nale, quod coepit ab exordio humanae naturae, ut dist. 5. §. 1 
+          <lb ed="#C" n="126"/>&amp; haec lex naturalis rationalis in duobus praeceptis 
+          consi<lb ed="#C" n="127" break="no"/>stebat, Unde versus 
+          <lb ed="#C" n="128"/>
+          <quote xml:id="nbht7y-d1e20-Qd1e680">Quod tibi vis fieri, mihi fac: quod non tibi, noli 
+            <lb ed="#C" n="129"/>Sic potes in terris vivere jure poli</quote>
+          <lb ed="#C" n="130"/>Vt in prmcipio Decretorum. Ex hac lege etiam procedi 
+          <lb ed="#C" n="131"/>quod nemo fiat locupletior cum alterius detrimento, ff. d 
+          <lb ed="#C" n="132"/>cond indeb. nam hoc natura. licet domini legem exponani 
+          <lb ed="#C" n="133"/>illud de jure gentium. Sed minus subtiliter considerandum 
+          <lb ed="#C" n="134"/>veritatem, cum de jure gentium qui fortior est, locupli 
+          <lb ed="#C" n="135"/>tior fiat, ut patet infra eodem versic. multiplicatio. Item &amp; e 
+          <lb ed="#C" n="136"/>hac lege naturali rationali, est conjunctio animorum 
+          <!--<p>
+            <lb ed="#C" n="137"/>ADDITIONES. 
+            <lb ed="#C" n="138"/><!-\- line coord error -\->
+            </p>
+            <p>
+            <lb ed="#C" n="139"/>Veneranda senectus) Adde quod deferendum est senectuti 
+            <lb ed="#C" n="140"/>ut in l. semper. ff. de in. immu. &amp; in I. providendum. C. de postulan 
+            <lb ed="#C" n="141"/>Et facit ad hoc, plus valet umbra senis, quam arma iuvenis 
+            <lb ed="#C" n="142"/>secundum Bal. in C. I. de renun. Bal. in I. cum antiquioribus. C. de 
+            iu<lb ed="#C" n="143" break="no"/>deli. Bald. in I. senium. C. qui testa. fac. poss. 
+            <lb ed="#C" n="144"/>Anniculo paratus sum) Adde glo. in ver. plerumque, in c. nisi cun 
+            <lb ed="#C" n="145"/>pridem, de renun.glin verb consilia. in c. pervenit. 84. distin. &amp; gl.i 
+            <lb ed="#C" n="146"/>c. nullus episcopus. 38. disti 
+            <lb ed="#C" n="147"/>I Fundamentum non est) Adde tex. in c. cum Pan. l. 9. 1. &amp; in cap 
+            </p>
+            <p>
+            <lb ed="#C" n="148"/>ult. de praesb non bapti 
+            <lb ed="#C" n="149"/>Homine ad imaginem Dei) Adde origin aliter, Genes. 1 
+            <lb ed="#C" n="150"/>De ipsius latere) Adde c. debitum. de biga. &amp; in c. gaudemus, d 
+            </p>
+            <p>
+            <lb ed="#C" n="151"/>de divort. Et quare voluit formare plus de latere, quam de 
+            ca<lb ed="#C" n="152" break="no"/>pite, vel pede. Vide gl. in verbo Costa. in c fin. 33. 4.
+            </p>-->
+          <!--Henricus_a_Segusio_cardinalis_Hostiensis-0020.xml-->
+          <pb ed="#C" n="3"/>
+          <cb ed="#C" n="a"/>
+          <lb ed="#C" n="1"/>matrimonialis, ut not. infr. de sponsa sub rubricella, de matri 
+          <lb ed="#C" n="2"/>monus, §. i. versic. quin imo. ex hac procedunt omnes lege 
+          <lb ed="#C" n="3"/>humanae, rationabiliter promulgatae: &amp; ideo de ipsis 
+          red<lb ed="#C" n="4" break="no"/>denda est ratio naturalis, ut not. infra de rescri. §. quas vires 
+          <lb ed="#C" n="5"/>vers. siquaeratur. &amp; sequentib. Sed &amp; alia lege naturali 
+          com<lb ed="#C" n="6" break="no"/>muni omnibus animalibus usi sunt. Inst. ac just. &amp; jur. §. 
+          <lb ed="#C" n="7"/>&amp; de hac lege duplici, sc. naturali communi, &amp; naturalir 
+          <lb ed="#C" n="8"/>tionali, cui animalia non participant, tangiturI. dist. jus ai 
+          <lb ed="#C" n="9"/>tem naturale. Inst. de jure nat gent. &amp; civi. I. respon. &amp; S. quod ver 
+          <lb ed="#C" n="10"/>naturalis ratio. His duabus legibus vixerunt homines, eti 
+          <lb ed="#C" n="11"/>post dejectionem a Paradiso, de qua habes, de pe. dist. 2. su 
+          <lb ed="#C" n="12"/>§. Romanos, vers. princeps vitiorum omnium. unde quamcunque 
+          <lb ed="#C" n="13"/>terram calcaret pes alicujus, sua erat. &amp; sic concedebantur 
+          <lb ed="#C" n="14"/>omnia occupanti, ar. Inst. de re. divis. §. ferae. Multiplicato 
+          ta<lb ed="#C" n="15" break="no"/>men genere humano, dejure sive lege gentium 
+          naturali<lb ed="#C" n="16" break="no"/>lege rationali inventa, regiones distinctae sunt, bella orta, 
+          <lb ed="#C" n="17"/>&amp; servitutes sequutae, &amp; obligationes inductae. Inst. de 
+          ju<lb ed="#C" n="18" break="no"/>nat. §. jus autem gentium. I.dist. jus gentium. quod ex illo 
+          tem<lb ed="#C" n="19" break="no"/>pore factum creditur, quo Caing civitatem aedificasse legi 
+          <lb ed="#C" n="20"/>tur. sed cum in diluvio propter raritatem hominum, 
+          pen<lb ed="#C" n="21" break="no"/>videretur extinctum, postea tempore Nemroth reparatum 
+          <lb ed="#C" n="22"/>fuit. unde n Gene. io.c. coepit Nemroth esse venustus vena 
+          <lb ed="#C" n="23"/>tor coram Domino, id est, hominum oppressor. dist. 6. §. ju 
+          <lb ed="#C" n="24"/>vero consuetudinis. Ergo huic juri aequum visum est, quemlibet 
+          <lb ed="#C" n="25"/>cum alterius jactura locupletiorem fieri, quare patet, quo 
+          <lb ed="#C" n="26"/>minus bona est gl. dominorum super l. praeallegata, nam haec n. 
+          <lb ed="#C" n="27"/>tura, ut sup. notavi. vers. ibi, naturali lege licet autem jus 
+          gen<lb ed="#C" n="28" break="no"/>tium has obligationes induxerit, non tamen nomina, ne 
+          <lb ed="#C" n="29"/>actiones, imo a jure civili postea inducto, processerunt 
+          <lb ed="#C" n="30"/>Inst. de act. §. istae quoque actiones, in fin ff. de just. &amp; jur. jus autem 
+          <lb ed="#C" n="31"/>civile. &amp; deori. jur. l. 2. §. novissime. &amp; de pactis. I. conventionum 
+          <lb ed="#C" n="32"/>I. seq. &amp; de praescrip. ver.l.2.3. &amp; 4. secundum dominum meum sa 
+          <lb ed="#C" n="33"/>de Belvi. quem semper in legibus dominum meum 
+          princi<lb ed="#C" n="34" break="no"/>paliter voco.  Sic tempore ante legem Mosaicam fueri 
+          <lb ed="#C" n="35"/>tres leges, sc. naturalis comunis Item naturalis rationalis 
+          <lb ed="#C" n="36"/>quae nihil aliud videtur, quam naturalis ratio. Item juris 
+          gen<lb ed="#C" n="37" break="no"/>tium. Sed delictis &amp; peccatis hominum multiplicatis, &amp; 
+          <lb ed="#C" n="38"/>augmentatis super terram, necesse fuit populo dare legem 
+          <lb ed="#C" n="39"/>qua regeretur; sicque data fuit lex Mosaica. 7. dist. Moyses 
+          <lb ed="#C" n="40"/>3292. Moyses. Mox &amp; Prophetica. de quib. in princ. 
+          Decre<lb ed="#C" n="41" break="no"/>torum. infi.c..ibi. Lex &amp; Prophetae, ex quibus constat vetum 
+          <lb ed="#C" n="42"/>Testamentum. Item Phoroneus Rex primo legem instituit. 
+          <lb ed="#C" n="43"/>qui vero secundo &amp; tertio &amp;c. traditur. 7. dist. Moyses, &amp; cap. sec 
+          <lb ed="#C" n="44"/>&amp; qualiter 10. viri, quorum nomina habes 7. dist. fuerunt mis 
+          <lb ed="#C" n="45"/>si a Romanis, ut peterent leges ab Atheniensibus: &amp; quo 
+          <lb ed="#C" n="46"/>mode lex 12. Tab. facta fuit ex accidenti, quomodo etiam 
+          <lb ed="#C" n="47"/>processerunt senatusconsulta, plebiscita, responsa prudi 
+          <lb ed="#C" n="48"/>tum, edicta praetorum, &amp; qualiter potestas condendi legem 
+          <lb ed="#C" n="49"/>fuit translata in principem, longum esset hoc enarrare, sed 
+          to<lb ed="#C" n="50" break="no"/>tum traditur, ffdeori. ju.l. 2. Inst. de jur. nat. C. de vet. jure. eni 
+          <lb ed="#C" n="51"/>per totum. Novae autem leges a Constantino coeperunt, e 
+          <lb ed="#C" n="52"/>ejus successorib. de quibus fuerunt facti duo Codices, scilicet 
+          <lb ed="#C" n="53"/>Gregorianus, &amp; Hermogenianus, deinde Theodosius 
+          fe<lb ed="#C" n="54" break="no"/>cit suum, &amp; ex his tribus fuit factus Justinianeus, &amp; 
+          poste<lb ed="#C" n="55" break="no"/>emendatus propter legum decisiones, quae vagabantur ex 
+          <lb ed="#C" n="56"/>tra, &amp; sic factus est Codex, quo hodie utimur, 7. dist. fuerunt 
+          <lb ed="#C" n="57"/>C. de novo Cod facien. cum duab. sequque constitutionib. Et ut 
+          brevi<lb ed="#C" n="58" break="no"/>ter comprehendam, in quinquaginta libris Pandectarum 
+          <lb ed="#C" n="59"/>quatuor Institutionum, duodecim Codicis, novem 
+          Coll<lb ed="#C" n="60" break="no"/>tionibus Authenticorum, Novella Lombarda &amp; Consti, seu 
+          <lb ed="#C" n="61"/>consistit legalis sapientia, quae non permittit hominem in 
+          <lb ed="#C" n="62"/>paupertate vivere, vel anxietate mori. in auth. de haer &amp; Fal 
+          <lb ed="#C" n="63"/>mficola. 1. &amp; quae pretio nummario non est dehonestanda 
+          <lb ed="#C" n="64"/>ff. de var. &amp; extraor. cog.l.i.vers. est quidem res sanctissima. Sic eo 
+          <lb ed="#C" n="65"/>dem tempore sub lege, tres leges emanarunt, id est, Mosai 
+          <lb ed="#C" n="66"/>ca, item Prophetica, &amp; Civilis. * Jesu vero nato adveni 
+          <lb ed="#C" n="67"/>tempus gratiae, quo data est primo lex Evangelica. i. qu.. 
+          <lb ed="#C" n="68"/>peccaverit. Secundo, Apostolica, &amp; dicta sanctorum Patrum 
+          <lb ed="#C" n="69"/>13. dist. nervi. 27. dist. de his ex quibus constat novum 
+          Testa<lb ed="#C" n="70" break="no"/>mentum. Et in his duobus Testamentis, scil. veteri, in quo 
+          <lb ed="#C" n="71"/>contingebant omnia hominibus in figura, &amp; in novo, in quo 
+          <lb ed="#C" n="72"/>veritas data est, infr. de cele. mis. cum Marthae §. caeterum. 
+          The<lb ed="#C" n="73" break="no"/>ologia consistit, per quam anima nutritur, regitur, &amp; 
+          sal<lb ed="#C" n="74" break="no"/>vatur infr. deoffi. ordi. inter caetera. De his invenies, 20. dist. c.1 
+          <lb ed="#C" n="75"/>&amp; seq. 23. dist. qui episcopus. Hac principaliter reguntur 
+          reli<lb ed="#C" n="76" break="no"/>giosi, specialiter fratres Carthusienses, Praedicatores, 8 
+          <lb ed="#C" n="77"/>Minores, &amp; hi qui in contemplatione positi, 
+          temporali<lb ed="#C" n="78" break="no"/>despiciunt &amp; terrena. infra de exces. praela nimis iniqua. &amp; 
+          <!--Henricus_a_Segusio_cardinalis_Hostiensis-0020.xml-->
+          <cb ed="#C" n="b"/>
+          <lb ed="#C" n="79"/>nimis prava. Civili vero principaliter reguntur advocat 
+          <lb ed="#C" n="80"/>fideles, h &amp; justi judices vitam activam sine plica 
+          ducen<lb ed="#C" n="81" break="no"/>tes, quae si bene duceretur, magis fructifera esset, quam 
+          con<lb ed="#C" n="82" break="no"/>templativa. infra de renun. nisi cum pridem. §. nec putes, &amp; a 
+          <lb ed="#C" n="83"/>reg. licet. Sed qui sunt hi, &amp; laudabimus eos? fecerunt e 
+          <lb ed="#C" n="84"/>nim mirabilia in vita sua. nam multi suo sensu ducuntur, 
+          <lb ed="#C" n="85"/>nfra de constitu, cap. 1. &amp; cap. ne innitaris. Multi etiam contra 
+          <lb ed="#C" n="86"/>veritatem legis &amp; verba, a justitia deviant, divinis 
+          secula<lb ed="#C" n="87" break="no"/>ria praeponentes. infra de reb. eccl. non alie, cum laicis, &amp; de 
+          de<lb ed="#C" n="88" break="no"/>cimis. ad audientiam. C. mandati. ab Anastasio, in auth. constituti 
+          <lb ed="#C" n="89"/>quae ex ascript. &amp; ex lib. matre inprinc, colum. J.* Ex 
+          praemis<lb ed="#C" n="90" break="no"/>iis patet, fore duo genera hominum, scil. Laicorum, &amp; 
+          Re<lb ed="#C" n="91" break="no"/>ligiosorum. Et duo genera vitarum, scil. Contemplativa 
+          <lb ed="#C" n="92"/>&amp; Activae. Et duo genera scientiarum, Divinae scilicet, &amp; 
+          <lb ed="#C" n="93"/>Civilis: &amp; hoc respicit decretum, 22. q.1. duo sunt. Sed 
+          si<lb ed="#C" n="94" break="no"/>ne dubio addere possumus tertium genus, ex ingenio quasi 
+          <lb ed="#C" n="95"/>permixtum: nos enim clerici seculares, quos oporte 
+          <lb ed="#C" n="96"/>Domino famulari, &amp; etiam curare, ne pereant 
+          possessio<lb ed="#C" n="97" break="no"/>nes ecclesiasticae, in medio istorum sumus positi, tanqui 
+          <lb ed="#C" n="98"/>centrum. Aliud est enim genus religiosorum, aliud 
+          cleri<lb ed="#C" n="99" break="no"/>corum secularium, ut patet infra de offic. ordi. licet &amp; accedit, 
+          <lb ed="#C" n="100"/>39. dist. §. 1. &amp; c. I.169. I. de prae sentium infra de renun. nisi cum 
+          <lb ed="#C" n="101"/>pridem, §. nec putes, infra de elect. ne pro defectu, &amp; de cler 
+          conju<lb ed="#C" n="102" break="no"/>ga. diversis fallaciis. Ideo hoc tertium genus permixtum, 
+          vi<lb ed="#C" n="103" break="no"/>tam permixtam ducens, scientia permixta egebat, qua 
+          u<lb ed="#C" n="104" break="no"/>trunque sibi commissum, scil. spirituale &amp; temporale posset 
+          <lb ed="#C" n="105"/>regere, defendere, &amp; tueri. Et sic tam ex dictis sanctorum 
+          <lb ed="#C" n="106"/>Patrum, quam legibus, fuit liber Decretorum compositus 
+          <lb ed="#C" n="107"/>ut in ipso patet &amp; infra de accu. qualiter 2. Postea vero, cum 
+          <lb ed="#C" n="108"/>multae decretales epistolae extra corpus Decretorum 
+          va<lb ed="#C" n="109" break="no"/>garentur, Magister Bernardus Papiensis praepositus, 
+          pri<lb ed="#C" n="110" break="no"/>nam compilationem composuit. Sed &amp; tempore 
+          proce<lb ed="#C" n="111" break="no"/>dente, magister Gilibertus suam effecit. Aliam etiam 
+          Ala<lb ed="#C" n="112" break="no"/>nus. Demum M. Bernardus Compostel. in curia Roman 
+          <lb ed="#C" n="113"/>moram faciens, ex registro D. Innoc. III. quandam 
+          com<lb ed="#C" n="114" break="no"/>pilationem extraxit, quae Romana appellata fuit. Sed qui 
+          <lb ed="#C" n="115"/>ibi erant quaedam decretales, quas non admittebat Roma 
+          <lb ed="#C" n="116"/>na curia, ideo idem Inno. per manum Petri 
+          Beneventa<lb ed="#C" n="117" break="no"/>ni compilationem edidit, quae Tertia vocabatur. Qua 
+          re<lb ed="#C" n="118" break="no"/>cepta, &amp; magister Jo. VValensis de duabus dictis 
+          compi<lb ed="#C" n="119" break="no"/>lationibus Gilberti &amp; Alani, unam compilavit, quae 
+          voca<lb ed="#C" n="120" break="no"/>batur Secunda. Postmodum concilio generali per eundem 
+          <lb ed="#C" n="121"/>Inno. celebrato, tam de constitutionibus generalis 
+          conci<lb ed="#C" n="122" break="no"/>lii, quam aliis decretalibus ipsius Inno. Compilatio 
+          quar<lb ed="#C" n="123" break="no"/>ta processit. Postremo, quinta Compilatio per Hono. III. 
+          <lb ed="#C" n="124"/>acta fuit. Et si ea quae praemisi bene attenderis, octo 
+          Com<lb ed="#C" n="125" break="no"/>pilationes poteris invenire. Ideo bene congruebat, ut 
+          Gre<lb ed="#C" n="126" break="no"/>gor. IX. faceret opus novum: quare dictus dominus 
+          <lb ed="#C" n="127"/>Gregor. tantam confusionem &amp; prolixitatem 
+          removeri<lb ed="#C" n="128" break="no"/>cupiens, ex dictis decretis, decretalibus, epistolis, &amp; dicti 
+          <lb ed="#C" n="129"/>sanctorum Patrum, ac legibus, antiquis compilationibus, 
+          <lb ed="#C" n="130"/>decretalium abrogatis, voluit necessaria, &amp; utilia 
+          redige<lb ed="#C" n="131" break="no"/>re in hunc librum, ut patet infra in prima constitutione 
+          proe<lb ed="#C" n="132" break="no"/>mii §. sane. * Sic tempore gratiae, tres leges processerunt, i 
+          <lb ed="#C" n="133"/>scilicet Evangelica. Item Apostolica Item Canonica. 
+          Ha<lb ed="#C" n="134" break="no"/>bes igitur novem leges, &amp; tria tempora, habes etiam tria 
+          <lb ed="#C" n="135"/>genera scientiarum, scil. civilem sapientiam, sub qua 
+          pos<lb ed="#C" n="136" break="no"/>sunt comprehendi lex naturalis, rationalis, &amp; lex natura 
+          <lb ed="#C" n="137"/>lis vel communis, &amp; jus gentium. Item Theologicam, sul 
+          <lb ed="#C" n="138"/>qua possunt comprehendi eaedem leges, nec non lex 
+          Mos<lb ed="#C" n="139" break="no"/>saica, lex Prophetica, lex Evangelica, lex Apostolica. Se 
+          <lb ed="#C" n="140"/>&amp; haec omnia lex canonica, imo &amp; omne jus 
+          comprehen<lb ed="#C" n="141" break="no"/>dit, sive sit divinum, sive humanum, publicum vel privatum 
+          <lb ed="#C" n="142"/>6. dist. quo jure, ff. de just &amp; jur. l. §. jus publicum. &amp; §. seq. 
+          Un<lb ed="#C" n="143" break="no"/>de fatuum est dicere, quod vilis vel levis autoritatis sit lex 
+          <lb ed="#C" n="144"/>Canonica, quia ad hoc, ut perfecte sciatur, non debent 
+          di<lb ed="#C" n="145" break="no"/>ctae leges penitus ignorari. Est igitur haec nostra scientia 
+          <lb ed="#C" n="146"/>non pure Theologica, sive Civilis, sed utrique participan 
+          <lb ed="#C" n="147"/>nomen proprium sortita, Canonica vocatur, sicutjus 
+          em<lb ed="#C" n="148" break="no"/>phyteuticum, non est venditio, nec locatio, sed contractu 
+          <lb ed="#C" n="149"/>per se utrique participans. C. de jure emphyt. li. &amp; de hac legi 
+          <!--<p>
+            <lb ed="#C" n="150"/>ADDITIONES. 
+            <lb ed="#C" n="151"/>Cain) Adde Car. Alex. in c. non est. in §. ius vero. in I. colum. ve 
+            <lb ed="#C" n="152"/>hoc quod Cain. 6. dist. 
+            <lb ed="#C" n="153"/>b Advocatifideles) Adde Albe. de Rosa. in l. I. circa fin. ff. di 
+            <lb ed="#C" n="154"/>iust. &amp; iur. &amp; idem Albe. in l. per diversas. C. mandati--> 
+          <!--Henricus_a_Segusio_cardinalis_Hostiensis-0021.xml-->
+          <pb ed="#C" n="4"/>
+          <cb ed="#C" n="a"/>
+          <lb ed="#C" n="1"/>tur 3i. dist. Nicena. &amp; haec nostra lex sine scientia, vere potes 
+          <lb ed="#C" n="2"/>scientiarum cientia nuncupari inf. deaeta. &amp; qua. cum sit ar 
+          <lb ed="#C" n="3"/>artium, quamvis civilis hoc sibi usurpet, quae etiam alia 
+          <lb ed="#C" n="4"/>vilissimas reputat, ut in prina constitutione C. §. pio responsis in 
+          <lb ed="#C" n="5"/>fin &amp; vide super hoc, quod no. infra. eo. §. cui parti. Sed 
+          cano<lb ed="#C" n="6" break="no"/>nica videtur praecellere. Nam si hoc bene intelligatur, S 
+          <lb ed="#C" n="7"/>sciatur, per eam tam spiritualia, quam temporalia reg 
+          <lb ed="#C" n="8"/>possunt, ideo debet ab omnibus recipi, &amp; teneri, 19. dist. cap 
+          <lb ed="#C" n="9"/>enim vero &amp; aliis scientiis praeponenda est. 20. dist. de libells 
+          <lb ed="#C" n="10"/>10. dist.c.i. in fi. &amp; omnes ejus authoritate duci debent, non 
+          <lb ed="#C" n="11"/>sensu proprio. infrade constit. cap. 1. Ideo dicio Imperator 
+          <lb ed="#C" n="12"/>i quod sacrae legesi non dedignantur sacros canones 
+          imi<lb ed="#C" n="13" break="no"/>tari, in auth. ut cler apud proprios episcopos, cum §. si vero ecclesia 
+          <lb ed="#C" n="14"/>sticam, colla 6 &amp; de mona. inficolla. 1. &amp; ponuntur haec verb 
+          <lb ed="#C" n="15"/>infra de jud. cle. &amp; de secun nupt. cap. alt. nec dicat quis eam in 
+          <lb ed="#C" n="16"/>ecclesiasticis tantum intelligi: quia idem videtur in civ 
+          <lb ed="#C" n="17"/>libus, cum alibi dicat idem Imperator, quod per omni 
+          <lb ed="#C" n="18"/>vult sequi sacras regulas, &amp; quod saerae regulae pro legibus 
+          <lb ed="#C" n="19"/>valere debent, &amp; quicquid constituit Cathosica &amp; 
+          Aposto<lb ed="#C" n="20" break="no"/>lica Ecclesia in authen. quomodo oportet episcopos, &amp; 
+          cae<lb ed="#C" n="21" break="no"/>teros clericos ad ord. produci. §. 1. &amp; §. igitur ordinatus 
+          e<lb ed="#C" n="22" break="no"/>piscopus. col. 1. sed qui omnia dicit, nihil excipit, in 
+          <lb ed="#C" n="23"/>quodlibet comprehendit ff deher inst. hoc arti. Quisque infra d 
+          <lb ed="#C" n="24"/>ma. &amp; obe solite. §. nos autem. Naturali etiam ratione 
+          osten<lb ed="#C" n="25" break="no"/>do hanc scientiam digniorem omnib. aliis, &amp; omnibus. prae 
+          <lb ed="#C" n="26"/>ponendam. Creatura enim triplex est, scil. spiritualis 
+          si<lb ed="#C" n="27" break="no"/>ve angelica, &amp; corporalis sive mundana, tertia est humana 
+          <lb ed="#C" n="28"/>quasi communis ex spiritu &amp; corpore constituta, &amp; sic 
+          <lb ed="#C" n="29"/>composita ex praemissis duab. infrade sum tri. c. i. responso I 
+          <lb ed="#C" n="30"/>Sed composita dignior videtur alijs, unde illud Apostoli 
+          <lb ed="#C" n="31"/>Nescitis quod angelos judicabitis? quanto magis 
+          carna<lb ed="#C" n="32" break="no"/>lia seu temporalia infra. qui filii sint legi per venerabilem, §. 
+          tri<lb ed="#C" n="33" break="no"/>udicare autam ad superiorem pertinet, infr. de ma. &amp; ob c 
+          <lb ed="#C" n="34"/>inferior. Item Joanni cadenti ad pedes angeli, &amp; volentia 
+          <lb ed="#C" n="35"/>dorare eum, restitit angelus, dicens, Vide ne feceris, 
+          con<lb ed="#C" n="36" break="no"/>servus tuus sum, &amp; fratrum tuorum, habentium testimoni 
+          <lb ed="#C" n="37"/>um Jesu, Deum adora Apoc 19. c. 1. In hoc saltem major est 
+          <lb ed="#C" n="38"/>humana &amp; honorabilior, quia filius Dei tantum ipsam 
+          ho<lb ed="#C" n="39" break="no"/>noravit, quod divinitati univit. verus enim Deus &amp; veru 
+          <lb ed="#C" n="40"/>homo simul fuit, &amp; est infr. de haer cum Christis. Sicut ergo 
+          <lb ed="#C" n="41"/>natura composita dignior &amp; major est omnibus. aliis, sic S 
+          <lb ed="#C" n="42"/>scientia nostra, quia idem judicium de similibus est 
+          haben<lb ed="#C" n="43" break="no"/>dum, infra de rescript. inter caeteras Quinimo Theologia 
+          spi<lb ed="#C" n="44" break="no"/>ritualis creaturae scientia, civilis vero corporis humanae 
+          <lb ed="#C" n="45"/>canonica potest dici, sicque debet canonica, ut ex praemissi: 
+          <lb ed="#C" n="46"/>patet, ab omnibus quib. appropriatur, &amp; proprie prae 
+          cae<lb ed="#C" n="47" break="no"/>teris commendari. Sed nunquid species mulina major 
+          <lb ed="#C" n="48"/>est, &amp; dignior equina &amp; asinina? Et planum est, quod 
+          equi<lb ed="#C" n="49" break="no"/>nam theologicae scientiae, asininam civili sapientiae 
+          po<lb ed="#C" n="50" break="no"/>teris comparare, nolo concludere, sed considera quid 
+          se<lb ed="#C" n="51" break="no"/>quatur, &amp; junge quod no. infra. de clan. despon §. qualiter 
+          pro<lb ed="#C" n="52" break="no"/>hibetur? Sed nunquid Papa major est K Imperatore? 
+          Vi<lb ed="#C" n="53" break="no"/>de quod no infr. qui fil. sint legi. §. qualiter, &amp; a quo &amp; infra. de 
+          <lb ed="#C" n="54"/>haer §. qualiter depreheudatur. Quidquid autem dicatur, hae 
+          <lb ed="#C" n="55"/>est veritas, quod distinctae sunt jurisdictiones, quamvis 
+          u<lb ed="#C" n="56" break="no"/>na major sit reliqua, &amp; quilibet secundum legem suam 
+          ju<lb ed="#C" n="57" break="no"/>dicabit, sed utraque tamen ecclesiasticos canones, sequidie 
+          <lb ed="#C" n="58"/>bet, ut in superiorib. &amp; infr. de const. c. 1. &amp; cnemn taris, &amp; d 
+          <lb ed="#C" n="59"/>hoc tangitur infra. de const. §. qualiter constitutionib. derogetur 
+          <lb ed="#C" n="60"/>Patet ex praedictis, quod tria sunt genera hominum, pe 
+          <lb ed="#C" n="61"/>quae potest trinitas designari. Genus Laicorum 
+          assimila<lb ed="#C" n="62" break="no"/>tur patri, propter potentiam: genus Secularium clerico 
+          <lb ed="#C" n="63"/>rum filio, propter fapientiam: genus Religiosorum 
+          Spiri<lb ed="#C" n="64" break="no"/>tui sancto, propter benignitatem, seu gratiam. Inhis 
+          ge<lb ed="#C" n="65" break="no"/>neribus, scil. laicorum, clericorum secularium, &amp; 
+          religio<lb ed="#C" n="66" break="no"/>sorum, est trinitas, sed in sacra concione ecclesiae, &amp; fides 
+          <lb ed="#C" n="67"/>catholica unitas item in personis Patris, &amp; Filii, &amp; 
+          Spiri<lb ed="#C" n="68" break="no"/>tus sancti Trinitas, sed in essentia &amp; deitate unitas, infra. a 
+          <lb ed="#C" n="69"/>sum. tri .c.inon tamen potest fieri vera comparatio de 
+          cre<lb ed="#C" n="70" break="no"/>tura adcreatorem, ut no. inf. tit. I. §. cur dicatur summa, versie 
+          <lb ed="#C" n="71"/>sic patet. 
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e1199">
+          <lb ed="#C" n="72"/>Quis composuit hunc lib Liquet ex superioribus 
+          <lb ed="#C" n="73"/>quod Greg. IX. I &amp; per fratren 
+          <lb ed="#C" n="74"/>seu M. Raymundum paenitentiarum suum, ut in proae 
+          <lb ed="#C" n="75"/>ane prope si sed ille facit cujus authoritate fit, sive bonum 
+          <lb ed="#C" n="76"/>live malum fuit, ff de adm. tut. ita autem §. giscisse inf de sen.e 
+          <lb ed="#C" n="77"/>com mul omnia enim nostra facimus, ex quo a nobis eis 
+          <lb ed="#C" n="78"/>mnis authoritas impartitur, C. de vet. ju. enucle. l. 1. §. omn. 
+          <!--Henricus_a_Segusio_cardinalis_Hostiensis-0021.xml-->
+          <cb ed="#C" n="b"/>
+          <lb ed="#C" n="79"/>bus authoribus. alias incipit, §. servum
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e1223">
+          <lb ed="#C" n="80"/>Quo nomine nuncupetur. Et quidem diversimo 
+          <lb ed="#C" n="81"/>de, potest. n. vocari liber. 
+          Extravagan<lb ed="#C" n="82" break="no"/>tium, quia ea quae extra corpus Decretorum, seu 
+          decreta<lb ed="#C" n="83" break="no"/>lium vagabantur, in eo continentur, ut in proemio §. sane, ver 
+          <lb ed="#C" n="84"/>aliquae rero. Vel potest dici Pentatheuenus, qui a in se 
+          con<lb ed="#C" n="85" break="no"/>tinet quinque libros, ut mfr.dedeci. eo.c.i Vel Compilatio 
+          no<lb ed="#C" n="86" break="no"/>va, ut patet in si. procemii. Vel Codex Gregorianus, ab 
+          au<lb ed="#C" n="87" break="no"/>thore suo, sicut dicitur Codex Justinianus, quia omnis 
+          <lb ed="#C" n="88"/>nostra facimus, &amp;c. ut no supra § proxi in fin quilibet. n. 
+          li<lb ed="#C" n="89" break="no"/>ber, codex potest vocari, ff. deleg 3. librorum. comunis tamen 
+          <lb ed="#C" n="90"/>&amp; magis proprie vocatur liber Decretalium, quia quae al 
+          <lb ed="#C" n="91"/>Apostolicis &amp; sanctis patrib. decreta, seu sancita sunt, in ec 
+          <lb ed="#C" n="92"/>continentur, ut in ipso patebit: vel quia major pars ipsius 
+          <lb ed="#C" n="93"/>libri in decretalibu. episto is consistit. Est enim differenti 
+          <lb ed="#C" n="94"/>inter decretales epistolas, ncanones, decreta, 
+          constitutio<lb ed="#C" n="95" break="no"/>nes, dogmata, mandata, edicta, sanctiones, &amp; pragmatica 
+          <lb ed="#C" n="96"/>anctiones. Decretalis epistola est, quando Papa ad 
+          con<lb ed="#C" n="97" break="no"/>sultationem alicujus respondet: sive solus, infrade rescrip. c. 
+          <lb ed="#C" n="98"/>1. sive de consilio fratrum, infra de elect. bonae me mag. Canon 
+          <lb ed="#C" n="99"/>est, quod in concilio generali, seu provinciali constituitur: 
+          <lb ed="#C" n="100"/>exemplum de generali, infra derescrip. nonnulli exemplum 
+          <lb ed="#C" n="101"/>de provinciali, infra. de fo. cop. c. 1. 2 &amp; 3. Decretum est quod 
+          Pa<lb ed="#C" n="102" break="no"/>pa de consilio fratrum, nulla consultatione facta, super 
+          a<lb ed="#C" n="103" break="no"/>liqua re statuit, &amp; in rescriptis redegit, exemplum insra. d 
+          <lb ed="#C" n="104"/>his quae fi. a prae la sine cons.ca. &amp; si mebrazo. qui in generali. 
+          Consti<lb ed="#C" n="105" break="no"/>tutio est. quod Papa proprio motu statuit. &amp; in scriptis 
+          re<lb ed="#C" n="106" break="no"/>degit, sine consilio fratrum, &amp; nulla consultatione facta. 
+          <lb ed="#C" n="107"/>exemplum, infra de ele c. antepe. &amp; ult. &amp; haec constitutio est 
+          <lb ed="#C" n="108"/>generalis. infra deconsti.c. ult. Sed &amp; specialis fit per 
+          episco<lb ed="#C" n="109" break="no"/>pum, infra dema. &amp; obe si quis &amp; C. deloca. &amp; condu. restra. 18 
+          <lb ed="#C" n="110"/>dist. c. ult Dogma consittit in doctrina fidei de conse. dist 5. c. 
+          <lb ed="#C" n="111"/>pen. Mandatum in doctrina de moribus consistit 4.dist. denique 
+          <lb ed="#C" n="112"/>Edictum est, quando nulla paena adjicitur, de conse. dist. 4. 
+          <lb ed="#C" n="113"/>non oportet. Sanctio est, cum adjectione poenae, 17. 4. 4. si quis 
+          <lb ed="#C" n="114"/>Pragmatica sanctio n dicitur illud, quod Imperator de 
+          con<lb ed="#C" n="115" break="no"/>silio procerum sanxit, &amp; statuit. C. dedirer. re. I. ult. &amp; deha 
+          <lb ed="#C" n="116"/>infra de rerum perinu c.a.dehis, 25. 42.si quis doginata, 
+          consue<lb ed="#C" n="117" break="no"/>vit de hoc notari dist 3. §.. secundum hua &amp; Io. 
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e1309">
+          <lb ed="#C" n="118"/>Quae sit ejus materia Sanctorum patrum 
+          prae<lb ed="#C" n="119" break="no"/>cepta, &amp; Decretales 
+          epi<lb ed="#C" n="120" break="no"/>stolae, secundum omnes, sed hoc nihil aliud est dictum, 
+          ni<lb ed="#C" n="121" break="no"/>si quod materia huius libri, est ipse liber, Unde subtilius 
+          <lb ed="#C" n="122"/>Materia est fides catholica, ex qua constat fundamentum 
+          <lb ed="#C" n="123"/>ut not. infra iit.i. in prin. Item, quaestiones &amp; dubitatione 
+          <lb ed="#C" n="124"/>ntricatae de novo emergentes, ex quib. constant pariaetes 
+          <lb ed="#C" n="125"/>nujus libri. Item responsiones principum, &amp; statuta 
+          san<lb ed="#C" n="126" break="no"/>ctorum patrum, ex quib. constat tectum. Potest etiam 
+          di<lb ed="#C" n="127" break="no"/>ci, quod simul collecta haec materia, ponitur in chartis ac 
+          <lb ed="#C" n="128"/>literam, vel in intellectu hominis ad instructionem &amp; 
+          in<lb ed="#C" n="129" break="no"/>telligetiam loco sui. Sicut ergo quodlibet aedificium ex trit 
+          <lb ed="#C" n="130"/>consistit, ut not. anfra de lit. contit.v. quae sit ratio. ita liber iste se 
+          <lb ed="#C" n="131"/>effectus istius libri, olo tecto, &amp; parietibus sustinetur 
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e1342">
+          <lb ed="#C" n="132"/>Quae utilitas Urinterjustom &amp; inustumaequum 
+          <lb ed="#C" n="133"/>&amp; inicuum sciamus discernere, &amp; ut 
+          <lb ed="#C" n="134"/>honeste vivamus, alterum nonlaedamus, suum unicuique 
+          <lb ed="#C" n="135"/>tribuamus, ut in proxmio Sadeo, lex proditur 
+          <lb ed="#C" n="136"/>Quae intentio acthoris hretia diecta &amp; 
+          spar<lb ed="#C" n="137" break="no"/>sa ad communem, &amp; 
+          <lb ed="#C" n="138"/>maxime studentium utilitatem, in unum volumen 
+          recol<lb ed="#C" n="139" break="no"/>ligere, ut in proae § sane &amp; ut hac tantum copilatione 
+          univer<lb ed="#C" n="140" break="no"/>sali utantur in judiciis, &amp; in scholis, ut in sin ejusdem 
+          proxmi<lb ed="#C" n="141" break="no"/>Quis modus agendi Hoc versu comprehendi 
+          <lb ed="#C" n="142"/>Expositionem 
+          <lb ed="#C" n="143"/>
+          <quote xml:id="nbht7y-d1e20-Qd1e1370">Judex, judicium, clerus sponsalia, crimen 
+            <lb ed="#C" n="144"/>Pars prior officia creat, ecclesiaeque ministros 
+            <lb ed="#C" n="145"/>Altera dat testes, &amp; caeter ajudiciorum 
+            <lb ed="#C" n="146"/>Tertia, de rebus &amp; vita presbyterorum 
+            <!--<p>
+              <lb ed="#C" n="147"/>ADDITIONES. 
+              <lb ed="#C" n="148"/>i Sacrae leges) Addec. clerici, de iud.c. I.de no. op. nun. 
+              <lb ed="#C" n="149"/>K Papa major est) Addec. sol iae, de ma &amp; obe c. novit. de iud 
+              <lb ed="#C" n="150"/>I Gregorius IX.) Adde, quod in Cathedra Pesri non fuit excellen 
+              </p>
+              <p>
+              <lb ed="#C" n="151"/>tior isto secundum lo. An. in prog. deeret. fuit primus qui scripsi 
+              <lb ed="#C" n="152"/>Scryus servorum Dei, secundmAlb insuo bictionario 
+              <lb ed="#C" n="153"/>m Inter decretales epistolas) iddegl.summaea disi 
+              <lb ed="#C" n="154"/>n Pragmatica sanctio Addeglan c. pervenit, 100. dist. glin fin. C. de 
+              </p>
+              <p>
+              <lb ed="#C" n="155"/>diver. rescripi. &amp; in liubemus. C.de sac sanci ccc¬--> 
+            <!--Henricus_a_Segusio_cardinalis_Hostiensis-0022.xml-->
+            <pb ed="#C" n="5"/>
             <cb ed="#C" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="nbht7y-d1e20"><!-- nbht7y-prooemium -->
-            <head xml:id="nbht7y-d1e20-Hd1e101">Prooemium</head>
-            <p xml:id="nbht7y-d1e20-d1e103">
-               <pb ed="#C" n="1"/>
-               <cb ed="#C" n="a"/>
-               <lb ed="#C" n="1"/>SVMMA HOSTIENSIS, 
-      <lb ed="#C" n="2"/>I. V. D. CELEBERRIMI, 
-      <lb ed="#C" n="3"/>Super Titulis Decretalium. F. Martini Abbatis 
-      <lb ed="#C" n="4"/>Adnotamentis locupletata. 
-      <lb ed="#C" n="5"/>PROOEMIVM 
-  </p>
-            <p xml:id="nbht7y-d1e20-d1e121">
-      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0018.xml-->
-               <cb ed="#C" n="b"/>
-               <lb ed="#C" n="6"/>SVMMARIA. 
-      <lb ed="#C" n="7"/>1 Senectus semper est reverend. 
-      <lb ed="#C" n="8"/>2 Studiosus de singulis dubitare debet 
-      <lb ed="#C" n="9"/>3 Reprehensio temeraria fit decem modis 
-      <lb ed="#C" n="10"/>4 Juri scripto potius est a dhaerendum, quam consuetudin 
-      <lb ed="#C" n="11"/>5 Liber iste unde habuerit originen 
-      <lb ed="#C" n="12"/>6 Leges tres fuere ante legem Mosaicam 
-      <lb ed="#C" n="13"/>7 Phoroneus Rex primo legem institui 
-      <lb ed="#C" n="14"/>8 Jesu nato advenit tempus gratia 
-      <lb ed="#C" n="15"/>D. Hominum genera dicuntur esse du¬ 
-      <lb ed="#C" n="16"/>I0 Scientiarum genera dicuntur esse duo 
-      <lb ed="#C" n="17"/>11 Tempore gratiae tres leges processerunt. 
-      <lb ed="#C" n="18"/>12 hmperator per omnia vult sequi sacras regula 
-      <lb ed="#C" n="19"/>13 Papa an sit major Imperatore 
-      <lb ed="#C" n="20"/>14 Decretalis quid sit 
-      <lb ed="#C" n="21"/>15 Decretum quid si¬ 
-      <lb ed="#C" n="22"/>16 Constitutio quid si¬ 
-      <lb ed="#C" n="23"/>17 Pragnatica sanctio quid si¬ 
-      <lb ed="#C" n="24"/>18 Scientia civilis an sit scientia, vel ars. 
-      <lb ed="#C" n="25"/>19 Homines propter quinque fines, dicuntur legere 
-    </p>
-            <p xml:id="nbht7y-d1e20-d1e171">
-               <lb ed="#C" n="26"/>LPHA, &amp; OMEGA, unum in 
-      <lb ed="#C" n="27"/>essentia, &amp; trinum in personis, a qui 
-      <lb ed="#C" n="28"/>omnes Legislationes pendere juben¬ 
-      <lb ed="#C" n="29"/>tur, in primis invocans eundem a e¬ 
-      <lb ed="#C" n="30"/>oro, ut adsit mihi principium, medii 
-      <lb ed="#C" n="31"/>&amp; terminus a libro Authenticorum 
-      <lb ed="#C" n="32"/>doctus, ut in authent. de privile. dotis. h. 
-      <lb ed="#C" n="33"/>re. mul. non praestan. in princ, col 8. Fiat ergo eidem decens prit 
-      <lb ed="#C" n="34"/>cipium operis, atque amabile: sic enim bene, &amp; recte un 
-      <lb ed="#C" n="35"/>versa gerentur, ut in authent. quomodo opor.epi. respon.i.infi¬ 
-      <lb ed="#C" n="36"/>col. 1. Placeat etiam ei quod incipio, quia opus semper de 
-      <lb ed="#C" n="37"/>bet placere Deo, ut in auth. ut judices sine quoquo suffr. coll 
-      <lb ed="#C" n="38"/>ad hoc. 23.dist. in nomine Domini. C. de offi. praese. prae. Afri. in no 
-      <lb ed="#C" n="39"/>mine Domini. infra de testi. in nomine Domini. C. de vete, jure eni 
-      <lb ed="#C" n="40"/>l..&amp; de epis. &amp; cle. I. Deo nobis, in authen. de arin. in princ. colla.d 
-      <lb ed="#C" n="41"/>Erit ergo principium meum, ex quo ipsum invoco, qui¬ 
-      <lb ed="#C" n="42"/>ut ait Psal. Prope est Dominus omnibus invocantibus ei 
-      <lb ed="#C" n="43"/>in veritate. Ex quo etiam principium est, finis erit, qui 
-      <lb ed="#C" n="44"/>qui ponit initium, supplere debet usque in finem. de con¬ 
-      <lb ed="#C" n="45"/>dist.i.nemo ecclesin in auth. de monachis. §. 3. coll. 1. &amp; quod 
-      <lb ed="#C" n="46"/>Deo incoeptum est, imperfectum non relinquitur, C. de¬ 
-      <lb ed="#C" n="47"/>men. Justi, cod in princ. quia nihil videtur esse actum, cum a 
-      <lb ed="#C" n="48"/>liquid superest ad agendum, C. de his qui ut indi.l.cum Sill. 
-      <lb ed="#C" n="49"/>nianum. insin. Ideo successor non debet aliquod opus inc 
-      <lb ed="#C" n="50"/>pere, nisi primo expleto, quod a praedecessore coeptum fui 
-      <lb ed="#C" n="51"/>C. de ope, pub. I fi. &amp; ff de ope, pub. I si. infr. de rescrip. literis. &amp; Do 
-      <lb ed="#C" n="52"/>minus opus imperfectum non novit. infra de bap. majores 
-      <lb ed="#C" n="53"/>sed a lhuc. De ipsius igitur omnipotentia confisus, qui re 
-      <lb ed="#C" n="54"/>penitus desperatas, &amp; impossibiles donare potest, C. de ve 
-      <lb ed="#C" n="55"/>jur. enu. l. 1.in fin. 1. col. &amp; qui omnium scientiarum est ca 
-      <lb ed="#C" n="56"/>put &amp; author, 37. dist. §. hinc etiam filius, qui etiam omniun 
-      <lb ed="#C" n="57"/>gratiarum est mirabilis elargitor. 16 4. . revertimini. de sci¬ 
-      <lb ed="#C" n="58"/>entiae meae modulo non praesumens, ad ejusdem, atque Ma 
-      <lb ed="#C" n="59"/>tris sanctissimae, advocatae nostrae, nec non Sanctorun 
-      <lb ed="#C" n="60"/>suorum omnium, ad honorem, laudem, &amp; utilitatem Scho 
-      <lb ed="#C" n="61"/>larium, diversa scripta appetentium, &amp; maxime studer 
-      <lb ed="#C" n="62"/>tium, praesens opus aggredior: in quo renovando, &amp; pro 
-      <lb ed="#C" n="63"/>sequendo diversorum Doctorum summas, flores glossa 
-      <lb ed="#C" n="64"/>rum quaestiones, &amp; distinctiones utiles, opiniones majo 
-      <lb ed="#C" n="65"/>rum difficiles, &amp; quid verius videatur apposui, summatir 
-      <lb ed="#C" n="66"/>tangendo omnia super singulis titulis, ut melius memo 
-      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0018.xml-->
-      <cb ed="#C" n="c"/>
-               <lb ed="#C" n="67"/>riae commendentur. sic Inst. de don. §. in summa. &amp; ff. de den. I.i 
-      <lb ed="#C" n="68"/>Qui ergo diversa scripta utilia in unum volumen, quo ac 
-      <lb ed="#C" n="69"/>utrumque jus, fideliter redacta habere desiderat, ad scri 
-      <lb ed="#C" n="70"/>bendam hanc Summam accedat intrepidus &amp; securus 
-      <lb ed="#C" n="71"/>quam ego post studium utriusque Juris diutinum, &amp; lon¬ 
-      <lb ed="#C" n="72"/>gum exercitium, adjutorio Dei in omnibus praecedente 
-      <lb ed="#C" n="73"/>suffultus composui, super operis imperfectione, quod in 
-      <lb ed="#C" n="74"/>quantum humanum est, nec aliter dici potest, cum in re 
-      <lb ed="#C" n="75"/>bus humanis nihil perfectum sit, ut C. de ve jur. enu. l. 2. §. sed 
-      <lb ed="#C" n="76"/>quia divinae, a benignitate sociali veniam postulans, nam &amp; 
-      <lb ed="#C" n="77"/>recte dictum est a praedecessoribus nostris, &amp; ante omne 
-      <lb ed="#C" n="78"/>a Juliano sapientiss. quod nullum jus ab initio sufficier 
-      <lb ed="#C" n="79"/>emanavit in Rempub. Romanorum, sed ad naturae veri 
-      <lb ed="#C" n="80"/>tatem, &amp; ejus machinationes multa egent correctione, i 
-      <lb ed="#C" n="81"/>authentic. quibus modis natura. effic. leg. 1. respon. colla. 6. 8 
-      <lb ed="#C" n="82"/>ideo juxta revocationem compilationis, multa diligen 
-      <lb ed="#C" n="83"/>Lector in inferioribus inveniet renovata. Nec obstat quoc 
-      <lb ed="#C" n="84"/>dicit lex, sc. quod minime mutanda sunt, quae longam ha 
-      <lb ed="#C" n="85"/>buerunt interpretationem, ff de legi. &amp; se. con. minime quia 
-      <lb ed="#C" n="86"/>illud intelligendum est de his, quae sic statuta sunt, quod in 
-      <lb ed="#C" n="87"/>perpetuum debeant observari. ff. de leg. si de interpretatio 
-      <lb ed="#C" n="88"/>ne. vel non sunt mutanda, nisi ex causa, infra de consue. cum 
-      <lb ed="#C" n="89"/>consuetudinis, quia salva honorificentia majorum nostro 
-      <lb ed="#C" n="90"/>rum, ipsorum dicta corrigere possumus, si contra veritat. 
-      <lb ed="#C" n="91"/>senserint, 9. dist. neque quorumlibet, &amp; idem a successori 
-      <lb ed="#C" n="92"/>bus expectamus, quia quod quisque juris in alterum sta 
-      <lb ed="#C" n="93"/>tuerit, &amp;c. sed hoc non est temere praesumendum, ut no 
-      <lb ed="#C" n="94"/>infra eo. ver. studiosus. &amp; seqqu. Egosvero per dictum meum ne¬ 
-      <lb ed="#C" n="95"/>mini legem impono, nec opiniones aliorum renuo, vel 
-      <lb ed="#C" n="96"/>abscondo, imo ipsas diligenter recito, &amp; in lucem produ 
-      <lb ed="#C" n="97"/>co. Tu ergo perlectis, &amp; intellectis juribus &amp; rationibus, 
-      <lb ed="#C" n="98"/>quibus unaquaeque fulcitur opinio, amplectere quam ma 
-      <lb ed="#C" n="99"/>iueris, &amp; elige cui dicas, Tu mihi sola places. Minorum 
-      <lb ed="#C" n="100"/>tamen imploro veniam, &amp; non intelligentium, si aliqu¬ 
-      <lb ed="#C" n="101"/>subtilia &amp; profunda apponam: quia licet dicatur, quod 
-      <lb ed="#C" n="102"/>qui ea docet, quae ab auditorib. non valent intelligi, non ac 
-      <lb ed="#C" n="103"/>eorum utilitatem, sed ad sui ostentationem hoc facit, &amp; 
-      <lb ed="#C" n="104"/>vitium animi est, indignis secreta vulgare, 43. dis. § sin. cum 
-      <lb ed="#C" n="105"/>tamen lex communis esse debeat, 4. dist. erit autem grat 
-      <lb ed="#C" n="106"/>minorum exponam multa; &amp; ipsos via simplici ducam 
-      <lb ed="#C" n="107"/>ne cadant in desperantiam. Inst. de justit &amp; jar. § 2. &amp; de leg 
-      <lb ed="#C" n="108"/>§. sed ne inprimis, &amp; sic dabo eis lac in potum, non escam, 
-      <lb ed="#C" n="109"/>infra de poenit. &amp; remis Deus qui §. Apostolis. gratia mediorur 
-      <lb ed="#C" n="110"/>dicam similia, inducendo &amp; solvendo contraria, notand 
-      <lb ed="#C" n="111"/>quotidiana &amp; practicatiora: quia in ipsis magis studendi 
-      <lb ed="#C" n="112"/>est, ff. de libe. leg. legavi. Majoribus etiam, loco aquarum sa 
-      <lb ed="#C" n="113"/>lientium, tradam profunditates materiarum, &amp; diversita 
-      <lb ed="#C" n="114"/>tes memoriae commendandas, &amp; inquantum possibile mih 
-      <lb ed="#C" n="115"/>erit, &amp; Deus dederit, sic omnia prosequar, ne quicquan 
-    <!--</p>
-    <p>
-      <lb ed="#C" n="116"/>ADDITIONES 
-      <lb ed="#C" n="117"/>Hostiens. prius composuit Summam, deinde Lecturam, u 
-      <lb ed="#C" n="118"/>ipse dicit in prooemi. Lecturae, &amp; eum sequituribi Ioan. And. 8 
-      <lb ed="#C" n="119"/>Card. Zaba. &amp; per Ioan. de Imol. in repe c. fin. in 29. col. de pra 
-      <lb ed="#C" n="120"/>scrip 
-      <lb ed="#C" n="121"/>Hostiens. in favendo Episcopis habuit malam scientiam, &amp; 
-      <lb ed="#C" n="122"/>pejorem conscientiam, secundum Bal. consi. 166. incip. Punctu 
-      <lb ed="#C" n="123"/>quaestionis. in 2. vo 
-      <lb ed="#C" n="124"/>Invocans eundem.) Adde tex. inc. in nomine Domini. de testi. 
-      <lb ed="#C" n="125"/>licet. 26. q. 5. &amp; Spec. iii. de instru. edii. in §.--> 
-      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0019.xml-->
-      <pb ed="#C" n="2"/>
-               <cb ed="#C" n="a"/>
-               <lb ed="#C" n="1"/>inveniatur in hoc prato spinosum, C. de vet. jur.enu.l.i. §. ho¬ 
-      <lb ed="#C" n="2"/>etiam hihilomin. &amp; quamlibet materiam, prout congruun 
-      <lb ed="#C" n="3"/>videbitur, loco suo, &amp; ordine tractabo: hoc enim observi 
-      <lb ed="#C" n="4"/>dum est. in auth. de nup. §. deportatio. collat. 4. Nec dedignie 
-      <lb ed="#C" n="5"/>tur, alicujus veneranda senectus  recipere praesens opus 
-      <lb ed="#C" n="6"/>quis impubes ferula caeditur pro veritate dicenda. ff. des 
-      <lb ed="#C" n="7"/>rons Sylla. l. I. §. inpubes. &amp; ubi publica tractatur utilitas, eti 
-      <lb ed="#C" n="8"/>si minor veritatem investigaverit, nulla majori injuria ir 
-      <lb ed="#C" n="9"/>rogatur, C. de off. recte prov. i. potioris. saepe enim revelat D. 
-      <lb ed="#C" n="10"/>us minori, quod celatur majori. 95. dist. esto subjectus. 39. dis 
-      <lb ed="#C" n="11"/>nullis. quia non omnes per omnia, sed certi per certa, ve 
-      <lb ed="#C" n="12"/>meliores vel deteriores inveniuntur, ut 38. dist quamris e 
-      <lb ed="#C" n="13"/>rare. &amp; qui subtiliter factum emendat, laudabilior est ec 
-      <lb ed="#C" n="14"/>qui primo invenit. C. devet. jur. enu.l.i. §. omnibus authoribu 
-      <lb ed="#C" n="15"/>dicit etiam Aug. Ego episcopus tot annorum, a colleg¬ 
-      <lb ed="#C" n="16"/>nedum anniculo paratus sumc edoceri, 24. 93. si habes 8 
-      <lb ed="#C" n="17"/>purisperitus cupiditatem discendi solam vivendi ratio 
-      <lb ed="#C" n="18"/>nem existimans, in septuagesimum octavum annum aeta 
-      <lb ed="#C" n="19"/>tis suae quaerebat, quia etsi alterum pedem in sepulchro 
-      <lb ed="#C" n="20"/>haberet, discere quidem vellet. ff. de fideic. lib apud sul und 
-      <lb ed="#C" n="21"/>versus 
-      <lb ed="#C" n="22"/>
-               <quote xml:id="nbht7y-d1e20-Qd1e428">Si quis forte cupit jurisconsultus haberi 
-      <lb ed="#C" n="23"/>Continuet studium, velit a quocunque doceri 
-      <lb ed="#C" n="24"/>Invigilet, nec vincat eum tortura laboris 
-      <lb ed="#C" n="25"/>Fortior insurgat, cunctisque recentior horis</quote>
+            <lb ed="#C" n="1"/>Nubendi formam dat sponsis quarta, decentem 
+            <lb ed="#C" n="2"/>Ultima de vitijs &amp; poenis tractat eorum 
+            <lb ed="#C" n="3"/>Primus praelatos, &amp; eorum scribit honores. 
+            <lb ed="#C" n="4"/>Alter judicia, lites examina juris 
+            <lb ed="#C" n="5"/>Tertius ecclesiae res, &amp; quae congrua clero 
+            <lb ed="#C" n="6"/>Jura thori quartus dat, conjugiique tenores. 
+            <lb ed="#C" n="7"/>Quintus delicta, poenas, &amp; pondera vocum</quote>
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e1404">
+          <lb ed="#C" n="8"/>Et ita sicut inhibitio copulae conjugalis, usque ad 
+          quar<lb ed="#C" n="9" break="no"/>tum gradum, ad exemplum quatuor humorum restricta 
+          <lb ed="#C" n="10"/>est, infra de consang. &amp; affin. non debet, §. prohibitio. dividit 
+          Au<lb ed="#C" n="11" break="no"/>thor opus suum in quinque partes, ad similitudinem quinque 
+          <lb ed="#C" n="12"/>sensuum: quos quilibetjudex debet habere. Primus libe 
+          <lb ed="#C" n="13"/>aequiparari potest visui: quia sicut visus inter colores 
+          dis<lb ed="#C" n="14" break="no"/>cernit, sic primus liber inter qualitates personarum in 
+          eccle<lb ed="#C" n="15" break="no"/>sia creandarum. Huic jungas primam partem prooemii, in qu 
+          <lb ed="#C" n="16"/>tangit creationis hominis qualitatem, &amp; qua frueretur, si 
+          <lb ed="#C" n="17"/>non peccasset, aeternam beatitudinem, ut sic prima pars 
+          proe<lb ed="#C" n="18" break="no"/>mii respondeat primae parti totius operis, &amp; eidem sensu 
+          <lb ed="#C" n="19"/>sc. visui, ipsam aequiparans, propter claritatem virtutum, 8 
+          <lb ed="#C" n="20"/>splendorem, quib. primus homo, scil. Adam, repletus fuit 
+          <lb ed="#C" n="21"/>&amp; durat usque ad §. Sed effrenata. Secudus gustui, quia sicu 
+          <lb ed="#C" n="22"/>gustus, discernit inter sapidum &amp; insipidum, sic tractatus 
+          <lb ed="#C" n="23"/>ipsius inter justum &amp; injustum, aequum &amp; iniquum. Huic ben 
+          <lb ed="#C" n="24"/>convenit secunda pars prooemii, quae durat usque ad §. Ideo 
+          <lb ed="#C" n="25"/>que lex proditur. in qua tangit hominis a paradiso ejectio 
+          <lb ed="#C" n="26"/>nem, &amp; peccandi pronitatem, &amp; peccatorum coacervatio 
+          <lb ed="#C" n="27"/>nem, ab eodem vitio, sc. concupiscentia derivatam, &amp; 
+          pecca<lb ed="#C" n="28" break="no"/>torum temperantiam, &amp; refrenationem, sc justitiam. haec 
+          e<lb ed="#C" n="29" break="no"/>nim aequiparatur gustui, quia gustus gulosus a 
+          concupiscen<lb ed="#C" n="30" break="no"/>tia processit, &amp; justitia inter bona opera sapida, &amp; mala in 
+          <lb ed="#C" n="31"/>sipida, sicut gustus inter cibaria discernere consuevit. 
+          Ter<lb ed="#C" n="32" break="no"/>tius auditui, quia sicut auditus inter voces &amp; sermone 
+          <lb ed="#C" n="33"/>discernit, sic tractatus ipsius, inter res temporales, quasi v 
+          <lb ed="#C" n="34"/>ces reputans. Vitimo tractat de spiritualibus, ad 
+          designan<lb ed="#C" n="35" break="no"/>dum, quod sic transeamus per bona temporalia, ut non 
+          <lb ed="#C" n="36"/>amittamus aeterna. Huicbene congruit tertia pars pro 
+          <lb ed="#C" n="37"/>oemii, quae durat usque ad §. Sane in qua ponit promulgatio 
+          <lb ed="#C" n="38"/>nis juris causam, sive occasionem, &amp; aequiparatur auditui, ui 
+          <lb ed="#C" n="39"/>ipsum jus audiamus, &amp; sic retineamus, quod honeste viva 
+          <lb ed="#C" n="40"/>mus, &amp;c. Quartus tactui, quia sicut tactus discernit inte 
+          <lb ed="#C" n="41"/>dura &amp; mollia, aspera &amp; lenia, sic tractatus ipsius inter 
+          ma<lb ed="#C" n="42" break="no"/>trimonia illicita &amp; licita, improbanda &amp; ap probanda. Huic 
+          <lb ed="#C" n="43"/>bene convenit quarta pars prooemii, quae durat usque ad 
+          <lb ed="#C" n="44"/>Volentes extendes. ubi antiphorizando ponit suam intentione 
+          <lb ed="#C" n="45"/>in cujus principio reddit nos dociles, quia gaudent brev 
+          <lb ed="#C" n="46"/>rate &amp; claritate moderni, &amp; qui compendiose veritatem 
+          do<lb ed="#C" n="47" break="no"/>cet, docilem reddit. Item reddit nos benevolos, ibi, Ad 
+          commu<lb ed="#C" n="48" break="no"/>nem &amp; maxime studentium utilitatem. Item attentos, ubi dicit 
+          <lb ed="#C" n="49"/>aliquae vero vagabantur. &amp; ibi, Adijcientes constitutiones nostras, 
+          <lb ed="#C" n="50"/>&amp;c. in fin. proum. hoc satis convenienter aequiparatur tactu 
+          <lb ed="#C" n="51"/>ubi confusionem &amp; contrarietatem, tanqua duram &amp; asper 
+          <lb ed="#C" n="52"/>removeamus, &amp; brevitatem, &amp; utilitatem tanquam mollem &amp; 
+          <lb ed="#C" n="53"/>lenem retineamus. Quintus odoratui, quia sicut odoratu 
+          <lb ed="#C" n="54"/>foetore sentit &amp; fugit, sic tractatus ipsius crimina 
+          detesta<lb ed="#C" n="55" break="no"/>tur &amp; punit. Huic bene jungitur quinta &amp; ultima pars 
+          pro<lb ed="#C" n="56" break="no"/>remii, in qua facit suam conclusionem, per quam confirmatur 
+          <lb ed="#C" n="57"/>praesens compilatio, &amp; alia fieri prohibetur. hoc enim 
+          a<lb ed="#C" n="58" break="no"/>quiparatur odoratui, ut jura authoritate sedis 
+          Apostoli<lb ed="#C" n="59" break="no"/>cae facta, tanquam odorifera approbemus, alia vero, cum 
+          <lb ed="#C" n="60"/>clerici simus, tanquam stercora, &amp; foetida fugiamus, infra n 
+          <lb ed="#C" n="61"/>cle. vel mona super Specu. &amp; sic divisio prooemii divisioni 
+          to<lb ed="#C" n="62" break="no"/>tius operis respondet &amp; concordat. In hoc autem opere hum 
+          <lb ed="#C" n="63"/>modum specialem praeter communem jam notatum, quem 
+          <lb ed="#C" n="64"/>&amp; prosequimur, tenebimus. Singulos titulos summatim 
+          <lb ed="#C" n="65"/>discutiemus, primo continuando &amp; ponendo articulo: 
+          <lb ed="#C" n="66"/>de quibus in titulo tractare intendimus, quos postea 
+          no<lb ed="#C" n="67" break="no"/>minatim, &amp; per eadem verba in eod. tit. repetendo, &amp; di 
+          <lb ed="#C" n="68"/>ipsis faciendo paragraphos, diffiniemus. Determinante 
+          <lb ed="#C" n="69"/>diversas materias, &amp; solvendo jura contraria, ac 
+          concor<lb ed="#C" n="70" break="no"/>dando diversas doctorum sententias, nec non quaestioni 
+          <lb ed="#C" n="71"/>difficiles enodando. per versus haec omnia, &amp; aliquando 
+          <lb ed="#C" n="72"/>per supparagraphos dividemus. In quibusdam etiam 
+          po<lb ed="#C" n="73" break="no"/>nemus rubricellas subcertis titulis, &amp; in eisdem rubricel 
+          <lb ed="#C" n="74"/>lis eundem modum tenebimus, ubi remissiones, quas 
+          fre<lb ed="#C" n="75" break="no"/>quenter faciemus, de summa unius tituli ad alium, vel d 
+          <lb ed="#C" n="76"/>paragrapho ad paragraphum, vel de versu ad versum, vel de 
+          <lb ed="#C" n="77"/>versu ad paragraphu, vel e converso, ut sit facilius invenire 
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e1558">
+          <!--Henricus_a_Segusio_cardinalis_Hostiensis-0022.xml-->
+          <cb ed="#C" n="b"/>
+          <lb ed="#C" n="78"/>Forma paragraphi talis erit S. Forma. veris 
+          <lb ed="#C" n="79"/>talis erit, versic. 
+          Formave<lb ed="#C" n="80" break="no"/>ro supparagraphi talis erit, infra vers. Alias etiam multa 
+          <lb ed="#C" n="81"/>posui differentias, quae non possunt ita de facili exprimi, 
+          <lb ed="#C" n="82"/>sicut oculata fide veri, &amp; notatur singulariter infra de don 
+          <lb ed="#C" n="83"/>§. qualiter revocetur. Et si aliqua ex his scriptis omiserim 
+          <lb ed="#C" n="84"/>charissime Lector, te deprecor, ut affectum meum 
+          cogi<lb ed="#C" n="85" break="no"/>tans, non derideas me, nec contra me virus linguae 
+          effun<lb ed="#C" n="86" break="no"/>das, neque de bono opere lapides: sed potius, si citius &amp; 
+          fa<lb ed="#C" n="87" break="no"/>cilius proficere desideras, in his in quibus tibi vis 
+          videbi<lb ed="#C" n="88" break="no"/>tur facienda, scriptoris negligentiam suppleas &amp; defectum 
+          <lb ed="#C" n="89"/>Ores etiam pro me, qui circa opus istud ad honorem Dei 
+          <lb ed="#C" n="90"/>&amp; Dominae nostrae matris suae, &amp; omnium Sanctorum, a 
+          <lb ed="#C" n="91"/>itilitatem Reipublicae, diutius insudavi, &amp; juxta vires 
+          <lb ed="#C" n="92"/>ipsum non minus fideliter, quam utiliter compilav
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e1597">
+          <lb ed="#C" n="93"/>Cui parti Philosophiae supponatur. Ethicae, ic 
+          <lb ed="#C" n="94"/>est, Morali, quia tractat 
+          <lb ed="#C" n="95"/>de moribus, sicut &amp; caeteri libri Juris. C. de secund. nupt. l. 1. 
+          <lb ed="#C" n="96"/>infra de vi. &amp; hone. cle. ut clericorum mores. &amp; per totum. &amp; 
+          ni<lb ed="#C" n="97" break="no"/>hilominus potest supponi rationali, quia docet ornate &amp; 
+          <lb ed="#C" n="98"/>ordinate loqui. C. depost. I quisquis ff. de orig jur, l. 2. §. post hos 
+          <lb ed="#C" n="99"/>unde &amp; legem ratio commendat, ut dist.i. consuetudo. Inst. de 
+          <lb ed="#C" n="100"/>jur nat gent. &amp; civ. §. quod vero naturalis ratio &amp; docet ratio 
+          <lb ed="#C" n="101"/>nabiliter ordinare judicium, ut apparet, infr. de lit. contes 
+          <lb ed="#C" n="102"/>c. unico. &amp; de probat. quoniam contra falsam. Sed videtur, quod 
+          <lb ed="#C" n="103"/>naturali supponatur, quia tractat de naturalibus. ff. desta 
+          <lb ed="#C" n="104"/>ho. quae in utero. ff. si pars haered. peta. antiqui. infr. de frigi. quod 
+          <lb ed="#C" n="105"/>sedem. &amp;c. fraternitatis.  Sed hoc ultimum incidens est, i 
+          <lb ed="#C" n="106"/>duo vero prima principaliter insunt huic scientiae civil 
+          <lb ed="#C" n="107"/>quare haec scientia potest dici mista, quia partim 
+          rationa<lb ed="#C" n="108" break="no"/>lis, vel partim moralis. nam &amp; civilis scientia videtur sub si 
+          <lb ed="#C" n="109"/>continere Rhetoricam, quae rationalis est, unde Tullius in 
+          <lb ed="#C" n="110"/>prima Rhetorica post procoemium, Civilis quaedam ratio est, quae 
+          <lb ed="#C" n="111"/>multis &amp; magnis ex rebus constat, ejus quaedam magni 
+          <lb ed="#C" n="112"/>&amp; ampla pars est artificiosa eloquentia, quam Rhetorici 
+          <lb ed="#C" n="113"/>vocant, &amp;c. &amp; infra quare hanc oratoriam facultatem in ec 
+          <lb ed="#C" n="114"/>genere ponemus, ut eam civilis scientiae partem esse 
+          dica<lb ed="#C" n="115" break="no"/>mus. sed &amp; alias sub se continet. unde Arist. in. Ethicorum 
+          <lb ed="#C" n="116"/>Videbitur autem utique &amp; principalissime, &amp; maxime 
+          archi<lb ed="#C" n="117" break="no"/>tectonice, id est principali operatione esse, subaudi ille 
+          fi<lb ed="#C" n="118" break="no"/>nis, de quo suprâ praemisit, vel utique &amp; civilis apparet. qua 
+          <lb ed="#C" n="119"/>enim debitum esse disciplinarum in civitatibus, id est quae 
+          <lb ed="#C" n="120"/>disciplinae debeant ibi esse, &amp; quales unumquemque 
+          addisce<lb ed="#C" n="121" break="no"/>re, subaudi, quia talis esset bonus miles, qui non esset 
+          bo<lb ed="#C" n="122" break="no"/>nus pictor, vel bonus clericus, vel econverso. argumento 
+          <lb ed="#C" n="123"/>infr. de magistris. super spe. &amp; usquequo, id est propter quid 
+          <lb ed="#C" n="124"/>vel usque ad quod tempus. ut in d .c. super spe. &amp; in proae ff. §. pr 
+          <lb ed="#C" n="125"/>rtsponsis. haec sc. civilis, praeordinat. Videamus autem &amp; 
+          pre<lb ed="#C" n="126" break="no"/>tiosissimas virtutum, sc. scientias sub hac existentes, puta 
+          <lb ed="#C" n="127"/>militarem, quae sc. tractat de militia. ff. de re mili per totum. 
+          <lb ed="#C" n="128"/>Oeconomicam, quae sc. tractat de dispositione domus. 
+          ff<lb ed="#C" n="129" break="no"/>de sup. leg. per torum. Rhetoricam, utente vero hac, lege 
+          ci<lb ed="#C" n="130" break="no"/>vili, reliquis practicis, id est operativis, disciplinarum scilicet 
+          <lb ed="#C" n="131"/>scientiarum, que d primae tres subsunt. Sed &amp; aliis utitur 
+          <lb ed="#C" n="132"/>quamvis non subsint, amplius autem legem ponentem qui 
+          <lb ed="#C" n="133"/>oportet operari, &amp; a quibus abstinere, hujus scilicet 
+          scien<lb ed="#C" n="134" break="no"/>tiae finis complectitur utique eos, qui aliarum scilicet 
+          sci<lb ed="#C" n="135" break="no"/>entiarum, que. d. finis hujus scientiae complectitur fines 
+          o<lb ed="#C" n="136" break="no"/>mnium aliarum, quapropter utique erit humanum 
+          bo<lb ed="#C" n="137" break="no"/>num. verum dicit Arist. &amp; summum. ut 12. q. 2. cum 
+          devotis<lb ed="#C" n="138" break="no"/>sunam. sic ista complecti videtur omnem Philosophiam 
+          <lb ed="#C" n="139"/>vel quo ad suppositum, vel quo ad usum, &amp; sic non 
+          vide<lb ed="#C" n="140" break="no"/>tur quaerendum cui parti Philosophiae, sed cui scientiae 
+          <lb ed="#C" n="141"/>tota Philosophia supponatur. &amp; potest respondere, quo
+          <lb ed="#C" n="142"/>Canonicae, quae omnia comprehendit, ut notat. supra cod. 9 
+          <lb ed="#C" n="143"/>unde habuit originem, vers. sic tempore gratiae. &amp; seq 
+        </p>
+        <p xml:id="nbht7y-d1e20-d1e1710">
+          <lb ed="#C" n="144"/>Quis finis. Hic notandum quod quinque sunt fines 
+          <lb ed="#C" n="145"/>quare homines legunt. Primus, ut 
+          sci<lb ed="#C" n="146" break="no"/>antur, &amp; ad hunc tendere videntur Rhetorici. de hoc, ff. di 
+          <lb ed="#C" n="147"/>orig. jur. I.3. §. post hos, in fin hic finis est vana gloria, &amp; potest 
+          <lb ed="#C" n="148"/>aequiparari visui, quia tales volunt vocari Rabbi ab 
+          homi<lb ed="#C" n="149" break="no"/>nibus, &amp; videri. Secundus, ut aedificentur. &amp; ad huric &amp; 
+          <lb ed="#C" n="150"/>quantum tendunt Theologi, &amp; Canonistae boni &amp; iusti. f 
+          <lb ed="#C" n="151"/>ae just. &amp; jur. I.i. Inst. de just. &amp; ju in pri. C. de legi leges, ff. de var 
+          <!--</p>
+            <p>
+            <lb ed="#C" n="152"/>ADDITIO. 
+            <lb ed="#C" n="153"/>Et civili) Adde an scientia civilis sit scientia, vel ars, vide glo. in 
             </p>
-            <p xml:id="nbht7y-d1e20-d1e438">
-               <lb ed="#C" n="26"/>Nam labor improbus omnia vincit, C. de petit. bo. sub. I. 
-      <lb ed="#C" n="27"/>lib 10. infra de purg. can. cum in juventute, §. caeterum de poen. 
-      <lb ed="#C" n="28"/>2 dist. 1. importuna. Studiosus vero debet dubitare de 
-      sin<lb ed="#C" n="29" break="no"/>gulis. hoc vero non est inutile secund. Aristotelem, ergo 
-      ni<lb ed="#C" n="30" break="no"/>hil debet negligere. Requiritur etiam, quod capacem sensum 
-      <lb ed="#C" n="31"/>habeat, ut hoc probatur. mfra de off. primice, cap. uni. ad fin.
-    </p>
-            <p xml:id="nbht7y-d1e20-d1e455">
-               <lb ed="#C" n="32"/>Caveat tamen ne temere reprehendat. fit autem teme 
-      <lb ed="#C" n="33"/>raria reprehensio multis modis. Temere enim reprehen 
-      <lb ed="#C" n="34"/>dit, Primo, qui ante judicat quam intelligat. Secundo, qu 
-      <lb ed="#C" n="35"/>ante inculpat, quam iterando lecta perquirat, 3o dist scien 
-      <lb ed="#C" n="36"/>dum. Tertio, qui quod scriptores, pictores corrupti &amp; idio 
-      <lb ed="#C" n="37"/>tae corrumpunt scripturas, non considerat: quod tamen eti 
-      <lb ed="#C" n="38"/>in literis Papae, ne verae pro falsis, vel falsae pro veris recip 
-      <lb ed="#C" n="39"/>antur, diligenter est attendendum, infra de cri fal quam gra 
-      <lb ed="#C" n="40"/>bi. in sin. nam multum diversa sunt, est, &amp; non est, &amp; tamet 
-      <lb ed="#C" n="41"/>una figura de facili omittitur, vel mutatur, ut arg. infr. defi 
-      <lb ed="#C" n="42"/>de instr. ex parte. infra de rescr, causam quae &amp; cap. Significante. E 
-      <lb ed="#C" n="43"/>sequ. ideo dic, quod vitium scriptoris, non est authoris. Qua 
-      <lb ed="#C" n="44"/>to, qui ex invidia aliorum dicta mordendo condemnat, ac 
-      <lb ed="#C" n="45"/>hoc tantum ut detrahat, vel discordiam pariat, quod proh 
-      <lb ed="#C" n="46"/>betur. 46. dist. §. 1. &amp; cap. clericus invidens. Quinto, qui dive 
-      <lb ed="#C" n="47"/>sas opiniones subtiliter non denotat, videtur enim plerum 
-      <lb ed="#C" n="48"/>Doctor contraria scribere, &amp; sibiipsi esse contrarius, dun 
-      <lb ed="#C" n="49"/>diversa dicta recitat, &amp; ideo doctorum dicta, &amp; nomina sun 
-      <lb ed="#C" n="50"/>scienda, &amp; subtiliter discernenda ad hoc, infra de off. deles 
-      <lb ed="#C" n="51"/>super quaestion. arti. &amp; deferiis, capellanus, &amp; de suno per tua 
-      <lb ed="#C" n="52"/>scribimus enim sicut &amp; legimus aliqua, ne ignoremus, ali 
-      <lb ed="#C" n="53"/>qua ne negligamus, aliqua ut repudiemus, 37. dist legimu 
-      <lb ed="#C" n="54"/>&amp; cap. seq Sexto, qui mentem dicentis sive scribentis, utri 
-      <lb ed="#C" n="55"/>videlicet de rigore juris, vel debenignitate, &amp; utrum de ju 
-      <lb ed="#C" n="56"/>re scripto, vel consuetudine, vel secundum stylum curia 
-      <lb ed="#C" n="57"/>loquatur, non ponderat, in quo quidem personas, causa 
-      <lb ed="#C" n="58"/>loca, &amp; tempora, &amp; alias circumstantias considerari opor 
-      <lb ed="#C" n="59"/>tet, ut infra. de transa.c. si. in fi. &amp; de homic. sicut dignum. 29. dis 
-      <lb ed="#C" n="60"/>cap. 1. &amp; 2ff depae aut facta. Septimo, qui prudentiae suae ir 
-      <lb ed="#C" n="61"/>nititur, ut capitaneam sententiam veritati praeponat, 17 
-      <lb ed="#C" n="62"/>dist relatum est, infr. de const. cap. I. &amp;c. ne innitaris. Octavo, qui 
-      <lb ed="#C" n="63"/>antiquas opiniones per jus novum indistincte condemna 
-      <lb ed="#C" n="64"/>ut patet infra. de consti,. cap fi. Nono, qui superflua intendem 
-      <lb ed="#C" n="65"/>removere, necessaria vel utilia resecat, ut patet in fi. infr. d¬ 
-      <lb ed="#C" n="66"/>vot. quod super his §. rursus. in fi. &amp; c. seq. respon. I. vers. sic ergo ill 
-      <lb ed="#C" n="67"/>est, sed sic dicebat dominus meus, nequeunt de facili magna 
-      <lb ed="#C" n="68"/>&amp; ardua verba, brevibus expediri. &amp; dum brevis esse labo 
-      <lb ed="#C" n="69"/>ro, obscurus fio. Decimo, qui potius proprietatem verbo 
-      <lb ed="#C" n="70"/>rum quam mentem &amp; veritatem approbat. infr. de rerb. sij 
-      <lb ed="#C" n="71"/>praeterea, &amp; sequitur in sequ. vers. His decem reprehensionibu: 
-      <lb ed="#C" n="72"/>quae temerariae sunt, evitatis, cuilibet diligenter studeni 
-      <lb ed="#C" n="73"/>lurisperito &amp; intelligenti; ac praedicta subtiliter discerni 
-      <lb ed="#C" n="74"/>ti committo, ut imperfectionem operis suppleat, &amp; ipsum 
-      <lb ed="#C" n="75"/>sicut ei videbitur fraterna charitate, de qua no. infr de tem 
-      <lb ed="#C" n="76"/>ord. §. cui sub. §. octava regula. doctorem corrigat, &amp; emen 
-      <lb ed="#C" n="77"/>det, quod fieri potest &amp; debet, ut nont. supr. eod. vers. qui erg 
-      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0019.xml-->
-      <cb ed="#C" n="b"/>
-               <lb ed="#C" n="78"/>diversa. nec oblivioni tradat, quia non sermoni res; sed es 
-      <lb ed="#C" n="79"/>rei sermo subjectus, inf. de verb sig. intelligentia. &amp; c. in his, nec 
-      <lb ed="#C" n="80"/>curet, si forte veritas aliquando per verba impropria ex¬ 
-      <lb ed="#C" n="81"/>ponatur, quia non debet quis in sermonum foliis gloriari 
-      <lb ed="#C" n="82"/>I. quaest.i. Marchion &amp; Basiliaes. 22. qu. 5. humanae aures, &amp; secund 
-      <lb ed="#C" n="83"/>Auginihil obest narrandi diversitas, ubi eadem proferum 
-      <lb ed="#C" n="84"/>tur, &amp; sec. Grego. plerunque dum proprietas verborum at¬ 
-      <lb ed="#C" n="85"/>tenditur, sensus veritatis amittitur. infr. de verb. sign. nihil ob 
-      <lb ed="#C" n="86"/>tat. &amp; c. praeterea. Consulo etiam. quod quo ad habendanm 
-      <lb ed="#C" n="87"/>perfectam scientiam, potius adhaereat juri scripto, quam 
-      <lb ed="#C" n="88"/>curiae Romanae consuetudini, licet ipsam judicando prae¬ 
-      <lb ed="#C" n="89"/>ferat, infr. de sent. &amp; re jud. im causis. Hoc ideo dico, quia con¬ 
-      <lb ed="#C" n="90"/>suetudo fragilis est, &amp; incerta, &amp; nunc alba, cras nigra: fre¬ 
-      <lb ed="#C" n="91"/>quentius variatur, &amp; vide quod not. infr. de offic. delegat. § 
-      <lb ed="#C" n="92"/>quod sit ejus officium. versic. lectio tamen communis est. 
-    </p>
-            <p xml:id="nbht7y-d1e20-d1e594">
-               <lb ed="#C" n="93"/>ET quoniam cujusque rei potissima pars est principium 
-      <lb ed="#C" n="94"/>Hac orig. jur. l.I. &amp; ideo discutiamus, unde habuit ori¬ 
-      <lb ed="#C" n="95"/>ginem liber iste, Qui composuit hunc librum, Qu¬ 
-      <lb ed="#C" n="96"/>nomine nuncupetur, Quae sit ejus materia, Quae utilitas, 
-      <lb ed="#C" n="97"/>Quae intentio authoris, Quis modus agendi, Cui parti 
-      <lb ed="#C" n="98"/>Philosophiae supponatur, Quis finis 
-    </p>
-            <p xml:id="nbht7y-d1e20-d1e610">
-               <lb ed="#C" n="99"/>Vnde habuit originem: liber iste 
-    </p>
-            <p xml:id="nbht7y-d1e20-d1e615">
-               <lb ed="#C" n="100"/>Hoc ideo videndum est; ut fundamento invento &amp; prae 
-      <lb ed="#C" n="101"/>cognito, superaedificare possimus, quia ubi fundamen 
-      <lb ed="#C" n="102"/>tum non est d, superaedificari non potest: &amp; est sumen¬ 
-      <lb ed="#C" n="103"/>dum exordium a princ. humani generis, de pae. dist. 1. §. e1 
-      <lb ed="#C" n="104"/>his. formato igitur homine ad imaginem Dei, c. 33. q. 5. haec 
-      <lb ed="#C" n="105"/>imago, &amp; in virili aetate, de poen. dist. 2. §. Romanos. Et Eva fo 
-      <lb ed="#C" n="106"/>mata de ipsius latere, f. 33 quaest. 5. mulierem. dixit eis Do¬ 
-      <lb ed="#C" n="107"/>minus, crescite, &amp; multiplicamini. Ex his omnes descen 
-      <lb ed="#C" n="108"/>dimus, quo ad carnalem concupiscentiam, excepto Jesu 
-      <lb ed="#C" n="109"/>Aug. lib. 8. super Genes. Christus ab Adam descendit, secur 
-      <lb ed="#C" n="110"/>dum corpulentam substantiam, sed non secundum le 
-      <lb ed="#C" n="111"/>gem concupiscentiae, qui quoniam secundum eunden 
-      <lb ed="#C" n="112"/>Aug. sicut sancta Trinitas inseparabilis est in substantia 
-      <lb ed="#C" n="113"/>ita inseparabilis est in operibus in utero virginali, sine vi¬ 
-      <lb ed="#C" n="114"/>rili semine, a tota Trinitate. Spiritu sancto cooperante in 
-      <lb ed="#C" n="115"/>carnatus est. infra de sum. trin.c.i. haec sancta Trinitas. Erge 
-      <lb ed="#C" n="116"/>Adam sine homine, &amp; foemina, de nihilo, seu de limo crea¬ 
-      <lb ed="#C" n="117"/>tus est in agro Damasceno, &amp; in Paradiso positus: Eva di¬ 
-      <lb ed="#C" n="118"/>homine, sine foemina in Paradiso formata, Jesus de mul¬ 
-      <lb ed="#C" n="119"/>ere virgine, sine homine natus, caeteri omnes ex homine &amp; 
-      <lb ed="#C" n="120"/>foemina geniti descenderunt, quorum gratia, natura rerum 
-      <lb ed="#C" n="121"/>id est Deus. ff. de jud sed &amp; si restituatur. §. ult. omnes fructis 
-      <lb ed="#C" n="122"/>comparavit. ff de usur. in pecudum. Inst. de re dir §. in pecudum 
-      <lb ed="#C" n="123"/>Hi naturali lege &amp; communi (quia erant eis omnia com¬ 
-      <lb ed="#C" n="124"/>munia) vixerunt, &amp; potest dici haec lex, jus naturale ratio 
-      <lb ed="#C" n="125"/>nale, quod coepit ab exordio humanae naturae, ut dist. 5. §. 1 
-      <lb ed="#C" n="126"/>&amp; haec lex naturalis rationalis in duobus praeceptis consi 
-      <lb ed="#C" n="127"/>stebat, Unde versus 
-      <lb ed="#C" n="128"/>
-               <quote xml:id="nbht7y-d1e20-Qd1e680">Quod tibi vis fieri, mihi fac: quod non tibi, noli 
-      <lb ed="#C" n="129"/>Sic potes in terris vivere jure poli</quote>
-               <lb ed="#C" n="130"/>Vt in prmcipio Decretorum. Ex hac lege etiam procedi¬ 
-      <lb ed="#C" n="131"/>quod nemo fiat locupletior cum alterius detrimento, ff. d 
-      <lb ed="#C" n="132"/>cond indeb. nam hoc natura. licet domini legem exponani 
-      <lb ed="#C" n="133"/>illud de jure gentium. Sed minus subtiliter consideran 
-      <lb ed="#C" n="134"/>veritatem, cum de jure gentium qui fortior est, locupli 
-      <lb ed="#C" n="135"/>tior fiat, ut patet infra eodem versic. multiplicatio. Item &amp; e¬ 
-      <lb ed="#C" n="136"/>hac lege naturali rationali, est conjunctio animorum 
-    <!--<p>
-      <lb ed="#C" n="137"/>ADDITIONES. 
-      <lb ed="#C" n="138"/><!-\- line coord error -\->
-    </p>
-    <p>
-      <lb ed="#C" n="139"/>Veneranda senectus) Adde quod deferendum est senectuti 
-      <lb ed="#C" n="140"/>ut in l. semper. ff. de in. immu. &amp; in I. providendum. C. de postulan 
-      <lb ed="#C" n="141"/>Et facit ad hoc, plus valet umbra senis, quam arma iuvenis 
-      <lb ed="#C" n="142"/>secundum Bal. in C. I. de renun. Bal. in I. cum antiquioribus. C. de iu¬ 
-      <lb ed="#C" n="143"/>deli. Bald. in I. senium. C. qui testa. fac. poss. 
-      <lb ed="#C" n="144"/>Anniculo paratus sum) Adde glo. in ver. plerumque, in c. nisi cun 
-      <lb ed="#C" n="145"/>pridem, de renun.glin verb consilia. in c. pervenit. 84. distin. &amp; gl.i 
-      <lb ed="#C" n="146"/>c. nullus episcopus. 38. disti 
-      <lb ed="#C" n="147"/>I Fundamentum non est) Adde tex. in c. cum Pan. l. 9. 1. &amp; in cap 
-    </p>
-    <p>
-      <lb ed="#C" n="148"/>ult. de praesb non bapti 
-      <lb ed="#C" n="149"/>Homine ad imaginem Dei) Adde origin aliter, Genes. 1 
-      <lb ed="#C" n="150"/>De ipsius latere) Adde c. debitum. de biga. &amp; in c. gaudemus, d 
-    </p>
-    <p>
-      <lb ed="#C" n="151"/>de divort. Et quare voluit formare plus de latere, quam de ca¬ 
-      <lb ed="#C" n="152"/>pite, vel pede. Vide gl. in verbo Costa. in c fin. 33. 4.
-    </p>-->
-      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0020.xml-->
-      <pb ed="#C" n="3"/>
-               <cb ed="#C" n="a"/>
-               <lb ed="#C" n="1"/>matrimonialis, ut not. infr. de sponsa sub rubricella, de matri 
-      <lb ed="#C" n="2"/>monus, §. i. versic. quin imo. ex hac procedunt omnes lege 
-      <lb ed="#C" n="3"/>humanae, rationabiliter promulgatae: &amp; ideo de ipsis red 
-      <lb ed="#C" n="4"/>denda est ratio naturalis, ut not. infra de rescri. §. quas vires 
-      <lb ed="#C" n="5"/>vers. siquaeratur. &amp; sequentib. Sed &amp; alia lege neturali com 
-      <lb ed="#C" n="6"/>muni omnibus animalibus usi sunt. Inst. ac just. &amp; jur. §. 
-      <lb ed="#C" n="7"/>&amp; de hac lege duplici, sc. naturali communi, &amp; naturalir 
-      <lb ed="#C" n="8"/>tionali, cui animalia non participant, tangiturI. dist. jus ai 
-      <lb ed="#C" n="9"/>tem naturale. Inst. de jure nat gent. &amp; civi. I. respon. &amp; S. quod ver 
-      <lb ed="#C" n="10"/>naturalis ratio. His duabus legibus vixerunt homines, eti 
-      <lb ed="#C" n="11"/>post dejectionem a Paradiso, de qua habes, de pe. dist. 2. su 
-      <lb ed="#C" n="12"/>§. Romanos, vers. princeps vitiorum omnium. unde quamcunque 
-      <lb ed="#C" n="13"/>terram calcaret pes alicujus, sua erat. &amp; sic concedebantur 
-      <lb ed="#C" n="14"/>omnia occupanti, ar. Inst. de re. divis. §. ferae. Multiplicato ta 
-      <lb ed="#C" n="15"/>mengenere humano, dejure sive lege gentium naturali¬ 
-      <lb ed="#C" n="16"/>lege rationali inventa, regiones distinctae sunt, bella orta, 
-      <lb ed="#C" n="17"/>&amp; servitutes sequutae, &amp; obligationes inductae. Inst. de ju¬ 
-      <lb ed="#C" n="18"/>nat. §. jus autem gentium. I.dist. jus gentium. quod ex illo tem 
-      <lb ed="#C" n="19"/>pore factum creditur, quo Caing civitatem aedificasse legi 
-      <lb ed="#C" n="20"/>tur. sed cum in diluvio propter raritatem hominum, pen¬ 
-      <lb ed="#C" n="21"/>videretur extinctum, postea tempore Nemroth reparatum 
-      <lb ed="#C" n="22"/>fuit. unde n Gene. io.c. coepit Nemroth esse venustus vena 
-      <lb ed="#C" n="23"/>tor coram Domino, id est, hominum oppressor. dist. 6. §. ju 
-      <lb ed="#C" n="24"/>vero consuetudinis. Ergo huic juri aequum visum est, quemlibe 
-      <lb ed="#C" n="25"/>cum alterius jactura locupletiorem fieri, quare patet, quo 
-      <lb ed="#C" n="26"/>minus bona est gl. dominorum super l. praeallegata, nam haec n. 
-      <lb ed="#C" n="27"/>tura, ut sup. notavi. vers. ibi, naturali lege licet autem jus gei 
-      <lb ed="#C" n="28"/>tium has obligationes induxerit, non tamen nomina, ne 
-      <lb ed="#C" n="29"/>actiones, imo a jure civili postea inducto, processerun 
-      <lb ed="#C" n="30"/>Inst. de act. §. istae quoque actiones, in fin ff. de just. &amp; jur. jus auten 
-      <lb ed="#C" n="31"/>civile. &amp; deori. jur. l. 2. §. novissime. &amp; de pactis. I. conventionum 
-      <lb ed="#C" n="32"/>I. seq. &amp; de praescrip. ver.l.2.3. &amp; 4. secundum dominum meum sa 
-      <lb ed="#C" n="33"/>de Belvi. quem semper in legibus dominum meum princ 
-      <lb ed="#C" n="34"/>paliter voco.  Sic tempore ante legem Mosaicam fueri 
-      <lb ed="#C" n="35"/>tres leges, sc. naturalis comunis Item naturalis rationalis 
-      <lb ed="#C" n="36"/>quae nihil aliud videtur, quam naturalis ratio. Item juris gen 
-      <lb ed="#C" n="37"/>tium. Sed delictis &amp; peccatis hominum multiplicatis, &amp; 
-      <lb ed="#C" n="38"/>augmentatis super terram, necesse fuit populo dare legem 
-      <lb ed="#C" n="39"/>qua regeretur; sicque data fuit lex Mosaica. 7. dist. Moyses 
-      <lb ed="#C" n="40"/>3292. Moyses. Mox &amp; Prophetica. de quib. in princ. Decre 
-      <lb ed="#C" n="41"/>torum. infi.c..ibi. Lex &amp; Prophetae, ex quibus constat vetu: 
-      <lb ed="#C" n="42"/>Testamentum. Item Phoroneus Rex primo legem instituit. 
-      <lb ed="#C" n="43"/>qui vero secundo &amp; tertio &amp;c. traditur. 7. dist. Moyses, &amp; cap. sec 
-      <lb ed="#C" n="44"/>&amp; qualiter 10. viri, quorum nomina habes 7. dist. fuerunt mis 
-      <lb ed="#C" n="45"/>si a Romanis, ut peterent leges ab Atheniensibus: &amp; quo 
-      <lb ed="#C" n="46"/>mode lex 12. Tab. facta fuit ex accidenti, quomodo etiam 
-      <lb ed="#C" n="47"/>processerunt senatusconsulta, plebiscita, responsa prudi 
-      <lb ed="#C" n="48"/>tum, edicta praetorum, &amp; qualiter potestas condendi legen 
-      <lb ed="#C" n="49"/>fuit translata in principem, longum esset hoc enarrare, sed to 
-      <lb ed="#C" n="50"/>tum traditur, ffdeori. ju.l. 2. Inst. de jur. nat. C. de vet. jure. eni 
-      <lb ed="#C" n="51"/>per totum. Novae autem leges a Constantino coeperunt, e 
-      <lb ed="#C" n="52"/>ejus successorib. de quibus fuerunt facti duo Codices, scil 
-      <lb ed="#C" n="53"/>Gregorianus, &amp; Hermogenianus, deinde Theodosius fe 
-      <lb ed="#C" n="54"/>cit suum, &amp; ex his tribus fuit factus Justinianeus, &amp; poste¬ 
-      <lb ed="#C" n="55"/>emendatus propter legum decisiones, quae vagabantur ex 
-      <lb ed="#C" n="56"/>tra, &amp; sic factus est Codex, quo hodie utimur, 7. dist. fuerunt 
-      <lb ed="#C" n="57"/>C. de novo Cod facien. cum duab. sequque constitutionib. Et ut brevi 
-      <lb ed="#C" n="58"/>ter comprehendam, in quinquaginta libris Pandectarum 
-      <lb ed="#C" n="59"/>quatuor Institutionum, duodecim Codicis, novem Coll¬ 
-      <lb ed="#C" n="60"/>tionibus Authenticorum, Novella Lombarda &amp; Consti, seu 
-      <lb ed="#C" n="61"/>consistit legalis sapientia, quae non permittit hominem in 
-      <lb ed="#C" n="62"/>paupertate vivere, vel anxietate mori. in auth. de haer &amp; Fal 
-      <lb ed="#C" n="63"/>mficola. 1. &amp; quae pretio nummario non est dehonestanda 
-      <lb ed="#C" n="64"/>ff. de var. &amp; extraor. cog.l.i.vers. est quidem res sanctissima. Sic eo 
-      <lb ed="#C" n="65"/>dem tempore sub lege, tres leges emanarunt, id est, Mosai 
-      <lb ed="#C" n="66"/>ca, item Prophetica, &amp; Civilis. * Jesu vero nato adveni 
-      <lb ed="#C" n="67"/>tempus gratiae, quo data est primo lex Evangelica. i. qu.. 
-      <lb ed="#C" n="68"/>peccaverit. Secundo, Apostolica, &amp; dicta sanctorum Patru 
-      <lb ed="#C" n="69"/>13. dist. nervi. 27. dist. de his ex quibus constat novum Testa 
-      <lb ed="#C" n="70"/>mentum. Et in his duobus Testamentis, scil. veteri, in quo 
-      <lb ed="#C" n="71"/>contingebant omnia hominibus in figura, &amp; in novo, in quo 
-      <lb ed="#C" n="72"/>veritas data est, infr. de cele. mis. cum Marthae §. caeterum. The 
-      <lb ed="#C" n="73"/>ologia consistit, per quam anima nutritur, regitur, &amp; sal¬ 
-      <lb ed="#C" n="74"/>vatur infr. deoffi. ordi. inter caetera. De his invenies, 20. dist. c.1 
-      <lb ed="#C" n="75"/>&amp; seq. 23. dist. qui episcopus. Hac principaliter reguntur reli¬ 
-      <lb ed="#C" n="76"/>giosi, specialiter fratres Carthusienses, Praedicatores, 8 
-      <lb ed="#C" n="77"/>Minores, &amp; hi qui in contemplatione positi, temporali¬ 
-      <lb ed="#C" n="78"/>despiciunt &amp; terrena. infra de exces. praela nimis iniqua. &amp; 
-      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0020.xml-->
-      <cb ed="#C" n="b"/>
-               <lb ed="#C" n="79"/>nimis prava. Civili vero principaliter reguntur advocat 
-      <lb ed="#C" n="80"/>fideles, h &amp; justi judices vitam activam sine plica ducen 
-      <lb ed="#C" n="81"/>tes, quae si bene duceretur, magis fructifera esset, quam con 
-      <lb ed="#C" n="82"/>templativa. infra de renun. nisi cum pridem. §. nec putes, &amp; a 
-      <lb ed="#C" n="83"/>reg. licet. Sed qui sunt hi, &amp; laudabimus eos? fecerunt e 
-      <lb ed="#C" n="84"/>nim mirabilia in vita sua. nam multi suo sensu ducuntur, 
-      <lb ed="#C" n="85"/>nfra de constitu, cap. 1. &amp; cap. ne innitaris. Multi etiam contra 
-      <lb ed="#C" n="86"/>veritatem legis &amp; verba, a justitia deviant, divinis secula¬ 
-      <lb ed="#C" n="87"/>ria praeponentes. infra de reb. eccl. non alie, cum laicis, &amp; de de¬ 
-      <lb ed="#C" n="88"/>cimis. ad audientiam. C. mandati. ab Anastasio, in auth. constituti 
-      <lb ed="#C" n="89"/>quae ex ascript. &amp; ex lib. matre inprinc, colum. J.* Ex praemis¬ 
-      <lb ed="#C" n="90"/>iis patet, fore duo genera hominum, scil. Laicorum, &amp; Re 
-      <lb ed="#C" n="91"/>ligiosorum. Et duo genera vitarum, scil. Contemplativa 
-      <lb ed="#C" n="92"/>&amp; Activae. Et duo genera scientiarum, Divinae scilicet, &amp; 
-      <lb ed="#C" n="93"/>Civilis: &amp; hoc respicit decretum, 22. q.1. duo sunt. Sed si¬ 
-      <lb ed="#C" n="94"/>ne dubio addere possumus tertium genus, ex ingenio quasi 
-      <lb ed="#C" n="95"/>permixtum: nos enim clerici seculares, quos oporte 
-      <lb ed="#C" n="96"/>Domino famulari, &amp; etiam curare, ne pereant possessic 
-      <lb ed="#C" n="97"/>nes ecclesiasticae, in medio istorum sumus positi, tanqui 
-      <lb ed="#C" n="98"/>centrum. Aliud est enim genus religiosorum, aliud cleri¬ 
-      <lb ed="#C" n="99"/>corum secularium, ut patet infra de offic. ordi. licet &amp; accedit, 
-      <lb ed="#C" n="100"/>39. dist. §. 1. &amp; c. I.169. I. de prae sentium infra de renun. nisi cum 
-      <lb ed="#C" n="101"/>pridem, §. nec putes, infra de elect. ne pro defectu, &amp; de cler conju 
-      <lb ed="#C" n="102"/>ga. diversis fallaciis. Ideo hoc tertium genus permixtum, vi 
-      <lb ed="#C" n="103"/>tam permixtam ducens, scientia permixta egebat, qua u 
-      <lb ed="#C" n="104"/>trunque sibi commissum, scil. spirituale &amp; temporale posset 
-      <lb ed="#C" n="105"/>regere, defendere, &amp; tueri. Et sic tam ex dictis sanctorum 
-      <lb ed="#C" n="106"/>Patrum, quam legibus, fuit liber Decretorum compositus 
-      <lb ed="#C" n="107"/>ut in ipso patet &amp; infra de accu. qualiter 2. Postea vero, cum 
-      <lb ed="#C" n="108"/>multae decretales epistolae extra corpus Decretorum va¬ 
-      <lb ed="#C" n="109"/>garentur, Magister Bernardus Papiensis praepositus, pri 
-      <lb ed="#C" n="110"/>nam compilationem composuit. Sed &amp; tempore proce 
-      <lb ed="#C" n="111"/>dente, magister Gilibertus suam effecit. Aliam etiam Ala 
-      <lb ed="#C" n="112"/>nus. Demum M. Bernardus Compostel. in curia Roman¬ 
-      <lb ed="#C" n="113"/>moram faciens, ex registro D. Innoc. III. quandam com¬ 
-      <lb ed="#C" n="114"/>pilationem extraxit, quae Romana appellata fuit. Sed qui¬ 
-      <lb ed="#C" n="115"/>ibi erant quaedam decretales, quas non admittebat Roma 
-      <lb ed="#C" n="116"/>nacuria, ideo idem Inno. per manum Petri Beneventa 
-      <lb ed="#C" n="117"/>ni compilationem edidit, quae Tertia vocabatur. Qua re 
-      <lb ed="#C" n="118"/>cepta, &amp; magister Jo. VValensis de duabus dictis compi 
-      <lb ed="#C" n="119"/>lationibus Gilberti &amp; Alani, unam compilavit, quae voca 
-      <lb ed="#C" n="120"/>batur Secunda. Postmodum concilio generali per eundem 
-      <lb ed="#C" n="121"/>Inno. celebrato, tam de constitutionibus generalis conci¬ 
-      <lb ed="#C" n="122"/>lii, quam aliis decretalibus ipsius Inno. Compilatio quar 
-      <lb ed="#C" n="123"/>ta processit. Postremo, quinta Compilatio per Hono. III. 
-      <lb ed="#C" n="124"/>acta fuit. Et si ea quae praemisi bene attenderis, octo Com 
-      <lb ed="#C" n="125"/>pilationes poteris invenire. Ideo bene congruebat, ut Gre¬ 
-      <lb ed="#C" n="126"/>gor. IX. faceret opus novum: quare dictus dominus 
-      <lb ed="#C" n="127"/>Gregor. tantam confusionem &amp; prolixitatem removeri¬ 
-      <lb ed="#C" n="128"/>cupiens, ex dictis decretis, decretalibus, epistolis, &amp; dicti 
-      <lb ed="#C" n="129"/>sanctorum Patrum, ac legibus, antiquis compilationibus, 
-      <lb ed="#C" n="130"/>decretalium abrogatis, voluit necessaria, &amp; utilia redige 
-      <lb ed="#C" n="131"/>re in hunc librum, ut patet infra in prima constitutione proa 
-      <lb ed="#C" n="132"/>mii §. sane. * Sic tempore gratiae, tres leges processerunt, i 
-      <lb ed="#C" n="133"/>scilicet Evangelica. Item Apostolica Item Canonica. Ha 
-      <lb ed="#C" n="134"/>bes igitur novem leges, &amp; tria tempora, habes etiam tria 
-      <lb ed="#C" n="135"/>genera scientiarum, scil. civilem sapientiam, sub qua pos¬ 
-      <lb ed="#C" n="136"/>sunt comprehendi lex naturalis, rationalis, &amp; lex natura 
-      <lb ed="#C" n="137"/>lis vel communis, &amp; jus gentium. Item Theologicam, sul 
-      <lb ed="#C" n="138"/>qua possunt comprehendi eaedem leges, nec non lex Mo 
-      <lb ed="#C" n="139"/>iaica, lex Prophetica, lex Evangelica, lex Apostolica. Se¬ 
-      <lb ed="#C" n="140"/>&amp; haec omnia lex canonica, imo &amp; omne jus comprehen 
-      <lb ed="#C" n="141"/>dit, sive sit divinum, sive humanum, publicum vel privatum 
-      <lb ed="#C" n="142"/>6. dist. quo jure, ff. de just &amp; jur. l. §. jus publicum. &amp; §. seq. Un¬ 
-      <lb ed="#C" n="143"/>de fatuum est dicere, quod vilis vel levis autoritatis sit lex 
-      <lb ed="#C" n="144"/>Canonica, quia ad hoc, ut perfecte sciatur, non debent di¬ 
-      <lb ed="#C" n="145"/>ctae leges penitus ignorari. Est igitur haec nostra scientia 
-      <lb ed="#C" n="146"/>non pure Theologica, sive Civilis, sed utrique participan 
-      <lb ed="#C" n="147"/>nomen proprium sortita, Canonica vocatur, sicutjus em 
-      <lb ed="#C" n="148"/>phyteuticum, non est venditio, nec locatio, sed contractu 
-      <lb ed="#C" n="149"/>per se utrique participans. C. de jure emphyt. li. &amp; de hac legi 
-    <!--<p>
-      <lb ed="#C" n="150"/>ADDITIONES. 
-      <lb ed="#C" n="151"/>Cain) Adde Car. Alex. in c. non est. in §. ius vero. in I. colum. ve 
-      <lb ed="#C" n="152"/>hoc quod Cain. 6. dist. 
-      <lb ed="#C" n="153"/>b Advocatifideles) Adde Albe. de Rosa. in l. I. circa fin. ff. di 
-      <lb ed="#C" n="154"/>iust. &amp; iur. &amp; idem Albe. in l. per diversas. C. mandati--> 
-      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0021.xml-->
-      <pb ed="#C" n="4"/>
-               <cb ed="#C" n="a"/>
-               <lb ed="#C" n="1"/>tur 3i. dist. Nicena. &amp; haec nostra lex sine scientia, vere potes 
-      <lb ed="#C" n="2"/>scientiarum cientia nuncupari inf. deaeta. &amp; qua. cum sit ar 
-      <lb ed="#C" n="3"/>artium, quamvis civilis hoc sibi usurpet, quae etiam alia 
-      <lb ed="#C" n="4"/>vilissimas reputat, ut in prina constitutione C. §. pio responsis in 
-      <lb ed="#C" n="5"/>fin &amp; vide super hoc, quod no. infra. eo. §. cui parti. Sed canc 
-      <lb ed="#C" n="6"/>nica videtur praecellere. Nam si hoc bene intelligatur, S 
-      <lb ed="#C" n="7"/>sciatur, per eam tam spiritualia, quam temporalia reg 
-      <lb ed="#C" n="8"/>possunt, ideo debet ab omnibus recipi, &amp; teneri, 19. dist. cap 
-      <lb ed="#C" n="9"/>enim vero &amp; aliis scientiis praeponenda est. 20. dist. de libells 
-      <lb ed="#C" n="10"/>10. dist.c.i. in fi. &amp; omnes ejus authoritate duci debent, nor 
-      <lb ed="#C" n="11"/>sensu proprio. infrade constit. cap. 1. Ideo dicio Imperator 
-      <lb ed="#C" n="12"/>i quod sacrae legesi non dedignantur sacros canones 
-      imi<lb ed="#C" n="13" break="no"/>tari, in auth. ut cler apud proprios episcopos, cum §. si vero ecclesia 
-      <lb ed="#C" n="14"/>sticam, colla 6 &amp; de mona. inficolla. 1. &amp; ponuntur haec verb¬ 
-      <lb ed="#C" n="15"/>infra de jud. cle. &amp; de secun nupt. cap. alt. nec dicat quis eam in 
-      <lb ed="#C" n="16"/>ecclesiasticis tantum intelligi: quia idem videtur in civ 
-      <lb ed="#C" n="17"/>libus, cum alibi dicat idem Imperator, quod per omni¬ 
-      <lb ed="#C" n="18"/>vult sequi sacras regulas, &amp; quod saerae regulae pro legib 
-      <lb ed="#C" n="19"/>valere debent, &amp; quicquid constituit Cathosica &amp; Aposto 
-      <lb ed="#C" n="20"/>lica Ecclesia in authen. quomodo oportet episcopos, &amp; cae 
-      <lb ed="#C" n="21"/>teros clericos ad ord. produci. §. 1. &amp; §. igitur ordinatus e 
-      <lb ed="#C" n="22"/>piscopus. col. 1. sed qui omnia dicit, nihil excipit, im 
-      <lb ed="#C" n="23"/>quodlibet comprehendit ff deher inst. hoc arti. Quisque infrad 
-      <lb ed="#C" n="24"/>ma. &amp; obe solite. §. nos autem. Naturali etiam ratione osten¬ 
-      <lb ed="#C" n="25"/>do hanc scientiam digniorem omnib. aliis, &amp; omnibus. prae 
-      <lb ed="#C" n="26"/>ponendam. Creatura enim triplex est, scil. spiritualis si 
-      <lb ed="#C" n="27"/>ve angelica, &amp; corporalis sive mundana, tertia est humana 
-      <lb ed="#C" n="28"/>quasi communis ex spiritu &amp; corpore constituta, &amp; sic 
-      <lb ed="#C" n="29"/>composita ex praemissis duab. infrade sum tri. c. i. responso I 
-      <lb ed="#C" n="30"/>Sed composita dignior videtur alijs, unde illud Apostoli 
-      <lb ed="#C" n="31"/>Nescitis quod angelos judicabitis? quanto magis carna 
-      <lb ed="#C" n="32"/>lia seu temporalia infra. qui filii sint legi per venerabilem, §. tri¬ 
-      <lb ed="#C" n="33"/>udicare autam ad superiorem pertinet, infr. de ma. &amp; ob c 
-      <lb ed="#C" n="34"/>mferior. Item Joanni cadenti ad pedes angeli, &amp; volentia 
-      <lb ed="#C" n="35"/>dorare eum, restitit angelus, dicens, Vide ne feceris, con 
-      <lb ed="#C" n="36"/>servus tuus sum, &amp; fratrum tuorum, habentium testimoni 
-      <lb ed="#C" n="37"/>um Jesu, Deum adora Apoc 19. c. 1. In hoc saltem major est 
-      <lb ed="#C" n="38"/>humana &amp; honorabilior, quia filius Dei tantum ipsam ho 
-      <lb ed="#C" n="39"/>noravit, quod divinitati univit. verus enim Deus &amp; veru 
-      <lb ed="#C" n="40"/>homo simul fuit, &amp; est infr. de haer cum Christis. Sicut erge 
-      <lb ed="#C" n="41"/>natura composita dignior &amp; major est omnibus. aliis, sic S 
-      <lb ed="#C" n="42"/>scientia nostra, quia idem judicium de similibus est haben 
-      <lb ed="#C" n="43"/>dum, infra de rescript. inter caeteras Quinimo Theologia spi 
-      <lb ed="#C" n="44"/>ritualis creaturae scientia, civilis vero corporis humanae 
-      <lb ed="#C" n="45"/>canonica potest dici, sicque debet canonica, ut ex praemissi: 
-      <lb ed="#C" n="46"/>patet, ab omnibus quib. appropriatur, &amp; proprie prae cae 
-      <lb ed="#C" n="47"/>teris commendari. Sed nunquid species mulina major 
-      <lb ed="#C" n="48"/>est, &amp; dignior equina &amp; asinina? Et planum est, quod equi 
-      <lb ed="#C" n="49"/>nam theologicae scientiae, asininam civili sapientiae po 
-      <lb ed="#C" n="50"/>teris comparare, nolo concludere, sed considera quid se 
-      <lb ed="#C" n="51"/>quatur, &amp; junge quod no. infra. de clan. despon §. qualiter 
-      pro<lb ed="#C" n="52" break="no"/>hibetur? Sed nunquid Papa major est K Imperatore? Vi¬ 
-      <lb ed="#C" n="53"/>de quod no infr. qui fil. sint legi. §. qualiter, &amp; a quo &amp; infra. de 
-      <lb ed="#C" n="54"/>haer §. qualiter depreheudatur. Quidquid autem dicatur, hae 
-      <lb ed="#C" n="55"/>est veritas, quod distinctae sunt jurisdictiones, quamvis u 
-      <lb ed="#C" n="56"/>na major sit reliqua, &amp; quilibet secundum legem suam ju 
-      <lb ed="#C" n="57"/>dicabit, sed utraque tamen ecclesiasticos canones, sequidie 
-      <lb ed="#C" n="58"/>bet, ut in superiorib. &amp; infr. de const. c. 1. &amp; cnemn taris, &amp; d 
-      <lb ed="#C" n="59"/>hoc tangitur infra. de const. §. qualiter constitutionib. derogetur 
-      <lb ed="#C" n="60"/>Patet ex praedictis, quod tria sunt genera hominum, pe 
-      <lb ed="#C" n="61"/>quae potest trinitas designari. Genus Laicorum assimila¬ 
-      <lb ed="#C" n="62"/>tur patri, propter potentiam: genus Secularium clerico 
-      <lb ed="#C" n="63"/>rum filio, propter fapientiam: genus Religiosorum Spiri 
-      <lb ed="#C" n="64"/>tui sancto, propter benignitatem, seu gratiam. Inhis ge¬ 
-      <lb ed="#C" n="65"/>neribus, scil. laicorum, clericorum secularium, &amp; religio 
-      <lb ed="#C" n="66"/>lorum, est trinitas, sed in sacra concione ecclesiae, &amp; fid¬ 
-      <lb ed="#C" n="67"/>catholica unitas item in personis Patris, &amp; Filii, &amp; Spiri¬ 
-      <lb ed="#C" n="68"/>tussancti Trinitas, sed in essentia &amp; deitate unitas, infra. a 
-      <lb ed="#C" n="69"/>sum. tri .c.inon tamen potest fieri vera comparatio de cre¬ 
-      <lb ed="#C" n="70"/>tura adcreatorem, ut no. inf. tit. I. §. cur dicatur summa, versie 
-      <lb ed="#C" n="71"/>sic patet. 
-    </p>
-            <p xml:id="nbht7y-d1e20-d1e1199">
-               <lb ed="#C" n="72"/>Quis composuit hunc lib Liquet ex superioribus 
-      <lb ed="#C" n="73"/>quod Greg. IX. I &amp; per fratren 
-      <lb ed="#C" n="74"/>seu M. Raymundum paenitentiarum suum, ut in proae 
-      <lb ed="#C" n="75"/>ane prope si sed ille facit cujus authoritate fit, sive bonum 
-      <lb ed="#C" n="76"/>live malum fuit, ff de adm. tut. ita autem §. giscisse inf de sen.e 
-      <lb ed="#C" n="77"/>com mul omnia enim nostra facimus, ex quo a nobis eis 
-      <lb ed="#C" n="78"/>mnis authoritas impartitur, C. de vet. ju. enucle. l. 1. §. omn. 
-      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0021.xml-->
-      <cb ed="#C" n="b"/>
-               <lb ed="#C" n="79"/>bus authoribus. alias incipit, §. servum
-    </p>
-            <p xml:id="nbht7y-d1e20-d1e1223">
-               <lb ed="#C" n="80"/>Quo nomine nuncupetur. Et quidem diversimo 
-      <lb ed="#C" n="81"/>de, potest. n. vocari liber. 
-      Extravagan<lb ed="#C" n="82" break="no"/>tium, quia ea quae extra corpus Decretorum, seu decreta 
-      <lb ed="#C" n="83"/>lium vagabantur, in eo continentur, ut in proemio §. sane, ver 
-      <lb ed="#C" n="84"/>aliquae rero. Vel potest dici Pentatheuenus, qui a in se con 
-      <lb ed="#C" n="85"/>tinet quinque libros, ut mfr.dedeci. eo.c.i Vel Com pilatio no 
-      <lb ed="#C" n="86"/>va, ut patet in si. procemii. Vel Codex Gregorianus, ab au¬ 
-      <lb ed="#C" n="87"/>thore suo, sicut dicitur Codex Justinianus, quia omnis 
-      <lb ed="#C" n="88"/>nostra facimus, &amp;c. ut no supra § proxi in fin quilibet. n. li 
-      <lb ed="#C" n="89"/>ber, codex potest vocari, ff. deleg 3. librorum. comunis tamen 
-      <lb ed="#C" n="90"/>&amp; magis proprie vocatur liber Decretalium, quia quae al 
-      <lb ed="#C" n="91"/>Apostolicis &amp; sanctis patrib. decreta, seu sancita sunt, in ec 
-      <lb ed="#C" n="92"/>continentur, ut in ipso patebit: vel quia major pars ipsius 
-      <lb ed="#C" n="93"/>libri in decretalibu. episto is consistit. Est enim differenti 
-      <lb ed="#C" n="94"/>inter decretales epistolas, ncanones, decreta, constitutio 
-      <lb ed="#C" n="95"/>nes, dogmata, mandata, edicta, sanctiones, &amp; pragmatica 
-      <lb ed="#C" n="96"/>anctiones. Decretalis epistola est, quando Papa ad con 
-      <lb ed="#C" n="97"/>sultationem alicujus respondet: sive solus, infrade rescrip. c. 
-      <lb ed="#C" n="98"/>1. sive de consilio fratrum, infra de elect. bonae me mag. Canon 
-      <lb ed="#C" n="99"/>est, quod in concilio generali, seu provinciali constituitur: 
-      <lb ed="#C" n="100"/>exemplum de generali, infra derescrip. nonnulli exemplum 
-      <lb ed="#C" n="101"/>de provinciali, infra. de fo. cop. c. 1. 2 &amp; 3. Decretum est quod Pa¬ 
-      <lb ed="#C" n="102"/>pa de consilio fratrum, nulla consultatione facta, super a¬ 
-      <lb ed="#C" n="103"/>liqua re statuit, &amp; in rescriptis redegit, exemplum insra. d 
-      <lb ed="#C" n="104"/>his quae fi. a prae la sine cons.ca. &amp; si mebrazo. qui igenerali. Consti 
-      <lb ed="#C" n="105"/>tutio est. quod Papa proprio motu statuit. &amp; in scriptis re 
-      <lb ed="#C" n="106"/>degit, sine consilio fratrum, &amp; nulla consultatione facta. 
-      <lb ed="#C" n="107"/>exemplum, infra de ele c. antepe. &amp; ult. &amp; haec constitutio est 
-      <lb ed="#C" n="108"/>generalis. infra deconsti.c. ult. Sed &amp; specialis fit per episco¬ 
-      <lb ed="#C" n="109"/>pum, infra dema. &amp; obe si quis &amp; C. deloca. &amp; condu. restra. 18 
-      <lb ed="#C" n="110"/>dist. c. ult Dogma consittit in doctrina fidei de conse. dist 5. c. 
-      <lb ed="#C" n="111"/>pen. Mandatum in doctrina de moribus consistit 4.dist. denique 
-      <lb ed="#C" n="112"/>Edictum est, quando nulla paena adjicitur, de conse. dist. 4. 
-      <lb ed="#C" n="113"/>non oportet. Sanctio est, cum adjectione poenae, 17. 4. 4. si quis 
-      <lb ed="#C" n="114"/>Pragmatica sanctio n dicitur illud, quod Imperator de con¬ 
-      <lb ed="#C" n="115"/>silio procerum sanxit, &amp; statuit. C. dedirer. re. I. ult. &amp; deha¬ 
-      <lb ed="#C" n="116"/>infra de rerum perinu c.a.dehis, 25. 42.si quis doginata, consue¬ 
-      <lb ed="#C" n="117"/>vit de hoc notari dist 3. §.. secundum hua &amp; Io. 
-    </p>
-            <p xml:id="nbht7y-d1e20-d1e1309">
-               <lb ed="#C" n="118"/>Quae sit ejus materia Sinctorum patrum prae 
-      <lb ed="#C" n="119"/>cepta, &amp; Decretales 
-      epi<lb ed="#C" n="120" break="no"/>stolae, secundum omnes, sed hoc nihil aliud est dictum, ni 
-      <lb ed="#C" n="121"/>i quod materia huius libri, est ipse liber, Unde subtilius 
-      <lb ed="#C" n="122"/>Materia est fides catholica, ex qua constat fundamentum 
-      <lb ed="#C" n="123"/>ut not. infra iit.i. in prin. Item, quaestiones &amp; dubitatione 
-      <lb ed="#C" n="124"/>ntricatae de novo emergentes, ex quib. constant pariaetes 
-      <lb ed="#C" n="125"/>nujus libri. Item responsiones principum, &amp; statuta san 
-      <lb ed="#C" n="126"/>ctorum patrum, ex quib. constat tectum. Potest etiam di¬ 
-      <lb ed="#C" n="127"/>ci, quod simul collecta haec materia, ponitur in chartis ac 
-      <lb ed="#C" n="128"/>literam, vel in intellectu hominis ad instructionem &amp; in¬ 
-      <lb ed="#C" n="129"/>telligetiam loco sui. Sicut ergo quodlibet aedificium ex trit 
-      <lb ed="#C" n="130"/>consistit, ut not. anfra de lit. contit.v. quae sit ratio. ita liber iste se 
-      <lb ed="#C" n="131"/>effectus istius libri, olo tecto, &amp; parietib sustinetur 
-    </p>
-            <p xml:id="nbht7y-d1e20-d1e1342">
-               <lb ed="#C" n="132"/>Quae utilitas Urinterjustom &amp; inustumaequum 
-      <lb ed="#C" n="133"/>&amp; inicuum sciamus discernere, &amp; ut 
-      <lb ed="#C" n="134"/>honeste vivamus, alterum nonlaedamus, suum unicuiq 
-      <lb ed="#C" n="135"/>tribuamus, ut in proxmio Sadeo, lex proditur 
-      <lb ed="#C" n="136"/>Quae intentio acthoris hretia diecta &amp; spar¬ 
-      <lb ed="#C" n="137"/>sa ad communem, &amp; 
-      <lb ed="#C" n="138"/>maxime studentium utilitatem, in unum volumen recol¬ 
-      <lb ed="#C" n="139"/>ligere, ut in proae § sane &amp; ut hac tantum copilatione univer 
-      <lb ed="#C" n="140"/>sali utantur in judiciis, &amp; in scholis, ut in sin ejusdem proxmi¬ 
-      <lb ed="#C" n="141"/>Quis modus agendi Hoc versu comprehendi 
-      <lb ed="#C" n="142"/>Expositionem 
-      <lb ed="#C" n="143"/>
-               <quote xml:id="nbht7y-d1e20-Qd1e1370">Judex, judicium, clerus sponsalia, crimen 
-      <lb ed="#C" n="144"/>Pars prior officia creat, ecclesiaeque ministros 
-      <lb ed="#C" n="145"/>Altera dat testes, &amp; caeter ajudiciorum 
-      <lb ed="#C" n="146"/>Tertia, de rebus &amp; vita presbyterorum 
-    <!--<p>
-      <lb ed="#C" n="147"/>ADDITIONES. 
-      <lb ed="#C" n="148"/>i Sacrae leges) Addec. clerici, de iud.c. I.de no. op. nun. 
-      <lb ed="#C" n="149"/>K Papa major est) Addec. sol iae, de ma &amp; obe c. novit. de iud 
-      <lb ed="#C" n="150"/>I Gregorius IX.) Adde, quod in Cathedra Pesri non fuit excellen 
-    </p>
-    <p>
-      <lb ed="#C" n="151"/>tior isto secundum lo. An. in prog. deeret. fuit primus qui scripsi 
-      <lb ed="#C" n="152"/>Scryus servorum Dei, secundmAlb insuo bictionario 
-      <lb ed="#C" n="153"/>m Inter decretales epistolas) iddegl.summaea disi 
-      <lb ed="#C" n="154"/>n Pragmatica sanctio Addeglan c. pervenit, 100. dist. glin fin. C. de 
-    </p>
-    <p>
-      <lb ed="#C" n="155"/>diver. rescripi. &amp; in liubemus. C.de sac sanci ccc¬--> 
-      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0022.xml-->
-      <pb ed="#C" n="5"/>
-                  <cb ed="#C" n="a"/>
-                  <lb ed="#C" n="1"/>Nubendi formam dat sponsis quarta, decentem 
-      <lb ed="#C" n="2"/>Ultima de vitijs &amp; poenis tractat eorum 
-      <lb ed="#C" n="3"/>Primus praelatos, &amp; eorum scribit honores. 
-      <lb ed="#C" n="4"/>Alter judicia, lites examina juris 
-      <lb ed="#C" n="5"/>Tertius ecclesiae res, &amp; quae congrua clero 
-      <lb ed="#C" n="6"/>Jura thori quartus dat, conjugiique tenores. 
-      <lb ed="#C" n="7"/>Quintus delicta, poenas, &amp; pondera vocum</quote>
-            </p>
-            <p xml:id="nbht7y-d1e20-d1e1404">
-               <lb ed="#C" n="8"/>Et ita sicut inhibitio copulae conjugalis, usque ad quar 
-      <lb ed="#C" n="9"/>tum gradum, ad exemplum quatuor humorum restricta 
-      <lb ed="#C" n="10"/>est, infra de consang. &amp; affin. non debet, §. prohibitio. dividit Au 
-      <lb ed="#C" n="11"/>thor opus suum in quinque partes, ad similitudinem quinque 
-      <lb ed="#C" n="12"/>sensuum: quos quilibetjudex debet habere. Primus libe 
-      <lb ed="#C" n="13"/>aequiparari potest visui: quia sicut visus inter colores dis 
-      <lb ed="#C" n="14"/>cernit, sic primus liber inter qualitates personarum in eccle 
-      <lb ed="#C" n="15"/>fia creandarum. Huic jungas primam partem prooemii, in qu 
-      <lb ed="#C" n="16"/>tangit creationis hominis qualitatem, &amp; qua frueretur, si 
-      <lb ed="#C" n="17"/>non peccasset, aeternam beatitudinem, ut sic prima pars proo 
-      <lb ed="#C" n="18"/>mii respondeat primae parti totius operis, &amp; eidem sensu 
-      <lb ed="#C" n="19"/>sc. visui, ipsam aequiparans, propter claritatem virtutum, 8 
-      <lb ed="#C" n="20"/>splendorem, quib. primus homo, scil. Adam, repletus fuit 
-      <lb ed="#C" n="21"/>&amp; durat usque ad §. Sed effrenata. Secudus gustui, quia sicu 
-      <lb ed="#C" n="22"/>gustus, discernit inter sapidum &amp; insipidum, sic tractatus 
-      <lb ed="#C" n="23"/>ipsius inter justum &amp; injustum, aequum &amp; iniquum. Huicben 
-      <lb ed="#C" n="24"/>convenit secunda pars prooemii, quae durat usque ad §. Ideo 
-      <lb ed="#C" n="25"/>que lex proditur. in qua tangit hominis a paradiso ejectio 
-      <lb ed="#C" n="26"/>nem, &amp; peccandi pronitatem, &amp; peccatorum coacervatio 
-      <lb ed="#C" n="27"/>nem, ab eodem vitio, sc. concupiscentia derivatam, &amp; pecc¬ 
-      <lb ed="#C" n="28"/>torum temperantiam, &amp; refrenationem, sc justitiam. haec e 
-      <lb ed="#C" n="29"/>nim aequiparatur gustui, quia gustus gulosus a concupisci 
-      <lb ed="#C" n="30"/>tia processit, &amp; justitia inter bona opera sapida, &amp; mala in 
-      <lb ed="#C" n="31"/>sipida, sicut gustus inter cibaria discernere consuevit. Ter¬ 
-      <lb ed="#C" n="32"/>tius auditui, quia sicut auditus inter voces &amp; sermone 
-      <lb ed="#C" n="33"/>discernit, sic tractatus ipsius, inter res temporales, quasi v 
-      <lb ed="#C" n="34"/>ces reputans. Vitimo tractat de spiritualibus, ad designan 
-      <lb ed="#C" n="35"/>dum, quod sic transeamus per bona temporalia, ut no 
-      <lb ed="#C" n="36"/>amittamus aeterna. Huicbene congruit tertia pars pro 
-      <lb ed="#C" n="37"/>oemii, quae durat usque ad §. Sane in qua ponit promulgatio 
-      <lb ed="#C" n="38"/>nis juris causam, sive occasionem, &amp; aequiparatur auditui, ui 
-      <lb ed="#C" n="39"/>ipsum jus audiamus, &amp; sic retineamus, quod honeste viva 
-      <lb ed="#C" n="40"/>mus, &amp;c. Quartus tactui, quia sicut tactus discernit inte 
-      <lb ed="#C" n="41"/>dura &amp; mollia, aspera &amp; lenia, sic tractatus ipsius inter mi 
-      <lb ed="#C" n="42"/>trimonia illicita &amp; licita, improbanda &amp; ap probanda. Huic 
-      <lb ed="#C" n="43"/>bene convenit quarta pars prooemii, quae durat usque ad 
-      <lb ed="#C" n="44"/>Volentes extendes. ubi antiphorizando ponit suam intentione 
-      <lb ed="#C" n="45"/>in cujus principio reddit nos dociles, quia gaudent brev 
-      <lb ed="#C" n="46"/>rate &amp; claritate moderni, &amp; qui compendiose veritatem do 
-      <lb ed="#C" n="47"/>cet, docilem reddit. Item reddit nos benevolos, ibi, Ad commu¬ 
-      <lb ed="#C" n="48"/>nem &amp; maxime studentium utilitatem. Item attentos, ubi dicit 
-      <lb ed="#C" n="49"/>aliquae vero vagabantur. &amp; ibi, Adijcientes constitutiones nostras, 
-      <lb ed="#C" n="50"/>&amp;c. in fin. proum. hoc satis convenienter aequiparatur tactu 
-      <lb ed="#C" n="51"/>ubi confusionem &amp; contrarietatem, tanqua duram &amp; asper 
-      <lb ed="#C" n="52"/>removeamus, &amp; brevitatem, &amp; utilitatem tanquam mollem &amp; 
-      <lb ed="#C" n="53"/>lenem retineamus. Quintus odoratui, quia sicut odoratu 
-      <lb ed="#C" n="54"/>foetore sentit &amp; fugit, sic tractatus ipsius crimina detesta 
-      <lb ed="#C" n="55"/>tur &amp; punit. Huic bene jungitur quinta &amp; ultima pars pro 
-      <lb ed="#C" n="56"/>remii, in qua facit suam conclusionem, per quam confirmatu 
-      <lb ed="#C" n="57"/>praesens compilatio, &amp; alia fieri prohibetur. hoc enim a 
-      <lb ed="#C" n="58"/>quiparatur odoratui, ut jura authoritate sedis Apostoli¬ 
-      <lb ed="#C" n="59"/>cae facta, tanquam odorifera approbemus, alia vero, cum 
-      <lb ed="#C" n="60"/>clerici simus, tanquam stercora, &amp; foetida fugiamus, infra n 
-      <lb ed="#C" n="61"/>cle. vel mona super Specu. &amp; sic divisio prooemii divisioni to 
-      <lb ed="#C" n="62"/>tius operis respondet &amp; concordat. In hoc autem opere hum 
-      <lb ed="#C" n="63"/>modum specialem praeter communem jam notatum, quen 
-      <lb ed="#C" n="64"/>&amp; prosequimur, tenebimus. Singulos titulos summatim 
-      <lb ed="#C" n="65"/>discutiemus, primo continuando &amp; ponendo articulo: 
-      <lb ed="#C" n="66"/>de quibus in titulo tractare intendimus, quos postea no 
-      <lb ed="#C" n="67"/>minatim, &amp; per eadem verba in eod. tit. repetendo, &amp; di 
-      <lb ed="#C" n="68"/>ipsis faciendo paragraphos, diffiniemus. Determinante 
-      <lb ed="#C" n="69"/>diversas materias, &amp; solvendo jura contraria, ac concor¬ 
-      <lb ed="#C" n="70"/>dando diversas doctorum sententias, nec non quaestioni 
-      <lb ed="#C" n="71"/>difficiles enodando. per versus haec omnia, &amp; aliquand 
-      <lb ed="#C" n="72"/>per supparagraphos dividemus. In quibusdam etiam po 
-      <lb ed="#C" n="73"/>nemus rubricellas subcertis titulis, &amp; in eisdem rubricel 
-      <lb ed="#C" n="74"/>lis eundem modum tenebimus, ubi remissiones, quas fre 
-      <lb ed="#C" n="75"/>quenter faciemus, de summa unius tituli ad alium, vel d¬ 
-      <lb ed="#C" n="76"/>paragrapho ad paragraphum, vel de versu ad versum, vel de 
-      <lb ed="#C" n="77"/>versu ad paragraphu, vel e converso, ut sit facilius invenire 
-    </p>
-            <p xml:id="nbht7y-d1e20-d1e1558">
-      <!--Henricus_a_Segusio_cardinalis_Hostiensis-0022.xml-->
-               <cb ed="#C" n="b"/>
-               <lb ed="#C" n="78"/>Forma paragraphi talis erit S. Forma. veris 
-      <lb ed="#C" n="79"/>talis erit, versic. 
-      Formave<lb ed="#C" n="80" break="no"/>ro supparagraphi talis erit, infra vers. Alias etiam multa 
-      <lb ed="#C" n="81"/>posui differentias, quae non possunt ita de facili exprimi, 
-      <lb ed="#C" n="82"/>sicut oculata fide veri, &amp; notatur singulariter infra de don 
-      <lb ed="#C" n="83"/>§. qualiter revocetur. Et si aliqua ex his scriptis omiserim 
-      <lb ed="#C" n="84"/>charissime Lector, te deprecor, ut affectum meum cogi¬ 
-      <lb ed="#C" n="85"/>tans, non derideas me, nec contra me virus linguae effun¬ 
-      <lb ed="#C" n="86"/>das, neque de bono opere lapides: sed potius, si citius &amp; fa 
-      <lb ed="#C" n="87"/>cilius proficere desideras, in his in quibus tibi vis videbi¬ 
-      <lb ed="#C" n="88"/>tur facienda, scriptoris negligentiam suppleas &amp; defectum 
-      <lb ed="#C" n="89"/>Ores etiam pro me, qui circa opus istud ad honorem Dei 
-      <lb ed="#C" n="90"/>&amp; Dominae nostrae matris suae, &amp; omnium Sanctorum, a¬ 
-      <lb ed="#C" n="91"/>itilitatem Reipublicae, diutius insudavi, &amp; juxta vires 
-      <lb ed="#C" n="92"/>ipsum non minus fideliter, quam utiliter compilav
-    </p>
-            <p xml:id="nbht7y-d1e20-d1e1597">
-               <lb ed="#C" n="93"/>Cui parti Philosophiae supponatur. Ethicae, ic 
-      <lb ed="#C" n="94"/>est, Morali, quia tractat 
-      <lb ed="#C" n="95"/>de moribus, sicut &amp; caeteri libri Juris. C. de secund. nupt. l. 1. 
-      <lb ed="#C" n="96"/>infra de vi. &amp; hone. cle. ut clericorum mores. &amp; per totum. &amp; ni 
-      <lb ed="#C" n="97"/>hiloninus potest supponi rationali, quia docet ornate &amp; 
-      <lb ed="#C" n="98"/>ordinate loqui. C. depost. I quisquis ff. de orig jur, l. 2. §. post hos 
-      <lb ed="#C" n="99"/>unde &amp; legem ratio commendat, ut dist.i. consuetudo. Inst. de 
-      <lb ed="#C" n="100"/>jur nat gent. &amp; civ. §. quod vero naturalis ratio &amp; docet ratio 
-      <lb ed="#C" n="101"/>nabiliter ordinare judicium, ut apparet, infr. de lit. contes 
-      <lb ed="#C" n="102"/>c. unico. &amp; de probat. quoniam contra falsam. Sed videtur, quod 
-      <lb ed="#C" n="103"/>naturali supponatur, quia tractat de naturalibus. ff. desta 
-      <lb ed="#C" n="104"/>ho. quae in utero. ff. si pars haered. peta. antiqui. infr. de frigi. quoc 
-      <lb ed="#C" n="105"/>sedem. &amp;c. fraternitatis.  Sed hoc ultimum incidens est, i 
-      <lb ed="#C" n="106"/>duo vero prima principaliter insunt huic scientiae civil 
-      <lb ed="#C" n="107"/>quare haec scientia potest dici mista, quia partim rationa¬ 
-      <lb ed="#C" n="108"/>lis, vel partim moralis. nam &amp; civilis scientia videtur sub si 
-      <lb ed="#C" n="109"/>continere Rhetoricam, quae rationalis est, unde Tullius in 
-      <lb ed="#C" n="110"/>prima Rhetorica post procoemium, Civilis quaedam ratio est, quae 
-      <lb ed="#C" n="111"/>multis &amp; magnis ex rebus constat, ejus quaedam magni 
-      <lb ed="#C" n="112"/>&amp; ampla pars est artificiosa eloquentia, quam Rhetorici 
-      <lb ed="#C" n="113"/>vocant, &amp;c. &amp; infra quare hanc oratoriam facultatem in ec 
-      <lb ed="#C" n="114"/>genere ponemus, ut eam civilis scientiae partem esse dica 
-      <lb ed="#C" n="115"/>mus. sed &amp; alias sub se continet. unde Arist. in. Ethicorum 
-      <lb ed="#C" n="116"/>Videbitur autem utique &amp; principalissime, &amp; maxime archi¬ 
-      <lb ed="#C" n="117"/>tectonice, id est principali operatione esse, subaudi ille fi 
-      <lb ed="#C" n="118"/>nis, de quo suprâ praemisit, vel utique &amp; civilis apparet. qua 
-      <lb ed="#C" n="119"/>enim debitum esse disciplinarum in civitatibus, id est quae 
-      <lb ed="#C" n="120"/>disciplinae debeant ibi esse, &amp; quales unumquemque addisce¬ 
-      <lb ed="#C" n="121"/>re, subaudi, quia talis esset bonus miles, qui non esset bo 
-      <lb ed="#C" n="122"/>nus pictor, vel bonus clericus, vel econverso. argumento 
-      <lb ed="#C" n="123"/>infr. de magistris. super spe. &amp; usquequo, id est propter quid 
-      <lb ed="#C" n="124"/>vel usque ad quod tempus. ut in d .c. super spe. &amp; in proae ff. §. pr 
-      <lb ed="#C" n="125"/>rtsponsis. haec sc. civilis, praeordinat. Videamus autem &amp; pre 
-      <lb ed="#C" n="126"/>tiosissimas virtutum, sc. scientias sub hac existentes, puta 
-      <lb ed="#C" n="127"/>militarem, quae sc. tractat de militia. ff. de re mili per totum. 
-      <lb ed="#C" n="128"/>Oeconomicam, quae sc. tractat de dispositione domus. ff¬ 
-      <lb ed="#C" n="129"/>de sup. leg. per torum. Rhetoricam, utente vero hac, lege ci 
-      <lb ed="#C" n="130"/>vili, reliquis practicis, id est operativis, disciplinarum scil 
-      <lb ed="#C" n="131"/>scientiarum, que d primae tres subsunt. Sed &amp; aliis utitur 
-      <lb ed="#C" n="132"/>quamvis non subsint, amplius autem legem ponentem qui¬ 
-      <lb ed="#C" n="133"/>oportet operari, &amp; a quibus abstinere, hujus scilicet scien 
-      <lb ed="#C" n="134"/>tiae finis complectitur utique eos, qui aliarum scilicet sci 
-      <lb ed="#C" n="135"/>entiarum, que. d. finis hujus scientiae complectitur fines o 
-      <lb ed="#C" n="136"/>mnium aliarum, quapropter utique erit humanum bo¬ 
-      <lb ed="#C" n="137"/>num. verum dicit Arist. &amp; summum. ut 12. q. 2. cum devotis¬ 
-      <lb ed="#C" n="138"/>sunam. sic ista complecti videtur omnem Philosophiam 
-      <lb ed="#C" n="139"/>vel quo ad suppositum, vel quo ad usum, &amp; sic non vide 
-      <lb ed="#C" n="140"/>tur quaerendum cui parti Philosophiae, sed cui scientiae 
-      <lb ed="#C" n="141"/>tota Philosophia supponatur. &amp; potest respondere, quo¬ 
-      <lb ed="#C" n="142"/>Canonicae, quae omnia comprehendit, ut notat. supra cod. 9 
-      <lb ed="#C" n="143"/>unde habuit originem, vers. sic tempore gratiae. &amp; seq 
-    </p>
-            <p xml:id="nbht7y-d1e20-d1e1710">
-               <lb ed="#C" n="144"/>Quis finis. Hic notandum quod quinque sunt fines 
-      <lb ed="#C" n="145"/>quare homines legunt. Primus, ut sci 
-      <lb ed="#C" n="146"/>antur, &amp; ad hunc tendere videntur Rhetorici. de hoc, ff. di 
-      <lb ed="#C" n="147"/>orig. jur. I.3. §. post hos, in fin hic finis est vana gloria, &amp; potes 
-      <lb ed="#C" n="148"/>aequiparari visui, quia tales volunt vocari Rabbi ab homi¬ 
-      <lb ed="#C" n="149"/>nibus, &amp; videri. Secundus, ut aedificentur. &amp; ad huric &amp; 
-      <lb ed="#C" n="150"/>quantum tendunt Theologi, &amp; Canonistae boni &amp; iusti. f 
-      <lb ed="#C" n="151"/>ae just. &amp; jur. I.i. Inst. de just. &amp; ju in pri. C. de legi leges, ff. de var 
-    <!--</p>
-    <p>
-      <lb ed="#C" n="152"/>ADDITIO. 
-      <lb ed="#C" n="153"/>Et civili) Adde an scientia civilis sit scientia, vel ars, vide glo. in 
-    </p>
-    <p>
-      <lb ed="#C" n="154"/>§. qui ulterius, in I. constitutione Digestorum--> 
-        <pb ed="#C" n="6"/>
-               <cb ed="#C" n="a"/>
-               <lb ed="#C" n="1"/>&amp; ext. cog. l.x. §. est quidem, infra devi. &amp; hon. cle pertotum. hic 
-        <lb ed="#C" n="2"/>finis est prudentia, &amp; aequiparatur gustui, quia gustare 8 
-        <lb ed="#C" n="3"/>videre volunt quam suavis est Dominus. &amp; sic vivere, quo 
-        <lb ed="#C" n="4"/>se ipsius dulcedine valeant iaturari. I ertius, ut iciant. 8 
-        <lb ed="#C" n="5"/>id nunc tendere videntur Dialectici nimis in arte illa im 
-        <lb ed="#C" n="6"/>morantes, &amp; accedit, ff. dendeic. ub. apud sul. &amp; deori. ju. I. 2 
-        <lb ed="#C" n="7"/>§. Servius. hic tinis eit superbia, &amp; aequiparatur auditui, qui¬ 
-        <lb ed="#C" n="8"/>plus audiunt, quam proficiunt, &amp; cum infiati sive imbuti 
-        <lb ed="#C" n="9"/>fuerint, alios argumenta iua ignorates deipiciunt, &amp; ipio: 
-        <lb ed="#C" n="10"/>reputant nihil icire. Quartus, ut lucrentur, &amp; ad nunc ten¬ 
-        <lb ed="#C" n="11"/>sere videntur Physici &amp; Legiitae, nolentes in paupertate 
-        <lb ed="#C" n="12"/>rivere, in auth. de haere. &amp; fal. in in. cola. 1. non vere philoio¬ 
-        <lb ed="#C" n="13"/>phantes, quia si tales essent, pecuniam contemnerent, f. a 
-        <lb ed="#C" n="14"/>rac. mu. in honoribus, §. Philosophis. hic nnis eit avaritia, &amp; ae¬ 
-        <lb ed="#C" n="15"/>quiparatur tactui, quia ad hoc semper tendit manum, nec 
-        <lb ed="#C" n="16"/>ei totus mundus est obolus. 14. quaestio 5. quid dicam, iem 
-        <lb ed="#C" n="17"/>per redditus, computat 47. dist. sicuthi Quintus, ut aedincet 
-        <lb ed="#C" n="18"/>ut magiitri boni, qui non legunt ad laudem numanam 
-        <lb ed="#C" n="19"/>sed Dei, &amp; ad initructionem iuam, &amp; aliorum, qui praedi 
-        <lb ed="#C" n="20"/>cant verbum Dei, infra de aeta &amp; qualita, cum sit ars artium 
-        <lb ed="#C" n="21"/>&amp; in lib. Autnenticorum quasi in omnibus titulis invenies 
-        <lb ed="#C" n="22"/>in in. quae igitur placuerunt, &amp;c. hic finis est charitas, &amp; ae¬ 
-        <lb ed="#C" n="23"/>quiparatur odoratui, quia de talibus redolet bona tama 
-        <lb ed="#C" n="24"/>infra de sacra. unc. c. unico, S. ad exhibendum. Sic principium 
-        <lb ed="#C" n="25"/>libri, sive prooemium, &amp; medium, icilicet divisio totius o 
-        <lb ed="#C" n="26"/>peris, nec non &amp; finis aequiparantur quinque iensibus, con 
-        <lb ed="#C" n="27"/>cordant in numero partium. sed finaliter, dante Domino 
-        <lb ed="#C" n="28"/>omnes vivemus illa unione, de qua habes infra de sum.trm 
-        <lb ed="#C" n="29"/>cap. ult. §. cum ergo veritas. Finis autem noster sit, ut hac sum 
-        <lb ed="#C" n="30"/>ma completa, &amp; diligenter ac ndeliter compilata, lecta, au 
-        <lb ed="#C" n="31"/>sita, intellecta, intentione reteta atque servata, iic nosipio 
-        <lb ed="#C" n="32"/>&amp; nobis commissos regamus &amp; initruamus, &amp; canonici 
-        <lb ed="#C" n="33"/>negotia, quae spiritualia &amp; temporalia iunt, taliter pertra 
-        <lb ed="#C" n="34"/>temus indefesse continuando, infra deaetat. &amp; qualit. intel 
-        <lb ed="#C" n="35"/>leximus. in fin. ut cum in hoc iaeculo iobriae, juite, pieque vi¬ 
-        <lb ed="#C" n="36"/>xerimus, valeamus ad regna coelestia pervenire, &amp; sic ve 
-        <lb ed="#C" n="37"/>ram unitatem &amp; concordiam adipisci; ipso, in cujus no 
-        <lb ed="#C" n="38"/>mine incoepimus, praestante, qui in Trinitate perfecta vi 
-        <lb ed="#C" n="39"/>vit &amp; regnat Deus, per omnia saecula saeculorum.
-    </p>
-         </div>
-      </body>
-   </text>
+            <p>
+            <lb ed="#C" n="154"/>§. qui ulterius, in I. constitutione Digestorum--> 
+          <pb ed="#C" n="6"/>
+          <cb ed="#C" n="a"/>
+          <lb ed="#C" n="1"/>&amp; ext. cog. l.x. §. est quidem, infra devi. &amp; hon. cle pertotum. hic 
+          <lb ed="#C" n="2"/>finis est prudentia, &amp; aequiparatur gustui, quia gustare 8 
+          <lb ed="#C" n="3"/>videre volunt quam suavis est Dominus. &amp; sic vivere, quo 
+          <lb ed="#C" n="4"/>se ipsius dulcedine valeant iaturari. I ertius, ut iciant. 8 
+          <lb ed="#C" n="5"/>id nunc tendere videntur Dialectici nimis in arte illa 
+          im<lb ed="#C" n="6" break="no"/>morantes, &amp; accedit, ff. dendeic. ub. apud sul. &amp; deori. ju. I. 2 
+          <lb ed="#C" n="7"/>§. Servius. hic tinis eit superbia, &amp; aequiparatur auditui, 
+          qui<lb ed="#C" n="8" break="no"/>plus audiunt, quam proficiunt, &amp; cum infiati sive imbuti 
+          <lb ed="#C" n="9"/>fuerint, alios argumenta iua ignorates deipiciunt, &amp; ipio: 
+          <lb ed="#C" n="10"/>reputant nihil icire. Quartus, ut lucrentur, &amp; ad nunc 
+          ten<lb ed="#C" n="11" break="no"/>sere videntur Physici &amp; Legiitae, nolentes in paupertate 
+          <lb ed="#C" n="12"/>rivere, in auth. de haere. &amp; fal. in in. cola. 1. non vere 
+          philoio<lb ed="#C" n="13" break="no"/>phantes, quia si tales essent, pecuniam contemnerent, f. a 
+          <lb ed="#C" n="14"/>rac. mu. in honoribus, §. Philosophis. hic nnis eit avaritia, &amp; 
+          ae<lb ed="#C" n="15" break="no"/>quiparatur tactui, quia ad hoc semper tendit manum, nec 
+          <lb ed="#C" n="16"/>ei totus mundus est obolus. 14. quaestio 5. quid dicam, iem 
+          <lb ed="#C" n="17"/>per redditus, computat 47. dist. sicuthi Quintus, ut aedincet 
+          <lb ed="#C" n="18"/>ut magiitri boni, qui non legunt ad laudem numanam 
+          <lb ed="#C" n="19"/>sed Dei, &amp; ad initructionem iuam, &amp; aliorum, qui 
+          praedi<lb ed="#C" n="20" break="no"/>cant verbum Dei, infra de aeta &amp; qualita, cum sit ars artium 
+          <lb ed="#C" n="21"/>&amp; in lib. Autenticorum quasi in omnibus titulis invenies 
+          <lb ed="#C" n="22"/>in in. quae igitur placuerunt, &amp;c. hic finis est charitas, &amp; 
+          ae<lb ed="#C" n="23" break="no"/>quiparatur odoratui, quia de talibus redolet bona tama 
+          <lb ed="#C" n="24"/>infra de sacra. unc. c. unico, S. ad exhibendum. Sic principium 
+          <lb ed="#C" n="25"/>libri, sive prooemium, &amp; medium, icilicet divisio totius 
+          o<lb ed="#C" n="26" break="no"/>peris, nec non &amp; finis aequiparantur quinque iensibus, 
+          con<lb ed="#C" n="27" break="no"/>cordant in numero partium. sed finaliter, dante Domino 
+          <lb ed="#C" n="28"/>omnes vivemus illa unione, de qua habes infra de sum.trm 
+          <lb ed="#C" n="29"/>cap. ult. §. cum ergo veritas. Finis autem noster sit, ut hac 
+          sum<lb ed="#C" n="30" break="no"/>ma completa, &amp; diligenter ac ndeliter compilata, lecta, au 
+          <lb ed="#C" n="31"/>sita, intellecta, intentione reteta atque servata, iic nosipio 
+          <lb ed="#C" n="32"/>&amp; nobis commissos regamus &amp; initruamus, &amp; canonici 
+          <lb ed="#C" n="33"/>negotia, quae spiritualia &amp; temporalia iunt, taliter pertra 
+          <lb ed="#C" n="34"/>temus indefesse continuando, infra deaetat. &amp; qualit. 
+          intel<lb ed="#C" n="35" break="no"/>leximus. in fin. ut cum in hoc iaeculo iobriae, juite, pieque 
+          vi<lb ed="#C" n="36" break="no"/>xerimus, valeamus ad regna coelestia pervenire, &amp; sic 
+          ve<lb ed="#C" n="37" break="no"/>ram unitatem &amp; concordiam adipisci; ipso, in cujus 
+          no<lb ed="#C" n="38" break="no"/>mine incoepimus, praestante, qui in Trinitate perfecta 
+          vi<lb ed="#C" n="39" break="no"/>vit &amp; regnat Deus, per omnia saecula saeculorum.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>
